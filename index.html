@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Mock Test - UPSC & Odisha PCS</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📝</text></svg>">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Animated Background Particles -->
+    <div class="particles" id="particles"></div>
+
+    <!-- ===== LANDING PAGE ===== -->
+    <div id="landing-page" class="page active">
+        <header class="hero-header">
+            <div class="logo-container">
+                <div class="logo-icon">
+                    <span class="logo-emoji">🏛️</span>
+                </div>
+                <h1 class="site-title">
+                    <span class="title-gradient">Daily Mock Test</span>
+                </h1>
+                <p class="site-subtitle">UPSC & Odisha State PCS Preparation</p>
+            </div>
+        </header>
+
+        <main class="landing-content">
+            <div class="hero-card glass-card">
+                <div class="today-badge">
+                    <span class="pulse-dot"></span>
+                    <span id="today-date">Today's Test</span>
+                </div>
+                <h2 class="hero-heading">Ready to Challenge Yourself?</h2>
+                <p class="hero-description">
+                    New 50-question test every day covering <strong>Indian History</strong>, <strong>Geography</strong>,
+                    <strong>Polity</strong>, <strong>Economy</strong>, <strong>Science</strong>, <strong>Odisha GK</strong> & more.
+                </p>
+
+                <div class="stats-row">
+                    <div class="stat-item">
+                        <div class="stat-icon">📋</div>
+                        <div class="stat-value">50</div>
+                        <div class="stat-label">Questions</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-icon">⏱️</div>
+                        <div class="stat-value">60</div>
+                        <div class="stat-label">Minutes</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-icon">📊</div>
+                        <div class="stat-value">100</div>
+                        <div class="stat-label">Max Marks</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-icon">⚡</div>
+                        <div class="stat-value" id="test-number">-</div>
+                        <div class="stat-label">Test No.</div>
+                    </div>
+                </div>
+
+                <div class="exam-tags">
+                    <span class="tag">UPSC Prelims</span>
+                    <span class="tag">OPSC OAS</span>
+                    <span class="tag">Odisha PCS</span>
+                    <span class="tag">General Studies</span>
+                    <span class="tag">Current Affairs</span>
+                </div>
+
+                <button id="start-test-btn" class="btn-primary btn-glow" onclick="startTest()">
+                    <span class="btn-icon">🚀</span>
+                    <span>Start Today's Test</span>
+                    <span class="btn-arrow">→</span>
+                </button>
+
+                <div class="test-instructions">
+                    <h3>📌 Instructions</h3>
+                    <ul>
+                        <li>Each question carries <strong>2 marks</strong></li>
+                        <li><strong>No negative marking</strong> - attempt all questions!</li>
+                        <li>Timer starts when you begin the test</li>
+                        <li>You can navigate between questions freely</li>
+                        <li>Test auto-submits when time runs out</li>
+                        <li>New test available every day at <strong>12:00 AM</strong></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="features-grid">
+                <div class="feature-card glass-card">
+                    <div class="feature-icon">📅</div>
+                    <h3>Daily Fresh Tests</h3>
+                    <p>New set of 50 questions every day, auto-generated from a massive question bank</p>
+                </div>
+                <div class="feature-card glass-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Exam Focused</h3>
+                    <p>Questions aligned with UPSC & Odisha PCS exam patterns and syllabus</p>
+                </div>
+                <div class="feature-card glass-card">
+                    <div class="feature-icon">📊</div>
+                    <h3>Instant Results</h3>
+                    <p>Detailed scorecard with correct answers and explanations after submission</p>
+                </div>
+                <div class="feature-card glass-card">
+                    <div class="feature-icon">🔓</div>
+                    <h3>100% Free</h3>
+                    <p>No login, no signup, no fees. Just open and start practicing!</p>
+                </div>
+            </div>
+        </main>
+
+        <footer class="site-footer">
+            <p>Made with ❤️ for UPSC & Odisha PCS Aspirants | New test daily at midnight</p>
+        </footer>
+    </div>
+
+    <!-- ===== TEST PAGE ===== -->
+    <div id="test-page" class="page">
+        <div class="test-header">
+            <div class="test-header-left">
+                <h2 class="test-title">📝 <span id="test-title-text">Daily Mock Test</span></h2>
+                <div class="question-counter">
+                    Question <span id="current-q-num">1</span> of <span id="total-q-num">50</span>
+                </div>
+            </div>
+            <div class="test-header-right">
+                <div class="timer-box" id="timer-box">
+                    <span class="timer-icon">⏱️</span>
+                    <span id="timer-display">60:00</span>
+                </div>
+                <button class="btn-submit-top" onclick="confirmSubmit()">Submit Test</button>
+            </div>
+        </div>
+
+        <div class="test-body">
+            <!-- Question Navigation Sidebar -->
+            <div class="question-nav-sidebar" id="question-nav">
+                <h3>Question Palette</h3>
+                <div class="nav-legend">
+                    <span class="legend-item"><span class="legend-dot answered"></span> Answered</span>
+                    <span class="legend-item"><span class="legend-dot not-answered"></span> Not Answered</span>
+                    <span class="legend-item"><span class="legend-dot current"></span> Current</span>
+                </div>
+                <div class="question-grid" id="question-grid">
+                    <!-- Generated dynamically -->
+                </div>
+            </div>
+
+            <!-- Question Area -->
+            <div class="question-area">
+                <div class="question-card glass-card">
+                    <div class="question-category" id="question-category">General Studies</div>
+                    <div class="question-text" id="question-text">Loading question...</div>
+                    <div class="options-list" id="options-list">
+                        <!-- Options generated dynamically -->
+                    </div>
+                </div>
+
+                <div class="question-actions">
+                    <button class="btn-secondary" id="prev-btn" onclick="prevQuestion()">
+                        ← Previous
+                    </button>
+                    <button class="btn-clear" onclick="clearAnswer()">Clear Answer</button>
+                    <button class="btn-secondary" id="next-btn" onclick="nextQuestion()">
+                        Next →
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Nav Toggle -->
+        <button class="mobile-nav-toggle" id="mobile-nav-toggle" onclick="toggleMobileNav()">
+            📋 Question Palette
+        </button>
+    </div>
+
+    <!-- ===== RESULT PAGE ===== -->
+    <div id="result-page" class="page">
+        <div class="result-container">
+            <div class="result-hero glass-card">
+                <div class="result-emoji" id="result-emoji">🎉</div>
+                <h2 class="result-title">Test Completed!</h2>
+                <div class="score-circle" id="score-circle">
+                    <svg viewBox="0 0 120 120">
+                        <circle class="score-bg" cx="60" cy="60" r="54"></circle>
+                        <circle class="score-fill" id="score-fill" cx="60" cy="60" r="54"></circle>
+                    </svg>
+                    <div class="score-text">
+                        <span class="score-value" id="score-value">0</span>
+                        <span class="score-total">/ 100</span>
+                    </div>
+                </div>
+                <div class="result-message" id="result-message">Great effort!</div>
+            </div>
+
+            <div class="result-stats">
+                <div class="result-stat-card glass-card correct">
+                    <div class="result-stat-icon">✅</div>
+                    <div class="result-stat-value" id="correct-count">0</div>
+                    <div class="result-stat-label">Correct</div>
+                </div>
+                <div class="result-stat-card glass-card wrong">
+                    <div class="result-stat-icon">❌</div>
+                    <div class="result-stat-value" id="wrong-count">0</div>
+                    <div class="result-stat-label">Wrong</div>
+                </div>
+                <div class="result-stat-card glass-card skipped">
+                    <div class="result-stat-icon">⏭️</div>
+                    <div class="result-stat-value" id="skipped-count">0</div>
+                    <div class="result-stat-label">Skipped</div>
+                </div>
+                <div class="result-stat-card glass-card time-taken">
+                    <div class="result-stat-icon">⏱️</div>
+                    <div class="result-stat-value" id="time-taken">0:00</div>
+                    <div class="result-stat-label">Time Taken</div>
+                </div>
+            </div>
+
+            <div class="result-category-breakdown glass-card">
+                <h3>📊 Category-wise Performance</h3>
+                <div id="category-breakdown">
+                    <!-- Generated dynamically -->
+                </div>
+            </div>
+
+            <div class="result-actions">
+                <button class="btn-primary" onclick="showReview()">
+                    📖 Review Answers
+                </button>
+                <button class="btn-secondary" onclick="goHome()">
+                    🏠 Back to Home
+                </button>
+            </div>
+
+            <!-- Answer Review Section -->
+            <div id="review-section" class="review-section" style="display:none;">
+                <h3 class="review-title">📖 Detailed Answer Review</h3>
+                <div id="review-list">
+                    <!-- Generated dynamically -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Confirmation Modal -->
+    <div class="modal-overlay" id="submit-modal" style="display:none;">
+        <div class="modal glass-card">
+            <div class="modal-icon">⚠️</div>
+            <h3>Submit Test?</h3>
+            <p id="modal-message">Are you sure you want to submit?</p>
+            <div class="modal-actions">
+                <button class="btn-secondary" onclick="closeModal()">Continue Test</button>
+                <button class="btn-primary btn-danger" onclick="submitTest()">Submit Now</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/questions.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
