@@ -1,7 +1,8 @@
 /**
  * Daily Mock Test Application
  * Features:
- * - Daily auto-rotating 50-question tests using date-based seeding
+ * - Dual exam support: UPSC Prelims & Odisha Civil Services (OCS)
+ * - Daily auto-rotating 60-question tests using date-based seeding
  * - 60-minute countdown timer
  * - Question navigation palette
  * - Detailed results with category breakdown
@@ -18,12 +19,27 @@ let timeRemaining = 60 * 60; // 60 minutes in seconds
 let testStartTime = null;
 let testEndTime = null;
 let testSubmitted = false;
+let currentExamType = 'upsc'; // 'upsc' or 'ocs'
+
+// ===== Exam Config =====
+const EXAM_CONFIG = {
+    upsc: {
+        name: 'UPSC Prelims',
+        seedOffset: 0,
+        questionCount: 60
+    },
+    ocs: {
+        name: 'Odisha Civil Services',
+        seedOffset: 7919, // Different prime offset for different question set
+        questionCount: 60
+    }
+};
 
 // ===== Initialize App =====
 document.addEventListener('DOMContentLoaded', () => {
     createParticles();
     setTodayDate();
-    generateDailyTest();
+    setTestNumbers();
 });
 
 // ===== Animated Background Particles =====
@@ -52,6 +68,17 @@ function setTodayDate() {
     document.getElementById('today-date').textContent = today.toLocaleDateString('en-IN', options);
 }
 
+// ===== Set Test Numbers on Landing Page =====
+function setTestNumbers() {
+    const startDate = new Date('2024-01-01');
+    const today = new Date();
+    const daysDiff = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
+    const testNumber = daysDiff + 1;
+
+    document.getElementById('upsc-test-number').textContent = testNumber;
+    document.getElementById('ocs-test-number').textContent = testNumber;
+}
+
 // ===== Daily Test Generation (Date-Seeded) =====
 function getDaySeed() {
     const today = new Date();
@@ -73,34 +100,32 @@ function seededRandom(seed) {
     };
 }
 
-function generateDailyTest() {
-    const seed = getDaySeed();
+function generateDailyTest(examType) {
+    const config = EXAM_CONFIG[examType];
+    const seed = getDaySeed() + config.seedOffset;
     const rng = seededRandom(seed);
 
-    // Calculate test number based on days since a start date
-    const startDate = new Date('2024-01-01');
-    const today = new Date();
-    const daysDiff = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
-    const testNumber = daysDiff + 1;
-    document.getElementById('test-number').textContent = testNumber;
-
-    // Shuffle question bank using seeded random and pick 50
+    // Shuffle question bank using seeded random and pick questions
     const shuffled = [...QUESTION_BANK];
     for (let i = shuffled.length - 1; i > 0; i--) {
         const j = Math.floor(rng() * (i + 1));
         [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
     }
 
-    currentQuestions = shuffled.slice(0, 50);
+    currentQuestions = shuffled.slice(0, config.questionCount);
 }
 
 // ===== Start Test =====
-function startTest() {
+function startTest(examType) {
+    currentExamType = examType;
     testSubmitted = false;
     userAnswers = {};
     currentQuestionIndex = 0;
     timeRemaining = 60 * 60;
     testStartTime = new Date();
+
+    // Generate questions for this exam type
+    generateDailyTest(examType);
 
     // Switch to test page
     showPage('test-page');
@@ -115,11 +140,11 @@ function startTest() {
     startTimer();
 
     // Update header
-    const seed = getDaySeed();
+    const config = EXAM_CONFIG[examType];
     const startDate = new Date('2024-01-01');
     const today = new Date();
     const daysDiff = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
-    document.getElementById('test-title-text').textContent = `Daily Mock Test #${daysDiff + 1}`;
+    document.getElementById('test-title-text').textContent = `${config.name} - Test #${daysDiff + 1}`;
     document.getElementById('total-q-num').textContent = currentQuestions.length;
 }
 
@@ -145,7 +170,7 @@ function startTimer() {
             clearInterval(timerInterval);
             timeRemaining = 0;
             updateTimerDisplay();
-            alert('⏰ Time is up! Your test is being submitted automatically.');
+            alert('Time is up! Your test is being submitted automatically.');
             submitTest();
             return;
         }
@@ -362,6 +387,11 @@ function submitTest() {
     showPage('result-page');
     document.getElementById('review-section').style.display = 'none';
 
+    // Set exam badge
+    const config = EXAM_CONFIG[currentExamType];
+    document.getElementById('result-exam-badge').textContent = config.name;
+    document.getElementById('score-total').textContent = `/ ${totalMarks}`;
+
     // Animate score
     const scoreValue = document.getElementById('score-value');
     const scoreFill = document.getElementById('score-fill');
@@ -493,11 +523,11 @@ function showReview() {
             itemClass = 'skipped-review';
         } else if (isCorrect) {
             statusClass = 'correct-status';
-            statusText = 'Correct ✓';
+            statusText = 'Correct';
             itemClass = 'correct-review';
         } else {
             statusClass = 'wrong-status';
-            statusText = 'Wrong ✗';
+            statusText = 'Wrong';
             itemClass = 'wrong-review';
         }
 

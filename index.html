@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daily Mock Test - UPSC & Odisha PCS</title>
+    <title>Daily Exam Prep - UPSC & Odisha Civil Services</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📝</text></svg>">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
@@ -20,100 +20,168 @@
                     <span class="logo-emoji">🏛️</span>
                 </div>
                 <h1 class="site-title">
-                    <span class="title-gradient">Daily Mock Test</span>
+                    <span class="title-gradient">Daily Exam Prep</span>
                 </h1>
-                <p class="site-subtitle">UPSC & Odisha State PCS Preparation</p>
+                <p class="site-subtitle">UPSC & Odisha Civil Services Mock Tests</p>
             </div>
         </header>
 
         <main class="landing-content">
-            <div class="hero-card glass-card">
+            <div class="today-badge-center">
                 <div class="today-badge">
                     <span class="pulse-dot"></span>
-                    <span id="today-date">Today's Test</span>
-                </div>
-                <h2 class="hero-heading">Ready to Challenge Yourself?</h2>
-                <p class="hero-description">
-                    New 50-question test every day covering <strong>Indian History</strong>, <strong>Geography</strong>,
-                    <strong>Polity</strong>, <strong>Economy</strong>, <strong>Science</strong>, <strong>Odisha GK</strong> & more.
-                </p>
-
-                <div class="stats-row">
-                    <div class="stat-item">
-                        <div class="stat-icon">📋</div>
-                        <div class="stat-value">50</div>
-                        <div class="stat-label">Questions</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-icon">⏱️</div>
-                        <div class="stat-value">60</div>
-                        <div class="stat-label">Minutes</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-icon">📊</div>
-                        <div class="stat-value">100</div>
-                        <div class="stat-label">Max Marks</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-icon">⚡</div>
-                        <div class="stat-value" id="test-number">-</div>
-                        <div class="stat-label">Test No.</div>
-                    </div>
-                </div>
-
-                <div class="exam-tags">
-                    <span class="tag">UPSC Prelims</span>
-                    <span class="tag">OPSC OAS</span>
-                    <span class="tag">Odisha PCS</span>
-                    <span class="tag">General Studies</span>
-                    <span class="tag">Current Affairs</span>
-                </div>
-
-                <button id="start-test-btn" class="btn-primary btn-glow" onclick="startTest()">
-                    <span class="btn-icon">🚀</span>
-                    <span>Start Today's Test</span>
-                    <span class="btn-arrow">→</span>
-                </button>
-
-                <div class="test-instructions">
-                    <h3>📌 Instructions</h3>
-                    <ul>
-                        <li>Each question carries <strong>2 marks</strong></li>
-                        <li><strong>No negative marking</strong> - attempt all questions!</li>
-                        <li>Timer starts when you begin the test</li>
-                        <li>You can navigate between questions freely</li>
-                        <li>Test auto-submits when time runs out</li>
-                        <li>New test available every day at <strong>12:00 AM</strong></li>
-                    </ul>
+                    <span id="today-date">Today's Tests</span>
                 </div>
             </div>
 
+            <!-- ===== TWO TEST CARDS ===== -->
+            <div class="test-cards-grid">
+
+                <!-- UPSC Test Card -->
+                <div class="test-select-card glass-card upsc-card">
+                    <div class="card-ribbon">UPSC</div>
+                    <div class="card-icon-large">🇮🇳</div>
+                    <h2 class="card-title">UPSC Prelims</h2>
+                    <p class="card-subtitle">Civil Services Examination</p>
+
+                    <div class="card-stats">
+                        <div class="card-stat">
+                            <span class="card-stat-value">60</span>
+                            <span class="card-stat-label">Questions</span>
+                        </div>
+                        <div class="card-stat">
+                            <span class="card-stat-value">60</span>
+                            <span class="card-stat-label">Minutes</span>
+                        </div>
+                        <div class="card-stat">
+                            <span class="card-stat-value">120</span>
+                            <span class="card-stat-label">Marks</span>
+                        </div>
+                        <div class="card-stat">
+                            <span class="card-stat-value" id="upsc-test-number">-</span>
+                            <span class="card-stat-label">Test #</span>
+                        </div>
+                    </div>
+
+                    <div class="card-topics">
+                        <span class="card-tag">Indian History</span>
+                        <span class="card-tag">Geography</span>
+                        <span class="card-tag">Polity</span>
+                        <span class="card-tag">Economy</span>
+                        <span class="card-tag">Science</span>
+                        <span class="card-tag">Environment</span>
+                        <span class="card-tag">Current Affairs</span>
+                    </div>
+
+                    <button class="btn-primary btn-glow btn-upsc" onclick="startTest('upsc')">
+                        <span class="btn-icon">🚀</span>
+                        <span>Start UPSC Test</span>
+                        <span class="btn-arrow">→</span>
+                    </button>
+                </div>
+
+                <!-- Odisha OCS Test Card -->
+                <div class="test-select-card glass-card ocs-card">
+                    <div class="card-ribbon ocs-ribbon">OCS</div>
+                    <div class="card-icon-large">🏛️</div>
+                    <h2 class="card-title">Odisha Civil Services</h2>
+                    <p class="card-subtitle">OPSC OAS Examination</p>
+
+                    <div class="card-stats">
+                        <div class="card-stat">
+                            <span class="card-stat-value">60</span>
+                            <span class="card-stat-label">Questions</span>
+                        </div>
+                        <div class="card-stat">
+                            <span class="card-stat-value">60</span>
+                            <span class="card-stat-label">Minutes</span>
+                        </div>
+                        <div class="card-stat">
+                            <span class="card-stat-value">120</span>
+                            <span class="card-stat-label">Marks</span>
+                        </div>
+                        <div class="card-stat">
+                            <span class="card-stat-value" id="ocs-test-number">-</span>
+                            <span class="card-stat-label">Test #</span>
+                        </div>
+                    </div>
+
+                    <div class="card-topics">
+                        <span class="card-tag ocs-tag">Odisha History</span>
+                        <span class="card-tag ocs-tag">Odisha Geography</span>
+                        <span class="card-tag ocs-tag">Odisha Culture</span>
+                        <span class="card-tag ocs-tag">Indian Polity</span>
+                        <span class="card-tag ocs-tag">Economy</span>
+                        <span class="card-tag ocs-tag">General Science</span>
+                        <span class="card-tag ocs-tag">Current Affairs</span>
+                    </div>
+
+                    <button class="btn-primary btn-glow btn-ocs" onclick="startTest('ocs')">
+                        <span class="btn-icon">🚀</span>
+                        <span>Start OCS Test</span>
+                        <span class="btn-arrow">→</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Instructions -->
+            <div class="instructions-card glass-card">
+                <h3>📌 Test Instructions</h3>
+                <div class="instructions-grid">
+                    <div class="instruction-item">
+                        <span class="instruction-icon">📋</span>
+                        <span>Each test has <strong>60 questions</strong> worth <strong>2 marks</strong> each</span>
+                    </div>
+                    <div class="instruction-item">
+                        <span class="instruction-icon">⏱️</span>
+                        <span>You get <strong>60 minutes</strong> to complete the test</span>
+                    </div>
+                    <div class="instruction-item">
+                        <span class="instruction-icon">✅</span>
+                        <span><strong>No negative marking</strong> - attempt all questions!</span>
+                    </div>
+                    <div class="instruction-item">
+                        <span class="instruction-icon">🔄</span>
+                        <span>New tests available <strong>every day at 12:00 AM</strong></span>
+                    </div>
+                    <div class="instruction-item">
+                        <span class="instruction-icon">🖥️</span>
+                        <span>Navigate questions freely using the <strong>palette</strong></span>
+                    </div>
+                    <div class="instruction-item">
+                        <span class="instruction-icon">🔓</span>
+                        <span><strong>100% Free</strong> - No login, no signup required</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Features -->
             <div class="features-grid">
                 <div class="feature-card glass-card">
                     <div class="feature-icon">📅</div>
                     <h3>Daily Fresh Tests</h3>
-                    <p>New set of 50 questions every day, auto-generated from a massive question bank</p>
+                    <p>New 60-question test for each exam, auto-generated every day</p>
                 </div>
                 <div class="feature-card glass-card">
                     <div class="feature-icon">🎯</div>
                     <h3>Exam Focused</h3>
-                    <p>Questions aligned with UPSC & Odisha PCS exam patterns and syllabus</p>
+                    <p>UPSC pattern + Odisha-specific questions for OCS aspirants</p>
                 </div>
                 <div class="feature-card glass-card">
                     <div class="feature-icon">📊</div>
                     <h3>Instant Results</h3>
-                    <p>Detailed scorecard with correct answers and explanations after submission</p>
+                    <p>Detailed scorecard with category-wise breakdown & explanations</p>
                 </div>
                 <div class="feature-card glass-card">
-                    <div class="feature-icon">🔓</div>
-                    <h3>100% Free</h3>
-                    <p>No login, no signup, no fees. Just open and start practicing!</p>
+                    <div class="feature-icon">⌨️</div>
+                    <h3>Keyboard Shortcuts</h3>
+                    <p>Use A/B/C/D keys and arrow keys for faster navigation</p>
                 </div>
             </div>
         </main>
 
         <footer class="site-footer">
-            <p>Made with ❤️ for UPSC & Odisha PCS Aspirants | New test daily at midnight</p>
+            <p>Made with ❤️ for UPSC & Odisha Civil Services Aspirants | New tests daily at midnight</p>
         </footer>
     </div>
 
@@ -123,7 +191,7 @@
             <div class="test-header-left">
                 <h2 class="test-title">📝 <span id="test-title-text">Daily Mock Test</span></h2>
                 <div class="question-counter">
-                    Question <span id="current-q-num">1</span> of <span id="total-q-num">50</span>
+                    Question <span id="current-q-num">1</span> of <span id="total-q-num">60</span>
                 </div>
             </div>
             <div class="test-header-right">
@@ -183,6 +251,7 @@
             <div class="result-hero glass-card">
                 <div class="result-emoji" id="result-emoji">🎉</div>
                 <h2 class="result-title">Test Completed!</h2>
+                <div class="result-exam-badge" id="result-exam-badge">UPSC Prelims</div>
                 <div class="score-circle" id="score-circle">
                     <svg viewBox="0 0 120 120">
                         <circle class="score-bg" cx="60" cy="60" r="54"></circle>
@@ -190,7 +259,7 @@
                     </svg>
                     <div class="score-text">
                         <span class="score-value" id="score-value">0</span>
-                        <span class="score-total">/ 100</span>
+                        <span class="score-total" id="score-total">/ 120</span>
                     </div>
                 </div>
                 <div class="result-message" id="result-message">Great effort!</div>

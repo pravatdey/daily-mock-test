@@ -1,8 +1,9 @@
 /**
  * MASSIVE QUESTION BANK for UPSC & Odisha PCS Mock Tests
  *
- * The system uses the current date as a seed to pick 50 questions daily.
- * Each day gets a unique, deterministic set of 50 questions.
+ * The system uses the current date as a seed to pick 60 questions daily per exam.
+ * UPSC and OCS tests use different seeds for unique question sets.
+ * Each day gets a unique, deterministic set of 60 questions per exam type.
  *
  * Categories:
  * 1. Indian History
