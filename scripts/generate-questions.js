@@ -9,12 +9,15 @@
 const fs = require('fs');
 const path = require('path');
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-
-if (!GEMINI_API_KEY) {
-    console.error('ERROR: GEMINI_API_KEY environment variable is not set.');
-    process.exit(1);
-}
+// Each exam has its own API key to avoid quota limits
+const API_KEYS = {
+    upsc: process.env.GEMINI_API_KEY_UPSC,
+    oas: process.env.GEMINI_API_KEY_OAS,
+    ossc: process.env.GEMINI_API_KEY_OSSC,
+    cgl: process.env.GEMINI_API_KEY_CGL,
+    chsl: process.env.GEMINI_API_KEY_CHSL,
+    ssb: process.env.GEMINI_API_KEY_SSB,
+};
 
 // ===== Exam Configurations =====
 const EXAMS = {
@@ -145,7 +148,12 @@ Return ONLY a valid JSON array (no markdown, no code blocks, no extra text) in t
 The "correct" field is the 0-based index of the correct option (0=A, 1=B, 2=C, 3=D).
 Return ONLY the JSON array, nothing else.`;
 
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`;
+    const apiKey = API_KEYS[examKey];
+    if (!apiKey) {
+        throw new Error(`No API key set for ${examConfig.name}. Add GEMINI_API_KEY_${examKey.toUpperCase()} to GitHub Secrets.`);
+    }
+
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
     const response = await fetch(url, {
         method: 'POST',
