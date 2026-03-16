@@ -2,22 +2,20 @@
  * Daily Question Generator Script
  *
  * Runs via GitHub Actions at 12 AM IST daily.
- * Calls Google Gemini API to generate 60 unique questions per exam.
+ * Uses Gemini API as primary, Groq API as fallback.
  * Saves results as static JSON files in questions/ directory.
  */
 
 const fs = require('fs');
 const path = require('path');
 
-// Each exam has its own API key to avoid quota limits
-const API_KEYS = {
-    upsc: process.env.GEMINI_API_KEY_UPSC,
-    oas: process.env.GEMINI_API_KEY_OAS,
-    ossc: process.env.GEMINI_API_KEY_OSSC,
-    cgl: process.env.GEMINI_API_KEY_CGL,
-    chsl: process.env.GEMINI_API_KEY_CHSL,
-    ssb: process.env.GEMINI_API_KEY_SSB,
-};
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
+
+if (!GEMINI_API_KEY && !GROQ_API_KEY) {
+    console.error('ERROR: No API keys set. Add GEMINI_API_KEY or GROQ_API_KEY to GitHub Secrets.');
+    process.exit(1);
+}
 
 // ===== Exam Configurations =====
 const EXAMS = {
@@ -118,12 +116,9 @@ Include questions about Indian borders, neighboring countries, and security-rela
     }
 };
 
-// ===== Gemini API Call =====
-async function callGeminiAPI(examKey, examConfig) {
-    const today = new Date();
-    const dateStr = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
-
-    const fullPrompt = `${examConfig.prompt}
+// ===== Build the full prompt =====
+function buildPrompt(examConfig, dateStr) {
+    return `${examConfig.prompt}
 
 IMPORTANT INSTRUCTIONS:
 - Today's date seed: ${dateStr} - Use this to ensure unique questions for today
@@ -147,21 +142,40 @@ Return ONLY a valid JSON array (no markdown, no code blocks, no extra text) in t
 
 The "correct" field is the 0-based index of the correct option (0=A, 1=B, 2=C, 3=D).
 Return ONLY the JSON array, nothing else.`;
+}
 
-    const apiKey = API_KEYS[examKey];
-    if (!apiKey) {
-        throw new Error(`No API key set for ${examConfig.name}. Add GEMINI_API_KEY_${examKey.toUpperCase()} to GitHub Secrets.`);
+// ===== Parse and validate questions =====
+function parseQuestions(textContent, examConfig) {
+    let jsonStr = textContent.trim();
+    if (jsonStr.startsWith('```')) {
+        jsonStr = jsonStr.replace(/```json?\n?/g, '').replace(/```$/g, '').trim();
     }
 
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
+    const questions = JSON.parse(jsonStr);
+
+    if (!Array.isArray(questions) || questions.length === 0) {
+        throw new Error(`Invalid question format for ${examConfig.name}`);
+    }
+
+    return questions.slice(0, examConfig.questionCount).map((q, i) => ({
+        id: i + 1,
+        category: q.category || 'General',
+        question: q.question,
+        options: Array.isArray(q.options) ? q.options.slice(0, 4) : ['A', 'B', 'C', 'D'],
+        correct: typeof q.correct === 'number' ? q.correct : 0,
+        explanation: q.explanation || 'No explanation available.'
+    }));
+}
+
+// ===== Gemini API Call =====
+async function callGemini(fullPrompt, examConfig) {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`;
 
     const response = await fetch(url, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-            contents: [{
-                parts: [{ text: fullPrompt }]
-            }],
+            contents: [{ parts: [{ text: fullPrompt }] }],
             generationConfig: {
                 temperature: 0.9,
                 topP: 0.95,
@@ -174,29 +188,67 @@ Return ONLY the JSON array, nothing else.`;
 
     if (!response.ok) {
         const errorData = await response.json().catch(() => ({}));
-        throw new Error(`API Error for ${examConfig.name}: ${response.status} - ${errorData?.error?.message || 'Unknown error'}`);
+        throw new Error(`Gemini ${response.status}: ${errorData?.error?.message || 'Unknown error'}`);
     }
 
     const data = await response.json();
     const textContent = data.candidates?.[0]?.content?.parts?.[0]?.text;
+    if (!textContent) throw new Error('Empty response from Gemini');
 
-    if (!textContent) {
-        throw new Error(`Empty response from Gemini API for ${examConfig.name}`);
+    return parseQuestions(textContent, examConfig);
+}
+
+// ===== Groq API Call (Fallback) =====
+async function callGroq(fullPrompt, examConfig) {
+    const url = 'https://api.groq.com/openai/v1/chat/completions';
+
+    const response = await fetch(url, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${GROQ_API_KEY}`
+        },
+        body: JSON.stringify({
+            model: 'llama-3.3-70b-versatile',
+            messages: [
+                {
+                    role: 'system',
+                    content: 'You are an expert exam question generator. Return ONLY valid JSON arrays, no extra text.'
+                },
+                {
+                    role: 'user',
+                    content: fullPrompt
+                }
+            ],
+            temperature: 0.9,
+            max_tokens: 32768,
+            response_format: { type: 'json_object' }
+        })
+    });
+
+    if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}));
+        throw new Error(`Groq ${response.status}: ${errorData?.error?.message || 'Unknown error'}`);
     }
 
-    // Parse JSON - handle potential markdown code blocks
-    let jsonStr = textContent.trim();
-    if (jsonStr.startsWith('```')) {
-        jsonStr = jsonStr.replace(/```json?\n?/g, '').replace(/```$/g, '').trim();
+    const data = await response.json();
+    const textContent = data.choices?.[0]?.message?.content;
+    if (!textContent) throw new Error('Empty response from Groq');
+
+    // Groq with json_object mode may wrap in an object
+    let parsed;
+    try {
+        parsed = JSON.parse(textContent);
+    } catch {
+        throw new Error('Failed to parse Groq response as JSON');
     }
 
-    const questions = JSON.parse(jsonStr);
-
-    if (!Array.isArray(questions) || questions.length === 0) {
-        throw new Error(`Invalid question format for ${examConfig.name}`);
+    // Handle if Groq wraps questions in an object like { "questions": [...] }
+    const questions = Array.isArray(parsed) ? parsed : (parsed.questions || parsed.data || Object.values(parsed)[0]);
+    if (!Array.isArray(questions)) {
+        throw new Error('Groq response does not contain a questions array');
     }
 
-    // Validate and normalize question structure
     return questions.slice(0, examConfig.questionCount).map((q, i) => ({
         id: i + 1,
         category: q.category || 'General',
@@ -207,11 +259,40 @@ Return ONLY the JSON array, nothing else.`;
     }));
 }
 
+// ===== Generate with fallback =====
+async function generateQuestions(examKey, examConfig, dateStr) {
+    const fullPrompt = buildPrompt(examConfig, dateStr);
+
+    // Try Gemini first
+    if (GEMINI_API_KEY) {
+        try {
+            const questions = await callGemini(fullPrompt, examConfig);
+            console.log(`  ✓ ${examConfig.name}: ${questions.length} questions (Gemini)`);
+            return questions;
+        } catch (error) {
+            console.log(`  ⚠ Gemini failed for ${examConfig.name}: ${error.message}`);
+        }
+    }
+
+    // Fallback to Groq
+    if (GROQ_API_KEY) {
+        try {
+            console.log(`  → Trying Groq fallback for ${examConfig.name}...`);
+            const questions = await callGroq(fullPrompt, examConfig);
+            console.log(`  ✓ ${examConfig.name}: ${questions.length} questions (Groq)`);
+            return questions;
+        } catch (error) {
+            console.log(`  ⚠ Groq failed for ${examConfig.name}: ${error.message}`);
+        }
+    }
+
+    throw new Error(`All APIs failed for ${examConfig.name}`);
+}
+
 // ===== Main =====
 async function main() {
     const questionsDir = path.join(__dirname, '..', 'questions');
 
-    // Ensure questions directory exists
     if (!fs.existsSync(questionsDir)) {
         fs.mkdirSync(questionsDir, { recursive: true });
     }
@@ -221,19 +302,18 @@ async function main() {
 
     console.log(`\n=== Daily Question Generator ===`);
     console.log(`Date: ${dateStr}`);
+    console.log(`APIs: ${GEMINI_API_KEY ? 'Gemini ✓' : 'Gemini ✗'} | ${GROQ_API_KEY ? 'Groq ✓' : 'Groq ✗'}`);
     console.log(`Exams: ${Object.keys(EXAMS).join(', ')}\n`);
 
     let successCount = 0;
     let failCount = 0;
 
-    // Generate questions for each exam sequentially (to avoid rate limits)
     for (const [examKey, examConfig] of Object.entries(EXAMS)) {
         console.log(`Generating ${examConfig.name} questions...`);
 
         try {
-            const questions = await callGeminiAPI(examKey, examConfig);
+            const questions = await generateQuestions(examKey, examConfig, dateStr);
 
-            // Save as JSON file
             const filePath = path.join(questionsDir, `${examKey}.json`);
             const output = {
                 exam: examKey,
@@ -244,7 +324,6 @@ async function main() {
             };
 
             fs.writeFileSync(filePath, JSON.stringify(output, null, 2));
-            console.log(`  ✓ ${examConfig.name}: ${questions.length} questions saved to questions/${examKey}.json`);
             successCount++;
 
         } catch (error) {
@@ -252,9 +331,9 @@ async function main() {
             failCount++;
         }
 
-        // Small delay between API calls to avoid rate limiting
+        // Delay between exams to avoid rate limits
         if (Object.keys(EXAMS).indexOf(examKey) < Object.keys(EXAMS).length - 1) {
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            await new Promise(resolve => setTimeout(resolve, 3000));
         }
     }
 
@@ -263,7 +342,7 @@ async function main() {
     console.log(`Failed: ${failCount}/${Object.keys(EXAMS).length}`);
 
     if (failCount === Object.keys(EXAMS).length) {
-        console.error('All exams failed to generate. Exiting with error.');
+        console.error('All exams failed. Exiting with error.');
         process.exit(1);
     }
 }
