@@ -7,15 +7,15 @@
     {
       "id": 1,
       "category": "General Awareness",
-      "question": "Who was the first President of India?",
+      "question": "Which Indian state is known for its 'Kathakali' dance?",
       "options": [
-        "Dr. Rajendra Prasad",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi"
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
       ],
       "correct": 0,
-      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
+      "explanation": "Kathakali is a classical dance form that originated in the Indian state of Kerala. It is known for its elaborate costumes, intricate makeup, and highly expressive movements."
     },
     {
       "id": 2,
@@ -23,12 +23,12 @@
       "question": "What is the largest planet in our solar system?",
       "options": [
         "Earth",
-        "Jupiter",
         "Saturn",
+        "Jupiter",
         "Uranus"
       ],
-      "correct": 1,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
+      "correct": 2,
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers. It is a gas giant and is known for its distinctive banded appearance."
     },
     {
       "id": 3,
@@ -41,14 +41,14 @@
         "20"
       ],
       "correct": 1,
-      "explanation": "The pattern of the series is adding 3 to the previous term, so the next number in the series would be 17."
+      "explanation": "The pattern of the series is adding 3 to the previous term. Therefore, the next term in the series would be 17."
     },
     {
       "id": 4,
       "category": "Indian Polity",
       "question": "What is the term of the President of India?",
       "options": [
-        "3 years",
+        "4 years",
         "5 years",
         "6 years",
         "7 years"
@@ -59,28 +59,28 @@
     {
       "id": 5,
       "category": "Geography",
-      "question": "Which river is the longest in India?",
+      "question": "Which river is known as the 'Ganga of the South'?",
       "options": [
-        "Ganges",
-        "Brahmaputra",
-        "Indus",
-        "Godavari"
+        "Godavari",
+        "Krishna",
+        "Kaveri",
+        "Tamiraparani"
       ],
       "correct": 0,
-      "explanation": "The Ganges river is the longest river in India, stretching over 2,525 kilometers."
+      "explanation": "The Godavari River is often referred to as the 'Ganga of the South' due to its cultural and spiritual significance in southern India."
     },
     {
       "id": 6,
       "category": "Current Affairs & GK",
-      "question": "What is the name of the scheme launched by the Indian government to provide affordable housing?",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to farmers?",
       "options": [
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
+        "PM Kisan",
+        "PM Awas Yojana",
+        "PM Jan Dhan Yojana",
+        "PM Ujjwala Yojana"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Awas Yojana is a scheme launched by the Indian government to provide affordable housing to all by 2022."
+      "explanation": "The PM Kisan scheme provides financial assistance to farmers by offering them an annual income support of Rs. 6,000."
     },
     {
       "id": 7,
@@ -89,16 +89,16 @@
       "options": [
         "Jawaharlal Nehru",
         "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Rabindranath Tagore"
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Jawaharlal Nehru wrote the book 'The Discovery of India', which is a historical and philosophical account of India's past and present."
+      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' while he was in prison during the British rule. The book is a historical and cultural account of India's past."
     },
     {
       "id": 8,
       "category": "General Science",
-      "question": "What is the process by which plants make their own food?",
+      "question": "What is the process by which plants convert sunlight into energy?",
       "options": [
         "Respiration",
         "Photosynthesis",
@@ -106,153 +106,75 @@
         "Fermentation"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria make their own food using sunlight, water, and carbon dioxide."
+      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
     },
     {
       "id": 9,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following is an example of a mirror image?",
+      "question": "What is the next letter in the series: A, C, E, G, I?",
       "options": [
-        "A picture of a cat",
-        "A reflection of a cat in a mirror",
-        "A statue of a cat",
-        "A painting of a cat"
+        "K",
+        "L",
+        "M",
+        "N"
       ],
-      "correct": 1,
-      "explanation": "A mirror image is a reflection of an object in a mirror, so the correct answer is a reflection of a cat in a mirror."
+      "correct": 0,
+      "explanation": "The pattern of the series is adding 2 to the previous letter in the alphabet. Therefore, the next letter in the series would be K."
     },
     {
       "id": 10,
-      "category": "Indian Polity",
-      "question": "What is the name of the document that outlines the fundamental rights of Indian citizens?",
-      "options": [
-        "The Constitution of India",
-        "The Indian Penal Code",
-        "The Code of Civil Procedure",
-        "The Code of Criminal Procedure"
-      ],
-      "correct": 0,
-      "explanation": "The Constitution of India is the document that outlines the fundamental rights of Indian citizens, which are enshrined in Part III of the Constitution."
-    },
-    {
-      "id": 11,
-      "category": "Geography",
-      "question": "Which state is the largest in terms of area in India?",
-      "options": [
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Maharashtra"
-      ],
-      "correct": 0,
-      "explanation": "Rajasthan is the largest state in terms of area in India, covering approximately 342,239 square kilometers."
-    },
-    {
-      "id": 12,
-      "category": "Current Affairs & GK",
-      "question": "What is the name of the Indian government's scheme to promote digital payments?",
-      "options": [
-        "Digital India",
-        "Make in India",
-        "Startup India",
-        "BHIM"
-      ],
-      "correct": 3,
-      "explanation": "BHIM (Bharat Interface for Money) is a mobile payment app launched by the Indian government to promote digital payments."
-    },
-    {
-      "id": 13,
-      "category": "General Awareness",
-      "question": "Who was the founder of the Indian National Congress?",
-      "options": [
-        "Allan Octavian Hume",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose"
-      ],
-      "correct": 0,
-      "explanation": "Allan Octavian Hume was the founder of the Indian National Congress, which was established in 1885."
-    },
-    {
-      "id": 14,
-      "category": "General Science",
-      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
-      ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
-    },
-    {
-      "id": 15,
-      "category": "Reasoning & Mental Ability",
-      "question": "What comes next in the series: 1, 2, 4, 8, 16?",
-      "options": [
-        "32",
-        "36",
-        "40",
-        "48"
-      ],
-      "correct": 0,
-      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2, so the next number in the series would be 32."
-    },
-    {
-      "id": 16,
       "category": "Indian Polity",
       "question": "What is the name of the highest court in India?",
       "options": [
         "Supreme Court",
         "High Court",
         "District Court",
-        "Session Court"
+        "Tribunal"
       ],
       "correct": 0,
-      "explanation": "The Supreme Court is the highest court in India, and it has the final say on matters of law and justice."
+      "explanation": "The Supreme Court of India is the highest court in the country and has the final say on matters of law and justice."
     },
     {
-      "id": 17,
+      "id": 11,
       "category": "Geography",
-      "question": "Which mountain range runs along the border between India and Pakistan?",
+      "question": "Which state is known as the 'Land of the Five Rivers'?",
       "options": [
-        "The Himalayas",
-        "The Karakoram",
-        "The Hindu Kush",
-        "The Aravalli"
-      ],
-      "correct": 1,
-      "explanation": "The Karakoram mountain range runs along the border between India and Pakistan, and is known for its rugged terrain and high peaks."
-    },
-    {
-      "id": 18,
-      "category": "Current Affairs & GK",
-      "question": "What is the name of the Indian government's scheme to promote entrepreneurship among women?",
-      "options": [
-        "Stand Up India",
-        "Start Up India",
-        "Make in India",
-        "Skill India"
+        "Punjab",
+        "Haryana",
+        "Uttar Pradesh",
+        "Bihar"
       ],
       "correct": 0,
-      "explanation": "Stand Up India is a scheme launched by the Indian government to promote entrepreneurship among women and Scheduled Castes and Scheduled Tribes."
+      "explanation": "Punjab is known as the 'Land of the Five Rivers' due to the presence of the five rivers: Sutlej, Beas, Ravi, Chenab, and Jhelum."
     },
     {
-      "id": 19,
+      "id": 12,
+      "category": "Current Affairs & GK",
+      "question": "What is the name of the Indian spacecraft that orbited the Moon in 2008?",
+      "options": [
+        "Chandrayaan-1",
+        "Mangalyaan",
+        "GSLV",
+        "PSLV"
+      ],
+      "correct": 0,
+      "explanation": "Chandrayaan-1 was India's first lunar mission, which was launched in 2008 and successfully orbited the Moon."
+    },
+    {
+      "id": 13,
       "category": "General Awareness",
       "question": "Who is the author of the book 'My Experiments with Truth'?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Rabindranath Tagore"
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi wrote the book 'My Experiments with Truth', which is an autobiography that details his experiences and struggles."
+      "explanation": "Mahatma Gandhi wrote 'My Experiments with Truth', which is his autobiography and a detailed account of his life and experiences."
     },
     {
-      "id": 20,
+      "id": 14,
       "category": "General Science",
       "question": "What is the largest living structure on Earth?",
       "options": [
@@ -265,150 +187,384 @@
       "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
     },
     {
-      "id": 21,
+      "id": 15,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following is an example of a coding-decoding question?",
+      "question": "What is the missing number in the series: 1, 2, 4, 8, 16, ?",
       "options": [
-        "A picture of a cat",
-        "A word search puzzle",
-        "A cryptogram",
-        "A math problem"
+        "32",
+        "36",
+        "40",
+        "48"
+      ],
+      "correct": 0,
+      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2. Therefore, the missing number in the series would be 32."
+    },
+    {
+      "id": 16,
+      "category": "Indian Polity",
+      "question": "What is the name of the Indian President's official residence?",
+      "options": [
+        "Rashtrapati Bhavan",
+        "Vice President House",
+        "Prime Minister's Office",
+        "Parliament House"
+      ],
+      "correct": 0,
+      "explanation": "Rashtrapati Bhavan is the official residence of the President of India, located in New Delhi."
+    },
+    {
+      "id": 17,
+      "category": "Geography",
+      "question": "Which mountain range runs along the border between India and Pakistan?",
+      "options": [
+        "The Himalayas",
+        "The Karakoram",
+        "The Aravalli",
+        "The Thar Desert"
+      ],
+      "correct": 1,
+      "explanation": "The Karakoram mountain range runs along the border between India and Pakistan, and is home to some of the highest peaks in the world, including K2."
+    },
+    {
+      "id": 18,
+      "category": "Current Affairs & GK",
+      "question": "What is the name of the Indian government's scheme to provide health insurance to the poor?",
+      "options": [
+        "Ayushman Bharat",
+        "PM Jan Arogya Yojana",
+        "National Health Mission",
+        "Pradhan Mantri Swasthya Suraksha Yojana"
+      ],
+      "correct": 1,
+      "explanation": "The PM Jan Arogya Yojana, also known as Ayushman Bharat, is a health insurance scheme that provides coverage of up to Rs. 5 lakh per family per year to the poor and vulnerable sections of society."
+    },
+    {
+      "id": 19,
+      "category": "General Awareness",
+      "question": "Who is the founder of the Sikh religion?",
+      "options": [
+        "Guru Nanak",
+        "Guru Gobind Singh",
+        "Guru Arjan Dev",
+        "Guru Tegh Bahadur"
+      ],
+      "correct": 0,
+      "explanation": "Guru Nanak is the founder of the Sikh religion and is considered one of the most important figures in Sikh history."
+    },
+    {
+      "id": 20,
+      "category": "General Science",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
       ],
       "correct": 2,
-      "explanation": "A cryptogram is a type of coding-decoding question, where a message is encoded using a specific algorithm or technique."
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
+    },
+    {
+      "id": 21,
+      "category": "Reasoning & Mental Ability",
+      "question": "What is the next number in the series: 3, 6, 9, 12, 15?",
+      "options": [
+        "18",
+        "20",
+        "21",
+        "24"
+      ],
+      "correct": 0,
+      "explanation": "The pattern of the series is obtained by adding 3 to the previous term. Therefore, the next number in the series would be 18."
     },
     {
       "id": 22,
       "category": "Indian Polity",
-      "question": "What is the name of the document that outlines the duties of Indian citizens?",
+      "question": "What is the name of the Indian Parliament's lower house?",
       "options": [
-        "The Constitution of India",
-        "The Indian Penal Code",
-        "The Code of Civil Procedure",
-        "The Code of Criminal Procedure"
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Vidhan Sabha",
+        "Vidhan Parishad"
       ],
       "correct": 0,
-      "explanation": "The Constitution of India is the document that outlines the duties of Indian citizens, which are enshrined in Part IV-A of the Constitution."
+      "explanation": "The Lok Sabha is the lower house of the Indian Parliament and is composed of 543 elected members."
     },
     {
       "id": 23,
       "category": "Geography",
-      "question": "Which river is the longest in South India?",
+      "question": "Which river flows through the city of Varanasi?",
       "options": [
-        "The Godavari",
-        "The Krishna",
-        "The Kaveri",
-        "The Tungabhadra"
+        "Ganga",
+        "Yamuna",
+        "Narmada",
+        "Brahmaputra"
       ],
       "correct": 0,
-      "explanation": "The Godavari river is the longest river in South India, stretching over 1,465 kilometers."
+      "explanation": "The Ganga River flows through the city of Varanasi, which is considered one of the holiest cities in India."
     },
     {
       "id": 24,
       "category": "Current Affairs & GK",
-      "question": "What is the name of the Indian government's scheme to promote financial inclusion?",
+      "question": "What is the name of the Indian government's scheme to promote digital payments?",
       "options": [
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
+        "Digital India",
+        "Make in India",
+        "Start Up India",
+        "BHIM"
       ],
-      "correct": 0,
-      "explanation": "Pradhan Mantri Jan Dhan Yojana is a scheme launched by the Indian government to promote financial inclusion and provide access to banking services for all."
+      "correct": 3,
+      "explanation": "BHIM (Bharat Interface for Money) is a UPI-based payment interface that allows users to make digital payments using their mobile phones."
     },
     {
       "id": 25,
       "category": "General Awareness",
-      "question": "Who was the first woman to fly an aircraft in India?",
+      "question": "Who is the author of the book 'A Passage to India'?",
       "options": [
-        "Sarla Thakral",
-        "Kalpana Chawla",
-        "Sunita Williams",
-        "Indira Gandhi"
+        "E.M. Forster",
+        "Rabindranath Tagore",
+        "R.K. Narayan",
+        "V.S. Naipaul"
       ],
       "correct": 0,
-      "explanation": "Sarla Thakral was the first woman to fly an aircraft in India, earning her pilot's license in 1936."
+      "explanation": "E.M. Forster wrote 'A Passage to India', which is a novel that explores the complexities of relationships between Indians and British colonizers in the early 20th century."
     },
     {
       "id": 26,
       "category": "General Science",
-      "question": "What is the process by which the body repairs damaged tissue?",
+      "question": "What is the largest mammal on Earth?",
       "options": [
-        "Inflammation",
-        "Immunity",
-        "Regeneration",
-        "Metabolism"
+        "Blue whale",
+        "African elephant",
+        "Hippopotamus",
+        "Giraffe"
       ],
-      "correct": 2,
-      "explanation": "Regeneration is the process by which the body repairs damaged tissue, such as skin, bone, or muscle."
+      "correct": 0,
+      "explanation": "The blue whale is the largest mammal on Earth, with some individuals reaching lengths of up to 33 meters and weighing up to 180 metric tons."
     },
     {
       "id": 27,
       "category": "Reasoning & Mental Ability",
-      "question": "What comes next in the series: 3, 6, 9, 12, 15?",
+      "question": "What is the missing number in the series: 2, 5, 10, 17, 26?",
       "options": [
-        "18",
-        "20",
-        "22",
-        "25"
+        "35",
+        "37",
+        "40",
+        "42"
       ],
-      "correct": 0,
-      "explanation": "The pattern of the series is obtained by adding 3 to the previous term, so the next number in the series would be 18."
+      "correct": 1,
+      "explanation": "The pattern of the series is obtained by adding 3, 5, 7, 9, and so on to the previous term. Therefore, the missing number in the series would be 37."
     },
     {
       "id": 28,
       "category": "Indian Polity",
-      "question": "What is the name of the highest legislative body in India?",
+      "question": "What is the name of the Indian President's power to reject a bill passed by the Parliament?",
       "options": [
-        "The Parliament",
-        "The State Legislature",
-        "The Municipal Corporation",
-        "The Panchayat"
+        "Veto power",
+        "Dissolution power",
+        "Reservation power",
+        "Ordinance power"
       ],
       "correct": 0,
-      "explanation": "The Parliament is the highest legislative body in India, consisting of the Lok Sabha and the Rajya Sabha."
+      "explanation": "The President of India has the power to reject a bill passed by the Parliament, which is known as the veto power."
     },
     {
       "id": 29,
       "category": "Geography",
-      "question": "Which state is the largest producer of coffee in India?",
+      "question": "Which state is the largest producer of tea in India?",
       "options": [
-        "Karnataka",
-        "Tamil Nadu",
+        "Assam",
+        "West Bengal",
         "Kerala",
-        "Andhra Pradesh"
+        "Tamil Nadu"
       ],
       "correct": 0,
-      "explanation": "Karnataka is the largest producer of coffee in India, accounting for over 70% of the country's coffee production."
+      "explanation": "Assam is the largest producer of tea in India, accounting for over 50% of the country's total tea production."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "What is the name of the Indian government's scheme to promote education among girls?",
+      "question": "What is the name of the Indian government's scheme to promote entrepreneurship among women?",
       "options": [
-        "Beti Bachao Beti Padhao",
-        "Sukanya Samriddhi Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Awas Yojana"
+        "Stand Up India",
+        "Start Up India",
+        "Make in India",
+        "Digital India"
       ],
       "correct": 0,
-      "explanation": "Beti Bachao Beti Padhao is a scheme launched by the Indian government to promote education among girls and prevent female foeticide."
+      "explanation": "The Stand Up India scheme is an initiative by the Indian government to promote entrepreneurship among women and SC/ST communities by providing them with loans and other support."
     },
     {
       "id": 31,
       "category": "General Awareness",
-      "question": "Who was the founder of the Bhakti movement in India?",
+      "question": "Who is the founder of the Tata Group?",
       "options": [
-        "Ramanuja",
-        "Madhva",
-        "Chaitanya Mahaprabhu",
-        "Guru Nanak"
+        "Jamsetji Tata",
+        "J.R.D. Tata",
+        "Ratan Tata",
+        "Cyrus Mistry"
       ],
       "correct": 0,
-      "explanation": "Ramanuja was a key figure in the Bhakti movement in India, which emphasized devotion and personal relationship with God."
+      "explanation": "Jamsetji Tata is the founder of the Tata Group, which is one of India's largest and most diversified conglomerates."
     },
     {
       "id": 32,
+      "category": "General Science",
+      "question": "What is the process by which the Earth's plates move and change?",
+      "options": [
+        " Continental drift",
+        "Plate tectonics",
+        "Weathering",
+        "Erosion"
+      ],
+      "correct": 1,
+      "explanation": "Plate tectonics is the process by which the Earth's lithosphere is broken into large plates that move and change, resulting in the creation of mountains, volcanoes, and earthquakes."
+    },
+    {
+      "id": 33,
+      "category": "Reasoning & Mental Ability",
+      "question": "What is the next letter in the series: B, D, F, H, J?",
+      "options": [
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "correct": 0,
+      "explanation": "The pattern of the series is obtained by adding 2 to the previous letter in the alphabet. Therefore, the next letter in the series would be K."
+    },
+    {
+      "id": 34,
+      "category": "Indian Polity",
+      "question": "What is the name of the Indian Parliament's upper house?",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Vidhan Sabha",
+        "Vidhan Parishad"
+      ],
+      "correct": 1,
+      "explanation": "The Rajya Sabha is the upper house of the Indian Parliament and is composed of 245 members, with 233 elected by the state legislatures and 12 nominated by the President."
+    },
+    {
+      "id": 35,
+      "category": "Geography",
+      "question": "Which city is the capital of the state of Odisha?",
+      "options": [
+        "Bhubaneswar",
+        "Cuttack",
+        "Puri",
+        "Konark"
+      ],
+      "correct": 0,
+      "explanation": "Bhubaneswar is the capital city of the state of Odisha and is known for its rich cultural heritage and historical landmarks."
+    },
+    {
+      "id": 36,
+      "category": "Current Affairs & GK",
+      "question": "What is the name of the Indian government's scheme to provide skill training to youth?",
+      "options": [
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "National Skill Development Mission",
+        "Make in India",
+        "Digital India"
+      ],
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Kaushal Vikas Yojana is a scheme launched by the Indian government to provide skill training to youth and enable them to acquire industry-relevant skills."
+    },
+    {
+      "id": 37,
+      "category": "General Awareness",
+      "question": "Who is the author of the book 'The Namesake'?",
+      "options": [
+        "Jhumpa Lahiri",
+        "Arundhati Roy",
+        "Salman Rushdie",
+        "Vikram Seth"
+      ],
+      "correct": 0,
+      "explanation": "Jhumpa Lahiri wrote 'The Namesake', which is a novel that explores the experiences of an Indian family living in the United States."
+    },
+    {
+      "id": 38,
+      "category": "General Science",
+      "question": "What is the largest planet in our solar system's asteroid belt?",
+      "options": [
+        "Ceres",
+        "Vesta",
+        "Pallas",
+        "Hygiea"
+      ],
+      "correct": 0,
+      "explanation": "Ceres is the largest object in the asteroid belt, with a diameter of approximately 946 kilometers. It is now classified as a dwarf planet."
+    },
+    {
+      "id": 39,
+      "category": "Reasoning & Mental Ability",
+      "question": "What is the missing number in the series: 1, 4, 9, 16, 25?",
+      "options": [
+        "32",
+        "36",
+        "40",
+        "49"
+      ],
+      "correct": 0,
+      "explanation": "The pattern of the series is obtained by squaring the consecutive integers. Therefore, the missing number in the series would be 36."
+    },
+    {
+      "id": 40,
+      "category": "Indian Polity",
+      "question": "What is the name of the Indian President's power to dissolve the Lok Sabha?",
+      "options": [
+        "Dissolution power",
+        "Veto power",
+        "Reservation power",
+        "Ordinance power"
+      ],
+      "correct": 0,
+      "explanation": "The President of India has the power to dissolve the Lok Sabha, which is known as the dissolution power."
+    },
+    {
+      "id": 41,
+      "category": "Geography",
+      "question": "Which river is the longest in South America?",
+      "options": [
+        "Amazon River",
+        "Parana River",
+        "Sao Francisco River",
+        "Magdalena River"
+      ],
+      "correct": 0,
+      "explanation": "The Amazon River is the longest river in South America and the largest river in the world by discharge volume, stretching over 6,400 kilometers from its source to its mouth."
+    },
+    {
+      "id": 42,
+      "category": "Current Affairs & GK",
+      "question": "What is the name of the Indian government's scheme to promote affordable housing?",
+      "options": [
+        "Pradhan Mantri Awas Yojana",
+        "Make in India",
+        "Digital India",
+        "Start Up India"
+      ],
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Awas Yojana is a scheme launched by the Indian government to promote affordable housing for all, with a target of building 2 crore houses by 2022."
+    },
+    {
+      "id": 43,
+      "category": "General Awareness",
+      "question": "Who is the author of the book 'The God of Small Things'?",
+      "options": [
+        "Arundhati Roy",
+        "Salman Rushdie",
+        "Vikram Seth",
+        "Kiran Desai"
+      ],
+      "correct": 0,
+      "explanation": "Arundhati Roy wrote 'The God of Small Things', which is a novel that explores the lives of two Indian twins growing up in Kerala."
+    },
+    {
+      "id": 44,
       "category": "General Science",
       "question": "What is the process by which plants release water vapor into the air?",
       "options": [
@@ -421,87 +577,9 @@
       "explanation": "Transpiration is the process by which plants release water vapor into the air, which is an important part of the water cycle."
     },
     {
-      "id": 33,
+      "id": 45,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following is an example of a number series question?",
-      "options": [
-        "A word search puzzle",
-        "A math problem",
-        "A cryptogram",
-        "A series of numbers"
-      ],
-      "correct": 3,
-      "explanation": "A series of numbers is an example of a number series question, where the test-taker must identify the pattern or relationship between the numbers."
-    },
-    {
-      "id": 34,
-      "category": "Indian Polity",
-      "question": "What is the name of the document that outlines the fundamental duties of Indian citizens?",
-      "options": [
-        "The Constitution of India",
-        "The Indian Penal Code",
-        "The Code of Civil Procedure",
-        "The Code of Criminal Procedure"
-      ],
-      "correct": 0,
-      "explanation": "The Constitution of India is the document that outlines the fundamental duties of Indian citizens, which are enshrined in Article 51-A of the Constitution."
-    },
-    {
-      "id": 35,
-      "category": "Geography",
-      "question": "Which mountain range runs along the border between India and Nepal?",
-      "options": [
-        "The Himalayas",
-        "The Karakoram",
-        "The Hindu Kush",
-        "The Aravalli"
-      ],
-      "correct": 0,
-      "explanation": "The Himalayas mountain range runs along the border between India and Nepal, and is home to many of the world's highest peaks."
-    },
-    {
-      "id": 36,
-      "category": "Current Affairs & GK",
-      "question": "What is the name of the Indian government's scheme to promote rural development?",
-      "options": [
-        "Pradhan Mantri Gram Sadak Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
-      ],
-      "correct": 0,
-      "explanation": "Pradhan Mantri Gram Sadak Yojana is a scheme launched by the Indian government to promote rural development and provide better road connectivity to rural areas."
-    },
-    {
-      "id": 37,
-      "category": "General Awareness",
-      "question": "Who was the founder of the Sikh faith?",
-      "options": [
-        "Guru Nanak",
-        "Guru Gobind Singh",
-        "Guru Arjan Dev",
-        "Guru Tegh Bahadur"
-      ],
-      "correct": 0,
-      "explanation": "Guru Nanak was the founder of the Sikh faith, which emphasizes devotion, equality, and the pursuit of spiritual knowledge."
-    },
-    {
-      "id": 38,
-      "category": "General Science",
-      "question": "What is the process by which the body breaks down food into energy?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Metabolism",
-        "Digestion"
-      ],
-      "correct": 2,
-      "explanation": "Metabolism is the process by which the body breaks down food into energy, which is then used to power various bodily functions."
-    },
-    {
-      "id": 39,
-      "category": "Reasoning & Mental Ability",
-      "question": "What comes next in the series: 2, 4, 8, 16, 32?",
+      "question": "What is the next number in the series: 2, 4, 8, 16, 32?",
       "options": [
         "64",
         "72",
@@ -509,280 +587,202 @@
         "96"
       ],
       "correct": 0,
-      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2, so the next number in the series would be 64."
-    },
-    {
-      "id": 40,
-      "category": "Indian Polity",
-      "question": "What is the name of the highest court in a state?",
-      "options": [
-        "The High Court",
-        "The Supreme Court",
-        "The District Court",
-        "The Session Court"
-      ],
-      "correct": 0,
-      "explanation": "The High Court is the highest court in a state, and has the power to interpret the Constitution and laws of the state."
-    },
-    {
-      "id": 41,
-      "category": "Geography",
-      "question": "Which state is the largest producer of milk in India?",
-      "options": [
-        "Uttar Pradesh",
-        "Punjab",
-        "Haryana",
-        "Gujarat"
-      ],
-      "correct": 0,
-      "explanation": "Uttar Pradesh is the largest producer of milk in India, accounting for over 17% of the country's total milk production."
-    },
-    {
-      "id": 42,
-      "category": "Current Affairs & GK",
-      "question": "What is the name of the Indian government's scheme to promote skill development among youth?",
-      "options": [
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
-      ],
-      "correct": 0,
-      "explanation": "Pradhan Mantri Kaushal Vikas Yojana is a scheme launched by the Indian government to promote skill development among youth and provide them with better job opportunities."
-    },
-    {
-      "id": 43,
-      "category": "General Awareness",
-      "question": "Who was the founder of the Theosophical Society?",
-      "options": [
-        "Helena Blavatsky",
-        "Henry Steel Olcott",
-        "Annie Besant",
-        "Rudolf Steiner"
-      ],
-      "correct": 0,
-      "explanation": "Helena Blavatsky was the founder of the Theosophical Society, which aimed to promote spiritual knowledge and understanding."
-    },
-    {
-      "id": 44,
-      "category": "General Science",
-      "question": "What is the process by which the body maintains a stable internal environment?",
-      "options": [
-        "Homeostasis",
-        "Metabolism",
-        "Respiration",
-        "Photosynthesis"
-      ],
-      "correct": 0,
-      "explanation": "Homeostasis is the process by which the body maintains a stable internal environment, despite changes in the external environment."
-    },
-    {
-      "id": 45,
-      "category": "Reasoning & Mental Ability",
-      "question": "Which of the following is an example of a classification question?",
-      "options": [
-        "A math problem",
-        "A word search puzzle",
-        "A series of numbers",
-        "A categorization of objects"
-      ],
-      "correct": 3,
-      "explanation": "A categorization of objects is an example of a classification question, where the test-taker must group objects into categories based on their characteristics."
+      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2. Therefore, the next number in the series would be 64."
     },
     {
       "id": 46,
       "category": "Indian Polity",
-      "question": "What is the name of the document that outlines the powers of the Parliament?",
+      "question": "What is the name of the Indian Constitution's fundamental right that guarantees equality before the law?",
       "options": [
-        "The Constitution of India",
-        "The Indian Penal Code",
-        "The Code of Civil Procedure",
-        "The Code of Criminal Procedure"
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
       ],
       "correct": 0,
-      "explanation": "The Constitution of India is the document that outlines the powers of the Parliament, which are enshrined in Article 79 of the Constitution."
+      "explanation": "Article 14 of the Indian Constitution guarantees equality before the law and prohibits discrimination on the basis of caste, sex, religion, or place of birth."
     },
     {
       "id": 47,
       "category": "Geography",
-      "question": "Which state is the largest producer of cotton in India?",
+      "question": "Which city is the capital of the state of Gujarat?",
       "options": [
-        "Maharashtra",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Gandhinagar",
+        "Ahmedabad",
+        "Surat",
+        "Vadodara"
       ],
       "correct": 0,
-      "explanation": "Maharashtra is the largest producer of cotton in India, accounting for over 30% of the country's total cotton production."
+      "explanation": "Gandhinagar is the capital city of the state of Gujarat and is known for its well-planned infrastructure and modern architecture."
     },
     {
       "id": 48,
       "category": "Current Affairs & GK",
-      "question": "What is the name of the Indian government's scheme to promote digital literacy?",
+      "question": "What is the name of the Indian government's scheme to promote cleanliness and hygiene?",
       "options": [
-        "Pradhan Mantri Digital Saksharta Abhiyan",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
+        "Swachh Bharat Abhiyan",
+        "Make in India",
+        "Digital India",
+        "Start Up India"
       ],
       "correct": 0,
-      "explanation": "Pradhan Mantri Digital Saksharta Abhiyan is a scheme launched by the Indian government to promote digital literacy and provide training in digital skills."
+      "explanation": "The Swachh Bharat Abhiyan is a scheme launched by the Indian government to promote cleanliness and hygiene, with a focus on improving sanitation and waste management."
     },
     {
       "id": 49,
       "category": "General Awareness",
-      "question": "Who was the founder of the Arya Samaj?",
+      "question": "Who is the founder of the Reliance Industries?",
       "options": [
-        "Swami Dayananda Saraswati",
-        "Rabindranath Tagore",
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose"
+        "Dhirubhai Ambani",
+        "Mukesh Ambani",
+        "Anil Ambani",
+        "Ratan Tata"
       ],
       "correct": 0,
-      "explanation": "Swami Dayananda Saraswati was the founder of the Arya Samaj, which aimed to promote social reform and Vedic values."
+      "explanation": "Dhirubhai Ambani is the founder of Reliance Industries, which is one of India's largest and most diversified conglomerates."
     },
     {
       "id": 50,
       "category": "General Science",
-      "question": "What is the process by which the body fights infection and disease?",
+      "question": "What is the process by which the Earth's atmosphere retains heat?",
       "options": [
-        "Immunity",
-        "Inflammation",
-        "Metabolism",
-        "Respiration"
+        "Greenhouse effect",
+        "Ozone layer depletion",
+        "Acid rain",
+        "Global warming"
       ],
       "correct": 0,
-      "explanation": "Immunity is the process by which the body fights infection and disease, using a complex system of cells, tissues, and organs."
+      "explanation": "The greenhouse effect is the process by which the Earth's atmosphere retains heat, which is essential for life on Earth."
     },
     {
       "id": 51,
       "category": "Reasoning & Mental Ability",
-      "question": "What comes next in the series: 1, 3, 5, 7, 9?",
+      "question": "What is the missing number in the series: 3, 6, 12, 24, 48?",
       "options": [
-        "11",
-        "13",
-        "15",
-        "17"
+        "64",
+        "72",
+        "80",
+        "96"
       ],
       "correct": 0,
-      "explanation": "The pattern of the series is obtained by adding 2 to the previous term, so the next number in the series would be 11."
+      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2. Therefore, the missing number in the series would be 96."
     },
     {
       "id": 52,
       "category": "Indian Polity",
-      "question": "What is the name of the highest executive authority in a state?",
+      "question": "What is the name of the Indian President's power to appoint the Prime Minister?",
       "options": [
-        "The Governor",
-        "The Chief Minister",
-        "The President",
-        "The Prime Minister"
+        "Appointment power",
+        "Dissolution power",
+        "Veto power",
+        "Ordinance power"
       ],
       "correct": 0,
-      "explanation": "The Governor is the highest executive authority in a state, and serves as the representative of the President of India."
+      "explanation": "The President of India has the power to appoint the Prime Minister, which is known as the appointment power."
     },
     {
       "id": 53,
       "category": "Geography",
-      "question": "Which state is the largest producer of tea in India?",
+      "question": "Which mountain range runs along the border between India and Nepal?",
       "options": [
-        "Assam",
-        "West Bengal",
-        "Tamil Nadu",
-        "Kerala"
+        "The Himalayas",
+        "The Karakoram",
+        "The Aravalli",
+        "The Vindhya"
       ],
       "correct": 0,
-      "explanation": "Assam is the largest producer of tea in India, accounting for over 50% of the country's total tea production."
+      "explanation": "The Himalayas mountain range runs along the border between India and Nepal, and is home to some of the highest peaks in the world, including Mount Everest."
     },
     {
       "id": 54,
       "category": "Current Affairs & GK",
-      "question": "What is the name of the Indian government's scheme to promote entrepreneurship among youth?",
+      "question": "What is the name of the Indian government's scheme to promote cashless transactions?",
       "options": [
-        "Pradhan Mantri Mudra Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
+        "Digital India",
+        "Make in India",
+        "Start Up India",
+        "BHIM"
       ],
       "correct": 0,
-      "explanation": "Pradhan Mantri Mudra Yojana is a scheme launched by the Indian government to promote entrepreneurship among youth and provide them with access to credit and other resources."
+      "explanation": "The Digital India scheme is an initiative by the Indian government to promote cashless transactions and digital payments, with a focus on improving financial inclusion and reducing corruption."
     },
     {
       "id": 55,
       "category": "General Awareness",
-      "question": "Who was the founder of the Ramakrishna Mission?",
+      "question": "Who is the founder of the Infosys?",
       "options": [
-        "Swami Vivekananda",
-        "Ramakrishna Paramahamsa",
-        "Sarada Devi",
-        "Narendranath Datta"
+        "Narayana Murthy",
+        "Nandan Nilekani",
+        "S.D. Shibulal",
+        "Kris Gopalakrishnan"
       ],
       "correct": 0,
-      "explanation": "Swami Vivekananda was the founder of the Ramakrishna Mission, which aimed to promote spiritual growth and social service."
+      "explanation": "Narayana Murthy is the co-founder of Infosys, which is one of India's largest and most successful IT companies."
     },
     {
       "id": 56,
       "category": "General Science",
-      "question": "What is the process by which plants release oxygen into the air?",
+      "question": "What is the process by which water freezes into ice?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
+        "Melting",
+        "Boiling",
+        "Freezing",
+        "Condensation"
       ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants release oxygen into the air, as a byproduct of converting sunlight, water, and carbon dioxide into glucose."
+      "correct": 2,
+      "explanation": "Freezing is the process by which water changes state from a liquid to a solid, resulting in the formation of ice."
     },
     {
       "id": 57,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following is an example of a pattern recognition question?",
+      "question": "What is the next letter in the series: A, D, G, J, M?",
       "options": [
-        "A math problem",
-        "A word search puzzle",
-        "A series of numbers",
-        "A visual pattern"
+        "O",
+        "P",
+        "Q",
+        "R"
       ],
-      "correct": 3,
-      "explanation": "A visual pattern is an example of a pattern recognition question, where the test-taker must identify the underlying pattern or relationship between visual elements."
+      "correct": 0,
+      "explanation": "The pattern of the series is obtained by adding 3 to the previous letter in the alphabet. Therefore, the next letter in the series would be O."
     },
     {
       "id": 58,
       "category": "Indian Polity",
-      "question": "What is the name of the document that outlines the powers of the President of India?",
+      "question": "What is the name of the Indian Constitution's fundamental right that guarantees freedom of speech and expression?",
       "options": [
-        "The Constitution of India",
-        "The Indian Penal Code",
-        "The Code of Civil Procedure",
-        "The Code of Criminal Procedure"
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
       ],
       "correct": 0,
-      "explanation": "The Constitution of India is the document that outlines the powers of the President of India, which are enshrined in Article 53 of the Constitution."
+      "explanation": "Article 19 of the Indian Constitution guarantees freedom of speech and expression, which is an essential right for citizens in a democratic country."
     },
     {
       "id": 59,
       "category": "Geography",
-      "question": "Which state is the largest producer of sugarcane in India?",
+      "question": "Which city is the largest in the state of Maharashtra?",
       "options": [
-        "Uttar Pradesh",
-        "Maharashtra",
-        "Karnataka",
-        "Tamil Nadu"
+        "Mumbai",
+        "Pune",
+        "Nagpur",
+        "Thane"
       ],
       "correct": 0,
-      "explanation": "Uttar Pradesh is the largest producer of sugarcane in India, accounting for over 40% of the country's total sugarcane production."
+      "explanation": "Mumbai is the largest city in the state of Maharashtra and is known as the financial capital of India."
     },
     {
       "id": 60,
       "category": "Current Affairs & GK",
-      "question": "What is the name of the Indian government's scheme to promote rural employment?",
+      "question": "What is the name of the Indian government's scheme to promote renewable energy?",
       "options": [
-        "Mahatma Gandhi National Rural Employment Guarantee Act",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
+        "National Solar Mission",
+        "National Wind Mission",
+        "National Renewable Energy Mission",
+        "National Clean Energy Mission"
       ],
       "correct": 0,
-      "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act is a scheme launched by the Indian government to promote rural employment and provide a guaranteed 100 days of employment to rural households."
+      "explanation": "The National Solar Mission is a scheme launched by the Indian government to promote the use of solar energy and reduce the country's dependence on fossil fuels."
     }
   ]
 }

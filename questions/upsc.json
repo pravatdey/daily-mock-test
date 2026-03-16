@@ -7,59 +7,150 @@
     {
       "id": 1,
       "category": "Indian History",
-      "question": "What was the primary reason for the revolt of 1857?",
+      "question": "The ancient Indian university of Taxila was situated in which modern-day country?",
       "options": [
-        "Introduction of the Enfield rifle",
-        "Economic exploitation by the British",
-        "Social and religious reforms",
-        "Lack of representation in the government"
+        "India",
+        "Pakistan",
+        "Afghanistan",
+        "Nepal"
       ],
-      "correct": 0,
-      "explanation": "The primary reason for the revolt of 1857 was the introduction of the Enfield rifle, which used greased cartridges that had to be bitten open before loading, thereby offending both Hindus and Muslims."
+      "correct": 1,
+      "explanation": "Taxila, a significant ancient Indian university, was located in what is now modern-day Pakistan."
     },
     {
       "id": 2,
       "category": "Indian Geography",
-      "question": "Which of the following rivers flows through the states of Madhya Pradesh and Gujarat?",
+      "question": "Which of the following rivers flows through the Kaziranga National Park?",
       "options": [
-        "Narmada",
-        "Tapi",
-        "Mahanadi",
-        "Godavari"
+        "Brahmaputra",
+        "Ganges",
+        "Yamuna",
+        "Mekong"
       ],
       "correct": 0,
-      "explanation": "The Narmada River flows through the states of Madhya Pradesh and Gujarat."
+      "explanation": "The Brahmaputra River flows through the Kaziranga National Park, a UNESCO World Heritage Site."
     },
     {
       "id": 3,
       "category": "Indian Polity & Governance",
-      "question": "What is the term of office for a member of the Rajya Sabha?",
+      "question": "The 42nd Amendment to the Indian Constitution, enacted in 1976, added which of the following words to the Preamble?",
       "options": [
-        "4 years",
-        "5 years",
-        "6 years",
-        "7 years"
+        "Socialist",
+        "Secular",
+        "Federal",
+        "Both A and B"
       ],
-      "correct": 2,
-      "explanation": "The term of office for a member of the Rajya Sabha is 6 years."
+      "correct": 3,
+      "explanation": "The 42nd Amendment added the words 'Socialist' and 'Secular' to the Preamble of the Indian Constitution."
     },
     {
       "id": 4,
       "category": "Indian Economy",
-      "question": "What is the main objective of the Five Year Plans in India?",
+      "question": "The concept of 'demographic dividend' refers to the economic benefits arising from a large youth population. What is the approximate age range for this demographic?",
       "options": [
-        "To achieve rapid industrialization",
-        "To promote foreign trade",
-        " \"To reduce poverty and inequality",
-        "n"
+        "15-24 years",
+        "25-34 years",
+        "15-59 years",
+        "60 years and above"
       ],
       "correct": 0,
-      "explanation": "No explanation available."
+      "explanation": "The demographic dividend refers to the economic benefits that can arise when a large youth population, typically in the 15-24 age range, enters the workforce."
     },
     {
       "id": 5,
       "category": "General Science",
-      "question": "What is the process by which plants convert sunlight into energy?",
+      "question": "What is the primary function of the mitochondria in a cell?",
+      "options": [
+        "Protein synthesis",
+        "DNA replication",
+        "Cell division",
+        "Energy production"
+      ],
+      "correct": 3,
+      "explanation": "The primary function of the mitochondria is to generate energy for the cell through the process of cellular respiration."
+    },
+    {
+      "id": 6,
+      "category": "Environment & Ecology",
+      "question": "The Nagoya Protocol is an international agreement that aims to promote the fair and equitable sharing of benefits arising from the use of genetic resources. It was adopted in which year?",
+      "options": [
+        "2010",
+        "2011",
+        "2012",
+        "2014"
+      ],
+      "correct": 0,
+      "explanation": "The Nagoya Protocol was adopted in 2010 and entered into force in 2014."
+    },
+    {
+      "id": 7,
+      "category": "Current Affairs & General Knowledge",
+      "question": "The Indian government launched the 'Pradhan Mantri Jan Dhan Yojana' in which year to promote financial inclusion?",
+      "options": [
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "correct": 1,
+      "explanation": "The Pradhan Mantri Jan Dhan Yojana was launched in 2014 to promote financial inclusion and provide access to banking services for all."
+    },
+    {
+      "id": 8,
+      "category": "Indian History",
+      "question": "The Regulating Act of 1773 was the first attempt by the British Parliament to regulate the affairs of the East India Company in India. What was the main purpose of this act?",
+      "options": [
+        "To establish British rule in India",
+        "To promote trade and commerce",
+        "To regulate the East India Company's affairs",
+        "To grant independence to India"
+      ],
+      "correct": 2,
+      "explanation": "The Regulating Act of 1773 was enacted to regulate the East India Company's affairs and to curb its powers."
+    },
+    {
+      "id": 9,
+      "category": "Indian Geography",
+      "question": "The state of Meghalaya is known for its abundant rainfall and is often referred to as the 'Scotland of the East'. Which of the following factors contributes to its high rainfall?",
+      "options": [
+        "Proximity to the equator",
+        "Presence of the Himalayas",
+        "Influence of the South-West monsoon",
+        "All of the above"
+      ],
+      "correct": 2,
+      "explanation": "The state of Meghalaya receives high rainfall due to its location in the path of the South-West monsoon."
+    },
+    {
+      "id": 10,
+      "category": "Indian Polity & Governance",
+      "question": "The concept of 'collective responsibility' in the context of the Indian Constitution refers to the responsibility of the Council of Ministers to?",
+      "options": [
+        "The President",
+        "The Parliament",
+        "The Judiciary",
+        "The People"
+      ],
+      "correct": 1,
+      "explanation": "The concept of collective responsibility refers to the responsibility of the Council of Ministers to the Parliament."
+    },
+    {
+      "id": 11,
+      "category": "Indian Economy",
+      "question": "The term 'fiscal deficit' refers to the difference between the government's total expenditure and its?",
+      "options": [
+        "Total revenue",
+        "Total borrowing",
+        "Total grants",
+        "Total investments"
+      ],
+      "correct": 0,
+      "explanation": "The fiscal deficit refers to the difference between the government's total expenditure and its total revenue."
+    },
+    {
+      "id": 12,
+      "category": "General Science",
+      "question": "What is the process by which plants convert light energy into chemical energy?",
       "options": [
         "Respiration",
         "Photosynthesis",
@@ -67,88 +158,88 @@
         "Fermentation"
       ],
       "correct": 1,
-      "explanation": "The process by which plants convert sunlight into energy is called photosynthesis."
+      "explanation": "Photosynthesis is the process by which plants convert light energy into chemical energy in the form of glucose."
     },
     {
-      "id": 6,
+      "id": 13,
       "category": "Environment & Ecology",
-      "question": "What is the main cause of the depletion of the ozone layer?",
+      "question": "The Ramsar Convention is an international treaty that aims to conserve and manage which of the following ecosystems?",
       "options": [
-        "Global warming",
-        "Deforestation",
-        "Chlorofluorocarbons (CFCs)",
-        "Pollution"
+        "Wetlands",
+        "Forests",
+        "Grasslands",
+        "Deserts"
       ],
-      "correct": 2,
-      "explanation": "The main cause of the depletion of the ozone layer is the release of chlorofluorocarbons (CFCs) into the atmosphere."
+      "correct": 0,
+      "explanation": "The Ramsar Convention is an international treaty that aims to conserve and manage wetland ecosystems."
     },
     {
-      "id": 7,
+      "id": 14,
       "category": "Current Affairs & General Knowledge",
-      "question": "What is the name of the scheme launched by the government to provide financial assistance to small and medium enterprises?",
+      "question": "The Indian government launched the 'Make in India' initiative in which year to promote manufacturing and entrepreneurship?",
       "options": [
-        "Stand-Up India",
-        "Start-Up India",
-        "Make in India",
-        "Digital India"
+        "2013",
+        "2014",
+        "2015",
+        "2016"
       ],
       "correct": 1,
-      "explanation": "The scheme launched by the government to provide financial assistance to small and medium enterprises is called Start-Up India."
+      "explanation": "The Make in India initiative was launched in 2014 to promote manufacturing and entrepreneurship in India."
     },
     {
-      "id": 8,
+      "id": 15,
       "category": "Indian History",
-      "question": "Who was the leader of the Indian National Congress during the Non-Cooperation Movement?",
+      "question": "The ancient Indian text 'Arthashastra' was written by?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Lala Lajpat Rai"
+        "Kautilya",
+        "Manu",
+        "Vyasa",
+        "Valmiki"
       ],
       "correct": 0,
-      "explanation": "The leader of the Indian National Congress during the Non-Cooperation Movement was Mahatma Gandhi."
+      "explanation": "The ancient Indian text 'Arthashastra' was written by Kautilya, also known as Chanakya."
     },
     {
-      "id": 9,
+      "id": 16,
       "category": "Indian Geography",
-      "question": "Which of the following mountain ranges runs along the border between India and Pakistan?",
+      "question": "The Western Ghats mountain range is also known as the?",
       "options": [
-        "The Karakoram range",
-        "The Himalayan range",
-        "The Aravalli range",
-        "The Vindhya range"
+        "Sahyadri",
+        "Nilgiri",
+        "Annamalai",
+        "Cardamom Hills"
       ],
       "correct": 0,
-      "explanation": "The Karakoram range runs along the border between India and Pakistan."
+      "explanation": "The Western Ghats mountain range is also known as the Sahyadri range."
     },
     {
-      "id": 10,
+      "id": 17,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the constitutional amendment that gave constitutional status to the National Commission for Scheduled Castes and Scheduled Tribes?",
+      "question": "The Indian Constitution provides for the establishment of a 'Council of Ministers' to aid and advise the?",
       "options": [
-        "65th Amendment",
-        "66th Amendment",
-        "67th Amendment",
-        "68th Amendment"
+        "President",
+        "Vice-President",
+        "Prime Minister",
+        "Governor"
       ],
       "correct": 0,
-      "explanation": "The 65th Amendment gave constitutional status to the National Commission for Scheduled Castes and Scheduled Tribes."
+      "explanation": "The Indian Constitution provides for the establishment of a Council of Ministers to aid and advise the President."
     },
     {
-      "id": 11,
+      "id": 18,
       "category": "Indian Economy",
-      "question": "What is the name of the economic policy initiated by the government in 1991 to open up the Indian economy to foreign investment and competition?",
+      "question": "The term 'inflation' refers to a sustained increase in the general?",
       "options": [
-        "New Economic Policy",
-        "Economic Reforms",
-        "Liberalization",
-        "Globalization"
+        "Level of employment",
+        "Rate of interest",
+        "Price level",
+        "Level of production"
       ],
-      "correct": 0,
-      "explanation": "The economic policy initiated by the government in 1991 to open up the Indian economy to foreign investment and competition is called the New Economic Policy."
+      "correct": 2,
+      "explanation": "Inflation refers to a sustained increase in the general price level of goods and services in an economy."
     },
     {
-      "id": 12,
+      "id": 19,
       "category": "General Science",
       "question": "What is the largest planet in our solar system?",
       "options": [
@@ -158,220 +249,129 @@
         "Uranus"
       ],
       "correct": 2,
-      "explanation": "The largest planet in our solar system is Jupiter."
-    },
-    {
-      "id": 13,
-      "category": "Environment & Ecology",
-      "question": "What is the name of the international agreement aimed at reducing greenhouse gas emissions and mitigating the effects of climate change?",
-      "options": [
-        "Kyoto Protocol",
-        "Paris Agreement",
-        "Montreal Protocol",
-        "Rio Declaration"
-      ],
-      "correct": 1,
-      "explanation": "The international agreement aimed at reducing greenhouse gas emissions and mitigating the effects of climate change is called the Paris Agreement."
-    },
-    {
-      "id": 14,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the author of the book 'The Discovery of India'?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Rabindranath Tagore",
-        "Subhas Chandra Bose"
-      ],
-      "correct": 0,
-      "explanation": "The author of the book 'The Discovery of India' is Jawaharlal Nehru."
-    },
-    {
-      "id": 15,
-      "category": "Indian History",
-      "question": "The Regulating Act of 1773 was passed to regulate the affairs of which of the following East India Company Presidencies?",
-      "options": [
-        "Bengal",
-        "Bombay",
-        "Madras",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "The Regulating Act of 1773 was passed to regulate the affairs of all the East India Company Presidencies, i.e., Bengal, Bombay, and Madras."
-    },
-    {
-      "id": 16,
-      "category": "Indian Geography",
-      "question": "Which of the following rivers is the longest in South India?",
-      "options": [
-        "Godavari",
-        "Krishna",
-        "Kaveri",
-        "Tungabhadra"
-      ],
-      "correct": 0,
-      "explanation": "The Godavari River is the longest in South India."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Governance",
-      "question": "What is the name of the constitutional article that deals with the Right to Freedom of Speech and Expression?",
-      "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
-      ],
-      "correct": 0,
-      "explanation": "The constitutional article that deals with the Right to Freedom of Speech and Expression is Article 19."
-    },
-    {
-      "id": 18,
-      "category": "Indian Economy",
-      "question": "What is the term for the difference between the value of a country's exports and imports?",
-      "options": [
-        "Balance of Trade",
-        "Balance of Payments",
-        "Current Account",
-        "Capital Account"
-      ],
-      "correct": 0,
-      "explanation": "The term for the difference between the value of a country's exports and imports is called the Balance of Trade."
-    },
-    {
-      "id": 19,
-      "category": "General Science",
-      "question": "What is the scientific term for the study of the structure, behavior, and evolution of the universe?",
-      "options": [
-        "Cosmology",
-        "Astronomy",
-        "Astrophysics",
-        "Geology"
-      ],
-      "correct": 0,
-      "explanation": "The scientific term for the study of the structure, behavior, and evolution of the universe is Cosmology."
+      "explanation": "Jupiter is the largest planet in our solar system."
     },
     {
       "id": 20,
       "category": "Environment & Ecology",
-      "question": "What is the name of the international convention aimed at conserving and managing the world's biodiversity?",
+      "question": "The term 'biodiversity' refers to the variety of?",
       "options": [
-        "United Nations Framework Convention on Climate Change",
-        "Convention on International Trade in Endangered Species of Wild Fauna and Flora",
-        "Convention on Biological Diversity",
-        "Montreal Protocol"
+        "Plants",
+        "Animals",
+        "Microorganisms",
+        "All of the above"
       ],
-      "correct": 2,
-      "explanation": "The international convention aimed at conserving and managing the world's biodiversity is called the Convention on Biological Diversity."
+      "correct": 3,
+      "explanation": "Biodiversity refers to the variety of all living organisms, including plants, animals, and microorganisms."
     },
     {
       "id": 21,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the founder of the Azad Hind Fauj?",
+      "question": "The Indian government launched the 'Swachh Bharat Abhiyan' in which year to promote cleanliness and sanitation?",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bhagat Singh"
+        "2013",
+        "2014",
+        "2015",
+        "2016"
       ],
-      "correct": 0,
-      "explanation": "The founder of the Azad Hind Fauj was Subhas Chandra Bose."
+      "correct": 1,
+      "explanation": "The Swachh Bharat Abhiyan was launched in 2014 to promote cleanliness and sanitation in India."
     },
     {
       "id": 22,
       "category": "Indian History",
-      "question": "The Government of India Act of 1935 was passed to provide for which of the following?",
+      "question": "The ancient Indian emperor Ashoka the Great ruled from?",
       "options": [
-        "Greater autonomy to the provinces",
-        "Increased representation to the princely states",
-        "Introduction of federalism in India",
-        "All of the above"
+        "269-232 BCE",
+        "249-183 BCE",
+        "221-184 BCE",
+        "261-218 BCE"
       ],
-      "correct": 3,
-      "explanation": "The Government of India Act of 1935 was passed to provide for greater autonomy to the provinces, increased representation to the princely states, and introduction of federalism in India."
+      "correct": 0,
+      "explanation": "Ashoka the Great ruled from 269-232 BCE."
     },
     {
       "id": 23,
       "category": "Indian Geography",
-      "question": "Which of the following mountain ranges is located in the state of Jammu and Kashmir?",
+      "question": "The city of Mumbai is located on the?",
       "options": [
-        "The Karakoram range",
-        "The Himalayan range",
-        "The Pir Panjal range",
-        "All of the above"
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Indian Ocean",
+        "Red Sea"
       ],
-      "correct": 3,
-      "explanation": "All of the above mountain ranges are located in the state of Jammu and Kashmir."
+      "correct": 0,
+      "explanation": "The city of Mumbai is located on the Arabian Sea."
     },
     {
       "id": 24,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the constitutional article that deals with the Right to Equality?",
+      "question": "The Indian Constitution provides for the establishment of a 'National Commission for Scheduled Castes' to promote the welfare of?",
       "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
+        "Scheduled Castes",
+        "Scheduled Tribes",
+        "Other Backward Classes",
+        "Minorities"
       ],
       "correct": 0,
-      "explanation": "The constitutional article that deals with the Right to Equality is Article 14."
+      "explanation": "The Indian Constitution provides for the establishment of a National Commission for Scheduled Castes to promote their welfare."
     },
     {
       "id": 25,
       "category": "Indian Economy",
-      "question": "What is the term for the economic system in which the government plays a significant role in the production and distribution of goods and services?",
+      "question": "The term 'fiscal policy' refers to the use of government?",
       "options": [
-        "Capitalism",
-        "Socialism",
-        "Communism",
-        "Mixed Economy"
+        "Monetary policy",
+        "Fiscal policy",
+        "Trade policy",
+        "Industrial policy"
       ],
-      "correct": 3,
-      "explanation": "The term for the economic system in which the government plays a significant role in the production and distribution of goods and services is called a Mixed Economy."
+      "correct": 1,
+      "explanation": "Fiscal policy refers to the use of government spending and taxation to manage the economy."
     },
     {
       "id": 26,
       "category": "General Science",
-      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
       "options": [
-        "Mutation",
-        "Genetic Drift",
-        "Natural Selection",
-        "Hereditary"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
       ],
-      "correct": 3,
-      "explanation": "The process by which an organism's genetic information is passed from one generation to the next is called Hereditary."
+      "correct": 2,
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves."
     },
     {
       "id": 27,
       "category": "Environment & Ecology",
-      "question": "What is the name of the largest tiger reserve in India?",
+      "question": "The term 'ecosystem' refers to a community of?",
       "options": [
-        "Sundarbans Tiger Reserve",
-        "Periyar Tiger Reserve",
-        "Kaziranga Tiger Reserve",
-        "Nagarjunsagar-Srisailam Tiger Reserve"
+        "Plants",
+        "Animals",
+        "Microorganisms",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The Sundarbans Tiger Reserve is the largest tiger reserve in India."
+      "correct": 3,
+      "explanation": "An ecosystem refers to a community of all living organisms, including plants, animals, and microorganisms, and their physical environment."
     },
     {
       "id": 28,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the author of the book 'India Wins Freedom'?",
+      "question": "The Indian government launched the 'Digital India' initiative in which year to promote digital literacy and infrastructure?",
       "options": [
-        "Abul Kalam Azad",
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Maulana Azad"
+        "2013",
+        "2014",
+        "2015",
+        "2016"
       ],
-      "correct": 0,
-      "explanation": "The author of the book 'India Wins Freedom' is Abul Kalam Azad."
+      "correct": 1,
+      "explanation": "The Digital India initiative was launched in 2014 to promote digital literacy and infrastructure in India."
     },
     {
       "id": 29,
       "category": "Indian History",
-      "question": "The Indian National Congress was founded in which year?",
+      "question": "The Indian National Congress was founded in?",
       "options": [
         "1884",
         "1885",
@@ -384,405 +384,405 @@
     {
       "id": 30,
       "category": "Indian Geography",
-      "question": "Which of the following rivers is the longest in India?",
+      "question": "The state of Rajasthan is known for its?",
       "options": [
-        "Ganges",
-        "Brahmaputra",
-        "Godavari",
-        "Indus"
+        "Deserts",
+        "Forests",
+        "Mountains",
+        "Rivers"
       ],
       "correct": 0,
-      "explanation": "The Ganges River is the longest in India."
+      "explanation": "The state of Rajasthan is known for its deserts, including the Thar Desert."
     },
     {
       "id": 31,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the constitutional article that deals with the Power of the Supreme Court to grant special leave to appeal?",
+      "question": "The Indian Constitution provides for the establishment of a 'Supreme Court' to?",
       "options": [
-        "Article 124",
-        "Article 125",
-        "Article 132",
-        "Article 133"
+        "Interpret the Constitution",
+        "Make laws",
+        "Enforce laws",
+        "All of the above"
       ],
-      "correct": 2,
-      "explanation": "The constitutional article that deals with the Power of the Supreme Court to grant special leave to appeal is Article 132."
+      "correct": 0,
+      "explanation": "The Indian Constitution provides for the establishment of a Supreme Court to interpret the Constitution."
     },
     {
       "id": 32,
       "category": "Indian Economy",
-      "question": "What is the term for the economic policy of reducing trade barriers and increasing international trade?",
+      "question": "The term 'poverty line' refers to the minimum level of income required to?",
       "options": [
-        "Protectionism",
-        "Free Trade",
-        "Globalization",
-        "Liberalization"
+        "Meet basic needs",
+        "Achieve economic growth",
+        "Reduce inequality",
+        "Increase employment"
       ],
-      "correct": 1,
-      "explanation": "The term for the economic policy of reducing trade barriers and increasing international trade is called Free Trade."
+      "correct": 0,
+      "explanation": "The poverty line refers to the minimum level of income required to meet basic needs, such as food, shelter, and clothing."
     },
     {
       "id": 33,
       "category": "General Science",
-      "question": "What is the scientific term for the study of the structure and behavior of the Earth's atmosphere?",
+      "question": "What is the largest living structure on Earth?",
       "options": [
-        "Meteorology",
-        "Climatology",
-        "Geology",
-        "Oceanography"
+        "The Great Barrier Reef",
+        "The Amazon Rainforest",
+        "The Grand Canyon",
+        "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The scientific term for the study of the structure and behavior of the Earth's atmosphere is Meteorology."
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth."
     },
     {
       "id": 34,
       "category": "Environment & Ecology",
-      "question": "What is the name of the international agreement aimed at reducing the emission of ozone-depleting substances?",
+      "question": "The term 'climate change' refers to a long-term change in the?",
       "options": [
-        "Montreal Protocol",
-        "Kyoto Protocol",
-        "Paris Agreement",
-        "Stockholm Convention"
+        "Weather patterns",
+        "Temperature",
+        "Sea level",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The international agreement aimed at reducing the emission of ozone-depleting substances is called the Montreal Protocol."
+      "correct": 3,
+      "explanation": "Climate change refers to a long-term change in the average weather patterns, temperature, and sea level of the Earth."
     },
     {
       "id": 35,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the founder of the Rashtriya Swayamsevak Sangh (RSS)?",
+      "question": "The Indian government launched the 'Skill India' initiative in which year to promote vocational training and skill development?",
       "options": [
-        "Keshav Baliram Hedgewar",
-        "Madhav Sadashiv Golwalkar",
-        "Lal Bahadur Shastri",
-        "Deen Dayal Upadhyay"
+        "2013",
+        "2014",
+        "2015",
+        "2016"
       ],
-      "correct": 0,
-      "explanation": "The founder of the Rashtriya Swayamsevak Sangh (RSS) was Keshav Baliram Hedgewar."
+      "correct": 1,
+      "explanation": "The Skill India initiative was launched in 2014 to promote vocational training and skill development in India."
     },
     {
       "id": 36,
       "category": "Indian History",
-      "question": "The Quit India Movement was launched in which year?",
+      "question": "The Mughal emperor Akbar the Great ruled from?",
       "options": [
-        "1940",
-        "1941",
-        "1942",
-        "1943"
+        "1556-1605",
+        "1560-1620",
+        "1550-1600",
+        "1570-1615"
       ],
-      "correct": 2,
-      "explanation": "The Quit India Movement was launched in 1942."
+      "correct": 0,
+      "explanation": "Akbar the Great ruled from 1556-1605."
     },
     {
       "id": 37,
       "category": "Indian Geography",
-      "question": "Which of the following states has the longest coastline in India?",
+      "question": "The city of Kolkata is located on the?",
       "options": [
-        "Gujarat",
-        "Maharashtra",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Ganges River",
+        "Brahmaputra River",
+        "Godavari River",
+        "Krishna River"
       ],
       "correct": 0,
-      "explanation": "Gujarat has the longest coastline in India."
+      "explanation": "The city of Kolkata is located on the Ganges River."
     },
     {
       "id": 38,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the constitutional article that deals with the Fundamental Duties of citizens?",
+      "question": "The Indian Constitution provides for the establishment of a 'Comptroller and Auditor General' to?",
       "options": [
-        "Article 51A",
-        "Article 51B",
-        "Article 51C",
-        "Article 51D"
+        "Audit government accounts",
+        "Investigate corruption",
+        "Enforce laws",
+        "All of the above"
       ],
       "correct": 0,
-      "explanation": "The constitutional article that deals with the Fundamental Duties of citizens is Article 51A."
+      "explanation": "The Indian Constitution provides for the establishment of a Comptroller and Auditor General to audit government accounts."
     },
     {
       "id": 39,
       "category": "Indian Economy",
-      "question": "What is the term for the economic system in which the government owns and controls the means of production?",
+      "question": "The term 'human development index' refers to a measure of a country's?",
       "options": [
-        "Capitalism",
-        "Socialism",
-        "Communism",
-        "Mixed Economy"
+        "Economic growth",
+        "Poverty rate",
+        "Literacy rate",
+        "All of the above"
       ],
-      "correct": 1,
-      "explanation": "The term for the economic system in which the government owns and controls the means of production is Socialism."
+      "correct": 3,
+      "explanation": "The human development index is a measure of a country's economic growth, poverty rate, literacy rate, and other social indicators."
     },
     {
       "id": 40,
       "category": "General Science",
-      "question": "What is the scientific term for the study of the structure and behavior of living organisms?",
+      "question": "What is the process by which the universe became transparent to light, occurring about 380,000 years after the Big Bang?",
       "options": [
-        "Biology",
-        "Chemistry",
-        "Physics",
-        "Geology"
+        "Recombination",
+        "Ionization",
+        "Nucleosynthesis",
+        "Cosmic inflation"
       ],
       "correct": 0,
-      "explanation": "The scientific term for the study of the structure and behavior of living organisms is Biology."
+      "explanation": "Recombination is the process by which the universe became transparent to light, occurring about 380,000 years after the Big Bang."
     },
     {
       "id": 41,
       "category": "Environment & Ecology",
-      "question": "What is the name of the largest national park in India?",
+      "question": "The term 'endangered species' refers to a species that is at high risk of?",
       "options": [
-        "Hemis National Park",
-        "Kaziranga National Park",
-        "Periyar National Park",
-        "Sundarbans National Park"
+        "Extinction",
+        "Habitat loss",
+        "Pollution",
+        "All of the above"
       ],
       "correct": 0,
-      "explanation": "The Hemis National Park is the largest national park in India."
+      "explanation": "An endangered species is a species that is at high risk of extinction."
     },
     {
       "id": 42,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the author of the book 'Gita Rahasya'?",
+      "question": "The Indian government launched the 'Start-Up India' initiative in which year to promote entrepreneurship and innovation?",
       "options": [
-        "Bal Gangadhar Tilak",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose"
+        "2014",
+        "2015",
+        "2016",
+        "2017"
       ],
-      "correct": 0,
-      "explanation": "The author of the book 'Gita Rahasya' is Bal Gangadhar Tilak."
+      "correct": 1,
+      "explanation": "The Start-Up India initiative was launched in 2015 to promote entrepreneurship and innovation in India."
     },
     {
       "id": 43,
       "category": "Indian History",
-      "question": "The Battle of Plassey was fought in which year?",
+      "question": "The Indian Rebellion of 1857 was also known as the?",
       "options": [
-        "1756",
-        "1757",
-        "1758",
-        "1759"
+        "Sepoy Mutiny",
+        "Indian Mutiny",
+        "Great Rebellion",
+        "War of Independence"
       ],
-      "correct": 1,
-      "explanation": "The Battle of Plassey was fought in 1757."
+      "correct": 0,
+      "explanation": "The Indian Rebellion of 1857 was also known as the Sepoy Mutiny."
     },
     {
       "id": 44,
       "category": "Indian Geography",
-      "question": "Which of the following rivers flows through the states of Maharashtra and Gujarat?",
+      "question": "The state of Sikkim is located in the?",
       "options": [
-        "Narmada",
-        "Tapi",
-        "Godavari",
-        "Krishna"
+        "Himalayan region",
+        "Eastern Ghats",
+        "Western Ghats",
+        "Deccan Plateau"
       ],
       "correct": 0,
-      "explanation": "The Narmada River flows through the states of Maharashtra and Gujarat."
+      "explanation": "The state of Sikkim is located in the Himalayan region."
     },
     {
       "id": 45,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the constitutional article that deals with the Power of the President to grant pardons?",
+      "question": "The Indian Constitution provides for the establishment of a 'Finance Commission' to?",
       "options": [
-        "Article 72",
-        "Article 73",
-        "Article 74",
-        "Article 75"
+        " Allocate funds to states",
+        "Regulate taxes",
+        "Monitor government spending",
+        "All of the above"
       ],
       "correct": 0,
-      "explanation": "The constitutional article that deals with the Power of the President to grant pardons is Article 72."
+      "explanation": "The Indian Constitution provides for the establishment of a Finance Commission to allocate funds to states."
     },
     {
       "id": 46,
       "category": "Indian Economy",
-      "question": "What is the term for the economic policy of increasing government spending and cutting taxes to stimulate economic growth?",
+      "question": "The term 'foreign direct investment' refers to an investment made by a?",
       "options": [
-        "Fiscal Policy",
-        "Monetary Policy",
-        "Fiscal Consolidation",
-        "Supply-Side Economics"
+        "Domestic company",
+        "Foreign company",
+        "Government agency",
+        "Non-governmental organization"
       ],
-      "correct": 0,
-      "explanation": "The term for the economic policy of increasing government spending and cutting taxes to stimulate economic growth is Fiscal Policy."
+      "correct": 1,
+      "explanation": "Foreign direct investment refers to an investment made by a foreign company in a domestic company."
     },
     {
       "id": 47,
       "category": "General Science",
-      "question": "What is the scientific term for the study of the Earth's physical structure and processes?",
+      "question": "What is the largest mammal on Earth?",
       "options": [
-        "Geology",
-        "Meteorology",
-        "Oceanography",
-        "Astronomy"
+        "Blue whale",
+        "Fin whale",
+        "Humpback whale",
+        "Sperm whale"
       ],
       "correct": 0,
-      "explanation": "The scientific term for the study of the Earth's physical structure and processes is Geology."
+      "explanation": "The blue whale is the largest mammal on Earth."
     },
     {
       "id": 48,
       "category": "Environment & Ecology",
-      "question": "What is the name of the international agreement aimed at reducing the emission of greenhouse gases?",
+      "question": "The term 'ecological footprint' refers to the impact of human activities on the?",
       "options": [
-        "Kyoto Protocol",
-        "Paris Agreement",
-        "Montreal Protocol",
-        "Stockholm Convention"
+        "Environment",
+        "Economy",
+        "Society",
+        "All of the above"
       ],
       "correct": 0,
-      "explanation": "The international agreement aimed at reducing the emission of greenhouse gases is called the Kyoto Protocol."
+      "explanation": "The ecological footprint refers to the impact of human activities on the environment."
     },
     {
       "id": 49,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the founder of the Bharatiya Jana Sangh?",
+      "question": "The Indian government launched the 'Stand-Up India' initiative in which year to promote entrepreneurship and employment among Scheduled Castes and Scheduled Tribes?",
       "options": [
-        "Shyama Prasad Mukherjee",
-        "Deen Dayal Upadhyay",
-        "Lal Bahadur Shastri",
-        "Atal Bihari Vajpayee"
+        "2014",
+        "2015",
+        "2016",
+        "2017"
       ],
-      "correct": 0,
-      "explanation": "The founder of the Bharatiya Jana Sangh was Shyama Prasad Mukherjee."
+      "correct": 2,
+      "explanation": "The Stand-Up India initiative was launched in 2016 to promote entrepreneurship and employment among Scheduled Castes and Scheduled Tribes."
     },
     {
       "id": 50,
       "category": "Indian History",
-      "question": "The Indian Independence Act was passed in which year?",
+      "question": "The ancient Indian city of Mohenjo-Daro was located in which modern-day country?",
       "options": [
-        "1946",
-        "1947",
-        "1948",
-        "1949"
+        "India",
+        "Pakistan",
+        "Afghanistan",
+        "Iran"
       ],
       "correct": 1,
-      "explanation": "The Indian Independence Act was passed in 1947."
+      "explanation": "The ancient Indian city of Mohenjo-Daro was located in modern-day Pakistan."
     },
     {
       "id": 51,
       "category": "Indian Geography",
-      "question": "Which of the following states has the highest population density in India?",
+      "question": "The Andaman and Nicobar Islands are located in the?",
       "options": [
-        "Bihar",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Delhi"
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Indian Ocean",
+        "Pacific Ocean"
       ],
-      "correct": 3,
-      "explanation": "Delhi has the highest population density in India."
+      "correct": 1,
+      "explanation": "The Andaman and Nicobar Islands are located in the Bay of Bengal."
     },
     {
       "id": 52,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the constitutional article that deals with the Power of the Parliament to make laws?",
+      "question": "The Indian Constitution provides for the establishment of a 'National Human Rights Commission' to?",
       "options": [
-        "Article 245",
-        "Article 246",
-        "Article 247",
-        "Article 248"
+        "Protect human rights",
+        "Promote social justice",
+        "Enforce laws",
+        "All of the above"
       ],
       "correct": 0,
-      "explanation": "The constitutional article that deals with the Power of the Parliament to make laws is Article 245."
+      "explanation": "The Indian Constitution provides for the establishment of a National Human Rights Commission to protect human rights."
     },
     {
       "id": 53,
       "category": "Indian Economy",
-      "question": "What is the term for the economic policy of reducing government spending and increasing taxes to reduce budget deficits?",
+      "question": "The term 'inflation targeting' refers to a monetary policy strategy that focuses on?",
       "options": [
-        "Fiscal Consolidation",
-        "Fiscal Expansion",
-        "Monetary Policy",
-        "Supply-Side Economics"
+        "Controlling inflation",
+        "Promoting economic growth",
+        "Reducing unemployment",
+        "All of the above"
       ],
       "correct": 0,
-      "explanation": "The term for the economic policy of reducing government spending and increasing taxes to reduce budget deficits is Fiscal Consolidation."
+      "explanation": "Inflation targeting refers to a monetary policy strategy that focuses on controlling inflation."
     },
     {
       "id": 54,
       "category": "General Science",
-      "question": "What is the scientific term for the study of the structure and behavior of the universe?",
+      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
       "options": [
-        "Cosmology",
-        "Astronomy",
-        "Astrophysics",
-        "Geology"
+        "Mutation",
+        "Genetic drift",
+        "Gene flow",
+        "Hereditary"
       ],
-      "correct": 0,
-      "explanation": "The scientific term for the study of the structure and behavior of the universe is Cosmology."
+      "correct": 3,
+      "explanation": "Hereditary refers to the process by which an organism's genetic information is passed from one generation to the next."
     },
     {
       "id": 55,
       "category": "Environment & Ecology",
-      "question": "What is the name of the largest wildlife sanctuary in India?",
+      "question": "The term 'sustainable development' refers to a development that meets the needs of the present without?",
       "options": [
-        "Periyar Wildlife Sanctuary",
-        "Kaziranga Wildlife Sanctuary",
-        "Sundarbans Wildlife Sanctuary",
-        "Hemis Wildlife Sanctuary"
+        "Compromising the ability of future generations to meet their own needs",
+        "Harming the environment",
+        "Reducing economic growth",
+        "All of the above"
       ],
       "correct": 0,
-      "explanation": "The Periyar Wildlife Sanctuary is the largest wildlife sanctuary in India."
+      "explanation": "Sustainable development refers to a development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
     },
     {
       "id": 56,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the author of the book 'The Indian War of Independence'?",
+      "question": "The Indian government launched the 'Unnat Jyoti by Affordable LEDs for All' initiative in which year to promote the use of energy-efficient lighting?",
       "options": [
-        "Vinayak Damodar Savarkar",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose"
+        "2014",
+        "2015",
+        "2016",
+        "2017"
       ],
-      "correct": 0,
-      "explanation": "The author of the book 'The Indian War of Independence' is Vinayak Damodar Savarkar."
+      "correct": 1,
+      "explanation": "The Unnat Jyoti by Affordable LEDs for All initiative was launched in 2015 to promote the use of energy-efficient lighting."
     },
     {
       "id": 57,
       "category": "Indian History",
-      "question": "The Partition of Bengal was announced in which year?",
+      "question": "The ancient Indian emperor Chandragupta Maurya ruled from?",
       "options": [
-        "1903",
-        "1904",
-        "1905",
-        "1906"
+        "322-298 BCE",
+        "320-298 BCE",
+        "321-297 BCE",
+        "319-296 BCE"
       ],
-      "correct": 2,
-      "explanation": "The Partition of Bengal was announced in 1905."
+      "correct": 0,
+      "explanation": "Chandragupta Maurya ruled from 322-298 BCE."
     },
     {
       "id": 58,
       "category": "Indian Geography",
-      "question": "Which of the following rivers flows through the states of Andhra Pradesh and Telangana?",
+      "question": "The city of Bengaluru is located in the?",
       "options": [
-        "Godavari",
-        "Krishna",
-        "Tungabhadra",
-        "Mahanadi"
+        "Deccan Plateau",
+        "Eastern Ghats",
+        "Western Ghats",
+        "Himalayan region"
       ],
       "correct": 0,
-      "explanation": "The Godavari River flows through the states of Andhra Pradesh and Telangana."
+      "explanation": "The city of Bengaluru is located in the Deccan Plateau."
     },
     {
       "id": 59,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the constitutional article that deals with the Power of the President to appoint the Prime Minister?",
+      "question": "The Indian Constitution provides for the establishment of a 'Central Information Commission' to?",
       "options": [
-        "Article 75",
-        "Article 76",
-        "Article 77",
-        "Article 78"
+        "Promote transparency",
+        "Enforce laws",
+        "Protect human rights",
+        "All of the above"
       ],
       "correct": 0,
-      "explanation": "The constitutional article that deals with the Power of the President to appoint the Prime Minister is Article 75."
+      "explanation": "The Indian Constitution provides for the establishment of a Central Information Commission to promote transparency."
     },
     {
       "id": 60,
       "category": "Indian Economy",
-      "question": "What is the term for the economic policy of increasing international trade and investment?",
+      "question": "The term 'disinvestment' refers to the sale of a?",
       "options": [
-        "Globalization",
-        "Liberalization",
-        "Privatization",
-        "Nationalization"
+        "Private company",
+        "Public company",
+        "Government-owned company",
+        "Foreign company"
       ],
-      "correct": 0,
-      "explanation": "The term for the economic policy of increasing international trade and investment is Globalization."
+      "correct": 2,
+      "explanation": "Disinvestment refers to the sale of a government-owned company."
     }
   ]
 }
