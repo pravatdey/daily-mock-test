@@ -213,7 +213,7 @@ async function callGroq(fullPrompt, examConfig) {
             messages: [
                 {
                     role: 'system',
-                    content: 'You are an expert exam question generator. Return ONLY valid JSON arrays, no extra text.'
+                    content: 'You are an expert exam question generator. Always return a JSON object with a "questions" key containing an array of question objects.'
                 },
                 {
                     role: 'user',
@@ -235,7 +235,6 @@ async function callGroq(fullPrompt, examConfig) {
     const textContent = data.choices?.[0]?.message?.content;
     if (!textContent) throw new Error('Empty response from Groq');
 
-    // Groq with json_object mode may wrap in an object
     let parsed;
     try {
         parsed = JSON.parse(textContent);
@@ -243,9 +242,22 @@ async function callGroq(fullPrompt, examConfig) {
         throw new Error('Failed to parse Groq response as JSON');
     }
 
-    // Handle if Groq wraps questions in an object like { "questions": [...] }
-    const questions = Array.isArray(parsed) ? parsed : (parsed.questions || parsed.data || Object.values(parsed)[0]);
-    if (!Array.isArray(questions)) {
+    // Find the questions array - Groq wraps in various object structures
+    let questions;
+    if (Array.isArray(parsed)) {
+        questions = parsed;
+    } else if (typeof parsed === 'object' && parsed !== null) {
+        // Search all values for an array of objects with "question" property
+        for (const value of Object.values(parsed)) {
+            if (Array.isArray(value) && value.length > 0 && value[0].question) {
+                questions = value;
+                break;
+            }
+        }
+    }
+
+    if (!Array.isArray(questions) || questions.length === 0) {
+        console.log(`    Debug: Groq response keys: ${typeof parsed === 'object' ? Object.keys(parsed).join(', ') : typeof parsed}`);
         throw new Error('Groq response does not contain a questions array');
     }
 
@@ -274,15 +286,21 @@ async function generateQuestions(examKey, examConfig, dateStr) {
         }
     }
 
-    // Fallback to Groq
+    // Fallback to Groq (with retry)
     if (GROQ_API_KEY) {
-        try {
-            console.log(`  → Trying Groq fallback for ${examConfig.name}...`);
-            const questions = await callGroq(fullPrompt, examConfig);
-            console.log(`  ✓ ${examConfig.name}: ${questions.length} questions (Groq)`);
-            return questions;
-        } catch (error) {
-            console.log(`  ⚠ Groq failed for ${examConfig.name}: ${error.message}`);
+        for (let attempt = 1; attempt <= 2; attempt++) {
+            try {
+                console.log(`  → Trying Groq fallback for ${examConfig.name}... (attempt ${attempt})`);
+                const questions = await callGroq(fullPrompt, examConfig);
+                console.log(`  ✓ ${examConfig.name}: ${questions.length} questions (Groq)`);
+                return questions;
+            } catch (error) {
+                console.log(`  ⚠ Groq attempt ${attempt} failed for ${examConfig.name}: ${error.message}`);
+                if (attempt < 2) {
+                    console.log(`  ⏳ Waiting 30s before retry...`);
+                    await new Promise(resolve => setTimeout(resolve, 30000));
+                }
+            }
         }
     }
 
@@ -333,7 +351,7 @@ async function main() {
 
         // Delay between exams to avoid rate limits
         if (Object.keys(EXAMS).indexOf(examKey) < Object.keys(EXAMS).length - 1) {
-            await new Promise(resolve => setTimeout(resolve, 3000));
+            await new Promise(resolve => setTimeout(resolve, 5000));
         }
     }
 
