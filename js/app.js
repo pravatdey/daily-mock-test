@@ -1,13 +1,13 @@
 /**
- * Daily Mock Test Application
+ * Daily Mock Test Application - Dynamic AI-Powered Questions
+ *
  * Features:
- * - Dual exam support: UPSC Prelims & Odisha Civil Services (OCS)
- * - Daily auto-rotating 60-question tests using date-based seeding
- * - 60-minute countdown timer
- * - Question navigation palette
- * - Detailed results with category breakdown
- * - Answer review with explanations
- * - Fully responsive design
+ * - 7 Exam types: UPSC, OAS, OSSC RI/Amin, SSC CGL, SSC CHSL, SSB
+ * - Daily fresh questions generated via Google Gemini API
+ * - Date-seeded so all students get same test on same day
+ * - Questions cached in localStorage to avoid re-fetching
+ * - 60 questions per test, 60 minutes timer
+ * - Category-wise performance breakdown
  */
 
 // ===== Global State =====
@@ -15,23 +15,85 @@ let currentQuestions = [];
 let userAnswers = {};
 let currentQuestionIndex = 0;
 let timerInterval = null;
-let timeRemaining = 60 * 60; // 60 minutes in seconds
+let timeRemaining = 60 * 60;
 let testStartTime = null;
 let testEndTime = null;
 let testSubmitted = false;
-let currentExamType = 'upsc'; // 'upsc' or 'ocs'
+let currentExamType = '';
 
-// ===== Exam Config =====
+// ===== Exam Configurations =====
 const EXAM_CONFIG = {
     upsc: {
         name: 'UPSC Prelims',
-        seedOffset: 0,
-        questionCount: 60
+        subtitle: 'Civil Services Examination',
+        icon: '🏛️',
+        gradient: 'linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%)',
+        color: '#FF6B6B',
+        ribbonClass: 'upsc',
+        questionCount: 60,
+        timeMinutes: 60,
+        marksPerQuestion: 2,
+        tags: ['Indian History', 'Geography', 'Polity', 'Economy', 'Science', 'Environment', 'Current Affairs']
     },
-    ocs: {
+    oas: {
         name: 'Odisha Civil Services',
-        seedOffset: 7919, // Different prime offset for different question set
-        questionCount: 60
+        subtitle: 'OPSC OAS Examination',
+        icon: '🏛️',
+        gradient: 'linear-gradient(135deg, #4ECDC4 0%, #44B09E 100%)',
+        color: '#4ECDC4',
+        ribbonClass: 'oas',
+        questionCount: 60,
+        timeMinutes: 60,
+        marksPerQuestion: 2,
+        tags: ['Odisha History', 'Odisha Geography', 'Odisha Culture', 'Indian Polity', 'Economy', 'Science', 'Current Affairs']
+    },
+    ossc: {
+        name: 'OSSC RI/Amin',
+        subtitle: 'Revenue Inspector & Amin Exam',
+        icon: '📋',
+        gradient: 'linear-gradient(135deg, #FFD93D 0%, #FF9F1C 100%)',
+        color: '#FFD93D',
+        ribbonClass: 'ossc',
+        questionCount: 60,
+        timeMinutes: 60,
+        marksPerQuestion: 2,
+        tags: ['Odisha GK', 'Indian History', 'Geography', 'Polity', 'Science & Math', 'Reasoning', 'Current Affairs']
+    },
+    cgl: {
+        name: 'SSC CGL',
+        subtitle: 'Combined Graduate Level',
+        icon: '🎯',
+        gradient: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+        color: '#667eea',
+        ribbonClass: 'cgl',
+        questionCount: 60,
+        timeMinutes: 60,
+        marksPerQuestion: 2,
+        tags: ['General Awareness', 'Reasoning', 'English', 'Quant Concepts', 'Science', 'Polity', 'Current Affairs']
+    },
+    chsl: {
+        name: 'SSC CHSL',
+        subtitle: 'Combined Higher Secondary Level',
+        icon: '📝',
+        gradient: 'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)',
+        color: '#f093fb',
+        ribbonClass: 'chsl',
+        questionCount: 60,
+        timeMinutes: 60,
+        marksPerQuestion: 2,
+        tags: ['General Awareness', 'Reasoning', 'English', 'Quant', 'Science', 'Current Affairs']
+    },
+    ssb: {
+        name: 'SSB',
+        subtitle: 'Sashastra Seema Bal',
+        icon: '🛡️',
+        gradient: 'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)',
+        color: '#43e97b',
+        ribbonClass: 'ssb',
+        questionCount: 60,
+        timeMinutes: 60,
+        marksPerQuestion: 2,
+        tags: ['General Awareness', 'Indian History', 'Polity', 'Geography', 'Science', 'Defense', 'Current Affairs']
     }
 };
 
@@ -39,13 +101,74 @@ const EXAM_CONFIG = {
 document.addEventListener('DOMContentLoaded', () => {
     createParticles();
     setTodayDate();
-    setTestNumbers();
+    renderExamCards();
 });
+
+// ===== Render Exam Cards Dynamically =====
+function renderExamCards() {
+    const container = document.getElementById('exam-cards-container');
+    const startDate = new Date('2024-01-01');
+    const today = new Date();
+    const testNumber = Math.floor((today - startDate) / (1000 * 60 * 60 * 24)) + 1;
+
+    container.innerHTML = '';
+
+    Object.entries(EXAM_CONFIG).forEach(([key, config], index) => {
+        const card = document.createElement('div');
+        card.className = `test-select-card glass-card exam-card-${key}`;
+        card.style.animationDelay = `${0.1 + index * 0.1}s`;
+
+        card.innerHTML = `
+            <div class="card-ribbon ribbon-${config.ribbonClass}" style="background: ${config.gradient};">${config.name.split(' ')[0]}</div>
+            <div class="card-icon-large">${config.icon}</div>
+            <h2 class="card-title">${config.name}</h2>
+            <p class="card-subtitle">${config.subtitle}</p>
+
+            <div class="card-stats">
+                <div class="card-stat">
+                    <span class="card-stat-value" style="background: ${config.gradient}; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">${config.questionCount}</span>
+                    <span class="card-stat-label">Questions</span>
+                </div>
+                <div class="card-stat">
+                    <span class="card-stat-value" style="background: ${config.gradient}; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">${config.timeMinutes}</span>
+                    <span class="card-stat-label">Minutes</span>
+                </div>
+                <div class="card-stat">
+                    <span class="card-stat-value" style="background: ${config.gradient}; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">${config.questionCount * config.marksPerQuestion}</span>
+                    <span class="card-stat-label">Marks</span>
+                </div>
+                <div class="card-stat">
+                    <span class="card-stat-value" style="background: ${config.gradient}; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">${testNumber}</span>
+                    <span class="card-stat-label">Test #</span>
+                </div>
+            </div>
+
+            <div class="card-topics">
+                ${config.tags.map(tag => `<span class="card-tag" style="background: ${hexToRgba(config.color, 0.1)}; border-color: ${hexToRgba(config.color, 0.25)}; color: ${config.color};">${tag}</span>`).join('')}
+            </div>
+
+            <button class="btn-primary btn-glow btn-exam" style="background: ${config.gradient};" onclick="startTest('${key}')">
+                <span class="btn-icon">🚀</span>
+                <span>Start ${config.name.split(' ')[0]} Test</span>
+                <span class="btn-arrow">→</span>
+            </button>
+        `;
+
+        container.appendChild(card);
+    });
+}
+
+function hexToRgba(hex, alpha) {
+    const r = parseInt(hex.slice(1, 3), 16);
+    const g = parseInt(hex.slice(3, 5), 16);
+    const b = parseInt(hex.slice(5, 7), 16);
+    return `rgba(${r}, ${g}, ${b}, ${alpha})`;
+}
 
 // ===== Animated Background Particles =====
 function createParticles() {
     const container = document.getElementById('particles');
-    const colors = ['#6C63FF', '#4ECDC4', '#FF6B6B', '#FFD93D', '#8B85FF'];
+    const colors = ['#6C63FF', '#4ECDC4', '#FF6B6B', '#FFD93D', '#8B85FF', '#667eea', '#43e97b', '#f093fb'];
 
     for (let i = 0; i < 30; i++) {
         const particle = document.createElement('div');
@@ -68,55 +191,73 @@ function setTodayDate() {
     document.getElementById('today-date').textContent = today.toLocaleDateString('en-IN', options);
 }
 
-// ===== Set Test Numbers on Landing Page =====
-function setTestNumbers() {
-    const startDate = new Date('2024-01-01');
-    const today = new Date();
-    const daysDiff = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
-    const testNumber = daysDiff + 1;
-
-    document.getElementById('upsc-test-number').textContent = testNumber;
-    document.getElementById('ocs-test-number').textContent = testNumber;
-}
-
-// ===== Daily Test Generation (Date-Seeded) =====
-function getDaySeed() {
+// ===== Get Today's Cache Key =====
+function getTodayCacheKey(examType) {
     const today = new Date();
     const dateStr = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
-    let hash = 0;
-    for (let i = 0; i < dateStr.length; i++) {
-        const char = dateStr.charCodeAt(i);
-        hash = ((hash << 5) - hash) + char;
-        hash = hash & hash; // Convert to 32-bit integer
-    }
-    return Math.abs(hash);
+    return `mock_test_${examType}_${dateStr}`;
 }
 
-function seededRandom(seed) {
-    let s = seed;
-    return function () {
-        s = (s * 1103515245 + 12345) & 0x7fffffff;
-        return s / 0x7fffffff;
-    };
-}
+// ===== Load Questions from Static JSON =====
+async function loadQuestions(examType) {
+    const cacheKey = getTodayCacheKey(examType);
 
-function generateDailyTest(examType) {
-    const config = EXAM_CONFIG[examType];
-    const seed = getDaySeed() + config.seedOffset;
-    const rng = seededRandom(seed);
-
-    // Shuffle question bank using seeded random and pick questions
-    const shuffled = [...QUESTION_BANK];
-    for (let i = shuffled.length - 1; i > 0; i--) {
-        const j = Math.floor(rng() * (i + 1));
-        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    // Check localStorage cache first
+    const cached = localStorage.getItem(cacheKey);
+    if (cached) {
+        try {
+            const parsed = JSON.parse(cached);
+            if (Array.isArray(parsed) && parsed.length >= 10) {
+                return parsed;
+            }
+        } catch (_parseError) {
+            localStorage.removeItem(cacheKey);
+        }
     }
 
-    currentQuestions = shuffled.slice(0, config.questionCount);
+    // Fetch from static JSON file (generated daily by GitHub Actions)
+    const response = await fetch(`questions/${examType}.json`);
+
+    if (!response.ok) {
+        throw new Error(`Questions not available for ${EXAM_CONFIG[examType].name}. Please try again later.`);
+    }
+
+    const data = await response.json();
+    const questions = data.questions;
+
+    if (!Array.isArray(questions) || questions.length === 0) {
+        throw new Error(`No questions found for ${EXAM_CONFIG[examType].name}.`);
+    }
+
+    // Cache for today
+    localStorage.setItem(cacheKey, JSON.stringify(questions));
+
+    // Clean up old caches
+    cleanOldCache();
+
+    return questions;
+}
+
+// ===== Clean Old Cache =====
+function cleanOldCache() {
+    const keys = Object.keys(localStorage);
+    const today = new Date();
+
+    keys.forEach(key => {
+        if (key.startsWith('mock_test_')) {
+            const parts = key.split('_');
+            const dateStr = parts.slice(-3).join('-');
+            const cacheDate = new Date(dateStr);
+            const daysDiff = (today - cacheDate) / (1000 * 60 * 60 * 24);
+            if (daysDiff > 3) {
+                localStorage.removeItem(key);
+            }
+        }
+    });
 }
 
 // ===== Start Test =====
-function startTest(examType) {
+async function startTest(examType) {
     currentExamType = examType;
     testSubmitted = false;
     userAnswers = {};
@@ -124,28 +265,58 @@ function startTest(examType) {
     timeRemaining = 60 * 60;
     testStartTime = new Date();
 
-    // Generate questions for this exam type
-    generateDailyTest(examType);
+    // Show loading screen
+    showLoadingScreen(examType);
 
-    // Switch to test page
-    showPage('test-page');
+    try {
+        currentQuestions = await loadQuestions(examType);
 
-    // Build question navigation grid
-    buildQuestionGrid();
+        // Ensure we have exactly the right count
+        if (currentQuestions.length > EXAM_CONFIG[examType].questionCount) {
+            currentQuestions = currentQuestions.slice(0, EXAM_CONFIG[examType].questionCount);
+        }
 
-    // Load first question
-    loadQuestion(0);
+        hideLoadingScreen();
+        showPage('test-page');
+        buildQuestionGrid();
+        loadQuestion(0);
+        startTimer();
 
-    // Start timer
-    startTimer();
+        // Update header
+        const config = EXAM_CONFIG[examType];
+        const startDate = new Date('2024-01-01');
+        const today = new Date();
+        const daysDiff = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
+        document.getElementById('test-title-text').textContent = `${config.name} - Test #${daysDiff + 1}`;
+        document.getElementById('total-q-num').textContent = currentQuestions.length;
 
-    // Update header
+    } catch (error) {
+        hideLoadingScreen();
+        showErrorModal(error.message);
+    }
+}
+
+// ===== Loading Screen =====
+function showLoadingScreen(examType) {
     const config = EXAM_CONFIG[examType];
-    const startDate = new Date('2024-01-01');
-    const today = new Date();
-    const daysDiff = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
-    document.getElementById('test-title-text').textContent = `${config.name} - Test #${daysDiff + 1}`;
-    document.getElementById('total-q-num').textContent = currentQuestions.length;
+    const overlay = document.getElementById('loading-overlay');
+    document.getElementById('loading-exam-name').textContent = config.name;
+    document.getElementById('loading-exam-icon').textContent = config.icon;
+    overlay.style.display = 'flex';
+}
+
+function hideLoadingScreen() {
+    document.getElementById('loading-overlay').style.display = 'none';
+}
+
+// ===== Error Modal =====
+function showErrorModal(message) {
+    document.getElementById('error-message').textContent = message;
+    document.getElementById('error-modal').style.display = 'flex';
+}
+
+function closeErrorModal() {
+    document.getElementById('error-modal').style.display = 'none';
 }
 
 // ===== Page Navigation =====
@@ -162,6 +333,7 @@ function goHome() {
 
 // ===== Timer =====
 function startTimer() {
+    if (timerInterval) clearInterval(timerInterval);
     updateTimerDisplay();
     timerInterval = setInterval(() => {
         timeRemaining--;
@@ -177,7 +349,6 @@ function startTimer() {
 
         updateTimerDisplay();
 
-        // Warning states
         const timerBox = document.getElementById('timer-box');
         if (timeRemaining <= 60) {
             timerBox.className = 'timer-box danger';
@@ -227,16 +398,10 @@ function loadQuestion(index) {
     currentQuestionIndex = index;
     const q = currentQuestions[index];
 
-    // Update counter
     document.getElementById('current-q-num').textContent = index + 1;
-
-    // Update category
     document.getElementById('question-category').textContent = q.category;
-
-    // Update question text
     document.getElementById('question-text').textContent = `Q${index + 1}. ${q.question}`;
 
-    // Update options
     const optionsList = document.getElementById('options-list');
     const letters = ['A', 'B', 'C', 'D'];
     optionsList.innerHTML = '';
@@ -256,23 +421,19 @@ function loadQuestion(index) {
         optionsList.appendChild(div);
     });
 
-    // Update navigation buttons
     document.getElementById('prev-btn').disabled = index === 0;
     document.getElementById('next-btn').disabled = index === currentQuestions.length - 1;
     document.getElementById('prev-btn').style.opacity = index === 0 ? '0.4' : '1';
     document.getElementById('next-btn').style.opacity = index === currentQuestions.length - 1 ? '0.4' : '1';
 
-    // Update grid
     updateQuestionGrid();
-
-    // Close mobile nav if open
     document.getElementById('question-nav').classList.remove('mobile-open');
 }
 
 // ===== Select Option =====
 function selectOption(questionIndex, optionIndex) {
     userAnswers[questionIndex] = optionIndex;
-    loadQuestion(questionIndex); // Refresh to show selection
+    loadQuestion(questionIndex);
 }
 
 // ===== Clear Answer =====
@@ -299,7 +460,7 @@ document.addEventListener('keydown', (e) => {
     if (!document.getElementById('test-page').classList.contains('active')) return;
     if (document.getElementById('submit-modal').style.display !== 'none') return;
 
-    switch(e.key) {
+    switch (e.key) {
         case 'ArrowRight':
         case 'n':
             nextQuestion();
@@ -351,7 +512,6 @@ function submitTest() {
     clearInterval(timerInterval);
     testEndTime = new Date();
 
-    // Calculate results
     let correct = 0;
     let wrong = 0;
     let skipped = 0;
@@ -374,29 +534,24 @@ function submitTest() {
         }
     });
 
-    const score = correct * 2; // 2 marks per question
+    const score = correct * 2;
     const totalMarks = currentQuestions.length * 2;
     const percentage = Math.round((score / totalMarks) * 100);
 
-    // Time taken
     const timeTaken = Math.floor((testEndTime - testStartTime) / 1000);
     const minutes = Math.floor(timeTaken / 60);
     const seconds = timeTaken % 60;
 
-    // Show result page
     showPage('result-page');
     document.getElementById('review-section').style.display = 'none';
 
-    // Set exam badge
     const config = EXAM_CONFIG[currentExamType];
     document.getElementById('result-exam-badge').textContent = config.name;
     document.getElementById('score-total').textContent = `/ ${totalMarks}`;
 
-    // Animate score
     const scoreValue = document.getElementById('score-value');
     const scoreFill = document.getElementById('score-fill');
 
-    // Set emoji and message based on score
     const emoji = document.getElementById('result-emoji');
     const message = document.getElementById('result-message');
 
@@ -414,24 +569,18 @@ function submitTest() {
         message.textContent = 'Keep studying! Practice makes perfect!';
     }
 
-    // Animated score counter
     let currentScore = 0;
     const scoreInterval = setInterval(() => {
         currentScore += 2;
         if (currentScore > score) currentScore = score;
         scoreValue.textContent = currentScore;
-
-        if (currentScore >= score) {
-            clearInterval(scoreInterval);
-        }
+        if (currentScore >= score) clearInterval(scoreInterval);
     }, 30);
 
-    // SVG circle animation
-    const circumference = 2 * Math.PI * 54; // r=54
+    const circumference = 2 * Math.PI * 54;
     scoreFill.style.strokeDasharray = circumference;
     const offset = circumference - (percentage / 100) * circumference;
 
-    // Add SVG gradient
     const svg = scoreFill.closest('svg');
     if (!svg.querySelector('defs')) {
         const defs = document.createElementNS('http://www.w3.org/2000/svg', 'defs');
@@ -462,13 +611,11 @@ function submitTest() {
         scoreFill.style.strokeDashoffset = offset;
     }, 100);
 
-    // Stats
     document.getElementById('correct-count').textContent = correct;
     document.getElementById('wrong-count').textContent = wrong;
     document.getElementById('skipped-count').textContent = skipped;
     document.getElementById('time-taken').textContent = `${minutes}:${String(seconds).padStart(2, '0')}`;
 
-    // Category Breakdown
     const breakdownDiv = document.getElementById('category-breakdown');
     breakdownDiv.innerHTML = '';
 
@@ -488,7 +635,6 @@ function submitTest() {
         breakdownDiv.appendChild(item);
     });
 
-    // Animate category bars
     setTimeout(() => {
         document.querySelectorAll('.category-bar-fill').forEach(bar => {
             bar.style.width = bar.dataset.width + '%';
@@ -565,6 +711,5 @@ function showReview() {
         reviewList.appendChild(div);
     });
 
-    // Scroll to review
     reviewSection.scrollIntoView({ behavior: 'smooth' });
 }
