@@ -1,154 +1,63 @@
 {
   "exam": "cgl",
   "name": "SSC CGL",
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Discovery of India'?",
+      "question": "Who is the author of the book 'India Wins Freedom'?",
       "options": [
+        "Abul Kalam Azad",
         "Jawaharlal Nehru",
         "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Rabindranath Tagore"
+        "Maulana Azad"
       ],
       "correct": 0,
-      "explanation": "The Discovery of India is a book written by Jawaharlal Nehru in 1946, which gives a historical and political context of the Indian subcontinent."
+      "explanation": "Abul Kalam Azad wrote the book 'India Wins Freedom', which is an account of India's struggle for independence."
     },
     {
       "id": 2,
       "category": "General Science",
-      "question": "What is the process by which plants convert sunlight into energy?",
+      "question": "What is the process called when plants release water vapor into the air?",
       "options": [
         "Respiration",
         "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
+        "Transpiration",
+        "Evaporation"
       ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
+      "correct": 2,
+      "explanation": "Transpiration is the process by which plants release water vapor into the air through their leaves."
     },
     {
       "id": 3,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's flagship program to promote digital payments?",
+      "question": "What is the term for the upper house of the Indian Parliament?",
       "options": [
-        "Digital India",
-        "Make in India",
-        "Skill India",
-        "Pradhan Mantri Jan Dhan Yojana"
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Vidhan Sabha",
+        "Constituent Assembly"
       ],
-      "correct": 0,
-      "explanation": "The Digital India program was launched by the Indian government in 2015 to promote digital literacy, digital infrastructure, and digital payments across the country."
+      "correct": 1,
+      "explanation": "The Rajya Sabha, also known as the Council of States, is the upper house of the Indian Parliament."
     },
     {
       "id": 4,
       "category": "Geography",
-      "question": "Which is the largest river in South America?",
+      "question": "Which river is the longest in South America?",
       "options": [
         "Amazon River",
-        "Rio Grande",
-        "Orinoco River",
-        "Parana River"
+        "Parana River",
+        "Sao Francisco River",
+        "Magdalena River"
       ],
       "correct": 0,
-      "explanation": "The Amazon River is the largest river in South America and the largest river in the world by discharge volume, flowing through Brazil, Colombia, and Peru."
+      "explanation": "The Amazon River is the longest river in South America and the largest river in the world by discharge volume."
     },
     {
       "id": 5,
-      "category": "Reasoning & Logic",
-      "question": "If A is the father of B, and C is the brother of A, then what is the relationship between B and C?",
-      "options": [
-        "B is the son of C",
-        "B is the brother of C",
-        "B is the nephew of C",
-        "B is the cousin of C"
-      ],
-      "correct": 2,
-      "explanation": "If A is the father of B, and C is the brother of A, then C is the uncle of B, making B the nephew of C."
-    },
-    {
-      "id": 6,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the idiom 'break a leg'?",
-      "options": [
-        "To wish someone good luck",
-        "To wish someone bad luck",
-        "To tell someone to be careful",
-        "To tell someone to give up"
-      ],
-      "correct": 0,
-      "explanation": "The idiom 'break a leg' is a way of wishing someone good luck, particularly in the context of performing arts or sports."
-    },
-    {
-      "id": 7,
-      "category": "Current Affairs",
-      "question": "Who was appointed as the CEO of Twitter in 2021?",
-      "options": [
-        "Parag Agrawal",
-        "Elon Musk",
-        "Jeff Bezos",
-        "Mark Zuckerberg"
-      ],
-      "correct": 0,
-      "explanation": "Parag Agrawal was appointed as the CEO of Twitter in November 2021, succeeding Jack Dorsey."
-    },
-    {
-      "id": 8,
-      "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Theory of Everything'?",
-      "options": [
-        "Stephen Hawking",
-        "Albert Einstein",
-        "Isaac Newton",
-        "Galileo Galilei"
-      ],
-      "correct": 0,
-      "explanation": "The Theory of Everything is a book written by Stephen Hawking, which gives an overview of the origins and nature of the universe."
-    },
-    {
-      "id": 9,
-      "category": "General Science",
-      "question": "What is the largest planet in our solar system?",
-      "options": [
-        "Earth",
-        "Saturn",
-        "Jupiter",
-        "Uranus"
-      ],
-      "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
-    },
-    {
-      "id": 10,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's flagship program to promote entrepreneurship?",
-      "options": [
-        "Make in India",
-        "Startup India",
-        "Digital India",
-        "Skill India"
-      ],
-      "correct": 1,
-      "explanation": "The Startup India program was launched by the Indian government in 2016 to promote entrepreneurship and startup culture across the country."
-    },
-    {
-      "id": 11,
-      "category": "Geography",
-      "question": "Which is the smallest country in the world?",
-      "options": [
-        "Vatican City",
-        "Monaco",
-        "Nauru",
-        "Tuvalu"
-      ],
-      "correct": 0,
-      "explanation": "Vatican City is the smallest country in the world, both by area and population, with an area of approximately 0.44 km² and a population of around 800 people."
-    },
-    {
-      "id": 12,
       "category": "Reasoning & Logic",
       "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
       "options": [
@@ -158,168 +67,38 @@
         "100 minutes"
       ],
       "correct": 0,
-      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then each machine can make 1 widget in 5 minutes. Therefore, 100 machines can make 100 widgets in 5 minutes."
+      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then 1 machine can make 1 widget in 5 minutes. Therefore, 100 machines can make 100 widgets in 5 minutes."
     },
     {
-      "id": 13,
+      "id": 6,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'enigma'?",
+      "question": "What is the synonym of the word 'fast'?",
       "options": [
-        "A mysterious or difficult problem",
-        "A person who is mysterious or difficult to understand",
-        "A thing that is mysterious or difficult to explain",
-        "A situation that is mysterious or difficult to resolve"
+        "Quick",
+        "Slow",
+        "Rapid",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The word 'enigma' refers to a mysterious or difficult problem, or a person who is mysterious or difficult to understand."
+      "correct": 3,
+      "explanation": "The words 'quick', 'rapid', and 'fast' all mean moving or able to move quickly."
     },
     {
-      "id": 14,
+      "id": 7,
       "category": "Current Affairs",
-      "question": "What is the name of the Indian government's flagship program to promote affordable housing?",
+      "question": "Who is the current CEO of SpaceX?",
       "options": [
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana"
+        "Elon Musk",
+        "Jeff Bezos",
+        "Richard Branson",
+        "Mark Zuckerberg"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Awas Yojana (PMAY) is a flagship program launched by the Indian government in 2015 to promote affordable housing for all by 2022."
+      "explanation": "Elon Musk is the founder, CEO, and CTO of SpaceX."
     },
     {
-      "id": 15,
+      "id": 8,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'To Kill a Mockingbird'?",
-      "options": [
-        "F. Scott Fitzgerald",
-        "Harper Lee",
-        "Jane Austen",
-        "J.K. Rowling"
-      ],
-      "correct": 1,
-      "explanation": "To Kill a Mockingbird is a classic novel written by Harper Lee, published in 1960, which explores issues of racism and injustice in a small Alabama town during the 1930s."
-    },
-    {
-      "id": 16,
-      "category": "General Science",
-      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
-      ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's flagship program to promote financial inclusion?",
-      "options": [
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) is a flagship program launched by the Indian government in 2014 to promote financial inclusion and provide access to banking services for all citizens."
-    },
-    {
-      "id": 18,
-      "category": "Geography",
-      "question": "Which is the largest desert in the world?",
-      "options": [
-        "Sahara Desert",
-        "Gobi Desert",
-        "Mojave Desert",
-        "Atacama Desert"
-      ],
-      "correct": 0,
-      "explanation": "The Sahara Desert is the largest hot desert in the world, covering an area of approximately 9,200,000 square kilometers across North Africa."
-    },
-    {
-      "id": 19,
-      "category": "Reasoning & Logic",
-      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet at night, how many days will it take for the snail to reach the top of the well?",
-      "options": [
-        "18 days",
-        "20 days",
-        "22 days",
-        "28 days"
-      ],
-      "correct": 2,
-      "explanation": "The snail climbs 3 feet up the well each day, but slips back 2 feet at night, so it effectively moves 1 foot up the well each day. To reach the top of the 20-foot well, it will take the snail 18 days to climb 18 feet, and on the 19th day, it will climb the remaining 2 feet to reach the top, but since it doesn't slip back at night when it reaches the top, the answer is 18 days to climb 18 feet and 1 more day to climb the last 2 feet, making it 18 + 1 = 19 days, but since the question asks for the number of days to reach the top, and on the 18th day it will be at 18 feet, it will reach the top on the 19th day, after climbing the last 2 feet, so it will take 18 days to climb 18 feet and it will reach the top on the 19th day after climbing the last 2 feet, but this is the 19th day of climbing, so the correct answer is 18 days of climbing and the snail reaches the top on the 19th day."
-    },
-    {
-      "id": 20,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'perspicacious'?",
-      "options": [
-        "Having a keen understanding and insight",
-        "Having a strong and unpleasant smell",
-        "Having a tendency to talk too much",
-        "Having a habit of forgetting things"
-      ],
-      "correct": 0,
-      "explanation": "The word 'perspicacious' refers to having a keen understanding and insight, being able to notice and understand things that are not immediately apparent."
-    },
-    {
-      "id": 21,
-      "category": "Current Affairs",
-      "question": "Who is the current President of the European Commission?",
-      "options": [
-        "Ursula von der Leyen",
-        "Jean-Claude Juncker",
-        "Donald Tusk",
-        "Angela Merkel"
-      ],
-      "correct": 0,
-      "explanation": "Ursula von der Leyen is the current President of the European Commission, taking office on December 1, 2019."
-    },
-    {
-      "id": 22,
-      "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Alchemist'?",
-      "options": [
-        "Paulo Coelho",
-        "Gabriel Garcia Marquez",
-        "Mario Vargas Llosa",
-        "Isabel Allende"
-      ],
-      "correct": 0,
-      "explanation": "The Alchemist is a novel written by Paulo Coelho, published in 1988, which tells the story of a young shepherd's journey to fulfill his personal legend and find his treasure."
-    },
-    {
-      "id": 23,
-      "category": "General Science",
-      "question": "What is the largest living structure on Earth?",
-      "options": [
-        "The Great Barrier Reef",
-        "The Amazon Rainforest",
-        "The Grand Canyon",
-        "The Great Wall of China"
-      ],
-      "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia, and is composed of more than 2,900 individual reefs and 900 islands."
-    },
-    {
-      "id": 24,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's flagship program to promote rural development?",
-      "options": [
-        "Pradhan Mantri Gram Sadak Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Gram Sadak Yojana (PMGSY) is a flagship program launched by the Indian government in 2000 to promote rural development by providing good all-weather road connectivity to unconnected habitations."
-    },
-    {
-      "id": 25,
-      "category": "Geography",
-      "question": "Which is the largest island in the Mediterranean Sea?",
+      "question": "What is the name of the largest island in the Mediterranean Sea?",
       "options": [
         "Sicily",
         "Sardinia",
@@ -327,10 +106,140 @@
         "Crete"
       ],
       "correct": 0,
-      "explanation": "Sicily is the largest island in the Mediterranean Sea, with an area of approximately 25,711 square kilometers, and is located off the southern coast of Italy."
+      "explanation": "Sicily is the largest island in the Mediterranean Sea and an autonomous region of Italy."
     },
     {
-      "id": 26,
+      "id": 9,
+      "category": "General Science",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Osmosis"
+      ],
+      "correct": 3,
+      "explanation": "Osmosis is the process by which water moves through a plant, from the roots to the leaves, through the xylem."
+    },
+    {
+      "id": 10,
+      "category": "Indian Polity & Economy",
+      "question": "What is the term for the system of government in which power is divided between a central authority and smaller regional authorities?",
+      "options": [
+        "Federalism",
+        "Confederalism",
+        "Unitary",
+        "Parliamentary"
+      ],
+      "correct": 0,
+      "explanation": "Federalism is a system of government in which power is divided between a central authority and smaller regional authorities."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which mountain range runs along the border between France and Spain?",
+      "options": [
+        "Pyrenees",
+        "Alps",
+        "Carpathian Mountains",
+        "Apennine Mountains"
+      ],
+      "correct": 0,
+      "explanation": "The Pyrenees is a mountain range that runs along the border between France and Spain."
+    },
+    {
+      "id": 12,
+      "category": "Reasoning & Logic",
+      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slides back 2 feet each night, how many days will it take for the snail to reach the top of the well?",
+      "options": [
+        "18 days",
+        "20 days",
+        "22 days",
+        "28 days"
+      ],
+      "correct": 2,
+      "explanation": "The snail climbs 3 feet up the well each day, but slides back 2 feet each night, so it effectively climbs 1 foot per day. To climb 20 feet, it will take 18 days, but on the 18th day, it will climb the final 3 feet and reach the top, so it will take 18 + 1 = 20 - 2 = 18 days to reach the top."
+    },
+    {
+      "id": 13,
+      "category": "English Language Concepts",
+      "question": "What is the antonym of the word 'big'?",
+      "options": [
+        "Small",
+        "Large",
+        "Huge",
+        "Enormous"
+      ],
+      "correct": 0,
+      "explanation": "The word 'small' is the opposite of 'big'."
+    },
+    {
+      "id": 14,
+      "category": "Current Affairs",
+      "question": "Who is the current President of the European Commission?",
+      "options": [
+        "Ursula von der Leyen",
+        "Donald Tusk",
+        "Jean-Claude Juncker",
+        "Frans Timmermans"
+      ],
+      "correct": 0,
+      "explanation": "Ursula von der Leyen is the current President of the European Commission."
+    },
+    {
+      "id": 15,
+      "category": "General Awareness & Static GK",
+      "question": "What is the name of the largest city in Scandinavia?",
+      "options": [
+        "Stockholm",
+        "Copenhagen",
+        "Oslo",
+        "Helsinki"
+      ],
+      "correct": 0,
+      "explanation": "Stockholm is the largest city in Scandinavia and the capital of Sweden."
+    },
+    {
+      "id": 16,
+      "category": "General Science",
+      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Mutation",
+        "Genetic drift"
+      ],
+      "correct": 1,
+      "explanation": "Meiosis is the process by which an organism's genetic information is passed from one generation to the next."
+    },
+    {
+      "id": 17,
+      "category": "Indian Polity & Economy",
+      "question": "What is the term for the monetary policy committee of the Reserve Bank of India?",
+      "options": [
+        "Monetary Policy Committee",
+        "Financial Stability Board",
+        "Central Board of Directors",
+        "State Bank of India"
+      ],
+      "correct": 0,
+      "explanation": "The Monetary Policy Committee is the monetary policy committee of the Reserve Bank of India."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which river is the longest in Asia?",
+      "options": [
+        "Yangtze River",
+        "Yellow River",
+        "Mekong River",
+        "Ganges River"
+      ],
+      "correct": 0,
+      "explanation": "The Yangtze River is the longest river in Asia and the third-longest river in the world."
+    },
+    {
+      "id": 19,
       "category": "Reasoning & Logic",
       "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
       "options": [
@@ -340,114 +249,114 @@
         "$0.20"
       ],
       "correct": 0,
-      "explanation": "Let's denote the cost of the ball as x. Since the bat costs $1.00 more than the ball, the cost of the bat is x + $1.00. The total cost of the bat and the ball together is $1.10, so we can set up the equation x + (x + $1.00) = $1.10. Combining like terms, we get 2x + $1.00 = $1.10. Subtracting $1.00 from both sides gives us 2x = $0.10. Dividing both sides by 2 gives us x = $0.05."
+      "explanation": "If the bat costs $1.00 more than the ball, and the bat and the ball together cost $1.10, then the ball must cost $0.05, since $1.00 (bat) + $0.05 (ball) = $1.05, and $1.05 + $0.05 = $1.10."
+    },
+    {
+      "id": 20,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the idiom 'break a leg'?",
+      "options": [
+        "To wish someone good luck",
+        "To wish someone bad luck",
+        "To tell someone to be careful",
+        "To tell someone to take a risk"
+      ],
+      "correct": 0,
+      "explanation": "The idiom 'break a leg' means to wish someone good luck, especially before a performance or a challenging situation."
+    },
+    {
+      "id": 21,
+      "category": "Current Affairs",
+      "question": "Who is the current Prime Minister of the United Kingdom?",
+      "options": [
+        "Rishi Sunak",
+        "Liz Truss",
+        "Boris Johnson",
+        "Theresa May"
+      ],
+      "correct": 0,
+      "explanation": "Rishi Sunak is the current Prime Minister of the United Kingdom."
+    },
+    {
+      "id": 22,
+      "category": "General Awareness & Static GK",
+      "question": "What is the name of the largest island in the Caribbean Sea?",
+      "options": [
+        "Cuba",
+        "Hispaniola",
+        "Jamaica",
+        "Puerto Rico"
+      ],
+      "correct": 1,
+      "explanation": "Hispaniola is the largest island in the Caribbean Sea and is divided between Haiti and the Dominican Republic."
+    },
+    {
+      "id": 23,
+      "category": "General Science",
+      "question": "What is the process by which the universe became transparent to light?",
+      "options": [
+        "Big Bang",
+        "Recombination",
+        "Nucleosynthesis",
+        "Dark matter formation"
+      ],
+      "correct": 1,
+      "explanation": "Recombination is the process by which the universe became transparent to light, as electrons and protons combined to form neutral atoms."
+    },
+    {
+      "id": 24,
+      "category": "Indian Polity & Economy",
+      "question": "What is the term for the system of government in which power is held by a single person or group?",
+      "options": [
+        "Autocracy",
+        "Democracy",
+        "Oligarchy",
+        "Monarchy"
+      ],
+      "correct": 0,
+      "explanation": "Autocracy is a system of government in which power is held by a single person or group."
+    },
+    {
+      "id": 25,
+      "category": "Geography",
+      "question": "Which city is the largest in South America?",
+      "options": [
+        "Sao Paulo",
+        "Buenos Aires",
+        "Lima",
+        "Bogota"
+      ],
+      "correct": 0,
+      "explanation": "Sao Paulo is the largest city in South America and the economic hub of Brazil."
+    },
+    {
+      "id": 26,
+      "category": "Reasoning & Logic",
+      "question": "If it takes 3 hours to walk 12 miles, how many hours will it take to walk 15 miles?",
+      "options": [
+        "3.75 hours",
+        "4 hours",
+        "4.25 hours",
+        "4.5 hours"
+      ],
+      "correct": 0,
+      "explanation": "If it takes 3 hours to walk 12 miles, then the walking speed is 12 miles / 3 hours = 4 miles per hour. To walk 15 miles, it will take 15 miles / 4 miles per hour = 3.75 hours."
     },
     {
       "id": 27,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'fastidious'?",
+      "question": "What is the meaning of the word 'nuance'?",
       "options": [
-        "Meticulous and demanding in one's standards",
-        "Careless and sloppy in one's work",
-        "Quick and efficient in one's tasks",
-        "Slow and lazy in one's movements"
+        "A subtle difference or shade of meaning",
+        "A clear and obvious difference",
+        "A vague or unclear idea",
+        "A contradictory concept"
       ],
       "correct": 0,
-      "explanation": "The word 'fastidious' refers to being meticulous and demanding in one's standards, having a strong attention to detail and a desire for precision and accuracy."
+      "explanation": "The word 'nuance' refers to a subtle difference or shade of meaning, often used to describe complex or subtle concepts."
     },
     {
       "id": 28,
-      "category": "Current Affairs",
-      "question": "Who is the current CEO of the International Monetary Fund (IMF)?",
-      "options": [
-        "Kristalina Georgieva",
-        "Christine Lagarde",
-        "Dominique Strauss-Kahn",
-        "Rodrigo Rato"
-      ],
-      "correct": 0,
-      "explanation": "Kristalina Georgieva is the current CEO of the International Monetary Fund (IMF), taking office on October 1, 2019."
-    },
-    {
-      "id": 29,
-      "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The God of Small Things'?",
-      "options": [
-        "Arundhati Roy",
-        "Salman Rushdie",
-        "Vikram Seth",
-        "Kiran Desai"
-      ],
-      "correct": 0,
-      "explanation": "The God of Small Things is a novel written by Arundhati Roy, published in 1997, which tells the story of the lives of two Indian twins growing up in Kerala, India."
-    },
-    {
-      "id": 30,
-      "category": "General Science",
-      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
-      "options": [
-        " Mutation",
-        "Genetic drift",
-        "Gene flow",
-        "Hereditary"
-      ],
-      "correct": 3,
-      "explanation": "Hereditary refers to the passing of traits or characteristics from parents to offspring through the transmission of genetic information, which is the process by which an organism's genetic information is passed from one generation to the next."
-    },
-    {
-      "id": 31,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's flagship program to promote solar energy?",
-      "options": [
-        "Jawaharlal Nehru National Solar Mission",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Jawaharlal Nehru National Solar Mission (JNNSM) is a flagship program launched by the Indian government in 2010 to promote solar energy and reduce dependence on fossil fuels."
-    },
-    {
-      "id": 32,
-      "category": "Geography",
-      "question": "Which is the longest river in South America?",
-      "options": [
-        "Amazon River",
-        "Rio Grande",
-        "Orinoco River",
-        "Parana River"
-      ],
-      "correct": 0,
-      "explanation": "The Amazon River is the longest river in South America and the largest river in the world by discharge volume, stretching over 6,400 kilometers from its source in the Andes Mountains to its mouth in the Atlantic Ocean."
-    },
-    {
-      "id": 33,
-      "category": "Reasoning & Logic",
-      "question": "If it takes 3 hours to drive from City A to City B at an average speed of 60 km/h, how long would it take to drive from City A to City B at an average speed of 40 km/h?",
-      "options": [
-        "2 hours",
-        "2.5 hours",
-        "3.5 hours",
-        "4.5 hours"
-      ],
-      "correct": 3,
-      "explanation": "To find the distance between City A and City B, we multiply the average speed (60 km/h) by the time (3 hours), which gives us a distance of 60 * 3 = 180 km. To find the time it would take to drive the same distance at an average speed of 40 km/h, we divide the distance (180 km) by the new average speed (40 km/h), which gives us 180 / 40 = 4.5 hours."
-    },
-    {
-      "id": 34,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'heterogeneous'?",
-      "options": [
-        "Diverse and composed of different kinds of things",
-        " Uniform and composed of the same kind of things",
-        "Old and outdated",
-        "New and modern"
-      ],
-      "correct": 0,
-      "explanation": "The word 'heterogeneous' refers to something that is diverse and composed of different kinds of things, having a mixture of different elements or components."
-    },
-    {
-      "id": 35,
       "category": "Current Affairs",
       "question": "Who is the current President of the World Bank?",
       "options": [
@@ -457,270 +366,270 @@
         "Paul Wolfowitz"
       ],
       "correct": 0,
-      "explanation": "David Malpass is the current President of the World Bank, taking office on April 9, 2019."
+      "explanation": "David Malpass is the current President of the World Bank."
+    },
+    {
+      "id": 29,
+      "category": "General Awareness & Static GK",
+      "question": "What is the name of the largest city in Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Perth"
+      ],
+      "correct": 0,
+      "explanation": "Sydney is the largest city in Australia and the state capital of New South Wales."
+    },
+    {
+      "id": 30,
+      "category": "General Science",
+      "question": "What is the process by which plants make their own food from sunlight?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Fermentation"
+      ],
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants make their own food from sunlight, using energy from light to convert carbon dioxide and water into glucose and oxygen."
+    },
+    {
+      "id": 31,
+      "category": "Indian Polity & Economy",
+      "question": "What is the term for the system of government in which power is divided between a central authority and smaller regional authorities?",
+      "options": [
+        "Federalism",
+        "Confederalism",
+        "Unitary",
+        "Parliamentary"
+      ],
+      "correct": 0,
+      "explanation": "Federalism is a system of government in which power is divided between a central authority and smaller regional authorities."
+    },
+    {
+      "id": 32,
+      "category": "Geography",
+      "question": "Which river is the longest in Europe?",
+      "options": [
+        "Volga River",
+        "Danube River",
+        "Rhine River",
+        "Elbe River"
+      ],
+      "correct": 0,
+      "explanation": "The Volga River is the longest river in Europe and flows through Russia."
+    },
+    {
+      "id": 33,
+      "category": "Reasoning & Logic",
+      "question": "If a bakery sells 250 loaves of bread per day, and each loaf costs $2.50, how much money does the bakery make in a day?",
+      "options": [
+        "$625",
+        "$625.00",
+        "$650",
+        "$675"
+      ],
+      "correct": 0,
+      "explanation": "If the bakery sells 250 loaves of bread per day, and each loaf costs $2.50, then the bakery makes 250 x $2.50 = $625 per day."
+    },
+    {
+      "id": 34,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the idiom 'bend over backwards'?",
+      "options": [
+        "To try very hard to help or please someone",
+        "To refuse to help or please someone",
+        "To be lazy or uncooperative",
+        "To be rude or dismissive"
+      ],
+      "correct": 0,
+      "explanation": "The idiom 'bend over backwards' means to try very hard to help or please someone, often to the point of going out of one's way or making sacrifices."
+    },
+    {
+      "id": 35,
+      "category": "Current Affairs",
+      "question": "Who is the current President of the International Olympic Committee?",
+      "options": [
+        "Thomas Bach",
+        "Jacques Rogge",
+        "Juan Antonio Samaranch",
+        "Avery Brundage"
+      ],
+      "correct": 0,
+      "explanation": "Thomas Bach is the current President of the International Olympic Committee."
     },
     {
       "id": 36,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Namesake'?",
+      "question": "What is the name of the largest city in Africa?",
       "options": [
-        "Jhumpa Lahiri",
-        "Salman Rushdie",
-        "Arundhati Roy",
-        "Vikram Seth"
+        "Lagos",
+        "Cairo",
+        "Kinshasa",
+        "Johannesburg"
       ],
-      "correct": 0,
-      "explanation": "The Namesake is a novel written by Jhumpa Lahiri, published in 2003, which tells the story of the Ganguli family and their experiences as Indian immigrants in the United States."
+      "correct": 1,
+      "explanation": "Cairo is the largest city in Africa and the capital of Egypt."
     },
     {
       "id": 37,
       "category": "General Science",
-      "question": "What is the process by which the universe became transparent to light?",
+      "question": "What is the process by which the Earth's plates move and change?",
       "options": [
-        "The Big Bang",
-        "The formation of the first stars",
-        "The recombination of electrons and protons",
-        "The expansion of the universe"
+        "Plate tectonics",
+        "Weathering and erosion",
+        "Glaciation",
+        "Earthquakes"
       ],
-      "correct": 2,
-      "explanation": "The recombination of electrons and protons refers to the process by which the universe became transparent to light, occurring when the universe cooled enough for electrons and protons to combine into neutral atoms, allowing photons to travel freely without being scattered or absorbed."
+      "correct": 0,
+      "explanation": "Plate tectonics is the process by which the Earth's plates move and change, resulting in the creation of mountains, volcanoes, and earthquakes."
     },
     {
       "id": 38,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's flagship program to promote skill development?",
+      "question": "What is the term for the system of government in which power is held by a single person or group?",
       "options": [
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Jan Dhan Yojana"
+        "Autocracy",
+        "Democracy",
+        "Oligarchy",
+        "Monarchy"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Kaushal Vikas Yojana (PMKVY) is a flagship program launched by the Indian government in 2015 to promote skill development and vocational training among Indian youth."
+      "explanation": "Autocracy is a system of government in which power is held by a single person or group."
     },
     {
       "id": 39,
       "category": "Geography",
-      "question": "Which is the largest city in Scandinavia?",
+      "question": "Which city is the largest in North America?",
       "options": [
-        "Stockholm",
-        "Copenhagen",
-        "Oslo",
-        "Helsinki"
+        "Mexico City",
+        "New York City",
+        "Los Angeles",
+        "Toronto"
       ],
       "correct": 0,
-      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people, and is the capital of Sweden."
+      "explanation": "Mexico City is the largest city in North America and the capital of Mexico."
     },
     {
       "id": 40,
       "category": "Reasoning & Logic",
-      "question": "If a bakery sells 250 loaves of bread per day, and each loaf costs $2.50, how much money does the bakery make in a day?",
+      "question": "If a car travels 250 miles in 5 hours, how many miles will it travel in 8 hours?",
       "options": [
-        "$500",
-        "$625",
-        "$750",
-        "$1000"
+        "400 miles",
+        "420 miles",
+        "440 miles",
+        "460 miles"
       ],
-      "correct": 1,
-      "explanation": "To find the total amount of money the bakery makes in a day, we multiply the number of loaves sold (250) by the cost of each loaf ($2.50), which gives us 250 * $2.50 = $625."
+      "correct": 0,
+      "explanation": "If the car travels 250 miles in 5 hours, then its speed is 250 miles / 5 hours = 50 miles per hour. To find the distance it will travel in 8 hours, multiply the speed by the time: 50 miles per hour x 8 hours = 400 miles."
     },
     {
       "id": 41,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'perfidious'?",
+      "question": "What is the meaning of the word 'enigma'?",
       "options": [
-        "Disloyal or treacherous",
-        "Loyal and faithful",
-        "Honest and trustworthy",
-        "Kind and generous"
+        "A mysterious or puzzling person or thing",
+        "A clear and obvious person or thing",
+        "A vague or unclear idea",
+        "A contradictory concept"
       ],
       "correct": 0,
-      "explanation": "The word 'perfidious' refers to being disloyal or treacherous, having a tendency to betray trust or be unfaithful."
+      "explanation": "The word 'enigma' refers to a mysterious or puzzling person or thing, often used to describe something that is difficult to understand or explain."
     },
     {
       "id": 42,
       "category": "Current Affairs",
-      "question": "Who is the current Director-General of the World Health Organization (WHO)?",
+      "question": "Who is the current Secretary-General of the United Nations?",
       "options": [
-        "Tedros Adhanom Ghebreyesus",
-        "Margaret Chan",
-        "Gro Harlem Brundtland",
-        "Jonas Salk"
+        "Antonio Guterres",
+        "Ban Ki-moon",
+        "Kofi Annan",
+        "Boutros Boutros-Ghali"
       ],
       "correct": 0,
-      "explanation": "Tedros Adhanom Ghebreyesus is the current Director-General of the World Health Organization (WHO), taking office on July 1, 2017."
+      "explanation": "Antonio Guterres is the current Secretary-General of the United Nations."
     },
     {
       "id": 43,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Kite Runner'?",
+      "question": "What is the name of the largest city in China?",
       "options": [
-        "Khaled Hosseini",
-        "Arundhati Roy",
-        "Salman Rushdie",
-        "Vikram Seth"
+        "Shanghai",
+        "Beijing",
+        "Guangzhou",
+        "Shenzhen"
       ],
-      "correct": 0,
-      "explanation": "The Kite Runner is a novel written by Khaled Hosseini, published in 2003, which tells the story of the complex and often fraught relationship between two Afghan boys, Amir and Hassan."
+      "correct": 1,
+      "explanation": "Beijing is the largest city in China and the capital of the People's Republic of China."
     },
     {
       "id": 44,
       "category": "General Science",
-      "question": "What is the process by which plants release water vapor into the air?",
+      "question": "What is the process by which the body's cells become specialized to perform specific functions?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
+        "Mitosis",
+        "Meiosis",
+        "Differentiation",
+        "Photosynthesis"
       ],
       "correct": 2,
-      "explanation": "Transpiration is the process by which plants release water vapor into the air, occurring through small openings on the surface of leaves called stomata."
+      "explanation": "Differentiation is the process by which the body's cells become specialized to perform specific functions, such as nerve cells, muscle cells, or blood cells."
     },
     {
       "id": 45,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's flagship program to promote crop insurance?",
+      "question": "What is the term for the system of government in which power is divided between a central authority and smaller regional authorities?",
       "options": [
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana"
+        "Federalism",
+        "Confederalism",
+        "Unitary",
+        "Parliamentary"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) is a flagship program launched by the Indian government in 2016 to promote crop insurance and provide financial support to farmers in the event of crop failure or damage."
+      "explanation": "Federalism is a system of government in which power is divided between a central authority and smaller regional authorities."
     },
     {
       "id": 46,
       "category": "Geography",
-      "question": "Which is the largest island in the Caribbean Sea?",
+      "question": "Which city is the largest in Southeast Asia?",
       "options": [
-        "Cuba",
-        "Hispaniola",
-        "Jamaica",
-        "Puerto Rico"
+        "Jakarta",
+        "Bangkok",
+        "Kuala Lumpur",
+        "Singapore"
       ],
-      "correct": 1,
-      "explanation": "Hispaniola is the largest island in the Caribbean Sea, with an area of approximately 76,840 square kilometers, and is divided between the countries of Haiti and the Dominican Republic."
+      "correct": 0,
+      "explanation": "Jakarta is the largest city in Southeast Asia and the capital of Indonesia."
     },
     {
       "id": 47,
       "category": "Reasoning & Logic",
-      "question": "If a car travels from City A to City B at an average speed of 60 km/h and returns at an average speed of 40 km/h, what is the average speed for the entire trip?",
+      "question": "If a person has 17 apples and gives 3 to a friend, what percentage of the apples does the person have left?",
       "options": [
-        "48 km/h",
-        "50 km/h",
-        "52 km/h",
-        "55 km/h"
+        "75%",
+        "80%",
+        "82%",
+        "85%"
       ],
-      "correct": 0,
-      "explanation": "To find the average speed for the entire trip, we need to find the total distance traveled and the total time taken. Let's assume the distance from City A to City B is x km. The time taken to travel from City A to City B at 60 km/h is x / 60 hours, and the time taken to return at 40 km/h is x / 40 hours. The total time taken is x / 60 + x / 40 = (2x + 3x) / 120 = 5x / 120 = x / 24 hours. The total distance traveled is 2x km. The average speed is the total distance divided by the total time, which is 2x / (x / 24) = 48 km/h."
+      "correct": 2,
+      "explanation": "If the person has 17 apples and gives 3 to a friend, then the person has 17 - 3 = 14 apples left. To find the percentage, divide the number of apples left by the original number and multiply by 100: (14 / 17) x 100 = 82.35%, which rounds to 82%."
     },
     {
       "id": 48,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'malleable'?",
+      "question": "What is the meaning of the idiom 'call it a day'?",
       "options": [
-        "Capable of being shaped or molded",
-        "Unable to be changed or modified",
-        "Firm and unyielding",
-        "Soft and fragile"
+        "To stop what you are doing and go home",
+        "To continue working for a long time",
+        "To take a break and rest",
+        "To quit your job"
       ],
       "correct": 0,
-      "explanation": "The word 'malleable' refers to something that is capable of being shaped or molded, being able to be changed or modified easily."
+      "explanation": "The idiom 'call it a day' means to stop what you are doing and go home, often because you are tired or it is the end of the workday."
     },
     {
       "id": 49,
-      "category": "Current Affairs",
-      "question": "Who is the current Secretary-General of the United Nations?",
-      "options": [
-        "António Guterres",
-        "Ban Ki-moon",
-        "Kofi Annan",
-        "Javier Pérez de Cuéllar"
-      ],
-      "correct": 0,
-      "explanation": "António Guterres is the current Secretary-General of the United Nations, taking office on January 1, 2017."
-    },
-    {
-      "id": 50,
-      "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Brief Wondrous Life of Oscar Wao'?",
-      "options": [
-        "Junot Díaz",
-        "Gabriel Garcia Marquez",
-        "Mario Vargas Llosa",
-        "Isabel Allende"
-      ],
-      "correct": 0,
-      "explanation": "The Brief Wondrous Life of Oscar Wao is a novel written by Junot Díaz, published in 2007, which tells the story of the struggles and triumphs of the Cabral family in the Dominican Republic and the United States."
-    },
-    {
-      "id": 51,
-      "category": "General Science",
-      "question": "What is the process by which the universe became filled with light?",
-      "options": [
-        "The Big Bang",
-        "The formation of the first stars",
-        "The recombination of electrons and protons",
-        "The expansion of the universe"
-      ],
-      "correct": 1,
-      "explanation": "The formation of the first stars refers to the process by which the universe became filled with light, occurring when the first stars and galaxies formed and began to emit light, marking the end of the cosmic dark ages."
-    },
-    {
-      "id": 52,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's flagship program to promote rural electrification?",
-      "options": [
-        "Deen Dayal Upadhyaya Gram Jyoti Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Deen Dayal Upadhyaya Gram Jyoti Yojana (DDUGJY) is a flagship program launched by the Indian government in 2015 to promote rural electrification and provide electricity to all rural households."
-    },
-    {
-      "id": 53,
-      "category": "Geography",
-      "question": "Which is the largest city in the Middle East?",
-      "options": [
-        "Istanbul",
-        "Tehran",
-        "Cairo",
-        "Baghdad"
-      ],
-      "correct": 2,
-      "explanation": "Cairo is the largest city in the Middle East, with a population of over 20 million people, and is the capital of Egypt."
-    },
-    {
-      "id": 54,
-      "category": "Reasoning & Logic",
-      "question": "If a person has 12 coins, and 3 of them are counterfeit, what is the probability that 2 coins selected at random are both genuine?",
-      "options": [
-        "0.67",
-        "0.72",
-        "0.75",
-        "0.81"
-      ],
-      "correct": 2,
-      "explanation": "To find the probability that 2 coins selected at random are both genuine, we first find the total number of ways to select 2 coins from 12, which is 12C2 = 66. Then, we find the number of ways to select 2 genuine coins from the 9 genuine coins, which is 9C2 = 36. The probability that 2 coins selected at random are both genuine is then 36 / 66 = 9 / 11 = 0.81 (approximately). However, 9/11 is approximately 0.81, but we are choosing from the 9 genuine coins, hence 9C2 / 12C2 = 36 / 66 = 6 / 11, so, 2 genuine coins from the 9 genuine coins can be selected in 36 ways out of 66 possible selections, hence the answer is 36 / 66 = 6 / 11 = 0.545 (approximately), and the probability that the first coin is genuine and the second coin is also genuine given the first one is genuine is (9 / 12) * (8 / 11) = 0.545 (approximately), hence we should find the probability of first coin being genuine and second coin being genuine given the first one is genuine, (9 / 12) * (8 / 11) = 3 / 4 * 8 / 11 = 6 / 11 = 0.545 (approximately), this was not in the options, however the answer 0.75 is not the correct answer, but (3 / 4) * (8 / 11) is indeed the correct formula, (9 / 12) * (8 / 11) = 3 / 4 * 8 / 11 = 6 / 11 = 0.545 (approximately) is indeed the answer for '2 genuine coins out of 2 selected are genuine' but what if the first coin is genuine and the second coin is also genuine given the first coin is genuine, this should be calculated as (9 / 12) * (8 / 11) = 6 / 11 = 0.545 (approximately), but we should look at the options to find the one closest to this calculation: (3 / 4) * (8 / 11) = 24 / 44 = 6 / 11 = 0.545 (approximately), however the closest answer in the given options is (9 * 8) / (12 * 11) = 72 / 132 = 6 / 11 = 0.545 (approximately) hence not 0.75, however there might be a different way to calculate it: 9 * 8 / 12 * 11 = 72 / 132, which can be reduced, but 72 / 132 is indeed 6 / 11 = 0.545 (approximately) hence 9 * 8 / (12 * 11) = 6 / 11 = 0.545, but looking at the options, the closest answer is indeed not 0.75 but the one which equals 9 * 8 / (12 * 11), which is indeed the closest answer: (9 / 12) * (8 / 11) = 6 / 11 = 0.545 (approximately) hence we should find the closest answer, which would be the answer closest to the calculated answer: 0.545 (approximately). Hence we should look for the closest answer, which is (9 * 8) / (12 * 11) = 72 / 132 = 6 / 11 = 0.545 (approximately), hence the answer is not 0.75 but indeed the closest one to 0.545 (approximately) which would be in the given options: 0.75 is not correct but the closest answer is indeed 0.75, however it is not correct, but 9 * 8 / (12 * 11) = 0.545 (approximately) hence we should select the closest answer to 0.545, which is indeed in the given options not 0.75, however looking at the other options, we can see that the answer is indeed the closest to 0.545 (approximately)."
-    },
-    {
-      "id": 55,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'persuade'?",
-      "options": [
-        "To convince someone to do something",
-        "To force someone to do something",
-        "To persuade someone to do something",
-        "To dissuade someone from doing something"
-      ],
-      "correct": 0,
-      "explanation": "The word 'persuade' refers to the act of convincing someone to do or believe something, often through reasoning or argument."
-    },
-    {
-      "id": 56,
       "category": "Current Affairs",
       "question": "Who is the current President of the European Parliament?",
       "options": [
@@ -730,59 +639,150 @@
         "Martin Schulz"
       ],
       "correct": 0,
-      "explanation": "Roberta Metsola is the current President of the European Parliament, taking office on January 18, 2022."
+      "explanation": "Roberta Metsola is the current President of the European Parliament."
+    },
+    {
+      "id": 50,
+      "category": "General Awareness & Static GK",
+      "question": "What is the name of the largest city in Japan?",
+      "options": [
+        "Tokyo",
+        "Osaka",
+        "Nagoya",
+        "Sapporo"
+      ],
+      "correct": 0,
+      "explanation": "Tokyo is the largest city in Japan and the capital of Japan."
+    },
+    {
+      "id": 51,
+      "category": "General Science",
+      "question": "What is the process by which the Earth's atmosphere retains heat?",
+      "options": [
+        "Greenhouse effect",
+        "Ozone layer depletion",
+        "Global warming",
+        "Climate change"
+      ],
+      "correct": 0,
+      "explanation": "The greenhouse effect is the process by which the Earth's atmosphere retains heat, trapping infrared radiation and keeping the planet warm."
+    },
+    {
+      "id": 52,
+      "category": "Indian Polity & Economy",
+      "question": "What is the term for the system of government in which power is held by a single person or group?",
+      "options": [
+        "Autocracy",
+        "Democracy",
+        "Oligarchy",
+        "Monarchy"
+      ],
+      "correct": 0,
+      "explanation": "Autocracy is a system of government in which power is held by a single person or group."
+    },
+    {
+      "id": 53,
+      "category": "Geography",
+      "question": "Which river is the longest in South America?",
+      "options": [
+        "Amazon River",
+        "Parana River",
+        "Sao Francisco River",
+        "Magdalena River"
+      ],
+      "correct": 0,
+      "explanation": "The Amazon River is the longest river in South America and the largest river in the world by discharge volume."
+    },
+    {
+      "id": 54,
+      "category": "Reasoning & Logic",
+      "question": "If a person has 12 boxes of pens, and each box contains 20 pens, how many pens does the person have in total?",
+      "options": [
+        "200 pens",
+        "220 pens",
+        "240 pens",
+        "260 pens"
+      ],
+      "correct": 2,
+      "explanation": "If the person has 12 boxes of pens, and each box contains 20 pens, then the person has 12 x 20 = 240 pens in total."
+    },
+    {
+      "id": 55,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the word 'paradox'?",
+      "options": [
+        "A statement that is contradictory or seems to be impossible",
+        "A statement that is clear and obvious",
+        "A vague or unclear idea",
+        "A contradictory concept"
+      ],
+      "correct": 0,
+      "explanation": "The word 'paradox' refers to a statement that is contradictory or seems to be impossible, often used to describe a situation or idea that is puzzling or seemingly absurd."
+    },
+    {
+      "id": 56,
+      "category": "Current Affairs",
+      "question": "Who is the current Director-General of the World Health Organization?",
+      "options": [
+        "Tedros Adhanom Ghebreyesus",
+        "Margaret Chan",
+        "Gro Harlem Brundtland",
+        "Hiroshi Nakajima"
+      ],
+      "correct": 0,
+      "explanation": "Tedros Adhanom Ghebreyesus is the current Director-General of the World Health Organization."
     },
     {
       "id": 57,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Inheritance of Loss'?",
+      "question": "What is the name of the largest city in Canada?",
       "options": [
-        "Kiran Desai",
-        "Arundhati Roy",
-        "Salman Rushdie",
-        "Vikram Seth"
+        "Toronto",
+        "Montreal",
+        "Vancouver",
+        "Calgary"
       ],
       "correct": 0,
-      "explanation": "The Inheritance of Loss is a novel written by Kiran Desai, published in 2006, which tells the story of the interconnected lives of several characters in the Himalayas and New York City."
+      "explanation": "Toronto is the largest city in Canada and the financial hub of the country."
     },
     {
       "id": 58,
       "category": "General Science",
-      "question": "What is the process by which the universe became filled with galaxies and galaxy clusters?",
+      "question": "What is the process by which the body's immune system fights off infections?",
       "options": [
-        "The Big Bang",
-        "The formation of the first stars",
-        "The recombination of electrons and protons",
-        "The expansion of the universe"
+        "Inflammation",
+        "Immune response",
+        "Infection",
+        "Disease"
       ],
       "correct": 1,
-      "explanation": "The formation of the first stars refers to the process by which the universe became filled with galaxies and galaxy clusters, occurring when the first stars and galaxies formed and began to group together into larger structures, marking the beginning of the modern universe as we know it."
+      "explanation": "The immune response is the process by which the body's immune system fights off infections, using a variety of cells and proteins to defend against pathogens."
     },
     {
       "id": 59,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's flagship program to promote digital payments?",
+      "question": "What is the term for the system of government in which power is divided between a central authority and smaller regional authorities?",
       "options": [
-        "Digital India",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana"
+        "Federalism",
+        "Confederalism",
+        "Unitary",
+        "Parliamentary"
       ],
       "correct": 0,
-      "explanation": "The Digital India program is a flagship program launched by the Indian government in 2015 to promote digital literacy, digital infrastructure, and digital payments across the country."
+      "explanation": "Federalism is a system of government in which power is divided between a central authority and smaller regional authorities."
     },
     {
       "id": 60,
       "category": "Geography",
-      "question": "Which is the largest waterfall in the world by volume of water?",
+      "question": "Which city is the largest in Australia?",
       "options": [
-        "Victoria Falls",
-        "Iguazu Falls",
-        "Niagara Falls",
-        "Angel Falls"
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Perth"
       ],
       "correct": 0,
-      "explanation": "Victoria Falls is the largest waterfall in the world by volume of water, with an average flow rate of 1,088 m3/s, and is located on the border of Zambia and Zimbabwe in southern Africa."
+      "explanation": "Sydney is the largest city in Australia and the state capital of New South Wales."
     }
   ]
 }
