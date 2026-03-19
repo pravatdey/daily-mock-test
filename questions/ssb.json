@@ -1,34 +1,34 @@
 {
   "exam": "ssb",
   "name": "SSB",
-  "date": "2026-03-18",
+  "date": "2026-03-19",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'India 2020: A Vision for the New Millennium'?",
+      "question": "What is the name of the highest gallantry award in India?",
       "options": [
-        "A.P.J. Abdul Kalam",
-        "Manmohan Singh",
-        "Narendra Modi",
-        "Rahul Gandhi"
+        "Bharat Ratna",
+        "Param Vir Chakra",
+        "Padma Shri",
+        "Ashok Chakra"
       ],
-      "correct": 0,
-      "explanation": "A.P.J. Abdul Kalam wrote the book 'India 2020: A Vision for the New Millennium' in 1998, which presents a vision for India to become a developed nation by 2020."
+      "correct": 1,
+      "explanation": "The Param Vir Chakra is the highest gallantry award in India, awarded for the most conspicuous bravery or some daring or pre-eminent act of valour or self-sacrifice, in the presence of the enemy, whether on land, at sea, or in the air."
     },
     {
       "id": 2,
       "category": "Indian History & Freedom Struggle",
-      "question": "The Battle of Plassey was fought in which year?",
+      "question": "Which of the following was the first Indian satellite launched by India?",
       "options": [
-        "1756",
-        "1757",
-        "1758",
-        "1759"
+        "Aryabhata",
+        "INSAT-1A",
+        "Kalpana-1",
+        "GSAT-1"
       ],
-      "correct": 1,
-      "explanation": "The Battle of Plassey was fought on June 23, 1757, near Calcutta, and marked the beginning of British rule in India."
+      "correct": 0,
+      "explanation": "Aryabhata was the first Indian satellite, launched on April 19, 1975, from the Soviet Union's Kapustin Yar launch facility using a Cosmos-3M launch vehicle."
     },
     {
       "id": 3,
@@ -46,15 +46,15 @@
     {
       "id": 4,
       "category": "Geography",
-      "question": "Which of the following rivers flows through the city of Varanasi?",
+      "question": "What is the name of the highest mountain peak in India?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Brahmaputra",
-        "Kaveri"
+        "Kangchenjunga",
+        "Mount Everest",
+        "K2",
+        "Nanda Devi"
       ],
       "correct": 0,
-      "explanation": "The Ganga River flows through the city of Varanasi, which is considered a sacred city in Hinduism."
+      "explanation": "Kangchenjunga is the highest mountain peak in India, located in the state of Sikkim, with an elevation of 8586 meters above sea level."
     },
     {
       "id": 5,
@@ -67,7 +67,7 @@
         "Uranus"
       ],
       "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142984 kilometers."
     },
     {
       "id": 6,
@@ -76,81 +76,81 @@
       "options": [
         "INS Vikramaditya",
         "INS Viraat",
-        "INS Vikrant",
-        "INS Arihant"
+        "INS Jalashwa",
+        "INS Vikrant"
       ],
       "correct": 0,
-      "explanation": "The INS Vikramaditya is the Indian Navy's aircraft carrier, which was commissioned in 2013."
+      "explanation": "INS Vikramaditya is the aircraft carrier of the Indian Navy, commissioned on November 16, 2013."
     },
     {
       "id": 7,
       "category": "Current Affairs",
-      "question": "Which of the following countries is not a member of the Quadrilateral Security Dialogue (Quad)?",
+      "question": "Who is the current Chairman of the National Disaster Management Authority (NDMA)?",
       "options": [
-        "India",
-        "United States",
-        "Australia",
-        "China"
+        "Prime Minister of India",
+        "Home Minister of India",
+        "Defence Minister of India",
+        "Minister of State for Home Affairs"
       ],
-      "correct": 3,
-      "explanation": "The Quadrilateral Security Dialogue (Quad) is a grouping of four countries: India, the United States, Australia, and Japan, with the aim of promoting a free and open Indo-Pacific region."
+      "correct": 0,
+      "explanation": "The Prime Minister of India is the Chairman of the National Disaster Management Authority (NDMA), as per the Disaster Management Act, 2005."
     },
     {
       "id": 8,
       "category": "General Awareness & GK",
-      "question": "What is the name of the national animal of India?",
+      "question": "What is the name of the famous Indian classical dance form originating from the state of Kerala?",
       "options": [
-        "Tiger",
-        "Lion",
-        "Elephant",
-        "Peacock"
+        "Bharatanatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
       ],
-      "correct": 0,
-      "explanation": "The tiger is the national animal of India, and is an endangered species protected under the Wildlife Protection Act, 1972."
+      "correct": 1,
+      "explanation": "Kathakali is a famous Indian classical dance form originating from the state of Kerala, known for its elaborate costumes, makeup, and storytelling through dance."
     },
     {
       "id": 9,
       "category": "Indian History & Freedom Struggle",
-      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
+      "question": "Who was the leader of the Indian National Army during World War II?",
       "options": [
-        "1920",
-        "1921",
-        "1922",
-        "1923"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920, as a protest against British rule in India."
+      "explanation": "Subhas Chandra Bose was the leader of the Indian National Army during World War II, who led the army in its fight against British colonial rule in India."
     },
     {
       "id": 10,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the highest court in India?",
+      "question": "What is the name of the constitutional body responsible for conducting free and fair elections in India?",
       "options": [
-        "Supreme Court",
-        "High Court",
-        "District Court",
-        "Session Court"
+        "Election Commission of India",
+        "Union Public Service Commission",
+        "National Human Rights Commission",
+        "Central Information Commission"
       ],
       "correct": 0,
-      "explanation": "The Supreme Court is the highest court in India, with the power to interpret the Constitution and decide cases involving federal laws and the Constitution."
+      "explanation": "The Election Commission of India is the constitutional body responsible for conducting free and fair elections in India, as per Article 324 of the Indian Constitution."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which of the following mountain ranges runs along the border between India and Pakistan?",
+      "question": "What is the name of the longest river in India?",
       "options": [
-        "Karakoram",
-        "Himalayas",
-        "Aravalli",
-        "Vindhya"
+        "Ganges",
+        "Brahmaputra",
+        "Godavari",
+        "Krishna"
       ],
       "correct": 0,
-      "explanation": "The Karakoram mountain range runs along the border between India and Pakistan, and is known for its rugged terrain and high peaks."
+      "explanation": "The Ganges is the longest river in India, stretching over 2525 kilometers from its source in the Himalayas to its delta in the Bay of Bengal."
     },
     {
       "id": 12,
       "category": "General Science",
-      "question": "What is the process by which plants make their own food?",
+      "question": "What is the process by which plants convert sunlight into energy?",
       "options": [
         "Respiration",
         "Photosynthesis",
@@ -158,85 +158,85 @@
         "Fermentation"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants make their own food, using sunlight, water, and carbon dioxide to produce glucose and oxygen."
+      "explanation": "Photosynthesis is the process by which plants convert sunlight into energy, using carbon dioxide and water to produce glucose and oxygen."
     },
     {
       "id": 13,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Army's special forces unit?",
+      "question": "What is the name of the Indian Air Force's transport aircraft?",
       "options": [
-        "National Security Guard (NSG)",
-        "Special Protection Group (SPG)",
-        "Special Frontier Force (SFF)",
-        "Parachute Regiment"
+        "C-130J Super Hercules",
+        "C-17 Globemaster III",
+        "IL-76",
+        "AN-32"
       ],
-      "correct": 2,
-      "explanation": "The Special Frontier Force (SFF) is the Indian Army's special forces unit, which is trained to conduct unconventional warfare and special operations."
+      "correct": 0,
+      "explanation": "The C-130J Super Hercules is the Indian Air Force's transport aircraft, used for a variety of tasks including cargo transport, airlift, and medical evacuation."
     },
     {
       "id": 14,
       "category": "Current Affairs",
-      "question": "Which of the following countries has not been affected by the COVID-19 pandemic?",
+      "question": "Who is the current Director General of the Sashastra Seema Bal (SSB)?",
       "options": [
-        "India",
-        "China",
-        "United States",
-        "None of the above"
+        "Kuldiep Singh",
+        "S.S. Deswal",
+        "Rajnikant Mishra",
+        "Sanjay Arora"
       ],
-      "correct": 3,
-      "explanation": "The COVID-19 pandemic has affected almost every country in the world, including India, China, and the United States, with widespread infections and deaths reported globally."
+      "correct": 0,
+      "explanation": "Kuldiep Singh is the current Director General of the Sashastra Seema Bal (SSB), as per the latest government notifications."
     },
     {
       "id": 15,
       "category": "General Awareness & GK",
-      "question": "What is the name of the largest island in the Indian Ocean?",
+      "question": "What is the name of the largest national park in India?",
       "options": [
-        "Madagascar",
-        "Sri Lanka",
-        "Sumatra",
-        "Java"
+        "Hemis National Park",
+        "Kanha National Park",
+        "Kaziranga National Park",
+        "Sundarbans National Park"
       ],
       "correct": 0,
-      "explanation": "Madagascar is the largest island in the Indian Ocean, with an area of approximately 587,041 square kilometers."
+      "explanation": "Hemis National Park is the largest national park in India, covering an area of over 4400 square kilometers in the state of Jammu and Kashmir."
     },
     {
       "id": 16,
       "category": "Indian History & Freedom Struggle",
-      "question": "The Indian National Congress was founded in which year?",
+      "question": "Who was the first Indian woman to become a member of the Indian National Congress?",
       "options": [
-        "1885",
-        "1886",
-        "1887",
-        "1888"
+        "Sarojini Naidu",
+        "Annie Besant",
+        "Kamaladevi Chattopadhyay",
+        "Madam Bhikaji Cama"
       ],
-      "correct": 0,
-      "explanation": "The Indian National Congress was founded in 1885, with the aim of promoting Indian independence from British rule."
+      "correct": 1,
+      "explanation": "Annie Besant was the first Indian woman to become a member of the Indian National Congress, joining the party in 1914 and later serving as its president in 1917."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional body responsible for conducting elections in India?",
+      "question": "What is the name of the constitutional provision that guarantees the right to equality before the law?",
       "options": [
-        "Election Commission of India",
-        "National Human Rights Commission",
-        "National Commission for Women",
-        "National Commission for Scheduled Castes"
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
       ],
       "correct": 0,
-      "explanation": "The Election Commission of India is the constitutional body responsible for conducting elections in India, with the power to ensure free and fair elections."
+      "explanation": "Article 14 of the Indian Constitution guarantees the right to equality before the law, stating that the state shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
     },
     {
       "id": 18,
       "category": "Geography",
-      "question": "Which of the following rivers flows through the city of Mumbai?",
+      "question": "What is the name of the strait that separates the Indian subcontinent from the island of Sri Lanka?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Godavari",
-        "Mithi"
+        "Palk Strait",
+        "Adams Bridge",
+        "Mannar Strait",
+        "Laccadive Sea"
       ],
-      "correct": 3,
-      "explanation": "The Mithi River flows through the city of Mumbai, and is known for its pollution and flooding problems."
+      "correct": 0,
+      "explanation": "The Palk Strait is the strait that separates the Indian subcontinent from the island of Sri Lanka, with a width of approximately 53-82 kilometers."
     },
     {
       "id": 19,
@@ -249,85 +249,85 @@
         "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, with a length of approximately 2,300 kilometers and composed of billions of tiny coral polyps."
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2300 kilometers off the coast of Australia and composed of billions of tiny coral polyps."
     },
     {
       "id": 20,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's submarine base?",
+      "question": "What is the name of the Indian Army's special forces unit?",
       "options": [
-        "INS Kadamba",
-        "INS Vajrabahu",
-        "INS Abhimanyu",
-        "INS Varsha"
+        "National Security Guard (NSG)",
+        "Special Protection Group (SPG)",
+        "Para Commandos",
+        "MARCOS"
       ],
-      "correct": 0,
-      "explanation": "The INS Kadamba is the Indian Navy's submarine base, located in Karwar, Karnataka, and is equipped with advanced facilities for submarine operations and maintenance."
+      "correct": 2,
+      "explanation": "The Para Commandos are the Indian Army's special forces unit, trained to conduct a variety of tasks including counter-terrorism, hostage rescue, and unconventional warfare."
     },
     {
       "id": 21,
       "category": "Current Affairs",
-      "question": "Which of the following countries has been affected by the recent locust invasion?",
+      "question": "Who is the current Minister of Home Affairs in the Government of India?",
       "options": [
-        "India",
-        "Pakistan",
-        "Sri Lanka",
-        "All of the above"
+        "Amit Shah",
+        "Rajnath Singh",
+        "Nitin Gadkari",
+        "Narendra Modi"
       ],
-      "correct": 3,
-      "explanation": "The recent locust invasion has affected several countries in the region, including India, Pakistan, and Sri Lanka, with widespread damage to crops and livelihoods reported."
+      "correct": 0,
+      "explanation": "Amit Shah is the current Minister of Home Affairs in the Government of India, as per the latest government notifications."
     },
     {
       "id": 22,
       "category": "General Awareness & GK",
-      "question": "What is the name of the national bird of India?",
+      "question": "What is the name of the famous Indian author who wrote the novel 'The Alchemist'?",
       "options": [
-        "Peacock",
-        "Parrot",
-        "Sparrow",
-        "Pigeon"
+        "Rabindranath Tagore",
+        "R.K. Narayan",
+        "Salman Rushdie",
+        "None of the above"
       ],
-      "correct": 0,
-      "explanation": "The peacock is the national bird of India, known for its vibrant plumage and distinctive call."
+      "correct": 3,
+      "explanation": "The Alchemist is a novel written by Paulo Coelho, a Brazilian author, not an Indian author."
     },
     {
       "id": 23,
       "category": "Indian History & Freedom Struggle",
-      "question": "The Revolt of 1857 was led by which of the following leaders?",
+      "question": "Who was the leader of the Indian independence movement who is known for his non-violent resistance?",
       "options": [
-        "Mangal Pandey",
-        "Rani Lakshmibai",
-        "Bahadur Shah Zafar",
-        "All of the above"
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Bhagat Singh",
+        "Jawaharlal Nehru"
       ],
-      "correct": 3,
-      "explanation": "The Revolt of 1857 was led by several leaders, including Mangal Pandey, Rani Lakshmibai, and Bahadur Shah Zafar, who fought against British rule in India."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi was the leader of the Indian independence movement who is known for his non-violent resistance, using methods such as civil disobedience and non-cooperation to achieve Indian independence."
     },
     {
       "id": 24,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional provision that guarantees the right to equality?",
+      "question": "What is the name of the constitutional provision that guarantees the right to freedom of speech and expression?",
       "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
       ],
       "correct": 0,
-      "explanation": "Article 14 of the Indian Constitution guarantees the right to equality, which prohibits discrimination on the basis of caste, creed, color, or sex."
+      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression, subject to reasonable restrictions in the interests of the sovereignty and integrity of India, the security of the state, friendly relations with foreign states, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence."
     },
     {
       "id": 25,
       "category": "Geography",
-      "question": "Which of the following mountain ranges is located in the state of Jammu and Kashmir?",
+      "question": "What is the name of the highest mountain pass in the Himalayas?",
       "options": [
-        "Karakoram",
-        "Himalayas",
-        "Pir Panjal",
-        "All of the above"
+        "Khardung La",
+        "Rohtang Pass",
+        "Bara-lacha La",
+        "Shingo La"
       ],
-      "correct": 3,
-      "explanation": "The state of Jammu and Kashmir is home to several mountain ranges, including the Karakoram, Himalayas, and Pir Panjal, which are known for their rugged terrain and scenic beauty."
+      "correct": 0,
+      "explanation": "Khardung La is the highest mountain pass in the Himalayas, located in the Ladakh region of Jammu and Kashmir, with an elevation of 5359 meters above sea level."
     },
     {
       "id": 26,
@@ -340,64 +340,155 @@
         "Evaporation"
       ],
       "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is an essential part of the plant's water cycle."
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
     },
     {
       "id": 27,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Air Force's transport aircraft?",
+      "question": "What is the name of the Indian Navy's submarine?",
       "options": [
-        "C-17 Globemaster",
-        "C-130J Super Hercules",
-        "IL-76",
-        "An-32"
+        "INS Arihant",
+        "INS Arighat",
+        "INS Chakra",
+        "INS Sindhughosh"
       ],
       "correct": 0,
-      "explanation": "The C-17 Globemaster is the Indian Air Force's transport aircraft, which is used for transporting troops, equipment, and supplies over long distances."
+      "explanation": "INS Arihant is the Indian Navy's submarine, a nuclear-powered ballistic missile submarine that was commissioned in 2016."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Which of the following countries has been affected by the recent cyclone?",
+      "question": "Who is the current Chairman of the Indian Space Research Organisation (ISRO)?",
       "options": [
-        "India",
-        "Bangladesh",
-        "Sri Lanka",
-        "All of the above"
+        "K. Sivan",
+        "Rakesh Sharma",
+        "A.S. Kiran Kumar",
+        "G. Madhavan Nair"
       ],
-      "correct": 3,
-      "explanation": "The recent cyclone has affected several countries in the region, including India, Bangladesh, and Sri Lanka, with widespread damage to infrastructure and livelihoods reported."
+      "correct": 0,
+      "explanation": "K. Sivan is the current Chairman of the Indian Space Research Organisation (ISRO), as per the latest government notifications."
     },
     {
       "id": 29,
       "category": "General Awareness & GK",
-      "question": "What is the name of the national song of India?",
+      "question": "What is the name of the famous Indian festival of colors?",
       "options": [
-        "Vande Mataram",
-        "Jana Gana Mana",
-        "Saare Jahan Se Accha",
-        "Mile Sur Mera Tumhara"
+        "Diwali",
+        "Holi",
+        "Navratri",
+        "Dussehra"
       ],
-      "correct": 0,
-      "explanation": "Vande Mataram is the national song of India, which was written by Bankim Chandra Chattopadhyay and is considered a symbol of Indian nationalism."
+      "correct": 1,
+      "explanation": "Holi is the famous Indian festival of colors, celebrated to mark the arrival of spring and the victory of good over evil."
     },
     {
       "id": 30,
       "category": "Indian History & Freedom Struggle",
-      "question": "The Quit India Movement was launched by Mahatma Gandhi in which year?",
+      "question": "Who was the first Governor-General of India?",
       "options": [
-        "1940",
-        "1941",
-        "1942",
-        "1943"
+        "Warren Hastings",
+        "Lord Cornwallis",
+        "Lord William Bentinck",
+        "Lord Curzon"
       ],
-      "correct": 2,
-      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942, with the slogan 'Do or Die', and marked a significant turning point in the Indian independence movement."
+      "correct": 0,
+      "explanation": "Warren Hastings was the first Governor-General of India, serving from 1773 to 1785 and playing a significant role in the establishment of British rule in India."
     },
     {
       "id": 31,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional provision that guarantees the right to freedom of speech and expression?",
+      "question": "What is the name of the constitutional provision that guarantees the right to equality of opportunity in matters of public employment?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "correct": 2,
+      "explanation": "Article 16 of the Indian Constitution guarantees the right to equality of opportunity in matters of public employment, stating that there shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the state."
+    },
+    {
+      "id": 32,
+      "category": "Geography",
+      "question": "What is the name of the longest river in South America?",
+      "options": [
+        "Amazon River",
+        "Parana River",
+        "Sao Francisco River",
+        "Magdalena River"
+      ],
+      "correct": 0,
+      "explanation": "The Amazon River is the longest river in South America, stretching over 6400 kilometers from its source in the Andes Mountains to its mouth in the Atlantic Ocean."
+    },
+    {
+      "id": 33,
+      "category": "General Science",
+      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
+      "options": [
+        "Mutation",
+        "Genetic drift",
+        "Gene flow",
+        "Hereditary"
+      ],
+      "correct": 3,
+      "explanation": "Hereditary is the process by which an organism's genetic information is passed from one generation to the next, through the transmission of genes from parents to offspring."
+    },
+    {
+      "id": 34,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian Air Force's fighter jet?",
+      "options": [
+        "Tejas",
+        "Su-30MKI",
+        "MiG-29",
+        "Rafale"
+      ],
+      "correct": 0,
+      "explanation": "Tejas is the Indian Air Force's fighter jet, a lightweight, single-engine, multi-role fighter aircraft developed by the Aeronautical Development Agency (ADA) and produced by Hindustan Aeronautics Limited (HAL)."
+    },
+    {
+      "id": 35,
+      "category": "Current Affairs",
+      "question": "Who is the current President of the International Olympic Committee (IOC)?",
+      "options": [
+        "Thomas Bach",
+        "Jacques Rogge",
+        "Juan Antonio Samaranch",
+        "Avery Brundage"
+      ],
+      "correct": 0,
+      "explanation": "Thomas Bach is the current President of the International Olympic Committee (IOC), serving since 2013."
+    },
+    {
+      "id": 36,
+      "category": "General Awareness & GK",
+      "question": "What is the name of the largest desert in the world?",
+      "options": [
+        "Sahara Desert",
+        "Gobi Desert",
+        "Mojave Desert",
+        "Atacama Desert"
+      ],
+      "correct": 0,
+      "explanation": "The Sahara Desert is the largest hot desert in the world, covering an area of over 9.2 million square kilometers across North Africa."
+    },
+    {
+      "id": 37,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the leader of the Indian National Congress during the Quit India Movement?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "correct": 0,
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Quit India Movement, which was launched in 1942 to demand an end to British rule in India."
+    },
+    {
+      "id": 38,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the constitutional provision that guarantees the right to freedom of the press?",
       "options": [
         "Article 19",
         "Article 20",
@@ -405,90 +496,90 @@
         "Article 22"
       ],
       "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression, which is a fundamental right that allows citizens to express their opinions and ideas freely."
+      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression, which includes the freedom of the press, subject to reasonable restrictions in the interests of the sovereignty and integrity of India, the security of the state, friendly relations with foreign states, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence."
     },
     {
-      "id": 32,
+      "id": 39,
       "category": "Geography",
-      "question": "Which of the following rivers flows through the city of Kolkata?",
+      "question": "What is the name of the largest island in the Mediterranean Sea?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Brahmaputra",
-        "Hooghly"
+        "Sicily",
+        "Sardinia",
+        "Corsica",
+        "Crete"
       ],
-      "correct": 3,
-      "explanation": "The Hooghly River flows through the city of Kolkata, and is a distributary of the Ganga River."
+      "correct": 0,
+      "explanation": "Sicily is the largest island in the Mediterranean Sea, with an area of approximately 25,711 square kilometers."
     },
     {
-      "id": 33,
+      "id": 40,
       "category": "General Science",
-      "question": "What is the largest planet in our solar system by mass?",
+      "question": "What is the process by which the Earth's atmosphere retains heat?",
       "options": [
-        "Jupiter",
-        "Saturn",
-        "Uranus",
-        "Neptune"
+        "Greenhouse effect",
+        "Global warming",
+        "Climate change",
+        "Ozone depletion"
       ],
       "correct": 0,
-      "explanation": "Jupiter is the largest planet in our solar system by mass, with a mass of approximately 318 times that of Earth."
+      "explanation": "The greenhouse effect is the process by which the Earth's atmosphere retains heat, trapping certain gases such as carbon dioxide and water vapor, and keeping the planet warm enough to support life."
     },
     {
-      "id": 34,
+      "id": 41,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Army's artillery regiment?",
+      "question": "What is the name of the Indian Army's main battle tank?",
       "options": [
-        "Regiment of Artillery",
-        "Armoured Corps",
-        "Infantry Regiment",
-        "Engineers Regiment"
+        "Arjun",
+        "T-90",
+        "T-72",
+        "Vijayanta"
       ],
       "correct": 0,
-      "explanation": "The Regiment of Artillery is the Indian Army's artillery regiment, which is responsible for providing artillery support to the army's operations."
+      "explanation": "Arjun is the Indian Army's main battle tank, a third-generation tank developed by the Defence Research and Development Organisation (DRDO) and produced by the Heavy Vehicles Factory (HVF)."
     },
     {
-      "id": 35,
+      "id": 42,
       "category": "Current Affairs",
-      "question": "Which of the following countries has been affected by the recent earthquake?",
+      "question": "Who is the current Secretary-General of the United Nations?",
       "options": [
-        "India",
-        "Nepal",
-        "Bhutan",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "The recent earthquake has affected several countries in the region, including India, Nepal, and Bhutan, with widespread damage to infrastructure and livelihoods reported."
-    },
-    {
-      "id": 36,
-      "category": "General Awareness & GK",
-      "question": "What is the name of the national flower of India?",
-      "options": [
-        "Lotus",
-        "Rose",
-        "Tulip",
-        "Sunflower"
+        "Antonio Guterres",
+        "Ban Ki-moon",
+        "Kofi Annan",
+        "Boutros Boutros-Ghali"
       ],
       "correct": 0,
-      "explanation": "The lotus is the national flower of India, which is considered a symbol of spiritual growth and enlightenment."
+      "explanation": "Antonio Guterres is the current Secretary-General of the United Nations, serving since 2017."
     },
     {
-      "id": 37,
-      "category": "Indian History & Freedom Struggle",
-      "question": "The Indian Independence Act was passed in which year?",
+      "id": 43,
+      "category": "General Awareness & GK",
+      "question": "What is the name of the largest planet in our solar system's asteroid belt?",
       "options": [
-        "1945",
-        "1946",
-        "1947",
-        "1948"
+        "Ceres",
+        "Vesta",
+        "Pallas",
+        "Hygiea"
       ],
-      "correct": 2,
-      "explanation": "The Indian Independence Act was passed in 1947, which marked the end of British rule in India and the establishment of India and Pakistan as independent nations."
+      "correct": 0,
+      "explanation": "Ceres is the largest planet in our solar system's asteroid belt, with a diameter of approximately 946 kilometers."
     },
     {
-      "id": 38,
+      "id": 44,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the founder of the Indian National Congress?",
+      "options": [
+        "A.O. Hume",
+        "Lala Lajpat Rai",
+        "Bipin Chandra Pal",
+        "Monomohun Ghose"
+      ],
+      "correct": 0,
+      "explanation": "A.O. Hume was the founder of the Indian National Congress, which was established in 1885 to promote Indian rights and interests."
+    },
+    {
+      "id": 45,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional provision that guarantees the right to life and liberty?",
+      "question": "What is the name of the constitutional provision that guarantees the right to life and personal liberty?",
       "options": [
         "Article 21",
         "Article 22",
@@ -496,176 +587,85 @@
         "Article 24"
       ],
       "correct": 0,
-      "explanation": "Article 21 of the Indian Constitution guarantees the right to life and liberty, which is a fundamental right that protects citizens from arbitrary arrest and detention."
-    },
-    {
-      "id": 39,
-      "category": "Geography",
-      "question": "Which of the following mountain ranges is located in the state of Uttarakhand?",
-      "options": [
-        "Karakoram",
-        "Himalayas",
-        "Shivalik",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "The state of Uttarakhand is home to several mountain ranges, including the Karakoram, Himalayas, and Shivalik, which are known for their rugged terrain and scenic beauty."
-    },
-    {
-      "id": 40,
-      "category": "General Science",
-      "question": "What is the process by which the Earth's plates move and change?",
-      "options": [
-        "Continental drift",
-        "Plate tectonics",
-        "Weathering",
-        "Erosion"
-      ],
-      "correct": 1,
-      "explanation": "Plate tectonics is the process by which the Earth's plates move and change, resulting in the formation of mountains, volcanoes, and earthquakes."
-    },
-    {
-      "id": 41,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's submarine rescue vessel?",
-      "options": [
-        "INS Nireekshak",
-        "INS Kalvari",
-        "INS Arihant",
-        "INS Varsha"
-      ],
-      "correct": 0,
-      "explanation": "The INS Nireekshak is the Indian Navy's submarine rescue vessel, which is equipped with advanced facilities for rescuing submarines in distress."
-    },
-    {
-      "id": 42,
-      "category": "Current Affairs",
-      "question": "Which of the following countries has been affected by the recent flood?",
-      "options": [
-        "India",
-        "China",
-        "United States",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "The recent flood has affected several countries in the world, including India, China, and the United States, with widespread damage to infrastructure and livelihoods reported."
-    },
-    {
-      "id": 43,
-      "category": "General Awareness & GK",
-      "question": "What is the name of the national tree of India?",
-      "options": [
-        "Banyan",
-        "Peepal",
-        "Tulsi",
-        "Ashoka"
-      ],
-      "correct": 0,
-      "explanation": "The banyan is the national tree of India, which is considered a symbol of strength and longevity."
-    },
-    {
-      "id": 44,
-      "category": "Indian History & Freedom Struggle",
-      "question": "The Simon Commission was established in which year?",
-      "options": [
-        "1927",
-        "1928",
-        "1929",
-        "1930"
-      ],
-      "correct": 0,
-      "explanation": "The Simon Commission was established in 1927, with the aim of examining the working of the Indian Constitution and proposing reforms."
-    },
-    {
-      "id": 45,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional provision that guarantees the right to equality before the law?",
-      "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
-      ],
-      "correct": 0,
-      "explanation": "Article 14 of the Indian Constitution guarantees the right to equality before the law, which prohibits discrimination on the basis of caste, creed, color, or sex."
+      "explanation": "Article 21 of the Indian Constitution guarantees the right to life and personal liberty, stating that no person shall be deprived of his life or personal liberty except according to procedure established by law."
     },
     {
       "id": 46,
       "category": "Geography",
-      "question": "Which of the following rivers flows through the city of Delhi?",
+      "question": "What is the name of the largest city in the world by population?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Brahmaputra",
-        "Sutlej"
+        "Tokyo",
+        "Delhi",
+        "Shanghai",
+        "Mumbai"
       ],
-      "correct": 1,
-      "explanation": "The Yamuna River flows through the city of Delhi, and is a major tributary of the Ganga River."
+      "correct": 0,
+      "explanation": "Tokyo is the largest city in the world by population, with over 38 million people living in the metropolitan area."
     },
     {
       "id": 47,
       "category": "General Science",
-      "question": "What is the largest star in our solar system?",
+      "question": "What is the process by which the human body regulates its internal temperature?",
       "options": [
-        "Sun",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
+        "Homeostasis",
+        "Thermoregulation",
+        "Metabolism",
+        "Respiration"
       ],
-      "correct": 0,
-      "explanation": "The Sun is the largest star in our solar system, with a diameter of approximately 1,392,684 kilometers and accounting for 99.8% of the mass of the solar system."
+      "correct": 1,
+      "explanation": "Thermoregulation is the process by which the human body regulates its internal temperature, using mechanisms such as sweating, shivering, and vasodilation to maintain a stable body temperature."
     },
     {
       "id": 48,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Air Force's fighter jet?",
+      "question": "What is the name of the Indian Navy's anti-submarine warfare aircraft?",
       "options": [
-        "Tejas",
-        "Rafale",
-        "Su-30",
-        "MiG-21"
+        "Tupolev Tu-142",
+        "Ilyushin Il-38",
+        "Boeing P-8I",
+        "Dornier Do 228"
       ],
-      "correct": 0,
-      "explanation": "The Tejas is the Indian Air Force's fighter jet, which is a lightweight, multi-role aircraft developed by Hindustan Aeronautics Limited (HAL)."
+      "correct": 2,
+      "explanation": "The Boeing P-8I is the Indian Navy's anti-submarine warfare aircraft, used for maritime patrol and reconnaissance missions."
     },
     {
       "id": 49,
       "category": "Current Affairs",
-      "question": "Which of the following countries has been affected by the recent drought?",
+      "question": "Who is the current President of the World Bank?",
       "options": [
-        "India",
-        "Australia",
-        "United States",
-        "All of the above"
+        "David Malpass",
+        "Jim Yong Kim",
+        "Robert Zoellick",
+        "Paul Wolfowitz"
       ],
-      "correct": 3,
-      "explanation": "The recent drought has affected several countries in the world, including India, Australia, and the United States, with widespread damage to crops and livestock reported."
+      "correct": 0,
+      "explanation": "David Malpass is the current President of the World Bank, serving since 2019."
     },
     {
       "id": 50,
       "category": "General Awareness & GK",
-      "question": "What is the name of the national animal of China?",
+      "question": "What is the name of the largest moon of the planet Saturn?",
       "options": [
-        "Giant Panda",
-        "Red Panda",
-        "Snow Leopard",
-        "Golden Monkey"
+        "Titan",
+        "Enceladus",
+        "Dione",
+        "Rhea"
       ],
       "correct": 0,
-      "explanation": "The giant panda is the national animal of China, which is an endangered species and a symbol of Chinese culture."
+      "explanation": "Titan is the largest moon of the planet Saturn, with a diameter of approximately 5151 kilometers."
     },
     {
       "id": 51,
       "category": "Indian History & Freedom Struggle",
-      "question": "The Rowlatt Act was passed in which year?",
+      "question": "Who was the leader of the Azad Hind Fauj during World War II?",
       "options": [
-        "1917",
-        "1918",
-        "1919",
-        "1920"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bhagat Singh"
       ],
-      "correct": 2,
-      "explanation": "The Rowlatt Act was passed in 1919, which gave the British government emergency powers to suppress dissent and opposition in India."
+      "correct": 0,
+      "explanation": "Subhas Chandra Bose was the leader of the Azad Hind Fauj during World War II, which was a military force formed to fight against British colonial rule in India."
     },
     {
       "id": 52,
@@ -678,90 +678,90 @@
         "Article 22"
       ],
       "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of assembly, which allows citizens to assemble peacefully and express their opinions."
+      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression, which includes the freedom of assembly, subject to reasonable restrictions in the interests of the sovereignty and integrity of India, the security of the state, friendly relations with foreign states, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence."
     },
     {
       "id": 53,
       "category": "Geography",
-      "question": "Which of the following mountain ranges is located in the state of Sikkim?",
+      "question": "What is the name of the longest river in South Africa?",
       "options": [
-        "Karakoram",
-        "Himalayas",
-        "Pir Panjal",
-        "Eastern Himalayas"
+        "Orange River",
+        "Vaal River",
+        "Limpopo River",
+        "Cunene River"
       ],
-      "correct": 3,
-      "explanation": "The Eastern Himalayas mountain range is located in the state of Sikkim, which is known for its rugged terrain and scenic beauty."
+      "correct": 0,
+      "explanation": "The Orange River is the longest river in South Africa, stretching over 2300 kilometers from its source in the Drakensberg Mountains to its mouth in the Atlantic Ocean."
     },
     {
       "id": 54,
       "category": "General Science",
-      "question": "What is the process by which the Earth's climate is changing?",
+      "question": "What is the process by which plants release water vapor into the air?",
       "options": [
-        "Global warming",
-        "Climate change",
-        "Ocean acidification",
-        "Deforestation"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
       ],
-      "correct": 1,
-      "explanation": "Climate change refers to the process by which the Earth's climate is changing, due to factors such as global warming, ocean acidification, and deforestation."
+      "correct": 2,
+      "explanation": "Transpiration is the process by which plants release water vapor into the air, primarily through their leaves, which helps to regulate the plant's temperature and maintain its water balance."
     },
     {
       "id": 55,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's naval base?",
+      "question": "What is the name of the Indian Air Force's transport helicopter?",
       "options": [
-        "INS Kadamba",
-        "INS Vajrabahu",
-        "INS Abhimanyu",
-        "INS Varsha"
+        "Mi-17",
+        "Mi-35",
+        "Chinook",
+        "Apache"
       ],
-      "correct": 1,
-      "explanation": "The INS Vajrabahu is the Indian Navy's naval base, located in Karwar, Karnataka, and is equipped with advanced facilities for naval operations and maintenance."
+      "correct": 0,
+      "explanation": "The Mi-17 is the Indian Air Force's transport helicopter, used for a variety of tasks including cargo transport, medical evacuation, and search and rescue missions."
     },
     {
       "id": 56,
       "category": "Current Affairs",
-      "question": "Which of the following countries has been affected by the recent landslide?",
+      "question": "Who is the current Prime Minister of India?",
       "options": [
-        "India",
-        "Nepal",
-        "Bhutan",
-        "All of the above"
+        "Narendra Modi",
+        "Rahul Gandhi",
+        "Amit Shah",
+        "Arvind Kejriwal"
       ],
-      "correct": 3,
-      "explanation": "The recent landslide has affected several countries in the region, including India, Nepal, and Bhutan, with widespread damage to infrastructure and livelihoods reported."
+      "correct": 0,
+      "explanation": "Narendra Modi is the current Prime Minister of India, serving since 2014."
     },
     {
       "id": 57,
       "category": "General Awareness & GK",
-      "question": "What is the name of the national bird of China?",
+      "question": "What is the name of the largest living species of lizard?",
       "options": [
-        "Red-crowned Crane",
-        "Golden Pheasant",
-        "Silver Pheasant",
-        "Chinese Goose"
+        "Komodo dragon",
+        "Saltwater crocodile",
+        "Black mamba",
+        "African elephant"
       ],
       "correct": 0,
-      "explanation": "The red-crowned crane is the national bird of China, which is an endangered species and a symbol of Chinese culture."
+      "explanation": "The Komodo dragon is the largest living species of lizard, found in the wild only on a few islands in Indonesia, with a length of up to 3 meters and weighing up to 70 kilograms."
     },
     {
       "id": 58,
       "category": "Indian History & Freedom Struggle",
-      "question": "The Government of India Act was passed in which year?",
+      "question": "Who was the leader of the Indian National Congress during the Non-Cooperation Movement?",
       "options": [
-        "1919",
-        "1935",
-        "1947",
-        "1950"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Lala Lajpat Rai"
       ],
-      "correct": 1,
-      "explanation": "The Government of India Act was passed in 1935, which introduced federalism and provincial autonomy in India."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Non-Cooperation Movement, which was launched in 1920 to protest British rule in India."
     },
     {
       "id": 59,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional provision that guarantees the right to freedom of speech and expression?",
+      "question": "What is the name of the constitutional provision that guarantees the right to freedom of association?",
       "options": [
         "Article 19",
         "Article 20",
@@ -769,20 +769,20 @@
         "Article 22"
       ],
       "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression, which allows citizens to express their opinions and ideas freely."
+      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression, which includes the freedom of association, subject to reasonable restrictions in the interests of the sovereignty and integrity of India, the security of the state, friendly relations with foreign states, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence."
     },
     {
       "id": 60,
       "category": "Geography",
-      "question": "Which of the following rivers flows through the city of Ahmedabad?",
+      "question": "What is the name of the largest island in the Arctic Ocean?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Sabarmati",
-        "Narmada"
+        "Greenland",
+        "Baffin Island",
+        "Ellesmere Island",
+        "Devon Island"
       ],
-      "correct": 2,
-      "explanation": "The Sabarmati River flows through the city of Ahmedabad, and is a major river in the state of Gujarat."
+      "correct": 0,
+      "explanation": "Greenland is the largest island in the Arctic Ocean, with an area of approximately 2.2 million square kilometers."
     }
   ]
 }

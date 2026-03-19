@@ -1,47 +1,47 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-03-18",
+  "date": "2026-03-19",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "The ancient Indian university of Nalanda was established during the reign of which emperor?",
+      "question": "What was the name of the treaty signed by the East India Company with the Kingdom of Mysore in 1792?",
       "options": [
-        "Kanishka",
-        "Ashoka",
-        "Harshavardhana",
-        "Chandragupta Maurya"
+        "Treaty of Srirangapatna",
+        "Treaty of Mangalore",
+        "Treaty of Madras",
+        "Treaty of Bangalore"
       ],
-      "correct": 2,
-      "explanation": "Nalanda University was established during the reign of Harshavardhana in the 5th century CE."
+      "correct": 0,
+      "explanation": "The Treaty of Srirangapatna was signed on March 18, 1792, marking the end of the Third Anglo-Mysore War."
     },
     {
       "id": 2,
       "category": "Indian Geography",
-      "question": "Which river is the longest in South India?",
+      "question": "Which Indian state has the longest international border with Bangladesh?",
       "options": [
-        "Godavari",
-        "Krishna",
-        "Kaveri",
-        "Tungabhadra"
+        "West Bengal",
+        "Assam",
+        "Meghalaya",
+        "Tripura"
       ],
       "correct": 0,
-      "explanation": "The Godavari River is the longest in South India, stretching over 1,450 km."
+      "explanation": "West Bengal shares a 2,217 km long international border with Bangladesh, which is the longest among all Indian states."
     },
     {
       "id": 3,
       "category": "Indian Polity & Governance",
-      "question": "What is the minimum number of members required for a no-confidence motion in the Lok Sabha?",
+      "question": "What is the minimum number of members required for a valid meeting of the Lok Sabha?",
       "options": [
-        "50",
-        "100",
-        "50% of total membership",
-        "One-fourth of the total membership"
+        "10",
+        "20",
+        "25",
+        "50"
       ],
-      "correct": 3,
-      "explanation": "A no-confidence motion in the Lok Sabha requires a minimum of one-fourth of the total membership of the House."
+      "correct": 1,
+      "explanation": "According to the Rules of Procedure and Conduct of Business in Lok Sabha, at least 20 members must be present for a valid meeting."
     },
     {
       "id": 4,
@@ -54,101 +54,10 @@
         "Unemployment rate"
       ],
       "correct": 3,
-      "explanation": "The Human Development Index (HDI) consists of three components: life expectancy at birth, expected years of schooling, and Gross National Income per capita."
+      "explanation": "HDI is a composite index measuring average achievement in three basic dimensions of human development: a long and healthy life, knowledge, and a decent standard of living. Unemployment rate is not a component of HDI."
     },
     {
       "id": 5,
-      "category": "General Science",
-      "question": "Who is credited with the discovery of the principle of buoyancy?",
-      "options": [
-        "Archimedes",
-        "Galileo Galilei",
-        "Isaac Newton",
-        "Blaise Pascal"
-      ],
-      "correct": 0,
-      "explanation": "Archimedes is credited with the discovery of the principle of buoyancy, which states that the upward force exerted on an object immersed in a fluid is equal to the weight of the fluid displaced by the object."
-    },
-    {
-      "id": 6,
-      "category": "Environment & Ecology",
-      "question": "What is the main purpose of the Clean Development Mechanism (CDM) under the Kyoto Protocol?",
-      "options": [
-        "To reduce greenhouse gas emissions in developed countries",
-        "To promote sustainable development in developing countries",
-        "To increase energy efficiency in industries",
-        "To protect biodiversity in forests"
-      ],
-      "correct": 1,
-      "explanation": "The Clean Development Mechanism (CDM) is a flexibility mechanism under the Kyoto Protocol that aims to promote sustainable development in developing countries by reducing greenhouse gas emissions."
-    },
-    {
-      "id": 7,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Which of the following schemes was launched by the Government of India to promote digital payments?",
-      "options": [
-        "Digital India",
-        "Make in India",
-        "Start-up India",
-        "Pradhan Mantri Jan Dhan Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Digital India scheme was launched by the Government of India to promote digital payments and increase digital literacy among citizens."
-    },
-    {
-      "id": 8,
-      "category": "Indian History",
-      "question": "The British East India Company established its first factory in India at which of the following places?",
-      "options": [
-        "Surat",
-        "Madras",
-        "Bombay",
-        "Calcutta"
-      ],
-      "correct": 0,
-      "explanation": "The British East India Company established its first factory in India at Surat in 1612."
-    },
-    {
-      "id": 9,
-      "category": "Indian Geography",
-      "question": "Which mountain range runs along the border between India and Pakistan?",
-      "options": [
-        "Karakoram",
-        "Himalayas",
-        "Aravalli",
-        "Satpura"
-      ],
-      "correct": 0,
-      "explanation": "The Karakoram mountain range runs along the border between India and Pakistan."
-    },
-    {
-      "id": 10,
-      "category": "Indian Polity & Governance",
-      "question": "What is the term of office of the President of India?",
-      "options": [
-        "5 years",
-        "6 years",
-        "7 years",
-        "10 years"
-      ],
-      "correct": 0,
-      "explanation": "The term of office of the President of India is 5 years."
-    },
-    {
-      "id": 11,
-      "category": "Indian Economy",
-      "question": "Which of the following is a type of unemployment?",
-      "options": [
-        "Frictional unemployment",
-        "Structural unemployment",
-        "Cyclical unemployment",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "There are several types of unemployment, including frictional unemployment, structural unemployment, and cyclical unemployment."
-    },
-    {
-      "id": 12,
       "category": "General Science",
       "question": "What is the largest planet in our solar system?",
       "options": [
@@ -158,36 +67,218 @@
         "Uranus"
       ],
       "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
+      "explanation": "Jupiter is the largest of all the planets in terms of both mass and size, with a diameter of approximately 142,984 kilometers."
+    },
+    {
+      "id": 6,
+      "category": "Environment & Ecology",
+      "question": "Which of the following is an example of a symbiotic relationship in nature?",
+      "options": [
+        "Predator-prey relationship",
+        "Competition for resources",
+        "Mutualism between clownfish and sea anemone",
+        "Parasitism"
+      ],
+      "correct": 2,
+      "explanation": "The relationship between clownfish and sea anemone is an example of mutualism, where both species benefit from each other. Clownfish gets protection from predators, while sea anemone benefits from the fish's waste and the aeration of its tentacles."
+    },
+    {
+      "id": 7,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": [
+        "Amelia Earhart",
+        "Charles Lindbergh",
+        "Anne Morrow Lindbergh",
+        "Beryl Markham"
+      ],
+      "correct": 0,
+      "explanation": "Amelia Earhart became the first woman to fly solo across the Atlantic on May 20-21, 1932, flying a single-engine Lockheed Vega monoplane."
+    },
+    {
+      "id": 8,
+      "category": "Indian History",
+      "question": "Who was the founder of the Theosophical Society in India?",
+      "options": [
+        "Helena Blavatsky",
+        "Henry Steel Olcott",
+        "Annie Besant",
+        "Jiddu Krishnamurti"
+      ],
+      "correct": 0,
+      "explanation": "Helena Blavatsky, along with Henry Steel Olcott, founded the Theosophical Society in New York in 1875, which later moved to Adyar, Chennai, India in 1882."
+    },
+    {
+      "id": 9,
+      "category": "Indian Geography",
+      "question": "What is the name of the strait separating the islands of Java and Sumatra?",
+      "options": [
+        "Sunda Strait",
+        "Lombok Strait",
+        "Makassar Strait",
+        "Malacca Strait"
+      ],
+      "correct": 0,
+      "explanation": "The Sunda Strait is a 30 km wide strait between the Indonesian islands of Java and Sumatra, connecting the Java Sea to the Indian Ocean."
+    },
+    {
+      "id": 10,
+      "category": "Indian Polity & Governance",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of speech and expression?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 25"
+      ],
+      "correct": 1,
+      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression, which is a fundamental right."
+    },
+    {
+      "id": 11,
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme aimed at providing financial assistance to small and marginal farmers?",
+      "options": [
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Rashtriya Krishi Vikas Yojana",
+        "National Rural Employment Guarantee Act"
+      ],
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a government scheme that provides an annual financial benefit of Rs. 6,000 to small and marginal farmer families."
+    },
+    {
+      "id": 12,
+      "category": "General Science",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
+      ],
+      "correct": 2,
+      "explanation": "Transpiration is the process by which water is transported through a plant, from the roots to the leaves, and is then released into the air as water vapor."
     },
     {
       "id": 13,
       "category": "Environment & Ecology",
-      "question": "What is the primary cause of ozone layer depletion?",
+      "question": "What is the term for the movement of animals from one region to another at certain times of the year?",
       "options": [
-        "Chlorofluorocarbons (CFCs)",
-        "Carbon dioxide",
-        "Methane",
-        "Nitrous oxide"
+        "Hibernation",
+        "Migration",
+        "Camouflage",
+        "Adaptation"
       ],
-      "correct": 0,
-      "explanation": "The primary cause of ozone layer depletion is the release of chlorofluorocarbons (CFCs) into the atmosphere."
+      "correct": 1,
+      "explanation": "Migration refers to the seasonal or periodic movement of animals from one region to another, often in search of food, shelter, or breeding grounds."
     },
     {
       "id": 14,
       "category": "Current Affairs & General Knowledge",
-      "question": "Which of the following is a constitutional body?",
+      "question": "Who is the author of the book 'The Namesake'?",
       "options": [
-        "Election Commission of India",
-        "Comptroller and Auditor General of India",
-        "National Human Rights Commission",
-        "All of the above"
+        "Jhumpa Lahiri",
+        "Arundhati Roy",
+        "Salman Rushdie",
+        "Vikram Seth"
       ],
-      "correct": 3,
-      "explanation": "All of the above options are constitutional bodies, established by the Constitution of India to perform specific functions."
+      "correct": 0,
+      "explanation": "Jhumpa Lahiri is the author of the novel 'The Namesake', published in 2003, which explores the experiences of an Indian family living in the United States."
     },
     {
       "id": 15,
+      "category": "Indian History",
+      "question": "The Regulating Act of 1773 was passed by which British monarch?",
+      "options": [
+        "King George I",
+        "King George II",
+        "King George III",
+        "Queen Victoria"
+      ],
+      "correct": 2,
+      "explanation": "The Regulating Act of 1773 was passed during the reign of King George III, aimed at regulating the affairs of the East India Company in India."
+    },
+    {
+      "id": 16,
+      "category": "Indian Geography",
+      "question": "What is the name of the largest coral atoll in the world, located in the Indian Ocean?",
+      "options": [
+        "The Great Barrier Reef",
+        "The Maldives",
+        "The Chagos Archipelago",
+        "The Lakshadweep Islands"
+      ],
+      "correct": 2,
+      "explanation": "The Great Chagos Bank is the largest coral atoll in the world, located in the Chagos Archipelago in the Indian Ocean."
+    },
+    {
+      "id": 17,
+      "category": "Indian Polity & Governance",
+      "question": "Which of the following is NOT a type of writ issued by the Supreme Court of India?",
+      "options": [
+        "Habeas Corpus",
+        "Mandamus",
+        "Prohibition",
+        "Injunction"
+      ],
+      "correct": 3,
+      "explanation": "Injunction is not a type of writ issued by the Supreme Court of India. The five types of writs are Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo Warranto."
+    },
+    {
+      "id": 18,
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme aimed at providing financial support to Micro, Small, and Medium Enterprises (MSMEs)?",
+      "options": [
+        "Pradhan Mantri MUDRA Yojana",
+        "Pradhan Mantri Rozgar Protsahan Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Stand-Up India Scheme"
+      ],
+      "correct": 0,
+      "explanation": "The Pradhan Mantri MUDRA Yojana (PMMY) is a government scheme that provides financial support to Micro, Small, and Medium Enterprises (MSMEs) through loans up to Rs. 10 lakhs."
+    },
+    {
+      "id": 19,
+      "category": "General Science",
+      "question": "What is the largest living structure on Earth?",
+      "options": [
+        "The Great Barrier Reef",
+        "The Amazon Rainforest",
+        "The Grand Canyon",
+        "The Great Wall of China"
+      ],
+      "correct": 0,
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
+    },
+    {
+      "id": 20,
+      "category": "Environment & Ecology",
+      "question": "What is the term for the variety of different species of plants, animals, and microorganisms that live in an ecosystem?",
+      "options": [
+        "Biodiversity",
+        "Ecosystem",
+        "Habitat",
+        "Population"
+      ],
+      "correct": 0,
+      "explanation": "Biodiversity refers to the variety of different species of plants, animals, and microorganisms that live in an ecosystem, which is essential for maintaining the health and balance of the ecosystem."
+    },
+    {
+      "id": 21,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the founder of the Indian Space Research Organisation (ISRO)?",
+      "options": [
+        "Vikram Sarabhai",
+        "Homi Jehangir Bhabha",
+        "Satish Dhawan",
+        "A.P.J. Abdul Kalam"
+      ],
+      "correct": 0,
+      "explanation": "Vikram Sarabhai is considered the father of the Indian space program and was the founder of the Indian Space Research Organisation (ISRO)."
+    },
+    {
+      "id": 22,
       "category": "Indian History",
       "question": "The Indian National Congress was founded in which year?",
       "options": [
@@ -197,337 +288,51 @@
         "1887"
       ],
       "correct": 1,
-      "explanation": "The Indian National Congress was founded in 1885 by Allan Octavian Hume."
-    },
-    {
-      "id": 16,
-      "category": "Indian Geography",
-      "question": "Which of the following rivers flows through the Grand Canyon?",
-      "options": [
-        "Colorado River",
-        "Mississippi River",
-        "Missouri River",
-        "Rio Grande"
-      ],
-      "correct": 0,
-      "explanation": "The Colorado River flows through the Grand Canyon, one of the most famous natural wonders in the United States."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Governance",
-      "question": "What is the name of the advisory body that assists the President of India in the exercise of his functions?",
-      "options": [
-        "Council of Ministers",
-        "Parliament",
-        "Supreme Court",
-        "Planning Commission"
-      ],
-      "correct": 0,
-      "explanation": "The Council of Ministers, headed by the Prime Minister, assists the President of India in the exercise of his functions."
-    },
-    {
-      "id": 18,
-      "category": "Indian Economy",
-      "question": "Which of the following is a type of economic system?",
-      "options": [
-        "Capitalism",
-        "Socialism",
-        "Communism",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "There are several types of economic systems, including capitalism, socialism, and communism."
-    },
-    {
-      "id": 19,
-      "category": "General Science",
-      "question": "Who is credited with the discovery of the theory of evolution through natural selection?",
-      "options": [
-        "Charles Darwin",
-        "Gregor Mendel",
-        "Galileo Galilei",
-        "Isaac Newton"
-      ],
-      "correct": 0,
-      "explanation": "Charles Darwin is credited with the discovery of the theory of evolution through natural selection, which he published in his book 'On the Origin of Species' in 1859."
-    },
-    {
-      "id": 20,
-      "category": "Environment & Ecology",
-      "question": "What is the term for the movement of animals from one region to another at certain times of the year?",
-      "options": [
-        "Migration",
-        "Hibernation",
-        "Camouflage",
-        "Adaptation"
-      ],
-      "correct": 0,
-      "explanation": "Migration refers to the movement of animals from one region to another at certain times of the year, often in search of food or breeding grounds."
-    },
-    {
-      "id": 21,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Which of the following is a type of cloud?",
-      "options": [
-        "Cirrus",
-        "Cumulus",
-        "Stratus",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "There are several types of clouds, including cirrus, cumulus, and stratus clouds."
-    },
-    {
-      "id": 22,
-      "category": "Indian History",
-      "question": "The Mughal Empire was founded by which of the following emperors?",
-      "options": [
-        "Babur",
-        "Humayun",
-        "Akbar",
-        "Jahangir"
-      ],
-      "correct": 0,
-      "explanation": "The Mughal Empire was founded by Babur in 1526, after he defeated the Sultan of Delhi, Ibrahim Lodi, in the Battle of Panipat."
+      "explanation": "The Indian National Congress was founded on December 28, 1885, by Allan Octavian Hume, a British civil servant."
     },
     {
       "id": 23,
       "category": "Indian Geography",
-      "question": "Which of the following mountain ranges is home to the highest peak in India?",
+      "question": "What is the name of the highest peak in the Eastern Ghats mountain range?",
       "options": [
-        "Himalayas",
-        "Karakoram",
-        "Aravalli",
-        "Satpura"
+        "Mahendragiri",
+        "Arma Konda",
+        "Galikonda",
+        "Simhachalam"
       ],
       "correct": 0,
-      "explanation": "The Himalayas are home to the highest peak in India, Kangchenjunga, which is located in the state of Sikkim."
+      "explanation": "Mahendragiri is the highest peak in the Eastern Ghats mountain range, located in the Gajapati district of Odisha, with an elevation of 1,501 meters."
     },
     {
       "id": 24,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the document that outlines the powers and functions of the Government of India?",
+      "question": "Which article of the Indian Constitution deals with the right to education?",
       "options": [
-        "Constitution of India",
-        "Government of India Act",
-        "Indian Penal Code",
-        "Civil Procedure Code"
+        "Article 14",
+        "Article 21A",
+        "Article 25",
+        "Article 30"
       ],
-      "correct": 0,
-      "explanation": "The Constitution of India outlines the powers and functions of the Government of India, and is the supreme law of the land."
+      "correct": 1,
+      "explanation": "Article 21A of the Indian Constitution provides the right to education, making it a fundamental right for children between the ages of 6 and 14."
     },
     {
       "id": 25,
       "category": "Indian Economy",
-      "question": "Which of the following is a type of fiscal policy?",
+      "question": "What is the name of the government scheme aimed at providing financial support to farmers for crop insurance?",
       "options": [
-        "Monetary policy",
-        "Fiscal policy",
-        "Supply-side economics",
-        "Demand-side economics"
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Pradhan Mantri MUDRA Yojana",
+        "Rashtriya Krishi Vikas Yojana"
       ],
-      "correct": 1,
-      "explanation": "Fiscal policy refers to the use of government spending and taxation to manage the overall level of economic activity."
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) is a government scheme that provides financial support to farmers for crop insurance, aiming to reduce the financial burden of crop failure."
     },
     {
       "id": 26,
       "category": "General Science",
-      "question": "Who is credited with the discovery of the first successful polio vaccine?",
-      "options": [
-        "Jonas Salk",
-        "Albert Sabin",
-        "Louis Pasteur",
-        "Robert Koch"
-      ],
-      "correct": 0,
-      "explanation": "Jonas Salk is credited with the discovery of the first successful polio vaccine, which was introduced in the 1950s."
-    },
-    {
-      "id": 27,
-      "category": "Environment & Ecology",
-      "question": "What is the term for the process by which water moves through a plant, from the roots to the leaves?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
-      ],
-      "correct": 2,
-      "explanation": "Transpiration refers to the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Which of the following is a type of renewable energy source?",
-      "options": [
-        "Solar energy",
-        "Wind energy",
-        "Hydro energy",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "There are several types of renewable energy sources, including solar energy, wind energy, and hydro energy."
-    },
-    {
-      "id": 29,
-      "category": "Indian History",
-      "question": "The Indian Rebellion of 1857 was led by which of the following leaders?",
-      "options": [
-        "Mangal Pandey",
-        "Rani Lakshmibai",
-        "Bahadur Shah Zafar",
-        "Tantia Tope"
-      ],
-      "correct": 3,
-      "explanation": "The Indian Rebellion of 1857 was led by several leaders, including Tantia Tope, who played a key role in the rebellion against British rule."
-    },
-    {
-      "id": 30,
-      "category": "Indian Geography",
-      "question": "Which of the following rivers flows through the city of Mumbai?",
-      "options": [
-        "Ganges",
-        "Brahmaputra",
-        "Godavari",
-        "Ulhas"
-      ],
-      "correct": 3,
-      "explanation": "The Ulhas River flows through the city of Mumbai, and is an important source of water for the city's residents."
-    },
-    {
-      "id": 31,
-      "category": "Indian Polity & Governance",
-      "question": "What is the name of the highest court in the land?",
-      "options": [
-        "Supreme Court",
-        "High Court",
-        "District Court",
-        "Tribunal"
-      ],
-      "correct": 0,
-      "explanation": "The Supreme Court is the highest court in the land, and has the final say on matters of law and justice."
-    },
-    {
-      "id": 32,
-      "category": "Indian Economy",
-      "question": "Which of the following is a type of economic indicator?",
-      "options": [
-        "GDP",
-        "Inflation rate",
-        "Unemployment rate",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "There are several types of economic indicators, including GDP, inflation rate, and unemployment rate, which are used to measure the performance of an economy."
-    },
-    {
-      "id": 33,
-      "category": "General Science",
-      "question": "Who is credited with the discovery of the first successful vaccine?",
-      "options": [
-        "Edward Jenner",
-        "Louis Pasteur",
-        "Robert Koch",
-        "Jonas Salk"
-      ],
-      "correct": 0,
-      "explanation": "Edward Jenner is credited with the discovery of the first successful vaccine, which was against smallpox and was introduced in the late 18th century."
-    },
-    {
-      "id": 34,
-      "category": "Environment & Ecology",
-      "question": "What is the term for the process by which the Earth's atmosphere traps heat from the sun?",
-      "options": [
-        "Greenhouse effect",
-        "Ozone layer depletion",
-        "Climate change",
-        "Global warming"
-      ],
-      "correct": 0,
-      "explanation": "The greenhouse effect refers to the process by which the Earth's atmosphere traps heat from the sun, leading to a warming of the planet."
-    },
-    {
-      "id": 35,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Which of the following is a type of international organization?",
-      "options": [
-        "United Nations",
-        "European Union",
-        "Association of Southeast Asian Nations",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "There are several types of international organizations, including the United Nations, European Union, and Association of Southeast Asian Nations."
-    },
-    {
-      "id": 36,
-      "category": "Indian History",
-      "question": "The ancient Indian city of Mohenjo-Daro was located in which of the following regions?",
-      "options": [
-        "Indus Valley",
-        "Ganges Valley",
-        "Deccan Plateau",
-        "Tamil Nadu"
-      ],
-      "correct": 0,
-      "explanation": "The ancient Indian city of Mohenjo-Daro was located in the Indus Valley region, which is now part of modern-day Pakistan."
-    },
-    {
-      "id": 37,
-      "category": "Indian Geography",
-      "question": "Which of the following mountain ranges is home to the highest peak in the world?",
-      "options": [
-        "Himalayas",
-        "Karakoram",
-        "Andes",
-        "Rocky Mountains"
-      ],
-      "correct": 0,
-      "explanation": "The Himalayas are home to the highest peak in the world, Mount Everest, which is located on the border between Nepal and Tibet."
-    },
-    {
-      "id": 38,
-      "category": "Indian Polity & Governance",
-      "question": "What is the name of the body that advises the President of India on matters of national importance?",
-      "options": [
-        "Council of Ministers",
-        "Parliament",
-        "Supreme Court",
-        "Planning Commission"
-      ],
-      "correct": 0,
-      "explanation": "The Council of Ministers, headed by the Prime Minister, advises the President of India on matters of national importance."
-    },
-    {
-      "id": 39,
-      "category": "Indian Economy",
-      "question": "Which of the following is a type of economic policy?",
-      "options": [
-        "Fiscal policy",
-        "Monetary policy",
-        "Trade policy",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "There are several types of economic policies, including fiscal policy, monetary policy, and trade policy."
-    },
-    {
-      "id": 40,
-      "category": "General Science",
-      "question": "Who is credited with the discovery of the structure of DNA?",
-      "options": [
-        "James Watson",
-        "Francis Crick",
-        "Rosalind Franklin",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "James Watson, Francis Crick, and Rosalind Franklin are credited with the discovery of the structure of DNA, which was published in 1953."
-    },
-    {
-      "id": 41,
-      "category": "Environment & Ecology",
-      "question": "What is the term for the process by which plants convert sunlight into energy?",
+      "question": "What is the process by which plants convert sunlight, carbon dioxide, and water into glucose and oxygen?",
       "options": [
         "Respiration",
         "Photosynthesis",
@@ -535,254 +340,449 @@
         "Fermentation"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis refers to the process by which plants convert sunlight into energy, which is then used to fuel their growth and development."
+      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen, which is essential for life on Earth."
+    },
+    {
+      "id": 27,
+      "category": "Environment & Ecology",
+      "question": "What is the term for the release of greenhouse gases, such as carbon dioxide and methane, into the atmosphere?",
+      "options": [
+        "Global warming",
+        "Climate change",
+        "Greenhouse effect",
+        "Emissions"
+      ],
+      "correct": 3,
+      "explanation": "Emissions refer to the release of greenhouse gases, such as carbon dioxide and methane, into the atmosphere, which contribute to global warming and climate change."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the author of the book 'The Discovery of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
+      ],
+      "correct": 0,
+      "explanation": "Jawaharlal Nehru is the author of the book 'The Discovery of India', published in 1946, which explores the history and culture of India."
+    },
+    {
+      "id": 29,
+      "category": "Indian History",
+      "question": "The Quit India Movement was launched by Mahatma Gandhi in which year?",
+      "options": [
+        "1940",
+        "1941",
+        "1942",
+        "1943"
+      ],
+      "correct": 2,
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi on August 8, 1942, during the British Raj, with the slogan 'Do or Die'."
+    },
+    {
+      "id": 30,
+      "category": "Indian Geography",
+      "question": "What is the name of the largest river island in the world, located in the Brahmaputra River?",
+      "options": [
+        "Majuli",
+        "Mara",
+        "Kamalasagar",
+        "Umananda"
+      ],
+      "correct": 0,
+      "explanation": "Majuli is the largest river island in the world, located in the Brahmaputra River in Assam, with an area of approximately 352 square kilometers."
+    },
+    {
+      "id": 31,
+      "category": "Indian Polity & Governance",
+      "question": "Which of the following is a feature of the Indian federal system?",
+      "options": [
+        "Unitary system",
+        "Federal system",
+        "Confederal system",
+        "Parliamentary system"
+      ],
+      "correct": 1,
+      "explanation": "India has a federal system of government, with power divided between the central government and the state governments, as enshrined in the Indian Constitution."
+    },
+    {
+      "id": 32,
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme aimed at providing financial support to women for entrepreneurship and skill development?",
+      "options": [
+        "Stand-Up India Scheme",
+        "Pradhan Mantri MUDRA Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Beti Bachao Beti Padhao Scheme"
+      ],
+      "correct": 0,
+      "explanation": "The Stand-Up India Scheme is a government initiative that provides financial support to women, Scheduled Castes, and Scheduled Tribes for entrepreneurship and skill development, with a focus on promoting entrepreneurship and job creation."
+    },
+    {
+      "id": 33,
+      "category": "General Science",
+      "question": "What is the largest planet in our solar system by mass?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 0,
+      "explanation": "Jupiter is the largest planet in our solar system by mass, with a mass approximately 318 times that of Earth."
+    },
+    {
+      "id": 34,
+      "category": "Environment & Ecology",
+      "question": "What is the term for the movement of animals from one place to another in search of food or shelter?",
+      "options": [
+        "Migration",
+        "Hibernation",
+        "Camouflage",
+        "Adaptation"
+      ],
+      "correct": 0,
+      "explanation": "Migration refers to the movement of animals from one place to another in search of food or shelter, often in response to changes in their environment or seasonal patterns."
+    },
+    {
+      "id": 35,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the founder of the website 'Wikipedia'?",
+      "options": [
+        "Jimmy Wales",
+        "Larry Sanger",
+        "Richard Stallman",
+        "Tim Berners-Lee"
+      ],
+      "correct": 0,
+      "explanation": "Jimmy Wales is the founder of the online encyclopedia 'Wikipedia', launched in 2001, which allows users to create and edit content collaboratively."
+    },
+    {
+      "id": 36,
+      "category": "Indian History",
+      "question": "The Indian Independence Act was passed by the British Parliament in which year?",
+      "options": [
+        "1946",
+        "1947",
+        "1948",
+        "1949"
+      ],
+      "correct": 1,
+      "explanation": "The Indian Independence Act was passed by the British Parliament on July 18, 1947, paving the way for India's independence from British colonial rule on August 15, 1947."
+    },
+    {
+      "id": 37,
+      "category": "Indian Geography",
+      "question": "What is the name of the largest state in India by area?",
+      "options": [
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Uttar Pradesh",
+        "Maharashtra"
+      ],
+      "correct": 0,
+      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342,239 square kilometers."
+    },
+    {
+      "id": 38,
+      "category": "Indian Polity & Governance",
+      "question": "Which of the following is a fundamental right guaranteed by the Indian Constitution?",
+      "options": [
+        "Right to education",
+        "Right to healthcare",
+        "Right to freedom of speech and expression",
+        "Right to property"
+      ],
+      "correct": 2,
+      "explanation": "The right to freedom of speech and expression is a fundamental right guaranteed by the Indian Constitution, as enshrined in Article 19."
+    },
+    {
+      "id": 39,
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme aimed at providing financial support to farmers for irrigation and water conservation?",
+      "options": [
+        "Pradhan Mantri Krishi Sinchayee Yojana",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Rashtriya Krishi Vikas Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) is a government scheme that provides financial support to farmers for irrigation and water conservation, aiming to improve agricultural productivity and water use efficiency."
+    },
+    {
+      "id": 40,
+      "category": "General Science",
+      "question": "What is the process by which the universe became transparent to light, occurring approximately 380,000 years after the Big Bang?",
+      "options": [
+        "Recombination",
+        "Ionization",
+        "Nucleosynthesis",
+        "Galaxy formation"
+      ],
+      "correct": 0,
+      "explanation": "Recombination refers to the process by which the universe became transparent to light, occurring approximately 380,000 years after the Big Bang, when electrons and protons combined to form neutral atoms."
+    },
+    {
+      "id": 41,
+      "category": "Environment & Ecology",
+      "question": "What is the term for the study of the relationship between living organisms and their environment?",
+      "options": [
+        "Ecology",
+        "Biology",
+        "Zoology",
+        "Botany"
+      ],
+      "correct": 0,
+      "explanation": "Ecology is the scientific study of the relationship between living organisms and their environment, including the interactions between organisms and their biotic and abiotic environments."
     },
     {
       "id": 42,
       "category": "Current Affairs & General Knowledge",
-      "question": "Which of the following is a type of social media platform?",
+      "question": "Who is the founder of the social media platform 'Facebook'?",
       "options": [
-        "Facebook",
-        "Twitter",
-        "Instagram",
-        "All of the above"
+        "Mark Zuckerberg",
+        "Bill Gates",
+        "Steve Jobs",
+        "Larry Page"
       ],
-      "correct": 3,
-      "explanation": "There are several types of social media platforms, including Facebook, Twitter, and Instagram."
+      "correct": 0,
+      "explanation": "Mark Zuckerberg is the founder of the social media platform 'Facebook', launched in 2004, which has become one of the most widely used social media platforms in the world."
     },
     {
       "id": 43,
       "category": "Indian History",
-      "question": "The ancient Indian emperor Ashoka was known for which of the following?",
+      "question": "The Battle of Panipat was fought between which two kingdoms in 1761?",
       "options": [
-        "Conquests",
-        "Economic reforms",
-        "Social welfare",
-        "Spread of Buddhism"
+        "Maratha Empire and Durrani Empire",
+        "Mughal Empire and Maratha Empire",
+        "Sikh Empire and Durrani Empire",
+        "Bengal Sultanate and Maratha Empire"
       ],
-      "correct": 3,
-      "explanation": "The ancient Indian emperor Ashoka was known for his spread of Buddhism, which he adopted after a bloody war and subsequent repentance."
+      "correct": 0,
+      "explanation": "The Third Battle of Panipat was fought between the Maratha Empire and the Durrani Empire on January 14, 1761, resulting in a decisive victory for the Durrani Empire."
     },
     {
       "id": 44,
       "category": "Indian Geography",
-      "question": "Which of the following rivers flows through the city of Delhi?",
+      "question": "What is the name of the highest peak in the Western Ghats mountain range?",
       "options": [
-        "Ganges",
-        "Yamuna",
-        "Godavari",
-        "Brahmaputra"
+        "Anamudi",
+        "Mullayanagiri",
+        "Kemmangundi",
+        "Agasthyamala"
       ],
-      "correct": 1,
-      "explanation": "The Yamuna River flows through the city of Delhi, and is an important source of water for the city's residents."
+      "correct": 0,
+      "explanation": "Anamudi is the highest peak in the Western Ghats mountain range, located in the Idukki district of Kerala, with an elevation of 2,695 meters."
     },
     {
       "id": 45,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the document that outlines the fundamental rights of citizens in India?",
+      "question": "Which of the following is a type of legislation in India?",
       "options": [
-        "Constitution of India",
-        "Indian Penal Code",
-        "Civil Procedure Code",
-        "Criminal Procedure Code"
+        "Ordinance",
+        "Bill",
+        "Act",
+        " Resolution"
       ],
-      "correct": 0,
-      "explanation": "The Constitution of India outlines the fundamental rights of citizens in India, which are enshrined in Part III of the document."
+      "correct": 1,
+      "explanation": "A bill is a draft law presented to the legislature for consideration and enactment, which can become an act if passed and assented to by the President."
     },
     {
       "id": 46,
       "category": "Indian Economy",
-      "question": "Which of the following is a type of economic theory?",
+      "question": "What is the name of the government scheme aimed at providing financial support to small and medium-sized enterprises (SMEs) for export promotion?",
       "options": [
-        "Keynesian economics",
-        "Monetarism",
-        "Marxism",
-        "All of the above"
+        "Pradhan Mantri MUDRA Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Market Access Initiative Scheme"
       ],
       "correct": 3,
-      "explanation": "There are several types of economic theories, including Keynesian economics, monetarism, and Marxism."
+      "explanation": "The Market Access Initiative Scheme is a government scheme that provides financial support to small and medium-sized enterprises (SMEs) for export promotion, aiming to enhance their competitiveness in the global market."
     },
     {
       "id": 47,
       "category": "General Science",
-      "question": "Who is credited with the discovery of the first successful treatment for tuberculosis?",
+      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
       "options": [
-        "Robert Koch",
-        "Louis Pasteur",
-        "Edward Jenner",
-        "Alexander Fleming"
+        "Mutation",
+        "Genetic drift",
+        "Natural selection",
+        "Hereditary"
       ],
-      "correct": 0,
-      "explanation": "Robert Koch is credited with the discovery of the first successful treatment for tuberculosis, which was announced in 1882."
+      "correct": 3,
+      "explanation": "Hereditary refers to the process by which an organism's genetic information is passed from one generation to the next, through the transmission of genes from parents to offspring."
     },
     {
       "id": 48,
       "category": "Environment & Ecology",
-      "question": "What is the term for the process by which the Earth's climate is changing due to human activities?",
+      "question": "What is the term for the study of the structure, behavior, and evolution of the universe?",
       "options": [
-        "Global warming",
-        "Climate change",
-        "Ozone layer depletion",
-        "Acid rain"
+        "Cosmology",
+        "Astronomy",
+        "Geology",
+        "Meteorology"
       ],
-      "correct": 1,
-      "explanation": "Climate change refers to the process by which the Earth's climate is changing due to human activities, such as the burning of fossil fuels and deforestation."
+      "correct": 0,
+      "explanation": "Cosmology is the scientific study of the structure, behavior, and evolution of the universe, including the origin and fate of the universe."
     },
     {
       "id": 49,
       "category": "Current Affairs & General Knowledge",
-      "question": "Which of the following is a type of international treaty?",
+      "question": "Who is the founder of the company 'Tesla, Inc.'?",
       "options": [
-        "Paris Agreement",
-        "Kyoto Protocol",
-        "Geneva Conventions",
-        "All of the above"
+        "Elon Musk",
+        "Steve Jobs",
+        "Bill Gates",
+        "Jeff Bezos"
       ],
-      "correct": 3,
-      "explanation": "There are several types of international treaties, including the Paris Agreement, Kyoto Protocol, and Geneva Conventions."
+      "correct": 0,
+      "explanation": "Elon Musk is the founder of the company 'Tesla, Inc.', which is a leading manufacturer of electric vehicles and clean energy products."
     },
     {
       "id": 50,
       "category": "Indian History",
-      "question": "The ancient Indian city of Varanasi was an important center of which of the following?",
+      "question": "The Sepoy Mutiny of 1857 was sparked by the introduction of which new rifle cartridge?",
       "options": [
-        "Hinduism",
-        "Buddhism",
-        "Jainism",
-        "All of the above"
+        "Enfield rifle",
+        "Lee-Enfield rifle",
+        "Martini-Henry rifle",
+        "Snider-Enfield rifle"
       ],
-      "correct": 3,
-      "explanation": "The ancient Indian city of Varanasi was an important center of Hinduism, Buddhism, and Jainism, and is still considered sacred by followers of these religions today."
+      "correct": 0,
+      "explanation": "The Sepoy Mutiny of 1857 was sparked by the introduction of the Enfield rifle, which used a grease-coated cartridge that had to be bitten open before loading, offending both Hindu and Muslim soldiers."
     },
     {
       "id": 51,
       "category": "Indian Geography",
-      "question": "Which of the following mountain ranges is home to the highest peak in the Western Ghats?",
+      "question": "What is the name of the largest city in India by population?",
       "options": [
-        "Anamalai Hills",
-        "Nilgiri Hills",
-        "Western Ghats",
-        "Eastern Ghats"
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Bengaluru"
       ],
-      "correct": 1,
-      "explanation": "The Nilgiri Hills are home to the highest peak in the Western Ghats, which is located in the state of Tamil Nadu."
+      "correct": 0,
+      "explanation": "Delhi is the largest city in India by population, with a population of over 29 million people, according to the 2020 estimates."
     },
     {
       "id": 52,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the body that advises the President of India on matters of national security?",
+      "question": "Which of the following is a principle of the Indian Constitution?",
       "options": [
-        "National Security Council",
-        "Cabinet Committee on Security",
-        "Parliament",
-        "Supreme Court"
+        "Socialism",
+        "Secularism",
+        "Federalism",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The National Security Council advises the President of India on matters of national security, and is headed by the Prime Minister."
+      "correct": 3,
+      "explanation": "The Indian Constitution enshrines the principles of socialism, secularism, and federalism, which are fundamental to the governance and development of the country."
     },
     {
       "id": 53,
       "category": "Indian Economy",
-      "question": "Which of the following is a type of economic institution?",
+      "question": "What is the name of the government scheme aimed at providing financial support to farmers for soil health improvement?",
       "options": [
-        "Reserve Bank of India",
-        "State Bank of India",
-        "Stock Exchange",
-        "All of the above"
+        "Pradhan Mantri Krishi Sinchayee Yojana",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Soil Health Card Scheme"
       ],
       "correct": 3,
-      "explanation": "There are several types of economic institutions, including the Reserve Bank of India, State Bank of India, and stock exchanges."
+      "explanation": "The Soil Health Card Scheme is a government initiative that provides financial support to farmers for soil health improvement, aiming to promote sustainable agriculture and improve crop productivity."
     },
     {
       "id": 54,
       "category": "General Science",
-      "question": "Who is credited with the discovery of the first successful treatment for malaria?",
+      "question": "What is the process by which water moves through the soil and becomes part of the groundwater?",
       "options": [
-        "Ronald Ross",
-        "Charles Louis Alphonse Laveran",
-        "Quinine",
-        "Chloroquine"
+        "Infiltration",
+        "Percolation",
+        "Runoff",
+        "Evapotranspiration"
       ],
-      "correct": 0,
-      "explanation": "Ronald Ross is credited with the discovery of the first successful treatment for malaria, which was announced in 1897."
+      "correct": 1,
+      "explanation": "Percolation refers to the process by which water moves through the soil and becomes part of the groundwater, which is an important component of the hydrologic cycle."
     },
     {
       "id": 55,
       "category": "Environment & Ecology",
-      "question": "What is the term for the process by which forests are cleared and converted into agricultural land or other uses?",
+      "question": "What is the term for the study of the relationship between organisms and their environment, including the physical and biological factors that affect them?",
       "options": [
-        "Deforestation",
-        "Afforestation",
-        "Reforestation",
-        "Desertification"
+        "Ecology",
+        "Biology",
+        "Zoology",
+        "Botany"
       ],
       "correct": 0,
-      "explanation": "Deforestation refers to the process by which forests are cleared and converted into agricultural land or other uses, such as urban development or logging."
+      "explanation": "Ecology is the scientific study of the relationship between organisms and their environment, including the physical and biological factors that affect them, which is essential for understanding and managing ecosystems."
     },
     {
       "id": 56,
       "category": "Current Affairs & General Knowledge",
-      "question": "Which of the following is a type of social movement?",
+      "question": "Who is the founder of the company 'Amazon'?",
       "options": [
-        "Civil rights movement",
-        "Women's rights movement",
-        "Environmental movement",
-        "All of the above"
+        "Jeff Bezos",
+        "Bill Gates",
+        "Steve Jobs",
+        "Mark Zuckerberg"
       ],
-      "correct": 3,
-      "explanation": "There are several types of social movements, including the civil rights movement, women's rights movement, and environmental movement."
+      "correct": 0,
+      "explanation": "Jeff Bezos is the founder of the company 'Amazon', which is a leading e-commerce platform and provider of cloud computing services."
     },
     {
       "id": 57,
       "category": "Indian History",
-      "question": "The ancient Indian emperor Chandragupta Maurya was known for which of the following?",
+      "question": "The Simon Commission was established in which year?",
       "options": [
-        "Conquests",
-        "Economic reforms",
-        "Social welfare",
-        "Spread of Buddhism"
+        "1927",
+        "1928",
+        "1929",
+        "1930"
       ],
       "correct": 0,
-      "explanation": "The ancient Indian emperor Chandragupta Maurya was known for his conquests, which helped to establish the Mauryan Empire as a major power in ancient India."
+      "explanation": "The Simon Commission was established in 1927, which was a statutory commission that was tasked with reporting on the working of the Government of India Act, 1919."
     },
     {
       "id": 58,
       "category": "Indian Geography",
-      "question": "Which of the following rivers flows through the city of Kolkata?",
+      "question": "What is the name of the largest lake in India?",
       "options": [
-        "Ganges",
-        "Brahmaputra",
-        "Godavari",
-        "Hooghly"
+        "Vular Lake",
+        "Pulicat Lake",
+        "Sambhar Lake",
+        "Chilka Lake"
       ],
       "correct": 3,
-      "explanation": "The Hooghly River flows through the city of Kolkata, and is an important source of water for the city's residents."
+      "explanation": "Chilka Lake is the largest lake in India, covering an area of approximately 1,100 square kilometers, located in the state of Odisha."
     },
     {
       "id": 59,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the body that represents the states in the Parliament of India?",
+      "question": "Which of the following is a characteristic of the Indian Constitution?",
       "options": [
-        "Rajya Sabha",
-        "Lok Sabha",
-        "Vidhan Sabha",
-        "Vidhan Parishad"
+        "Federalism",
+        "Unitarianism",
+        "Parliamentary system",
+        "All of the above"
       ],
       "correct": 0,
-      "explanation": "The Rajya Sabha represents the states in the Parliament of India, and is composed of elected representatives from each state."
+      "explanation": "The Indian Constitution enshrines the principle of federalism, which divides power between the central government and the state governments, providing for a system of governance that is both unified and decentralized."
     },
     {
       "id": 60,
       "category": "Indian Economy",
-      "question": "Which of the following is a type of economic indicator?",
+      "question": "What is the name of the government scheme aimed at providing financial support to women for entrepreneurship and skill development in the rural areas?",
       "options": [
-        "GDP growth rate",
-        "Inflation rate",
-        "Unemployment rate",
-        "All of the above"
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri MUDRA Yojana",
+        "Pradhan Mantri Ujjwala Yojana",
+        "Deendayal Antyodaya Yojana-National Rural Livelihood Mission"
       ],
       "correct": 3,
-      "explanation": "There are several types of economic indicators, including GDP growth rate, inflation rate, and unemployment rate, which are used to measure the performance of an economy."
+      "explanation": "The Deendayal Antyodaya Yojana-National Rural Livelihood Mission (DAY-NRLM) is a government scheme that provides financial support to women for entrepreneurship and skill development in the rural areas, aiming to promote rural livelihoods and empowerment."
     }
   ]
 }

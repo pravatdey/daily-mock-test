@@ -1,21 +1,21 @@
 {
   "exam": "chsl",
   "name": "SSC CHSL",
-  "date": "2026-03-18",
+  "date": "2026-03-19",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "General Awareness",
-      "question": "Which of the following dances is from the state of Kerala?",
+      "question": "Which of the following dances is a classical dance of India that originated in the state of Kerala?",
       "options": [
         "Bharatanatyam",
         "Kathakali",
         "Kuchipudi",
-        "Odissi"
+        "Mohiniyattam"
       ],
       "correct": 1,
-      "explanation": "Kathakali is a classical dance form from the state of Kerala, known for its intricate makeup and costumes."
+      "explanation": "Kathakali is a classical dance of India that originated in the state of Kerala. It is known for its elaborate costumes, makeup, and storytelling through dance and music."
     },
     {
       "id": 2,
@@ -33,54 +33,54 @@
     {
       "id": 3,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following numbers comes next in the series: 2, 5, 8, 11, 14?",
+      "question": "Which of the following numbers comes next in the series: 2, 4, 8, 16, ?",
       "options": [
-        "15",
-        "17",
-        "18",
-        "20"
+        "32",
+        "36",
+        "40",
+        "48"
       ],
-      "correct": 1,
-      "explanation": "The pattern of the series is adding 3 to the previous term, so the next number in the series would be 17."
+      "correct": 0,
+      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2. Therefore, the next number in the series would be 32."
     },
     {
       "id": 4,
       "category": "Indian Polity",
-      "question": "What is the term of office for the President of India?",
+      "question": "What is the term of the President of India?",
       "options": [
-        "4 years",
         "5 years",
         "6 years",
-        "7 years"
+        "7 years",
+        "10 years"
       ],
-      "correct": 1,
-      "explanation": "The President of India serves a term of 5 years, as per Article 56 of the Indian Constitution."
+      "correct": 0,
+      "explanation": "The term of the President of India is 5 years. The President is eligible for re-election, but cannot serve more than two consecutive terms."
     },
     {
       "id": 5,
       "category": "Geography",
-      "question": "Which of the following rivers flows through the city of Varanasi?",
+      "question": "Which of the following rivers is the longest river in India?",
       "options": [
         "Ganga",
-        "Yamuna",
         "Brahmaputra",
+        "Indus",
         "Godavari"
       ],
       "correct": 0,
-      "explanation": "The Ganga River flows through the city of Varanasi, which is considered one of the oldest continuously inhabited cities in the world."
+      "explanation": "The Ganga is the longest river in India, stretching over 2,525 kilometers from its source in the Himalayas to its delta in the Bay of Bengal."
     },
     {
       "id": 6,
       "category": "Current Affairs & GK",
-      "question": "Which of the following schemes was launched by the Government of India to provide financial assistance to farmers?",
+      "question": "Which of the following government schemes was launched to promote digital payments in India?",
       "options": [
-        "PM-KISAN",
-        "PM-FASAL",
-        "PM-KRISHI",
-        "PM-SEED"
+        "Jan Dhan Yojana",
+        "Digital India",
+        "Make in India",
+        "BHIM"
       ],
-      "correct": 0,
-      "explanation": "The PM-KISAN scheme was launched by the Government of India to provide financial assistance to farmers, with an aim to provide income support of Rs. 6,000 per year to eligible farmers."
+      "correct": 3,
+      "explanation": "BHIM (Bharat Interface for Money) is a government-backed digital payment app that was launched to promote digital payments in India. It allows users to make transactions using their mobile phones."
     },
     {
       "id": 7,
@@ -93,12 +93,12 @@
         "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Jawaharlal Nehru wrote the book 'The Discovery of India', which is a historical and cultural account of India's past and present."
+      "explanation": "The Discovery of India is a book written by Jawaharlal Nehru, which explores the history and culture of India. The book was written during Nehru's imprisonment in the Ahmednagar Fort Jail from 1942 to 1946."
     },
     {
       "id": 8,
       "category": "General Science",
-      "question": "What is the process by which plants make their own food from sunlight?",
+      "question": "What is the process by which plants convert sunlight into energy?",
       "options": [
         "Respiration",
         "Photosynthesis",
@@ -106,33 +106,33 @@
         "Fermentation"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria make their own food from sunlight, water, and carbon dioxide."
+      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen. This process is essential for life on Earth, as it provides energy and organic compounds for plants and animals."
     },
     {
       "id": 9,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following letters comes next in the series: A, C, E, G, I?",
+      "question": "Which of the following numbers is the odd one out in the series: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30?",
       "options": [
-        "K",
-        "L",
-        "M",
-        "N"
+        "12",
+        "15",
+        "18",
+        "30"
       ],
-      "correct": 0,
-      "explanation": "The pattern of the series is adding 2 to the previous letter, so the next letter in the series would be K."
+      "correct": 1,
+      "explanation": "The pattern of the series is obtained by adding 3 to the previous term. However, 15 is the odd one out because it is not a multiple of 6, whereas all the other numbers in the series are multiples of 6."
     },
     {
       "id": 10,
       "category": "Indian Polity",
-      "question": "What is the name of the highest court in India?",
+      "question": "What is the name of the supreme court of India?",
       "options": [
-        "Supreme Court",
-        "High Court",
-        "District Court",
-        "Sessions Court"
+        "Supreme Court of India",
+        "High Court of India",
+        "Federal Court of India",
+        "National Court of India"
       ],
       "correct": 0,
-      "explanation": "The Supreme Court is the highest court in India, and it has the final say on matters of law and the Constitution."
+      "explanation": "The Supreme Court of India is the highest court in India, and it has the final say on matters of law and the Constitution. It was established on January 28, 1950, and is located in New Delhi."
     },
     {
       "id": 11,
@@ -145,20 +145,20 @@
         "Maharashtra"
       ],
       "correct": 0,
-      "explanation": "Rajasthan is the largest state in India in terms of area, covering approximately 342,239 square kilometers."
+      "explanation": "Rajasthan is the largest state in India in terms of area, covering over 342,239 square kilometers. It is located in the northwestern part of the country and shares borders with Pakistan and several other Indian states."
     },
     {
       "id": 12,
       "category": "Current Affairs & GK",
-      "question": "Which of the following is the capital of the state of Arunachal Pradesh?",
+      "question": "What is the name of the government scheme launched to provide financial assistance to farmers?",
       "options": [
-        "Itanagar",
-        "Dispur",
-        "Shillong",
-        "Gangtok"
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Soil Health Card Scheme",
+        "National Mission for Sustainable Agriculture"
       ],
       "correct": 0,
-      "explanation": "Itanagar is the capital of the state of Arunachal Pradesh, which is located in the northeastern part of India."
+      "explanation": "Pradhan Mantri Kisan Samman Nidhi is a government scheme launched to provide financial assistance to farmers. The scheme provides an annual income support of Rs. 6,000 to eligible farmers, which is paid in three installments of Rs. 2,000 each."
     },
     {
       "id": 13,
@@ -171,7 +171,7 @@
         "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi wrote the book 'My Experiments with Truth', which is an autobiography that details his life and experiences."
+      "explanation": "My Experiments with Truth is the autobiography of Mahatma Gandhi, which covers his life from childhood to 1921. The book is a reflection of Gandhi's spiritual and philosophical journey, and it provides insights into his thoughts on non-violence, simplicity, and self-reliance."
     },
     {
       "id": 14,
@@ -184,101 +184,23 @@
         "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia. It is composed of more than 2,900 individual reefs and 900 islands, and it is home to a diverse array of marine life."
     },
     {
       "id": 15,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following numbers is the next in the series: 1, 2, 4, 8, 16?",
+      "question": "Which of the following letters comes next in the series: A, C, E, G, I, K, M, O, Q, S, ?",
       "options": [
-        "32",
-        "36",
-        "40",
-        "48"
+        "U",
+        "V",
+        "W",
+        "X"
       ],
       "correct": 0,
-      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2, so the next number in the series would be 32."
+      "explanation": "The pattern of the series is obtained by adding 2 to the previous letter in the alphabet. Therefore, the next letter in the series would be U."
     },
     {
       "id": 16,
-      "category": "Indian Polity",
-      "question": "What is the term of office for the members of the Lok Sabha?",
-      "options": [
-        "4 years",
-        "5 years",
-        "6 years",
-        "7 years"
-      ],
-      "correct": 1,
-      "explanation": "The members of the Lok Sabha serve a term of 5 years, as per Article 83 of the Indian Constitution."
-    },
-    {
-      "id": 17,
-      "category": "Geography",
-      "question": "Which of the following rivers flows through the city of Mumbai?",
-      "options": [
-        "Godavari",
-        "Krishna",
-        "Kaveri",
-        "Ulhas"
-      ],
-      "correct": 3,
-      "explanation": "The Ulhas River flows through the city of Mumbai, which is the financial capital of India."
-    },
-    {
-      "id": 18,
-      "category": "Current Affairs & GK",
-      "question": "Which of the following schemes was launched by the Government of India to provide healthcare services to the poor?",
-      "options": [
-        "Ayushman Bharat",
-        "Pradhan Mantri Jan Arogya Yojana",
-        "National Health Mission",
-        "Universal Health Coverage"
-      ],
-      "correct": 1,
-      "explanation": "The Pradhan Mantri Jan Arogya Yojana was launched by the Government of India to provide healthcare services to the poor, with an aim to provide health insurance coverage of up to Rs. 5 lakh per family per year."
-    },
-    {
-      "id": 19,
-      "category": "General Awareness",
-      "question": "Who is the author of the book 'Gitanjali'?",
-      "options": [
-        "Rabindranath Tagore",
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose"
-      ],
-      "correct": 0,
-      "explanation": "Rabindranath Tagore wrote the book 'Gitanjali', which is a collection of poems that won him the Nobel Prize in Literature in 1913."
-    },
-    {
-      "id": 20,
-      "category": "General Science",
-      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
-      ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
-    },
-    {
-      "id": 21,
-      "category": "Reasoning & Mental Ability",
-      "question": "Which of the following letters comes next in the series: B, D, F, H, J?",
-      "options": [
-        "K",
-        "L",
-        "M",
-        "N"
-      ],
-      "correct": 0,
-      "explanation": "The pattern of the series is adding 2 to the previous letter, so the next letter in the series would be K."
-    },
-    {
-      "id": 22,
       "category": "Indian Polity",
       "question": "What is the name of the lower house of the Indian Parliament?",
       "options": [
@@ -288,7 +210,85 @@
         "Vidhan Parishad"
       ],
       "correct": 0,
-      "explanation": "The Lok Sabha is the lower house of the Indian Parliament, and it is composed of 543 elected members."
+      "explanation": "The Lok Sabha is the lower house of the Indian Parliament, and it is composed of 543 elected members who represent the states and union territories of India. The Lok Sabha is responsible for making laws, approving the budget, and exercising parliamentary control over the executive branch of government."
+    },
+    {
+      "id": 17,
+      "category": "Geography",
+      "question": "Which of the following rivers flows through the city of Varanasi?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Gomti",
+        "Sarayu"
+      ],
+      "correct": 0,
+      "explanation": "The Ganga River flows through the city of Varanasi, which is a major pilgrimage center in India. The city is located on the banks of the Ganga, and it is considered one of the seven sacred cities in Hinduism."
+    },
+    {
+      "id": 18,
+      "category": "Current Affairs & GK",
+      "question": "What is the name of the Indian space mission that was launched to study the Moon?",
+      "options": [
+        "Chandrayaan-1",
+        "Mangalyaan",
+        "Vikram",
+        "Gaganyaan"
+      ],
+      "correct": 0,
+      "explanation": "Chandrayaan-1 was the first Indian lunar mission, which was launched on October 22, 2008. The mission aimed to study the Moon's surface, composition, and atmosphere, and it discovered water on the Moon."
+    },
+    {
+      "id": 19,
+      "category": "General Awareness",
+      "question": "Who is the author of the book 'The Alchemist'?",
+      "options": [
+        "Paulo Coelho",
+        "Gabriel Garcia Marquez",
+        "Haruki Murakami",
+        "J.K. Rowling"
+      ],
+      "correct": 0,
+      "explanation": "The Alchemist is a novel written by Paulo Coelho, which tells the story of a young shepherd named Santiago who embarks on a journey to fulfill his personal legend. The book is a fable about spiritual exploration, self-discovery, and the pursuit of one's dreams."
+    },
+    {
+      "id": 20,
+      "category": "General Science",
+      "question": "What is the process by which the human body regulates its temperature?",
+      "options": [
+        "Sweating",
+        "Shivering",
+        "Hyperventilation",
+        "Homeostasis"
+      ],
+      "correct": 3,
+      "explanation": "Homeostasis is the process by which the human body regulates its internal environment, including its temperature. The body maintains a stable temperature through a complex system of feedback mechanisms, which involve the hypothalamus, sweat glands, and blood vessels."
+    },
+    {
+      "id": 21,
+      "category": "Reasoning & Mental Ability",
+      "question": "Which of the following shapes is the odd one out in the series: Square, Rectangle, Triangle, Circle, Pentagon, ?",
+      "options": [
+        "Hexagon",
+        "Heptagon",
+        "Octagon",
+        "Rhombus"
+      ],
+      "correct": 3,
+      "explanation": "The pattern of the series is obtained by listing shapes with a specific number of sides. The odd one out is the Rhombus, which is a quadrilateral with all sides of equal length, but it is not a regular polygon like the others in the series."
+    },
+    {
+      "id": 22,
+      "category": "Indian Polity",
+      "question": "What is the name of the highest award given to civilians in India?",
+      "options": [
+        "Bharat Ratna",
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri"
+      ],
+      "correct": 0,
+      "explanation": "The Bharat Ratna is the highest award given to civilians in India, which is conferred by the President of India. The award is given in recognition of exceptional service or achievement in the fields of art, literature, science, and public service."
     },
     {
       "id": 23,
@@ -298,153 +298,153 @@
         "Goa",
         "Delhi",
         "Sikkim",
-        "Nagaland"
+        "Pondicherry"
       ],
       "correct": 1,
-      "explanation": "Delhi is the smallest state in India in terms of area, covering approximately 1,484 square kilometers."
+      "explanation": "Delhi is the smallest state in India in terms of area, covering over 1,484 square kilometers. It is a union territory and the capital city of India, located in the northern part of the country."
     },
     {
       "id": 24,
       "category": "Current Affairs & GK",
-      "question": "Which of the following is the capital of the state of Odisha?",
+      "question": "What is the name of the Indian government's program to provide affordable housing to all?",
       "options": [
-        "Bhubaneswar",
-        "Cuttack",
-        "Puri",
-        "Rourkela"
+        "Pradhan Mantri Awas Yojana",
+        "Swachh Bharat Abhiyan",
+        "Make in India",
+        "Digital India"
       ],
       "correct": 0,
-      "explanation": "Bhubaneswar is the capital of the state of Odisha, which is located in the eastern part of India."
+      "explanation": "Pradhan Mantri Awas Yojana is a government program launched to provide affordable housing to all, with a target of building 2 crore houses by 2022. The program aims to provide housing for all, especially for the economically weaker sections of society."
     },
     {
       "id": 25,
       "category": "General Awareness",
-      "question": "Who is the author of the book 'The Indian War of Independence'?",
+      "question": "Who is the author of the book 'To Kill a Mockingbird'?",
       "options": [
-        "Vinayak Damodar Savarkar",
-        "Bhagat Singh",
-        "Chandra Shekhar Azad",
-        "Subhas Chandra Bose"
+        "Harper Lee",
+        "F. Scott Fitzgerald",
+        "Jane Austen",
+        "J.K. Rowling"
       ],
       "correct": 0,
-      "explanation": "Vinayak Damodar Savarkar wrote the book 'The Indian War of Independence', which is a historical account of the Indian independence movement."
+      "explanation": "To Kill a Mockingbird is a novel written by Harper Lee, which tells the story of a young girl named Scout Finch and her father, Atticus, in a small town in Alabama during the 1930s. The book explores themes of racial injustice, tolerance, and the loss of innocence."
     },
     {
       "id": 26,
       "category": "General Science",
-      "question": "What is the largest mammal on Earth?",
+      "question": "What is the largest organ in the human body?",
       "options": [
-        "Blue whale",
-        "African elephant",
-        "Hippopotamus",
-        "Giraffe"
+        "Skin",
+        "Brain",
+        "Heart",
+        "Liver"
       ],
       "correct": 0,
-      "explanation": "The blue whale is the largest mammal on Earth, with some individuals reaching lengths of up to 33 meters and weighing up to 180 metric tons."
+      "explanation": "The skin is the largest organ in the human body, covering the entire surface of the body and weighing around 4-5 kilograms. It performs several functions, including protecting the body from external damage, regulating body temperature, and aiding in the production of vitamin D."
     },
     {
       "id": 27,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following numbers is the next in the series: 3, 6, 12, 24, 48?",
+      "question": "Which of the following numbers comes next in the series: 1, 2, 4, 8, 16, 32, ?",
       "options": [
         "64",
-        "72",
-        "80",
-        "96"
+        "128",
+        "256",
+        "512"
       ],
       "correct": 0,
-      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2, so the next number in the series would be 64."
+      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2. Therefore, the next number in the series would be 64."
     },
     {
       "id": 28,
       "category": "Indian Polity",
       "question": "What is the name of the upper house of the Indian Parliament?",
       "options": [
-        "Lok Sabha",
         "Rajya Sabha",
+        "Lok Sabha",
         "Vidhan Sabha",
         "Vidhan Parishad"
       ],
-      "correct": 1,
-      "explanation": "The Rajya Sabha is the upper house of the Indian Parliament, and it is composed of 245 members, with 233 elected members and 12 nominated members."
+      "correct": 0,
+      "explanation": "The Rajya Sabha is the upper house of the Indian Parliament, which is composed of 245 members who represent the states and union territories of India. The Rajya Sabha is a permanent body, and its members are elected by the elected members of the state legislative assemblies."
     },
     {
       "id": 29,
       "category": "Geography",
-      "question": "Which of the following rivers flows through the city of Kolkata?",
+      "question": "Which of the following rivers flows through the city of Mumbai?",
       "options": [
-        "Ganga",
-        "Brahmaputra",
+        "Ulhas",
+        "Vaitarna",
         "Godavari",
-        "Hooghly"
+        "Krishna"
       ],
-      "correct": 3,
-      "explanation": "The Hooghly River flows through the city of Kolkata, which is the capital of the state of West Bengal."
+      "correct": 0,
+      "explanation": "The Ulhas River flows through the city of Mumbai, which is the financial capital of India. The river is a major source of water for the city and is also an important transportation route."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Which of the following schemes was launched by the Government of India to provide financial assistance to women?",
+      "question": "What is the name of the Indian government's program to promote cleanliness and hygiene in public places?",
       "options": [
-        "Beti Bachao Beti Padhao",
-        "Pradhan Mantri Ujjwala Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri MUDRA Yojana"
+        "Swachh Bharat Abhiyan",
+        "Make in India",
+        "Digital India",
+        "Skill India"
       ],
       "correct": 0,
-      "explanation": "The Beti Bachao Beti Padhao scheme was launched by the Government of India to provide financial assistance to women, with an aim to improve the sex ratio and promote the education and empowerment of girls."
+      "explanation": "Swachh Bharat Abhiyan is a government program launched to promote cleanliness and hygiene in public places, with a focus on sanitation, waste management, and cleanliness. The program aims to create a clean and healthy environment for all citizens."
     },
     {
       "id": 31,
       "category": "General Awareness",
-      "question": "Who is the author of the book 'India Wins Freedom'?",
+      "question": "Who is the author of the book 'The Hunger Games'?",
       "options": [
-        "Abul Kalam Azad",
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Maulana Azad"
+        "Suzanne Collins",
+        "J.K. Rowling",
+        "Stephen King",
+        "John Grisham"
       ],
       "correct": 0,
-      "explanation": "Abul Kalam Azad wrote the book 'India Wins Freedom', which is a historical account of the Indian independence movement."
+      "explanation": "The Hunger Games is a trilogy of novels written by Suzanne Collins, which tells the story of a dystopian future where children are forced to fight to the death in a televised event. The series explores themes of survival, rebellion, and social commentary."
     },
     {
       "id": 32,
       "category": "General Science",
-      "question": "What is the process by which the Earth's plates move and change?",
+      "question": "What is the process by which plants release water vapor into the air?",
       "options": [
-        "Continental drift",
-        "Plate tectonics",
-        "Weathering",
-        "Erosion"
+        "Transpiration",
+        "Respiration",
+        "Photosynthesis",
+        "Evaporation"
       ],
-      "correct": 1,
-      "explanation": "Plate tectonics is the process by which the Earth's plates move and change, resulting in the creation of mountains, volcanoes, and earthquakes."
+      "correct": 0,
+      "explanation": "Transpiration is the process by which plants release water vapor into the air through their leaves. This process occurs mainly through the stomata, which are small openings on the surface of the leaves that allow for gas exchange."
     },
     {
       "id": 33,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following letters comes next in the series: A, C, E, G, I?",
+      "question": "Which of the following shapes is symmetrical about its vertical axis?",
       "options": [
-        "K",
-        "L",
-        "M",
-        "N"
+        "Circle",
+        "Square",
+        "Triangle",
+        "Rectangle"
       ],
-      "correct": 0,
-      "explanation": "The pattern of the series is adding 2 to the previous letter, so the next letter in the series would be K."
+      "correct": 1,
+      "explanation": "A square is symmetrical about its vertical axis, which means that it remains unchanged when reflected across its vertical axis. This is a fundamental property of squares and is used in various mathematical and real-world applications."
     },
     {
       "id": 34,
       "category": "Indian Polity",
-      "question": "What is the name of the document that outlines the fundamental rights of Indian citizens?",
+      "question": "What is the name of the document that outlines the fundamental rights and duties of Indian citizens?",
       "options": [
-        "The Constitution of India",
-        "The Indian Penal Code",
-        "The Code of Civil Procedure",
-        "The Code of Criminal Procedure"
+        "Constitution of India",
+        "Indian Penal Code",
+        "Code of Civil Procedure",
+        "Right to Information Act"
       ],
       "correct": 0,
-      "explanation": "The Constitution of India outlines the fundamental rights of Indian citizens, including the right to equality, freedom, and justice."
+      "explanation": "The Constitution of India is the supreme law of the land, which outlines the fundamental rights and duties of Indian citizens. The Constitution guarantees various rights, including the right to equality, freedom of speech and expression, and the right to life and liberty."
     },
     {
       "id": 35,
@@ -457,150 +457,150 @@
         "Andhra Pradesh"
       ],
       "correct": 0,
-      "explanation": "Karnataka is the largest producer of coffee in India, accounting for over 70% of the country's total coffee production."
+      "explanation": "Karnataka is the largest producer of coffee in India, accounting for over 70% of the country's total coffee production. The state's coffee plantations are mainly located in the districts of Kodagu, Hassan, and Chikmagalur."
     },
     {
       "id": 36,
       "category": "Current Affairs & GK",
-      "question": "Which of the following is the capital of the state of Manipur?",
+      "question": "What is the name of the Indian government's program to promote digital literacy among citizens?",
       "options": [
-        "Imphal",
-        "Aizawl",
-        "Shillong",
-        "Gangtok"
+        "Digital India",
+        "Make in India",
+        "Skill India",
+        "Pradhan Mantri Kaushal Vikas Yojana"
       ],
       "correct": 0,
-      "explanation": "Imphal is the capital of the state of Manipur, which is located in the northeastern part of India."
+      "explanation": "Digital India is a government program launched to promote digital literacy among citizens, with a focus on providing access to digital services, promoting e-governance, and creating digital infrastructure. The program aims to create a digitally empowered society and knowledge economy."
     },
     {
       "id": 37,
       "category": "General Awareness",
-      "question": "Who is the author of the book 'The Story of My Experiments with Truth'?",
+      "question": "Who is the author of the book 'The Lord of the Rings'?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Rabindranath Tagore",
-        "Subhas Chandra Bose"
+        "J.R.R. Tolkien",
+        "C.S. Lewis",
+        "George R.R. Martin",
+        "J.K. Rowling"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi wrote the book 'The Story of My Experiments with Truth', which is an autobiography that details his life and experiences."
+      "explanation": "The Lord of the Rings is a high fantasy novel written by J.R.R. Tolkien, which tells the story of a hobbit named Frodo Baggins and his quest to destroy the One Ring. The book is a classic of fantasy literature and has been widely acclaimed for its world-building, characters, and storytelling."
     },
     {
       "id": 38,
       "category": "General Science",
-      "question": "What is the largest bird on Earth?",
+      "question": "What is the largest planet in our solar system in terms of mass?",
       "options": [
-        "Ostrich",
-        "Emu",
-        "Cassowary",
-        "Kiwi"
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
       ],
       "correct": 0,
-      "explanation": "The ostrich is the largest bird on Earth, with some individuals reaching heights of up to 2.8 meters and weighing up to 156 kilograms."
+      "explanation": "Jupiter is the largest planet in our solar system in terms of mass, with a mass of approximately 1.8986 x 10^27 kilograms. This is more than 300 times the mass of Earth and is the most massive planet in our solar system."
     },
     {
       "id": 39,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following numbers is the next in the series: 2, 4, 8, 16, 32?",
+      "question": "Which of the following numbers comes next in the series: 1, 3, 5, 7, 9, 11, ?",
       "options": [
-        "64",
-        "72",
-        "80",
-        "96"
+        "13",
+        "15",
+        "17",
+        "19"
       ],
       "correct": 0,
-      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2, so the next number in the series would be 64."
+      "explanation": "The pattern of the series is obtained by adding 2 to the previous term. Therefore, the next number in the series would be 13."
     },
     {
       "id": 40,
       "category": "Indian Polity",
-      "question": "What is the name of the highest court in a state?",
+      "question": "What is the name of the highest civilian honor awarded by the Government of India?",
       "options": [
-        "High Court",
-        "Supreme Court",
-        "District Court",
-        "Sessions Court"
+        "Bharat Ratna",
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri"
       ],
       "correct": 0,
-      "explanation": "The High Court is the highest court in a state, and it has the final say on matters of law and the Constitution within the state."
+      "explanation": "The Bharat Ratna is the highest civilian honor awarded by the Government of India, which is conferred by the President of India. The award is given in recognition of exceptional service or achievement in the fields of art, literature, science, and public service."
     },
     {
       "id": 41,
       "category": "Geography",
-      "question": "Which of the following rivers flows through the city of Ahmedabad?",
+      "question": "Which of the following rivers flows through the city of Bangalore?",
       "options": [
-        "Sabarmati",
-        "Narmada",
-        "Tapi",
-        "Mahi"
+        "Kaveri",
+        "Tungabhadra",
+        "Krishna",
+        "Vrishabhavathi"
       ],
-      "correct": 0,
-      "explanation": "The Sabarmati River flows through the city of Ahmedabad, which is the largest city in the state of Gujarat."
+      "correct": 3,
+      "explanation": "The Vrishabhavathi River flows through the city of Bangalore, which is the capital of Karnataka. The river is a tributary of the Arkavathi River and is an important source of water for the city."
     },
     {
       "id": 42,
       "category": "Current Affairs & GK",
-      "question": "Which of the following schemes was launched by the Government of India to provide financial assistance to farmers for irrigation?",
+      "question": "What is the name of the Indian government's program to promote entrepreneurship and job creation?",
       "options": [
-        "Pradhan Mantri Krishi Sinchayee Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri Kisan Credit Card Scheme"
+        "Make in India",
+        "Digital India",
+        "Skill India",
+        "Pradhan Mantri Kaushal Vikas Yojana"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Krishi Sinchayee Yojana was launched by the Government of India to provide financial assistance to farmers for irrigation, with an aim to improve the water use efficiency and productivity of crops."
+      "explanation": "Make in India is a government program launched to promote entrepreneurship and job creation, with a focus on manufacturing, infrastructure development, and investment. The program aims to create a favorable business environment and to promote India as a hub for manufacturing and innovation."
     },
     {
       "id": 43,
       "category": "General Awareness",
-      "question": "Who is the author of the book 'The Discovery of Hinduism'?",
+      "question": "Who is the author of the book 'The Catcher in the Rye'?",
       "options": [
-        "Arvind Sharma",
-        "Rajiv Malhotra",
-        "Devdutt Pattanaik",
-        "Amish Tripathi"
+        "J.D. Salinger",
+        "F. Scott Fitzgerald",
+        "Harper Lee",
+        "Jane Austen"
       ],
       "correct": 0,
-      "explanation": "Arvind Sharma wrote the book 'The Discovery of Hinduism', which is a historical and cultural account of Hinduism."
+      "explanation": "The Catcher in the Rye is a novel written by J.D. Salinger, which tells the story of a teenage boy named Holden Caulfield and his experiences in New York City. The book is a classic of American literature and has been widely acclaimed for its portrayal of adolescent angst and rebellion."
     },
     {
       "id": 44,
       "category": "General Science",
-      "question": "What is the process by which the body repairs damaged tissues?",
+      "question": "What is the process by which the human body converts food into energy?",
       "options": [
-        "Inflammation",
-        "Infection",
-        "Immunity",
-        "Regeneration"
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Digestion"
       ],
-      "correct": 3,
-      "explanation": "Regeneration is the process by which the body repairs damaged tissues, including the growth of new cells and the repair of damaged organs."
+      "correct": 0,
+      "explanation": "Respiration is the process by which the human body converts food into energy, which involves the breakdown of glucose and other organic molecules to produce ATP (adenosine triphosphate). This process occurs in the cells of the body and is essential for life."
     },
     {
       "id": 45,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following letters comes next in the series: D, F, H, J, L?",
+      "question": "Which of the following shapes has the most number of sides?",
       "options": [
-        "M",
-        "N",
-        "P",
-        "R"
+        "Triangle",
+        "Quadrilateral",
+        "Pentagon",
+        "Hexagon"
       ],
-      "correct": 0,
-      "explanation": "The pattern of the series is adding 2 to the previous letter, so the next letter in the series would be M."
+      "correct": 3,
+      "explanation": "A hexagon has 6 sides, which is the most number of sides among the given options. A hexagon is a polygon with 6 sides, and it is a common shape found in nature and in various mathematical and real-world applications."
     },
     {
       "id": 46,
       "category": "Indian Polity",
-      "question": "What is the name of the document that outlines the duties of Indian citizens?",
+      "question": "What is the name of the document that outlines the fundamental duties of Indian citizens?",
       "options": [
-        "The Constitution of India",
-        "The Indian Penal Code",
-        "The Code of Civil Procedure",
-        "The Code of Criminal Procedure"
+        "Constitution of India",
+        "Indian Penal Code",
+        "Code of Civil Procedure",
+        "Right to Information Act"
       ],
       "correct": 0,
-      "explanation": "The Constitution of India outlines the duties of Indian citizens, including the duty to abide by the Constitution and respect the national flag and emblem."
+      "explanation": "The Constitution of India outlines the fundamental duties of Indian citizens, which are enshrined in Article 51A of the Constitution. These duties include respecting the Constitution, the National Flag, and the National Anthem, and promoting harmony and the spirit of common brotherhood among all people of India."
     },
     {
       "id": 47,
@@ -609,37 +609,37 @@
       "options": [
         "Assam",
         "West Bengal",
-        "Tamil Nadu",
-        "Kerala"
+        "Kerala",
+        "Tamil Nadu"
       ],
       "correct": 0,
-      "explanation": "Assam is the largest producer of tea in India, accounting for over 50% of the country's total tea production."
+      "explanation": "Assam is the largest producer of tea in India, accounting for over 50% of the country's total tea production. The state's tea plantations are mainly located in the Brahmaputra Valley and are known for producing high-quality tea."
     },
     {
       "id": 48,
       "category": "Current Affairs & GK",
-      "question": "Which of the following is the capital of the state of Telangana?",
+      "question": "What is the name of the Indian government's program to promote skill development among youth?",
       "options": [
-        "Hyderabad",
-        "Warangal",
-        "Karimnagar",
-        "Nizamabad"
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Make in India",
+        "Digital India",
+        "Skill India"
       ],
       "correct": 0,
-      "explanation": "Hyderabad is the capital of the state of Telangana, which is located in the southern part of India."
+      "explanation": "Pradhan Mantri Kaushal Vikas Yojana is a government program launched to promote skill development among youth, with a focus on providing training and certification in various skills. The program aims to create a skilled workforce and to promote entrepreneurship and job creation."
     },
     {
       "id": 49,
       "category": "General Awareness",
-      "question": "Who is the author of the book 'The India We Seek'?",
+      "question": "Who is the author of the book 'The Hitchhiker's Guide to the Galaxy'?",
       "options": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rajnath Singh",
-        "Arvind Kejriwal"
+        "Douglas Adams",
+        "Isaac Asimov",
+        "Arthur C. Clarke",
+        "Ray Bradbury"
       ],
       "correct": 0,
-      "explanation": "Narendra Modi wrote the book 'The India We Seek', which is a collection of his speeches and writings on various topics, including politics, economics, and social issues."
+      "explanation": "The Hitchhiker's Guide to the Galaxy is a science fiction series written by Douglas Adams, which follows the misadventures of an unwitting human and his alien friend as they travel through space. The book is a comedic science fiction classic and has been widely acclaimed for its humor and satire."
     },
     {
       "id": 50,
@@ -652,137 +652,137 @@
         "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living thing on Earth, spanning over 2,300 kilometers off the coast of Australia."
+      "explanation": "The Great Barrier Reef is the largest living thing on Earth, spanning over 2,300 kilometers off the coast of Australia. It is composed of more than 2,900 individual reefs and 900 islands, and it is home to a diverse array of marine life."
     },
     {
       "id": 51,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following numbers is the next in the series: 1, 2, 4, 8, 16?",
+      "question": "Which of the following numbers comes next in the series: 2, 5, 8, 11, 14, ?",
       "options": [
-        "32",
-        "36",
-        "40",
-        "48"
+        "17",
+        "19",
+        "21",
+        "23"
       ],
       "correct": 0,
-      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2, so the next number in the series would be 32."
+      "explanation": "The pattern of the series is obtained by adding 3 to the previous term. Therefore, the next number in the series would be 17."
     },
     {
       "id": 52,
       "category": "Indian Polity",
-      "question": "What is the name of the highest civilian award in India?",
+      "question": "What is the name of the highest court in India?",
       "options": [
-        "Bharat Ratna",
-        "Padma Vibhushan",
-        "Padma Bhushan",
-        "Padma Shri"
+        "Supreme Court of India",
+        "High Court of India",
+        "Federal Court of India",
+        "National Court of India"
       ],
       "correct": 0,
-      "explanation": "The Bharat Ratna is the highest civilian award in India, which is awarded to individuals who have made outstanding contributions to the country in various fields."
+      "explanation": "The Supreme Court of India is the highest court in India, and it has the final say on matters of law and the Constitution. It was established on January 28, 1950, and is located in New Delhi."
     },
     {
       "id": 53,
       "category": "Geography",
-      "question": "Which of the following rivers flows through the city of Pune?",
+      "question": "Which of the following rivers flows through the city of Hyderabad?",
       "options": [
-        "Mula",
-        "Mutha",
-        "Bhima",
-        "Krishna"
+        "Godavari",
+        "Krishna",
+        "Musi",
+        "Manjeera"
       ],
-      "correct": 1,
-      "explanation": "The Mutha River flows through the city of Pune, which is the second-largest city in the state of Maharashtra."
+      "correct": 2,
+      "explanation": "The Musi River flows through the city of Hyderabad, which is the capital of Telangana. The river is a tributary of the Krishna River and is an important source of water for the city."
     },
     {
       "id": 54,
       "category": "Current Affairs & GK",
-      "question": "Which of the following schemes was launched by the Government of India to provide financial assistance to startups?",
+      "question": "What is the name of the Indian government's program to promote financial inclusion among citizens?",
       "options": [
-        "Startup India",
-        "Make in India",
+        "Jan Dhan Yojana",
         "Digital India",
+        "Make in India",
         "Skill India"
       ],
       "correct": 0,
-      "explanation": "The Startup India scheme was launched by the Government of India to provide financial assistance to startups, with an aim to promote entrepreneurship and job creation."
+      "explanation": "Jan Dhan Yojana is a government program launched to promote financial inclusion among citizens, with a focus on providing access to banking services, credit, and other financial services. The program aims to create a financially inclusive society and to promote economic growth and development."
     },
     {
       "id": 55,
       "category": "General Awareness",
-      "question": "Who is the author of the book 'The Story of My Life'?",
+      "question": "Who is the author of the book 'The Da Vinci Code'?",
       "options": [
-        "Helen Keller",
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose"
+        "Dan Brown",
+        "John Grisham",
+        "Stephen King",
+        "J.K. Rowling"
       ],
       "correct": 0,
-      "explanation": "Helen Keller wrote the book 'The Story of My Life', which is an autobiography that details her life and experiences as a deaf and blind person."
+      "explanation": "The Da Vinci Code is a thriller novel written by Dan Brown, which follows the story of symbologist Robert Langdon and his quest to uncover the secrets of the Holy Grail. The book is a bestselling novel and has been widely acclaimed for its plot, characters, and historical references."
     },
     {
       "id": 56,
       "category": "General Science",
-      "question": "What is the process by which plants release water vapor into the air?",
+      "question": "What is the process by which the human body regulates its blood sugar levels?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
+        "Insulin",
+        "Glucagon",
+        "Adrenaline",
+        "Thyroid hormone"
       ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which plants release water vapor into the air, which is an important part of the water cycle."
+      "correct": 0,
+      "explanation": "Insulin is a hormone produced by the pancreas that regulates blood sugar levels in the body. It helps to lower blood sugar levels by facilitating the uptake of glucose by cells and storing excess glucose in the liver and muscles."
     },
     {
       "id": 57,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following letters comes next in the series: A, D, G, J, M?",
+      "question": "Which of the following shapes is a type of quadrilateral?",
       "options": [
-        "P",
-        "R",
-        "T",
-        "V"
+        "Triangle",
+        "Pentagon",
+        "Hexagon",
+        "Rectangle"
       ],
-      "correct": 0,
-      "explanation": "The pattern of the series is adding 3 to the previous letter, so the next letter in the series would be P."
+      "correct": 3,
+      "explanation": "A rectangle is a type of quadrilateral, which is a polygon with 4 sides. A rectangle has two sets of opposite sides that are equal in length and parallel to each other, and it is a common shape found in mathematics, architecture, and design."
     },
     {
       "id": 58,
       "category": "Indian Polity",
-      "question": "What is the name of the document that outlines the powers of the Indian Parliament?",
+      "question": "What is the name of the document that outlines the fundamental rights of Indian citizens?",
       "options": [
-        "The Constitution of India",
-        "The Indian Penal Code",
-        "The Code of Civil Procedure",
-        "The Code of Criminal Procedure"
+        "Constitution of India",
+        "Indian Penal Code",
+        "Code of Civil Procedure",
+        "Right to Information Act"
       ],
       "correct": 0,
-      "explanation": "The Constitution of India outlines the powers of the Indian Parliament, including the power to make laws, approve the budget, and exercise parliamentary control over the executive."
+      "explanation": "The Constitution of India outlines the fundamental rights of Indian citizens, which are enshrined in Part III of the Constitution. These rights include the right to equality, freedom of speech and expression, and the right to life and liberty."
     },
     {
       "id": 59,
       "category": "Geography",
-      "question": "Which of the following states is the largest producer of milk in India?",
+      "question": "Which of the following states is the largest producer of cotton in India?",
       "options": [
-        "Uttar Pradesh",
+        "Maharashtra",
+        "Gujarat",
         "Punjab",
-        "Haryana",
-        "Gujarat"
+        "Haryana"
       ],
       "correct": 0,
-      "explanation": "Uttar Pradesh is the largest producer of milk in India, accounting for over 20% of the country's total milk production."
+      "explanation": "Maharashtra is the largest producer of cotton in India, accounting for over 30% of the country's total cotton production. The state's cotton plantations are mainly located in the regions of Vidarbha and Marathwada."
     },
     {
       "id": 60,
       "category": "Current Affairs & GK",
-      "question": "Which of the following is the capital of the state of Chhattisgarh?",
+      "question": "What is the name of the Indian government's program to promote renewable energy and reduce carbon emissions?",
       "options": [
-        "Raipur",
-        "Bilaspur",
-        "Durg",
-        "Rajnandgaon"
+        "National Clean Energy Fund",
+        "Indian Renewable Energy Development Agency",
+        "Solar Energy Corporation of India",
+        "National Solar Mission"
       ],
-      "correct": 0,
-      "explanation": "Raipur is the capital of the state of Chhattisgarh, which is located in the central part of India."
+      "correct": 3,
+      "explanation": "The National Solar Mission is a government program launched to promote renewable energy and reduce carbon emissions, with a focus on promoting solar energy and other forms of renewable energy. The program aims to create a sustainable and environmentally friendly energy sector and to promote energy security and independence."
     }
   ]
 }
