@@ -1,128 +1,37 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-03-19",
+  "date": "2026-03-20",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "What was the name of the treaty signed by the East India Company with the Kingdom of Mysore in 1792?",
+      "question": "The ancient Indian university of Takshashila was located in which modern-day country?",
       "options": [
-        "Treaty of Srirangapatna",
-        "Treaty of Mangalore",
-        "Treaty of Madras",
-        "Treaty of Bangalore"
+        "India",
+        "Pakistan",
+        "Afghanistan",
+        "Iran"
       ],
-      "correct": 0,
-      "explanation": "The Treaty of Srirangapatna was signed on March 18, 1792, marking the end of the Third Anglo-Mysore War."
+      "correct": 1,
+      "explanation": "The ancient Indian university of Takshashila was located in modern-day Pakistan."
     },
     {
       "id": 2,
       "category": "Indian Geography",
-      "question": "Which Indian state has the longest international border with Bangladesh?",
+      "question": "Which of the following rivers is the longest in South India?",
       "options": [
-        "West Bengal",
-        "Assam",
-        "Meghalaya",
-        "Tripura"
+        "Godavari",
+        "Krishna",
+        "Kaveri",
+        "Tungabhadra"
       ],
       "correct": 0,
-      "explanation": "West Bengal shares a 2,217 km long international border with Bangladesh, which is the longest among all Indian states."
+      "explanation": "The Godavari River is the longest in South India, stretching over 1,465 km."
     },
     {
       "id": 3,
-      "category": "Indian Polity & Governance",
-      "question": "What is the minimum number of members required for a valid meeting of the Lok Sabha?",
-      "options": [
-        "10",
-        "20",
-        "25",
-        "50"
-      ],
-      "correct": 1,
-      "explanation": "According to the Rules of Procedure and Conduct of Business in Lok Sabha, at least 20 members must be present for a valid meeting."
-    },
-    {
-      "id": 4,
-      "category": "Indian Economy",
-      "question": "Which of the following is NOT a component of the Human Development Index (HDI)?",
-      "options": [
-        "Life expectancy at birth",
-        "Expected years of schooling",
-        "Gross National Income per capita",
-        "Unemployment rate"
-      ],
-      "correct": 3,
-      "explanation": "HDI is a composite index measuring average achievement in three basic dimensions of human development: a long and healthy life, knowledge, and a decent standard of living. Unemployment rate is not a component of HDI."
-    },
-    {
-      "id": 5,
-      "category": "General Science",
-      "question": "What is the largest planet in our solar system?",
-      "options": [
-        "Earth",
-        "Saturn",
-        "Jupiter",
-        "Uranus"
-      ],
-      "correct": 2,
-      "explanation": "Jupiter is the largest of all the planets in terms of both mass and size, with a diameter of approximately 142,984 kilometers."
-    },
-    {
-      "id": 6,
-      "category": "Environment & Ecology",
-      "question": "Which of the following is an example of a symbiotic relationship in nature?",
-      "options": [
-        "Predator-prey relationship",
-        "Competition for resources",
-        "Mutualism between clownfish and sea anemone",
-        "Parasitism"
-      ],
-      "correct": 2,
-      "explanation": "The relationship between clownfish and sea anemone is an example of mutualism, where both species benefit from each other. Clownfish gets protection from predators, while sea anemone benefits from the fish's waste and the aeration of its tentacles."
-    },
-    {
-      "id": 7,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
-      "options": [
-        "Amelia Earhart",
-        "Charles Lindbergh",
-        "Anne Morrow Lindbergh",
-        "Beryl Markham"
-      ],
-      "correct": 0,
-      "explanation": "Amelia Earhart became the first woman to fly solo across the Atlantic on May 20-21, 1932, flying a single-engine Lockheed Vega monoplane."
-    },
-    {
-      "id": 8,
-      "category": "Indian History",
-      "question": "Who was the founder of the Theosophical Society in India?",
-      "options": [
-        "Helena Blavatsky",
-        "Henry Steel Olcott",
-        "Annie Besant",
-        "Jiddu Krishnamurti"
-      ],
-      "correct": 0,
-      "explanation": "Helena Blavatsky, along with Henry Steel Olcott, founded the Theosophical Society in New York in 1875, which later moved to Adyar, Chennai, India in 1882."
-    },
-    {
-      "id": 9,
-      "category": "Indian Geography",
-      "question": "What is the name of the strait separating the islands of Java and Sumatra?",
-      "options": [
-        "Sunda Strait",
-        "Lombok Strait",
-        "Makassar Strait",
-        "Malacca Strait"
-      ],
-      "correct": 0,
-      "explanation": "The Sunda Strait is a 30 km wide strait between the Indonesian islands of Java and Sumatra, connecting the Java Sea to the Indian Ocean."
-    },
-    {
-      "id": 10,
       "category": "Indian Polity & Governance",
       "question": "Which article of the Indian Constitution deals with the right to freedom of speech and expression?",
       "options": [
@@ -132,153 +41,335 @@
         "Article 25"
       ],
       "correct": 1,
-      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression, which is a fundamental right."
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression."
+    },
+    {
+      "id": 4,
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme launched in 2015 to promote entrepreneurship and job creation?",
+      "options": [
+        "Make in India",
+        "Start-Up India",
+        "Digital India",
+        "Skill India"
+      ],
+      "correct": 1,
+      "explanation": "The government scheme launched in 2015 to promote entrepreneurship and job creation is called Start-Up India."
+    },
+    {
+      "id": 5,
+      "category": "General Science",
+      "question": "Which scientist is credited with the discovery of the first antibiotic, penicillin?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Marie Curie",
+        "Charles Darwin"
+      ],
+      "correct": 1,
+      "explanation": "Alexander Fleming is credited with the discovery of the first antibiotic, penicillin, in 1928."
+    },
+    {
+      "id": 6,
+      "category": "Environment & Ecology",
+      "question": "What is the name of the international agreement aimed at reducing greenhouse gas emissions and mitigating climate change?",
+      "options": [
+        "Paris Agreement",
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Rio Declaration"
+      ],
+      "correct": 0,
+      "explanation": "The Paris Agreement is an international agreement aimed at reducing greenhouse gas emissions and mitigating climate change."
+    },
+    {
+      "id": 7,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current Chairman of the Indian Space Research Organisation (ISRO)?",
+      "options": [
+        "K. Sivan",
+        "S. Somanath",
+        "G. Madhavan Nair",
+        "M.K. Narayanan"
+      ],
+      "correct": 1,
+      "explanation": "S. Somanath is the current Chairman of the Indian Space Research Organisation (ISRO)."
+    },
+    {
+      "id": 8,
+      "category": "Indian History",
+      "question": "The Quit India Movement was launched by Mahatma Gandhi on which date in 1942?",
+      "options": [
+        "August 8",
+        "August 15",
+        "September 1",
+        "October 2"
+      ],
+      "correct": 0,
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi on August 8, 1942."
+    },
+    {
+      "id": 9,
+      "category": "Indian Geography",
+      "question": "Which state has the longest coastline in India?",
+      "options": [
+        "Gujarat",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "correct": 0,
+      "explanation": "Gujarat has the longest coastline in India, stretching over 1,600 km."
+    },
+    {
+      "id": 10,
+      "category": "Indian Polity & Governance",
+      "question": "Which constitutional amendment abolished the practice of untouchability in India?",
+      "options": [
+        "Article 17",
+        "Article 21",
+        "Article 25",
+        "Article 35"
+      ],
+      "correct": 0,
+      "explanation": "Article 17 of the Indian Constitution abolished the practice of untouchability in India."
     },
     {
       "id": 11,
       "category": "Indian Economy",
-      "question": "What is the name of the government scheme aimed at providing financial assistance to small and marginal farmers?",
+      "question": "What is the name of the government scheme launched in 2014 to promote financial inclusion and provide banking services to the unbanked?",
       "options": [
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Rashtriya Krishi Vikas Yojana",
-        "National Rural Employment Guarantee Act"
+        "Jan Dhan Yojana",
+        "Mudra Yojana",
+        "Stand-Up India",
+        "Make in India"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a government scheme that provides an annual financial benefit of Rs. 6,000 to small and marginal farmer families."
+      "explanation": "The government scheme launched in 2014 to promote financial inclusion and provide banking services to the unbanked is called Jan Dhan Yojana."
     },
     {
       "id": 12,
       "category": "General Science",
-      "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor?",
+      "question": "Which type of rock is formed from the cooling and solidification of magma or lava?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
+        "Igneous",
+        "Sedimentary",
+        "Metamorphic",
+        "Foliated"
       ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water is transported through a plant, from the roots to the leaves, and is then released into the air as water vapor."
+      "correct": 0,
+      "explanation": "Igneous rocks are formed from the cooling and solidification of magma or lava."
     },
     {
       "id": 13,
       "category": "Environment & Ecology",
-      "question": "What is the term for the movement of animals from one region to another at certain times of the year?",
+      "question": "What is the name of the international convention aimed at conserving and sustainably using biodiversity?",
       "options": [
-        "Hibernation",
-        "Migration",
-        "Camouflage",
-        "Adaptation"
+        "Convention on Biological Diversity",
+        "Convention on International Trade in Endangered Species",
+        "United Nations Framework Convention on Climate Change",
+        "Paris Agreement"
       ],
-      "correct": 1,
-      "explanation": "Migration refers to the seasonal or periodic movement of animals from one region to another, often in search of food, shelter, or breeding grounds."
+      "correct": 0,
+      "explanation": "The Convention on Biological Diversity is an international convention aimed at conserving and sustainably using biodiversity."
     },
     {
       "id": 14,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the author of the book 'The Namesake'?",
+      "question": "Who is the current President of the Asian Infrastructure Investment Bank (AIIB)?",
       "options": [
-        "Jhumpa Lahiri",
-        "Arundhati Roy",
-        "Salman Rushdie",
-        "Vikram Seth"
+        "Jin Liqun",
+        "Luis Alberto Moreno",
+        "Takehiko Nakao",
+        "Jim Yong Kim"
       ],
       "correct": 0,
-      "explanation": "Jhumpa Lahiri is the author of the novel 'The Namesake', published in 2003, which explores the experiences of an Indian family living in the United States."
+      "explanation": "Jin Liqun is the current President of the Asian Infrastructure Investment Bank (AIIB)."
     },
     {
       "id": 15,
       "category": "Indian History",
-      "question": "The Regulating Act of 1773 was passed by which British monarch?",
+      "question": "The Indus Valley Civilization is known for its sophisticated urban planning and architecture, with which of the following cities being a prime example?",
       "options": [
-        "King George I",
-        "King George II",
-        "King George III",
-        "Queen Victoria"
+        "Mohenjo-Daro",
+        "Harappa",
+        "Lothal",
+        "Chanhudaro"
       ],
-      "correct": 2,
-      "explanation": "The Regulating Act of 1773 was passed during the reign of King George III, aimed at regulating the affairs of the East India Company in India."
+      "correct": 0,
+      "explanation": "Mohenjo-Daro is a prime example of the sophisticated urban planning and architecture of the Indus Valley Civilization."
     },
     {
       "id": 16,
       "category": "Indian Geography",
-      "question": "What is the name of the largest coral atoll in the world, located in the Indian Ocean?",
+      "question": "Which mountain range runs along the border between India and Nepal?",
       "options": [
-        "The Great Barrier Reef",
-        "The Maldives",
-        "The Chagos Archipelago",
-        "The Lakshadweep Islands"
+        "Himalayas",
+        "Karakoram",
+        "Aravalli",
+        "Vindhya"
       ],
-      "correct": 2,
-      "explanation": "The Great Chagos Bank is the largest coral atoll in the world, located in the Chagos Archipelago in the Indian Ocean."
+      "correct": 0,
+      "explanation": "The Himalayas run along the border between India and Nepal."
     },
     {
       "id": 17,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is NOT a type of writ issued by the Supreme Court of India?",
+      "question": "Which article of the Indian Constitution deals with the right to equality before the law?",
       "options": [
-        "Habeas Corpus",
-        "Mandamus",
-        "Prohibition",
-        "Injunction"
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
       ],
-      "correct": 3,
-      "explanation": "Injunction is not a type of writ issued by the Supreme Court of India. The five types of writs are Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo Warranto."
+      "correct": 0,
+      "explanation": "Article 14 of the Indian Constitution deals with the right to equality before the law."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "What is the name of the government scheme aimed at providing financial support to Micro, Small, and Medium Enterprises (MSMEs)?",
+      "question": "What is the name of the government scheme launched in 2015 to promote digital payments and financial inclusion?",
       "options": [
-        "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Rozgar Protsahan Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Stand-Up India Scheme"
+        "Digital India",
+        "Make in India",
+        "Start-Up India",
+        "Pradhan Mantri Jan Dhan Yojana"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri MUDRA Yojana (PMMY) is a government scheme that provides financial support to Micro, Small, and Medium Enterprises (MSMEs) through loans up to Rs. 10 lakhs."
+      "explanation": "The government scheme launched in 2015 to promote digital payments and financial inclusion is called Digital India."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "What is the largest living structure on Earth?",
+      "question": "Which scientist is credited with the discovery of the theory of evolution through natural selection?",
       "options": [
-        "The Great Barrier Reef",
-        "The Amazon Rainforest",
-        "The Grand Canyon",
-        "The Great Wall of China"
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Albert Einstein"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
+      "explanation": "Charles Darwin is credited with the discovery of the theory of evolution through natural selection."
     },
     {
       "id": 20,
       "category": "Environment & Ecology",
-      "question": "What is the term for the variety of different species of plants, animals, and microorganisms that live in an ecosystem?",
+      "question": "What is the name of the international agreement aimed at reducing the production and consumption of ozone-depleting substances?",
       "options": [
-        "Biodiversity",
-        "Ecosystem",
-        "Habitat",
-        "Population"
+        "Montreal Protocol",
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "United Nations Framework Convention on Climate Change"
       ],
       "correct": 0,
-      "explanation": "Biodiversity refers to the variety of different species of plants, animals, and microorganisms that live in an ecosystem, which is essential for maintaining the health and balance of the ecosystem."
+      "explanation": "The Montreal Protocol is an international agreement aimed at reducing the production and consumption of ozone-depleting substances."
     },
     {
       "id": 21,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the founder of the Indian Space Research Organisation (ISRO)?",
+      "question": "Who is the current Secretary-General of the United Nations?",
       "options": [
-        "Vikram Sarabhai",
-        "Homi Jehangir Bhabha",
-        "Satish Dhawan",
-        "A.P.J. Abdul Kalam"
+        "António Guterres",
+        "Ban Ki-moon",
+        "Kofi Annan",
+        "Javier Pérez de Cuéllar"
       ],
       "correct": 0,
-      "explanation": "Vikram Sarabhai is considered the father of the Indian space program and was the founder of the Indian Space Research Organisation (ISRO)."
+      "explanation": "António Guterres is the current Secretary-General of the United Nations."
     },
     {
       "id": 22,
+      "category": "Indian History",
+      "question": "The Mughal emperor Akbar established his capital at which city in 1569?",
+      "options": [
+        "Agra",
+        "Delhi",
+        "Fatehpur Sikri",
+        "Lahore"
+      ],
+      "correct": 2,
+      "explanation": "The Mughal emperor Akbar established his capital at Fatehpur Sikri in 1569."
+    },
+    {
+      "id": 23,
+      "category": "Indian Geography",
+      "question": "Which river flows through the states of Madhya Pradesh, Gujarat, and Maharashtra?",
+      "options": [
+        "Narmada",
+        "Tapi",
+        "Godavari",
+        "Krishna"
+      ],
+      "correct": 0,
+      "explanation": "The Narmada River flows through the states of Madhya Pradesh, Gujarat, and Maharashtra."
+    },
+    {
+      "id": 24,
+      "category": "Indian Polity & Governance",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of conscience and free profession, practice and propagation of religion?",
+      "options": [
+        "Article 25",
+        "Article 26",
+        "Article 27",
+        "Article 28"
+      ],
+      "correct": 0,
+      "explanation": "Article 25 of the Indian Constitution deals with the right to freedom of conscience and free profession, practice and propagation of religion."
+    },
+    {
+      "id": 25,
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme launched in 2015 to promote skill development and entrepreneurship among youth?",
+      "options": [
+        "Make in India",
+        "Start-Up India",
+        "Skill India",
+        "Digital India"
+      ],
+      "correct": 2,
+      "explanation": "The government scheme launched in 2015 to promote skill development and entrepreneurship among youth is called Skill India."
+    },
+    {
+      "id": 26,
+      "category": "General Science",
+      "question": "Which type of wave requires a medium to propagate and can be either longitudinal or transverse?",
+      "options": [
+        "Mechanical wave",
+        "Electromagnetic wave",
+        "Stationary wave",
+        "Progressive wave"
+      ],
+      "correct": 0,
+      "explanation": "Mechanical waves require a medium to propagate and can be either longitudinal or transverse."
+    },
+    {
+      "id": 27,
+      "category": "Environment & Ecology",
+      "question": "What is the name of the international convention aimed at conserving and managing the world's oceans?",
+      "options": [
+        "United Nations Convention on the Law of the Sea",
+        "Convention on International Trade in Endangered Species",
+        "Montreal Protocol",
+        "Kyoto Protocol"
+      ],
+      "correct": 0,
+      "explanation": "The United Nations Convention on the Law of the Sea is an international convention aimed at conserving and managing the world's oceans."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current President of the World Bank?",
+      "options": [
+        "David Malpass",
+        "Jim Yong Kim",
+        "Robert Zoellick",
+        "Paul Wolfowitz"
+      ],
+      "correct": 0,
+      "explanation": "David Malpass is the current President of the World Bank."
+    },
+    {
+      "id": 29,
       "category": "Indian History",
       "question": "The Indian National Congress was founded in which year?",
       "options": [
@@ -288,501 +379,410 @@
         "1887"
       ],
       "correct": 1,
-      "explanation": "The Indian National Congress was founded on December 28, 1885, by Allan Octavian Hume, a British civil servant."
-    },
-    {
-      "id": 23,
-      "category": "Indian Geography",
-      "question": "What is the name of the highest peak in the Eastern Ghats mountain range?",
-      "options": [
-        "Mahendragiri",
-        "Arma Konda",
-        "Galikonda",
-        "Simhachalam"
-      ],
-      "correct": 0,
-      "explanation": "Mahendragiri is the highest peak in the Eastern Ghats mountain range, located in the Gajapati district of Odisha, with an elevation of 1,501 meters."
-    },
-    {
-      "id": 24,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to education?",
-      "options": [
-        "Article 14",
-        "Article 21A",
-        "Article 25",
-        "Article 30"
-      ],
-      "correct": 1,
-      "explanation": "Article 21A of the Indian Constitution provides the right to education, making it a fundamental right for children between the ages of 6 and 14."
-    },
-    {
-      "id": 25,
-      "category": "Indian Economy",
-      "question": "What is the name of the government scheme aimed at providing financial support to farmers for crop insurance?",
-      "options": [
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri MUDRA Yojana",
-        "Rashtriya Krishi Vikas Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) is a government scheme that provides financial support to farmers for crop insurance, aiming to reduce the financial burden of crop failure."
-    },
-    {
-      "id": 26,
-      "category": "General Science",
-      "question": "What is the process by which plants convert sunlight, carbon dioxide, and water into glucose and oxygen?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
-      ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen, which is essential for life on Earth."
-    },
-    {
-      "id": 27,
-      "category": "Environment & Ecology",
-      "question": "What is the term for the release of greenhouse gases, such as carbon dioxide and methane, into the atmosphere?",
-      "options": [
-        "Global warming",
-        "Climate change",
-        "Greenhouse effect",
-        "Emissions"
-      ],
-      "correct": 3,
-      "explanation": "Emissions refer to the release of greenhouse gases, such as carbon dioxide and methane, into the atmosphere, which contribute to global warming and climate change."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the author of the book 'The Discovery of India'?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Rabindranath Tagore",
-        "Subhas Chandra Bose"
-      ],
-      "correct": 0,
-      "explanation": "Jawaharlal Nehru is the author of the book 'The Discovery of India', published in 1946, which explores the history and culture of India."
-    },
-    {
-      "id": 29,
-      "category": "Indian History",
-      "question": "The Quit India Movement was launched by Mahatma Gandhi in which year?",
-      "options": [
-        "1940",
-        "1941",
-        "1942",
-        "1943"
-      ],
-      "correct": 2,
-      "explanation": "The Quit India Movement was launched by Mahatma Gandhi on August 8, 1942, during the British Raj, with the slogan 'Do or Die'."
+      "explanation": "The Indian National Congress was founded in 1885."
     },
     {
       "id": 30,
       "category": "Indian Geography",
-      "question": "What is the name of the largest river island in the world, located in the Brahmaputra River?",
+      "question": "Which state is the largest producer of coffee in India?",
       "options": [
-        "Majuli",
-        "Mara",
-        "Kamalasagar",
-        "Umananda"
+        "Karnataka",
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh"
       ],
       "correct": 0,
-      "explanation": "Majuli is the largest river island in the world, located in the Brahmaputra River in Assam, with an area of approximately 352 square kilometers."
+      "explanation": "Karnataka is the largest producer of coffee in India."
     },
     {
       "id": 31,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a feature of the Indian federal system?",
+      "question": "Which article of the Indian Constitution deals with the right to protection of life and personal liberty?",
       "options": [
-        "Unitary system",
-        "Federal system",
-        "Confederal system",
-        "Parliamentary system"
+        "Article 20",
+        "Article 21",
+        "Article 22",
+        "Article 23"
       ],
       "correct": 1,
-      "explanation": "India has a federal system of government, with power divided between the central government and the state governments, as enshrined in the Indian Constitution."
+      "explanation": "Article 21 of the Indian Constitution deals with the right to protection of life and personal liberty."
     },
     {
       "id": 32,
       "category": "Indian Economy",
-      "question": "What is the name of the government scheme aimed at providing financial support to women for entrepreneurship and skill development?",
+      "question": "What is the name of the government scheme launched in 2014 to promote entrepreneurship and job creation in the manufacturing sector?",
       "options": [
-        "Stand-Up India Scheme",
-        "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Beti Bachao Beti Padhao Scheme"
+        "Make in India",
+        "Start-Up India",
+        "Digital India",
+        "Skill India"
       ],
       "correct": 0,
-      "explanation": "The Stand-Up India Scheme is a government initiative that provides financial support to women, Scheduled Castes, and Scheduled Tribes for entrepreneurship and skill development, with a focus on promoting entrepreneurship and job creation."
+      "explanation": "The government scheme launched in 2014 to promote entrepreneurship and job creation in the manufacturing sector is called Make in India."
     },
     {
       "id": 33,
       "category": "General Science",
-      "question": "What is the largest planet in our solar system by mass?",
+      "question": "Which scientist is credited with the discovery of the structure of DNA?",
       "options": [
-        "Jupiter",
-        "Saturn",
-        "Uranus",
-        "Neptune"
+        "James Watson",
+        "Francis Crick",
+        "Rosalind Franklin",
+        "Maurice Wilkins"
       ],
       "correct": 0,
-      "explanation": "Jupiter is the largest planet in our solar system by mass, with a mass approximately 318 times that of Earth."
+      "explanation": "James Watson and Francis Crick are credited with the discovery of the structure of DNA."
     },
     {
       "id": 34,
       "category": "Environment & Ecology",
-      "question": "What is the term for the movement of animals from one place to another in search of food or shelter?",
+      "question": "What is the name of the international agreement aimed at reducing deforestation and promoting sustainable forest management?",
       "options": [
-        "Migration",
-        "Hibernation",
-        "Camouflage",
-        "Adaptation"
+        "United Nations Framework Convention on Climate Change",
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "Reducing Emissions from Deforestation and Forest Degradation"
       ],
-      "correct": 0,
-      "explanation": "Migration refers to the movement of animals from one place to another in search of food or shelter, often in response to changes in their environment or seasonal patterns."
+      "correct": 3,
+      "explanation": "The Reducing Emissions from Deforestation and Forest Degradation (REDD+) is an international agreement aimed at reducing deforestation and promoting sustainable forest management."
     },
     {
       "id": 35,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the founder of the website 'Wikipedia'?",
+      "question": "Who is the current Director-General of the World Health Organization (WHO)?",
       "options": [
-        "Jimmy Wales",
-        "Larry Sanger",
-        "Richard Stallman",
-        "Tim Berners-Lee"
+        "Tedros Adhanom Ghebreyesus",
+        "Margaret Chan",
+        "Gro Harlem Brundtland",
+        "Hiroshi Nakajima"
       ],
       "correct": 0,
-      "explanation": "Jimmy Wales is the founder of the online encyclopedia 'Wikipedia', launched in 2001, which allows users to create and edit content collaboratively."
+      "explanation": "Tedros Adhanom Ghebreyesus is the current Director-General of the World Health Organization (WHO)."
     },
     {
       "id": 36,
       "category": "Indian History",
-      "question": "The Indian Independence Act was passed by the British Parliament in which year?",
+      "question": "The Battle of Plassey was fought in which year?",
       "options": [
-        "1946",
-        "1947",
-        "1948",
-        "1949"
+        "1756",
+        "1757",
+        "1758",
+        "1759"
       ],
       "correct": 1,
-      "explanation": "The Indian Independence Act was passed by the British Parliament on July 18, 1947, paving the way for India's independence from British colonial rule on August 15, 1947."
+      "explanation": "The Battle of Plassey was fought in 1757."
     },
     {
       "id": 37,
       "category": "Indian Geography",
-      "question": "What is the name of the largest state in India by area?",
+      "question": "Which mountain pass connects the states of Jammu and Kashmir and Himachal Pradesh?",
       "options": [
-        "Rajasthan",
-        "Madhya Pradesh",
-        "Uttar Pradesh",
-        "Maharashtra"
+        "Banihal Pass",
+        "Zoji La",
+        "Rohtang Pass",
+        "Bara-lacha La"
       ],
-      "correct": 0,
-      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342,239 square kilometers."
+      "correct": 2,
+      "explanation": "The Rohtang Pass connects the states of Jammu and Kashmir and Himachal Pradesh."
     },
     {
       "id": 38,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a fundamental right guaranteed by the Indian Constitution?",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of assembly?",
       "options": [
-        "Right to education",
-        "Right to healthcare",
-        "Right to freedom of speech and expression",
-        "Right to property"
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
       ],
-      "correct": 2,
-      "explanation": "The right to freedom of speech and expression is a fundamental right guaranteed by the Indian Constitution, as enshrined in Article 19."
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of assembly."
     },
     {
       "id": 39,
       "category": "Indian Economy",
-      "question": "What is the name of the government scheme aimed at providing financial support to farmers for irrigation and water conservation?",
+      "question": "What is the name of the government scheme launched in 2015 to promote digital payments and financial inclusion?",
       "options": [
-        "Pradhan Mantri Krishi Sinchayee Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Rashtriya Krishi Vikas Yojana"
+        "Digital India",
+        "Make in India",
+        "Start-Up India",
+        "Pradhan Mantri Jan Dhan Yojana"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) is a government scheme that provides financial support to farmers for irrigation and water conservation, aiming to improve agricultural productivity and water use efficiency."
+      "explanation": "The government scheme launched in 2015 to promote digital payments and financial inclusion is called Digital India."
     },
     {
       "id": 40,
       "category": "General Science",
-      "question": "What is the process by which the universe became transparent to light, occurring approximately 380,000 years after the Big Bang?",
+      "question": "Which type of radiation has the highest frequency and the shortest wavelength?",
       "options": [
-        "Recombination",
-        "Ionization",
-        "Nucleosynthesis",
-        "Galaxy formation"
+        "Gamma radiation",
+        "X-ray radiation",
+        "Ultraviolet radiation",
+        "Infrared radiation"
       ],
       "correct": 0,
-      "explanation": "Recombination refers to the process by which the universe became transparent to light, occurring approximately 380,000 years after the Big Bang, when electrons and protons combined to form neutral atoms."
+      "explanation": "Gamma radiation has the highest frequency and the shortest wavelength."
     },
     {
       "id": 41,
       "category": "Environment & Ecology",
-      "question": "What is the term for the study of the relationship between living organisms and their environment?",
+      "question": "What is the name of the international agreement aimed at reducing the production and consumption of persistent organic pollutants (POPs)?",
       "options": [
-        "Ecology",
-        "Biology",
-        "Zoology",
-        "Botany"
+        "Stockholm Convention",
+        "Rotterdam Convention",
+        "Basel Convention",
+        "Helsinki Convention"
       ],
       "correct": 0,
-      "explanation": "Ecology is the scientific study of the relationship between living organisms and their environment, including the interactions between organisms and their biotic and abiotic environments."
+      "explanation": "The Stockholm Convention is an international agreement aimed at reducing the production and consumption of persistent organic pollutants (POPs)."
     },
     {
       "id": 42,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the founder of the social media platform 'Facebook'?",
+      "question": "Who is the current President of the European Commission?",
       "options": [
-        "Mark Zuckerberg",
-        "Bill Gates",
-        "Steve Jobs",
-        "Larry Page"
+        "Ursula von der Leyen",
+        "Jean-Claude Juncker",
+        "José Manuel Barroso",
+        "Romano Prodi"
       ],
       "correct": 0,
-      "explanation": "Mark Zuckerberg is the founder of the social media platform 'Facebook', launched in 2004, which has become one of the most widely used social media platforms in the world."
+      "explanation": "Ursula von der Leyen is the current President of the European Commission."
     },
     {
       "id": 43,
       "category": "Indian History",
-      "question": "The Battle of Panipat was fought between which two kingdoms in 1761?",
+      "question": "The Indian Rebellion of 1857 was led by which of the following leaders?",
       "options": [
-        "Maratha Empire and Durrani Empire",
-        "Mughal Empire and Maratha Empire",
-        "Sikh Empire and Durrani Empire",
-        "Bengal Sultanate and Maratha Empire"
+        "Mangal Pandey",
+        "Rani Lakshmibai",
+        "Tantya Tope",
+        "Bahadur Shah II"
       ],
-      "correct": 0,
-      "explanation": "The Third Battle of Panipat was fought between the Maratha Empire and the Durrani Empire on January 14, 1761, resulting in a decisive victory for the Durrani Empire."
+      "correct": 3,
+      "explanation": "The Indian Rebellion of 1857 was led by Bahadur Shah II, among other leaders."
     },
     {
       "id": 44,
       "category": "Indian Geography",
-      "question": "What is the name of the highest peak in the Western Ghats mountain range?",
+      "question": "Which river flows through the states of Rajasthan, Gujarat, and Maharashtra?",
       "options": [
-        "Anamudi",
-        "Mullayanagiri",
-        "Kemmangundi",
-        "Agasthyamala"
+        "Chambal",
+        "Narmada",
+        "Tapi",
+        "Mahanadi"
       ],
-      "correct": 0,
-      "explanation": "Anamudi is the highest peak in the Western Ghats mountain range, located in the Idukki district of Kerala, with an elevation of 2,695 meters."
+      "correct": 1,
+      "explanation": "The Narmada River flows through the states of Rajasthan, Gujarat, and Maharashtra."
     },
     {
       "id": 45,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a type of legislation in India?",
+      "question": "Which article of the Indian Constitution deals with the right to protection against arrest and detention?",
       "options": [
-        "Ordinance",
-        "Bill",
-        "Act",
-        " Resolution"
+        "Article 20",
+        "Article 21",
+        "Article 22",
+        "Article 23"
       ],
-      "correct": 1,
-      "explanation": "A bill is a draft law presented to the legislature for consideration and enactment, which can become an act if passed and assented to by the President."
+      "correct": 2,
+      "explanation": "Article 22 of the Indian Constitution deals with the right to protection against arrest and detention."
     },
     {
       "id": 46,
       "category": "Indian Economy",
-      "question": "What is the name of the government scheme aimed at providing financial support to small and medium-sized enterprises (SMEs) for export promotion?",
+      "question": "What is the name of the government scheme launched in 2016 to promote entrepreneurship and job creation among Scheduled Castes?",
       "options": [
-        "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Market Access Initiative Scheme"
+        "Stand-Up India",
+        "Start-Up India",
+        "Make in India",
+        "Digital India"
       ],
-      "correct": 3,
-      "explanation": "The Market Access Initiative Scheme is a government scheme that provides financial support to small and medium-sized enterprises (SMEs) for export promotion, aiming to enhance their competitiveness in the global market."
+      "correct": 0,
+      "explanation": "The government scheme launched in 2016 to promote entrepreneurship and job creation among Scheduled Castes is called Stand-Up India."
     },
     {
       "id": 47,
       "category": "General Science",
-      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
+      "question": "Which scientist is credited with the discovery of the principle of buoyancy?",
       "options": [
-        "Mutation",
-        "Genetic drift",
-        "Natural selection",
-        "Hereditary"
+        "Archimedes",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein"
       ],
-      "correct": 3,
-      "explanation": "Hereditary refers to the process by which an organism's genetic information is passed from one generation to the next, through the transmission of genes from parents to offspring."
+      "correct": 0,
+      "explanation": "Archimedes is credited with the discovery of the principle of buoyancy."
     },
     {
       "id": 48,
       "category": "Environment & Ecology",
-      "question": "What is the term for the study of the structure, behavior, and evolution of the universe?",
+      "question": "What is the name of the international agreement aimed at reducing the production and consumption of hazardous chemicals?",
       "options": [
-        "Cosmology",
-        "Astronomy",
-        "Geology",
-        "Meteorology"
+        "Rotterdam Convention",
+        "Stockholm Convention",
+        "Basel Convention",
+        "Helsinki Convention"
       ],
       "correct": 0,
-      "explanation": "Cosmology is the scientific study of the structure, behavior, and evolution of the universe, including the origin and fate of the universe."
+      "explanation": "The Rotterdam Convention is an international agreement aimed at reducing the production and consumption of hazardous chemicals."
     },
     {
       "id": 49,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the founder of the company 'Tesla, Inc.'?",
+      "question": "Who is the current President of the International Olympic Committee (IOC)?",
       "options": [
-        "Elon Musk",
-        "Steve Jobs",
-        "Bill Gates",
-        "Jeff Bezos"
+        "Thomas Bach",
+        "Jacques Rogge",
+        "Juan Antonio Samaranch",
+        "Avery Brundage"
       ],
       "correct": 0,
-      "explanation": "Elon Musk is the founder of the company 'Tesla, Inc.', which is a leading manufacturer of electric vehicles and clean energy products."
+      "explanation": "Thomas Bach is the current President of the International Olympic Committee (IOC)."
     },
     {
       "id": 50,
       "category": "Indian History",
-      "question": "The Sepoy Mutiny of 1857 was sparked by the introduction of which new rifle cartridge?",
+      "question": "The Third Anglo-Maratha War was fought in which year?",
       "options": [
-        "Enfield rifle",
-        "Lee-Enfield rifle",
-        "Martini-Henry rifle",
-        "Snider-Enfield rifle"
+        "1816",
+        "1817",
+        "1818",
+        "1819"
       ],
-      "correct": 0,
-      "explanation": "The Sepoy Mutiny of 1857 was sparked by the introduction of the Enfield rifle, which used a grease-coated cartridge that had to be bitten open before loading, offending both Hindu and Muslim soldiers."
+      "correct": 2,
+      "explanation": "The Third Anglo-Maratha War was fought in 1818."
     },
     {
       "id": 51,
       "category": "Indian Geography",
-      "question": "What is the name of the largest city in India by population?",
+      "question": "Which state is the largest producer of uranium in India?",
       "options": [
-        "Delhi",
-        "Mumbai",
-        "Kolkata",
-        "Bengaluru"
+        "Jharkhand",
+        "Andhra Pradesh",
+        "Telangana",
+        "Rajasthan"
       ],
       "correct": 0,
-      "explanation": "Delhi is the largest city in India by population, with a population of over 29 million people, according to the 2020 estimates."
+      "explanation": "Jharkhand is the largest producer of uranium in India."
     },
     {
       "id": 52,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a principle of the Indian Constitution?",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of trade, commerce, and intercourse?",
       "options": [
-        "Socialism",
-        "Secularism",
-        "Federalism",
-        "All of the above"
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 301"
       ],
       "correct": 3,
-      "explanation": "The Indian Constitution enshrines the principles of socialism, secularism, and federalism, which are fundamental to the governance and development of the country."
+      "explanation": "Article 301 of the Indian Constitution deals with the right to freedom of trade, commerce, and intercourse."
     },
     {
       "id": 53,
       "category": "Indian Economy",
-      "question": "What is the name of the government scheme aimed at providing financial support to farmers for soil health improvement?",
+      "question": "What is the name of the government scheme launched in 2015 to promote entrepreneurship and job creation in the service sector?",
       "options": [
-        "Pradhan Mantri Krishi Sinchayee Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Soil Health Card Scheme"
+        "Digital India",
+        "Make in India",
+        "Start-Up India",
+        "Pradhan Mantri Kaushal Vikas Yojana"
       ],
-      "correct": 3,
-      "explanation": "The Soil Health Card Scheme is a government initiative that provides financial support to farmers for soil health improvement, aiming to promote sustainable agriculture and improve crop productivity."
+      "correct": 2,
+      "explanation": "The government scheme launched in 2015 to promote entrepreneurship and job creation in the service sector is called Start-Up India."
     },
     {
       "id": 54,
       "category": "General Science",
-      "question": "What is the process by which water moves through the soil and becomes part of the groundwater?",
+      "question": "Which type of rock is formed from the alteration of existing rocks under high pressure and temperature?",
       "options": [
-        "Infiltration",
-        "Percolation",
-        "Runoff",
-        "Evapotranspiration"
+        "Igneous",
+        "Sedimentary",
+        "Metamorphic",
+        "Foliated"
       ],
-      "correct": 1,
-      "explanation": "Percolation refers to the process by which water moves through the soil and becomes part of the groundwater, which is an important component of the hydrologic cycle."
+      "correct": 2,
+      "explanation": "Metamorphic rocks are formed from the alteration of existing rocks under high pressure and temperature."
     },
     {
       "id": 55,
       "category": "Environment & Ecology",
-      "question": "What is the term for the study of the relationship between organisms and their environment, including the physical and biological factors that affect them?",
+      "question": "What is the name of the international agreement aimed at reducing the production and consumption of mercury?",
       "options": [
-        "Ecology",
-        "Biology",
-        "Zoology",
-        "Botany"
+        "Minamata Convention",
+        "Stockholm Convention",
+        "Rotterdam Convention",
+        "Basel Convention"
       ],
       "correct": 0,
-      "explanation": "Ecology is the scientific study of the relationship between organisms and their environment, including the physical and biological factors that affect them, which is essential for understanding and managing ecosystems."
+      "explanation": "The Minamata Convention is an international agreement aimed at reducing the production and consumption of mercury."
     },
     {
       "id": 56,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the founder of the company 'Amazon'?",
+      "question": "Who is the current President of the Asian Development Bank (ADB)?",
       "options": [
-        "Jeff Bezos",
-        "Bill Gates",
-        "Steve Jobs",
-        "Mark Zuckerberg"
+        "Masatsugu Asakawa",
+        "Takehiko Nakao",
+        "Haruhiko Kuroda",
+        "Tadao Chino"
       ],
       "correct": 0,
-      "explanation": "Jeff Bezos is the founder of the company 'Amazon', which is a leading e-commerce platform and provider of cloud computing services."
+      "explanation": "Masatsugu Asakawa is the current President of the Asian Development Bank (ADB)."
     },
     {
       "id": 57,
       "category": "Indian History",
-      "question": "The Simon Commission was established in which year?",
+      "question": "The Regulating Act of 1773 was passed by which of the following British monarchs?",
       "options": [
-        "1927",
-        "1928",
-        "1929",
-        "1930"
+        "King George III",
+        "King George II",
+        "Queen Victoria",
+        "King Edward VII"
       ],
       "correct": 0,
-      "explanation": "The Simon Commission was established in 1927, which was a statutory commission that was tasked with reporting on the working of the Government of India Act, 1919."
+      "explanation": "The Regulating Act of 1773 was passed by King George III."
     },
     {
       "id": 58,
       "category": "Indian Geography",
-      "question": "What is the name of the largest lake in India?",
+      "question": "Which state is the largest producer of tea in India?",
       "options": [
-        "Vular Lake",
-        "Pulicat Lake",
-        "Sambhar Lake",
-        "Chilka Lake"
+        "Assam",
+        "West Bengal",
+        "Kerala",
+        "Tamil Nadu"
       ],
-      "correct": 3,
-      "explanation": "Chilka Lake is the largest lake in India, covering an area of approximately 1,100 square kilometers, located in the state of Odisha."
+      "correct": 0,
+      "explanation": "Assam is the largest producer of tea in India."
     },
     {
       "id": 59,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a characteristic of the Indian Constitution?",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of the press?",
       "options": [
-        "Federalism",
-        "Unitarianism",
-        "Parliamentary system",
-        "All of the above"
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 19(1)(a)"
       ],
-      "correct": 0,
-      "explanation": "The Indian Constitution enshrines the principle of federalism, which divides power between the central government and the state governments, providing for a system of governance that is both unified and decentralized."
+      "correct": 3,
+      "explanation": "Article 19(1)(a) of the Indian Constitution deals with the right to freedom of the press."
     },
     {
       "id": 60,
       "category": "Indian Economy",
-      "question": "What is the name of the government scheme aimed at providing financial support to women for entrepreneurship and skill development in the rural areas?",
+      "question": "What is the name of the government scheme launched in 2014 to promote financial inclusion and provide banking services to the unbanked?",
       "options": [
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Ujjwala Yojana",
-        "Deendayal Antyodaya Yojana-National Rural Livelihood Mission"
+        "Jan Dhan Yojana",
+        "Mudra Yojana",
+        "Stand-Up India",
+        "Make in India"
       ],
-      "correct": 3,
-      "explanation": "The Deendayal Antyodaya Yojana-National Rural Livelihood Mission (DAY-NRLM) is a government scheme that provides financial support to women for entrepreneurship and skill development in the rural areas, aiming to promote rural livelihoods and empowerment."
+      "correct": 0,
+      "explanation": "The government scheme launched in 2014 to promote financial inclusion and provide banking services to the unbanked is called Jan Dhan Yojana."
     }
   ]
 }

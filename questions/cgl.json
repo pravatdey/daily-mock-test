@@ -1,47 +1,47 @@
 {
   "exam": "cgl",
   "name": "SSC CGL",
-  "date": "2026-03-19",
+  "date": "2026-03-20",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "General Awareness & Static GK",
-      "question": "Who wrote the book 'Discovery of India'?",
+      "question": "Who is the author of the book 'The Discovery of India'?",
       "options": [
         "Jawaharlal Nehru",
-        "Mahatma Gandhi",
         "Subhas Chandra Bose",
+        "Mahatma Gandhi",
         "Rabindranath Tagore"
       ],
       "correct": 0,
-      "explanation": "The book 'Discovery of India' was written by Jawaharlal Nehru, who was the first Prime Minister of India. This book is a comprehensive and interpretative account of Indian history, written while Nehru was in prison during the British rule."
+      "explanation": "The Discovery of India is a book written by Jawaharlal Nehru in 1946, which explores the history and culture of India."
     },
     {
       "id": 2,
       "category": "General Science",
-      "question": "What is the largest planet in our solar system?",
+      "question": "What is the process by which plants convert sunlight into energy?",
       "options": [
-        "Earth",
-        "Saturn",
-        "Jupiter",
-        "Uranus"
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Fermentation"
       ],
-      "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers. It is a gas giant and is more than 1,300 times the size of Earth."
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
     },
     {
       "id": 3,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the constitutional body that regulates the election process in India?",
+      "question": "What is the name of the Indian government's flagship program aimed at providing financial inclusion to the poor?",
       "options": [
-        "Election Commission of India",
-        "Parliament of India",
-        "Supreme Court of India",
-        "Cabinet of India"
+        "Jan Dhan Yojana",
+        "Make in India",
+        "Digital India",
+        "Skill India"
       ],
       "correct": 0,
-      "explanation": "The Election Commission of India is a constitutional body that regulates the election process in India. It is responsible for ensuring that elections are conducted fairly and impartially, and that the democratic process is upheld."
+      "explanation": "Jan Dhan Yojana is a flagship program launched by the Indian government in 2014 to provide financial inclusion to the poor and underprivileged sections of society."
     },
     {
       "id": 4,
@@ -54,85 +54,85 @@
         "Magdalena River"
       ],
       "correct": 0,
-      "explanation": "The Amazon River is the longest river in South America and one of the longest rivers in the world, stretching over 6,400 kilometers from its source in the Andes Mountains to its mouth in the Atlantic Ocean."
+      "explanation": "The Amazon River is the longest river in South America and the largest river in the world by discharge volume, stretching over 6,800 kilometers."
     },
     {
       "id": 5,
       "category": "Reasoning & Logic",
-      "question": "If A is taller than B, and B is taller than C, then what can be concluded about the heights of A, B, and C?",
+      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
       "options": [
-        "A is shorter than C",
-        "B is taller than A",
-        "A is taller than C",
-        "C is taller than B"
+        "5 minutes",
+        "10 minutes",
+        "50 minutes",
+        "100 minutes"
       ],
-      "correct": 2,
-      "explanation": "From the given statements, it can be concluded that A is taller than B, and B is taller than C. Therefore, by transitive property, A is taller than C."
+      "correct": 0,
+      "explanation": "If 5 machines can make 5 widgets in 5 minutes, it means that each machine can make 1 widget in 5 minutes. Therefore, 100 machines can make 100 widgets in 5 minutes."
     },
     {
       "id": 6,
       "category": "English Language Concepts",
       "question": "What is the synonym of the word 'fast'?",
       "options": [
-        "Slow",
         "Quick",
+        "Slow",
         "Big",
         "Happy"
       ],
-      "correct": 1,
-      "explanation": "The word 'quick' is a synonym of the word 'fast', as both words mean moving or able to move rapidly."
+      "correct": 0,
+      "explanation": "The word 'quick' is a synonym of 'fast', meaning moving or able to move quickly."
     },
     {
       "id": 7,
       "category": "Current Affairs",
-      "question": "Who is the current President of the European Commission?",
+      "question": "Who is the current CEO of the International Monetary Fund (IMF)?",
       "options": [
-        "Ursula von der Leyen",
-        "Jean-Claude Juncker",
-        "Donald Tusk",
-        "Angela Merkel"
+        "Kristalina Georgieva",
+        "Christine Lagarde",
+        "Dominique Strauss-Kahn",
+        "Rodrigo Rato"
       ],
       "correct": 0,
-      "explanation": "Ursula von der Leyen is the current President of the European Commission, having taken office on December 1, 2019. She is the first woman to hold this position."
+      "explanation": "Kristalina Georgieva is the current CEO of the International Monetary Fund (IMF), taking office in 2019."
     },
     {
       "id": 8,
       "category": "General Awareness & Static GK",
-      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "question": "Who is the author of the book 'The Interpretation of Dreams'?",
       "options": [
-        "Amelia Earhart",
-        "Charles Lindbergh",
-        "Harriet Quimby",
-        "Bessie Coleman"
+        "Sigmund Freud",
+        "Carl Jung",
+        "Alfred Adler",
+        "Erik Erikson"
       ],
       "correct": 0,
-      "explanation": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean, completing the feat on May 20-21, 1932. She flew a single-engine Lockheed Vega monoplane and landed in Ireland after a 20-hour flight."
+      "explanation": "The Interpretation of Dreams is a book written by Sigmund Freud in 1900, which is considered one of the foundational texts of psychoanalysis."
     },
     {
       "id": 9,
       "category": "General Science",
-      "question": "What is the process by which plants convert sunlight into energy?",
+      "question": "What is the largest planet in our solar system?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Uranus"
       ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen. This process is essential for life on Earth, as it provides energy and organic compounds for food chains."
+      "correct": 2,
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
     },
     {
       "id": 10,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's flagship program to promote digital payments?",
+      "question": "What is the name of the Indian government's program aimed at promoting digital payments?",
       "options": [
         "Digital India",
         "Make in India",
-        "Startup India",
-        "BHIM"
+        "Skill India",
+        "Jan Dhan Yojana"
       ],
       "correct": 0,
-      "explanation": "Digital India is a flagship program of the Indian government that aims to promote digital payments, digital literacy, and digital infrastructure across the country. The program was launched in 2015 and has several initiatives to promote digital inclusion and cashless transactions."
+      "explanation": "Digital India is a flagship program launched by the Indian government in 2015 to promote digital payments, online services, and digital literacy."
     },
     {
       "id": 11,
@@ -145,101 +145,10 @@
         "Apennine Mountains"
       ],
       "correct": 0,
-      "explanation": "The Pyrenees is a mountain range that runs along the border between France and Spain, stretching for approximately 435 kilometers. The range is known for its scenic beauty, diverse wildlife, and rich cultural heritage."
+      "explanation": "The Pyrenees is a mountain range that runs along the border between France and Spain, stretching for approximately 435 kilometers."
     },
     {
       "id": 12,
-      "category": "Reasoning & Logic",
-      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
-      "options": [
-        "5 minutes",
-        "10 minutes",
-        "50 minutes",
-        "100 minutes"
-      ],
-      "correct": 0,
-      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then 1 machine can make 1 widget in 5 minutes. Therefore, 100 machines can make 100 widgets in 5 minutes, as the production rate is directly proportional to the number of machines."
-    },
-    {
-      "id": 13,
-      "category": "English Language Concepts",
-      "question": "What is the antonym of the word 'chaos'?",
-      "options": [
-        "Order",
-        "Disorder",
-        "Confusion",
-        "Pandemonium"
-      ],
-      "correct": 0,
-      "explanation": "The word 'order' is an antonym of the word 'chaos', as 'order' refers to a state of organization, structure, and control, whereas 'chaos' refers to a state of complete disorder and confusion."
-    },
-    {
-      "id": 14,
-      "category": "Current Affairs",
-      "question": "Who is the current CEO of the International Monetary Fund (IMF)?",
-      "options": [
-        "Kristalina Georgieva",
-        "Christine Lagarde",
-        "Dominique Strauss-Kahn",
-        "Rodrigo Rato"
-      ],
-      "correct": 0,
-      "explanation": "Kristalina Georgieva is the current CEO of the International Monetary Fund (IMF), having taken office on October 1, 2019. She is the first person from an emerging market economy to lead the IMF."
-    },
-    {
-      "id": 15,
-      "category": "General Awareness & Static GK",
-      "question": "Who was the first President of India?",
-      "options": [
-        "Dr. Rajendra Prasad",
-        "Dr. Sarvepalli Radhakrishnan",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose"
-      ],
-      "correct": 0,
-      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962. He was a prominent leader in the Indian independence movement and played a key role in the country's transition to independence."
-    },
-    {
-      "id": 16,
-      "category": "General Science",
-      "question": "What is the largest living structure on Earth?",
-      "options": [
-        "The Great Barrier Reef",
-        "The Amazon Rainforest",
-        "The Grand Canyon",
-        "The Great Wall of China"
-      ],
-      "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia. It is composed of more than 2,900 individual reefs and 900 islands, and is home to a vast array of marine life."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to promote entrepreneurship and job creation?",
-      "options": [
-        "Make in India",
-        "Startup India",
-        "Digital India",
-        "Skill India"
-      ],
-      "correct": 1,
-      "explanation": "Startup India is a program launched by the Indian government to promote entrepreneurship and job creation. The program provides various incentives, such as funding, tax exemptions, and regulatory support, to startups and entrepreneurs."
-    },
-    {
-      "id": 18,
-      "category": "Geography",
-      "question": "Which river is the longest in Africa?",
-      "options": [
-        "Nile River",
-        "Congo River",
-        "Niger River",
-        "Zambezi River"
-      ],
-      "correct": 0,
-      "explanation": "The Nile River is the longest river in Africa and one of the longest rivers in the world, stretching over 6,650 kilometers from its source in Burundi to its mouth in Egypt."
-    },
-    {
-      "id": 19,
       "category": "Reasoning & Logic",
       "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
       "options": [
@@ -249,23 +158,23 @@
         "$0.20"
       ],
       "correct": 0,
-      "explanation": "Let's assume the cost of the ball is x. Since the bat costs $1.00 more than the ball, the cost of the bat is x + $1.00. The total cost of the bat and the ball is $1.10, so we can set up the equation x + (x + $1.00) = $1.10. Simplifying the equation, we get 2x + $1.00 = $1.10. Subtracting $1.00 from both sides, we get 2x = $0.10. Dividing both sides by 2, we get x = $0.05."
+      "explanation": "Let's assume the cost of the ball is x. Since the bat costs $1.00 more than the ball, the cost of the bat is x + $1.00. The total cost of the bat and the ball together is $1.10, so we can set up the equation: x + (x + $1.00) = $1.10. Solving for x, we get x = $0.05."
     },
     {
-      "id": 20,
+      "id": 13,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the idiom 'bend over backwards'?",
+      "question": "What is the antonym of the word 'happy'?",
       "options": [
-        "To be very flexible",
-        "To go out of one's way to help",
-        "To be very stubborn",
-        "To give up easily"
+        "Sad",
+        "Big",
+        "Quick",
+        "Happy"
       ],
-      "correct": 1,
-      "explanation": "The idiom 'bend over backwards' means to go out of one's way to help or accommodate someone. It implies making a great effort to be helpful or accommodating, often to an excessive degree."
+      "correct": 0,
+      "explanation": "The word 'sad' is an antonym of 'happy', meaning feeling or showing sorrow or unhappiness."
     },
     {
-      "id": 21,
+      "id": 14,
       "category": "Current Affairs",
       "question": "Who is the current Prime Minister of the United Kingdom?",
       "options": [
@@ -275,23 +184,23 @@
         "David Cameron"
       ],
       "correct": 0,
-      "explanation": "Rishi Sunak is the current Prime Minister of the United Kingdom, having taken office on October 25, 2022. He is the first person of Indian descent to hold the office of Prime Minister in the UK."
+      "explanation": "Rishi Sunak is the current Prime Minister of the United Kingdom, taking office in 2022."
     },
     {
-      "id": 22,
+      "id": 15,
       "category": "General Awareness & Static GK",
-      "question": "Who was the author of the book 'To Kill a Mockingbird'?",
+      "question": "Who is the founder of the religion of Sikhism?",
       "options": [
-        "F. Scott Fitzgerald",
-        "Harper Lee",
-        "Jane Austen",
-        "J.K. Rowling"
+        "Guru Nanak",
+        "Guru Gobind Singh",
+        "Baba Farid",
+        "Kabir"
       ],
-      "correct": 1,
-      "explanation": "Harper Lee was the author of the book 'To Kill a Mockingbird', which was published in 1960. The book is a classic of modern American literature and has won numerous awards, including the Pulitzer Prize."
+      "correct": 0,
+      "explanation": "Guru Nanak is the founder of the religion of Sikhism, born in 1469 in Punjab, India."
     },
     {
-      "id": 23,
+      "id": 16,
       "category": "General Science",
       "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
       "options": [
@@ -301,20 +210,111 @@
         "Evaporation"
       ],
       "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves. It is an essential part of the water cycle and helps to regulate the plant's temperature and maintain its water balance."
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
+    },
+    {
+      "id": 17,
+      "category": "Indian Polity & Economy",
+      "question": "What is the name of the Indian government's program aimed at promoting entrepreneurship and job creation?",
+      "options": [
+        "Make in India",
+        "Start-Up India",
+        "Skill India",
+        "Digital India"
+      ],
+      "correct": 1,
+      "explanation": "Start-Up India is a flagship program launched by the Indian government in 2016 to promote entrepreneurship and job creation, providing funding and support to start-ups."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which river is the longest in Africa?",
+      "options": [
+        "Nile River",
+        "Congo River",
+        "Zambezi River",
+        "Orange River"
+      ],
+      "correct": 0,
+      "explanation": "The Nile River is the longest river in Africa, stretching for approximately 6,650 kilometers from its source in Burundi to its delta in Egypt."
+    },
+    {
+      "id": 19,
+      "category": "Reasoning & Logic",
+      "question": "If a person is 25 years old, and they are 5 years older than their brother, how old is their brother?",
+      "options": [
+        "20 years old",
+        "25 years old",
+        "30 years old",
+        "35 years old"
+      ],
+      "correct": 0,
+      "explanation": "If the person is 25 years old and 5 years older than their brother, we can subtract 5 from 25 to find the brother's age: 25 - 5 = 20."
+    },
+    {
+      "id": 20,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the idiom 'break a leg'?",
+      "options": [
+        "To wish someone good luck",
+        "To congratulate someone",
+        "To scold someone",
+        "To advise someone"
+      ],
+      "correct": 0,
+      "explanation": "The idiom 'break a leg' is a way of wishing someone good luck, especially before a performance or a challenging situation."
+    },
+    {
+      "id": 21,
+      "category": "Current Affairs",
+      "question": "Who is the current President of the European Commission?",
+      "options": [
+        "Ursula von der Leyen",
+        "Jean-Claude Juncker",
+        "Donald Tusk",
+        "Jose Manuel Barroso"
+      ],
+      "correct": 0,
+      "explanation": "Ursula von der Leyen is the current President of the European Commission, taking office in 2019."
+    },
+    {
+      "id": 22,
+      "category": "General Awareness & Static GK",
+      "question": "Who is the author of the book 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "F. Scott Fitzgerald",
+        "Jane Austen",
+        "J.K. Rowling"
+      ],
+      "correct": 0,
+      "explanation": "To Kill a Mockingbird is a novel written by Harper Lee, published in 1960, which explores issues of racism and injustice in a small Alabama town."
+    },
+    {
+      "id": 23,
+      "category": "General Science",
+      "question": "What is the largest living structure on Earth?",
+      "options": [
+        "The Great Barrier Reef",
+        "The Amazon Rainforest",
+        "The Grand Canyon",
+        "The Great Wall of China"
+      ],
+      "correct": 0,
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
     },
     {
       "id": 24,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to promote financial inclusion?",
+      "question": "What is the name of the Indian government's program aimed at promoting rural development and poverty alleviation?",
       "options": [
-        "Jan Dhan Yojana",
-        "Make in India",
-        "Digital India",
-        "Skill India"
+        "Mahatma Gandhi National Rural Employment Guarantee Act",
+        "National Rural Livelihood Mission",
+        "Pradhan Mantri Awas Yojana",
+        "Deen Dayal Upadhyaya Antyodaya Yojana"
       ],
       "correct": 0,
-      "explanation": "Jan Dhan Yojana is a program launched by the Indian government to promote financial inclusion. The program aims to provide access to banking services, credit, and insurance to all households in the country, particularly the poor and marginalized sections."
+      "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act is a flagship program launched by the Indian government in 2006 to promote rural development and poverty alleviation, providing a guarantee of 100 days of employment to rural laborers."
     },
     {
       "id": 25,
@@ -327,20 +327,20 @@
         "Perth"
       ],
       "correct": 2,
-      "explanation": "Canberra is the capital city of Australia, located in the Australian Capital Territory (ACT). It is the country's largest inland city and is home to many national institutions, including the Parliament of Australia."
+      "explanation": "Canberra is the capital city of Australia, located in the Australian Capital Territory."
     },
     {
       "id": 26,
       "category": "Reasoning & Logic",
-      "question": "If it takes 3 hours to drive from City A to City B, and it takes 4 hours to drive from City B to City C, how many hours will it take to drive from City A to City C?",
+      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slides back 2 feet at night, how many days will it take for the snail to reach the top of the well?",
       "options": [
-        "5 hours",
-        "6 hours",
-        "7 hours",
-        "8 hours"
+        "18 days",
+        "20 days",
+        "22 days",
+        "28 days"
       ],
       "correct": 2,
-      "explanation": "To find the total driving time from City A to City C, we need to add the driving times from City A to City B and from City B to City C. Therefore, the total driving time is 3 hours + 4 hours = 7 hours."
+      "explanation": "The snail climbs 3 feet up the well each day, but slides back 2 feet at night, so it makes a net progress of 1 foot per day. To reach the top of the 20-foot well, it will take 18 days for the snail to climb 18 feet, and on the 19th day, it will climb the final 2 feet to reach the top, but since it won't slide back at night, it will reach the top in 18 + 1 = 19 days, but the options don't have 19, the closest one is 20, but if we calculate it, 18 days to climb 18 feet and on 19th day it will climb the last 2 feet, but since it won't slide back it will take 18 days to climb 18 feet and 1 more day to climb 2 feet, so total 20 days to be at the top but 18 feet in 18 days and last 2 feet in the next day but that will be 20 feet but won't slide back on that day so answer should be between 18-20 so it will be 20 - 2 + 1 = 19 days so it will be closest to 20 - 2 + 1, but it is actually 18 days for 18 feet and then 2 feet on next day, which will be the 19th day so 20 - 1 = 19 but given options don't have 19, closest one is 20 and actually 19 is between 18 and 22."
     },
     {
       "id": 27,
@@ -353,59 +353,59 @@
         "Having a big house"
       ],
       "correct": 1,
-      "explanation": "The word 'perspicacious' means having a keen understanding and insight. It describes someone who is able to notice and understand things that are not immediately apparent, and who has a sharp and discerning mind."
+      "explanation": "The word 'perspicacious' means having a keen understanding and insight, being able to notice and understand things that are not immediately apparent."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Who is the current Chairman of the Federal Reserve?",
+      "question": "Who is the current Chancellor of Germany?",
       "options": [
-        "Jerome Powell",
-        "Janet Yellen",
-        "Ben Bernanke",
-        "Alan Greenspan"
+        "Olaf Scholz",
+        "Angela Merkel",
+        "Frank-Walter Steinmeier",
+        "Joachim Gauck"
       ],
       "correct": 0,
-      "explanation": "Jerome Powell is the current Chairman of the Federal Reserve, having taken office on February 5, 2018. He is the 16th Chairman of the Federal Reserve and has played a key role in shaping the US monetary policy."
+      "explanation": "Olaf Scholz is the current Chancellor of Germany, taking office in 2021."
     },
     {
       "id": 29,
       "category": "General Awareness & Static GK",
-      "question": "Who was the first woman to fly in space?",
+      "question": "Who is the founder of the company 'SpaceX'?",
       "options": [
-        "Valentina Tereshkova",
-        "Sally Ride",
-        "Mae Jemison",
-        "Kalpana Chawla"
+        "Elon Musk",
+        "Jeff Bezos",
+        "Bill Gates",
+        "Mark Zuckerberg"
       ],
       "correct": 0,
-      "explanation": "Valentina Tereshkova was the first woman to fly in space, aboard the Soviet spacecraft Vostok 6 on June 16, 1963. She spent almost three days in space and completed 48 orbits of the Earth."
+      "explanation": "Elon Musk is the founder of the company 'SpaceX', a private aerospace manufacturer and space transport services company."
     },
     {
       "id": 30,
       "category": "General Science",
-      "question": "What is the largest planet in our solar system by mass?",
+      "question": "What is the scientific term for the 'building blocks of life'?",
       "options": [
-        "Jupiter",
-        "Saturn",
-        "Uranus",
-        "Neptune"
+        "Cells",
+        "Molecules",
+        "Tissues",
+        "Organisms"
       ],
       "correct": 0,
-      "explanation": "Jupiter is the largest planet in our solar system by mass, accounting for approximately 2.5 times the total mass of all the other planets combined. It is a gas giant and has a massive atmosphere, with storm systems that can be thousands of kilometers wide."
+      "explanation": "Cells are the basic structural and functional units of living organisms, often referred to as the 'building blocks of life'."
     },
     {
       "id": 31,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to promote skill development and vocational training?",
+      "question": "What is the name of the Indian government's program aimed at promoting financial inclusion and providing banking services to the poor?",
       "options": [
-        "Skill India",
+        "Jan Dhan Yojana",
         "Make in India",
         "Digital India",
-        "Startup India"
+        "Skill India"
       ],
       "correct": 0,
-      "explanation": "Skill India is a program launched by the Indian government to promote skill development and vocational training. The program aims to provide training to millions of youth in various skills, such as manufacturing, construction, and services, to make them employable and self-sufficient."
+      "explanation": "Jan Dhan Yojana is a flagship program launched by the Indian government in 2014 to promote financial inclusion and provide banking services to the poor and underprivileged sections of society."
     },
     {
       "id": 32,
@@ -418,124 +418,124 @@
         "Helsinki"
       ],
       "correct": 0,
-      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people. It is the capital of Sweden and is known for its stunning architecture, vibrant cultural scene, and beautiful natural surroundings."
+      "explanation": "Stockholm is the largest city in Scandinavia, located in Sweden."
     },
     {
       "id": 33,
       "category": "Reasoning & Logic",
-      "question": "If a bakery sells 250 loaves of bread per day, and each loaf costs $2.50, how much money does the bakery make in a day?",
+      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the bat cost?",
       "options": [
-        "$500",
-        "$625",
-        "$750",
-        "$875"
+        "$0.05",
+        "$0.10",
+        "$1.05",
+        "$1.10"
       ],
-      "correct": 1,
-      "explanation": "To find the total amount of money the bakery makes in a day, we need to multiply the number of loaves sold by the cost per loaf. Therefore, the total amount is 250 loaves x $2.50 per loaf = $625."
+      "correct": 2,
+      "explanation": "Let's assume the cost of the ball is x. Since the bat costs $1.00 more than the ball, the cost of the bat is x + $1.00. The total cost of the bat and the ball together is $1.10, so we can set up the equation: x + (x + $1.00) = $1.10. Solving for x, we get x = $0.05. Therefore, the bat costs $0.05 + $1.00 = $1.05."
     },
     {
       "id": 34,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'enigma'?",
+      "question": "What is the meaning of the word 'enigmatic'?",
       "options": [
-        "A person who is mysterious and puzzling",
-        "A thing that is mysterious and difficult to understand",
-        "A place that is hard to find",
-        "A situation that is easy to solve"
+        "Mysterious and difficult to understand",
+        "Happy and easy to understand",
+        "Big and complicated",
+        "Small and simple"
       ],
-      "correct": 1,
-      "explanation": "The word 'enigma' refers to a thing that is mysterious and difficult to understand. It can be a person, a situation, or an event that is puzzling and hard to comprehend, and often requires careful thought and analysis to unravel."
+      "correct": 0,
+      "explanation": "The word 'enigmatic' means mysterious and difficult to understand, being puzzling or ambiguous."
     },
     {
       "id": 35,
       "category": "Current Affairs",
-      "question": "Who is the current President of the European Parliament?",
+      "question": "Who is the current President of the World Bank?",
       "options": [
-        "Roberta Metsola",
-        "David Sassoli",
-        "Antonio Tajani",
-        "Martin Schulz"
+        "David Malpass",
+        "Jim Yong Kim",
+        "Robert Zoellick",
+        "Paul Wolfowitz"
       ],
       "correct": 0,
-      "explanation": "Roberta Metsola is the current President of the European Parliament, having taken office on January 18, 2022. She is the first woman from Malta to hold this position and has been a member of the European Parliament since 2013."
+      "explanation": "David Malpass is the current President of the World Bank, taking office in 2019."
     },
     {
       "id": 36,
       "category": "General Awareness & Static GK",
-      "question": "Who was the author of the book 'TheOrigin of Species'?",
+      "question": "Who is the author of the book 'The Hitchhiker's Guide to the Galaxy'?",
       "options": [
-        "Charles Darwin",
-        "Galileo Galilei",
-        "Isaac Newton",
-        "Albert Einstein"
+        "Douglas Adams",
+        "Isaac Asimov",
+        "Arthur C. Clarke",
+        "Ray Bradbury"
       ],
       "correct": 0,
-      "explanation": "Charles Darwin was the author of the book 'The Origin of Species', which was published in 1859. The book is a seminal work in the field of evolutionary biology and introduced the concept of natural selection as the primary mechanism of evolution."
+      "explanation": "The Hitchhiker's Guide to the Galaxy is a science fiction series written by Douglas Adams, first published in 1979."
     },
     {
       "id": 37,
       "category": "General Science",
-      "question": "What is the process by which the universe became transparent to light?",
+      "question": "What is the process by which the universe became transparent to light, occurring around 380,000 years after the Big Bang?",
       "options": [
-        "Big Bang",
         "Recombination",
-        "Nucleosynthesis",
-        "Galaxy formation"
+        "Ionization",
+        "Nuclear fusion",
+        "Gravitational collapse"
       ],
-      "correct": 1,
-      "explanation": "Recombination is the process by which the universe became transparent to light. It occurred when the universe cooled enough for electrons to combine with protons, forming neutral atoms and allowing light to travel freely through space."
+      "correct": 0,
+      "explanation": "Recombination is the process by which the universe became transparent to light, occurring around 380,000 years after the Big Bang, when electrons and protons combined to form neutral atoms."
     },
     {
       "id": 38,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to promote rural development and poverty alleviation?",
+      "question": "What is the name of the Indian government's program aimed at promoting rural infrastructure development?",
       "options": [
         "Pradhan Mantri Gram Sadak Yojana",
         "Mahatma Gandhi National Rural Employment Guarantee Act",
-        "Deen Dayal Upadhyaya Gram Jyoti Yojana",
-        "National Rural Livelihood Mission"
+        "National Rural Livelihood Mission",
+        "Deen Dayal Upadhyaya Antyodaya Yojana"
       ],
-      "correct": 1,
-      "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act is a program launched by the Indian government to promote rural development and poverty alleviation. The program provides a guarantee of 100 days of employment to rural laborers, with the aim of improving their livelihoods and reducing poverty."
+      "correct": 0,
+      "explanation": "Pradhan Mantri Gram Sadak Yojana is a flagship program launched by the Indian government in 2000 to promote rural infrastructure development, providing connectivity to rural areas through the construction of roads."
     },
     {
       "id": 39,
       "category": "Geography",
-      "question": "Which city is the capital of Greenland?",
+      "question": "Which city is the capital of China?",
       "options": [
-        "Nuuk",
-        "Reykjavik",
-        "Copenhagen",
-        "Oslo"
+        "Beijing",
+        "Shanghai",
+        "Guangzhou",
+        "Hong Kong"
       ],
       "correct": 0,
-      "explanation": "Nuuk is the capital city of Greenland, with a population of over 16,000 people. It is the largest city in Greenland and is located on the southwestern coast of the island."
+      "explanation": "Beijing is the capital city of China, located in the northern part of the country."
     },
     {
       "id": 40,
       "category": "Reasoning & Logic",
-      "question": "If a car travels from City A to City B at an average speed of 60 km/h, and from City B to City C at an average speed of 80 km/h, what is the average speed of the car for the entire trip?",
+      "question": "If it takes 8 machines 8 hours to make 8 widgets, how long would it take 4 machines to make 4 widgets?",
       "options": [
-        "60 km/h",
-        "70 km/h",
-        "75 km/h",
-        "80 km/h"
+        "4 hours",
+        "6 hours",
+        "8 hours",
+        "12 hours"
       ],
-      "correct": 1,
-      "explanation": "To find the average speed for the entire trip, we need to calculate the total distance traveled and the total time taken. Let's assume the distance from City A to City B is x km and the distance from City B to City C is y km. The total distance is x + y km. The time taken to travel from City A to City B is x/60 hours, and the time taken to travel from City B to City C is y/80 hours. The total time is x/60 + y/80 hours. The average speed is the total distance divided by the total time, which is (x + y) / (x/60 + y/80). Since we don't know the exact values of x and y, we can simplify the expression by assuming that the distances are equal, i.e., x = y. Substituting this into the expression, we get (x + x) / (x/60 + x/80) = 2x / (x/60 + x/80). Simplifying further, we get 2x / (x/60 + x/80) = 2x / (4x/240 + 3x/240) = 2x / (7x/240) = 2x * 240 / 7x = 480 / 7 = 68.57 km/h. However, since the options don't include this value, we can use the fact that the average speed is always less than or equal to the harmonic mean of the two speeds. The harmonic mean of 60 km/h and 80 km/h is 2 * 60 * 80 / (60 + 80) = 120 * 80 / 140 = 9600 / 140 = 68.57 km/h. The closest option to this value is 70 km/h."
+      "correct": 2,
+      "explanation": "If 8 machines can make 8 widgets in 8 hours, it means that each machine can make 1 widget in 8 hours. Therefore, 4 machines can make 4 widgets in 8 hours."
     },
     {
       "id": 41,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'fastidious'?",
+      "question": "What is the meaning of the idiom 'bend over backwards'?",
       "options": [
-        "Careless and sloppy",
-        "Meticulous and demanding",
-        "Quick and efficient",
-        "Lazy and idle"
+        "To work very hard to help someone",
+        "To relax and take it easy",
+        "To be very stubborn and refuse to help",
+        "To be very angry and shout at someone"
       ],
-      "correct": 1,
-      "explanation": "The word 'fastidious' means meticulous and demanding. It describes someone who is very careful and precise in their work or activities, and who has high standards and expectations."
+      "correct": 0,
+      "explanation": "The idiom 'bend over backwards' means to work very hard to help someone, being extremely accommodating and willing to go out of one's way to assist."
     },
     {
       "id": 42,
@@ -548,140 +548,231 @@
         "Hiroshi Nakajima"
       ],
       "correct": 0,
-      "explanation": "Tedros Adhanom Ghebreyesus is the current Director-General of the World Health Organization (WHO), having taken office on July 1, 2017. He is the first African to hold this position and has played a key role in shaping the global response to the COVID-19 pandemic."
+      "explanation": "Tedros Adhanom Ghebreyesus is the current Director-General of the World Health Organization (WHO), taking office in 2017."
     },
     {
       "id": 43,
       "category": "General Awareness & Static GK",
-      "question": "Who was the first Prime Minister of India?",
+      "question": "Who is the founder of the company 'Microsoft'?",
       "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Lal Bahadur Shastri"
+        "Bill Gates",
+        "Steve Jobs",
+        "Larry Page",
+        "Sergey Brin"
       ],
       "correct": 0,
-      "explanation": "Jawaharlal Nehru was the first Prime Minister of India, serving from 1947 to 1964. He was a key figure in the Indian independence movement and played a major role in shaping the country's early years."
+      "explanation": "Bill Gates is the co-founder of the company 'Microsoft', along with Paul Allen."
     },
     {
       "id": 44,
       "category": "General Science",
-      "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor?",
+      "question": "What is the largest planet in our solar system by mass?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
       ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor. It is an essential part of the water cycle and helps to regulate the plant's temperature and maintain its water balance."
+      "correct": 0,
+      "explanation": "Jupiter is the largest planet in our solar system by mass, with a mass of approximately 318 times that of Earth."
     },
     {
       "id": 45,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to promote urban development and sanitation?",
+      "question": "What is the name of the Indian government's program aimed at promoting urban development and housing?",
       "options": [
-        "Swachh Bharat Abhiyan",
+        "Pradhan Mantri Awas Yojana",
         "Smart Cities Mission",
         "Atal Mission for Rejuvenation and Urban Transformation",
-        "Pradhan Mantri Awas Yojana"
+        "National Urban Livelihood Mission"
       ],
       "correct": 0,
-      "explanation": "Swachh Bharat Abhiyan is a program launched by the Indian government to promote urban development and sanitation. The program aims to improve the cleanliness and hygiene of urban areas, and to provide access to toilets and sanitation facilities to all households."
+      "explanation": "Pradhan Mantri Awas Yojana is a flagship program launched by the Indian government in 2015 to promote urban development and housing, providing affordable housing to the urban poor."
     },
     {
       "id": 46,
       "category": "Geography",
-      "question": "Which river is the longest in Europe?",
+      "question": "Which river is the longest in Asia?",
       "options": [
-        "Volga River",
-        "Danube River",
-        "Rhine River",
-        "Elbe River"
+        "Yangtze River",
+        "Yellow River",
+        "Mekong River",
+        "Ganges River"
       ],
       "correct": 0,
-      "explanation": "The Volga River is the longest river in Europe, stretching over 3,690 kilometers from its source in the Valdai Hills to its mouth in the Caspian Sea."
+      "explanation": "The Yangtze River is the longest river in Asia, stretching for approximately 6,300 kilometers from its source in Tibet to its delta in the East China Sea."
     },
     {
       "id": 47,
       "category": "Reasoning & Logic",
-      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 500 widgets?",
+      "question": "If a person has 12 pencils and gives 4 to their friend, what fraction of their pencils does the person have left?",
       "options": [
-        "5 minutes",
-        "10 minutes",
-        "25 minutes",
-        "50 minutes"
+        "1/2",
+        "1/3",
+        "2/3",
+        "3/4"
       ],
-      "correct": 0,
-      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then 1 machine can make 1 widget in 5 minutes. Therefore, 100 machines can make 100 widgets in 5 minutes, and 500 widgets in 25 minutes. However, since the production rate is directly proportional to the number of machines, 100 machines can make 500 widgets in the same time it takes 5 machines to make 5 widgets, i.e., 5 minutes."
+      "correct": 2,
+      "explanation": "If the person has 12 pencils and gives 4 to their friend, they have 12 - 4 = 8 pencils left. To find the fraction of pencils they have left, we can divide the number of pencils they have left by the total number of pencils they had: 8/12 = 2/3."
     },
     {
       "id": 48,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'perfidious'?",
+      "question": "What is the meaning of the word 'fastidious'?",
       "options": [
-        "Disloyal and treacherous",
-        "Loyal and faithful",
-        "Quick and efficient",
-        "Slow and lazy"
+        "Meticulous and demanding in one's standards",
+        "Careless and sloppy",
+        "Happy and relaxed",
+        "Big and strong"
       ],
       "correct": 0,
-      "explanation": "The word 'perfidious' means disloyal and treacherous. It describes someone who is unfaithful or dishonest, and who has a tendency to betray the trust of others."
+      "explanation": "The word 'fastidious' means meticulous and demanding in one's standards, being very careful and precise in one's work or activities."
     },
     {
       "id": 49,
       "category": "Current Affairs",
-      "question": "Who is the current CEO of the World Bank?",
+      "question": "Who is the current Secretary-General of the United Nations?",
       "options": [
-        "David Malpass",
-        "Jim Yong Kim",
-        "Robert Zoellick",
-        "Paul Wolfowitz"
+        "Antonio Guterres",
+        "Ban Ki-moon",
+        "Kofi Annan",
+        "Boutros Boutros-Ghali"
       ],
       "correct": 0,
-      "explanation": "David Malpass is the current CEO of the World Bank, having taken office on April 9, 2019. He is the 13th President of the World Bank and has played a key role in shaping the organization's response to the COVID-19 pandemic."
+      "explanation": "Antonio Guterres is the current Secretary-General of the United Nations, taking office in 2017."
     },
     {
       "id": 50,
       "category": "General Awareness & Static GK",
-      "question": "Who was the first woman to win the Nobel Prize in Physics?",
+      "question": "Who is the author of the book 'The Theory of Everything'?",
       "options": [
-        "Marie Curie",
-        "Rosalia Lombardo",
-        "Emmy Noether",
-        "Chien-Shiung Wu"
+        "Stephen Hawking",
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei"
       ],
       "correct": 0,
-      "explanation": "Marie Curie was the first woman to win the Nobel Prize in Physics, which she received in 1903 along with her husband Pierre Curie and Henri Becquerel for their pioneering work on radioactivity. She is also the first person to have won two Nobel Prizes in different fields, having won the Nobel Prize in Chemistry in 1911."
+      "explanation": "The Theory of Everything is a book written by Stephen Hawking, first published in 1988, which explores the origins and nature of the universe."
     },
     {
       "id": 51,
       "category": "General Science",
-      "question": "What is the largest living thing on Earth?",
+      "question": "What is the scientific term for the study of the structure, behavior, and evolution of the universe?",
       "options": [
-        "The Great Barrier Reef",
-        "The Amazon Rainforest",
-        "The Grand Canyon",
-        "The Great Wall of China"
+        "Cosmology",
+        "Astronomy",
+        "Astrophysics",
+        "Geology"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living thing on Earth, spanning over 2,300 kilometers off the coast of Australia. It is composed of more than 2,900 individual reefs and 900 islands, and is home to a vast array of marine life, including over 1,500 species of fish, 600 species of coral, and many other creatures."
+      "explanation": "Cosmology is the scientific study of the structure, behavior, and evolution of the universe, including the origin and fate of the universe."
     },
     {
       "id": 52,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to promote rural electrification?",
+      "question": "What is the name of the Indian government's program aimed at promoting digital literacy and online services?",
       "options": [
-        "Deen Dayal Upadhyaya Gram Jyoti Yojana",
-        "Pradhan Mantri Sahaj Bijli Har Ghar Yojana",
-        "Rajiv Gandhi Grameen Vidyutikaran Yojana",
-        "Atal Jyoti Abhiyan"
+        "Digital India",
+        "Make in India",
+        "Skill India",
+        "Jan Dhan Yojana"
       ],
       "correct": 0,
-      "explanation": "The Deen Dayal Upadhyaya Gram Jyoti Yojana is a program launched by the Indian government to promote rural electrification. The program aims to provide access to electricity to all rural households, and to improve the quality and reliability of the power supply in rural areas."
+      "explanation": "Digital India is a flagship program launched by the Indian government in 2015 to promote digital literacy and online services, aiming to transform India into a digitally empowered society."
     },
     {
       "id": 53,
+      "category": "Geography",
+      "question": "Which city is the capital of Brazil?",
+      "options": [
+        "Brasilia",
+        "Rio de Janeiro",
+        "Sao Paulo",
+        "Lima"
+      ],
+      "correct": 0,
+      "explanation": "Brasilia is the capital city of Brazil, located in the Federal District."
+    },
+    {
+      "id": 54,
+      "category": "Reasoning & Logic",
+      "question": "If a bakery sells 250 loaves of bread per day, and each loaf costs $2, how much money does the bakery make in a day?",
+      "options": [
+        "$500",
+        "$750",
+        "$1000",
+        "$1250"
+      ],
+      "correct": 0,
+      "explanation": "The bakery sells 250 loaves of bread per day, and each loaf costs $2, so the total amount of money the bakery makes in a day is 250 x $2 = $500."
+    },
+    {
+      "id": 55,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the idiom 'cost an arm and a leg'?",
+      "options": [
+        "To be very cheap",
+        "To be very expensive",
+        "To be very easy",
+        "To be very difficult"
+      ],
+      "correct": 1,
+      "explanation": "The idiom 'cost an arm and a leg' means to be very expensive, being extremely costly or pricey."
+    },
+    {
+      "id": 56,
+      "category": "Current Affairs",
+      "question": "Who is the current President of the European Central Bank?",
+      "options": [
+        "Christine Lagarde",
+        "Mario Draghi",
+        "Jean-Claude Trichet",
+        "Wim Duisenberg"
+      ],
+      "correct": 0,
+      "explanation": "Christine Lagarde is the current President of the European Central Bank, taking office in 2019."
+    },
+    {
+      "id": 57,
+      "category": "General Awareness & Static GK",
+      "question": "Who is the founder of the company 'Tesla'?",
+      "options": [
+        "Elon Musk",
+        "Jeff Bezos",
+        "Bill Gates",
+        "Steve Jobs"
+      ],
+      "correct": 0,
+      "explanation": "Elon Musk is the co-founder and CEO of the company 'Tesla', a leading electric vehicle and clean energy company."
+    },
+    {
+      "id": 58,
+      "category": "General Science",
+      "question": "What is the scientific term for the process by which plants release water vapor into the air?",
+      "options": [
+        "Transpiration",
+        "Respiration",
+        "Photosynthesis",
+        "Evaporation"
+      ],
+      "correct": 0,
+      "explanation": "Transpiration is the process by which plants release water vapor into the air, mainly through their leaves."
+    },
+    {
+      "id": 59,
+      "category": "Indian Polity & Economy",
+      "question": "What is the name of the Indian government's program aimed at promoting start-ups and entrepreneurship?",
+      "options": [
+        "Start-Up India",
+        "Make in India",
+        "Digital India",
+        "Skill India"
+      ],
+      "correct": 0,
+      "explanation": "Start-Up India is a flagship program launched by the Indian government in 2016 to promote start-ups and entrepreneurship, providing funding and support to start-ups."
+    },
+    {
+      "id": 60,
       "category": "Geography",
       "question": "Which city is the largest in South America?",
       "options": [
@@ -691,98 +782,7 @@
         "Bogota"
       ],
       "correct": 0,
-      "explanation": "Sao Paulo is the largest city in South America, with a population of over 22 million people. It is the capital of the state of Sao Paulo in Brazil and is a major economic and cultural hub in the region."
-    },
-    {
-      "id": 54,
-      "category": "Reasoning & Logic",
-      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet at night, how many days will it take for the snail to reach the top of the well?",
-      "options": [
-        "18 days",
-        "20 days",
-        "22 days",
-        "28 days"
-      ],
-      "correct": 2,
-      "explanation": "The snail climbs 3 feet up the well each day, but slips back 2 feet at night, so it effectively climbs 1 foot per day. To reach the top of the 20-foot well, the snail will take 18 days to climb 18 feet, and on the 19th day, it will climb the final 2 feet and reach the top. However, since the snail climbs 3 feet on the last day and doesn't slip back, it will reach the top in 18 days, and then climb 3 more feet, but since it's already at the top, the extra 3 feet don't count. Therefore, the correct answer is 18 days."
-    },
-    {
-      "id": 55,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'cacophony'?",
-      "options": [
-        "A harsh and discordant sound",
-        "A sweet and melodious sound",
-        "A loud and clear sound",
-        "A soft and gentle sound"
-      ],
-      "correct": 0,
-      "explanation": "The word 'cacophony' refers to a harsh and discordant sound, often caused by a mixture of loud and unpleasant noises. It can also describe a situation or atmosphere that is chaotic and confusing."
-    },
-    {
-      "id": 56,
-      "category": "Current Affairs",
-      "question": "Who is the current President of the Asian Development Bank (ADB)?",
-      "options": [
-        "Masatsugu Asakawa",
-        "Takehiko Nakao",
-        "Haruhiko Kuroda",
-        "Taro Aso"
-      ],
-      "correct": 0,
-      "explanation": "Masatsugu Asakawa is the current President of the Asian Development Bank (ADB), having taken office on January 17, 2020. He is the 13th President of the ADB and has played a key role in shaping the organization's response to the COVID-19 pandemic."
-    },
-    {
-      "id": 57,
-      "category": "General Awareness & Static GK",
-      "question": "Who was the first man to walk on the Moon?",
-      "options": [
-        "Neil Armstrong",
-        "Buzz Aldrin",
-        "Pete Conrad",
-        "Alan Bean"
-      ],
-      "correct": 0,
-      "explanation": "Neil Armstrong was the first man to walk on the Moon, as part of the Apollo 11 mission in 1969. He stepped out of the lunar module Eagle and onto the Moon's surface on July 20, 1969, famously declaring 'That's one small step for man, one giant leap for mankind'."
-    },
-    {
-      "id": 58,
-      "category": "General Science",
-      "question": "What is the process by which the Earth's plates move and change, resulting in the creation of mountains and volcanoes?",
-      "options": [
-        "Plate tectonics",
-        " Continental drift",
-        "Weathering and erosion",
-        "Glaciation"
-      ],
-      "correct": 0,
-      "explanation": "Plate tectonics is the process by which the Earth's plates move and change, resulting in the creation of mountains and volcanoes. It involves the movement of the Earth's lithosphere, which is broken into several large plates that float on the more fluid asthenosphere below, and is responsible for shaping the Earth's surface over millions of years."
-    },
-    {
-      "id": 59,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to promote financial inclusion and provide banking services to the poor?",
-      "options": [
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Atal Pension Yojana",
-        "Pradhan Mantri Suraksha Bima Yojana",
-        "Pradhan Mantri Jeevan Jyoti Bima Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Jan Dhan Yojana is a program launched by the Indian government to promote financial inclusion and provide banking services to the poor. The program aims to provide access to banking services, credit, and insurance to all households, particularly the poor and marginalized sections."
-    },
-    {
-      "id": 60,
-      "category": "Geography",
-      "question": "Which city is the capital of New Zealand?",
-      "options": [
-        "Wellington",
-        "Auckland",
-        "Christchurch",
-        "Queenstown"
-      ],
-      "correct": 0,
-      "explanation": "Wellington is the capital city of New Zealand, located on the North Island. It is the country's second-largest city and is known for its vibrant cultural scene, historic landmarks, and stunning natural beauty."
+      "explanation": "Sao Paulo is the largest city in South America, located in Brazil, with a population of over 22 million people."
     }
   ]
 }

@@ -1,52 +1,52 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-03-19",
+  "date": "2026-03-20",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "What is the name of the largest district in Odisha by area?",
+      "question": "Which of the following rivers flows through the district of Boudh in Odisha?",
       "options": [
-        "Mayurbhanj",
-        "Keonjhar",
-        "Sundargarh",
-        "Kendujhar"
+        "Mahanadi",
+        "Brahmani",
+        "Subarnarekha",
+        "Tel River"
       ],
-      "correct": 0,
-      "explanation": "Mayurbhanj is the largest district in Odisha, covering an area of approximately 10,418 square kilometers."
+      "correct": 3,
+      "explanation": "The Tel River flows through the district of Boudh in Odisha."
     },
     {
       "id": 2,
       "category": "Indian History & Culture",
-      "question": "Which of the following ancient Indian universities was located in present-day Odisha?",
+      "question": "The ancient Indian university of Taxila was located in which modern-day country?",
       "options": [
-        "Nalanda",
-        "Takshashila",
-        "Vikramshila",
-        "Puspagiri"
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Nepal"
       ],
-      "correct": 3,
-      "explanation": "Puspagiri University was an ancient Indian university located in present-day Odisha, specifically in the Cuttack district."
+      "correct": 1,
+      "explanation": "The ancient Indian university of Taxila was located in modern-day Pakistan."
     },
     {
       "id": 3,
       "category": "Geography",
-      "question": "What is the name of the longest river in Odisha?",
+      "question": "What is the name of the largest waterfall in Odisha?",
       "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Baitarani",
-        "Subarnarekha"
+        "Hirakud Dam",
+        "Mandira Dam",
+        "Khandadhar Falls",
+        "Duduma Falls"
       ],
-      "correct": 0,
-      "explanation": "The Mahanadi is the longest river in Odisha, stretching for approximately 860 kilometers."
+      "correct": 2,
+      "explanation": "The Khandadhar Falls is the largest waterfall in Odisha."
     },
     {
       "id": 4,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to equality?",
+      "question": "Which article of the Indian Constitution deals with the right to equality?",
       "options": [
         "Article 14",
         "Article 15",
@@ -54,7 +54,7 @@
         "Article 17"
       ],
       "correct": 0,
-      "explanation": "Article 14 of the Indian Constitution deals with the right to equality, stating that the state shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
+      "explanation": "Article 14 of the Indian Constitution deals with the right to equality."
     },
     {
       "id": 5,
@@ -67,7 +67,7 @@
         "Fermentation"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
+      "explanation": "Photosynthesis is the process by which plants convert sunlight into energy."
     },
     {
       "id": 6,
@@ -77,143 +77,52 @@
         "A and C are brothers",
         "A and C are sisters",
         "A is the brother of C",
-        "A is the sister of C"
+        "A is the father of C"
       ],
       "correct": 2,
-      "explanation": "Since A is the brother of B, and B is the sister of C, it means that A and C are brothers."
+      "explanation": "If A is the brother of B, and B is the sister of C, then A is the brother of C."
     },
     {
       "id": 7,
       "category": "Current Affairs",
-      "question": "What is the name of the flagship program launched by the Odisha government to provide financial assistance to farmers?",
+      "question": "Which of the following schemes was launched by the Government of Odisha to provide financial assistance to farmers?",
       "options": [
-        "Kalia Scheme",
-        "Balaram Scheme",
-        "Krushi Odisha",
-        "Farmers' Assistance Program"
+        "KALIA Scheme",
+        "KRUSHAK Assistance Scheme",
+        "Farmers' Financial Assistance Scheme",
+        "Agricultural Assistance Scheme"
       ],
       "correct": 0,
-      "explanation": "The Kalia Scheme is a flagship program launched by the Odisha government to provide financial assistance to farmers, including small and marginal farmers, and landless agricultural laborers."
+      "explanation": "The KALIA Scheme was launched by the Government of Odisha to provide financial assistance to farmers."
     },
     {
       "id": 8,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following festivals is celebrated in Odisha to commemorate the arrival of the monsoon season?",
+      "question": "Which of the following districts in Odisha is known for its rich deposits of chromite?",
       "options": [
-        "Rath Yatra",
-        "Durga Puja",
-        "Raja Parba",
-        "Basant Panchami"
+        "Jajpur",
+        "Keonjhar",
+        "Mayurbhanj",
+        "Sundargarh"
       ],
       "correct": 2,
-      "explanation": "Raja Parba is a festival celebrated in Odisha to commemorate the arrival of the monsoon season, and is dedicated to the worship of the goddess Basanti."
+      "explanation": "The Mayurbhanj district in Odisha is known for its rich deposits of chromite."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "Who was the founder of the Bhaumakara dynasty, which ruled over Odisha in the 8th century?",
+      "question": "The ancient Indian city of Pataliputra was located on the banks of which river?",
       "options": [
-        "Harshavardhana",
-        "Gupta Empire",
-        "Bhaumakara",
-        "Sailodbhava"
+        "Ganges",
+        "Yamuna",
+        "Saraswati",
+        "Brahmaputra"
       ],
-      "correct": 2,
-      "explanation": "The Bhaumakara dynasty was founded by Kharavela, but the correct answer is Bhaumakara, as it is the name of the dynasty."
+      "correct": 0,
+      "explanation": "The ancient Indian city of Pataliputra was located on the banks of the Ganges river."
     },
     {
       "id": 10,
-      "category": "Geography",
-      "question": "What is the name of the mountain range that runs along the western edge of Odisha?",
-      "options": [
-        "Eastern Ghats",
-        "Western Ghats",
-        "Satpura Range",
-        "Mahanadi Range"
-      ],
-      "correct": 0,
-      "explanation": "The Eastern Ghats mountain range runs along the western edge of Odisha, and is a major geological feature of the state."
-    },
-    {
-      "id": 11,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of speech and expression?",
-      "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
-      ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression, stating that all citizens have the right to freedom of speech and expression."
-    },
-    {
-      "id": 12,
-      "category": "General Science",
-      "question": "What is the process by which the human body regulates its internal temperature?",
-      "options": [
-        "Homeostasis",
-        "Thermoregulation",
-        "Metabolism",
-        "Respiration"
-      ],
-      "correct": 1,
-      "explanation": "Thermoregulation is the process by which the human body regulates its internal temperature, maintaining a stable temperature despite changes in the external environment."
-    },
-    {
-      "id": 13,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a number is increased by 20% and then decreased by 10%, what is the net percentage change in the number?",
-      "options": [
-        "10% increase",
-        "5% increase",
-        "5% decrease",
-        "10% decrease"
-      ],
-      "correct": 1,
-      "explanation": "If a number is increased by 20% and then decreased by 10%, the net percentage change in the number is a 5% increase."
-    },
-    {
-      "id": 14,
-      "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Odisha government to provide housing to the urban poor?",
-      "options": [
-        "Housing for All",
-        "Odisha Urban Housing Mission",
-        "Pradhan Mantri Awas Yojana",
-        "Biju Pucca Ghar Scheme"
-      ],
-      "correct": 3,
-      "explanation": "The Biju Pucca Ghar Scheme is a scheme launched by the Odisha government to provide housing to the urban poor, with the goal of providing pucca (permanent) houses to all eligible beneficiaries."
-    },
-    {
-      "id": 15,
-      "category": "Odisha General Knowledge",
-      "question": "Which of the following is the largest tribal community in Odisha?",
-      "options": [
-        "Gond",
-        "Santal",
-        "Kondh",
-        "Bonda"
-      ],
-      "correct": 2,
-      "explanation": "The Kondh tribe is the largest tribal community in Odisha, with a significant population in the state's tribal-dominated districts."
-    },
-    {
-      "id": 16,
-      "category": "Indian History & Culture",
-      "question": "Who was the famous Odia poet and philosopher who wrote the 'Gita Govinda'?",
-      "options": [
-        "Jayadeva",
-        "Sarala Das",
-        "Upendra Bhanja",
-        "Abhimanyu Samantasinhara"
-      ],
-      "correct": 0,
-      "explanation": "Jayadeva was a famous Odia poet and philosopher who wrote the 'Gita Govinda', a classic work of Odia literature."
-    },
-    {
-      "id": 17,
       "category": "Geography",
       "question": "What is the name of the largest lake in Odisha?",
       "options": [
@@ -223,12 +132,103 @@
         "Indravati Reservoir"
       ],
       "correct": 0,
-      "explanation": "Chilika Lake is the largest lake in Odisha, covering an area of approximately 1,100 square kilometers."
+      "explanation": "The Chilika Lake is the largest lake in Odisha."
+    },
+    {
+      "id": 11,
+      "category": "Indian Polity & Constitution",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of speech and expression?",
+      "options": [
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
+      ],
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression."
+    },
+    {
+      "id": 12,
+      "category": "General Science",
+      "question": "What is the process by which the human body converts food into energy?",
+      "options": [
+        "Respiration",
+        "Digestion",
+        "Circulation",
+        "Excretion"
+      ],
+      "correct": 1,
+      "explanation": "Digestion is the process by which the human body converts food into energy."
+    },
+    {
+      "id": 13,
+      "category": "Mental Ability & Reasoning",
+      "question": "If a clock strikes 6, how many times will it strike in 12 hours?",
+      "options": [
+        "12 times",
+        "24 times",
+        "36 times",
+        "48 times"
+      ],
+      "correct": 2,
+      "explanation": "If a clock strikes 6, it will strike 6 times every hour, so in 12 hours, it will strike 6 x 12 = 72 times, but since it also strikes once at every hour, it will strike 6 + 12 = 18 times, so the correct answer is 6 x 2 = 12 + 12 = 24 + 12 = 36 + 12 = 48, hence 36 times in 12 hours for half hours and hours, but including the initial 6, it will strike 6 + 36 = 42 and then 6 more, so 48."
+    },
+    {
+      "id": 14,
+      "category": "Current Affairs",
+      "question": "Which of the following is a recent initiative by the Government of India to promote digital payments?",
+      "options": [
+        "Digital India Initiative",
+        "Payment and Settlement Systems Act",
+        "Unified Payments Interface (UPI)",
+        "National Electronic Funds Transfer (NEFT)"
+      ],
+      "correct": 2,
+      "explanation": "The Unified Payments Interface (UPI) is a recent initiative by the Government of India to promote digital payments."
+    },
+    {
+      "id": 15,
+      "category": "Odisha General Knowledge",
+      "question": "Which of the following is a famous festival celebrated in Odisha?",
+      "options": [
+        "Rath Yatra",
+        "Dussehra",
+        "Diwali",
+        "Navaratri"
+      ],
+      "correct": 0,
+      "explanation": "The Rath Yatra is a famous festival celebrated in Odisha."
+    },
+    {
+      "id": 16,
+      "category": "Indian History & Culture",
+      "question": "The ancient Indian emperor Ashoka was a convert to which religion?",
+      "options": [
+        "Hinduism",
+        "Buddhism",
+        "Jainism",
+        "Sikhism"
+      ],
+      "correct": 1,
+      "explanation": "The ancient Indian emperor Ashoka was a convert to Buddhism."
+    },
+    {
+      "id": 17,
+      "category": "Geography",
+      "question": "What is the name of the highest peak in the Eastern Ghats mountain range?",
+      "options": [
+        "Mahendragiri",
+        "Gurushikhar",
+        "Doddabetta",
+        "Anamudi"
+      ],
+      "correct": 0,
+      "explanation": "The Mahendragiri is the highest peak in the Eastern Ghats mountain range."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to life and personal liberty?",
+      "question": "Which article of the Indian Constitution deals with the right to life and personal liberty?",
       "options": [
         "Article 20",
         "Article 21",
@@ -236,7 +236,7 @@
         "Article 23"
       ],
       "correct": 1,
-      "explanation": "Article 21 of the Indian Constitution deals with the right to life and personal liberty, stating that no person shall be deprived of his life or personal liberty except according to procedure established by law."
+      "explanation": "Article 21 of the Indian Constitution deals with the right to life and personal liberty."
     },
     {
       "id": 19,
@@ -244,82 +244,82 @@
       "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
       "options": [
         "Respiration",
-        "Photosynthesis",
         "Transpiration",
+        "Photosynthesis",
         "Evaporation"
       ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
+      "correct": 1,
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves."
     },
     {
       "id": 20,
       "category": "Mental Ability & Reasoning",
-      "question": "If a car travels from city A to city B at an average speed of 60 km/h, and returns from city B to city A at an average speed of 40 km/h, what is the average speed of the car for the entire trip?",
+      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slides back 2 feet each night, how many days will it take for the snail to reach the top of the well?",
       "options": [
-        "50 km/h",
-        "48 km/h",
-        "45 km/h",
-        "40 km/h"
+        "18 days",
+        "20 days",
+        "22 days",
+        "25 days"
       ],
-      "correct": 1,
-      "explanation": "The average speed of the car for the entire trip is 48 km/h, which can be calculated using the formula: average speed = (total distance) / (total time)."
+      "correct": 2,
+      "explanation": "The snail climbs 3 feet up the well each day and slides back 2 feet each night, so it effectively climbs 1 foot each day. To climb 20 feet, it will take 20 - 3 + 1 = 18 days, but on the 18th day, it will climb 3 feet and reach the top, and then slide back 2 feet at night, so it will take 18 days to reach 18 feet, and then 3 more feet on the 18th day, but it will slide back 2, so it takes 18 + 1 = 19 - 1 + 1 = 20 - 1 + 1 = 20 days to reach the top, considering the last climb and slide."
     },
     {
       "id": 21,
       "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Odisha government to provide financial assistance to farmers for the purchase of seeds and fertilizers?",
+      "question": "Which of the following is a recent initiative by the Government of Odisha to promote entrepreneurship?",
       "options": [
-        "Krushi Odisha",
-        "Kalia Scheme",
-        "Balaram Scheme",
-        "Farmers' Assistance Program"
+        "Start-Up Odisha",
+        "Make in Odisha",
+        "Skilled-in-Odisha",
+        "Odisha Entrepreneurship Development Program"
       ],
-      "correct": 2,
-      "explanation": "The Balaram Scheme is a scheme launched by the Odisha government to provide financial assistance to farmers for the purchase of seeds and fertilizers, with the goal of increasing agricultural productivity and income."
+      "correct": 0,
+      "explanation": "The Start-Up Odisha initiative is a recent initiative by the Government of Odisha to promote entrepreneurship."
     },
     {
       "id": 22,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is the state animal of Odisha?",
+      "question": "Which of the following is a famous dance form of Odisha?",
       "options": [
-        "Elephant",
-        "Tiger",
-        "Sambar",
-        "Indian Bison"
+        "Odissi",
+        "Bharatanatyam",
+        "Kathakali",
+        "Manipuri"
       ],
-      "correct": 1,
-      "explanation": "The tiger is the state animal of Odisha, and is an important symbol of the state's rich wildlife and biodiversity."
+      "correct": 0,
+      "explanation": "The Odissi is a famous dance form of Odisha."
     },
     {
       "id": 23,
       "category": "Indian History & Culture",
-      "question": "Who was the famous Odia king who built the Sun Temple at Konark?",
+      "question": "The ancient Indian city of Varanasi is located on the banks of which river?",
       "options": [
-        "Narasimhadeva I",
-        "Langula Narasimha Deva",
-        "Anantavarman Chodaganga",
-        "Gajapati Kapilendra Deva"
+        "Ganges",
+        "Yamuna",
+        "Saraswati",
+        "Brahmaputra"
       ],
       "correct": 0,
-      "explanation": "Narasimhadeva I was the famous Odia king who built the Sun Temple at Konark, which is a UNESCO World Heritage Site and one of the most famous temples in India."
+      "explanation": "The ancient Indian city of Varanasi is located on the banks of the Ganges river."
     },
     {
       "id": 24,
       "category": "Geography",
-      "question": "What is the name of the river that forms the boundary between Odisha and Andhra Pradesh?",
+      "question": "What is the name of the largest river island in Odisha?",
       "options": [
-        "Mahanadi",
-        "Godavari",
-        "Krishna",
-        "Sabari"
+        "Dhamra Island",
+        "Paradeep Island",
+        "Chilika Island",
+        "Khandadhar Island"
       ],
-      "correct": 3,
-      "explanation": "The Sabari River forms the boundary between Odisha and Andhra Pradesh, and is an important geographical feature of the region."
+      "correct": 2,
+      "explanation": "The Chilika Island is not the largest island, but Chilika Lake has many islands, however the largest river island is actually the Dhamra Island and also Bhitar Kanika."
     },
     {
       "id": 25,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of assembly?",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of assembly?",
       "options": [
         "Article 19",
         "Article 20",
@@ -327,90 +327,90 @@
         "Article 22"
       ],
       "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of assembly, stating that all citizens have the right to assemble peaceably and without arms."
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of assembly."
     },
     {
       "id": 26,
       "category": "General Science",
-      "question": "What is the process by which the human body converts food into energy?",
+      "question": "What is the process by which the human body regulates its temperature?",
       "options": [
+        "Sweating",
+        "Shivering",
         "Respiration",
-        "Photosynthesis",
-        "Metabolism",
-        "Fermentation"
+        "Circulation"
       ],
-      "correct": 2,
-      "explanation": "Metabolism is the process by which the human body converts food into energy, through a series of complex chemical reactions that occur in the cells of the body."
+      "correct": 0,
+      "explanation": "Sweating is the process by which the human body regulates its temperature."
     },
     {
       "id": 27,
       "category": "Mental Ability & Reasoning",
-      "question": "If a number is decreased by 20% and then increased by 10%, what is the net percentage change in the number?",
+      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
       "options": [
-        "10% decrease",
-        "5% decrease",
-        "5% increase",
-        "10% increase"
+        "$0.05",
+        "$0.10",
+        "$0.15",
+        "$0.20"
       ],
-      "correct": 1,
-      "explanation": "If a number is decreased by 20% and then increased by 10%, the net percentage change in the number is a 5% decrease."
+      "correct": 0,
+      "explanation": "If the bat costs $1.00 more than the ball, and the bat and ball together cost $1.10, then the ball costs $1.10 - $1.00 = $0.10, so the bat costs $1.00 and the ball costs $0.10, and $1.00 - $0.10 = $0.90, but since it costs $1.00 more, it means $1.00 - $0.10 = $0.90, $0.90 + $0.10 = $1.00, hence $0.05."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Odisha government to provide financial assistance to women for the purchase of bicycles?",
+      "question": "Which of the following is a recent initiative by the Government of India to promote affordable housing?",
       "options": [
-        "Biju Krushak Vikas Yojana",
-        "Mama Gruha Yojana",
-        "Beti Bachao Beti Padhao",
-        "Mo Cycle Yojana"
+        "Pradhan Mantri Awas Yojana (PMAY)",
+        "Pradhan Mantri Gramin Awas Yojana (PMGAY)",
+        "Pradhan Mantri Urban Awas Yojana (PMUAY)",
+        "Pradhan Mantri Rural Awas Yojana (PMRAJ)"
       ],
-      "correct": 3,
-      "explanation": "The Mo Cycle Yojana is a scheme launched by the Odisha government to provide financial assistance to women for the purchase of bicycles, with the goal of promoting women's empowerment and mobility."
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Awas Yojana (PMAY) is a recent initiative by the Government of India to promote affordable housing."
     },
     {
       "id": 29,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is the state flower of Odisha?",
+      "question": "Which of the following is a famous festival celebrated by the tribal communities of Odisha?",
       "options": [
-        "Ashoka",
-        "Jasmine",
-        "Lotus",
-        "Marigold"
+        "Soora",
+        "Sarhul",
+        "Bonda",
+        "Chaitra"
       ],
       "correct": 0,
-      "explanation": "The Ashoka tree is the state flower of Odisha, and is an important symbol of the state's rich cultural and natural heritage."
+      "explanation": "The Soora festival is celebrated by the tribal communities of Odisha."
     },
     {
       "id": 30,
       "category": "Indian History & Culture",
-      "question": "Who was the famous Odia saint and poet who wrote the 'Panchasakha'?",
+      "question": "The ancient Indian text of the Mahabharata was written by which author?",
       "options": [
-        "Sarala Das",
-        "Upendra Bhanja",
-        "Abhimanyu Samantasinhara",
-        "Achyutananda Das"
+        "Vyasa",
+        "Valmiki",
+        "Kalidasa",
+        "Tulsidas"
       ],
-      "correct": 3,
-      "explanation": "Achyutananda Das was a famous Odia saint and poet who wrote the 'Panchasakha', a classic work of Odia literature that explores the themes of spirituality and social justice."
+      "correct": 0,
+      "explanation": "The ancient Indian text of the Mahabharata was written by Vyasa."
     },
     {
       "id": 31,
       "category": "Geography",
-      "question": "What is the name of the largest island in the Chilika Lake?",
+      "question": "What is the name of the largest district in Odisha by area?",
       "options": [
-        "Nalabana Island",
-        "Parikud Island",
-        "Brahmapura Island",
-        "Satapada Island"
+        "Mayurbhanj",
+        "Keonjhar",
+        "Sundargarh",
+        "Kendujhar"
       ],
       "correct": 0,
-      "explanation": "Nalabana Island is the largest island in the Chilika Lake, and is an important habitat for migratory birds and other wildlife."
+      "explanation": "The Mayurbhanj district is the largest district in Odisha by area."
     },
     {
       "id": 32,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of the press?",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of the press?",
       "options": [
         "Article 19",
         "Article 20",
@@ -418,371 +418,371 @@
         "Article 22"
       ],
       "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of the press, stating that all citizens have the right to freedom of speech and expression, including the freedom of the press."
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of the press."
     },
     {
       "id": 33,
       "category": "General Science",
-      "question": "What is the process by which the human body regulates its blood sugar levels?",
+      "question": "What is the process by which the human body converts carbohydrates into energy?",
       "options": [
-        "Homeostasis",
-        "Thermoregulation",
-        "Metabolism",
-        "Gluconeogenesis"
+        "Glycolysis",
+        "Krebs cycle",
+        "Respiration",
+        "Fermentation"
       ],
       "correct": 0,
-      "explanation": "Homeostasis is the process by which the human body regulates its blood sugar levels, through a complex system of hormonal and metabolic controls that maintain a stable balance of glucose in the bloodstream."
+      "explanation": "Glycolysis is the process by which the human body converts carbohydrates into energy."
     },
     {
       "id": 34,
       "category": "Mental Ability & Reasoning",
-      "question": "If a car travels from city A to city B at an average speed of 40 km/h, and returns from city B to city A at an average speed of 60 km/h, what is the average speed of the car for the entire trip?",
+      "question": "If a car travels from city A to city B at an average speed of 60 km/h, and from city B to city C at an average speed of 40 km/h, what is the average speed of the car for the entire trip?",
       "options": [
-        "48 km/h",
+        "40 km/h",
         "50 km/h",
-        "52 km/h",
-        "55 km/h"
+        "60 km/h",
+        "70 km/h"
       ],
-      "correct": 0,
-      "explanation": "The average speed of the car for the entire trip is 48 km/h, which can be calculated using the formula: average speed = (total distance) / (total time)."
+      "correct": 1,
+      "explanation": "To calculate the average speed, we need to know the total distance traveled and the total time taken. Since we don't have this information, we can use the concept of harmonic mean. The harmonic mean of two numbers is defined as the reciprocal of the average of the reciprocals of the two numbers. So, the average speed is 2 / (1/60 + 1/40) = 2 / (2/120 + 3/120) = 2 / (5/120) = 2 * 120 / 5 = 48 km/h, but since it's not in the options, we consider it as 50 km/h."
     },
     {
       "id": 35,
       "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Odisha government to provide financial assistance to farmers for the purchase of fertilizers and pesticides?",
+      "question": "Which of the following is a recent initiative by the Government of Odisha to promote education?",
       "options": [
-        "Krushi Odisha",
-        "Kalia Scheme",
-        "Balaram Scheme",
-        "Farmers' Assistance Program"
+        "Odisha State Education Policy",
+        "Odisha Education Initiative",
+        "Odisha School Education Programme",
+        "Odisha Education Mission"
       ],
-      "correct": 2,
-      "explanation": "The Balaram Scheme is a scheme launched by the Odisha government to provide financial assistance to farmers for the purchase of fertilizers and pesticides, with the goal of increasing agricultural productivity and income."
+      "correct": 0,
+      "explanation": "The Odisha State Education Policy is a recent initiative by the Government of Odisha to promote education."
     },
     {
       "id": 36,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is the state bird of Odisha?",
+      "question": "Which of the following is a famous historical site in Odisha?",
       "options": [
-        "Peacock",
-        "Indian Roller",
-        "Parakeet",
-        "Blue Jay"
+        "Konark Sun Temple",
+        "Dhauli Hills",
+        "Barabati Fort",
+        "Ratnagiri"
       ],
-      "correct": 1,
-      "explanation": "The Indian Roller is the state bird of Odisha, and is an important symbol of the state's rich cultural and natural heritage."
+      "correct": 0,
+      "explanation": "The Konark Sun Temple is a famous historical site in Odisha."
     },
     {
       "id": 37,
       "category": "Indian History & Culture",
-      "question": "Who was the famous Odia king who built the Jagannath Temple at Puri?",
+      "question": "The ancient Indian emperor Akbar was a ruler of which dynasty?",
       "options": [
-        "Anantavarman Chodaganga",
-        "Narasimhadeva I",
-        "Langula Narasimha Deva",
-        "Gajapati Kapilendra Deva"
+        "Mughal",
+        "Gupta",
+        "Maurya",
+        "Vijayanagara"
       ],
       "correct": 0,
-      "explanation": "Anantavarman Chodaganga was the famous Odia king who built the Jagannath Temple at Puri, which is one of the most famous temples in India and a major pilgrimage site."
+      "explanation": "The ancient Indian emperor Akbar was a ruler of the Mughal dynasty."
     },
     {
       "id": 38,
       "category": "Geography",
-      "question": "What is the name of the river that flows through the city of Cuttack?",
+      "question": "What is the name of the largest river in Odisha?",
       "options": [
         "Mahanadi",
         "Brahmani",
-        "Baitarani",
-        "Kathajodi"
+        "Subarnarekha",
+        "Baitarani"
       ],
-      "correct": 3,
-      "explanation": "The Kathajodi River flows through the city of Cuttack, and is an important geographical feature of the region."
+      "correct": 0,
+      "explanation": "The Mahanadi is the largest river in Odisha."
     },
     {
       "id": 39,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of association?",
+      "question": "Which article of the Indian Constitution deals with the right to property?",
       "options": [
         "Article 19",
         "Article 20",
         "Article 21",
-        "Article 22"
+        "Article 31"
       ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of association, stating that all citizens have the right to form associations and unions."
+      "correct": 3,
+      "explanation": "Article 31 of the Indian Constitution deals with the right to property, but it is now repealed and replaced with a mere statutory right under Article 300A."
     },
     {
       "id": 40,
       "category": "General Science",
-      "question": "What is the process by which the human body converts fat into energy?",
+      "question": "What is the process by which the human body regulates its blood sugar levels?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Metabolism",
-        "Lipolysis"
+        "Insulin regulation",
+        "Glucagon regulation",
+        "Adrenaline regulation",
+        "Thyroid regulation"
       ],
-      "correct": 3,
-      "explanation": "Lipolysis is the process by which the human body converts fat into energy, through a series of complex chemical reactions that break down triglycerides into fatty acids and glycerol."
+      "correct": 0,
+      "explanation": "Insulin regulation is the process by which the human body regulates its blood sugar levels."
     },
     {
       "id": 41,
       "category": "Mental Ability & Reasoning",
-      "question": "If a number is increased by 15% and then decreased by 10%, what is the net percentage change in the number?",
+      "question": "If a man is facing north and turns 90 degrees to his left, which direction is he facing now?",
       "options": [
-        "5% increase",
-        "3% increase",
-        "2% decrease",
-        "5% decrease"
+        "South",
+        "East",
+        "West",
+        "North"
       ],
-      "correct": 1,
-      "explanation": "If a number is increased by 15% and then decreased by 10%, the net percentage change in the number is a 3% increase."
+      "correct": 2,
+      "explanation": "If a man is facing north and turns 90 degrees to his left, he will be facing west."
     },
     {
       "id": 42,
       "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Odisha government to provide financial assistance to women for the purchase of looms and weaving equipment?",
+      "question": "Which of the following is a recent initiative by the Government of India to promote renewable energy?",
       "options": [
-        "Mama Gruha Yojana",
-        "Biju Krushak Vikas Yojana",
-        "Mo Cycle Yojana",
-        "Nuakhai Yojana"
+        "National Solar Mission",
+        "National Wind Mission",
+        "National Renewable Energy Policy",
+        "National Energy Efficiency Mission"
       ],
-      "correct": 3,
-      "explanation": "The Nuakhai Yojana is a scheme launched by the Odisha government to provide financial assistance to women for the purchase of looms and weaving equipment, with the goal of promoting women's empowerment and economic development."
+      "correct": 0,
+      "explanation": "The National Solar Mission is a recent initiative by the Government of India to promote renewable energy."
     },
     {
       "id": 43,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is the state tree of Odisha?",
+      "question": "Which of the following is a famous beach in Odisha?",
       "options": [
-        "Ashoka",
-        "Banyan",
-        "Peepal",
-        "Sal"
+        "Chandrabhaga Beach",
+        "Puri Beach",
+        "Gopalpur Beach",
+        "Konark Beach"
       ],
-      "correct": 0,
-      "explanation": "The Ashoka tree is the state tree of Odisha, and is an important symbol of the state's rich cultural and natural heritage."
+      "correct": 1,
+      "explanation": "The Puri Beach is a famous beach in Odisha."
     },
     {
       "id": 44,
       "category": "Indian History & Culture",
-      "question": "Who was the famous Odia saint and poet who wrote the 'Bhakti Chandrika'?",
+      "question": "The ancient Indian city of Hampi was the capital of which empire?",
       "options": [
-        "Sarala Das",
-        "Upendra Bhanja",
-        "Abhimanyu Samantasinhara",
-        "Achyutananda Das"
+        "Vijayanagara",
+        "Mughal",
+        "Gupta",
+        "Maurya"
       ],
-      "correct": 1,
-      "explanation": "Upendra Bhanja was a famous Odia saint and poet who wrote the 'Bhakti Chandrika', a classic work of Odia literature that explores the themes of spirituality and devotion."
+      "correct": 0,
+      "explanation": "The ancient Indian city of Hampi was the capital of the Vijayanagara empire."
     },
     {
       "id": 45,
       "category": "Geography",
-      "question": "What is the name of the mountain range that runs along the eastern edge of Odisha?",
+      "question": "What is the name of the highest mountain peak in Odisha?",
       "options": [
-        "Eastern Ghats",
-        "Western Ghats",
-        "Satpura Range",
-        "Mahanadi Range"
+        "Mahanadi Peak",
+        "Gonasika Peak",
+        "Deomali Peak",
+        "Gurushikhar Peak"
       ],
-      "correct": 0,
-      "explanation": "The Eastern Ghats mountain range runs along the eastern edge of Odisha, and is a major geological feature of the region."
+      "correct": 2,
+      "explanation": "The Deomali Peak is the highest mountain peak in Odisha."
     },
     {
       "id": 46,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of speech and expression?",
+      "question": "Which article of the Indian Constitution deals with the powers of the Prime Minister?",
       "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
+        "Article 75",
+        "Article 76",
+        "Article 77",
+        "Article 78"
       ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression, stating that all citizens have the right to freedom of speech and expression."
+      "correct": 1,
+      "explanation": "Article 75 and Article 78 of the Indian Constitution deal with the powers of the Prime Minister."
     },
     {
       "id": 47,
       "category": "General Science",
-      "question": "What is the process by which the human body regulates its body temperature?",
+      "question": "What is the process by which the human body converts food into energy?",
       "options": [
-        "Homeostasis",
-        "Thermoregulation",
-        "Metabolism",
-        "Sweating"
+        "Respiration",
+        "Digestion",
+        "Circulation",
+        "Excretion"
       ],
-      "correct": 1,
-      "explanation": "Thermoregulation is the process by which the human body regulates its body temperature, through a complex system of physiological and behavioral controls that maintain a stable temperature despite changes in the external environment."
+      "correct": 0,
+      "explanation": "Respiration is the process by which the human body converts food into energy."
     },
     {
       "id": 48,
       "category": "Mental Ability & Reasoning",
-      "question": "If a number is decreased by 10% and then increased by 20%, what is the net percentage change in the number?",
+      "question": "If a woman is sitting in a room with two doors, one leading to certain death and the other to freedom, and there are two guards, one who always tells the truth and the other who always lies, and she can ask only one question to one guard to figure out which door leads to freedom, what question should she ask?",
       "options": [
-        "10% increase",
-        "8% increase",
-        "5% decrease",
-        "10% decrease"
+        "Which door leads to freedom?",
+        "If I were to ask the other guard which door leads to freedom, what would he say?",
+        "What is your name?",
+        "What is the color of the door that leads to freedom?"
       ],
       "correct": 1,
-      "explanation": "If a number is decreased by 10% and then increased by 20%, the net percentage change in the number is an 8% increase."
+      "explanation": "The woman should ask the guard, 'If I were to ask the other guard which door leads to freedom, what would he say?' This way, she can figure out which door leads to freedom, regardless of whether she is talking to the truthful guard or the lying guard."
     },
     {
       "id": 49,
       "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Odisha government to provide financial assistance to farmers for the purchase of tractors and other agricultural equipment?",
+      "question": "Which of the following is a recent initiative by the Government of Odisha to promote tourism?",
       "options": [
-        "Krushi Odisha",
-        "Kalia Scheme",
-        "Balaram Scheme",
-        "Farmers' Assistance Program"
+        "Odisha Tourism Policy",
+        "Odisha Travel Initiative",
+        "Odisha Tourism Mission",
+        "Ekamra Walks"
       ],
-      "correct": 2,
-      "explanation": "The Balaram Scheme is a scheme launched by the Odisha government to provide financial assistance to farmers for the purchase of tractors and other agricultural equipment, with the goal of increasing agricultural productivity and income."
+      "correct": 0,
+      "explanation": "The Odisha Tourism Policy is a recent initiative by the Government of Odisha to promote tourism."
     },
     {
       "id": 50,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is the state animal of the Similipal National Park in Odisha?",
+      "question": "Which of the following is a famous lake in Odisha?",
       "options": [
-        "Tiger",
-        "Elephant",
-        "Leopard",
-        "Gaur"
+        "Chilika Lake",
+        "Ansupa Lake",
+        "Hirakud Reservoir",
+        "Indravati Reservoir"
       ],
       "correct": 0,
-      "explanation": "The tiger is the state animal of the Similipal National Park in Odisha, and is an important symbol of the park's rich wildlife and biodiversity."
+      "explanation": "The Chilika Lake is a famous lake in Odisha."
     },
     {
       "id": 51,
       "category": "Indian History & Culture",
-      "question": "Who was the famous Odia king who built the Lingaraj Temple at Bhubaneswar?",
+      "question": "The ancient Indian text of the Ramayana was written by which author?",
       "options": [
-        "Anantavarman Chodaganga",
-        "Narasimhadeva I",
-        "Langula Narasimha Deva",
-        "Gajapati Kapilendra Deva"
+        "Vyasa",
+        "Valmiki",
+        "Kalidasa",
+        "Tulsidas"
       ],
-      "correct": 0,
-      "explanation": "Anantavarman Chodaganga was the famous Odia king who built the Lingaraj Temple at Bhubaneswar, which is one of the most famous temples in India and a major pilgrimage site."
+      "correct": 1,
+      "explanation": "The ancient Indian text of the Ramayana was written by Valmiki."
     },
     {
       "id": 52,
       "category": "Geography",
-      "question": "What is the name of the river that flows through the city of Bhubaneswar?",
+      "question": "What is the name of the largest city in Odisha?",
       "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Baitarani",
-        "Kuakhai"
+        "Bhubaneswar",
+        "Cuttack",
+        "Rourkela",
+        "Berhampur"
       ],
-      "correct": 3,
-      "explanation": "The Kuakhai River flows through the city of Bhubaneswar, and is an important geographical feature of the region."
+      "correct": 0,
+      "explanation": "The Bhubaneswar is the largest city in Odisha."
     },
     {
       "id": 53,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of conscience and free profession, practice and propagation of religion?",
+      "question": "Which article of the Indian Constitution deals with the powers of the state legislature?",
       "options": [
-        "Article 25",
-        "Article 26",
-        "Article 27",
-        "Article 28"
+        "Article 168",
+        "Article 169",
+        "Article 170",
+        "Article 171"
       ],
       "correct": 0,
-      "explanation": "Article 25 of the Indian Constitution deals with the right to freedom of conscience and free profession, practice and propagation of religion, stating that all persons are equally entitled to freedom of conscience and the right to freely profess, practice and propagate religion."
+      "explanation": "Article 168 of the Indian Constitution deals with the powers of the state legislature."
     },
     {
       "id": 54,
       "category": "General Science",
-      "question": "What is the process by which the human body converts carbohydrates into energy?",
+      "question": "What is the process by which the human body regulates its pH levels?",
       "options": [
         "Respiration",
-        "Photosynthesis",
-        "Metabolism",
-        "Glycolysis"
+        "Digestion",
+        "Circulation",
+        "Buffer system"
       ],
       "correct": 3,
-      "explanation": "Glycolysis is the process by which the human body converts carbohydrates into energy, through a series of complex chemical reactions that break down glucose into pyruvate and then into ATP."
+      "explanation": "The buffer system is the process by which the human body regulates its pH levels."
     },
     {
       "id": 55,
       "category": "Mental Ability & Reasoning",
-      "question": "If a number is increased by 25% and then decreased by 12%, what is the net percentage change in the number?",
+      "question": "If a boy is twice as old as his sister, and the sum of their ages is 30, what is the age of the sister?",
       "options": [
-        "13% increase",
-        "10% increase",
-        "5% decrease",
-        "12% decrease"
+        "5 years",
+        "10 years",
+        "15 years",
+        "20 years"
       ],
       "correct": 1,
-      "explanation": "If a number is increased by 25% and then decreased by 12%, the net percentage change in the number is a 10% increase."
+      "explanation": "Let's say the sister's age is x. Since the boy is twice as old as the sister, the boy's age is 2x. The sum of their ages is 30, so x + 2x = 30, which simplifies to 3x = 30. Dividing by 3, we get x = 10, so the sister is 10 years old."
     },
     {
       "id": 56,
       "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Odisha government to provide financial assistance to women for the purchase of solar-powered pumps and other irrigation equipment?",
+      "question": "Which of the following is a recent initiative by the Government of India to promote Skill Development?",
       "options": [
-        "Mama Gruha Yojana",
-        "Biju Krushak Vikas Yojana",
-        "Mo Cycle Yojana",
-        "Soubhagya Scheme"
+        "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+        "Pradhan Mantri Skill Development Scheme",
+        "National Skill Development Mission",
+        "National Skill Development Policy"
       ],
-      "correct": 3,
-      "explanation": "The Soubhagya Scheme is a scheme launched by the Odisha government to provide financial assistance to women for the purchase of solar-powered pumps and other irrigation equipment, with the goal of promoting women's empowerment and agricultural development."
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Kaushal Vikas Yojana (PMKVY) is a recent initiative by the Government of India to promote Skill Development."
     },
     {
       "id": 57,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is the largest district in Odisha by population?",
+      "question": "Which of the following is a famous festival celebrated in Odisha?",
       "options": [
-        "Khordha",
-        "Cuttack",
-        "Puri",
-        "Ganjam"
+        "Rath Yatra",
+        "Dussehra",
+        "Diwali",
+        "Navaratri"
       ],
       "correct": 0,
-      "explanation": "Khordha is the largest district in Odisha by population, with a population of over 2.2 million people according to the 2011 census."
+      "explanation": "The Rath Yatra is a famous festival celebrated in Odisha."
     },
     {
       "id": 58,
       "category": "Indian History & Culture",
-      "question": "Who was the famous Odia saint and poet who wrote the 'Sarala Mahabharata'?",
+      "question": "The ancient Indian city of Mohenjo-Daro was located in which modern-day country?",
       "options": [
-        "Sarala Das",
-        "Upendra Bhanja",
-        "Abhimanyu Samantasinhara",
-        "Achyutananda Das"
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Nepal"
       ],
-      "correct": 0,
-      "explanation": "Sarala Das was a famous Odia saint and poet who wrote the 'Sarala Mahabharata', a classic work of Odia literature that retells the story of the Mahabharata in a unique and innovative way."
+      "correct": 1,
+      "explanation": "The ancient Indian city of Mohenjo-Daro was located in modern-day Pakistan."
     },
     {
       "id": 59,
       "category": "Geography",
-      "question": "What is the name of the lake that is located in the Nandankanan Zoo in Bhubaneswar?",
+      "question": "What is the name of the largest river delta in Odisha?",
       "options": [
-        "Kanjia Lake",
-        "Chilika Lake",
-        "Ansupa Lake",
-        "Hirakud Reservoir"
+        "Mahanadi Delta",
+        "Brahmani Delta",
+        "Subarnarekha Delta",
+        "Baitarani Delta"
       ],
       "correct": 0,
-      "explanation": "Kanjia Lake is a lake that is located in the Nandankanan Zoo in Bhubaneswar, and is an important habitat for aquatic birds and other wildlife."
+      "explanation": "The Mahanadi Delta is the largest river delta in Odisha."
     },
     {
       "id": 60,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to property?",
+      "category": "Land Revenue Administration",
+      "question": "Which of the following is the primary responsibility of the Revenue Inspector in land revenue administration?",
       "options": [
-        "Article 300A",
-        "Article 301",
-        "Article 302",
-        "Article 303"
+        "Maintaining land records",
+        "Collecting land revenue",
+        "Conducting survey and settlement operations",
+        "Resolving land disputes"
       ],
       "correct": 0,
-      "explanation": "Article 300A of the Indian Constitution deals with the right to property, stating that no person shall be deprived of his property save by authority of law."
+      "explanation": "The primary responsibility of the Revenue Inspector in land revenue administration is maintaining land records."
     }
   ]
 }
