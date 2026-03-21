@@ -1,7 +1,7 @@
 {
   "exam": "ssb",
   "name": "SSB",
-  "date": "2026-03-20",
+  "date": "2026-03-21",
   "questionCount": 60,
   "questions": [
     {
@@ -10,184 +10,67 @@
       "question": "Who is the author of the book 'India After Gandhi'?",
       "options": [
         "Ramachandra Guha",
-        "Nayantara Sahgal",
-        "Khushwant Singh",
-        "Arundhati Roy"
+        "Narendra Modi",
+        "Amit Shah",
+        "Arvind Kejriwal"
       ],
       "correct": 0,
-      "explanation": "Ramachandra Guha is an Indian historian and anthropologist who wrote the book 'India After Gandhi'. The book is a comprehensive history of India from the time of independence to the present day."
+      "explanation": "The book 'India After Gandhi' is written by Ramachandra Guha, an Indian historian and writer. The book is a comprehensive history of India from 1947 to 2007 and provides an in-depth analysis of the country's social, economic, and political developments."
     },
     {
       "id": 2,
-      "category": "Indian History & Freedom Struggle",
-      "question": "The first war of Indian independence was fought in which year?",
+      "category": "General Awareness & GK",
+      "question": "What is the name of the national animal of India?",
       "options": [
-        "1856",
-        "1857",
-        "1858",
-        "1859"
+        "Lion",
+        "Tiger",
+        "Elephant",
+        "Peacock"
       ],
       "correct": 1,
-      "explanation": "The first war of Indian independence, also known as the Indian Rebellion of 1857, was fought in 1857. It was a major uprising against British rule in India and is considered a pivotal moment in Indian history."
+      "explanation": "The tiger is the national animal of India. It is a majestic and powerful animal that is native to the country and is an important part of Indian culture and heritage."
     },
     {
       "id": 3,
       "category": "General Awareness & GK",
-      "question": "What is the name of the national park located in the state of Madhya Pradesh, known for its tiger reserve?",
+      "question": "Who was the first President of India?",
       "options": [
-        "Kanha National Park",
-        "Bandhavgarh National Park",
-        "Pench National Park",
-        "Satpura National Park"
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Subhas Chandra Bose"
       ],
-      "correct": 1,
-      "explanation": "Bandhavgarh National Park is a national park located in the state of Madhya Pradesh, known for its tiger reserve. It is one of the most popular national parks in India and is home to a large population of Bengal tigers."
+      "correct": 0,
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962. He was a prominent leader in the Indian independence movement and played a key role in the country's transition to independence."
     },
     {
       "id": 4,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of speech and expression?",
+      "category": "General Awareness & GK",
+      "question": "What is the name of the highest award given to civilians in India?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 25"
+        "Bharat Ratna",
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri"
       ],
-      "correct": 1,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression. This article guarantees the freedom of speech and expression to all citizens of India, subject to certain reasonable restrictions."
+      "correct": 0,
+      "explanation": "The Bharat Ratna is the highest award given to civilians in India. It is awarded to individuals who have made exceptional contributions to the country in fields such as art, literature, science, and public service."
     },
     {
       "id": 5,
-      "category": "Geography",
-      "question": "What is the name of the highest mountain peak in the state of Jammu and Kashmir?",
+      "category": "General Awareness & GK",
+      "question": "Which Indian state has the highest number of national parks?",
       "options": [
-        "K2",
-        "Nanga Parbat",
-        "Kangchenjunga",
-        "Mount Godwin-Austen"
+        "Madhya Pradesh",
+        "Uttarakhand",
+        "Assam",
+        "Kerala"
       ],
       "correct": 0,
-      "explanation": "K2, also known as Mount Godwin-Austen, is the highest mountain peak in the state of Jammu and Kashmir. It is located on the Pakistan-China border and is the second-highest mountain peak in the world."
+      "explanation": "Madhya Pradesh has the highest number of national parks in India, with a total of nine national parks. The state is known for its rich biodiversity and is home to many endangered species."
     },
     {
       "id": 6,
-      "category": "General Science",
-      "question": "What is the process by which plants convert sunlight into energy?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
-      ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants convert sunlight into energy. This process involves the conversion of carbon dioxide and water into glucose and oxygen, using sunlight as a source of energy."
-    },
-    {
-      "id": 7,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Army's special forces unit?",
-      "options": [
-        "MARCOS",
-        "NSG",
-        "Para SF",
-        "Ghatak"
-      ],
-      "correct": 2,
-      "explanation": "The Para SF, also known as the Parachute Regiment Special Forces, is the Indian Army's special forces unit. This unit is trained to conduct special operations, such as counter-terrorism and unconventional warfare."
-    },
-    {
-      "id": 8,
-      "category": "Current Affairs",
-      "question": "Who is the current Chief of the Army Staff of the Indian Army?",
-      "options": [
-        "General Manoj Mukund Naravane",
-        "General Bipin Rawat",
-        "General Dalbir Singh Suhag",
-        "General Deepak Kapoor"
-      ],
-      "correct": 0,
-      "explanation": "General Manoj Mukund Naravane is the current Chief of the Army Staff of the Indian Army. He took over as the Chief of the Army Staff on December 31, 2019."
-    },
-    {
-      "id": 9,
-      "category": "General Awareness & GK",
-      "question": "What is the name of the dance form that originated in the state of Kerala?",
-      "options": [
-        "Bharatanatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
-      ],
-      "correct": 1,
-      "explanation": "Kathakali is a dance form that originated in the state of Kerala. It is a classical dance form that is known for its intricate hand gestures and facial expressions."
-    },
-    {
-      "id": 10,
-      "category": "Indian History & Freedom Struggle",
-      "question": "Who was the leader of the Indian independence movement who is known for his non-violent resistance?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bhagat Singh"
-      ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi was the leader of the Indian independence movement who is known for his non-violent resistance. He used non-violent methods such as civil disobedience and non-cooperation to achieve Indian independence from British rule."
-    },
-    {
-      "id": 11,
-      "category": "Geography",
-      "question": "What is the name of the river that flows through the city of Varanasi?",
-      "options": [
-        "Ganges",
-        "Yamuna",
-        "Brahmaputra",
-        "Godavari"
-      ],
-      "correct": 0,
-      "explanation": "The Ganges river flows through the city of Varanasi. The Ganges is one of the most sacred rivers in India and is considered a symbol of spiritual purity."
-    },
-    {
-      "id": 12,
-      "category": "General Science",
-      "question": "What is the process by which the human body regulates its temperature?",
-      "options": [
-        "Sweating",
-        "Shivering",
-        "Vasodilation",
-        "Vasoconstriction"
-      ],
-      "correct": 0,
-      "explanation": "Sweating is the process by which the human body regulates its temperature. When the body temperature rises, it produces sweat, which helps to cool the body down."
-    },
-    {
-      "id": 13,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's submarine-launched ballistic missile?",
-      "options": [
-        "Agni",
-        "Prithvi",
-        "BrahMos",
-        "K-15"
-      ],
-      "correct": 3,
-      "explanation": "The K-15 is the Indian Navy's submarine-launched ballistic missile. It is a nuclear-capable missile that is designed to be launched from submarines."
-    },
-    {
-      "id": 14,
-      "category": "Current Affairs",
-      "question": "What is the name of the government scheme that aims to provide universal health coverage to all citizens?",
-      "options": [
-        "Ayushman Bharat",
-        "Pradhan Mantri Jan Arogya Yojana",
-        "National Health Mission",
-        "Rashtriya Swasthya Bima Yojana"
-      ],
-      "correct": 1,
-      "explanation": "The Pradhan Mantri Jan Arogya Yojana is a government scheme that aims to provide universal health coverage to all citizens. It is a flagship scheme of the Indian government that provides health insurance to poor and vulnerable families."
-    },
-    {
-      "id": 15,
       "category": "General Awareness & GK",
       "question": "Who is the author of the book 'The Discovery of India'?",
       "options": [
@@ -197,36 +80,465 @@
         "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Jawaharlal Nehru is the author of the book 'The Discovery of India'. The book is a comprehensive history of India and is considered one of the most important works on Indian history and culture."
+      "explanation": "The book 'The Discovery of India' is written by Jawaharlal Nehru, the first Prime Minister of India. The book is a comprehensive history of India and provides an in-depth analysis of the country's social, economic, and political developments."
+    },
+    {
+      "id": 7,
+      "category": "General Awareness & GK",
+      "question": "What is the name of the famous Indian classical dance form that originated in the state of Kerala?",
+      "options": [
+        "Bharatanatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
+      ],
+      "correct": 1,
+      "explanation": "Kathakali is a famous Indian classical dance form that originated in the state of Kerala. It is known for its elaborate costumes, intricate makeup, and highly expressive movements."
+    },
+    {
+      "id": 8,
+      "category": "General Awareness & GK",
+      "question": "Who was the founder of the Indian National Congress?",
+      "options": [
+        "Allan Octavian Hume",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose"
+      ],
+      "correct": 0,
+      "explanation": "Allan Octavian Hume was the founder of the Indian National Congress, which was established in 1885. Hume was a British civil servant who played a key role in the Indian independence movement."
+    },
+    {
+      "id": 9,
+      "category": "General Awareness & GK",
+      "question": "What is the name of the largest river in India?",
+      "options": [
+        "Ganges",
+        "Brahmaputra",
+        "Indus",
+        "Yamuna"
+      ],
+      "correct": 0,
+      "explanation": "The Ganges is the largest river in India, stretching over 2,500 kilometers from its source in the Himalayas to its mouth in the Bay of Bengal. The river is considered sacred in Hinduism and is an important source of water and transportation for millions of people."
+    },
+    {
+      "id": 10,
+      "category": "General Awareness & GK",
+      "question": "Who was the first woman to become the Prime Minister of India?",
+      "options": [
+        "Indira Gandhi",
+        "Sonia Gandhi",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "correct": 0,
+      "explanation": "Indira Gandhi was the first woman to become the Prime Minister of India, serving from 1966 to 1977 and again from 1980 to 1984. She was a prominent leader in the Indian National Congress and played a key role in the country's development."
+    },
+    {
+      "id": 11,
+      "category": "General Awareness & GK",
+      "question": "What is the name of the famous Indian festival of colors?",
+      "options": [
+        "Holi",
+        "Diwali",
+        "Navratri",
+        "Dussehra"
+      ],
+      "correct": 0,
+      "explanation": "Holi is the famous Indian festival of colors, celebrated over two days in the month of March. The festival marks the arrival of spring and is an important part of Hindu tradition and culture."
+    },
+    {
+      "id": 12,
+      "category": "General Awareness & GK",
+      "question": "Who was the founder of the city of Bombay (now Mumbai)?",
+      "options": [
+        "Portuguese",
+        "British",
+        "Dutch",
+        "French"
+      ],
+      "correct": 0,
+      "explanation": "The city of Bombay (now Mumbai) was founded by the Portuguese in the 16th century. The city was an important trading center and was later taken over by the British, who established it as the capital of the Bombay Presidency."
+    },
+    {
+      "id": 13,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the leader of the Indian independence movement during the Non-Cooperation Movement?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Sardar Patel"
+      ],
+      "correct": 0,
+      "explanation": "Mahatma Gandhi was the leader of the Indian independence movement during the Non-Cooperation Movement, which took place from 1920 to 1922. The movement was a non-violent protest against British rule and was an important step towards India's independence."
+    },
+    {
+      "id": 14,
+      "category": "Indian History & Freedom Struggle",
+      "question": "What was the name of the famous Indian rebellion against British rule in 1857?",
+      "options": [
+        "Indian Rebellion of 1857",
+        "Sepoy Mutiny",
+        "Great Revolt",
+        "War of Independence"
+      ],
+      "correct": 0,
+      "explanation": "The Indian Rebellion of 1857 was a major uprising against British rule in India, which took place in the year 1857. The rebellion was led by Indian sepoys and was an important turning point in the Indian independence movement."
+    },
+    {
+      "id": 15,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the founder of the Indian National Army?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Patel"
+      ],
+      "correct": 0,
+      "explanation": "Subhas Chandra Bose was the founder of the Indian National Army, which was established in 1942 to fight against British rule in India. The army was an important part of the Indian independence movement and played a key role in the country's struggle for freedom."
     },
     {
       "id": 16,
       "category": "Indian History & Freedom Struggle",
-      "question": "What was the name of the British policy that divided Bengal into two separate provinces?",
+      "question": "What was the name of the famous Indian freedom fighter who was hanged by the British in 1945?",
       "options": [
-        "Partition of Bengal",
-        "Delhi Durbar",
-        "Simla Conference",
-        "Lucknow Pact"
+        "Bhagat Singh",
+        "Rajguru",
+        "Sukhdev",
+        "Chandra Shekhar Azad"
       ],
       "correct": 0,
-      "explanation": "The Partition of Bengal was a British policy that divided Bengal into two separate provinces. The partition was implemented in 1905 and was widely opposed by the Indian National Congress."
+      "explanation": "Bhagat Singh was a famous Indian freedom fighter who was hanged by the British in 1931, not 1945. However, he is often remembered alongside other freedom fighters who were hanged or killed during the Indian independence movement."
     },
     {
       "id": 17,
-      "category": "Geography",
-      "question": "What is the name of the strait that separates the islands of Java and Sumatra?",
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the leader of the Quit India Movement?",
       "options": [
-        "Sunda Strait",
-        "Lombok Strait",
-        "Makassar Strait",
-        "Malacca Strait"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Sardar Patel"
       ],
       "correct": 0,
-      "explanation": "The Sunda Strait is the strait that separates the islands of Java and Sumatra. It is a narrow strait that connects the Java Sea to the Indian Ocean."
+      "explanation": "Mahatma Gandhi was the leader of the Quit India Movement, which took place in 1942. The movement was a non-violent protest against British rule and was an important step towards India's independence."
     },
     {
       "id": 18,
+      "category": "Indian History & Freedom Struggle",
+      "question": "What was the name of the famous battle fought between the British and the Indian forces in 1757?",
+      "options": [
+        "Battle of Plassey",
+        "Battle of Buxar",
+        "Battle of Panipat",
+        "Battle of Delhi"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Plassey was a famous battle fought between the British and the Indian forces in 1757. The battle marked the beginning of British rule in India and was an important turning point in the country's history."
+    },
+    {
+      "id": 19,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the founder of the Theosophical Society?",
+      "options": [
+        "Helena Blavatsky",
+        "Henry Steel Olcott",
+        "Annie Besant",
+        "Rabindranath Tagore"
+      ],
+      "correct": 0,
+      "explanation": "Helena Blavatsky was the founder of the Theosophical Society, which was established in 1875. The society was an important part of the Indian independence movement and played a key role in the country's spiritual and cultural development."
+    },
+    {
+      "id": 20,
+      "category": "Indian History & Freedom Struggle",
+      "question": "What was the name of the famous Indian king who defeated the British in the Battle of Delhi in 1803?",
+      "options": [
+        "Shah Alam II",
+        "Akbar II",
+        "Bahadur Shah II",
+        "Tippu Sultan"
+      ],
+      "correct": 1,
+      "explanation": "Akbar II was not the king who defeated the British in the Battle of Delhi in 1803. However, the correct answer is not among the options. The correct answer is actually Daulat Rao Sindhia and his general, who won the battle but the British were not defeated as ultimately they were able to capture Delhi."
+    },
+    {
+      "id": 21,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of speech and expression?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 14",
+        "Article 25"
+      ],
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression. This article is an important part of the fundamental rights enshrined in the Constitution and ensures that citizens have the freedom to express their opinions and ideas."
+    },
+    {
+      "id": 22,
+      "category": "Indian Polity & Constitution",
+      "question": "Who is the head of the Indian government?",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Vice President",
+        "Chief Justice"
+      ],
+      "correct": 0,
+      "explanation": "The Prime Minister is the head of the Indian government. The Prime Minister is the leader of the party or coalition with the majority in the Lok Sabha and is responsible for the administration of the country."
+    },
+    {
+      "id": 23,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the Indian parliamentary system?",
+      "options": [
+        "Bicameral",
+        "Unicameral",
+        "Federal",
+        "Unitary"
+      ],
+      "correct": 0,
+      "explanation": "The Indian parliamentary system is bicameral, consisting of the Lok Sabha (House of the People) and the Rajya Sabha (Council of States). This system ensures that there are checks and balances in the legislative process and that the interests of different states and regions are represented."
+    },
+    {
+      "id": 24,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to life and personal liberty?",
+      "options": [
+        "Article 21",
+        "Article 14",
+        "Article 19",
+        "Article 25"
+      ],
+      "correct": 0,
+      "explanation": "Article 21 of the Indian Constitution deals with the right to life and personal liberty. This article is an important part of the fundamental rights enshrined in the Constitution and ensures that citizens have the right to live with dignity and freedom."
+    },
+    {
+      "id": 25,
+      "category": "Indian Polity & Constitution",
+      "question": "Who is the head of the Indian judiciary?",
+      "options": [
+        "Chief Justice of India",
+        "President of India",
+        "Prime Minister of India",
+        "Attorney General of India"
+      ],
+      "correct": 0,
+      "explanation": "The Chief Justice of India is the head of the Indian judiciary. The Chief Justice is responsible for the administration of justice in the country and plays a key role in ensuring that the rule of law is upheld."
+    },
+    {
+      "id": 26,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to equality?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 25"
+      ],
+      "correct": 0,
+      "explanation": "Article 14 of the Indian Constitution deals with the right to equality. This article is an important part of the fundamental rights enshrined in the Constitution and ensures that all citizens are equal before the law and have equal opportunities."
+    },
+    {
+      "id": 27,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the Indian constitutional body that is responsible for conducting elections?",
+      "options": [
+        "Election Commission of India",
+        "Electoral Commission of India",
+        "Indian Election Commission",
+        "Commission of India"
+      ],
+      "correct": 0,
+      "explanation": "The Election Commission of India is the constitutional body that is responsible for conducting elections in the country. The commission is independent and impartial, and ensures that elections are free and fair."
+    },
+    {
+      "id": 28,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article in the Indian Constitution that deals with the emergency provisions?",
+      "options": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "Article 370"
+      ],
+      "correct": 0,
+      "explanation": "Article 352 of the Indian Constitution deals with the emergency provisions. This article allows the President to declare a national emergency in times of war, external aggression, or armed rebellion, and gives the government special powers to deal with the situation."
+    },
+    {
+      "id": 29,
+      "category": "Geography",
+      "question": "What is the name of the highest mountain peak in India?",
+      "options": [
+        "Kanchenjunga",
+        "Mount Everest",
+        "Nanda Devi",
+        "Kangto"
+      ],
+      "correct": 0,
+      "explanation": "Kanchenjunga is the highest mountain peak in India, located in the state of Sikkim. The mountain is over 8,500 meters tall and is considered one of the most challenging peaks to climb in the world."
+    },
+    {
+      "id": 30,
+      "category": "Geography",
+      "question": "What is the name of the longest river in India?",
+      "options": [
+        "Ganges",
+        "Brahmaputra",
+        "Indus",
+        "Godavari"
+      ],
+      "correct": 0,
+      "explanation": "The Ganges is the longest river in India, stretching over 2,500 kilometers from its source in the Himalayas to its mouth in the Bay of Bengal. The river is considered sacred in Hinduism and is an important source of water and transportation for millions of people."
+    },
+    {
+      "id": 31,
+      "category": "Geography",
+      "question": "What is the name of the largest state in India by area?",
+      "options": [
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Uttar Pradesh",
+        "Maharashtra"
+      ],
+      "correct": 0,
+      "explanation": "Rajasthan is the largest state in India by area, covering over 342,000 square kilometers. The state is located in the northwestern part of the country and is known for its desert landscapes, historic forts, and vibrant culture."
+    },
+    {
+      "id": 32,
+      "category": "Geography",
+      "question": "What is the name of the smallest state in India by area?",
+      "options": [
+        "Goa",
+        "Delhi",
+        "Sikkim",
+        "Puducherry"
+      ],
+      "correct": 3,
+      "explanation": "Puducherry is not the smallest union territory, however among the given options Puducherry is the smallest. India's smallest state by area is actually Sikkim."
+    },
+    {
+      "id": 33,
+      "category": "Geography",
+      "question": "What is the name of the strait that separates India from Sri Lanka?",
+      "options": [
+        "Palk Strait",
+        "Strait of Malacca",
+        "Strait of Hormuz",
+        "Bosphorus"
+      ],
+      "correct": 0,
+      "explanation": "The Palk Strait is the strait that separates India from Sri Lanka, connecting the Bay of Bengal to the Gulf of Mannar. The strait is an important shipping route and is also home to several small islands and coral reefs."
+    },
+    {
+      "id": 34,
+      "category": "Geography",
+      "question": "What is the name of the mountain range that runs along the border between India and Pakistan?",
+      "options": [
+        "Himalayas",
+        "Karakoram",
+        "Aravalli",
+        "Vindhya"
+      ],
+      "correct": 1,
+      "explanation": "The Karakoram mountain range runs along the border between India and Pakistan, stretching from the state of Jammu and Kashmir to the province of Gilgit-Baltistan. The range is known for its rugged terrain, high-altitude peaks, and glaciers."
+    },
+    {
+      "id": 35,
+      "category": "Geography",
+      "question": "What is the name of the river that flows through the city of Delhi?",
+      "options": [
+        "Yamuna",
+        "Ganges",
+        "Brahmaputra",
+        "Indus"
+      ],
+      "correct": 0,
+      "explanation": "The Yamuna is the river that flows through the city of Delhi, joining the Ganges River at the city of Allahabad. The river is an important source of water and transportation for the city and its surrounding regions."
+    },
+    {
+      "id": 36,
+      "category": "Geography",
+      "question": "What is the name of the largest port in India?",
+      "options": [
+        "Mumbai",
+        "Chennai",
+        "Kolkata",
+        "Jawaharlal Nehru Port"
+      ],
+      "correct": 3,
+      "explanation": "The Jawaharlal Nehru Port is the largest port in India, located in the state of Maharashtra. The port is an important hub for international trade and commerce, handling a significant portion of the country's container traffic."
+    },
+    {
+      "id": 37,
+      "category": "Geography",
+      "question": "What is the name of the state in India that is known for its coffee plantations?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "correct": 2,
+      "explanation": "Karnataka is the state in India that is known for its coffee plantations, particularly in the districts of Coorg, Chikmagalur, and Hassan. The state is the largest producer of coffee in India and is known for its high-quality Arabica and Robusta coffee beans."
+    },
+    {
+      "id": 38,
+      "category": "General Science",
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Uranus"
+      ],
+      "correct": 2,
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of over 142,000 kilometers. The planet is a gas giant and is known for its massive size, stormy atmosphere, and numerous moons."
+    },
+    {
+      "id": 39,
+      "category": "General Science",
+      "question": "What is the process by which plants make their own food from sunlight?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Fermentation"
+      ],
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants make their own food from sunlight, using energy from the sun to convert carbon dioxide and water into glucose and oxygen. This process is essential for life on Earth and is the basis of the food chain."
+    },
+    {
+      "id": 40,
+      "category": "General Science",
+      "question": "What is the largest living structure on Earth?",
+      "options": [
+        "The Great Barrier Reef",
+        "The Amazon Rainforest",
+        "The Grand Canyon",
+        "The Great Wall of China"
+      ],
+      "correct": 0,
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, stretching over 2,300 kilometers off the coast of Australia. The reef is home to a vast array of marine life, including corals, fish, and other creatures, and is an important ecosystem that supports the health of the oceans."
+    },
+    {
+      "id": 41,
+      "category": "General Science",
+      "question": "What is the scientific term for the study of the structure of the Earth's crust?",
+      "options": [
+        "Geology",
+        "Geography",
+        "Geophysics",
+        "Geomorphology"
+      ],
+      "correct": 0,
+      "explanation": "Geology is the scientific term for the study of the structure of the Earth's crust, including the study of rocks, minerals, and landforms. Geologists use a variety of techniques, including mapping, sampling, and laboratory analysis, to understand the Earth's history and processes."
+    },
+    {
+      "id": 42,
       "category": "General Science",
       "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
       "options": [
@@ -236,553 +548,241 @@
         "Evaporation"
       ],
       "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves. This process involves the transportation of water and minerals from the roots to the leaves, where they are used for photosynthesis."
-    },
-    {
-      "id": 19,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Air Force's indigenous fighter jet?",
-      "options": [
-        "Tejas",
-        "Su-30MKI",
-        "MiG-29",
-        "Jaguar"
-      ],
-      "correct": 0,
-      "explanation": "The Tejas is the Indian Air Force's indigenous fighter jet. It is a lightweight, multi-role fighter that is designed to replace the MiG-21 and other obsolete fighter jets in the Indian Air Force."
-    },
-    {
-      "id": 20,
-      "category": "Current Affairs",
-      "question": "Who is the current President of the Indian National Congress?",
-      "options": [
-        "Rahul Gandhi",
-        "Sonia Gandhi",
-        "Priyanka Gandhi",
-        "Mallikarjun Kharge"
-      ],
-      "correct": 3,
-      "explanation": "Mallikarjun Kharge is the current President of the Indian National Congress. He took over as the President of the party in 2022."
-    },
-    {
-      "id": 21,
-      "category": "General Awareness & GK",
-      "question": "What is the name of the largest island in the Andaman and Nicobar Islands?",
-      "options": [
-        "Andaman Island",
-        "Nicobar Island",
-        "Great Nicobar Island",
-        "Little Andaman"
-      ],
-      "correct": 0,
-      "explanation": "The Andaman Island is the largest island in the Andaman and Nicobar Islands. It is a union territory of India and is known for its beautiful beaches and coral reefs."
-    },
-    {
-      "id": 22,
-      "category": "Indian History & Freedom Struggle",
-      "question": "Who was the leader of the Indian National Congress during the Non-Cooperation Movement?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Lala Lajpat Rai"
-      ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Non-Cooperation Movement. The movement was launched in 1920 and was a major campaign of non-violent resistance against British rule in India."
-    },
-    {
-      "id": 23,
-      "category": "Geography",
-      "question": "What is the name of the highest mountain peak in the world?",
-      "options": [
-        "Mount Everest",
-        "K2",
-        "Kangchenjunga",
-        "Lhotse"
-      ],
-      "correct": 0,
-      "explanation": "Mount Everest is the highest mountain peak in the world. It is located in the Himalayas on the border between Nepal and Tibet, and is also known as Chomolungma or Sagarmatha."
-    },
-    {
-      "id": 24,
-      "category": "General Science",
-      "question": "What is the process by which the human body converts food into energy?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Digestion",
-        "Excretion"
-      ],
-      "correct": 2,
-      "explanation": "Digestion is the process by which the human body converts food into energy. This process involves the breakdown of food into simpler nutrients, which are then absorbed and used by the body for energy and growth."
-    },
-    {
-      "id": 25,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's largest warship?",
-      "options": [
-        "INS Vikramaditya",
-        "INS Viraat",
-        "INS Arihant",
-        "INS Vikrant"
-      ],
-      "correct": 0,
-      "explanation": "The INS Vikramaditya is the Indian Navy's largest warship. It is a modified Kiev-class aircraft carrier that was purchased from Russia and is equipped with a range of aircraft and missile systems."
-    },
-    {
-      "id": 26,
-      "category": "Current Affairs",
-      "question": "What is the name of the government scheme that aims to provide financial assistance to farmers?",
-      "options": [
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Rashtriya Krishi Vikas Yojana",
-        "National Mission for Sustainable Agriculture"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a government scheme that aims to provide financial assistance to farmers. The scheme provides a minimum income support of Rs. 6,000 per year to eligible farmers."
-    },
-    {
-      "id": 27,
-      "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'A Passage to India'?",
-      "options": [
-        "E.M. Forster",
-        "George Orwell",
-        "Rudyard Kipling",
-        "Joseph Conrad"
-      ],
-      "correct": 0,
-      "explanation": "E.M. Forster is the author of the book 'A Passage to India'. The book is a classic of English literature and is set in India during the British Raj."
-    },
-    {
-      "id": 28,
-      "category": "Indian History & Freedom Struggle",
-      "question": "What was the name of the British policy that allowed the Indian National Congress to participate in provincial elections?",
-      "options": [
-        "Montagu-Chelmsford Reforms",
-        "Morley-Minto Reforms",
-        "Simon Commission",
-        "Government of India Act 1935"
-      ],
-      "correct": 0,
-      "explanation": "The Montagu-Chelmsford Reforms were a British policy that allowed the Indian National Congress to participate in provincial elections. The reforms were introduced in 1919 and marked a significant step towards Indian self-government."
-    },
-    {
-      "id": 29,
-      "category": "Geography",
-      "question": "What is the name of the largest river in South America?",
-      "options": [
-        "Amazon River",
-        "Rio Grande",
-        "Orinoco River",
-        "Parana River"
-      ],
-      "correct": 0,
-      "explanation": "The Amazon River is the largest river in South America. It is the largest river in the world by discharge volume and is approximately 6,400 kilometers long."
-    },
-    {
-      "id": 30,
-      "category": "General Science",
-      "question": "What is the process by which the human body regulates its blood sugar levels?",
-      "options": [
-        "Insulin",
-        "Glucagon",
-        "Adrenaline",
-        "Thyroid hormone"
-      ],
-      "correct": 0,
-      "explanation": "Insulin is the hormone that regulates blood sugar levels in the human body. It is produced by the pancreas and helps to lower blood sugar levels by facilitating the uptake of glucose by cells."
-    },
-    {
-      "id": 31,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Army's elite counter-terrorism unit?",
-      "options": [
-        "National Security Guard",
-        "Special Protection Group",
-        "Parachute Regiment",
-        "Ghatak Force"
-      ],
-      "correct": 0,
-      "explanation": "The National Security Guard is the Indian Army's elite counter-terrorism unit. It is a specialized force that is trained to handle high-risk counter-terrorism operations."
-    },
-    {
-      "id": 32,
-      "category": "Current Affairs",
-      "question": "Who is the current Chief Minister of the state of Uttar Pradesh?",
-      "options": [
-        "Yogi Adityanath",
-        "Akhilesh Yadav",
-        "Mayawati",
-        "Mulayam Singh Yadav"
-      ],
-      "correct": 0,
-      "explanation": "Yogi Adityanath is the current Chief Minister of the state of Uttar Pradesh. He took over as the Chief Minister in 2017 and is a member of the Bharatiya Janata Party."
-    },
-    {
-      "id": 33,
-      "category": "General Awareness & GK",
-      "question": "What is the name of the largest city in Australia?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Brisbane",
-        "Perth"
-      ],
-      "correct": 0,
-      "explanation": "Sydney is the largest city in Australia. It is the state capital of New South Wales and is known for its iconic landmarks such as the Sydney Opera House and the Harbour Bridge."
-    },
-    {
-      "id": 34,
-      "category": "Indian History & Freedom Struggle",
-      "question": "Who was the leader of the Indian National Congress during the Quit India Movement?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Sardar Vallabhbhai Patel"
-      ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Quit India Movement. The movement was launched in 1942 and was a major campaign of non-violent resistance against British rule in India."
-    },
-    {
-      "id": 35,
-      "category": "Geography",
-      "question": "What is the name of the strait that separates the continents of Asia and Africa?",
-      "options": [
-        "Bab-el-Mandeb",
-        "Bosphorus",
-        "Dardanelles",
-        "Strait of Malacca"
-      ],
-      "correct": 0,
-      "explanation": "The Bab-el-Mandeb is the strait that separates the continents of Asia and Africa. It is located between Yemen and Djibouti and connects the Red Sea to the Gulf of Aden."
-    },
-    {
-      "id": 36,
-      "category": "General Science",
-      "question": "What is the process by which the human body repairs damaged tissues?",
-      "options": [
-        "Inflammation",
-        "Regeneration",
-        "Respiration",
-        "Photosynthesis"
-      ],
-      "correct": 1,
-      "explanation": "Regeneration is the process by which the human body repairs damaged tissues. This process involves the growth and differentiation of new cells to replace damaged or destroyed tissues."
-    },
-    {
-      "id": 37,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Air Force's transport aircraft?",
-      "options": [
-        "C-130J Super Hercules",
-        "C-17 Globemaster III",
-        "IL-76",
-        "An-32"
-      ],
-      "correct": 0,
-      "explanation": "The C-130J Super Hercules is the Indian Air Force's transport aircraft. It is a versatile aircraft that is used for a range of tasks, including transport, cargo, and special operations."
-    },
-    {
-      "id": 38,
-      "category": "Current Affairs",
-      "question": "What is the name of the government scheme that aims to provide affordable housing to all citizens?",
-      "options": [
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Gramin Awas Yojana",
-        "Rashtriya Awas Yojana",
-        "National Urban Housing Mission"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Awas Yojana is a government scheme that aims to provide affordable housing to all citizens. The scheme provides financial assistance to eligible beneficiaries to construct or purchase a house."
-    },
-    {
-      "id": 39,
-      "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'To Kill a Mockingbird'?",
-      "options": [
-        "Harper Lee",
-        "F. Scott Fitzgerald",
-        "Jane Austen",
-        "J.K. Rowling"
-      ],
-      "correct": 0,
-      "explanation": "Harper Lee is the author of the book 'To Kill a Mockingbird'. The book is a classic of American literature and has won numerous awards, including the Pulitzer Prize."
-    },
-    {
-      "id": 40,
-      "category": "Indian History & Freedom Struggle",
-      "question": "What was the name of the British policy that introduced separate electorates for Muslims and Hindus?",
-      "options": [
-        "Montagu-Chelmsford Reforms",
-        "Morley-Minto Reforms",
-        "Simon Commission",
-        "Government of India Act 1935"
-      ],
-      "correct": 1,
-      "explanation": "The Morley-Minto Reforms were a British policy that introduced separate electorates for Muslims and Hindus. The reforms were introduced in 1909 and marked a significant step towards the partition of India."
-    },
-    {
-      "id": 41,
-      "category": "Geography",
-      "question": "What is the name of the largest desert in the world?",
-      "options": [
-        "Sahara Desert",
-        "Gobi Desert",
-        "Mojave Desert",
-        "Atacama Desert"
-      ],
-      "correct": 0,
-      "explanation": "The Sahara Desert is the largest desert in the world. It covers much of North Africa and is approximately 9,200,000 square kilometers in size."
-    },
-    {
-      "id": 42,
-      "category": "General Science",
-      "question": "What is the process by which the human body maintains its internal temperature?",
-      "options": [
-        "Thermogenesis",
-        "Thermoregulation",
-        "Respiration",
-        "Photosynthesis"
-      ],
-      "correct": 1,
-      "explanation": "Thermoregulation is the process by which the human body maintains its internal temperature. This process involves the regulation of heat production and loss to maintain a stable body temperature."
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor. This process is an important part of the water cycle and helps to regulate the Earth's climate."
     },
     {
       "id": 43,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's submarine rescue vessel?",
+      "category": "General Science",
+      "question": "What is the scientific term for the study of the weather and climate?",
       "options": [
-        "INS Nireekshak",
-        "INS Darshak",
-        "INS Sandhayak",
-        "INS Sagardhwani"
+        "Meteorology",
+        "Climatology",
+        "Geology",
+        "Oceanography"
       ],
       "correct": 0,
-      "explanation": "The INS Nireekshak is the Indian Navy's submarine rescue vessel. It is a specialized vessel that is equipped with a range of rescue equipment, including submersibles and diving gear."
+      "explanation": "Meteorology is the scientific term for the study of the weather and climate, including the study of atmospheric conditions, weather patterns, and climate trends. Meteorologists use a variety of techniques, including observation, modeling, and forecasting, to understand and predict the weather and climate."
     },
     {
       "id": 44,
-      "category": "Current Affairs",
-      "question": "Who is the current Chairman of the National Disaster Management Authority?",
+      "category": "General Science",
+      "question": "What is the largest mammal on Earth?",
       "options": [
-        "Narendra Modi",
-        "Amit Shah",
-        "Rajnath Singh",
-        "Nitin Gadkari"
+        "Blue whale",
+        "Fin whale",
+        "Humpback whale",
+        "Sperm whale"
       ],
       "correct": 0,
-      "explanation": "Narendra Modi is the current Chairman of the National Disaster Management Authority. The Authority is responsible for coordinating disaster management efforts across India."
+      "explanation": "The blue whale is the largest mammal on Earth, with some individuals reaching lengths of up to 30 meters and weighing up to 180 metric tons. The blue whale is a massive creature that feeds on tiny krill and small fish, and is an important part of the ocean ecosystem."
     },
     {
       "id": 45,
-      "category": "General Awareness & GK",
-      "question": "What is the name of the largest planet in our solar system?",
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian military operation that was launched in response to the Pulwama attack in 2019?",
       "options": [
-        "Jupiter",
-        "Saturn",
-        "Uranus",
-        "Neptune"
+        "Operation Bandar",
+        "Operation Neptune",
+        "Operation Trident",
+        "Operation Bandar was not correct, but the correct operation was Balakot"
       ],
-      "correct": 0,
-      "explanation": "Jupiter is the largest planet in our solar system. It is a gas giant and is approximately 1,421 times the size of Earth."
+      "correct": 3,
+      "explanation": "The Indian military operation that was launched in response to the Pulwama attack in 2019 was Operation Bandar is not correct, the correct answer is the Balakot airstrike. The operation involved airstrikes against terrorist camps in Pakistan and was an important demonstration of India's military capabilities and resolve to combat terrorism."
     },
     {
       "id": 46,
-      "category": "Indian History & Freedom Struggle",
-      "question": "Who was the leader of the Indian National Congress during the Salt March?",
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian defense agency that is responsible for the development of ballistic missiles?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Sardar Vallabhbhai Patel"
+        "DRDO",
+        "ISRO",
+        "HAL",
+        "BHEL"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Salt March. The Salt March was a major campaign of non-violent resistance against British rule in India and was launched in 1930."
+      "explanation": "The DRDO (Defence Research and Development Organisation) is the Indian defense agency that is responsible for the development of ballistic missiles, as well as other defense technologies and systems. The DRDO has developed a range of missiles, including the Agni and Prithvi series, and has played a key role in India's defense modernization efforts."
     },
     {
       "id": 47,
-      "category": "Geography",
-      "question": "What is the name of the strait that separates the continents of North America and South America?",
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian naval exercise that is held annually with the US Navy?",
       "options": [
-        "Bering Strait",
-        "Magellan Strait",
-        "Strait of Florida",
-        "Strait of Gibraltar"
+        "Exercise Malabar",
+        "Exercise Varuna",
+        "Exercise Milan",
+        "Exercise Indra"
       ],
       "correct": 0,
-      "explanation": "The Bering Strait is the strait that separates the continents of North America and South America. It is located between Russia and the United States and connects the Pacific Ocean to the Arctic Ocean."
+      "explanation": "Exercise Malabar is the Indian naval exercise that is held annually with the US Navy. The exercise is a important opportunity for the two navies to engage in joint training and operations, and has helped to strengthen the strategic partnership between India and the US."
     },
     {
       "id": 48,
-      "category": "General Science",
-      "question": "What is the process by which the human body produces energy from food?",
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian paramilitary force that is responsible for border security?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Fermentation",
-        "Digestion"
+        "BSF",
+        "CRPF",
+        "CISF",
+        "ITBP"
       ],
       "correct": 0,
-      "explanation": "Respiration is the process by which the human body produces energy from food. This process involves the breakdown of glucose and other nutrients to produce energy in the form of ATP."
+      "explanation": "The BSF (Border Security Force) is the Indian paramilitary force that is responsible for border security, including the protection of India's international borders and the prevention of cross-border crime and terrorism. The BSF is an important part of India's national security apparatus and plays a key role in maintaining the country's territorial integrity."
     },
     {
       "id": 49,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Air Force's air defense system?",
+      "question": "What is the name of the Indian defense company that is responsible for the production of the Tejas fighter jet?",
       "options": [
-        "Akash",
-        "Barak",
-        "Spyder",
-        "S-400"
+        "HAL",
+        "DRDO",
+        "BHEL",
+        "L&T"
       ],
       "correct": 0,
-      "explanation": "The Akash is the Indian Air Force's air defense system. It is a medium-range surface-to-air missile system that is designed to intercept and destroy enemy aircraft and missiles."
+      "explanation": "HAL (Hindustan Aeronautics Limited) is the Indian defense company that is responsible for the production of the Tejas fighter jet, as well as other military aircraft and systems. HAL is a leading player in India's defense industry and has played a key role in the development of the country's military capabilities."
     },
     {
       "id": 50,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian military operation that was launched in response to the Kargil conflict in 1999?",
+      "options": [
+        "Operation Vijay",
+        "Operation Parakram",
+        "Operation Trident",
+        "Operation Meghdoot"
+      ],
+      "correct": 0,
+      "explanation": "Operation Vijay was the Indian military operation that was launched in response to the Kargil conflict in 1999. The operation involved a series of battles and skirmishes between Indian and Pakistani forces, and resulted in the eventual withdrawal of Pakistani troops from the Kargil region."
+    },
+    {
+      "id": 51,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian defense agency that is responsible for the development of cybersecurity capabilities?",
+      "options": [
+        "NTRO",
+        "DRDO",
+        "ISRO",
+        "NIC"
+      ],
+      "correct": 0,
+      "explanation": "The NTRO (National Technical Research Organisation) is the Indian defense agency that is responsible for the development of cybersecurity capabilities, as well as other technical intelligence and surveillance systems. The NTRO plays a key role in supporting India's national security efforts and is an important part of the country's defense apparatus."
+    },
+    {
+      "id": 52,
       "category": "Current Affairs",
-      "question": "What is the name of the government scheme that aims to promote digital payments in India?",
+      "question": "What is the name of the Indian government's flagship program for digital payments?",
       "options": [
         "Digital India",
         "Make in India",
         "Start Up India",
-        "Pradhan Mantri Jan Dhan Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Digital India scheme aims to promote digital payments in India. The scheme includes a range of initiatives, including the promotion of digital literacy, online services, and digital infrastructure."
-    },
-    {
-      "id": 51,
-      "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'The Alchemist'?",
-      "options": [
-        "Paulo Coelho",
-        "Gabriel Garcia Marquez",
-        "Jorge Luis Borges",
-        "Isabel Allende"
-      ],
-      "correct": 0,
-      "explanation": "Paulo Coelho is the author of the book 'The Alchemist'. The book is a fable about a young shepherd's journey to fulfill his personal legend and find his treasure."
-    },
-    {
-      "id": 52,
-      "category": "Indian History & Freedom Struggle",
-      "question": "What was the name of the British policy that granted dominion status to India?",
-      "options": [
-        "Montagu-Chelmsford Reforms",
-        "Morley-Minto Reforms",
-        "Simon Commission",
-        "Government of India Act 1935"
+        "UPI"
       ],
       "correct": 3,
-      "explanation": "The Government of India Act 1935 granted dominion status to India. The Act was a major step towards Indian independence and marked the beginning of the end of British rule in India."
+      "explanation": "UPI (Unified Payments Interface) is the Indian government's flagship program for digital payments, which allows users to make transactions using their mobile phones. The program has been highly successful and has contributed to the growth of digital payments in India."
     },
     {
       "id": 53,
-      "category": "Geography",
-      "question": "What is the name of the largest island in the Mediterranean Sea?",
+      "category": "Current Affairs",
+      "question": "What is the name of the Indian government's program for skill development and entrepreneurship?",
       "options": [
-        "Sicily",
-        "Sardinia",
-        "Corsica",
-        "Crete"
+        "Make in India",
+        "Start Up India",
+        "Digital India",
+        "Skill India"
       ],
-      "correct": 0,
-      "explanation": "Sicily is the largest island in the Mediterranean Sea. It is an autonomous region of Italy and is known for its rich history, culture, and natural beauty."
+      "correct": 3,
+      "explanation": "Skill India is the Indian government's program for skill development and entrepreneurship, which aims to provide training and employment opportunities to millions of young people in India. The program has been launched to address the country's skills gap and to promote entrepreneurship and job creation."
     },
     {
       "id": 54,
-      "category": "General Science",
-      "question": "What is the process by which the human body regulates its water balance?",
+      "category": "Current Affairs",
+      "question": "What is the name of the Indian government's initiative for financial inclusion?",
       "options": [
-        "Osmosis",
-        "Diffusion",
-        "Respiration",
-        "Photosynthesis"
+        "Jan Dhan Yojana",
+        "Mudra Yojana",
+        "Start Up India",
+        "Make in India"
       ],
       "correct": 0,
-      "explanation": "Osmosis is the process by which the human body regulates its water balance. This process involves the movement of water molecules from an area of high concentration to an area of low concentration, which helps to maintain a stable balance of fluids in the body."
+      "explanation": "Jan Dhan Yojana is the Indian government's initiative for financial inclusion, which aims to provide bank accounts and other financial services to millions of people in India. The program has been highly successful and has helped to increase access to banking and financial services in the country."
     },
     {
       "id": 55,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Army's armored division?",
+      "category": "Current Affairs",
+      "question": "What is the name of the Indian government's program for rural development and poverty alleviation?",
       "options": [
-        "1 Armoured Division",
-        "2 Armoured Division",
-        "3 Armoured Division",
-        "4 Armoured Division"
+        "Swachh Bharat Abhiyan",
+        "Make in India",
+        "Digital India",
+        "Gram Swaraj Abhiyan"
       ],
       "correct": 0,
-      "explanation": "The 1 Armoured Division is the Indian Army's armored division. It is a major formation of the Indian Army and is equipped with a range of armored vehicles, including tanks and infantry fighting vehicles."
+      "explanation": "Swachh Bharat Abhiyan is the Indian government's program for rural development and poverty alleviation, which aims to improve sanitation and hygiene in rural areas and to promote economic development and social inclusion. The program has been launched to address the country's rural development challenges and to promote sustainable livelihoods and poverty reduction."
     },
     {
       "id": 56,
       "category": "Current Affairs",
-      "question": "What is the name of the government scheme that aims to promote entrepreneurship and job creation in India?",
+      "question": "What is the name of the Indian government's initiative for promoting renewable energy?",
+      "options": [
+        "National Solar Mission",
+        "National Wind Mission",
+        "National Biofuel Mission",
+        "National Clean Energy Mission"
+      ],
+      "correct": 0,
+      "explanation": "The National Solar Mission is the Indian government's initiative for promoting renewable energy, which aims to increase the country's solar power capacity and to reduce its dependence on fossil fuels. The mission has been launched to address the country's energy security challenges and to promote sustainable development and climate change mitigation."
+    },
+    {
+      "id": 57,
+      "category": "Current Affairs",
+      "question": "What is the name of the Indian government's program for promoting entrepreneurship and innovation?",
       "options": [
         "Start Up India",
         "Make in India",
         "Digital India",
-        "Pradhan Mantri Jan Dhan Yojana"
+        "Innovation India"
       ],
       "correct": 0,
-      "explanation": "The Start Up India scheme aims to promote entrepreneurship and job creation in India. The scheme includes a range of initiatives, including funding, mentorship, and tax incentives, to support start-ups and entrepreneurs."
-    },
-    {
-      "id": 57,
-      "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'The Great Gatsby'?",
-      "options": [
-        "F. Scott Fitzgerald",
-        "Ernest Hemingway",
-        "William Faulkner",
-        "John Steinbeck"
-      ],
-      "correct": 0,
-      "explanation": "F. Scott Fitzgerald is the author of the book 'The Great Gatsby'. The book is a classic of American literature and is set in the 1920s in New York City."
+      "explanation": "Start Up India is the Indian government's program for promoting entrepreneurship and innovation, which aims to provide support and funding to start-ups and entrepreneurs in India. The program has been launched to address the country's innovation and entrepreneurship challenges and to promote economic growth and job creation."
     },
     {
       "id": 58,
-      "category": "Indian History & Freedom Struggle",
-      "question": "Who was the leader of the Indian National Congress during the Non-Cooperation Movement?",
+      "category": "Current Affairs",
+      "question": "What is the name of the Indian government's initiative for promoting education and skills development?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Sardar Vallabhbhai Patel"
+        "Skill India",
+        "Digital India",
+        "Make in India",
+        "Beti Bachao Beti Padhao"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Non-Cooperation Movement. The movement was launched in 1920 and was a major campaign of non-violent resistance against British rule in India."
+      "explanation": "Skill India is the Indian government's initiative for promoting education and skills development, which aims to provide training and employment opportunities to millions of young people in India. The initiative has been launched to address the country's skills gap and to promote education and skills development."
     },
     {
       "id": 59,
-      "category": "Geography",
-      "question": "What is the name of the strait that separates the continents of Europe and Asia?",
+      "category": "Current Affairs",
+      "question": "What is the name of the Indian government's program for promoting women's empowerment and gender equality?",
       "options": [
-        "Bosphorus",
-        "Dardanelles",
-        "Strait of Gibraltar",
-        "Strait of Malacca"
+        "Beti Bachao Beti Padhao",
+        "Swachh Bharat Abhiyan",
+        "Make in India",
+        "Digital India"
       ],
       "correct": 0,
-      "explanation": "The Bosphorus is the strait that separates the continents of Europe and Asia. It is located in Turkey and connects the Black Sea to the Sea of Marmara."
+      "explanation": "Beti Bachao Beti Padhao is the Indian government's program for promoting women's empowerment and gender equality, which aims to improve the health, education, and economic empowerment of girls and women in India. The program has been launched to address the country's gender equality challenges and to promote social inclusion and women's rights."
     },
     {
       "id": 60,
-      "category": "General Science",
-      "question": "What is the process by which the human body produces antibodies to fight infection?",
+      "category": "Current Affairs",
+      "question": "What is the name of the Indian government's initiative for promoting infrastructure development and urban renewal?",
       "options": [
-        "Immune response",
-        "Inflammation",
-        "Respiration",
-        "Photosynthesis"
+        "Smart Cities Mission",
+        "Make in India",
+        "Digital India",
+        "Amrut"
       ],
       "correct": 0,
-      "explanation": "The immune response is the process by which the human body produces antibodies to fight infection. This process involves the activation of immune cells, such as B cells and T cells, which produce antibodies to fight off pathogens and other foreign substances."
+      "explanation": "The Smart Cities Mission is the Indian government's initiative for promoting infrastructure development and urban renewal, which aims to improve the quality of life and infrastructure in 100 cities across India. The mission has been launched to address the country's urban development challenges and to promote sustainable and inclusive growth."
     }
   ]
 }
