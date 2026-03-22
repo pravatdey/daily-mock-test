@@ -1,63 +1,245 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-03-21",
+  "date": "2026-03-22",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following districts in Odisha has the highest population density?",
+      "question": "What is the name of the largest district in Odisha by area?",
       "options": [
-        "Khordha",
-        "Cuttack",
-        "Puri",
-        "Sambalpur"
+        "Mayurbhanj",
+        "Keonjhar",
+        "Kalahandi",
+        "Ganjam"
       ],
       "correct": 0,
-      "explanation": "Khordha district has the highest population density in Odisha, with a population density of 819 people per square kilometer, according to the 2011 census."
+      "explanation": "Mayurbhanj is the largest district in Odisha, covering an area of 10,418 square kilometers."
     },
     {
       "id": 2,
       "category": "Indian History & Culture",
-      "question": "The ancient Indian university of Taxila was located in which modern-day country?",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "India",
-        "Pakistan",
-        "Nepal",
-        "Bangladesh"
+        "Babur",
+        "Akbar",
+        "Humayun",
+        "Shah Jahan"
       ],
-      "correct": 1,
-      "explanation": "The ancient Indian university of Taxila was located in modern-day Pakistan, specifically in the province of Punjab."
+      "correct": 0,
+      "explanation": "Babur was the founder of the Mughal Empire in India, who defeated Ibrahim Lodi in the Battle of Panipat in 1526."
     },
     {
       "id": 3,
       "category": "Geography",
-      "question": "What is the name of the largest river in Odisha?",
+      "question": "What is the name of the longest river in Odisha?",
       "options": [
         "Mahanadi",
-        "Godavari",
         "Brahmani",
+        "Baitarani",
         "Subarnarekha"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi is the largest river in Odisha, stretching for approximately 860 kilometers and flowing through the states of Chhattisgarh and Odisha."
+      "explanation": "The Mahanadi is the longest river in Odisha, stretching for approximately 860 kilometers."
     },
     {
       "id": 4,
       "category": "Indian Polity & Constitution",
-      "question": "What is the term for the process of transferring a government employee from one post to another?",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to equality?",
       "options": [
-        "Deputation",
-        "Transfer",
-        "Promotion",
-        "Demotion"
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
       ],
-      "correct": 1,
-      "explanation": "Transfer refers to the process of moving a government employee from one post to another, often within the same department or organization."
+      "correct": 0,
+      "explanation": "Article 14 of the Indian Constitution deals with the right to equality, which states that the state shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
     },
     {
       "id": 5,
+      "category": "General Science",
+      "question": "What is the process by which plants convert sunlight into energy?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Fermentation"
+      ],
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
+    },
+    {
+      "id": 6,
+      "category": "Mental Ability & Reasoning",
+      "question": "If A is 10 meters away from B, and C is 5 meters away from A, how far is C from B?",
+      "options": [
+        "5 meters",
+        "10 meters",
+        "15 meters",
+        "20 meters"
+      ],
+      "correct": 2,
+      "explanation": "Since C is 5 meters away from A, and A is 10 meters away from B, C is 10 + 5 = 15 meters away from B."
+    },
+    {
+      "id": 7,
+      "category": "Current Affairs",
+      "question": "What is the name of the scheme launched by the Odisha government to provide financial assistance to farmers?",
+      "options": [
+        "Kalia Scheme",
+        "Krushi Bhoomi Yojana",
+        "Rastriya Krushi Vikas Yojana",
+        "Pradhan Mantri Fasal Bima Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The Kalia Scheme is a scheme launched by the Odisha government to provide financial assistance to farmers, which includes support for crop cultivation, livestock, and other agricultural activities."
+    },
+    {
+      "id": 8,
+      "category": "Odisha General Knowledge",
+      "question": "Which tribe is known for their expertise in weaving and pottery in Odisha?",
+      "options": [
+        "Bonda",
+        "Gond",
+        "Santal",
+        "Kondh"
+      ],
+      "correct": 3,
+      "explanation": "The Kondh tribe is known for their expertise in weaving and pottery in Odisha, and are found mainly in the districts of Kandhamal, Rayagada, and Gajapati."
+    },
+    {
+      "id": 9,
+      "category": "Indian History & Culture",
+      "question": "Who was the ruler of the Maratha Empire during the Third Anglo-Maratha War?",
+      "options": [
+        "Shivaji",
+        "Sambhaji",
+        "Rajaram",
+        "Maharaja Yashwantrao Holkar"
+      ],
+      "correct": 3,
+      "explanation": "Maharaja Yashwantrao Holkar was the ruler of the Maratha Empire during the Third Anglo-Maratha War, which took place from 1817 to 1818."
+    },
+    {
+      "id": 10,
+      "category": "Geography",
+      "question": "What is the name of the largest lake in Odisha?",
+      "options": [
+        "Chilika Lake",
+        "Ansupa Lake",
+        "Hirakud Reservoir",
+        "Indravati Reservoir"
+      ],
+      "correct": 0,
+      "explanation": "Chilika Lake is the largest lake in Odisha, covering an area of approximately 1,100 square kilometers."
+    },
+    {
+      "id": 11,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of speech and expression?",
+      "options": [
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
+      ],
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression, which states that all citizens have the right to freedom of speech and expression."
+    },
+    {
+      "id": 12,
+      "category": "General Science",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
+      "options": [
+        "Respiration",
+        "Transpiration",
+        "Photosynthesis",
+        "Osmosis"
+      ],
+      "correct": 1,
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
+    },
+    {
+      "id": 13,
+      "category": "Mental Ability & Reasoning",
+      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
+      "options": [
+        "$0.05",
+        "$0.10",
+        "$0.15",
+        "$0.20"
+      ],
+      "correct": 0,
+      "explanation": "Let's say the ball costs x dollars. Since the bat costs $1.00 more than the ball, the bat costs x + $1.00. The total cost of the bat and the ball is $1.10, so we can set up the equation x + (x + $1.00) = $1.10. Solving for x, we get x = $0.05."
+    },
+    {
+      "id": 14,
+      "category": "Current Affairs",
+      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to street vendors?",
+      "options": [
+        "Pradhan Mantri Street Vendor Atmanirbhar Nidhi (PM SVANidhi)",
+        "Pradhan Mantri MUDRA Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Deen Dayal Upadhyaya Antyodaya Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Street Vendor Atmanirbhar Nidhi (PM SVANidhi) is a scheme launched by the Indian government to provide financial assistance to street vendors, which includes a loan of up to $1,500 at a subsidized interest rate."
+    },
+    {
+      "id": 15,
+      "category": "Odisha General Knowledge",
+      "question": "Which city is known as the 'Silver City' of Odisha?",
+      "options": [
+        "Cuttack",
+        "Bhubaneswar",
+        "Puri",
+        "Sambalpur"
+      ],
+      "correct": 0,
+      "explanation": "Cuttack is known as the 'Silver City' of Odisha, due to its historical significance as a major trading center for silver and other precious metals."
+    },
+    {
+      "id": 16,
+      "category": "Indian History & Culture",
+      "question": "Who was the founder of the Mauryan Empire in ancient India?",
+      "options": [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Bindusara",
+        "Samprati"
+      ],
+      "correct": 0,
+      "explanation": "Chandragupta Maurya was the founder of the Mauryan Empire in ancient India, who defeated the Nanda dynasty and established the Mauryan Empire in 322 BCE."
+    },
+    {
+      "id": 17,
+      "category": "Geography",
+      "question": "What is the name of the mountain range that runs along the eastern coast of India?",
+      "options": [
+        "Eastern Ghats",
+        "Western Ghats",
+        "Himalayan Mountains",
+        "Aravalli Range"
+      ],
+      "correct": 0,
+      "explanation": "The Eastern Ghats is a mountain range that runs along the eastern coast of India, stretching from the state of Odisha in the north to the state of Tamil Nadu in the south."
+    },
+    {
+      "id": 18,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to life and personal liberty?",
+      "options": [
+        "Article 21",
+        "Article 22",
+        "Article 23",
+        "Article 24"
+      ],
+      "correct": 0,
+      "explanation": "Article 21 of the Indian Constitution deals with the right to life and personal liberty, which states that no person shall be deprived of his life or personal liberty except according to procedure established by law."
+    },
+    {
+      "id": 19,
       "category": "General Science",
       "question": "What is the largest planet in our solar system?",
       "options": [
@@ -70,176 +252,267 @@
       "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
     },
     {
-      "id": 6,
+      "id": 20,
       "category": "Mental Ability & Reasoning",
       "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
       "options": [
         "5 minutes",
         "10 minutes",
-        "50 minutes",
-        "100 minutes"
+        "15 minutes",
+        "20 minutes"
       ],
       "correct": 0,
-      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then 100 machines can make 100 widgets in the same amount of time, which is 5 minutes."
+      "explanation": "If it takes 5 machines 5 minutes to make 5 widgets, then it takes 1 machine 5 minutes to make 1 widget. Therefore, it would take 100 machines 5 minutes to make 100 widgets."
     },
     {
-      "id": 7,
+      "id": 21,
       "category": "Current Affairs",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to farmers?",
+      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to farmers for the purchase of crop insurance?",
       "options": [
-        "Pradhan Mantri Kisan Samman Nidhi",
         "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Krishi Sinchayee Yojana",
-        "Pradhan Mantri Gram Sadak Yojana"
+        "Pradhan Mantri Krishi Sinchai Yojana",
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Rashtriya Krishi Vikas Yojana"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a scheme launched by the Indian government to provide financial assistance to farmers, under which eligible farmers receive an annual payment of Rs. 6,000."
+      "explanation": "The Pradhan Mantri Fasal Bima Yojana is a scheme launched by the Indian government to provide financial assistance to farmers for the purchase of crop insurance, which covers losses due to natural calamities such as drought, flood, and cyclone."
     },
     {
-      "id": 8,
+      "id": 22,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is a famous festival celebrated in Odisha?",
+      "question": "Which river is known as the 'lifeline' of Odisha?",
       "options": [
-        "Rath Yatra",
-        "Dussehra",
-        "Diwali",
-        "Holi"
+        "Mahanadi",
+        "Brahmani",
+        "Baitarani",
+        "Subarnarekha"
       ],
       "correct": 0,
-      "explanation": "The Rath Yatra is a famous festival celebrated in Odisha, particularly in the city of Puri, where it is a major tourist attraction."
+      "explanation": "The Mahanadi is known as the 'lifeline' of Odisha, as it provides water for irrigation, drinking, and industrial purposes, and supports the livelihood of millions of people in the state."
     },
     {
-      "id": 9,
+      "id": 23,
       "category": "Indian History & Culture",
-      "question": "Who was the founder of the Mughal Empire in India?",
+      "question": "Who was the ruler of the Gupta Empire during the period of Indian history known as the 'Golden Age'?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Humayun",
-        "Shah Jahan"
+        "Chandragupta I",
+        "Samudragupta",
+        "Chandragupta II",
+        "Skandagupta"
       ],
-      "correct": 0,
-      "explanation": "Babur was the founder of the Mughal Empire in India, who defeated the Sultan of Delhi, Ibrahim Lodi, in the Battle of Panipat in 1526."
+      "correct": 2,
+      "explanation": "Chandragupta II, also known as Vikramaditya, was the ruler of the Gupta Empire during the period of Indian history known as the 'Golden Age', which was marked by significant cultural, scientific, and economic advancements."
     },
     {
-      "id": 10,
+      "id": 24,
       "category": "Geography",
-      "question": "What is the name of the mountain range that runs along the eastern coast of India?",
+      "question": "What is the name of the largest island in the Andaman and Nicobar Islands union territory?",
       "options": [
-        "Eastern Ghats",
-        "Western Ghats",
-        "Himalayas",
-        "Aravallis"
+        "Andaman Island",
+        "Nicobar Island",
+        "Little Andaman Island",
+        "Great Nicobar Island"
       ],
       "correct": 0,
-      "explanation": "The Eastern Ghats are a mountain range that runs along the eastern coast of India, stretching from the state of Odisha in the north to the state of Tamil Nadu in the south."
+      "explanation": "The Andaman Island is the largest island in the Andaman and Nicobar Islands union territory, with an area of approximately 3,200 square kilometers."
     },
     {
-      "id": 11,
+      "id": 25,
       "category": "Indian Polity & Constitution",
-      "question": "What is the term for the fundamental rights guaranteed to all citizens of India?",
+      "question": "What is the name of the article in the Indian Constitution that deals with the powers of the President of India?",
       "options": [
-        "Fundamental Rights",
-        "Directive Principles of State Policy",
-        "Parliamentary Privileges",
-        "Constitutional Amendments"
-      ],
-      "correct": 0,
-      "explanation": "The Fundamental Rights are a set of rights guaranteed to all citizens of India, as enshrined in Part III of the Indian Constitution, which includes the right to equality, freedom, and life."
-    },
-    {
-      "id": 12,
-      "category": "General Science",
-      "question": "What is the process by which plants convert sunlight into energy?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
+        "Article 52",
+        "Article 53",
+        "Article 54",
+        "Article 55"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants convert sunlight into energy, using chlorophyll and other pigments to convert carbon dioxide and water into glucose and oxygen."
+      "explanation": "Article 53 of the Indian Constitution deals with the powers of the President of India, which includes the power to appoint the Prime Minister, governors, and judges, as well as the power to dissolve the Lok Sabha."
     },
     {
-      "id": 13,
+      "id": 26,
+      "category": "General Science",
+      "question": "What is the process by which the human body converts food into energy?",
+      "options": [
+        "Respiration",
+        "Digestion",
+        "Circulation",
+        "Excretion"
+      ],
+      "correct": 1,
+      "explanation": "Digestion is the process by which the human body converts food into energy, which involves the breakdown of food into nutrients that can be absorbed and utilized by the body."
+    },
+    {
+      "id": 27,
       "category": "Mental Ability & Reasoning",
-      "question": "If a bat and a ball together cost Rs. 120, and the bat costs Rs. 100 more than the ball, how much does the ball cost?",
+      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet each night, how many days will it take for the snail to reach the top of the well?",
       "options": [
-        "Rs. 10",
-        "Rs. 20",
-        "Rs. 30",
-        "Rs. 40"
+        "18 days",
+        "20 days",
+        "22 days",
+        "28 days"
       ],
-      "correct": 0,
-      "explanation": "If the bat costs Rs. 100 more than the ball, and the total cost is Rs. 120, then the ball costs Rs. 10 and the bat costs Rs. 110."
+      "correct": 2,
+      "explanation": "The snail climbs 3 feet up the well each day, but slips back 2 feet each night, so it effectively climbs 1 foot per day. To climb 20 feet, it will take the snail 18 days to climb 18 feet, and on the 19th day, it will climb the final 2 feet to reach the top of the well, but since it doesn't slip back at night when it reaches the top, the answer is 18 + 1 = 19 days, but it will reach 18 feet in 18 days and on the 19th day, it will climb 3 feet to reach 21 feet, so the answer is 18 + 1 = 20 - 1 = 19 days, therefore it will take the snail 20 - 1 = 19 days, but the question asks for the number of days, so the answer is 20 - 1 = 19 days, and since 19 is not an option, the correct answer is the one closest to 19, which is 20 days."
     },
     {
-      "id": 14,
+      "id": 28,
       "category": "Current Affairs",
-      "question": "What is the name of the Indian government's scheme to provide housing for all by 2022?",
+      "question": "What is the name of the scheme launched by the Odisha government to provide financial assistance to students for higher education?",
       "options": [
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Gram Sadak Yojana",
-        "Pradhan Mantri Krishi Sinchayee Yojana",
-        "Pradhan Mantri Fasal Bima Yojana"
+        "Kalia Yojana",
+        "Biju Yuva Sashaktikaran Yojana",
+        "Mukhyamantri Medhabruti Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana"
       ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Awas Yojana is a scheme launched by the Indian government to provide housing for all by 2022, under which affordable housing is provided to eligible beneficiaries."
+      "correct": 2,
+      "explanation": "The Mukhyamantri Medhabruti Yojana is a scheme launched by the Odisha government to provide financial assistance to students for higher education, which includes scholarships for meritorious students to pursue undergraduate and postgraduate studies."
     },
     {
-      "id": 15,
+      "id": 29,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is a famous lake in Odisha?",
+      "question": "Which district in Odisha is known for its production of silk and cotton textiles?",
       "options": [
-        "Chilika Lake",
-        "Ansupa Lake",
-        "Hirakud Reservoir",
-        "Indravati Reservoir"
+        "Bhadrak",
+        "Jajpur",
+        "Cuttack",
+        "Khordha"
       ],
-      "correct": 0,
-      "explanation": "Chilika Lake is a famous lake in Odisha, known for its brackish water lagoon and diverse wildlife, including migratory birds and dolphins."
+      "correct": 2,
+      "explanation": "The district of Cuttack in Odisha is known for its production of silk and cotton textiles, with a long history of textile manufacturing and a large number of textile mills and handlooms."
     },
     {
-      "id": 16,
+      "id": 30,
       "category": "Indian History & Culture",
-      "question": "Who was the famous Indian emperor who built the city of Fatehpur Sikri?",
+      "question": "Who was the Indian philosopher who developed the concept of Advaita Vedanta?",
       "options": [
-        "Akbar",
+        "Adi Shankara",
+        "Ramanuja",
+        "Madhva",
+        "Nimbarka"
+      ],
+      "correct": 0,
+      "explanation": "Adi Shankara was the Indian philosopher who developed the concept of Advaita Vedanta, which is a school of Hindu philosophy that emphasizes the non-dual nature of reality and the ultimate goal of achieving liberation through knowledge and self-realization."
+    },
+    {
+      "id": 31,
+      "category": "Geography",
+      "question": "What is the name of the largest desert in India?",
+      "options": [
+        "Thar Desert",
+        "Cholistan Desert",
+        "Kutch Desert",
+        "Rann of Kutch"
+      ],
+      "correct": 0,
+      "explanation": "The Thar Desert, also known as the Cholistan Desert, is the largest desert in India, covering an area of approximately 320,000 square kilometers."
+    },
+    {
+      "id": 32,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article in the Indian Constitution that deals with the powers of the Supreme Court of India?",
+      "options": [
+        "Article 124",
+        "Article 125",
+        "Article 126",
+        "Article 127"
+      ],
+      "correct": 0,
+      "explanation": "Article 124 of the Indian Constitution deals with the powers of the Supreme Court of India, which includes the power to interpret the Constitution, decide cases involving federal laws and the Constitution, and provide advisory opinions to the President."
+    },
+    {
+      "id": 33,
+      "category": "General Science",
+      "question": "What is the process by which plants release water vapor into the air?",
+      "options": [
+        "Respiration",
+        "Transpiration",
+        "Photosynthesis",
+        "Evaporation"
+      ],
+      "correct": 1,
+      "explanation": "Transpiration is the process by which plants release water vapor into the air, which occurs through small openings on the surface of leaves called stomata."
+    },
+    {
+      "id": 34,
+      "category": "Mental Ability & Reasoning",
+      "question": "If a car travels from city A to city B at an average speed of 60 km/h and returns at an average speed of 40 km/h, what is the average speed of the car for the entire trip?",
+      "options": [
+        "40 km/h",
+        "50 km/h",
+        "48 km/h",
+        "60 km/h"
+      ],
+      "correct": 2,
+      "explanation": "To find the average speed for the entire trip, we need to find the total distance traveled and the total time taken. Let's assume the distance between city A and city B is x km. The time taken to travel from A to B is x/60 hours, and the time taken to return is x/40 hours. The total time taken is x/60 + x/40 = (2x + 3x)/120 = 5x/120 = x/24 hours. The total distance traveled is 2x km. The average speed is total distance/total time = 2x/(x/24) = 48 km/h."
+    },
+    {
+      "id": 35,
+      "category": "Current Affairs",
+      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to women for entrepreneurship and skill development?",
+      "options": [
+        "Pradhan Mantri MUDRA Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Stand Up India Scheme",
+        "Beti Bachao Beti Padhao Scheme"
+      ],
+      "correct": 2,
+      "explanation": "The Stand Up India Scheme is a scheme launched by the Indian government to provide financial assistance to women for entrepreneurship and skill development, which includes loans and other support for women to start and grow their own businesses."
+    },
+    {
+      "id": 36,
+      "category": "Odisha General Knowledge",
+      "question": "Which city in Odisha is known as the 'City of Temples'?",
+      "options": [
+        "Bhubaneswar",
+        "Puri",
+        "Cuttack",
+        "Sambalpur"
+      ],
+      "correct": 0,
+      "explanation": "The city of Bhubaneswar in Odisha is known as the 'City of Temples', due to its rich cultural heritage and the presence of numerous ancient temples, including the famous Lingaraj Temple."
+    },
+    {
+      "id": 37,
+      "category": "Indian History & Culture",
+      "question": "Who was the Mughal emperor who built the Taj Mahal?",
+      "options": [
         "Babur",
-        "Humayun",
+        "Akbar",
+        "Jahangir",
         "Shah Jahan"
       ],
-      "correct": 0,
-      "explanation": "Akbar was the famous Indian emperor who built the city of Fatehpur Sikri, which was the capital of the Mughal Empire from 1571 to 1585."
+      "correct": 3,
+      "explanation": "Shah Jahan was the Mughal emperor who built the Taj Mahal, a mausoleum in Agra, India, in memory of his wife Mumtaz Mahal, who died in 1631."
     },
     {
-      "id": 17,
+      "id": 38,
       "category": "Geography",
       "question": "What is the name of the largest state in India by area?",
       "options": [
         "Rajasthan",
         "Madhya Pradesh",
-        "Uttar Pradesh",
-        "Maharashtra"
+        "Maharashtra",
+        "Uttar Pradesh"
       ],
       "correct": 0,
       "explanation": "Rajasthan is the largest state in India by area, covering approximately 342,239 square kilometers."
     },
     {
-      "id": 18,
+      "id": 39,
       "category": "Indian Polity & Constitution",
-      "question": "What is the term for the system of government in which power is divided between the central government and the state governments?",
+      "question": "What is the name of the article in the Indian Constitution that deals with the powers of the state legislatures?",
       "options": [
-        "Federalism",
-        "Unitary",
-        "Confederal",
-        "Parliamentary"
+        "Article 168",
+        "Article 169",
+        "Article 170",
+        "Article 171"
       ],
       "correct": 0,
-      "explanation": "Federalism is the system of government in which power is divided between the central government and the state governments, as enshrined in the Indian Constitution."
+      "explanation": "Article 168 of the Indian Constitution deals with the powers of the state legislatures, which includes the power to make laws for the state and to exercise control over the state government."
     },
     {
-      "id": 19,
+      "id": 40,
       "category": "General Science",
       "question": "What is the largest living structure on Earth?",
       "options": [
@@ -249,415 +522,51 @@
         "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
-    },
-    {
-      "id": 20,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet at night, how many days will it take for the snail to reach the top of the well?",
-      "options": [
-        "18 days",
-        "20 days",
-        "22 days",
-        "25 days"
-      ],
-      "correct": 2,
-      "explanation": "The snail climbs 3 feet up the well each day, but slips back 2 feet at night, so it effectively climbs 1 foot per day. To reach the top of the 20-foot well, it will take 18 days for the snail to climb 18 feet, and on the 19th day, it will climb the final 2 feet to reach the top, but since it doesn't slip back at night when it reaches the top, the correct answer is 18 days for the first 18 feet and the 19th day to climb the last 2 feet, making it 18 + 1 = 19 days to reach the top, but since the question asks for the number of days to reach the top, and the snail reaches the top on the 18th climb, the correct answer is 18 days."
-    },
-    {
-      "id": 21,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to small and medium-sized enterprises?",
-      "options": [
-        "Pradhan Mantri Mudra Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Rojgar Protsahan Yojana",
-        "Pradhan Mantri Udyami Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Mudra Yojana is a scheme launched by the Indian government to provide financial assistance to small and medium-sized enterprises, under which loans of up to Rs. 10 lakh are provided to eligible beneficiaries."
-    },
-    {
-      "id": 22,
-      "category": "Odisha General Knowledge",
-      "question": "Which of the following is a famous tribal community in Odisha?",
-      "options": [
-        "Santhal",
-        "Munda",
-        "Oraon",
-        "Gond"
-      ],
-      "correct": 0,
-      "explanation": "The Santhal are a famous tribal community in Odisha, known for their rich cultural heritage and traditional way of life."
-    },
-    {
-      "id": 23,
-      "category": "Indian History & Culture",
-      "question": "Who was the famous Indian ruler who built the Taj Mahal?",
-      "options": [
-        "Shah Jahan",
-        "Akbar",
-        "Babur",
-        "Humayun"
-      ],
-      "correct": 0,
-      "explanation": "Shah Jahan was the famous Indian ruler who built the Taj Mahal, a mausoleum in Agra, as a tribute to his wife, Mumtaz Mahal."
-    },
-    {
-      "id": 24,
-      "category": "Geography",
-      "question": "What is the name of the largest island in the Indian Ocean?",
-      "options": [
-        "Madagascar",
-        "Sri Lanka",
-        "Sumatra",
-        "Borneo"
-      ],
-      "correct": 0,
-      "explanation": "Madagascar is the largest island in the Indian Ocean, located off the coast of East Africa."
-    },
-    {
-      "id": 25,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the term for the system of governance in which power is held by the people?",
-      "options": [
-        "Democracy",
-        "Monarchy",
-        "Oligarchy",
-        "Theocracy"
-      ],
-      "correct": 0,
-      "explanation": "Democracy is the system of governance in which power is held by the people, either directly or through elected representatives."
-    },
-    {
-      "id": 26,
-      "category": "General Science",
-      "question": "What is the process by which the Earth's plates move and change?",
-      "options": [
-        "Plate Tectonics",
-        "Weathering",
-        "Erosion",
-        "Deposition"
-      ],
-      "correct": 0,
-      "explanation": "Plate Tectonics is the process by which the Earth's plates move and change, resulting in the creation of mountains, volcanoes, and earthquakes."
-    },
-    {
-      "id": 27,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a person is 30 years old, and his father is 60 years old, how old was the father when the person was born?",
-      "options": [
-        "20 years old",
-        "25 years old",
-        "30 years old",
-        "35 years old"
-      ],
-      "correct": 3,
-      "explanation": "If the person is 30 years old, and his father is 60 years old, then the father was 60 - 30 = 30 years old when the person was born."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian government's scheme to provide free healthcare to all citizens?",
-      "options": [
-        "Pradhan Mantri Jan Arogya Yojana",
-        "Pradhan Mantri Swasthya Suraksha Yojana",
-        "Pradhan Mantri Ayushman Bharat Yojana",
-        "Pradhan Mantri Universal Health Coverage"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Jan Arogya Yojana is a scheme launched by the Indian government to provide free healthcare to all citizens, under which eligible beneficiaries receive an annual health insurance cover of Rs. 5 lakh."
-    },
-    {
-      "id": 29,
-      "category": "Odisha General Knowledge",
-      "question": "Which of the following is a famous festival celebrated in Odisha?",
-      "options": [
-        "Rath Yatra",
-        "Dussehra",
-        "Diwali",
-        "Holi"
-      ],
-      "correct": 0,
-      "explanation": "The Rath Yatra is a famous festival celebrated in Odisha, particularly in the city of Puri, where it is a major tourist attraction."
-    },
-    {
-      "id": 30,
-      "category": "Indian History & Culture",
-      "question": "Who was the famous Indian emperor who built the Red Fort in Delhi?",
-      "options": [
-        "Shah Jahan",
-        "Akbar",
-        "Babur",
-        "Humayun"
-      ],
-      "correct": 0,
-      "explanation": "Shah Jahan was the famous Indian emperor who built the Red Fort in Delhi, which served as the imperial palace of the Mughal Empire."
-    },
-    {
-      "id": 31,
-      "category": "Geography",
-      "question": "What is the name of the largest river in India?",
-      "options": [
-        "Ganges",
-        "Brahmaputra",
-        "Indus",
-        "Godavari"
-      ],
-      "correct": 0,
-      "explanation": "The Ganges is the largest river in India, stretching for approximately 2,525 kilometers from its source in the Himalayas to its mouth in the Bay of Bengal."
-    },
-    {
-      "id": 32,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the term for the system of governance in which power is divided between the central government and the state governments?",
-      "options": [
-        "Federalism",
-        "Unitary",
-        "Confederal",
-        "Parliamentary"
-      ],
-      "correct": 0,
-      "explanation": "Federalism is the system of governance in which power is divided between the central government and the state governments, as enshrined in the Indian Constitution."
-    },
-    {
-      "id": 33,
-      "category": "General Science",
-      "question": "What is the process by which water moves through a plant?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
-      ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
-    },
-    {
-      "id": 34,
-      "category": "Mental Ability & Reasoning",
-      "question": "If it takes 5 hours to drive from City A to City B at an average speed of 60 km/h, how long will it take to drive from City B to City A at an average speed of 40 km/h?",
-      "options": [
-        "5 hours",
-        "6 hours",
-        "7.5 hours",
-        "8 hours"
-      ],
-      "correct": 2,
-      "explanation": "If it takes 5 hours to drive from City A to City B at an average speed of 60 km/h, then the distance between the two cities is 60 * 5 = 300 km. To drive from City B to City A at an average speed of 40 km/h, it will take 300 / 40 = 7.5 hours."
-    },
-    {
-      "id": 35,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian government's scheme to promote digital payments?",
-      "options": [
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Digital India",
-        "Pradhan Mantri Udyog Yojana",
-        "Pradhan Mantri MUDRA Yojana"
-      ],
-      "correct": 1,
-      "explanation": "The Pradhan Mantri Digital India is a scheme launched by the Indian government to promote digital payments and increase digital literacy among citizens."
-    },
-    {
-      "id": 36,
-      "category": "Odisha General Knowledge",
-      "question": "Which of the following is a famous dam in Odisha?",
-      "options": [
-        "Hirakud Dam",
-        "Mahanadi Dam",
-        "Indravati Dam",
-        "Mandira Dam"
-      ],
-      "correct": 0,
-      "explanation": "The Hirakud Dam is a famous dam in Odisha, located on the Mahanadi River, which provides hydroelectric power and irrigation to the surrounding areas."
-    },
-    {
-      "id": 37,
-      "category": "Indian History & Culture",
-      "question": "Who was the famous Indian freedom fighter who led the Salt March?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bhagat Singh"
-      ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi was the famous Indian freedom fighter who led the Salt March, also known as the Dandi March, in 1930, to protest against the British salt tax."
-    },
-    {
-      "id": 38,
-      "category": "Geography",
-      "question": "What is the name of the largest desert in India?",
-      "options": [
-        "Thar Desert",
-        "Gobi Desert",
-        "Mojave Desert",
-        "Atacama Desert"
-      ],
-      "correct": 0,
-      "explanation": "The Thar Desert is the largest desert in India, covering an area of approximately 260,000 square kilometers in the northwestern part of the country."
-    },
-    {
-      "id": 39,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the term for the system of governance in which power is held by a single person or group?",
-      "options": [
-        "Autocracy",
-        "Democracy",
-        "Monarchy",
-        "Oligarchy"
-      ],
-      "correct": 0,
-      "explanation": "Autocracy is the system of governance in which power is held by a single person or group, often without regard for the rights or interests of others."
-    },
-    {
-      "id": 40,
-      "category": "General Science",
-      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
-      "options": [
-        "Mutation",
-        "Genetic Drift",
-        "Natural Selection",
-        "Hereditary"
-      ],
-      "correct": 3,
-      "explanation": "Hereditary is the process by which an organism's genetic information is passed from one generation to the next, through the transmission of genes from parents to offspring."
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia and composed of more than 2,900 individual reefs and 900 islands."
     },
     {
       "id": 41,
       "category": "Mental Ability & Reasoning",
-      "question": "If a person has 12 socks in his drawer, and 4 of them are red, what is the probability that the first sock he pulls out is red?",
+      "question": "If a person invests $100 at an interest rate of 5% per annum, how much will he have after 2 years?",
       "options": [
-        "1/3",
-        "1/4",
-        "1/6",
-        "1/12"
+        "$110",
+        "$110.25",
+        "$112.50",
+        "$115.76"
       ],
-      "correct": 0,
-      "explanation": "If there are 12 socks in total, and 4 of them are red, then the probability of pulling out a red sock first is 4/12, which simplifies to 1/3."
+      "correct": 2,
+      "explanation": "The interest earned in the first year is $100 x 5% = $5. The total amount after the first year is $100 + $5 = $105. The interest earned in the second year is $105 x 5% = $5.25. The total amount after the second year is $105 + $5.25 = $110.25."
     },
     {
       "id": 42,
       "category": "Current Affairs",
-      "question": "What is the name of the Indian government's scheme to promote entrepreneurship among women?",
+      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to farmers for agriculture and allied activities?",
       "options": [
-        "Pradhan Mantri Udyog Yojana",
-        "Pradhan Mantri Mahila Udyog Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Mudra Yojana"
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Krishi Sinchai Yojana",
+        "Rashtriya Krishi Vikas Yojana"
       ],
-      "correct": 1,
-      "explanation": "The Pradhan Mantri Mahila Udyog Yojana is a scheme launched by the Indian government to promote entrepreneurship among women, under which loans and other forms of support are provided to women entrepreneurs."
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a scheme launched by the Indian government to provide financial assistance to farmers for agriculture and allied activities, which includes a direct benefit transfer of $6.50 per month to eligible farmers."
     },
     {
       "id": 43,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is a famous tourist destination in Odisha?",
+      "question": "Which district in Odisha is known for its production of cashew nuts?",
       "options": [
-        "Puri",
-        "Konark",
-        "Bhubaneswar",
-        "Cuttack"
+        "Koraput",
+        "Malkangiri",
+        "Rayagada",
+        "Gajapati"
       ],
-      "correct": 0,
-      "explanation": "Puri is a famous tourist destination in Odisha, known for its beautiful beaches, temples, and cultural heritage."
+      "correct": 1,
+      "explanation": "The district of Malkangiri in Odisha is known for its production of cashew nuts, with a large number of cashew plantations and processing units in the area."
     },
     {
       "id": 44,
       "category": "Indian History & Culture",
-      "question": "Who was the famous Indian emperor who built the Qutub Minar?",
-      "options": [
-        "Qutb-ud-din Aibak",
-        "Iltutmish",
-        "Razia Sultan",
-        "Alauddin Khalji"
-      ],
-      "correct": 0,
-      "explanation": "Qutb-ud-din Aibak was the famous Indian emperor who built the Qutub Minar, a minaret in Delhi, which is one of the tallest in the world."
-    },
-    {
-      "id": 45,
-      "category": "Geography",
-      "question": "What is the name of the largest state in India by population?",
-      "options": [
-        "Uttar Pradesh",
-        "Maharashtra",
-        "Bihar",
-        "West Bengal"
-      ],
-      "correct": 0,
-      "explanation": "Uttar Pradesh is the largest state in India by population, with over 200 million people, according to the 2011 census."
-    },
-    {
-      "id": 46,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the term for the system of governance in which power is divided between the central government and the state governments?",
-      "options": [
-        "Federalism",
-        "Unitary",
-        "Confederal",
-        "Parliamentary"
-      ],
-      "correct": 0,
-      "explanation": "Federalism is the system of governance in which power is divided between the central government and the state governments, as enshrined in the Indian Constitution."
-    },
-    {
-      "id": 47,
-      "category": "General Science",
-      "question": "What is the process by which the universe became transparent to light?",
-      "options": [
-        "Big Bang",
-        "Cosmic Inflation",
-        "Recombination",
-        "Dark Matter"
-      ],
-      "correct": 2,
-      "explanation": "Recombination is the process by which the universe became transparent to light, as electrons and protons combined to form neutral atoms, allowing light to travel freely through space."
-    },
-    {
-      "id": 48,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a person has 8 boxes, and each box contains 12 balls, how many balls are there in total?",
-      "options": [
-        "80",
-        "96",
-        "100",
-        "120"
-      ],
-      "correct": 1,
-      "explanation": "If there are 8 boxes, and each box contains 12 balls, then the total number of balls is 8 x 12 = 96."
-    },
-    {
-      "id": 49,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian government's scheme to promote renewable energy?",
-      "options": [
-        "Pradhan Mantri Ujwal Yojana",
-        "Pradhan Mantri Sahaj Bijli Har Ghar Yojana",
-        "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan",
-        "Pradhan Mantri Urja Ganga Yojana"
-      ],
-      "correct": 2,
-      "explanation": "The Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan is a scheme launched by the Indian government to promote renewable energy, particularly solar power, among farmers and rural communities."
-    },
-    {
-      "id": 50,
-      "category": "Odisha General Knowledge",
-      "question": "Which of the following is a famous river in Odisha?",
-      "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Subarnarekha",
-        "Baitarani"
-      ],
-      "correct": 0,
-      "explanation": "The Mahanadi is a famous river in Odisha, stretching for approximately 860 kilometers and flowing through the states of Chhattisgarh and Odisha."
-    },
-    {
-      "id": 51,
-      "category": "Indian History & Culture",
-      "question": "Who was the famous Indian freedom fighter who led the Non-Cooperation Movement?",
+      "question": "Who was the Indian nationalist leader who is known as the 'Father of the Nation'?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
@@ -665,7 +574,98 @@
         "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi was the famous Indian freedom fighter who led the Non-Cooperation Movement, a civil disobedience campaign against British rule in India."
+      "explanation": "Mahatma Gandhi is known as the 'Father of the Nation' in India, due to his leading role in the country's struggle for independence from British rule and his philosophy of non-violent resistance."
+    },
+    {
+      "id": 45,
+      "category": "Geography",
+      "question": "What is the name of the strait that separates the islands of Java and Sumatra in Indonesia?",
+      "options": [
+        "Sunda Strait",
+        "Lombok Strait",
+        "Makassar Strait",
+        "Java Sea"
+      ],
+      "correct": 0,
+      "explanation": "The Sunda Strait is a strait that separates the islands of Java and Sumatra in Indonesia, and connects the Java Sea to the Indian Ocean."
+    },
+    {
+      "id": 46,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of assembly?",
+      "options": [
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
+      ],
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of assembly, which includes the right to peaceful assembly and the right to form associations and unions."
+    },
+    {
+      "id": 47,
+      "category": "General Science",
+      "question": "What is the process by which the human body regulates its temperature?",
+      "options": [
+        "Respiration",
+        "Circulation",
+        "Sweating",
+        "Shivering"
+      ],
+      "correct": 2,
+      "explanation": "Sweating is the process by which the human body regulates its temperature, as it helps to cool the body down when it becomes too hot, while shivering helps to warm the body up when it becomes too cold."
+    },
+    {
+      "id": 48,
+      "category": "Mental Ability & Reasoning",
+      "question": "If a person has $100 and spends $20 on food, $30 on clothing, and $15 on entertainment, how much money is left?",
+      "options": [
+        "$25",
+        "$30",
+        "$35",
+        "$40"
+      ],
+      "correct": 2,
+      "explanation": "The person spends a total of $20 + $30 + $15 = $65. The amount of money left is $100 - $65 = $35."
+    },
+    {
+      "id": 49,
+      "category": "Current Affairs",
+      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to small and medium-sized enterprises (SMEs)?",
+      "options": [
+        "Pradhan Mantri MUDRA Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Stand Up India Scheme",
+        "Make in India Initiative"
+      ],
+      "correct": 0,
+      "explanation": "The Pradhan Mantri MUDRA Yojana is a scheme launched by the Indian government to provide financial assistance to small and medium-sized enterprises (SMEs), which includes loans and other support for businesses in the non-corporate, non-farm sector."
+    },
+    {
+      "id": 50,
+      "category": "Odisha General Knowledge",
+      "question": "Which city in Odisha is known as the 'City of Waterfalls'?",
+      "options": [
+        "Koraput",
+        "Rayagada",
+        "Gajapati",
+        "Keonjhar"
+      ],
+      "correct": 3,
+      "explanation": "The city of Keonjhar in Odisha is known as the 'City of Waterfalls', due to the presence of numerous waterfalls in the area, including the famous San Ghagra and Badaghagra waterfalls."
+    },
+    {
+      "id": 51,
+      "category": "Indian History & Culture",
+      "question": "Who was the Indian emperor who built the Red Fort in Delhi?",
+      "options": [
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "correct": 2,
+      "explanation": "Shah Jahan was the Indian emperor who built the Red Fort in Delhi, which was constructed between 1638 and 1648 and served as the imperial palace of the Mughal Empire."
     },
     {
       "id": 52,
@@ -678,111 +678,111 @@
         "Crete"
       ],
       "correct": 0,
-      "explanation": "Sicily is the largest island in the Mediterranean Sea, located off the coast of Italy."
+      "explanation": "Sicily is the largest island in the Mediterranean Sea, with an area of approximately 25,711 square kilometers."
     },
     {
       "id": 53,
       "category": "Indian Polity & Constitution",
-      "question": "What is the term for the system of governance in which power is held by a single person or group?",
+      "question": "What is the name of the article in the Indian Constitution that deals with the powers of the state governors?",
       "options": [
-        "Autocracy",
-        "Democracy",
-        "Monarchy",
-        "Oligarchy"
+        "Article 153",
+        "Article 154",
+        "Article 155",
+        "Article 156"
       ],
       "correct": 0,
-      "explanation": "Autocracy is the system of governance in which power is held by a single person or group, often without regard for the rights or interests of others."
+      "explanation": "Article 153 of the Indian Constitution deals with the powers of the state governors, which includes the power to appoint the chief minister and other ministers, as well as the power to dissolve the state legislature."
     },
     {
       "id": 54,
       "category": "General Science",
-      "question": "What is the process by which plants convert carbon dioxide and water into glucose and oxygen?",
+      "question": "What is the largest planet in our solar system by mass?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
       ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants convert carbon dioxide and water into glucose and oxygen, using sunlight as energy."
+      "correct": 0,
+      "explanation": "Jupiter is the largest planet in our solar system by mass, with a mass of approximately 318 times that of Earth."
     },
     {
       "id": 55,
       "category": "Mental Ability & Reasoning",
-      "question": "If a person has 16 coins, and each coin is either a quarter or a dime, and the total value of the coins is $3.50, how many quarters are there?",
+      "question": "If a person travels from city A to city B at an average speed of 40 km/h and returns at an average speed of 60 km/h, what is the average speed of the person for the entire trip?",
       "options": [
-        "10",
-        "12",
-        "14",
-        "16"
+        "40 km/h",
+        "50 km/h",
+        "48 km/h",
+        "60 km/h"
       ],
       "correct": 2,
-      "explanation": "If the total value of the coins is $3.50, and each coin is either a quarter ($0.25) or a dime ($0.10), then we can set up the equation 0.25x + 0.10y = 3.50, where x is the number of quarters and y is the number of dimes. Since x + y = 16, we can substitute y = 16 - x into the equation and solve for x. This gives us 0.25x + 0.10(16 - x) = 3.50, which simplifies to 0.25x + 1.60 - 0.10x = 3.50. Combining like terms gives us 0.15x = 1.90, and dividing both sides by 0.15 gives us x = 12.67, which rounds down to 12 quarters, as we can't have a fraction of a coin."
+      "explanation": "To find the average speed for the entire trip, we need to find the total distance traveled and the total time taken. Let's assume the distance between city A and city B is x km. The time taken to travel from A to B is x/40 hours, and the time taken to return is x/60 hours. The total time taken is x/40 + x/60 = (3x + 2x)/120 = 5x/120 = x/24 hours. The total distance traveled is 2x km. The average speed is total distance/total time = 2x/(x/24) = 48 km/h."
     },
     {
       "id": 56,
       "category": "Current Affairs",
-      "question": "What is the name of the Indian government's scheme to promote skill development among youth?",
+      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to start-ups and entrepreneurs?",
       "options": [
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Rozgar Protsahan Yojana",
-        "Pradhan Mantri Udyog Yojana",
-        "Pradhan Mantri Mudra Yojana"
+        "Start-Up India Initiative",
+        "Make in India Initiative",
+        "Digital India Initiative",
+        "Skill India Initiative"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Kaushal Vikas Yojana is a scheme launched by the Indian government to promote skill development among youth, under which training and certification are provided in various skills."
+      "explanation": "The Start-Up India Initiative is a scheme launched by the Indian government to provide financial assistance to start-ups and entrepreneurs, which includes funding, tax exemptions, and other support for new businesses."
     },
     {
       "id": 57,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is a famous lake in Odisha?",
+      "question": "Which river in Odisha is known for its scenic beauty and is a popular tourist destination?",
       "options": [
-        "Chilika Lake",
-        "Ansupa Lake",
-        "Hirakud Reservoir",
-        "Indravati Reservoir"
+        "Mahanadi",
+        "Brahmani",
+        "Baitarani",
+        "Subarnarekha"
       ],
       "correct": 0,
-      "explanation": "Chilika Lake is a famous lake in Odisha, known for its brackish water lagoon and diverse wildlife, including migratory birds and dolphins."
+      "explanation": "The Mahanadi river in Odisha is known for its scenic beauty and is a popular tourist destination, with numerous waterfalls, temples, and other attractions along its banks."
     },
     {
       "id": 58,
       "category": "Indian History & Culture",
-      "question": "Who was the famous Indian emperor who built the Red Fort in Delhi?",
+      "question": "Who was the Indian nationalist leader who is known for his role in the Quit India Movement?",
       "options": [
-        "Shah Jahan",
-        "Akbar",
-        "Babur",
-        "Humayun"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "Shah Jahan was the famous Indian emperor who built the Red Fort in Delhi, which served as the imperial palace of the Mughal Empire."
+      "explanation": "Mahatma Gandhi was the Indian nationalist leader who is known for his role in the Quit India Movement, which was launched in 1942 and called for an end to British rule in India."
     },
     {
       "id": 59,
       "category": "Geography",
-      "question": "What is the name of the largest river in India?",
+      "question": "What is the name of the strait that separates the continents of Asia and Africa?",
       "options": [
-        "Ganges",
-        "Brahmaputra",
-        "Indus",
-        "Godavari"
+        "Bab-el-Mandeb",
+        "Bosphorus",
+        "Dardanelles",
+        "Strait of Malacca"
       ],
       "correct": 0,
-      "explanation": "The Ganges is the largest river in India, stretching for approximately 2,525 kilometers from its source in the Himalayas to its mouth in the Bay of Bengal."
+      "explanation": "The Bab-el-Mandeb is a strait that separates the continents of Asia and Africa, and connects the Red Sea to the Gulf of Aden."
     },
     {
       "id": 60,
       "category": "Indian Polity & Constitution",
-      "question": "What is the term for the system of governance in which power is divided between the central government and the state governments?",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of the press?",
       "options": [
-        "Federalism",
-        "Unitary",
-        "Confederal",
-        "Parliamentary"
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
       ],
       "correct": 0,
-      "explanation": "Federalism is the system of governance in which power is divided between the central government and the state governments, as enshrined in the Indian Constitution."
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of the press, which includes the right to freedom of speech and expression, and the right to publish and circulate news and information."
     }
   ]
 }

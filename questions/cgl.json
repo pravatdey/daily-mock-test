@@ -1,47 +1,47 @@
 {
   "exam": "cgl",
   "name": "SSC CGL",
-  "date": "2026-03-21",
+  "date": "2026-03-22",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "General Awareness & Static GK",
-      "question": "Who was the first woman to fly an aircraft in India?",
+      "question": "Who is the author of the book 'India Wins Freedom'?",
       "options": [
-        "Sarla Thakral",
-        "Kasturba Gandhi",
-        "Annie Besant",
-        "Rani Lakshmibai"
+        "Abul Kalam Azad",
+        "Jawaharlal Nehru",
+        "Maulana Azad",
+        "Mahatma Gandhi"
       ],
       "correct": 0,
-      "explanation": "Sarla Thakral was the first Indian woman to earn a pilot's license and fly an aircraft."
+      "explanation": "Abul Kalam Azad wrote the book 'India Wins Freedom', which is an account of India's struggle for independence."
     },
     {
       "id": 2,
       "category": "General Science",
-      "question": "What is the largest planet in our solar system?",
+      "question": "What is the process by which plants convert sunlight into energy?",
       "options": [
-        "Earth",
-        "Saturn",
-        "Jupiter",
-        "Uranus"
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Fermentation"
       ],
-      "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system with a diameter of approximately 142,984 kilometers."
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
     },
     {
       "id": 3,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the constitutional body that regulates the elections in India?",
+      "question": "Which of the following is NOT a fundamental right in the Indian Constitution?",
       "options": [
-        "Election Commission of India",
-        "Finance Commission of India",
-        "Planning Commission of India",
-        "National Human Rights Commission of India"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Property",
+        "Right to Education"
       ],
-      "correct": 0,
-      "explanation": "The Election Commission of India is a constitutional body responsible for administering and regulating the electoral process in India."
+      "correct": 2,
+      "explanation": "The Right to Property was removed as a fundamental right by the 44th Amendment to the Constitution in 1978."
     },
     {
       "id": 4,
@@ -59,20 +59,20 @@
     {
       "id": 5,
       "category": "Reasoning & Logic",
-      "question": "If A is taller than B, and C is shorter than B, who is the tallest?",
+      "question": "If A is taller than B, and C is shorter than B, who is the shortest?",
       "options": [
         "A",
         "B",
         "C",
         "Cannot be determined"
       ],
-      "correct": 0,
-      "explanation": "Since A is taller than B, and C is shorter than B, A must be the tallest."
+      "correct": 2,
+      "explanation": "Given that C is shorter than B, and A is taller than B, we can conclude that C is the shortest."
     },
     {
       "id": 6,
       "category": "English Language Concepts",
-      "question": "What is the synonym for the word 'fast'?",
+      "question": "What is the synonym of the word 'fast'?",
       "options": [
         "Quick",
         "Slow",
@@ -80,59 +80,59 @@
         "All of the above"
       ],
       "correct": 3,
-      "explanation": "The words 'quick', 'rapid', and 'fast' are all synonyms, meaning moving or able to move quickly."
+      "explanation": "The words 'quick', 'rapid' are all synonyms of the word 'fast'."
     },
     {
       "id": 7,
       "category": "Current Affairs",
-      "question": "Who is the current President of the European Commission?",
+      "question": "Who was appointed as the Chairman of the 15th Finance Commission of India?",
       "options": [
-        "Ursula von der Leyen",
-        "Charles Michel",
-        "Christine Lagarde",
-        "Paolo Gentiloni"
+        "N.K. Singh",
+        "Arvind Subramanian",
+        "Raghuram Rajan",
+        "Urjit Patel"
       ],
       "correct": 0,
-      "explanation": "Ursula von der Leyen is the current President of the European Commission, taking office on December 1, 2019."
+      "explanation": "N.K. Singh was appointed as the Chairman of the 15th Finance Commission of India in 2017."
     },
     {
       "id": 8,
       "category": "General Awareness & Static GK",
-      "question": "Who wrote the book 'The Discovery of India'?",
+      "question": "Which ancient Indian university was a major center of learning for Buddhism?",
       "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Rabindranath Tagore"
+        "Nalanda University",
+        "Taxila University",
+        "Vikramshila University",
+        "All of the above"
       ],
       "correct": 0,
-      "explanation": "Jawaharlal Nehru wrote the book 'The Discovery of India' while he was in prison during the British rule in India."
+      "explanation": "Nalanda University was a major center of learning for Buddhism, and one of the oldest universities in the world."
     },
     {
       "id": 9,
       "category": "General Science",
-      "question": "What is the process by which plants convert sunlight into energy?",
+      "question": "What is the largest planet in our solar system?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Uranus"
       ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
+      "correct": 2,
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
     },
     {
       "id": 10,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to farmers?",
+      "question": "What is the name of the economic policy pursued by the Indian government in 1991?",
       "options": [
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Krishi Sinchai Yojana",
-        "Rashtriya Krishi Vikas Yojana"
+        "New Economic Policy",
+        "Liberalization Policy",
+        "Globalization Policy",
+        "LPG Policy"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a central government scheme that provides financial assistance to farmers, with the aim of supporting their income and promoting agricultural development."
+      "explanation": "The New Economic Policy was the economic policy pursued by the Indian government in 1991, which aimed to liberalize the economy and increase foreign investment."
     },
     {
       "id": 11,
@@ -145,7 +145,7 @@
         "Apennine Mountains"
       ],
       "correct": 0,
-      "explanation": "The Pyrenees mountain range forms a natural border between France and Spain, stretching for approximately 435 kilometers."
+      "explanation": "The Pyrenees mountain range runs along the border between France and Spain."
     },
     {
       "id": 12,
@@ -153,327 +153,54 @@
       "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
       "options": [
         "5 minutes",
+        "10 minutes",
         "50 minutes",
-        "100 minutes",
-        "500 minutes"
+        "100 minutes"
       ],
       "correct": 0,
-      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then 1 machine can make 1 widget in 5 minutes. Therefore, 100 machines can make 100 widgets in 5 minutes."
+      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then 100 machines can make 100 widgets in the same amount of time, which is 5 minutes."
     },
     {
       "id": 13,
       "category": "English Language Concepts",
-      "question": "What is the antonym for the word 'chaos'?",
+      "question": "What is the antonym of the word 'hot'?",
       "options": [
-        "Order",
-        "Disorder",
-        " Harmony",
+        "Cold",
+        "Warm",
+        "Cool",
         "All of the above"
       ],
       "correct": 0,
-      "explanation": "The word 'order' is an antonym of 'chaos', as it refers to a state of organization, structure, and control."
+      "explanation": "The antonym of the word 'hot' is 'cold'."
     },
     {
       "id": 14,
       "category": "Current Affairs",
-      "question": "What is the name of the international agreement aimed at reducing greenhouse gas emissions and mitigating climate change?",
+      "question": "Who is the current CEO of the International Monetary Fund?",
       "options": [
-        "Paris Agreement",
-        "Kyoto Protocol",
-        "Copenhagen Accord",
-        "Montreal Protocol"
+        "Kristalina Georgieva",
+        "Christine Lagarde",
+        "Jim Yong Kim",
+        "Dominique Strauss-Kahn"
       ],
       "correct": 0,
-      "explanation": "The Paris Agreement is an international agreement aimed at reducing greenhouse gas emissions and mitigating climate change, signed by almost 200 countries in 2015."
+      "explanation": "Kristalina Georgieva is the current CEO of the International Monetary Fund, appointed in 2019."
     },
     {
       "id": 15,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Alchemist'?",
+      "question": "Who is the author of the book 'The Discovery of India'?",
       "options": [
-        "Paulo Coelho",
-        "Gabriel Garcia Marquez",
-        "Haruki Murakami",
-        "Jorge Luis Borges"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Paulo Coelho is the author of the bestselling novel 'The Alchemist', which has been translated into over 80 languages."
+      "explanation": "Jawaharlal Nehru wrote the book 'The Discovery of India', which is an account of India's history and culture."
     },
     {
       "id": 16,
-      "category": "General Science",
-      "question": "What is the largest living structure on Earth?",
-      "options": [
-        "The Great Barrier Reef",
-        "The Amazon Rainforest",
-        "The Grand Canyon",
-        "The Great Wall of China"
-      ],
-      "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning more than 2,300 kilometers off the coast of Australia."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide housing for all by 2022?",
-      "options": [
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Gramin Awas Yojana",
-        "Pradhan Mantri Urban Awas Yojana",
-        "Rashtriya Awas Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Awas Yojana is a central government scheme aimed at providing affordable housing to all citizens by 2022, with a focus on the urban poor."
-    },
-    {
-      "id": 18,
-      "category": "Geography",
-      "question": "Which river flows through the Grand Canyon?",
-      "options": [
-        "Colorado River",
-        "Mississippi River",
-        "Rio Grande",
-        "Missouri River"
-      ],
-      "correct": 0,
-      "explanation": "The Colorado River flows through the Grand Canyon, one of the most iconic natural wonders in the United States."
-    },
-    {
-      "id": 19,
-      "category": "Reasoning & Logic",
-      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet at night, how many days will it take for the snail to reach the top of the well?",
-      "options": [
-        "20 days",
-        "18 days",
-        "28 days",
-        "30 days"
-      ],
-      "correct": 2,
-      "explanation": "The snail climbs 3 feet up and slips back 2 feet, so it effectively moves 1 foot up each day. To reach the top of the 20-foot well, it will take 18 days (17 days to climb 17 feet and 1 day to climb the final 3 feet)."
-    },
-    {
-      "id": 20,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the idiom 'break a leg'?",
-      "options": [
-        "To wish someone good luck",
-        "To congratulate someone",
-        "To apologize to someone",
-        "To scold someone"
-      ],
-      "correct": 0,
-      "explanation": "The idiom 'break a leg' is a way of wishing someone good luck, particularly in the context of performing arts or other high-pressure situations."
-    },
-    {
-      "id": 21,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian spacecraft that landed on the Moon in 2019?",
-      "options": [
-        "Chandrayaan-1",
-        "Chandrayaan-2",
-        "Mangalyaan",
-        "Gaganyaan"
-      ],
-      "correct": 1,
-      "explanation": "The Chandrayaan-2 spacecraft successfully landed on the Moon's south pole in 2019, making India the fourth country to achieve this feat."
-    },
-    {
-      "id": 22,
-      "category": "General Awareness & Static GK",
-      "question": "Who is the founder of the Buddhist religion?",
-      "options": [
-        "Gautama Buddha",
-        "Mahavira",
-        "Adi Shankara",
-        "Siddhartha"
-      ],
-      "correct": 0,
-      "explanation": "Gautama Buddha, also known as Siddhartha Gautama, is the founder of the Buddhist religion, which originated in ancient India around 563 BCE."
-    },
-    {
-      "id": 23,
-      "category": "General Science",
-      "question": "What is the process by which the universe became transparent to light?",
-      "options": [
-        "Recombination",
-        "Ionization",
-        "Nucleosynthesis",
-        "Dark matter formation"
-      ],
-      "correct": 0,
-      "explanation": "Recombination is the process by which the universe became transparent to light, occurring around 380,000 years after the Big Bang when electrons and protons combined to form neutral atoms."
-    },
-    {
-      "id": 24,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial inclusion to the poor?",
-      "options": [
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Krishi Sinchai Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Jan Dhan Yojana is a central government scheme aimed at providing financial inclusion to the poor, by encouraging them to open bank accounts and access various financial services."
-    },
-    {
-      "id": 25,
-      "category": "Geography",
-      "question": "Which city is the capital of Australia?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correct": 2,
-      "explanation": "Canberra is the capital city of Australia, located in the Australian Capital Territory (ACT)."
-    },
-    {
-      "id": 26,
-      "category": "Reasoning & Logic",
-      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
-      "options": [
-        "$0.05",
-        "$0.10",
-        "$0.15",
-        "$0.20"
-      ],
-      "correct": 0,
-      "explanation": "Let's assume the cost of the ball is x. Since the bat costs $1.00 more than the ball, the cost of the bat is x + $1.00. The total cost of the bat and the ball is $1.10, so we can set up the equation x + (x + $1.00) = $1.10. Solving for x, we get x = $0.05."
-    },
-    {
-      "id": 27,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'perspicacious'?",
-      "options": [
-        "Having a strong and unpleasant smell",
-        "Having a keen understanding and insight",
-        "Having a strong and bitter taste",
-        "Having a rough and coarse texture"
-      ],
-      "correct": 1,
-      "explanation": "The word 'perspicacious' means having a keen understanding and insight, being able to notice and understand things that are not immediately apparent."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs",
-      "question": "Who is the current CEO of the International Monetary Fund (IMF)?",
-      "options": [
-        "Kristalina Georgieva",
-        "Christine Lagarde",
-        "Dominique Strauss-Kahn",
-        "Rodrigo Rato"
-      ],
-      "correct": 0,
-      "explanation": "Kristalina Georgieva is the current Managing Director (CEO) of the International Monetary Fund (IMF), taking office on October 1, 2019."
-    },
-    {
-      "id": 29,
-      "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'To Kill a Mockingbird'?",
-      "options": [
-        "F. Scott Fitzgerald",
-        "Harper Lee",
-        "Jane Austen",
-        "J.K. Rowling"
-      ],
-      "correct": 1,
-      "explanation": "Harper Lee is the author of the classic novel 'To Kill a Mockingbird', which has won numerous awards and has been translated into more than 40 languages."
-    },
-    {
-      "id": 30,
-      "category": "General Science",
-      "question": "What is the largest organ in the human body?",
-      "options": [
-        "Skin",
-        "Brain",
-        "Heart",
-        "Lungs"
-      ],
-      "correct": 0,
-      "explanation": "The skin is the largest organ in the human body, covering the entire surface of the body and performing various functions such as regulating body temperature and protecting against external damage."
-    },
-    {
-      "id": 31,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to promote entrepreneurship and job creation?",
-      "options": [
-        "Startup India",
-        "Make in India",
-        "Digital India",
-        "Skill India"
-      ],
-      "correct": 0,
-      "explanation": "The Startup India initiative is a central government scheme aimed at promoting entrepreneurship and job creation, by providing support to startups and encouraging innovation and entrepreneurship."
-    },
-    {
-      "id": 32,
-      "category": "Geography",
-      "question": "Which city is the largest in Scandinavia?",
-      "options": [
-        "Stockholm",
-        "Copenhagen",
-        "Oslo",
-        "Helsinki"
-      ],
-      "correct": 0,
-      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people, and is the capital of Sweden."
-    },
-    {
-      "id": 33,
-      "category": "Reasoning & Logic",
-      "question": "If a person is facing north and turns 90 degrees to the right, which direction will they be facing?",
-      "options": [
-        "South",
-        "East",
-        "West",
-        "North"
-      ],
-      "correct": 1,
-      "explanation": "If a person is facing north and turns 90 degrees to the right, they will be facing east."
-    },
-    {
-      "id": 34,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the phrase 'bend over backwards'?",
-      "options": [
-        "To be extremely accommodating and helpful",
-        "To be very stubborn and uncooperative",
-        "To be moderately friendly and polite",
-        "To be completely indifferent and unresponsive"
-      ],
-      "correct": 0,
-      "explanation": "The phrase 'bend over backwards' means to be extremely accommodating and helpful, going out of one's way to assist or please someone."
-    },
-    {
-      "id": 35,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian government's scheme to provide health insurance to the poor?",
-      "options": [
-        "Ayushman Bharat",
-        "Pradhan Mantri Jan Arogya Yojana",
-        "Rashtriya Swasthya Bima Yojana",
-        "National Health Mission"
-      ],
-      "correct": 1,
-      "explanation": "The Pradhan Mantri Jan Arogya Yojana is a central government scheme aimed at providing health insurance to the poor, providing coverage of up to Rs 5 lakh per family per year for secondary and tertiary care hospitalization."
-    },
-    {
-      "id": 36,
-      "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Theory of Everything'?",
-      "options": [
-        "Stephen Hawking",
-        "Isaac Newton",
-        "Albert Einstein",
-        "Galileo Galilei"
-      ],
-      "correct": 0,
-      "explanation": "Stephen Hawking is the author of the book 'The Theory of Everything', which is a popular science book that explains complex concepts in physics in an accessible way."
-    },
-    {
-      "id": 37,
       "category": "General Science",
       "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
       "options": [
@@ -486,59 +213,241 @@
       "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
     },
     {
-      "id": 38,
+      "id": 17,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to promote digital payments?",
+      "question": "What is the name of the Indian government's program to provide financial inclusion to all citizens?",
       "options": [
-        "Digital India",
+        "Jan Dhan Yojana",
+        "Aadhaar Card",
         "Make in India",
-        "Startup India",
-        "Pradhan Mantri Jan Dhan Yojana"
+        "Digital India"
       ],
       "correct": 0,
-      "explanation": "The Digital India initiative is a central government scheme aimed at promoting digital payments, by encouraging the use of digital technologies and online services."
+      "explanation": "Jan Dhan Yojana is the Indian government's program to provide financial inclusion to all citizens, by providing them with bank accounts and other financial services."
     },
     {
-      "id": 39,
+      "id": 18,
       "category": "Geography",
-      "question": "Which city is the capital of New Zealand?",
+      "question": "Which river is the longest in Asia?",
       "options": [
-        "Wellington",
-        "Auckland",
-        "Christchurch",
-        "Queenstown"
+        "Yangtze River",
+        "Yellow River",
+        "Mekong River",
+        "Ganges River"
       ],
       "correct": 0,
-      "explanation": "Wellington is the capital city of New Zealand, located on the North Island."
+      "explanation": "The Yangtze River is the longest river in Asia, with a length of approximately 6,300 kilometers."
     },
     {
-      "id": 40,
+      "id": 19,
       "category": "Reasoning & Logic",
-      "question": "If a person has 12 coins, and 11 of them are counterfeit, what is the probability that a coin selected at random is genuine?",
+      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet at night, how many days will it take for the snail to reach the top of the well?",
       "options": [
-        "1/12",
-        "1/11",
-        "1/2",
-        "1/6"
+        "18 days",
+        "20 days",
+        "22 days",
+        "28 days"
       ],
-      "correct": 1,
-      "explanation": "Since 11 out of the 12 coins are counterfeit, there is only 1 genuine coin. Therefore, the probability of selecting the genuine coin at random is 1/12, but since we are looking for the probability that the selected coin is genuine given that there is only one genuine coin, the correct answer is 1/11, as the chance of picking the real coin in a set where only one is real is not the total number of coins, but rather one divided by the total minus the non-real coins."
+      "correct": 2,
+      "explanation": "The snail climbs 3 feet up the well each day, but slips back 2 feet at night, so it makes a net progress of 1 foot per day. To reach the top of the 20-foot well, it will take the snail 18 days to climb 18 feet, and on the 19th day, it will climb the remaining 2 feet and reach the top, but since it slips back 2 feet at night, it will take one more day to climb the last 2 feet, so the total number of days is 18 + 2 = 20 days, but on the 18th day, the snail will climb 3 feet and reach 20 feet, so the answer is 18 days."
     },
     {
-      "id": 41,
+      "id": 20,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the idiom 'break a leg'?",
+      "options": [
+        "To wish someone good luck",
+        "To wish someone bad luck",
+        "To tell someone to be careful",
+        "To tell someone to give up"
+      ],
+      "correct": 0,
+      "explanation": "The idiom 'break a leg' means to wish someone good luck, especially before a performance or a challenging situation."
+    },
+    {
+      "id": 21,
+      "category": "Current Affairs",
+      "question": "Who is the current President of the European Commission?",
+      "options": [
+        "Ursula von der Leyen",
+        "Jean-Claude Juncker",
+        "Donald Tusk",
+        "Angela Merkel"
+      ],
+      "correct": 0,
+      "explanation": "Ursula von der Leyen is the current President of the European Commission, appointed in 2019."
+    },
+    {
+      "id": 22,
+      "category": "General Awareness & Static GK",
+      "question": "Who is the author of the book 'My Experiments with Truth'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
+      ],
+      "correct": 0,
+      "explanation": "Mahatma Gandhi wrote the book 'My Experiments with Truth', which is an autobiography of his life."
+    },
+    {
+      "id": 23,
+      "category": "General Science",
+      "question": "What is the largest living structure on Earth?",
+      "options": [
+        "The Great Barrier Reef",
+        "The Amazon Rainforest",
+        "The Grand Canyon",
+        "The Great Wall of China"
+      ],
+      "correct": 0,
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
+    },
+    {
+      "id": 24,
+      "category": "Indian Polity & Economy",
+      "question": "What is the name of the Indian government's program to provide healthcare to all citizens?",
+      "options": [
+        "Ayushman Bharat",
+        "Modicare",
+        "National Health Mission",
+        "Health for All"
+      ],
+      "correct": 0,
+      "explanation": "Ayushman Bharat is the Indian government's program to provide healthcare to all citizens, by providing them with health insurance and other healthcare services."
+    },
+    {
+      "id": 25,
+      "category": "Geography",
+      "question": "Which city is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correct": 2,
+      "explanation": "Canberra is the capital city of Australia, located in the Australian Capital Territory."
+    },
+    {
+      "id": 26,
+      "category": "Reasoning & Logic",
+      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
+      "options": [
+        "$0.05",
+        "$0.10",
+        "$0.15",
+        "$0.20"
+      ],
+      "correct": 0,
+      "explanation": "Let's say the ball costs x cents. Since the bat costs $1.00 more than the ball, the bat costs x + $1.00. The total cost of the bat and the ball together is $1.10, so we can write the equation: x + (x + $1.00) = $1.10. Simplifying the equation, we get: 2x + $1.00 = $1.10. Subtracting $1.00 from both sides, we get: 2x = $0.10. Dividing both sides by 2, we get: x = $0.05."
+    },
+    {
+      "id": 27,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the word 'perspicacious'?",
+      "options": [
+        "Having a keen understanding and insight",
+        "Having a strong and unpleasant smell",
+        "Having a tendency to talk too much",
+        "Having a lack of energy and enthusiasm"
+      ],
+      "correct": 0,
+      "explanation": "The word 'perspicacious' means having a keen understanding and insight, being able to notice and understand things that are not immediately apparent."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs",
+      "question": "Who is the current Prime Minister of the United Kingdom?",
+      "options": [
+        "Rishi Sunak",
+        "Boris Johnson",
+        "Theresa May",
+        "David Cameron"
+      ],
+      "correct": 0,
+      "explanation": "Rishi Sunak is the current Prime Minister of the United Kingdom, appointed in 2022."
+    },
+    {
+      "id": 29,
+      "category": "General Awareness & Static GK",
+      "question": "Who is the author of the book 'The Interpretation of Dreams'?",
+      "options": [
+        "Sigmund Freud",
+        "Carl Jung",
+        "Alfred Adler",
+        "Erich Fromm"
+      ],
+      "correct": 0,
+      "explanation": "Sigmund Freud wrote the book 'The Interpretation of Dreams', which is a foundational work of psychoanalysis."
+    },
+    {
+      "id": 30,
+      "category": "General Science",
+      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
+      "options": [
+        "Mutation",
+        "Genetic drift",
+        "Gene flow",
+        "Hereditary"
+      ],
+      "correct": 3,
+      "explanation": "Hereditary is the process by which an organism's genetic information is passed from one generation to the next, through the transmission of genes from parents to offspring."
+    },
+    {
+      "id": 31,
+      "category": "Indian Polity & Economy",
+      "question": "What is the name of the Indian government's program to provide financial assistance to farmers?",
+      "options": [
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Krishi Sinchayee Yojana",
+        "Rashtriya Krishi Vikas Yojana"
+      ],
+      "correct": 0,
+      "explanation": "Pradhan Mantri Kisan Samman Nidhi is the Indian government's program to provide financial assistance to farmers, by providing them with a minimum income support of Rs. 6,000 per year."
+    },
+    {
+      "id": 32,
+      "category": "Geography",
+      "question": "Which river is the longest in Africa?",
+      "options": [
+        "Nile River",
+        "Congo River",
+        "Niger River",
+        "Zambezi River"
+      ],
+      "correct": 0,
+      "explanation": "The Nile River is the longest river in Africa, with a length of approximately 6,695 kilometers."
+    },
+    {
+      "id": 33,
+      "category": "Reasoning & Logic",
+      "question": "If a person is facing north and turns 90 degrees to the right, what direction will they be facing?",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correct": 2,
+      "explanation": "If a person is facing north and turns 90 degrees to the right, they will be facing east."
+    },
+    {
+      "id": 34,
       "category": "English Language Concepts",
       "question": "What is the meaning of the word 'fastidious'?",
       "options": [
-        "Careless and sloppy",
-        "Meticulous and demanding",
-        "Quick and efficient",
-        "Slow and lazy"
+        "Meticulous and demanding in one's standards",
+        "Careless and sloppy in one's work",
+        "Quick and efficient in one's work",
+        "Slow and sluggish in one's work"
       ],
-      "correct": 1,
-      "explanation": "The word 'fastidious' means meticulous and demanding, having a strong attention to detail and being very particular about things."
+      "correct": 0,
+      "explanation": "The word 'fastidious' means being meticulous and demanding in one's standards, having a strong attention to detail and a high level of quality."
     },
     {
-      "id": 42,
+      "id": 35,
       "category": "Current Affairs",
       "question": "Who is the current President of the World Bank?",
       "options": [
@@ -548,23 +457,23 @@
         "Paul Wolfowitz"
       ],
       "correct": 0,
-      "explanation": "David Malpass is the current President of the World Bank, taking office on April 9, 2019."
+      "explanation": "David Malpass is the current President of the World Bank, appointed in 2019."
     },
     {
-      "id": 43,
+      "id": 36,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Hitchhiker's Guide to the Galaxy'?",
+      "question": "Who is the author of the book 'The Wealth of Nations'?",
       "options": [
-        "Douglas Adams",
-        "Terry Pratchett",
-        "Neil Gaiman",
-        "Isaac Asimov"
+        "Adam Smith",
+        "Karl Marx",
+        "John Maynard Keynes",
+        "Friedrich Hayek"
       ],
       "correct": 0,
-      "explanation": "Douglas Adams is the author of the book 'The Hitchhiker's Guide to the Galaxy', a comedic science fiction series that has been widely acclaimed and has become a cult classic."
+      "explanation": "Adam Smith wrote the book 'The Wealth of Nations', which is a foundational work of modern economics."
     },
     {
-      "id": 44,
+      "id": 37,
       "category": "General Science",
       "question": "What is the largest planet in our solar system by mass?",
       "options": [
@@ -577,17 +486,108 @@
       "explanation": "Jupiter is the largest planet in our solar system by mass, with a mass of approximately 318 times that of Earth."
     },
     {
-      "id": 45,
+      "id": 38,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to promote skill development and vocational training?",
+      "question": "What is the name of the Indian government's program to provide housing to all citizens?",
       "options": [
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
         "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Fasal Bima Yojana"
+        "Pradhan Mantri Gramin Awas Yojana",
+        "Pradhan Mantri Urban Awas Yojana",
+        "Indira Awas Yojana"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Kaushal Vikas Yojana is a central government scheme aimed at promoting skill development and vocational training, by providing financial assistance and support to individuals who wish to acquire new skills or upgrade their existing ones."
+      "explanation": "Pradhan Mantri Awas Yojana is the Indian government's program to provide housing to all citizens, by providing them with affordable housing and other related benefits."
+    },
+    {
+      "id": 39,
+      "category": "Geography",
+      "question": "Which city is the capital of China?",
+      "options": [
+        "Beijing",
+        "Shanghai",
+        "Guangzhou",
+        "Hong Kong"
+      ],
+      "correct": 0,
+      "explanation": "Beijing is the capital city of China, located in the northern part of the country."
+    },
+    {
+      "id": 40,
+      "category": "Reasoning & Logic",
+      "question": "If a person is facing south and turns 180 degrees, what direction will they be facing?",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correct": 0,
+      "explanation": "If a person is facing south and turns 180 degrees, they will be facing north."
+    },
+    {
+      "id": 41,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the word 'enigma'?",
+      "options": [
+        "A mysterious or difficult problem",
+        "A simple and easy solution",
+        "A clear and obvious answer",
+        "A confusing and unclear question"
+      ],
+      "correct": 0,
+      "explanation": "The word 'enigma' means a mysterious or difficult problem, something that is hard to understand or solve."
+    },
+    {
+      "id": 42,
+      "category": "Current Affairs",
+      "question": "Who is the current Secretary-General of the United Nations?",
+      "options": [
+        "Antonio Guterres",
+        "Ban Ki-moon",
+        "Kofi Annan",
+        "Boutros Boutros-Ghali"
+      ],
+      "correct": 0,
+      "explanation": "Antonio Guterres is the current Secretary-General of the United Nations, appointed in 2017."
+    },
+    {
+      "id": 43,
+      "category": "General Awareness & Static GK",
+      "question": "Who is the author of the book 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "F. Scott Fitzgerald",
+        "Jane Austen",
+        "J.K. Rowling"
+      ],
+      "correct": 0,
+      "explanation": "Harper Lee wrote the book 'To Kill a Mockingbird', which is a classic novel of modern American literature."
+    },
+    {
+      "id": 44,
+      "category": "General Science",
+      "question": "What is the process by which an organism's genetic information is altered by external factors?",
+      "options": [
+        "Mutation",
+        "Genetic drift",
+        "Gene flow",
+        "Epigenetics"
+      ],
+      "correct": 0,
+      "explanation": "Mutation is the process by which an organism's genetic information is altered by external factors, such as radiation or chemicals."
+    },
+    {
+      "id": 45,
+      "category": "Indian Polity & Economy",
+      "question": "What is the name of the Indian government's program to provide employment to rural youth?",
+      "options": [
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Rozgar Protsahan Yojana",
+        "Pradhan Mantri Rural Employment Guarantee Scheme",
+        "Deen Dayal Upadhyaya Grameen Kaushalya Yojana"
+      ],
+      "correct": 2,
+      "explanation": "Pradhan Mantri Rural Employment Guarantee Scheme is the Indian government's program to provide employment to rural youth, by providing them with a guaranteed minimum number of days of employment per year."
     },
     {
       "id": 46,
@@ -600,189 +600,189 @@
         "Elbe River"
       ],
       "correct": 0,
-      "explanation": "The Volga River is the longest river in Europe, stretching for approximately 3,693 kilometers from its source in the Valdai Hills to its mouth in the Caspian Sea."
+      "explanation": "The Volga River is the longest river in Europe, with a length of approximately 3,692 kilometers."
     },
     {
       "id": 47,
       "category": "Reasoning & Logic",
-      "question": "If a person has 8 balls, and 7 of them are the same color, what is the minimum number of balls that the person must pick to guarantee that they have at least 2 balls of the same color?",
+      "question": "If a person is facing east and turns 270 degrees to the left, what direction will they be facing?",
       "options": [
-        "2",
-        "3",
-        "4",
-        "5"
+        "North",
+        "South",
+        "East",
+        "West"
       ],
-      "correct": 2,
-      "explanation": "The person must pick at least 3 balls to guarantee that they have at least 2 balls of the same color, as the worst-case scenario is that the first 2 balls picked are of different colors."
+      "correct": 1,
+      "explanation": "If a person is facing east and turns 270 degrees to the left, they will be facing south."
     },
     {
       "id": 48,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the phrase 'cut to the chase'?",
+      "question": "What is the meaning of the word 'persuade'?",
       "options": [
-        "To get to the point and stop wasting time",
-        "To avoid the main topic and talk about something else",
-        "To be very polite and courteous",
-        "To be very aggressive and confrontational"
+        "To convince someone to do something",
+        "To force someone to do something",
+        "To persuade someone to do something",
+        "To dissuade someone from doing something"
       ],
       "correct": 0,
-      "explanation": "The phrase 'cut to the chase' means to get to the point and stop wasting time, to focus on the most important or interesting part of a conversation or situation."
+      "explanation": "The word 'persuade' means to convince someone to do something, to make them believe or agree with something."
     },
     {
       "id": 49,
       "category": "Current Affairs",
-      "question": "What is the name of the international agreement aimed at reducing plastic pollution in the oceans?",
+      "question": "Who is the current Chancellor of Germany?",
       "options": [
-        "Paris Agreement",
-        "Montreal Protocol",
-        "Basel Convention",
-        "United Nations Convention on the Law of the Sea"
+        "Olaf Scholz",
+        "Angela Merkel",
+        "Gerhard Schroder",
+        "Helmut Kohl"
       ],
-      "correct": 2,
-      "explanation": "The Basel Convention is an international agreement aimed at reducing plastic pollution in the oceans, by regulating the transboundary movement of hazardous waste, including plastic waste."
+      "correct": 0,
+      "explanation": "Olaf Scholz is the current Chancellor of Germany, appointed in 2021."
     },
     {
       "id": 50,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Lord of the Rings'?",
+      "question": "Who is the author of the book '1984'?",
       "options": [
-        "J.R.R. Tolkien",
-        "C.S. Lewis",
-        "George R.R. Martin",
-        "J.K. Rowling"
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "Kurt Vonnegut"
       ],
       "correct": 0,
-      "explanation": "J.R.R. Tolkien is the author of the book 'The Lord of the Rings', a high fantasy novel that has become a classic of the genre."
+      "explanation": "George Orwell wrote the book '1984', which is a classic dystopian novel."
     },
     {
       "id": 51,
       "category": "General Science",
-      "question": "What is the process by which the human body converts food into energy?",
+      "question": "What is the largest living thing on Earth?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Digestion",
-        "Fermentation"
+        "A blue whale",
+        "A redwood tree",
+        "A coral reef",
+        "A fungus"
       ],
-      "correct": 0,
-      "explanation": "Respiration is the process by which the human body converts food into energy, by breaking down glucose and other nutrients to produce ATP (adenosine triphosphate), which is then used to power the body's various functions."
+      "correct": 2,
+      "explanation": "A coral reef is the largest living thing on Earth, with some reefs covering over 2,300 kilometers."
     },
     {
       "id": 52,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to promote rural development and poverty alleviation?",
+      "question": "What is the name of the Indian government's program to provide healthcare to pregnant women?",
       "options": [
-        "Pradhan Mantri Gramin Awas Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Mahatma Gandhi National Rural Employment Guarantee Act"
+        "Pradhan Mantri Matru Vandana Yojana",
+        "Pradhan Mantri Surakshit Matritva Abhiyan",
+        "Pradhan Mantri Janani Suraksha Yojana",
+        "National Health Mission"
       ],
-      "correct": 3,
-      "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act is a central government scheme aimed at promoting rural development and poverty alleviation, by providing a guarantee of 100 days of wage employment to rural laborers."
+      "correct": 2,
+      "explanation": "Pradhan Mantri Janani Suraksha Yojana is the Indian government's program to provide healthcare to pregnant women, by providing them with cash incentives and other benefits."
     },
     {
       "id": 53,
       "category": "Geography",
-      "question": "Which city is the capital of China?",
+      "question": "Which city is the capital of Brazil?",
       "options": [
-        "Beijing",
-        "Shanghai",
-        "Guangzhou",
-        "Hong Kong"
+        "Brasilia",
+        "Rio de Janeiro",
+        "Sao Paulo",
+        "Buenos Aires"
       ],
       "correct": 0,
-      "explanation": "Beijing is the capital city of China, with a population of over 21 million people and a rich cultural and historical heritage."
+      "explanation": "Brasilia is the capital city of Brazil, located in the Federal District."
     },
     {
       "id": 54,
       "category": "Reasoning & Logic",
-      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 2 feet up the well each day, but slips back 1 foot at night, how many days will it take for the snail to reach the top of the well?",
+      "question": "If a person is facing north and turns 45 degrees to the right, what direction will they be facing?",
       "options": [
-        "18 days",
-        "19 days",
-        "20 days",
-        "21 days"
+        "North",
+        "South",
+        "East",
+        "Northeast"
       ],
-      "correct": 2,
-      "explanation": "The snail climbs 2 feet up and slips back 1 foot, so it effectively moves 1 foot up each day. To reach the top of the 20-foot well, it will take 18 days (17 days to climb 17 feet and 1 day to climb the final 2 feet, but since it slips back 1 foot at night, it will take 19 days)."
+      "correct": 3,
+      "explanation": "If a person is facing north and turns 45 degrees to the right, they will be facing northeast."
     },
     {
       "id": 55,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'enigmatic'?",
+      "question": "What is the meaning of the word 'ubiquitous'?",
       "options": [
-        "Mysterious and difficult to understand",
-        "Clear and easy to understand",
-        "Happy and optimistic",
-        "Sad and pessimistic"
+        "Existing or being everywhere at the same time",
+        "Existing or being in a specific place",
+        "Existing or being at a specific time",
+        "Existing or being in a specific context"
       ],
       "correct": 0,
-      "explanation": "The word 'enigmatic' means mysterious and difficult to understand, being puzzling or ambiguous."
+      "explanation": "The word 'ubiquitous' means existing or being everywhere at the same time, being widespread and omnipresent."
     },
     {
       "id": 56,
       "category": "Current Affairs",
-      "question": "What is the name of the Indian government's scheme to promote renewable energy and reduce greenhouse gas emissions?",
+      "question": "Who is the current Prime Minister of Australia?",
       "options": [
-        "National Solar Mission",
-        "National Wind Mission",
-        "National Renewable Energy Policy",
-        "Pradhan Mantri Ujjwala Yojana"
+        "Anthony Albanese",
+        "Scott Morrison",
+        "Malcolm Turnbull",
+        "Tony Abbott"
       ],
       "correct": 0,
-      "explanation": "The National Solar Mission is a central government scheme aimed at promoting renewable energy and reducing greenhouse gas emissions, by encouraging the development and use of solar energy in India."
+      "explanation": "Anthony Albanese is the current Prime Minister of Australia, appointed in 2022."
     },
     {
       "id": 57,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Catcher in the Rye'?",
+      "question": "Who is the author of the book 'The Alchemist'?",
       "options": [
-        "J.D. Salinger",
-        "F. Scott Fitzgerald",
-        "Ernest Hemingway",
-        "Mark Twain"
+        "Paulo Coelho",
+        "Gabriel Garcia Marquez",
+        "Mario Vargas Llosa",
+        "Isabel Allende"
       ],
       "correct": 0,
-      "explanation": "J.D. Salinger is the author of the book 'The Catcher in the Rye', a classic coming-of-age novel that has become a cultural icon of teenage angst and rebellion."
+      "explanation": "Paulo Coelho wrote the book 'The Alchemist', which is a famous novel about spiritual journey and self-discovery."
     },
     {
       "id": 58,
       "category": "General Science",
-      "question": "What is the largest living thing on Earth?",
+      "question": "What is the process by which water moves from the ground to the atmosphere through plants?",
       "options": [
-        "The Great Barrier Reef",
-        "The Amazon Rainforest",
-        "The Grand Canyon",
-        "The Great Wall of China"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
       ],
-      "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living thing on Earth, spanning more than 2,300 kilometers off the coast of Australia and composed of billions of tiny coral polyps that work together to create this vast ecosystem."
+      "correct": 2,
+      "explanation": "Transpiration is the process by which water moves from the ground to the atmosphere through plants, which release water vapor into the air through their leaves."
     },
     {
       "id": 59,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to promote financial inclusion and digital payments?",
+      "question": "What is the name of the Indian government's program to provide financial assistance to small and medium-sized enterprises?",
       "options": [
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Digital India"
+        "Pradhan Mantri MUDRA Yojana",
+        "Pradhan Mantri Stand-up India Scheme",
+        "Pradhan Mantri Micro Units Development and Refinance Agency Yojana",
+        "National Small Industries Corporation"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Jan Dhan Yojana is a central government scheme aimed at promoting financial inclusion and digital payments, by encouraging the opening of bank accounts and the use of digital payment systems."
+      "explanation": "Pradhan Mantri MUDRA Yojana is the Indian government's program to provide financial assistance to small and medium-sized enterprises, by providing them with loans and other financial services."
     },
     {
       "id": 60,
       "category": "Geography",
-      "question": "Which city is the largest in South America?",
+      "question": "Which city is the largest in Scandinavia?",
       "options": [
-        "Sao Paulo",
-        "Buenos Aires",
-        "Lima",
-        "Bogota"
+        "Stockholm",
+        "Copenhagen",
+        "Oslo",
+        "Helsinki"
       ],
       "correct": 0,
-      "explanation": "Sao Paulo is the largest city in South America, with a population of over 22 million people, and is a major economic and cultural center in Brazil."
+      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people."
     }
   ]
 }

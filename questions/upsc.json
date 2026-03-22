@@ -1,65 +1,338 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-03-21",
+  "date": "2026-03-22",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "The ancient Indian university of Taxila was a major center of learning, particularly in the fields of:",
+      "question": "The ancient Indian university of Nalanda was established during the reign of which emperor?",
       "options": [
-        "Buddhism and Jainism",
-        "Ayurveda and Astrology",
-        "Philosophy and Politics",
-        "All of the above"
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Harshavardhana",
+        "Akbar"
       ],
-      "correct": 3,
-      "explanation": "Taxila, an ancient Indian university, was renowned for its diverse academic offerings, including but not limited to Buddhism, Jainism, Ayurveda, Astrology, Philosophy, and Politics."
+      "correct": 2,
+      "explanation": "The ancient Indian university of Nalanda was established during the reign of Harshavardhana in the 5th century AD."
     },
     {
       "id": 2,
       "category": "Indian Geography",
-      "question": "The easternmost point of India is:",
+      "question": "Which of the following rivers flows through the Satpura range?",
       "options": [
-        "Kanyakumari",
-        "Kohima",
-        "Dong",
-        "Cape Comorin"
+        "Narmada",
+        "Tapi",
+        "Godavari",
+        "Mahanadi"
       ],
-      "correct": 2,
-      "explanation": "Dong, located in the Anjaw district of Arunachal Pradesh, is the easternmost point of India."
+      "correct": 0,
+      "explanation": "The Narmada river flows through the Satpura range in central India."
     },
     {
       "id": 3,
       "category": "Indian Polity & Governance",
-      "question": "The 42nd Amendment to the Constitution of India added which of the following words to the Preamble?",
+      "question": "What is the minimum age requirement for a person to be eligible to contest elections to the Lok Sabha?",
       "options": [
-        "Secular",
-        "Socialist",
-        "Both Secular and Socialist",
-        "Federal"
+        "21 years",
+        "25 years",
+        "30 years",
+        "35 years"
       ],
-      "correct": 2,
-      "explanation": "The 42nd Amendment to the Constitution of India, enacted in 1976, incorporated the words 'Secular' and 'Socialist' into the Preamble, thereby defining the character of the Indian Republic more explicitly."
+      "correct": 1,
+      "explanation": "According to Article 84 of the Indian Constitution, a person must be at least 25 years old to be eligible to contest elections to the Lok Sabha."
     },
     {
       "id": 4,
       "category": "Indian Economy",
-      "question": "The primary aim of the 'Make in India' initiative launched by the Government of India is to:",
+      "question": "The National Bank for Agriculture and Rural Development (NABARD) was established in which year?",
       "options": [
-        "Increase foreign investment in the manufacturing sector",
-        "Promote e-commerce and digital payments",
-        "Enhance the role of the public sector in the economy",
-        "Reduce dependence on imported goods"
+        "1978",
+        "1982",
+        "1985",
+        "1990"
       ],
-      "correct": 0,
-      "explanation": "The 'Make in India' initiative, launched in 2014, is aimed at promoting India as a manufacturing hub, thereby increasing foreign investment in the manufacturing sector and creating jobs."
+      "correct": 1,
+      "explanation": "The National Bank for Agriculture and Rural Development (NABARD) was established on July 12, 1982."
     },
     {
       "id": 5,
       "category": "General Science",
-      "question": "The process by which plants convert light energy into chemical energy is known as:",
+      "question": "Who is the discoverer of the principles of inheritance, also known as the father of genetics?",
+      "options": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Galileo Galilei",
+        "Louis Pasteur"
+      ],
+      "correct": 1,
+      "explanation": "Gregor Mendel is known as the father of genetics due to his discovery of the principles of inheritance in the 19th century."
+    },
+    {
+      "id": 6,
+      "category": "Environment & Ecology",
+      "question": "The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) was signed in which year?",
+      "options": [
+        "1972",
+        "1975",
+        "1980",
+        "1992"
+      ],
+      "correct": 1,
+      "explanation": "The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) was signed in 1975 and came into force in 1976."
+    },
+    {
+      "id": 7,
+      "category": "Current Affairs & General Knowledge",
+      "question": "The first woman to fly an aircraft solo was?",
+      "options": [
+        "Amelia Earhart",
+        "Sachin Tendulkar",
+        "Kalpana Chawla",
+        "Indira Gandhi"
+      ],
+      "correct": 0,
+      "explanation": "Amelia Earhart became the first woman to fly an aircraft solo in 1932, flying a single-engine monoplane."
+    },
+    {
+      "id": 8,
+      "category": "Indian History",
+      "question": "The ancient Indian text, Arthashastra, was written by?",
+      "options": [
+        "Kautilya",
+        "Chanakya",
+        "Ashoka",
+        "Akbar"
+      ],
+      "correct": 0,
+      "explanation": "The ancient Indian text, Arthashastra, was written by Kautilya, also known as Chanakya, in the 4th century BC."
+    },
+    {
+      "id": 9,
+      "category": "Indian Geography",
+      "question": "The Western Ghats mountain range runs along the western coast of which states in India?",
+      "options": [
+        "Gujarat and Maharashtra",
+        "Maharashtra and Goa",
+        "Kerala and Tamil Nadu",
+        "Karnataka and Andhra Pradesh"
+      ],
+      "correct": 2,
+      "explanation": "The Western Ghats mountain range runs along the western coast of Kerala and Tamil Nadu in India."
+    },
+    {
+      "id": 10,
+      "category": "Indian Polity & Governance",
+      "question": "The 42nd Amendment to the Indian Constitution was enacted in which year?",
+      "options": [
+        "1975",
+        "1976",
+        "1977",
+        "1978"
+      ],
+      "correct": 1,
+      "explanation": "The 42nd Amendment to the Indian Constitution was enacted in 1976 during the Emergency period."
+    },
+    {
+      "id": 11,
+      "category": "Indian Economy",
+      "question": "The concept of 'inclusive growth' was introduced in which Five-Year Plan of India?",
+      "options": [
+        "10th Plan",
+        "11th Plan",
+        "12th Plan",
+        "13th Plan"
+      ],
+      "correct": 1,
+      "explanation": "The concept of 'inclusive growth' was introduced in the 11th Five-Year Plan of India (2007-2012)."
+    },
+    {
+      "id": 12,
+      "category": "General Science",
+      "question": "Who is the discoverer of the X-ray?",
+      "options": [
+        "Wilhelm Conrad Röntgen",
+        "Max Planck",
+        "Albert Einstein",
+        "Marie Curie"
+      ],
+      "correct": 0,
+      "explanation": "Wilhelm Conrad Röntgen discovered X-rays in 1895 and was awarded the first Nobel Prize in Physics in 1901."
+    },
+    {
+      "id": 13,
+      "category": "Environment & Ecology",
+      "question": "The Earth Summit was held in which city in 1992?",
+      "options": [
+        "Rio de Janeiro",
+        "Tokyo",
+        "New York",
+        "Paris"
+      ],
+      "correct": 0,
+      "explanation": "The Earth Summit, also known as the United Nations Conference on Environment and Development (UNCED), was held in Rio de Janeiro in 1992."
+    },
+    {
+      "id": 14,
+      "category": "Current Affairs & General Knowledge",
+      "question": "The first Indian to win an Olympic medal was?",
+      "options": [
+        "Khashaba Dadasaheb Jadhav",
+        "Milkha Singh",
+        "Vijay Amritraj",
+        "Abhinav Bindra"
+      ],
+      "correct": 0,
+      "explanation": "Khashaba Dadasaheb Jadhav won a bronze medal in wrestling at the 1952 Helsinki Olympics, becoming the first Indian to win an Olympic medal."
+    },
+    {
+      "id": 15,
+      "category": "Indian History",
+      "question": "The Mughal emperor who built the Taj Mahal was?",
+      "options": [
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Shah Jahan"
+      ],
+      "correct": 3,
+      "explanation": "The Mughal emperor Shah Jahan built the Taj Mahal in memory of his wife, Mumtaz Mahal, in the 17th century."
+    },
+    {
+      "id": 16,
+      "category": "Indian Geography",
+      "question": "The largest island in the Lakshadweep archipelago is?",
+      "options": [
+        "Amini",
+        "Androth",
+        "Kavaratti",
+        "Minicoy"
+      ],
+      "correct": 2,
+      "explanation": "Kavaratti is the largest island in the Lakshadweep archipelago, with an area of approximately 4.22 square kilometers."
+    },
+    {
+      "id": 17,
+      "category": "Indian Polity & Governance",
+      "question": "The Indian Constitution came into effect on?",
+      "options": [
+        "January 26, 1950",
+        "August 15, 1947",
+        "October 2, 1950",
+        "November 26, 1949"
+      ],
+      "correct": 0,
+      "explanation": "The Indian Constitution came into effect on January 26, 1950, marking the transition of India to a republic."
+    },
+    {
+      "id": 18,
+      "category": "Indian Economy",
+      "question": "The first Five-Year Plan of India was launched in which year?",
+      "options": [
+        "1950",
+        "1951",
+        "1952",
+        "1955"
+      ],
+      "correct": 1,
+      "explanation": "The first Five-Year Plan of India was launched in 1951, with a focus on rapid industrialization and agricultural development."
+    },
+    {
+      "id": 19,
+      "category": "General Science",
+      "question": "The largest planet in our solar system is?",
+      "options": [
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Uranus"
+      ],
+      "correct": 2,
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
+    },
+    {
+      "id": 20,
+      "category": "Environment & Ecology",
+      "question": "The term 'biodiversity' was coined by?",
+      "options": [
+        "Edward O. Wilson",
+        "Rachel Carson",
+        "Jane Goodall",
+        "David Attenborough"
+      ],
+      "correct": 0,
+      "explanation": "The term 'biodiversity' was coined by Edward O. Wilson in 1985, combining the words 'biological' and 'diversity'."
+    },
+    {
+      "id": 21,
+      "category": "Current Affairs & General Knowledge",
+      "question": "The first Indian satellite to be launched into space was?",
+      "options": [
+        "Aryabhata",
+        "Bhaskara",
+        "INSAT-1A",
+        "IRS-1A"
+      ],
+      "correct": 0,
+      "explanation": "Aryabhata was the first Indian satellite to be launched into space, on April 19, 1975, using a Soviet rocket."
+    },
+    {
+      "id": 22,
+      "category": "Indian History",
+      "question": "The Indus Valley Civilization was discovered in which year?",
+      "options": [
+        "1850",
+        "1900",
+        "1920",
+        "1922"
+      ],
+      "correct": 3,
+      "explanation": "The Indus Valley Civilization was discovered in 1922 by archaeologist Daya Ram Sahni, who excavated the site of Harappa."
+    },
+    {
+      "id": 23,
+      "category": "Indian Geography",
+      "question": "The longest river in South India is?",
+      "options": [
+        "Godavari",
+        "Krishna",
+        "Kaveri",
+        "Tungabhadra"
+      ],
+      "correct": 0,
+      "explanation": "The Godavari is the longest river in South India, stretching over 1,465 kilometers from its source to its mouth."
+    },
+    {
+      "id": 24,
+      "category": "Indian Polity & Governance",
+      "question": "The Indian Parliament consists of how many houses?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "The Indian Parliament consists of two houses: the Lok Sabha (House of the People) and the Rajya Sabha (Council of States)."
+    },
+    {
+      "id": 25,
+      "category": "Indian Economy",
+      "question": "The concept of 'Make in India' was launched by which government?",
+      "options": [
+        "NDA",
+        "UPA",
+        "Janata Party",
+        "Congress"
+      ],
+      "correct": 0,
+      "explanation": "The concept of 'Make in India' was launched by the NDA government led by Prime Minister Narendra Modi in 2014."
+    },
+    {
+      "id": 26,
+      "category": "General Science",
+      "question": "The process by which plants convert sunlight into energy is called?",
       "options": [
         "Respiration",
         "Photosynthesis",
@@ -67,722 +340,449 @@
         "Fermentation"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose."
-    },
-    {
-      "id": 6,
-      "category": "Environment & Ecology",
-      "question": "The main goal of the 'Paris Agreement' is to:",
-      "options": [
-        "Limit global warming to well below 2°C",
-        "Reduce greenhouse gas emissions by 50% by 2025",
-        "Promote the use of renewable energy sources",
-        "Protect biodiversity in developing countries"
-      ],
-      "correct": 0,
-      "explanation": "The Paris Agreement, adopted in 2015, aims to limit global warming to well below 2°C above pre-industrial levels and pursue efforts to limit it to 1.5°C."
-    },
-    {
-      "id": 7,
-      "category": "Current Affairs & General Knowledge",
-      "question": "The 'Digital India' initiative was launched by the Government of India on:",
-      "options": [
-        "July 1, 2015",
-        "August 15, 2014",
-        "January 26, 2016",
-        "December 25, 2017"
-      ],
-      "correct": 0,
-      "explanation": "The 'Digital India' initiative was launched by the Government of India on July 1, 2015, with the aim of transforming India into a digitally empowered society."
-    },
-    {
-      "id": 8,
-      "category": "Indian History",
-      "question": "The 'Regulating Act of 1773' was enacted by the British Parliament to:",
-      "options": [
-        "Establish the East India Company's monopoly over Indian trade",
-        "Create a new system of administration for the Bengal Presidency",
-        "Reduce the powers of the Governor-General of India",
-        "Increase the role of the British monarch in Indian affairs"
-      ],
-      "correct": 1,
-      "explanation": "The Regulating Act of 1773 was the first attempt by the British Parliament to regulate the affairs of the East India Company in India, and it led to the creation of a new system of administration for the Bengal Presidency."
-    },
-    {
-      "id": 9,
-      "category": "Indian Geography",
-      "question": "The 'Deccan Plateau' is bounded by the following mountain ranges:",
-      "options": [
-        "Western Ghats and Eastern Ghats",
-        "Aravalli Range and Vindhya Range",
-        "Satpura Range and Narmada River",
-        "All of the above"
-      ],
-      "correct": 0,
-      "explanation": "The Deccan Plateau is bounded by the Western Ghats to the west, the Eastern Ghats to the east, and the Satpura Range and Narmada River to the north."
-    },
-    {
-      "id": 10,
-      "category": "Indian Polity & Governance",
-      "question": "The 'Panchayati Raj system' was introduced in India through the:",
-      "options": [
-        "73rd Amendment to the Constitution",
-        "74th Amendment to the Constitution",
-        "42nd Amendment to the Constitution",
-        "65th Amendment to the Constitution"
-      ],
-      "correct": 0,
-      "explanation": "The 73rd Amendment to the Constitution of India, enacted in 1992, introduced the Panchayati Raj system, which aimed to decentralize power and strengthen local self-government."
-    },
-    {
-      "id": 11,
-      "category": "Indian Economy",
-      "question": "The 'Fiscal Responsibility and Budget Management (FRBM) Act' was enacted in:",
-      "options": [
-        "2000",
-        "2003",
-        "2008",
-        "2013"
-      ],
-      "correct": 1,
-      "explanation": "The Fiscal Responsibility and Budget Management (FRBM) Act was enacted in 2003 to promote fiscal discipline, reduce fiscal deficits, and improve the management of public finances."
-    },
-    {
-      "id": 12,
-      "category": "General Science",
-      "question": "The largest planet in our solar system is:",
-      "options": [
-        "Jupiter",
-        "Saturn",
-        "Uranus",
-        "Neptune"
-      ],
-      "correct": 0,
-      "explanation": "Jupiter is the largest of all the planets in terms of both mass and size, with a diameter of approximately 142,984 kilometers."
-    },
-    {
-      "id": 13,
-      "category": "Environment & Ecology",
-      "question": "The 'Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)' aims to regulate the trade of:",
-      "options": [
-        "Endangered plant species",
-        "Endangered animal species",
-        "Both endangered plant and animal species",
-        "Neither endangered plant nor animal species"
-      ],
-      "correct": 2,
-      "explanation": "CITES is an international agreement that aims to ensure that international trade in specimens of wild animals and plants does not threaten their survival."
-    },
-    {
-      "id": 14,
-      "category": "Current Affairs & General Knowledge",
-      "question": "The 'Swachh Bharat Abhiyan' was launched by the Government of India on:",
-      "options": [
-        "October 2, 2014",
-        "January 26, 2015",
-        "August 15, 2014",
-        "December 25, 2017"
-      ],
-      "correct": 0,
-      "explanation": "The Swachh Bharat Abhiyan, a national cleanliness campaign, was launched by the Government of India on October 2, 2014, to achieve a clean and hygienic India."
-    },
-    {
-      "id": 15,
-      "category": "Indian History",
-      "question": "The 'Indian National Congress' was founded in:",
-      "options": [
-        "1884",
-        "1885",
-        "1886",
-        "1887"
-      ],
-      "correct": 1,
-      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume, with the objective of promoting Indian rights and interests."
-    },
-    {
-      "id": 16,
-      "category": "Indian Geography",
-      "question": "The 'Brahmaputra River' originates from the:",
-      "options": [
-        "Manasarovar Lake",
-        "Mansarovar Glacier",
-        "Chemayungdung Glacier",
-        "Angsi Glacier"
-      ],
-      "correct": 2,
-      "explanation": "The Brahmaputra River originates from the Chemayungdung Glacier, located in the Tibetan Plateau."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Governance",
-      "question": "The 'Right to Information (RTI) Act' was enacted in:",
-      "options": [
-        "2002",
-        "2004",
-        "2005",
-        "2007"
-      ],
-      "correct": 2,
-      "explanation": "The Right to Information (RTI) Act, enacted in 2005, aims to promote transparency and accountability in the functioning of public authorities."
-    },
-    {
-      "id": 18,
-      "category": "Indian Economy",
-      "question": "The 'Monetary Policy Committee (MPC)' was constituted by the Reserve Bank of India (RBI) in:",
-      "options": [
-        "2014",
-        "2015",
-        "2016",
-        "2017"
-      ],
-      "correct": 2,
-      "explanation": "The Monetary Policy Committee (MPC) was constituted by the RBI in 2016 to decide on monetary policy, including setting the repo rate."
-    },
-    {
-      "id": 19,
-      "category": "General Science",
-      "question": "The process of converting gravitational potential energy into kinetic energy is known as:",
-      "options": [
-        "Osmosis",
-        "Diffusion",
-        "Respiration",
-        "Waterfall"
-      ],
-      "correct": 3,
-      "explanation": "The conversion of gravitational potential energy into kinetic energy is exemplified in the process of a waterfall, where water moves from a higher elevation to a lower elevation, gaining speed."
-    },
-    {
-      "id": 20,
-      "category": "Environment & Ecology",
-      "question": "The 'National Clean Air Programme (NCAP)' was launched by the Government of India to reduce particulate matter (PM) levels by:",
-      "options": [
-        "20% by 2024",
-        "30% by 2025",
-        "20% by 2025",
-        "30% by 2024"
-      ],
-      "correct": 2,
-      "explanation": "The National Clean Air Programme (NCAP) aims to reduce particulate matter (PM) levels by 20% by 2025 in 102 non-attainment cities across India."
-    },
-    {
-      "id": 21,
-      "category": "Current Affairs & General Knowledge",
-      "question": "The 'Ayushman Bharat Yojana' was launched by the Government of India on:",
-      "options": [
-        "September 23, 2018",
-        "September 25, 2018",
-        "October 2, 2018",
-        "January 1, 2019"
-      ],
-      "correct": 1,
-      "explanation": "The Ayushman Bharat Yojana, a national health protection scheme, was launched by the Government of India on September 25, 2018."
-    },
-    {
-      "id": 22,
-      "category": "Indian History",
-      "question": "The 'Jallianwala Bagh Massacre' occurred on:",
-      "options": [
-        "April 13, 1918",
-        "April 13, 1919",
-        "April 13, 1920",
-        "April 13, 1921"
-      ],
-      "correct": 1,
-      "explanation": "The Jallianwala Bagh Massacre, a tragic event in Indian history, occurred on April 13, 1919, in Amritsar, where British troops fired upon a peaceful gathering of protesters, resulting in significant casualties."
-    },
-    {
-      "id": 23,
-      "category": "Indian Geography",
-      "question": "The 'Thar Desert' is also known as the:",
-      "options": [
-        "Cholistan Desert",
-        "Great Indian Desert",
-        "Arabian Desert",
-        "Kharan Desert"
-      ],
-      "correct": 1,
-      "explanation": "The Thar Desert, located in northwestern India and eastern Pakistan, is also known as the Great Indian Desert."
-    },
-    {
-      "id": 24,
-      "category": "Indian Polity & Governance",
-      "question": "The 'Public Interest Litigation (PIL)' was introduced in India through the:",
-      "options": [
-        "42nd Amendment to the Constitution",
-        "44th Amendment to the Constitution",
-        "Judicial activism",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "Public Interest Litigation (PIL) in India was a result of judicial activism, starting in the late 1970s and early 1980s, where courts began to entertain cases filed by individuals or groups not directly affected by the issue but acting in the public interest."
-    },
-    {
-      "id": 25,
-      "category": "Indian Economy",
-      "question": "The 'Goods and Services Tax (GST)' was introduced in India on:",
-      "options": [
-        "July 1, 2016",
-        "July 1, 2017",
-        "January 1, 2018",
-        "April 1, 2018"
-      ],
-      "correct": 1,
-      "explanation": "The Goods and Services Tax (GST), a landmark tax reform, was introduced in India on July 1, 2017, aiming to create a unified national market and simplify the tax structure."
-    },
-    {
-      "id": 26,
-      "category": "General Science",
-      "question": "The largest living structure on Earth is the:",
-      "options": [
-        "Great Barrier Reef",
-        "Amazon Rainforest",
-        "Grand Canyon",
-        "Great Wall of China"
-      ],
-      "correct": 0,
-      "explanation": "The Great Barrier Reef, located off the coast of Australia, is the largest living structure on Earth, composed of more than 2,900 individual reefs and 900 islands."
+      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
     },
     {
       "id": 27,
       "category": "Environment & Ecology",
-      "question": "The 'National Forest Policy' of India aims to maintain a minimum of:",
+      "question": "The term 'global warming' refers to?",
       "options": [
-        "30% forest cover",
-        "33% forest cover",
-        "20% forest cover",
-        "40% forest cover"
+        "The increase in the Earth's average temperature",
+        "The decrease in the Earth's average temperature",
+        "The melting of polar ice caps",
+        "The rise in sea levels"
       ],
-      "correct": 1,
-      "explanation": "The National Forest Policy of India, formulated in 1988, aims to have a minimum of 33% of the country's geographical area under forest cover."
+      "correct": 0,
+      "explanation": "Global warming refers to the long-term increase in the Earth's average temperature, primarily due to human activities such as burning fossil fuels and deforestation."
     },
     {
       "id": 28,
       "category": "Current Affairs & General Knowledge",
-      "question": "The 'Pradhan Mantri Jan Dhan Yojana' was launched on:",
+      "question": "The first woman to become the President of India was?",
       "options": [
-        "August 15, 2014",
-        "September 2, 2014",
-        "January 26, 2015",
-        "October 2, 2014"
+        "Pratibha Patil",
+        "Indira Gandhi",
+        "Sonia Gandhi",
+        "Mayawati"
       ],
-      "correct": 1,
-      "explanation": "The Pradhan Mantri Jan Dhan Yojana, a financial inclusion program, was launched on September 2, 2014, with the aim of providing banking services to the unbanked population."
+      "correct": 0,
+      "explanation": "Pratibha Patil became the first woman to become the President of India, serving from 2007 to 2012."
     },
     {
       "id": 29,
       "category": "Indian History",
-      "question": "The 'Indian Independence Act' was passed by the British Parliament on:",
+      "question": "The Indian National Congress was founded in which year?",
       "options": [
-        "July 18, 1947",
-        "August 14, 1947",
-        "August 15, 1947",
-        "September 18, 1947"
+        "1880",
+        "1885",
+        "1890",
+        "1895"
       ],
-      "correct": 0,
-      "explanation": "The Indian Independence Act, which paved the way for India's independence, was passed by the British Parliament on July 18, 1947."
+      "correct": 1,
+      "explanation": "The Indian National Congress was founded on December 28, 1885, by A.O. Hume, a British civil servant."
     },
     {
       "id": 30,
       "category": "Indian Geography",
-      "question": "The 'Aravalli Range' stretches across:",
+      "question": "The highest peak in the Himalayan mountain range is?",
       "options": [
-        "Gujarat and Rajasthan",
-        "Maharashtra and Madhya Pradesh",
-        "Uttar Pradesh and Bihar",
-        "West Bengal and Odisha"
+        "Mount Everest",
+        "K2",
+        "Kangchenjunga",
+        "Annapurna"
       ],
       "correct": 0,
-      "explanation": "The Aravalli Range, one of the oldest mountain ranges in the world, stretches across the states of Gujarat and Rajasthan in northwestern India."
+      "explanation": "Mount Everest is the highest peak in the Himalayan mountain range, with a height of over 8,848 meters above sea level."
     },
     {
       "id": 31,
       "category": "Indian Polity & Governance",
-      "question": "The 'Election Commission of India' is a:",
+      "question": "The Indian Constitution guarantees the right to?",
       "options": [
-        "Constitutional body",
-        "Statutory body",
-        "Executive body",
-        "Legislative body"
+        "Freedom of speech and expression",
+        "Freedom of assembly and association",
+        "Right to life and liberty",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The Election Commission of India is a constitutional body, established under Article 324 of the Constitution, responsible for conducting free and fair elections in the country."
+      "correct": 3,
+      "explanation": "The Indian Constitution guarantees the right to freedom of speech and expression, freedom of assembly and association, and the right to life and liberty, among other fundamental rights."
     },
     {
       "id": 32,
       "category": "Indian Economy",
-      "question": "The 'Fiscal Policy' in India is primarily the responsibility of the:",
+      "question": "The Reserve Bank of India (RBI) was established in which year?",
       "options": [
-        "Reserve Bank of India",
-        "Ministry of Finance",
-        "Planning Commission",
-        "Economic Advisory Council"
+        "1934",
+        "1935",
+        "1940",
+        "1945"
       ],
       "correct": 1,
-      "explanation": "The Ministry of Finance is primarily responsible for formulating and implementing the fiscal policy in India, which involves the use of government revenue and expenditure to manage the overall level of economic activity."
+      "explanation": "The Reserve Bank of India (RBI) was established on April 1, 1935, as the central bank of India."
     },
     {
       "id": 33,
       "category": "General Science",
-      "question": "The scientific principle behind the operation of a 'jet engine' is:",
+      "question": "The largest living structure on Earth is?",
       "options": [
-        "Conservation of momentum",
-        "Conservation of energy",
-        "Newton's third law of motion",
-        "All of the above"
+        "The Great Barrier Reef",
+        "The Amazon rainforest",
+        "The Grand Canyon",
+        "The Great Wall of China"
       ],
-      "correct": 2,
-      "explanation": "A jet engine operates on the principle of Newton's third law of motion, where the hot gases expelled out of the back of the engine produce a forward thrust, propelling the aircraft forward."
+      "correct": 0,
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
     },
     {
       "id": 34,
       "category": "Environment & Ecology",
-      "question": "The 'United Nations Framework Convention on Climate Change (UNFCCC)' was signed in:",
+      "question": "The term 'ecosystem' was coined by?",
       "options": [
-        "1990",
-        "1992",
-        "1995",
-        "1997"
+        "Arthur Tansley",
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Rachel Carson"
       ],
-      "correct": 1,
-      "explanation": "The United Nations Framework Convention on Climate Change (UNFCCC) was signed in 1992 at the Earth Summit in Rio de Janeiro, aiming to stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system."
+      "correct": 0,
+      "explanation": "The term 'ecosystem' was coined by Arthur Tansley in 1935, combining the words 'ecology' and 'system'."
     },
     {
       "id": 35,
       "category": "Current Affairs & General Knowledge",
-      "question": "The 'Smart Cities Mission' was launched by the Government of India in:",
+      "question": "The first Indian to win a Nobel Prize was?",
       "options": [
-        "June 25, 2015",
-        "August 15, 2015",
-        "October 2, 2015",
-        "January 1, 2016"
+        "Rabindranath Tagore",
+        "C.V. Raman",
+        "Amartya Sen",
+        "Mother Teresa"
       ],
       "correct": 0,
-      "explanation": "The Smart Cities Mission, an urban renewal program, was launched by the Government of India on June 25, 2015, to develop 100 cities across the country into smart cities."
+      "explanation": "Rabindranath Tagore was the first Indian to win a Nobel Prize, awarded the Nobel Prize in Literature in 1913."
     },
     {
       "id": 36,
       "category": "Indian History",
-      "question": "The 'Quit India Movement' was launched by Mahatma Gandhi on:",
+      "question": "The Battle of Panipat was fought in which year?",
       "options": [
-        "August 8, 1940",
-        "August 8, 1942",
-        "September 2, 1940",
-        "September 2, 1942"
+        "1526",
+        "1556",
+        "1761",
+        "1799"
       ],
-      "correct": 1,
-      "explanation": "The Quit India Movement, a civil disobedience movement against British rule, was launched by Mahatma Gandhi on August 8, 1942, during the British Raj."
+      "correct": 2,
+      "explanation": "The Third Battle of Panipat was fought on January 14, 1761, between the Maratha Empire and the Durrani Empire."
     },
     {
       "id": 37,
       "category": "Indian Geography",
-      "question": "The 'Ganges River' originates from the:",
+      "question": "The largest desert in India is?",
       "options": [
-        "Gangotri Glacier",
-        "Yamunotri Glacier",
-        "Siachen Glacier",
-        "Bhagirathi River"
+        "Thar Desert",
+        "Cholistan Desert",
+        "Kutch Desert",
+        "Rann of Kutch"
       ],
       "correct": 0,
-      "explanation": "The Ganges River originates from the Gangotri Glacier, located in the Uttarakhand Himalayas."
+      "explanation": "The Thar Desert, also known as the Cholistan Desert, is the largest desert in India, covering over 260,000 square kilometers."
     },
     {
       "id": 38,
       "category": "Indian Polity & Governance",
-      "question": "The 'Right to Education (RTE) Act' was enacted in:",
+      "question": "The Indian Constitution provides for a?",
       "options": [
-        "2005",
-        "2008",
-        "2009",
-        "2010"
+        "Federal system of government",
+        "Unitary system of government",
+        "Confederal system of government",
+        "Mixed system of government"
       ],
-      "correct": 2,
-      "explanation": "The Right to Education (RTE) Act, which makes education a fundamental right for children between the ages of 6 and 14, was enacted in 2009."
+      "correct": 0,
+      "explanation": "The Indian Constitution provides for a federal system of government, with power divided between the central government and the state governments."
     },
     {
       "id": 39,
       "category": "Indian Economy",
-      "question": "The 'Liberalization, Privatization, and Globalization (LPG) reforms' were introduced in India in:",
+      "question": "The concept of 'planned economy' was introduced in India by?",
       "options": [
-        "1990",
-        "1991",
-        "1992",
-        "1993"
+        "Jawaharlal Nehru",
+        "Indira Gandhi",
+        "Manmohan Singh",
+        "Narendra Modi"
       ],
-      "correct": 1,
-      "explanation": "The Liberalization, Privatization, and Globalization (LPG) reforms, aimed at opening up the Indian economy to the world, were introduced in 1991 by the Government of India under the leadership of Prime Minister P.V. Narasimha Rao."
+      "correct": 0,
+      "explanation": "The concept of 'planned economy' was introduced in India by Jawaharlal Nehru, who served as the first Prime Minister of India."
     },
     {
       "id": 40,
       "category": "General Science",
-      "question": "The process of 'desalination' involves the removal of:",
+      "question": "The process by which an organism's genetic information is passed from one generation to the next is called?",
       "options": [
-        "Dissolved salts and minerals from seawater",
-        "Dissolved gases from seawater",
-        "Suspended solids from seawater",
-        "Organic matter from seawater"
+        "Mutation",
+        "Genetic drift",
+        "Gene flow",
+        "Hereditary"
       ],
-      "correct": 0,
-      "explanation": "Desalination is the process of removing dissolved salts and minerals from seawater or brackish water, making it suitable for human consumption, irrigation, and other purposes."
+      "correct": 3,
+      "explanation": "Hereditary refers to the process by which an organism's genetic information is passed from one generation to the next through the transmission of genes."
     },
     {
       "id": 41,
       "category": "Environment & Ecology",
-      "question": "The 'Convention on Biological Diversity (CBD)' was signed in:",
+      "question": "The term 'sustainable development' was popularized by?",
       "options": [
-        "1990",
-        "1992",
-        "1995",
-        "1997"
+        "Gro Harlem Brundtland",
+        "Al Gore",
+        "James Hansen",
+        "David Attenborough"
       ],
-      "correct": 1,
-      "explanation": "The Convention on Biological Diversity (CBD), an international treaty aimed at preserving biodiversity, was signed in 1992 at the Earth Summit in Rio de Janeiro."
+      "correct": 0,
+      "explanation": "The term 'sustainable development' was popularized by Gro Harlem Brundtland, the former Prime Minister of Norway, in the 1987 report 'Our Common Future'."
     },
     {
       "id": 42,
       "category": "Current Affairs & General Knowledge",
-      "question": "The 'Pradhan Mantri Awas Yojana (PMAY)' was launched by the Government of India on:",
+      "question": "The first woman to become the Prime Minister of India was?",
       "options": [
-        "June 25, 2015",
-        "August 15, 2015",
-        "October 2, 2015",
-        "January 1, 2016"
+        "Indira Gandhi",
+        "Sonia Gandhi",
+        "Pratibha Patil",
+        "Mayawati"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Awas Yojana (PMAY), an affordable housing program, was launched by the Government of India on June 25, 2015, with the aim of providing housing for all by 2022."
+      "explanation": "Indira Gandhi became the first woman to become the Prime Minister of India, serving from 1966 to 1977 and again from 1980 to 1984."
     },
     {
       "id": 43,
       "category": "Indian History",
-      "question": "The 'Sepoy Mutiny' of 1857 started on:",
+      "question": "The East India Company was established in which year?",
       "options": [
-        "May 10, 1857",
-        "September 10, 1857",
-        "January 10, 1857",
-        "April 10, 1857"
+        "1600",
+        "1610",
+        "1620",
+        "1650"
       ],
       "correct": 0,
-      "explanation": "The Sepoy Mutiny, also known as the Indian Rebellion of 1857, began on May 10, 1857, in Meerut, marking a significant uprising against British rule in India."
+      "explanation": "The East India Company was established on December 31, 1600, by a royal charter granted by Queen Elizabeth I."
     },
     {
       "id": 44,
       "category": "Indian Geography",
-      "question": "The 'Himalayan Mountain Range' stretches across:",
+      "question": "The state with the longest coastline in India is?",
       "options": [
-        "India, Nepal, and Bhutan",
-        "India, Pakistan, and Afghanistan",
-        "India, China, and Myanmar",
-        "All of the above"
+        "Gujarat",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Andhra Pradesh"
       ],
       "correct": 0,
-      "explanation": "The Himalayan Mountain Range stretches across several countries in Asia, including India, Nepal, and Bhutan, forming a significant geological and ecological feature of the region."
+      "explanation": "Gujarat has the longest coastline in India, stretching over 1,600 kilometers along the Arabian Sea."
     },
     {
       "id": 45,
       "category": "Indian Polity & Governance",
-      "question": "The 'Cabinet Mission' to India was sent by the British Government in:",
+      "question": "The Indian Constitution provides for a?",
       "options": [
-        "1945",
-        "1946",
-        "1947",
-        "1948"
+        "Independent judiciary",
+        "Federal system of government",
+        "Unitary system of government",
+        "Confederal system of government"
       ],
-      "correct": 1,
-      "explanation": "The Cabinet Mission, led by Sir Pethick-Lawrence, Sir Stafford Cripps, and A.V. Alexander, was sent by the British Government to India in 1946 to discuss the transfer of power and the future constitution of India."
+      "correct": 0,
+      "explanation": "The Indian Constitution provides for an independent judiciary, with the Supreme Court as the highest court in the land."
     },
     {
       "id": 46,
       "category": "Indian Economy",
-      "question": "The 'New Economic Policy (NEP)' was introduced in India in:",
+      "question": "The concept of 'liberalization' was introduced in India by?",
       "options": [
-        "1990",
-        "1991",
-        "1992",
-        "1993"
+        "Rajiv Gandhi",
+        "Narasimha Rao",
+        "Manmohan Singh",
+        "Narendra Modi"
       ],
       "correct": 1,
-      "explanation": "The New Economic Policy (NEP), which aimed to liberalize the Indian economy, was introduced in 1991 by the Government of India under the leadership of Prime Minister P.V. Narasimha Rao."
+      "explanation": "The concept of 'liberalization' was introduced in India by Narasimha Rao, who served as the Prime Minister of India from 1991 to 1996."
     },
     {
       "id": 47,
       "category": "General Science",
-      "question": "The 'mitochondria' is often referred to as the:",
+      "question": "The largest mammal on Earth is?",
       "options": [
-        "Powerhouse of the cell",
-        "Control center of the cell",
-        "Site of protein synthesis",
-        "Storage organelle"
+        "Blue whale",
+        "Fin whale",
+        "Humpback whale",
+        "Sperm whale"
       ],
       "correct": 0,
-      "explanation": "The mitochondria is known as the powerhouse of the cell because it generates most of the cell's supply of adenosine triphosphate (ATP), which is used as a source of chemical energy."
+      "explanation": "The blue whale is the largest mammal on Earth, with some individuals reaching lengths of up to 33 meters and weighing up to 180 metric tons."
     },
     {
       "id": 48,
       "category": "Environment & Ecology",
-      "question": "The 'National Disaster Management Authority (NDMA)' was established in:",
+      "question": "The term 'greenhouse effect' refers to?",
       "options": [
-        "2005",
-        "2006",
-        "2007",
-        "2008"
+        "The warming of the Earth's atmosphere due to human activities",
+        "The cooling of the Earth's atmosphere due to natural processes",
+        "The reduction of the Earth's atmospheric pressure",
+        "The increase in the Earth's ocean currents"
       ],
       "correct": 0,
-      "explanation": "The National Disaster Management Authority (NDMA) was established in 2005, under the Disaster Management Act, 2005, to build a safer and disaster-resilient India."
+      "explanation": "The greenhouse effect refers to the warming of the Earth's atmosphere due to the increased levels of greenhouse gases, such as carbon dioxide and methane, primarily caused by human activities."
     },
     {
       "id": 49,
       "category": "Current Affairs & General Knowledge",
-      "question": "The 'Start-Up India' initiative was launched by the Government of India on:",
+      "question": "The first Indian to win a Grammy Award was?",
       "options": [
-        "January 16, 2016",
-        "August 15, 2015",
-        "October 2, 2015",
-        "January 1, 2016"
+        "Ravi Shankar",
+        "Ali Akbar Khan",
+        "Lata Mangeshkar",
+        "A.R. Rahman"
       ],
       "correct": 0,
-      "explanation": "The Start-Up India initiative, aimed at promoting entrepreneurship and start-ups in India, was launched by the Government of India on January 16, 2016."
+      "explanation": "Ravi Shankar was the first Indian to win a Grammy Award, awarded in 1967 for his album 'West Meets East'."
     },
     {
       "id": 50,
       "category": "Indian History",
-      "question": "The 'Punjab Resolution' was passed by the Indian National Congress in:",
+      "question": "The Mughal Empire was founded by?",
       "options": [
-        "1930",
-        "1938",
-        "1940",
-        "1942"
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Babur's father, Umar Shaikh Mirza"
       ],
-      "correct": 2,
-      "explanation": "The Punjab Resolution, which demanded complete independence for India, was passed by the Indian National Congress in 1940."
+      "correct": 0,
+      "explanation": "The Mughal Empire was founded by Babur, a Central Asian ruler, in 1526 after his victory over the Sultan of Delhi, Ibrahim Lodi."
     },
     {
       "id": 51,
       "category": "Indian Geography",
-      "question": "The 'Rann of Kutch' is a salt desert located in the:",
+      "question": "The state with the highest population density in India is?",
       "options": [
-        "State of Gujarat",
-        "State of Maharashtra",
-        "State of Rajasthan",
-        "State of Punjab"
+        "Bihar",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Delhi"
       ],
-      "correct": 0,
-      "explanation": "The Rann of Kutch, a large salt desert, is located in the state of Gujarat, particularly in the Kutch district."
+      "correct": 3,
+      "explanation": "Delhi has the highest population density in India, with over 11,000 people per square kilometer."
     },
     {
       "id": 52,
       "category": "Indian Polity & Governance",
-      "question": "The 'Comptroller and Auditor General (CAG) of India' is a:",
+      "question": "The Indian Constitution has a?",
       "options": [
-        "Constitutional authority",
-        "Statutory authority",
-        "Executive authority",
-        "Legislative authority"
+        "Flexible constitution",
+        "Rigid constitution",
+        "Federal constitution",
+        "Unitary constitution"
       ],
-      "correct": 0,
-      "explanation": "The Comptroller and Auditor General (CAG) of India is a constitutional authority, established under Article 148 of the Constitution, responsible for auditing the accounts of the Union and state governments."
+      "correct": 1,
+      "explanation": "The Indian Constitution has a rigid constitution, with a complex process for amendments, to ensure stability and continuity."
     },
     {
       "id": 53,
       "category": "Indian Economy",
-      "question": "The 'Rashtriya Swasthya Bima Yojana (RSBY)' was launched by the Government of India in:",
+      "question": "The concept of 'fiscal policy' refers to?",
       "options": [
-        "2007",
-        "2008",
-        "2009",
-        "2010"
+        "The use of monetary policy to regulate the economy",
+        "The use of fiscal policy to regulate the economy",
+        "The use of trade policy to regulate the economy",
+        "The use of industrial policy to regulate the economy"
       ],
       "correct": 1,
-      "explanation": "The Rashtriya Swasthya Bima Yojana (RSBY), a health insurance scheme for the poor, was launched by the Government of India in 2008."
+      "explanation": "The concept of 'fiscal policy' refers to the use of government spending and taxation to regulate the economy and achieve economic objectives."
     },
     {
       "id": 54,
       "category": "General Science",
-      "question": "The 'Human Immunodeficiency Virus (HIV)' primarily attacks the:",
+      "question": "The process by which water moves through a plant, from the roots to the leaves, is called?",
       "options": [
-        "Red blood cells",
-        "White blood cells",
-        "Platelets",
-        "Liver cells"
+        "Transpiration",
+        "Respiration",
+        "Photosynthesis",
+        "Osmosis"
       ],
-      "correct": 1,
-      "explanation": "The Human Immunodeficiency Virus (HIV) primarily attacks the body's immune system, specifically targeting and destroying CD4+ T cells, which are a type of white blood cell."
+      "correct": 0,
+      "explanation": "Transpiration refers to the process by which water moves through a plant, from the roots to the leaves, and is then released into the atmosphere as water vapor."
     },
     {
       "id": 55,
       "category": "Environment & Ecology",
-      "question": "The 'United Nations Environment Programme (UNEP)' was established in:",
+      "question": "The term 'conservation' refers to?",
       "options": [
-        "1972",
-        "1975",
-        "1980",
-        "1985"
+        "The preservation of natural resources for future generations",
+        "The exploitation of natural resources for economic gain",
+        "The protection of endangered species",
+        "The reduction of greenhouse gas emissions"
       ],
       "correct": 0,
-      "explanation": "The United Nations Environment Programme (UNEP) was established in 1972, following the United Nations Conference on the Human Environment, to address environmental issues at the global level."
+      "explanation": "The term 'conservation' refers to the preservation of natural resources, including forests, wildlife, and water, for future generations."
     },
     {
       "id": 56,
       "category": "Current Affairs & General Knowledge",
-      "question": "The 'Stand-Up India Scheme' was launched by the Government of India on:",
+      "question": "The first Indian to win an Olympic gold medal was?",
       "options": [
-        "April 5, 2016",
-        "August 15, 2015",
-        "October 2, 2015",
-        "January 1, 2016"
+        "Abhinav Bindra",
+        "Leander Paes",
+        "Karnam Malleswari",
+        "Neeraj Chopra"
       ],
       "correct": 0,
-      "explanation": "The Stand-Up India Scheme, aimed at promoting entrepreneurship among women and SC/ST communities, was launched by the Government of India on April 5, 2016."
+      "explanation": "Abhinav Bindra won the first individual Olympic gold medal for India, in the 10m air rifle event, at the 2008 Beijing Olympics."
     },
     {
       "id": 57,
       "category": "Indian History",
-      "question": "The 'Poona Pact' was signed between the Indian National Congress and the British Government in:",
+      "question": "The Sepoy Mutiny of 1857 was also known as?",
       "options": [
-        "1930",
-        "1931",
-        "1932",
-        "1933"
+        "The Indian Rebellion of 1857",
+        "The Sepoy Revolt of 1857",
+        "The Great Mutiny of 1857",
+        "The First War of Indian Independence"
       ],
-      "correct": 2,
-      "explanation": "The Poona Pact, an agreement between the Indian National Congress and the British Government, was signed in 1932, providing for the representation of the depressed classes in the legislatures."
+      "correct": 3,
+      "explanation": "The Sepoy Mutiny of 1857 was also known as the First War of Indian Independence, as it marked a significant turning point in the Indian independence movement."
     },
     {
       "id": 58,
       "category": "Indian Geography",
-      "question": "The 'Indus River' flows through the:",
+      "question": "The easternmost state in India is?",
       "options": [
-        "States of Jammu and Kashmir, and Punjab",
-        "States of Himachal Pradesh, and Uttarakhand",
-        "States of Rajasthan, and Gujarat",
-        "States of Madhya Pradesh, and Chhattisgarh"
+        "Arunachal Pradesh",
+        "Assam",
+        "Meghalaya",
+        "Nagaland"
       ],
       "correct": 0,
-      "explanation": "The Indus River flows through the states of Jammu and Kashmir, and Punjab in India, before entering Pakistan."
+      "explanation": "Arunachal Pradesh is the easternmost state in India, bordering Myanmar, Bhutan, and China."
     },
     {
       "id": 59,
       "category": "Indian Polity & Governance",
-      "question": "The 'First Amendment to the Constitution of India' was made in:",
+      "question": "The Indian Constitution provides for a?",
       "options": [
-        "1950",
-        "1951",
-        "1952",
-        "1953"
+        "Single citizenship",
+        "Dual citizenship",
+        "Multiple citizenship",
+        "No citizenship"
       ],
-      "correct": 1,
-      "explanation": "The First Amendment to the Constitution of India was made in 1951, which introduced significant changes, including the addition of Articles 31A, 31B, and the Ninth Schedule, to address issues related to property rights and the implementation of the Constitution."
+      "correct": 0,
+      "explanation": "The Indian Constitution provides for a single citizenship, where every citizen of India is a citizen of the country as a whole, and not just of a particular state or region."
     },
     {
       "id": 60,
       "category": "Indian Economy",
-      "question": "The 'Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)' was enacted in:",
+      "question": "The concept of 'disinvestment' refers to?",
       "options": [
-        "2005",
-        "2006",
-        "2007",
-        "2008"
+        "The sale of government-owned assets to private companies",
+        "The purchase of government-owned assets by private companies",
+        "The privatization of public sector enterprises",
+        "The nationalization of private sector enterprises"
       ],
-      "correct": 1,
-      "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), aimed at providing a legal guarantee of employment to rural laborers, was enacted in 2006."
+      "correct": 0,
+      "explanation": "The concept of 'disinvestment' refers to the sale of government-owned assets to private companies, in order to raise revenue and promote economic efficiency."
     }
   ]
 }
