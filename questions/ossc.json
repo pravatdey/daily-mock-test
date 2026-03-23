@@ -1,21 +1,21 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-03-22",
+  "date": "2026-03-23",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "What is the name of the largest district in Odisha by area?",
+      "question": "Which of the following rivers flows through the district of Mayurbhanj in Odisha?",
       "options": [
-        "Mayurbhanj",
-        "Keonjhar",
-        "Kalahandi",
-        "Ganjam"
+        "Subarnarekha",
+        "Brahmani",
+        "Baitarani",
+        "Mahanadi"
       ],
-      "correct": 0,
-      "explanation": "Mayurbhanj is the largest district in Odisha, covering an area of 10,418 square kilometers."
+      "correct": 2,
+      "explanation": "The Baitarani River flows through the district of Mayurbhanj in Odisha. It is one of the major rivers in the state and is known for its scenic beauty and historical significance."
     },
     {
       "id": 2,
@@ -28,33 +28,33 @@
         "Shah Jahan"
       ],
       "correct": 0,
-      "explanation": "Babur was the founder of the Mughal Empire in India, who defeated Ibrahim Lodi in the Battle of Panipat in 1526."
+      "explanation": "Babur was the founder of the Mughal Empire in India. He was a Central Asian ruler who established the Mughal Empire in 1526 and laid the foundation for the empire's expansion and growth."
     },
     {
       "id": 3,
       "category": "Geography",
-      "question": "What is the name of the longest river in Odisha?",
+      "question": "What is the name of the largest lake in Odisha?",
       "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Baitarani",
-        "Subarnarekha"
+        "Chilika Lake",
+        "Ansupa Lake",
+        "Hirakud Reservoir",
+        "Indravati Reservoir"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi is the longest river in Odisha, stretching for approximately 860 kilometers."
+      "explanation": "Chilika Lake is the largest lake in Odisha, covering an area of approximately 1,100 square kilometers. It is a brackish water lagoon and is known for its rich biodiversity and natural beauty."
     },
     {
       "id": 4,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to equality?",
+      "question": "What is the term of office for a member of the Odisha Legislative Assembly?",
       "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
       ],
-      "correct": 0,
-      "explanation": "Article 14 of the Indian Constitution deals with the right to equality, which states that the state shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
+      "correct": 1,
+      "explanation": "The term of office for a member of the Odisha Legislative Assembly is 5 years. The assembly is composed of 147 members, each representing a constituency in the state."
     },
     {
       "id": 5,
@@ -67,7 +67,7 @@
         "Fermentation"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
+      "explanation": "Photosynthesis is the process by which plants convert sunlight into energy. It involves the conversion of carbon dioxide and water into glucose and oxygen, using sunlight as the energy source."
     },
     {
       "id": 6,
@@ -80,166 +80,75 @@
         "20 meters"
       ],
       "correct": 2,
-      "explanation": "Since C is 5 meters away from A, and A is 10 meters away from B, C is 10 + 5 = 15 meters away from B."
+      "explanation": "Since A is 10 meters away from B, and C is 5 meters away from A, C is 10 + 5 = 15 meters away from B."
     },
     {
       "id": 7,
       "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Odisha government to provide financial assistance to farmers?",
+      "question": "What is the name of the recent scheme launched by the Odisha government to promote entrepreneurship among women?",
       "options": [
-        "Kalia Scheme",
-        "Krushi Bhoomi Yojana",
-        "Rastriya Krushi Vikas Yojana",
-        "Pradhan Mantri Fasal Bima Yojana"
+        "Mission Shakti",
+        "Mission Empowerment",
+        "Mission Entrepreneurship",
+        "Mission Women's Empowerment"
       ],
       "correct": 0,
-      "explanation": "The Kalia Scheme is a scheme launched by the Odisha government to provide financial assistance to farmers, which includes support for crop cultivation, livestock, and other agricultural activities."
+      "explanation": "Mission Shakti is a scheme launched by the Odisha government to promote entrepreneurship among women. The scheme aims to provide financial assistance and training to women entrepreneurs, enabling them to start and run their own businesses."
     },
     {
       "id": 8,
       "category": "Odisha General Knowledge",
-      "question": "Which tribe is known for their expertise in weaving and pottery in Odisha?",
+      "question": "Which of the following is a major festival celebrated in Odisha?",
       "options": [
-        "Bonda",
-        "Gond",
-        "Santal",
-        "Kondh"
+        "Dussehra",
+        "Diwali",
+        "Rath Yatra",
+        "Navaratri"
       ],
-      "correct": 3,
-      "explanation": "The Kondh tribe is known for their expertise in weaving and pottery in Odisha, and are found mainly in the districts of Kandhamal, Rayagada, and Gajapati."
+      "correct": 2,
+      "explanation": "Rath Yatra is a major festival celebrated in Odisha, particularly in the city of Puri. It is a chariot festival that takes place in the month of June or July, and is dedicated to the worship of Lord Jagannath."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "Who was the ruler of the Maratha Empire during the Third Anglo-Maratha War?",
+      "question": "Who was the famous Indian emperor who built the Taj Mahal?",
       "options": [
-        "Shivaji",
-        "Sambhaji",
-        "Rajaram",
-        "Maharaja Yashwantrao Holkar"
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Jahangir"
       ],
-      "correct": 3,
-      "explanation": "Maharaja Yashwantrao Holkar was the ruler of the Maratha Empire during the Third Anglo-Maratha War, which took place from 1817 to 1818."
+      "correct": 1,
+      "explanation": "Shah Jahan was the famous Indian emperor who built the Taj Mahal. He was a Mughal emperor who ruled India from 1628 to 1658, and is remembered for his architectural achievements, including the construction of the Taj Mahal."
     },
     {
       "id": 10,
-      "category": "Geography",
-      "question": "What is the name of the largest lake in Odisha?",
-      "options": [
-        "Chilika Lake",
-        "Ansupa Lake",
-        "Hirakud Reservoir",
-        "Indravati Reservoir"
-      ],
-      "correct": 0,
-      "explanation": "Chilika Lake is the largest lake in Odisha, covering an area of approximately 1,100 square kilometers."
-    },
-    {
-      "id": 11,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of speech and expression?",
-      "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
-      ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression, which states that all citizens have the right to freedom of speech and expression."
-    },
-    {
-      "id": 12,
-      "category": "General Science",
-      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
-      "options": [
-        "Respiration",
-        "Transpiration",
-        "Photosynthesis",
-        "Osmosis"
-      ],
-      "correct": 1,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
-    },
-    {
-      "id": 13,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
-      "options": [
-        "$0.05",
-        "$0.10",
-        "$0.15",
-        "$0.20"
-      ],
-      "correct": 0,
-      "explanation": "Let's say the ball costs x dollars. Since the bat costs $1.00 more than the ball, the bat costs x + $1.00. The total cost of the bat and the ball is $1.10, so we can set up the equation x + (x + $1.00) = $1.10. Solving for x, we get x = $0.05."
-    },
-    {
-      "id": 14,
-      "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to street vendors?",
-      "options": [
-        "Pradhan Mantri Street Vendor Atmanirbhar Nidhi (PM SVANidhi)",
-        "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Deen Dayal Upadhyaya Antyodaya Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Street Vendor Atmanirbhar Nidhi (PM SVANidhi) is a scheme launched by the Indian government to provide financial assistance to street vendors, which includes a loan of up to $1,500 at a subsidized interest rate."
-    },
-    {
-      "id": 15,
-      "category": "Odisha General Knowledge",
-      "question": "Which city is known as the 'Silver City' of Odisha?",
-      "options": [
-        "Cuttack",
-        "Bhubaneswar",
-        "Puri",
-        "Sambalpur"
-      ],
-      "correct": 0,
-      "explanation": "Cuttack is known as the 'Silver City' of Odisha, due to its historical significance as a major trading center for silver and other precious metals."
-    },
-    {
-      "id": 16,
-      "category": "Indian History & Culture",
-      "question": "Who was the founder of the Mauryan Empire in ancient India?",
-      "options": [
-        "Chandragupta Maurya",
-        "Ashoka",
-        "Bindusara",
-        "Samprati"
-      ],
-      "correct": 0,
-      "explanation": "Chandragupta Maurya was the founder of the Mauryan Empire in ancient India, who defeated the Nanda dynasty and established the Mauryan Empire in 322 BCE."
-    },
-    {
-      "id": 17,
       "category": "Geography",
       "question": "What is the name of the mountain range that runs along the eastern coast of India?",
       "options": [
         "Eastern Ghats",
         "Western Ghats",
-        "Himalayan Mountains",
+        "Himalayas",
         "Aravalli Range"
       ],
       "correct": 0,
-      "explanation": "The Eastern Ghats is a mountain range that runs along the eastern coast of India, stretching from the state of Odisha in the north to the state of Tamil Nadu in the south."
+      "explanation": "The Eastern Ghats is a mountain range that runs along the eastern coast of India, covering the states of Odisha, Andhra Pradesh, and Tamil Nadu. It is a discontinuous range, with several gaps and valleys in between."
     },
     {
-      "id": 18,
+      "id": 11,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to life and personal liberty?",
+      "question": "What is the name of the article in the Indian Constitution that deals with the fundamental rights of citizens?",
       "options": [
-        "Article 21",
-        "Article 22",
-        "Article 23",
-        "Article 24"
+        "Article 14",
+        "Article 15",
+        "Article 19",
+        "Article 21"
       ],
-      "correct": 0,
-      "explanation": "Article 21 of the Indian Constitution deals with the right to life and personal liberty, which states that no person shall be deprived of his life or personal liberty except according to procedure established by law."
+      "correct": 2,
+      "explanation": "Article 19 of the Indian Constitution deals with the fundamental rights of citizens, including the right to freedom of speech and expression, the right to assemble peacefully, and the right to form associations or unions."
     },
     {
-      "id": 19,
+      "id": 12,
       "category": "General Science",
       "question": "What is the largest planet in our solar system?",
       "options": [
@@ -249,244 +158,153 @@
         "Uranus"
       ],
       "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers. It is a gas giant, composed mainly of hydrogen and helium, and is known for its distinctive banded appearance."
     },
     {
-      "id": 20,
+      "id": 13,
       "category": "Mental Ability & Reasoning",
       "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
       "options": [
         "5 minutes",
         "10 minutes",
-        "15 minutes",
-        "20 minutes"
+        "50 minutes",
+        "100 minutes"
       ],
       "correct": 0,
-      "explanation": "If it takes 5 machines 5 minutes to make 5 widgets, then it takes 1 machine 5 minutes to make 1 widget. Therefore, it would take 100 machines 5 minutes to make 100 widgets."
+      "explanation": "If it takes 5 machines 5 minutes to make 5 widgets, it means that each machine takes 5 minutes to make 1 widget. Therefore, if there are 100 machines, it would still take 5 minutes to make 100 widgets."
+    },
+    {
+      "id": 14,
+      "category": "Current Affairs",
+      "question": "What is the name of the recent initiative launched by the Indian government to promote digital payments?",
+      "options": [
+        "Digital India",
+        "Cashless India",
+        "Paytm",
+        "UPI"
+      ],
+      "correct": 0,
+      "explanation": "Digital India is a recent initiative launched by the Indian government to promote digital payments and increase digital literacy among citizens. The initiative aims to provide access to digital services and promote the use of digital technologies in various sectors, including finance, education, and healthcare."
+    },
+    {
+      "id": 15,
+      "category": "Odisha General Knowledge",
+      "question": "Which of the following is a major tribe in Odisha?",
+      "options": [
+        "Santhal",
+        "Munda",
+        "Oraon",
+        "Kondh"
+      ],
+      "correct": 3,
+      "explanation": "The Kondh is a major tribe in Odisha, with a population of over 1 million people. They are an indigenous tribe, traditionally engaged in agriculture and hunting, and are known for their rich cultural heritage and traditional practices."
+    },
+    {
+      "id": 16,
+      "category": "Indian History & Culture",
+      "question": "Who was the famous Indian freedom fighter who led the Salt March?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ],
+      "correct": 0,
+      "explanation": "Mahatma Gandhi led the Salt March, also known as the Dandi March, in 1930. The march was a non-violent protest against the British salt tax, and was a significant event in the Indian independence movement."
+    },
+    {
+      "id": 17,
+      "category": "Geography",
+      "question": "What is the name of the largest river in India?",
+      "options": [
+        "Ganges",
+        "Brahmaputra",
+        "Indus",
+        "Godavari"
+      ],
+      "correct": 0,
+      "explanation": "The Ganges is the largest river in India, stretching over 2,500 kilometers from its source in the Himalayas to its mouth in the Bay of Bengal. It is a sacred river, considered holy by millions of Hindus, and is a major source of water, transportation, and livelihood for millions of people."
+    },
+    {
+      "id": 18,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article in the Indian Constitution that deals with the directive principles of state policy?",
+      "options": [
+        "Article 36",
+        "Article 37",
+        "Article 38",
+        "Article 39"
+      ],
+      "correct": 1,
+      "explanation": "Article 37 of the Indian Constitution deals with the directive principles of state policy, which are guidelines that the state is expected to follow while making laws and policies. These principles include the promotion of social justice, the protection of the environment, and the promotion of international peace and security."
+    },
+    {
+      "id": 19,
+      "category": "General Science",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
+      ],
+      "correct": 2,
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor. This process is an important part of the water cycle, and helps to regulate the plant's temperature and maintain its water balance."
+    },
+    {
+      "id": 20,
+      "category": "Mental Ability & Reasoning",
+      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
+      "options": [
+        "$0.05",
+        "$0.10",
+        "$0.15",
+        "$0.20"
+      ],
+      "correct": 0,
+      "explanation": "If the bat costs $1.00 more than the ball, and the total cost is $1.10, then the ball must cost $0.05. This is because the bat costs $1.00 + $0.05 = $1.05, and the total cost is $1.05 + $0.05 = $1.10."
     },
     {
       "id": 21,
       "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to farmers for the purchase of crop insurance?",
+      "question": "What is the name of the recent satellite launched by India to study the Earth's climate?",
       "options": [
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Krishi Sinchai Yojana",
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Rashtriya Krishi Vikas Yojana"
+        "INSAT-3D",
+        "INSAT-3DR",
+        "Mangalyaan",
+        "GSAT-6"
       ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Fasal Bima Yojana is a scheme launched by the Indian government to provide financial assistance to farmers for the purchase of crop insurance, which covers losses due to natural calamities such as drought, flood, and cyclone."
+      "correct": 1,
+      "explanation": "INSAT-3DR is a recent satellite launched by India to study the Earth's climate. The satellite is equipped with advanced instruments to study the Earth's atmosphere, oceans, and land surfaces, and will provide valuable data for weather forecasting, climate modeling, and environmental monitoring."
     },
     {
       "id": 22,
       "category": "Odisha General Knowledge",
-      "question": "Which river is known as the 'lifeline' of Odisha?",
+      "question": "Which of the following is a major port in Odisha?",
       "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Baitarani",
-        "Subarnarekha"
+        "Paradip Port",
+        "Visakhapatnam Port",
+        "Chennai Port",
+        "Kolkata Port"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi is known as the 'lifeline' of Odisha, as it provides water for irrigation, drinking, and industrial purposes, and supports the livelihood of millions of people in the state."
+      "explanation": "Paradip Port is a major port in Odisha, located on the eastern coast of India. It is one of the busiest ports in the country, handling a large volume of cargo, including iron ore, coal, and fertilizers."
     },
     {
       "id": 23,
       "category": "Indian History & Culture",
-      "question": "Who was the ruler of the Gupta Empire during the period of Indian history known as the 'Golden Age'?",
+      "question": "Who was the famous Indian emperor who built the Red Fort in Delhi?",
       "options": [
-        "Chandragupta I",
-        "Samudragupta",
-        "Chandragupta II",
-        "Skandagupta"
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Jahangir"
       ],
-      "correct": 2,
-      "explanation": "Chandragupta II, also known as Vikramaditya, was the ruler of the Gupta Empire during the period of Indian history known as the 'Golden Age', which was marked by significant cultural, scientific, and economic advancements."
+      "correct": 1,
+      "explanation": "Shah Jahan was the famous Indian emperor who built the Red Fort in Delhi. The Red Fort is a UNESCO World Heritage Site, and is one of the most iconic landmarks in India, known for its stunning architecture and historical significance."
     },
     {
       "id": 24,
-      "category": "Geography",
-      "question": "What is the name of the largest island in the Andaman and Nicobar Islands union territory?",
-      "options": [
-        "Andaman Island",
-        "Nicobar Island",
-        "Little Andaman Island",
-        "Great Nicobar Island"
-      ],
-      "correct": 0,
-      "explanation": "The Andaman Island is the largest island in the Andaman and Nicobar Islands union territory, with an area of approximately 3,200 square kilometers."
-    },
-    {
-      "id": 25,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the powers of the President of India?",
-      "options": [
-        "Article 52",
-        "Article 53",
-        "Article 54",
-        "Article 55"
-      ],
-      "correct": 1,
-      "explanation": "Article 53 of the Indian Constitution deals with the powers of the President of India, which includes the power to appoint the Prime Minister, governors, and judges, as well as the power to dissolve the Lok Sabha."
-    },
-    {
-      "id": 26,
-      "category": "General Science",
-      "question": "What is the process by which the human body converts food into energy?",
-      "options": [
-        "Respiration",
-        "Digestion",
-        "Circulation",
-        "Excretion"
-      ],
-      "correct": 1,
-      "explanation": "Digestion is the process by which the human body converts food into energy, which involves the breakdown of food into nutrients that can be absorbed and utilized by the body."
-    },
-    {
-      "id": 27,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet each night, how many days will it take for the snail to reach the top of the well?",
-      "options": [
-        "18 days",
-        "20 days",
-        "22 days",
-        "28 days"
-      ],
-      "correct": 2,
-      "explanation": "The snail climbs 3 feet up the well each day, but slips back 2 feet each night, so it effectively climbs 1 foot per day. To climb 20 feet, it will take the snail 18 days to climb 18 feet, and on the 19th day, it will climb the final 2 feet to reach the top of the well, but since it doesn't slip back at night when it reaches the top, the answer is 18 + 1 = 19 days, but it will reach 18 feet in 18 days and on the 19th day, it will climb 3 feet to reach 21 feet, so the answer is 18 + 1 = 20 - 1 = 19 days, therefore it will take the snail 20 - 1 = 19 days, but the question asks for the number of days, so the answer is 20 - 1 = 19 days, and since 19 is not an option, the correct answer is the one closest to 19, which is 20 days."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Odisha government to provide financial assistance to students for higher education?",
-      "options": [
-        "Kalia Yojana",
-        "Biju Yuva Sashaktikaran Yojana",
-        "Mukhyamantri Medhabruti Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana"
-      ],
-      "correct": 2,
-      "explanation": "The Mukhyamantri Medhabruti Yojana is a scheme launched by the Odisha government to provide financial assistance to students for higher education, which includes scholarships for meritorious students to pursue undergraduate and postgraduate studies."
-    },
-    {
-      "id": 29,
-      "category": "Odisha General Knowledge",
-      "question": "Which district in Odisha is known for its production of silk and cotton textiles?",
-      "options": [
-        "Bhadrak",
-        "Jajpur",
-        "Cuttack",
-        "Khordha"
-      ],
-      "correct": 2,
-      "explanation": "The district of Cuttack in Odisha is known for its production of silk and cotton textiles, with a long history of textile manufacturing and a large number of textile mills and handlooms."
-    },
-    {
-      "id": 30,
-      "category": "Indian History & Culture",
-      "question": "Who was the Indian philosopher who developed the concept of Advaita Vedanta?",
-      "options": [
-        "Adi Shankara",
-        "Ramanuja",
-        "Madhva",
-        "Nimbarka"
-      ],
-      "correct": 0,
-      "explanation": "Adi Shankara was the Indian philosopher who developed the concept of Advaita Vedanta, which is a school of Hindu philosophy that emphasizes the non-dual nature of reality and the ultimate goal of achieving liberation through knowledge and self-realization."
-    },
-    {
-      "id": 31,
-      "category": "Geography",
-      "question": "What is the name of the largest desert in India?",
-      "options": [
-        "Thar Desert",
-        "Cholistan Desert",
-        "Kutch Desert",
-        "Rann of Kutch"
-      ],
-      "correct": 0,
-      "explanation": "The Thar Desert, also known as the Cholistan Desert, is the largest desert in India, covering an area of approximately 320,000 square kilometers."
-    },
-    {
-      "id": 32,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the powers of the Supreme Court of India?",
-      "options": [
-        "Article 124",
-        "Article 125",
-        "Article 126",
-        "Article 127"
-      ],
-      "correct": 0,
-      "explanation": "Article 124 of the Indian Constitution deals with the powers of the Supreme Court of India, which includes the power to interpret the Constitution, decide cases involving federal laws and the Constitution, and provide advisory opinions to the President."
-    },
-    {
-      "id": 33,
-      "category": "General Science",
-      "question": "What is the process by which plants release water vapor into the air?",
-      "options": [
-        "Respiration",
-        "Transpiration",
-        "Photosynthesis",
-        "Evaporation"
-      ],
-      "correct": 1,
-      "explanation": "Transpiration is the process by which plants release water vapor into the air, which occurs through small openings on the surface of leaves called stomata."
-    },
-    {
-      "id": 34,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a car travels from city A to city B at an average speed of 60 km/h and returns at an average speed of 40 km/h, what is the average speed of the car for the entire trip?",
-      "options": [
-        "40 km/h",
-        "50 km/h",
-        "48 km/h",
-        "60 km/h"
-      ],
-      "correct": 2,
-      "explanation": "To find the average speed for the entire trip, we need to find the total distance traveled and the total time taken. Let's assume the distance between city A and city B is x km. The time taken to travel from A to B is x/60 hours, and the time taken to return is x/40 hours. The total time taken is x/60 + x/40 = (2x + 3x)/120 = 5x/120 = x/24 hours. The total distance traveled is 2x km. The average speed is total distance/total time = 2x/(x/24) = 48 km/h."
-    },
-    {
-      "id": 35,
-      "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to women for entrepreneurship and skill development?",
-      "options": [
-        "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Stand Up India Scheme",
-        "Beti Bachao Beti Padhao Scheme"
-      ],
-      "correct": 2,
-      "explanation": "The Stand Up India Scheme is a scheme launched by the Indian government to provide financial assistance to women for entrepreneurship and skill development, which includes loans and other support for women to start and grow their own businesses."
-    },
-    {
-      "id": 36,
-      "category": "Odisha General Knowledge",
-      "question": "Which city in Odisha is known as the 'City of Temples'?",
-      "options": [
-        "Bhubaneswar",
-        "Puri",
-        "Cuttack",
-        "Sambalpur"
-      ],
-      "correct": 0,
-      "explanation": "The city of Bhubaneswar in Odisha is known as the 'City of Temples', due to its rich cultural heritage and the presence of numerous ancient temples, including the famous Lingaraj Temple."
-    },
-    {
-      "id": 37,
-      "category": "Indian History & Culture",
-      "question": "Who was the Mughal emperor who built the Taj Mahal?",
-      "options": [
-        "Babur",
-        "Akbar",
-        "Jahangir",
-        "Shah Jahan"
-      ],
-      "correct": 3,
-      "explanation": "Shah Jahan was the Mughal emperor who built the Taj Mahal, a mausoleum in Agra, India, in memory of his wife Mumtaz Mahal, who died in 1631."
-    },
-    {
-      "id": 38,
       "category": "Geography",
       "question": "What is the name of the largest state in India by area?",
       "options": [
@@ -496,23 +314,23 @@
         "Uttar Pradesh"
       ],
       "correct": 0,
-      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342,239 square kilometers."
+      "explanation": "Rajasthan is the largest state in India by area, covering over 342,000 square kilometers. It is located in the northwestern part of the country, and is known for its arid desert landscape, rich cultural heritage, and historic cities like Jaipur and Jodhpur."
     },
     {
-      "id": 39,
+      "id": 25,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the powers of the state legislatures?",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to equality?",
       "options": [
-        "Article 168",
-        "Article 169",
-        "Article 170",
-        "Article 171"
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
       ],
       "correct": 0,
-      "explanation": "Article 168 of the Indian Constitution deals with the powers of the state legislatures, which includes the power to make laws for the state and to exercise control over the state government."
+      "explanation": "Article 14 of the Indian Constitution deals with the right to equality, which guarantees that all citizens are equal before the law and have equal protection of the law. This article is a fundamental principle of the Indian Constitution, and is essential for ensuring social justice and equality in the country."
     },
     {
-      "id": 40,
+      "id": 26,
       "category": "General Science",
       "question": "What is the largest living structure on Earth?",
       "options": [
@@ -522,77 +340,77 @@
         "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia and composed of more than 2,900 individual reefs and 900 islands."
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, stretching over 2,300 kilometers off the coast of Australia. It is a coral reef system, composed of billions of tiny coral polyps, and is home to a vast array of marine life, including fish, turtles, and whales."
     },
     {
-      "id": 41,
+      "id": 27,
       "category": "Mental Ability & Reasoning",
-      "question": "If a person invests $100 at an interest rate of 5% per annum, how much will he have after 2 years?",
+      "question": "If a person travels 15 kilometers in 3 hours, how many kilometers will they travel in 5 hours?",
       "options": [
-        "$110",
-        "$110.25",
-        "$112.50",
-        "$115.76"
-      ],
-      "correct": 2,
-      "explanation": "The interest earned in the first year is $100 x 5% = $5. The total amount after the first year is $100 + $5 = $105. The interest earned in the second year is $105 x 5% = $5.25. The total amount after the second year is $105 + $5.25 = $110.25."
-    },
-    {
-      "id": 42,
-      "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to farmers for agriculture and allied activities?",
-      "options": [
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Krishi Sinchai Yojana",
-        "Rashtriya Krishi Vikas Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a scheme launched by the Indian government to provide financial assistance to farmers for agriculture and allied activities, which includes a direct benefit transfer of $6.50 per month to eligible farmers."
-    },
-    {
-      "id": 43,
-      "category": "Odisha General Knowledge",
-      "question": "Which district in Odisha is known for its production of cashew nuts?",
-      "options": [
-        "Koraput",
-        "Malkangiri",
-        "Rayagada",
-        "Gajapati"
+        "20 kilometers",
+        "25 kilometers",
+        "30 kilometers",
+        "35 kilometers"
       ],
       "correct": 1,
-      "explanation": "The district of Malkangiri in Odisha is known for its production of cashew nuts, with a large number of cashew plantations and processing units in the area."
+      "explanation": "If a person travels 15 kilometers in 3 hours, their speed is 15 / 3 = 5 kilometers per hour. Therefore, in 5 hours, they will travel 5 x 5 = 25 kilometers."
     },
     {
-      "id": 44,
+      "id": 28,
+      "category": "Current Affairs",
+      "question": "What is the name of the recent scheme launched by the Indian government to promote skill development among youth?",
+      "options": [
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Rojgar Protsahan Yojana",
+        "Pradhan Mantri Yuva Yojana",
+        "Pradhan Mantri Gramin Yojana"
+      ],
+      "correct": 0,
+      "explanation": "Pradhan Mantri Kaushal Vikas Yojana is a recent scheme launched by the Indian government to promote skill development among youth. The scheme aims to provide training and certification to young people in various skills, enabling them to secure employment and become self-sufficient."
+    },
+    {
+      "id": 29,
+      "category": "Odisha General Knowledge",
+      "question": "Which of the following is a major festival celebrated in Odisha?",
+      "options": [
+        "Dussehra",
+        "Diwali",
+        "Rath Yatra",
+        "Navaratri"
+      ],
+      "correct": 2,
+      "explanation": "Rath Yatra is a major festival celebrated in Odisha, particularly in the city of Puri. It is a chariot festival that takes place in the month of June or July, and is dedicated to the worship of Lord Jagannath."
+    },
+    {
+      "id": 30,
       "category": "Indian History & Culture",
-      "question": "Who was the Indian nationalist leader who is known as the 'Father of the Nation'?",
+      "question": "Who was the famous Indian emperor who built the Qutub Minar in Delhi?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bhagat Singh"
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Razia Sultan",
+        "Alauddin Khalji"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi is known as the 'Father of the Nation' in India, due to his leading role in the country's struggle for independence from British rule and his philosophy of non-violent resistance."
+      "explanation": "Qutb-ud-din Aibak was the famous Indian emperor who built the Qutub Minar in Delhi. The Qutub Minar is a UNESCO World Heritage Site, and is one of the tallest minarets in the world, known for its stunning architecture and historical significance."
     },
     {
-      "id": 45,
+      "id": 31,
       "category": "Geography",
-      "question": "What is the name of the strait that separates the islands of Java and Sumatra in Indonesia?",
+      "question": "What is the name of the largest island in the Indian Ocean?",
       "options": [
-        "Sunda Strait",
-        "Lombok Strait",
-        "Makassar Strait",
-        "Java Sea"
+        "Madagascar",
+        "Sri Lanka",
+        "Sumatra",
+        "Borneo"
       ],
       "correct": 0,
-      "explanation": "The Sunda Strait is a strait that separates the islands of Java and Sumatra in Indonesia, and connects the Java Sea to the Indian Ocean."
+      "explanation": "Madagascar is the largest island in the Indian Ocean, located off the coast of East Africa. It is an island nation, known for its unique wildlife, including lemurs, fossa, and a variety of bird species, and is a popular tourist destination."
     },
     {
-      "id": 46,
+      "id": 32,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of assembly?",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of speech and expression?",
       "options": [
         "Article 19",
         "Article 20",
@@ -600,142 +418,51 @@
         "Article 22"
       ],
       "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of assembly, which includes the right to peaceful assembly and the right to form associations and unions."
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression, which guarantees that all citizens have the right to express their opinions and ideas freely, without fear of censorship or repression."
     },
     {
-      "id": 47,
+      "id": 33,
       "category": "General Science",
-      "question": "What is the process by which the human body regulates its temperature?",
+      "question": "What is the process by which the Earth's plates move and change?",
       "options": [
-        "Respiration",
-        "Circulation",
-        "Sweating",
-        "Shivering"
+        "Continental drift",
+        "Plate tectonics",
+        "Weathering",
+        "Erosion"
       ],
-      "correct": 2,
-      "explanation": "Sweating is the process by which the human body regulates its temperature, as it helps to cool the body down when it becomes too hot, while shivering helps to warm the body up when it becomes too cold."
+      "correct": 1,
+      "explanation": "Plate tectonics is the process by which the Earth's plates move and change, resulting in the creation of mountains, volcanoes, and earthquakes. This process is responsible for shaping the Earth's surface over millions of years, and is a fundamental concept in geology."
     },
     {
-      "id": 48,
+      "id": 34,
       "category": "Mental Ability & Reasoning",
-      "question": "If a person has $100 and spends $20 on food, $30 on clothing, and $15 on entertainment, how much money is left?",
+      "question": "If a person has 12 boxes, and each box contains 8 balls, how many balls are there in total?",
       "options": [
-        "$25",
-        "$30",
-        "$35",
-        "$40"
+        "80 balls",
+        "90 balls",
+        "96 balls",
+        "100 balls"
       ],
       "correct": 2,
-      "explanation": "The person spends a total of $20 + $30 + $15 = $65. The amount of money left is $100 - $65 = $35."
+      "explanation": "If a person has 12 boxes, and each box contains 8 balls, the total number of balls is 12 x 8 = 96 balls."
     },
     {
-      "id": 49,
+      "id": 35,
       "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to small and medium-sized enterprises (SMEs)?",
+      "question": "What is the name of the recent agreement signed between India and the United States on defense cooperation?",
       "options": [
-        "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Stand Up India Scheme",
-        "Make in India Initiative"
+        "Logistics Exchange Memorandum of Agreement",
+        "Communications Compatibility and Security Agreement",
+        "Basic Exchange and Cooperation Agreement",
+        "General Security of Military Information Agreement"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri MUDRA Yojana is a scheme launched by the Indian government to provide financial assistance to small and medium-sized enterprises (SMEs), which includes loans and other support for businesses in the non-corporate, non-farm sector."
+      "explanation": "The Logistics Exchange Memorandum of Agreement is a recent agreement signed between India and the United States on defense cooperation. The agreement aims to facilitate the exchange of logistics support between the two countries, including the sharing of fuel, spare parts, and other supplies."
     },
     {
-      "id": 50,
+      "id": 36,
       "category": "Odisha General Knowledge",
-      "question": "Which city in Odisha is known as the 'City of Waterfalls'?",
-      "options": [
-        "Koraput",
-        "Rayagada",
-        "Gajapati",
-        "Keonjhar"
-      ],
-      "correct": 3,
-      "explanation": "The city of Keonjhar in Odisha is known as the 'City of Waterfalls', due to the presence of numerous waterfalls in the area, including the famous San Ghagra and Badaghagra waterfalls."
-    },
-    {
-      "id": 51,
-      "category": "Indian History & Culture",
-      "question": "Who was the Indian emperor who built the Red Fort in Delhi?",
-      "options": [
-        "Akbar",
-        "Jahangir",
-        "Shah Jahan",
-        "Aurangzeb"
-      ],
-      "correct": 2,
-      "explanation": "Shah Jahan was the Indian emperor who built the Red Fort in Delhi, which was constructed between 1638 and 1648 and served as the imperial palace of the Mughal Empire."
-    },
-    {
-      "id": 52,
-      "category": "Geography",
-      "question": "What is the name of the largest island in the Mediterranean Sea?",
-      "options": [
-        "Sicily",
-        "Sardinia",
-        "Corsica",
-        "Crete"
-      ],
-      "correct": 0,
-      "explanation": "Sicily is the largest island in the Mediterranean Sea, with an area of approximately 25,711 square kilometers."
-    },
-    {
-      "id": 53,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the powers of the state governors?",
-      "options": [
-        "Article 153",
-        "Article 154",
-        "Article 155",
-        "Article 156"
-      ],
-      "correct": 0,
-      "explanation": "Article 153 of the Indian Constitution deals with the powers of the state governors, which includes the power to appoint the chief minister and other ministers, as well as the power to dissolve the state legislature."
-    },
-    {
-      "id": 54,
-      "category": "General Science",
-      "question": "What is the largest planet in our solar system by mass?",
-      "options": [
-        "Jupiter",
-        "Saturn",
-        "Uranus",
-        "Neptune"
-      ],
-      "correct": 0,
-      "explanation": "Jupiter is the largest planet in our solar system by mass, with a mass of approximately 318 times that of Earth."
-    },
-    {
-      "id": 55,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a person travels from city A to city B at an average speed of 40 km/h and returns at an average speed of 60 km/h, what is the average speed of the person for the entire trip?",
-      "options": [
-        "40 km/h",
-        "50 km/h",
-        "48 km/h",
-        "60 km/h"
-      ],
-      "correct": 2,
-      "explanation": "To find the average speed for the entire trip, we need to find the total distance traveled and the total time taken. Let's assume the distance between city A and city B is x km. The time taken to travel from A to B is x/40 hours, and the time taken to return is x/60 hours. The total time taken is x/40 + x/60 = (3x + 2x)/120 = 5x/120 = x/24 hours. The total distance traveled is 2x km. The average speed is total distance/total time = 2x/(x/24) = 48 km/h."
-    },
-    {
-      "id": 56,
-      "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to start-ups and entrepreneurs?",
-      "options": [
-        "Start-Up India Initiative",
-        "Make in India Initiative",
-        "Digital India Initiative",
-        "Skill India Initiative"
-      ],
-      "correct": 0,
-      "explanation": "The Start-Up India Initiative is a scheme launched by the Indian government to provide financial assistance to start-ups and entrepreneurs, which includes funding, tax exemptions, and other support for new businesses."
-    },
-    {
-      "id": 57,
-      "category": "Odisha General Knowledge",
-      "question": "Which river in Odisha is known for its scenic beauty and is a popular tourist destination?",
+      "question": "Which of the following is a major river in Odisha?",
       "options": [
         "Mahanadi",
         "Brahmani",
@@ -743,38 +470,220 @@
         "Subarnarekha"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi river in Odisha is known for its scenic beauty and is a popular tourist destination, with numerous waterfalls, temples, and other attractions along its banks."
+      "explanation": "The Mahanadi is a major river in Odisha, stretching over 860 kilometers from its source in the Chhattisgarh hills to its mouth in the Bay of Bengal. It is a vital source of water, transportation, and livelihood for millions of people in the state."
     },
     {
-      "id": 58,
+      "id": 37,
       "category": "Indian History & Culture",
-      "question": "Who was the Indian nationalist leader who is known for his role in the Quit India Movement?",
+      "question": "Who was the famous Indian emperor who built the Konark Sun Temple in Odisha?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bhagat Singh"
+        "Narasimhadeva I",
+        "Langula Narasimha Deva",
+        "Bhanudeva I",
+        "Anangabhima Deva III"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi was the Indian nationalist leader who is known for his role in the Quit India Movement, which was launched in 1942 and called for an end to British rule in India."
+      "explanation": "Narasimhadeva I was the famous Indian emperor who built the Konark Sun Temple in Odisha. The temple is a UNESCO World Heritage Site, and is known for its stunning architecture and intricate carvings, depicting scenes from Hindu mythology and everyday life."
     },
     {
-      "id": 59,
+      "id": 38,
       "category": "Geography",
-      "question": "What is the name of the strait that separates the continents of Asia and Africa?",
+      "question": "What is the name of the largest desert in the world?",
       "options": [
-        "Bab-el-Mandeb",
-        "Bosphorus",
-        "Dardanelles",
-        "Strait of Malacca"
+        "Sahara Desert",
+        "Gobi Desert",
+        "Mojave Desert",
+        "Atacama Desert"
       ],
       "correct": 0,
-      "explanation": "The Bab-el-Mandeb is a strait that separates the continents of Asia and Africa, and connects the Red Sea to the Gulf of Aden."
+      "explanation": "The Sahara Desert is the largest desert in the world, covering over 9,000,000 square kilometers across North Africa. It is a harsh and arid environment, known for its extreme temperatures, limited vegetation, and vast sand dunes."
     },
     {
-      "id": 60,
+      "id": 39,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of the press?",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to life and personal liberty?",
+      "options": [
+        "Article 20",
+        "Article 21",
+        "Article 22",
+        "Article 23"
+      ],
+      "correct": 1,
+      "explanation": "Article 21 of the Indian Constitution deals with the right to life and personal liberty, which guarantees that all citizens have the right to live with dignity and freedom, and that no person shall be deprived of their life or personal liberty except according to procedure established by law."
+    },
+    {
+      "id": 40,
+      "category": "General Science",
+      "question": "What is the process by which the human body regulates its temperature?",
+      "options": [
+        "Sweating",
+        "Shivering",
+        "Panting",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The human body regulates its temperature through a combination of sweating, shivering, and panting. Sweating helps to cool the body down, while shivering and panting help to generate heat. This process is essential for maintaining a stable body temperature, which is necessary for proper bodily functions."
+    },
+    {
+      "id": 41,
+      "category": "Mental Ability & Reasoning",
+      "question": "If a person has 15 apples, and they give 3 apples to each of their 5 friends, how many apples do they have left?",
+      "options": [
+        "0 apples",
+        "5 apples",
+        "10 apples",
+        "12 apples"
+      ],
+      "correct": 0,
+      "explanation": "If a person has 15 apples, and they give 3 apples to each of their 5 friends, they give away a total of 3 x 5 = 15 apples. Therefore, they have no apples left."
+    },
+    {
+      "id": 42,
+      "category": "Current Affairs",
+      "question": "What is the name of the recent scheme launched by the Odisha government to promote rural development?",
+      "options": [
+        "Biju Gram Jyoti Yojana",
+        "Biju Krushak Jyoti Yojana",
+        "Biju Sahar Yojana",
+        "Biju Panchayat Jyoti Yojana"
+      ],
+      "correct": 0,
+      "explanation": "Biju Gram Jyoti Yojana is a recent scheme launched by the Odisha government to promote rural development. The scheme aims to provide electricity and other basic amenities to rural areas, and to improve the overall quality of life for rural residents."
+    },
+    {
+      "id": 43,
+      "category": "Odisha General Knowledge",
+      "question": "Which of the following is a major city in Odisha?",
+      "options": [
+        "Bhubaneswar",
+        "Cuttack",
+        "Puri",
+        "Rourkela"
+      ],
+      "correct": 0,
+      "explanation": "Bhubaneswar is the capital city of Odisha, and is a major hub for culture, education, and economy in the state. It is known for its rich history, stunning architecture, and vibrant cultural scene."
+    },
+    {
+      "id": 44,
+      "category": "Indian History & Culture",
+      "question": "Who was the famous Indian emperor who built the Taj Mahal?",
+      "options": [
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Jahangir"
+      ],
+      "correct": 1,
+      "explanation": "Shah Jahan was the famous Indian emperor who built the Taj Mahal. The Taj Mahal is a UNESCO World Heritage Site, and is one of the most iconic landmarks in India, known for its stunning architecture and historical significance."
+    },
+    {
+      "id": 45,
+      "category": "Geography",
+      "question": "What is the name of the largest mountain range in the world?",
+      "options": [
+        "The Himalayas",
+        "The Andes",
+        "The Rocky Mountains",
+        "The Appalachian Mountains"
+      ],
+      "correct": 0,
+      "explanation": "The Himalayas are the largest mountain range in the world, stretching over 2,500 kilometers across India, Nepal, and Bhutan. They are home to the highest peak in the world, Mount Everest, and are known for their stunning natural beauty and diverse ecosystems."
+    },
+    {
+      "id": 46,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of religion?",
+      "options": [
+        "Article 25",
+        "Article 26",
+        "Article 27",
+        "Article 28"
+      ],
+      "correct": 0,
+      "explanation": "Article 25 of the Indian Constitution deals with the right to freedom of religion, which guarantees that all citizens have the right to practice, propagate, and maintain their religion, and that no person shall be forced to pay taxes for the promotion of any particular religion."
+    },
+    {
+      "id": 47,
+      "category": "General Science",
+      "question": "What is the process by which plants convert carbon dioxide and water into glucose and oxygen?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Fermentation"
+      ],
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants convert carbon dioxide and water into glucose and oxygen, using sunlight as the energy source. This process is essential for life on Earth, as it provides energy and organic compounds for plants and animals alike."
+    },
+    {
+      "id": 48,
+      "category": "Mental Ability & Reasoning",
+      "question": "If a person has 12 boxes, and each box contains 8 pencils, how many pencils are there in total?",
+      "options": [
+        "80 pencils",
+        "90 pencils",
+        "96 pencils",
+        "100 pencils"
+      ],
+      "correct": 2,
+      "explanation": "If a person has 12 boxes, and each box contains 8 pencils, the total number of pencils is 12 x 8 = 96 pencils."
+    },
+    {
+      "id": 49,
+      "category": "Current Affairs",
+      "question": "What is the name of the recent scheme launched by the Indian government to promote digital literacy?",
+      "options": [
+        "Digital India",
+        "Make in India",
+        "Skill India",
+        "Start Up India"
+      ],
+      "correct": 0,
+      "explanation": "Digital India is a recent scheme launched by the Indian government to promote digital literacy among citizens. The scheme aims to provide access to digital services, promote digital payments, and increase digital literacy among citizens, particularly in rural areas."
+    },
+    {
+      "id": 50,
+      "category": "Odisha General Knowledge",
+      "question": "Which of the following is a major festival celebrated in Odisha?",
+      "options": [
+        "Dussehra",
+        "Diwali",
+        "Rath Yatra",
+        "Navaratri"
+      ],
+      "correct": 2,
+      "explanation": "Rath Yatra is a major festival celebrated in Odisha, particularly in the city of Puri. It is a chariot festival that takes place in the month of June or July, and is dedicated to the worship of Lord Jagannath."
+    },
+    {
+      "id": 51,
+      "category": "Indian History & Culture",
+      "question": "Who was the famous Indian emperor who built the Qutub Minar in Delhi?",
+      "options": [
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Razia Sultan",
+        "Alauddin Khalji"
+      ],
+      "correct": 0,
+      "explanation": "Qutb-ud-din Aibak was the famous Indian emperor who built the Qutub Minar in Delhi. The Qutub Minar is a UNESCO World Heritage Site, and is one of the tallest minarets in the world, known for its stunning architecture and historical significance."
+    },
+    {
+      "id": 52,
+      "category": "Geography",
+      "question": "What is the name of the largest island in the Indian Ocean?",
+      "options": [
+        "Madagascar",
+        "Sri Lanka",
+        "Sumatra",
+        "Borneo"
+      ],
+      "correct": 0,
+      "explanation": "Madagascar is the largest island in the Indian Ocean, located off the coast of East Africa. It is an island nation, known for its unique wildlife, including lemurs, fossa, and a variety of bird species, and is a popular tourist destination."
+    },
+    {
+      "id": 53,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of speech and expression?",
       "options": [
         "Article 19",
         "Article 20",
@@ -782,7 +691,98 @@
         "Article 22"
       ],
       "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of the press, which includes the right to freedom of speech and expression, and the right to publish and circulate news and information."
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression, which guarantees that all citizens have the right to express their opinions and ideas freely, without fear of censorship or repression."
+    },
+    {
+      "id": 54,
+      "category": "General Science",
+      "question": "What is the process by which the Earth's plates move and change?",
+      "options": [
+        "Continental drift",
+        "Plate tectonics",
+        "Weathering",
+        "Erosion"
+      ],
+      "correct": 1,
+      "explanation": "Plate tectonics is the process by which the Earth's plates move and change, resulting in the creation of mountains, volcanoes, and earthquakes. This process is responsible for shaping the Earth's surface over millions of years, and is a fundamental concept in geology."
+    },
+    {
+      "id": 55,
+      "category": "Mental Ability & Reasoning",
+      "question": "If a person has 15 balls, and they give 3 balls to each of their 5 friends, how many balls do they have left?",
+      "options": [
+        "0 balls",
+        "5 balls",
+        "10 balls",
+        "12 balls"
+      ],
+      "correct": 0,
+      "explanation": "If a person has 15 balls, and they give 3 balls to each of their 5 friends, they give away a total of 3 x 5 = 15 balls. Therefore, they have no balls left."
+    },
+    {
+      "id": 56,
+      "category": "Current Affairs",
+      "question": "What is the name of the recent agreement signed between India and the United States on defense cooperation?",
+      "options": [
+        "Logistics Exchange Memorandum of Agreement",
+        "Communications Compatibility and Security Agreement",
+        "Basic Exchange and Cooperation Agreement",
+        "General Security of Military Information Agreement"
+      ],
+      "correct": 0,
+      "explanation": "The Logistics Exchange Memorandum of Agreement is a recent agreement signed between India and the United States on defense cooperation. The agreement aims to facilitate the exchange of logistics support between the two countries, including the sharing of fuel, spare parts, and other supplies."
+    },
+    {
+      "id": 57,
+      "category": "Odisha General Knowledge",
+      "question": "Which of the following is a major river in Odisha?",
+      "options": [
+        "Mahanadi",
+        "Brahmani",
+        "Baitarani",
+        "Subarnarekha"
+      ],
+      "correct": 0,
+      "explanation": "The Mahanadi is a major river in Odisha, stretching over 860 kilometers from its source in the Chhattisgarh hills to its mouth in the Bay of Bengal. It is a vital source of water, transportation, and livelihood for millions of people in the state."
+    },
+    {
+      "id": 58,
+      "category": "Indian History & Culture",
+      "question": "Who was the famous Indian emperor who built the Konark Sun Temple in Odisha?",
+      "options": [
+        "Narasimhadeva I",
+        "Langula Narasimha Deva",
+        "Bhanudeva I",
+        "Anangabhima Deva III"
+      ],
+      "correct": 0,
+      "explanation": "Narasimhadeva I was the famous Indian emperor who built the Konark Sun Temple in Odisha. The temple is a UNESCO World Heritage Site, and is known for its stunning architecture and intricate carvings, depicting scenes from Hindu mythology and everyday life."
+    },
+    {
+      "id": 59,
+      "category": "Geography",
+      "question": "What is the name of the largest desert in the world?",
+      "options": [
+        "Sahara Desert",
+        "Gobi Desert",
+        "Mojave Desert",
+        "Atacama Desert"
+      ],
+      "correct": 0,
+      "explanation": "The Sahara Desert is the largest desert in the world, covering over 9,000,000 square kilometers across North Africa. It is a harsh and arid environment, known for its extreme temperatures, limited vegetation, and vast sand dunes."
+    },
+    {
+      "id": 60,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article in the Indian Constitution that deals with the right to life and personal liberty?",
+      "options": [
+        "Article 20",
+        "Article 21",
+        "Article 22",
+        "Article 23"
+      ],
+      "correct": 1,
+      "explanation": "Article 21 of the Indian Constitution deals with the right to life and personal liberty, which guarantees that all citizens have the right to live with dignity and freedom, and that no person shall be deprived of their life or personal liberty except according to procedure established by law."
     }
   ]
 }

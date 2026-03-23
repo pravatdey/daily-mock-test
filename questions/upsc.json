@@ -1,128 +1,37 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-03-22",
+  "date": "2026-03-23",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "The ancient Indian university of Nalanda was established during the reign of which emperor?",
+      "question": "The ancient Indian university of Taxila was located in which modern-day country?",
       "options": [
-        "Chandragupta Maurya",
-        "Ashoka",
-        "Harshavardhana",
-        "Akbar"
+        "India",
+        "Pakistan",
+        "Afghanistan",
+        "Nepal"
       ],
-      "correct": 2,
-      "explanation": "The ancient Indian university of Nalanda was established during the reign of Harshavardhana in the 5th century AD."
+      "correct": 1,
+      "explanation": "Taxila was an ancient city located in the northwestern part of the Indian subcontinent, now in modern-day Pakistan."
     },
     {
       "id": 2,
       "category": "Indian Geography",
-      "question": "Which of the following rivers flows through the Satpura range?",
+      "question": "Which of the following rivers is known for its reverse flow during the monsoon season?",
       "options": [
-        "Narmada",
-        "Tapi",
-        "Godavari",
-        "Mahanadi"
+        "Brahmaputra",
+        "Ganga",
+        "Mekong",
+        "Narmada"
       ],
       "correct": 0,
-      "explanation": "The Narmada river flows through the Satpura range in central India."
+      "explanation": "The Brahmaputra river is known for its reverse flow during the monsoon season due to the heavy rainfall and melting of snow in the Himalayas."
     },
     {
       "id": 3,
-      "category": "Indian Polity & Governance",
-      "question": "What is the minimum age requirement for a person to be eligible to contest elections to the Lok Sabha?",
-      "options": [
-        "21 years",
-        "25 years",
-        "30 years",
-        "35 years"
-      ],
-      "correct": 1,
-      "explanation": "According to Article 84 of the Indian Constitution, a person must be at least 25 years old to be eligible to contest elections to the Lok Sabha."
-    },
-    {
-      "id": 4,
-      "category": "Indian Economy",
-      "question": "The National Bank for Agriculture and Rural Development (NABARD) was established in which year?",
-      "options": [
-        "1978",
-        "1982",
-        "1985",
-        "1990"
-      ],
-      "correct": 1,
-      "explanation": "The National Bank for Agriculture and Rural Development (NABARD) was established on July 12, 1982."
-    },
-    {
-      "id": 5,
-      "category": "General Science",
-      "question": "Who is the discoverer of the principles of inheritance, also known as the father of genetics?",
-      "options": [
-        "Charles Darwin",
-        "Gregor Mendel",
-        "Galileo Galilei",
-        "Louis Pasteur"
-      ],
-      "correct": 1,
-      "explanation": "Gregor Mendel is known as the father of genetics due to his discovery of the principles of inheritance in the 19th century."
-    },
-    {
-      "id": 6,
-      "category": "Environment & Ecology",
-      "question": "The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) was signed in which year?",
-      "options": [
-        "1972",
-        "1975",
-        "1980",
-        "1992"
-      ],
-      "correct": 1,
-      "explanation": "The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) was signed in 1975 and came into force in 1976."
-    },
-    {
-      "id": 7,
-      "category": "Current Affairs & General Knowledge",
-      "question": "The first woman to fly an aircraft solo was?",
-      "options": [
-        "Amelia Earhart",
-        "Sachin Tendulkar",
-        "Kalpana Chawla",
-        "Indira Gandhi"
-      ],
-      "correct": 0,
-      "explanation": "Amelia Earhart became the first woman to fly an aircraft solo in 1932, flying a single-engine monoplane."
-    },
-    {
-      "id": 8,
-      "category": "Indian History",
-      "question": "The ancient Indian text, Arthashastra, was written by?",
-      "options": [
-        "Kautilya",
-        "Chanakya",
-        "Ashoka",
-        "Akbar"
-      ],
-      "correct": 0,
-      "explanation": "The ancient Indian text, Arthashastra, was written by Kautilya, also known as Chanakya, in the 4th century BC."
-    },
-    {
-      "id": 9,
-      "category": "Indian Geography",
-      "question": "The Western Ghats mountain range runs along the western coast of which states in India?",
-      "options": [
-        "Gujarat and Maharashtra",
-        "Maharashtra and Goa",
-        "Kerala and Tamil Nadu",
-        "Karnataka and Andhra Pradesh"
-      ],
-      "correct": 2,
-      "explanation": "The Western Ghats mountain range runs along the western coast of Kerala and Tamil Nadu in India."
-    },
-    {
-      "id": 10,
       "category": "Indian Polity & Governance",
       "question": "The 42nd Amendment to the Indian Constitution was enacted in which year?",
       "options": [
@@ -132,12 +41,12 @@
         "1978"
       ],
       "correct": 1,
-      "explanation": "The 42nd Amendment to the Indian Constitution was enacted in 1976 during the Emergency period."
+      "explanation": "The 42nd Amendment to the Indian Constitution was enacted in 1976, during the Emergency period, and made significant changes to the Constitution."
     },
     {
-      "id": 11,
+      "id": 4,
       "category": "Indian Economy",
-      "question": "The concept of 'inclusive growth' was introduced in which Five-Year Plan of India?",
+      "question": "The concept of 'inclusive growth' was introduced in which Five-Year Plan?",
       "options": [
         "10th Plan",
         "11th Plan",
@@ -145,77 +54,77 @@
         "13th Plan"
       ],
       "correct": 1,
-      "explanation": "The concept of 'inclusive growth' was introduced in the 11th Five-Year Plan of India (2007-2012)."
+      "explanation": "The concept of 'inclusive growth' was introduced in the 11th Five-Year Plan (2007-2012), which aimed to promote growth that would benefit all sections of society."
     },
     {
-      "id": 12,
+      "id": 5,
       "category": "General Science",
-      "question": "Who is the discoverer of the X-ray?",
+      "question": "Which of the following scientists is credited with the discovery of the first antibiotic, penicillin?",
       "options": [
-        "Wilhelm Conrad Röntgen",
-        "Max Planck",
-        "Albert Einstein",
-        "Marie Curie"
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Robert Koch",
+        "Edward Jenner"
       ],
       "correct": 0,
-      "explanation": "Wilhelm Conrad Röntgen discovered X-rays in 1895 and was awarded the first Nobel Prize in Physics in 1901."
+      "explanation": "Alexander Fleming is credited with the discovery of penicillin in 1928, which revolutionized the treatment of bacterial infections."
     },
     {
-      "id": 13,
+      "id": 6,
       "category": "Environment & Ecology",
-      "question": "The Earth Summit was held in which city in 1992?",
+      "question": "The Chipko Movement was a response to which of the following environmental issues?",
       "options": [
-        "Rio de Janeiro",
-        "Tokyo",
-        "New York",
-        "Paris"
+        "Deforestation",
+        "Pollution",
+        "Climate change",
+        "Wildlife conservation"
       ],
       "correct": 0,
-      "explanation": "The Earth Summit, also known as the United Nations Conference on Environment and Development (UNCED), was held in Rio de Janeiro in 1992."
+      "explanation": "The Chipko Movement was a response to deforestation and the felling of trees in the Himalayan region, and aimed to protect the environment and the livelihoods of local communities."
     },
     {
-      "id": 14,
+      "id": 7,
       "category": "Current Affairs & General Knowledge",
-      "question": "The first Indian to win an Olympic medal was?",
+      "question": "The 'Make in India' initiative was launched by the Indian government in which year?",
       "options": [
-        "Khashaba Dadasaheb Jadhav",
-        "Milkha Singh",
-        "Vijay Amritraj",
-        "Abhinav Bindra"
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "correct": 1,
+      "explanation": "The 'Make in India' initiative was launched by the Indian government in 2015, with the aim of promoting India as a manufacturing hub and attracting foreign investment."
+    },
+    {
+      "id": 8,
+      "category": "Indian History",
+      "question": "The ancient Indian university of Nalanda was located in which modern-day state?",
+      "options": [
+        "Bihar",
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "West Bengal"
       ],
       "correct": 0,
-      "explanation": "Khashaba Dadasaheb Jadhav won a bronze medal in wrestling at the 1952 Helsinki Olympics, becoming the first Indian to win an Olympic medal."
+      "explanation": "The ancient Indian university of Nalanda was located in the state of Bihar, and was a major center of learning and intellectual inquiry in ancient India."
     },
     {
-      "id": 15,
-      "category": "Indian History",
-      "question": "The Mughal emperor who built the Taj Mahal was?",
-      "options": [
-        "Babur",
-        "Humayun",
-        "Akbar",
-        "Shah Jahan"
-      ],
-      "correct": 3,
-      "explanation": "The Mughal emperor Shah Jahan built the Taj Mahal in memory of his wife, Mumtaz Mahal, in the 17th century."
-    },
-    {
-      "id": 16,
+      "id": 9,
       "category": "Indian Geography",
-      "question": "The largest island in the Lakshadweep archipelago is?",
+      "question": "Which of the following mountain ranges runs along the border between India and Pakistan?",
       "options": [
-        "Amini",
-        "Androth",
-        "Kavaratti",
-        "Minicoy"
+        "Karakoram",
+        "Himalayas",
+        "Aravalli",
+        "Vindhya"
       ],
-      "correct": 2,
-      "explanation": "Kavaratti is the largest island in the Lakshadweep archipelago, with an area of approximately 4.22 square kilometers."
+      "correct": 0,
+      "explanation": "The Karakoram mountain range runs along the border between India and Pakistan, and is known for its rugged terrain and high peaks."
     },
     {
-      "id": 17,
+      "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution came into effect on?",
+      "question": "The Indian Constitution came into effect on which date?",
       "options": [
         "January 26, 1950",
         "August 15, 1947",
@@ -223,77 +132,77 @@
         "November 26, 1949"
       ],
       "correct": 0,
-      "explanation": "The Indian Constitution came into effect on January 26, 1950, marking the transition of India to a republic."
+      "explanation": "The Indian Constitution came into effect on January 26, 1950, marking the transition of India from a British colony to a republic."
     },
     {
-      "id": 18,
+      "id": 11,
       "category": "Indian Economy",
-      "question": "The first Five-Year Plan of India was launched in which year?",
+      "question": "The concept of 'fiscal deficit' refers to which of the following?",
       "options": [
-        "1950",
-        "1951",
-        "1952",
-        "1955"
+        "The difference between the government's revenue and expenditure",
+        "The difference between the government's revenue and GDP",
+        "The ratio of government debt to GDP",
+        "The ratio of government expenditure to GDP"
       ],
-      "correct": 1,
-      "explanation": "The first Five-Year Plan of India was launched in 1951, with a focus on rapid industrialization and agricultural development."
+      "correct": 0,
+      "explanation": "The concept of 'fiscal deficit' refers to the difference between the government's revenue and expenditure, and is a key indicator of a country's fiscal health."
     },
     {
-      "id": 19,
+      "id": 12,
       "category": "General Science",
-      "question": "The largest planet in our solar system is?",
+      "question": "Which of the following planets in our solar system is known for its reddish appearance?",
       "options": [
-        "Earth",
-        "Saturn",
+        "Mars",
         "Jupiter",
+        "Saturn",
         "Uranus"
       ],
-      "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
+      "correct": 0,
+      "explanation": "Mars is known for its reddish appearance, due to the presence of iron oxide in the planet's soil and rocks."
     },
     {
-      "id": 20,
+      "id": 13,
       "category": "Environment & Ecology",
-      "question": "The term 'biodiversity' was coined by?",
+      "question": "The Indian government has launched which of the following initiatives to promote the use of renewable energy?",
       "options": [
-        "Edward O. Wilson",
-        "Rachel Carson",
-        "Jane Goodall",
-        "David Attenborough"
+        "National Solar Mission",
+        "National Wind Mission",
+        "National Renewable Energy Mission",
+        "National Energy Efficiency Mission"
       ],
       "correct": 0,
-      "explanation": "The term 'biodiversity' was coined by Edward O. Wilson in 1985, combining the words 'biological' and 'diversity'."
+      "explanation": "The Indian government has launched the National Solar Mission to promote the use of solar energy and reduce the country's dependence on fossil fuels."
     },
     {
-      "id": 21,
+      "id": 14,
       "category": "Current Affairs & General Knowledge",
-      "question": "The first Indian satellite to be launched into space was?",
+      "question": "The Indian government has launched which of the following schemes to provide financial assistance to farmers?",
       "options": [
-        "Aryabhata",
-        "Bhaskara",
-        "INSAT-1A",
-        "IRS-1A"
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Krishi Sinchayee Yojana",
+        "Pradhan Mantri Kisan Mandhan Yojana"
       ],
       "correct": 0,
-      "explanation": "Aryabhata was the first Indian satellite to be launched into space, on April 19, 1975, using a Soviet rocket."
+      "explanation": "The Indian government has launched the Pradhan Mantri Kisan Samman Nidhi scheme to provide financial assistance to farmers and support their livelihoods."
     },
     {
-      "id": 22,
+      "id": 15,
       "category": "Indian History",
-      "question": "The Indus Valley Civilization was discovered in which year?",
+      "question": "The Quit India Movement was launched by Mahatma Gandhi in which year?",
       "options": [
-        "1850",
-        "1900",
-        "1920",
-        "1922"
+        "1940",
+        "1942",
+        "1945",
+        "1947"
       ],
-      "correct": 3,
-      "explanation": "The Indus Valley Civilization was discovered in 1922 by archaeologist Daya Ram Sahni, who excavated the site of Harappa."
+      "correct": 1,
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942, with the aim of ending British rule in India and achieving independence."
     },
     {
-      "id": 23,
+      "id": 16,
       "category": "Indian Geography",
-      "question": "The longest river in South India is?",
+      "question": "Which of the following rivers is the longest in South India?",
       "options": [
         "Godavari",
         "Krishna",
@@ -301,166 +210,166 @@
         "Tungabhadra"
       ],
       "correct": 0,
-      "explanation": "The Godavari is the longest river in South India, stretching over 1,465 kilometers from its source to its mouth."
+      "explanation": "The Godavari river is the longest in South India, stretching over 1,450 kilometers and flowing through several states."
+    },
+    {
+      "id": 17,
+      "category": "Indian Polity & Governance",
+      "question": "The Indian Constitution has how many schedules?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "explanation": "The Indian Constitution has 9 schedules, which deal with various aspects of governance and administration."
+    },
+    {
+      "id": 18,
+      "category": "Indian Economy",
+      "question": "The concept of 'monetary policy' refers to which of the following?",
+      "options": [
+        "The use of fiscal policy to manage the economy",
+        "The use of monetary policy to manage the economy",
+        "The regulation of banks and financial institutions",
+        "The management of the government's budget and expenditure"
+      ],
+      "correct": 1,
+      "explanation": "The concept of 'monetary policy' refers to the use of monetary policy to manage the economy, including the use of interest rates and money supply to promote economic growth and stability."
+    },
+    {
+      "id": 19,
+      "category": "General Science",
+      "question": "Which of the following scientists is credited with the discovery of the theory of evolution?",
+      "options": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Albert Einstein"
+      ],
+      "correct": 0,
+      "explanation": "Charles Darwin is credited with the discovery of the theory of evolution, which revolutionized our understanding of the natural world and the diversity of life on Earth."
+    },
+    {
+      "id": 20,
+      "category": "Environment & Ecology",
+      "question": "The Indian government has launched which of the following initiatives to promote the conservation of wildlife?",
+      "options": [
+        "Project Tiger",
+        "Project Elephant",
+        "Project Lion",
+        "Project Rhino"
+      ],
+      "correct": 0,
+      "explanation": "The Indian government has launched Project Tiger to promote the conservation of tigers and their habitats, and to protect the country's rich biodiversity."
+    },
+    {
+      "id": 21,
+      "category": "Current Affairs & General Knowledge",
+      "question": "The Indian government has launched which of the following schemes to promote digital payments?",
+      "options": [
+        "Digital India",
+        "Make in India",
+        "Start-Up India",
+        "BHIM"
+      ],
+      "correct": 3,
+      "explanation": "The Indian government has launched the BHIM scheme to promote digital payments and reduce the country's dependence on cash transactions."
+    },
+    {
+      "id": 22,
+      "category": "Indian History",
+      "question": "The Indian National Congress was founded in which year?",
+      "options": [
+        "1884",
+        "1885",
+        "1886",
+        "1887"
+      ],
+      "correct": 1,
+      "explanation": "The Indian National Congress was founded in 1885, with the aim of promoting Indian rights and self-rule under British colonial rule."
+    },
+    {
+      "id": 23,
+      "category": "Indian Geography",
+      "question": "Which of the following states has the longest coastline?",
+      "options": [
+        "Gujarat",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "correct": 0,
+      "explanation": "Gujarat has the longest coastline, stretching over 1,600 kilometers and providing a strategic location for trade and commerce."
     },
     {
       "id": 24,
       "category": "Indian Polity & Governance",
-      "question": "The Indian Parliament consists of how many houses?",
+      "question": "The Indian Constitution provides for which of the following types of emergencies?",
       "options": [
-        "1",
-        "2",
-        "3",
-        "4"
+        "National emergency",
+        "State emergency",
+        "Financial emergency",
+        "All of the above"
       ],
-      "correct": 1,
-      "explanation": "The Indian Parliament consists of two houses: the Lok Sabha (House of the People) and the Rajya Sabha (Council of States)."
+      "correct": 3,
+      "explanation": "The Indian Constitution provides for national emergency, state emergency, and financial emergency, which can be declared in times of crisis to ensure the stability and security of the country."
     },
     {
       "id": 25,
       "category": "Indian Economy",
-      "question": "The concept of 'Make in India' was launched by which government?",
+      "question": "The concept of 'fiscal policy' refers to which of the following?",
       "options": [
-        "NDA",
-        "UPA",
-        "Janata Party",
-        "Congress"
+        "The use of monetary policy to manage the economy",
+        "The use of fiscal policy to manage the economy",
+        "The regulation of banks and financial institutions",
+        "The management of the government's budget and expenditure"
       ],
-      "correct": 0,
-      "explanation": "The concept of 'Make in India' was launched by the NDA government led by Prime Minister Narendra Modi in 2014."
+      "correct": 1,
+      "explanation": "The concept of 'fiscal policy' refers to the use of fiscal policy to manage the economy, including the use of government spending and taxation to promote economic growth and stability."
     },
     {
       "id": 26,
       "category": "General Science",
-      "question": "The process by which plants convert sunlight into energy is called?",
+      "question": "Which of the following planets in our solar system is known for its ring system?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
+      "explanation": "Saturn is known for its ring system, which is one of the most extensive and complex in the solar system."
     },
     {
       "id": 27,
       "category": "Environment & Ecology",
-      "question": "The term 'global warming' refers to?",
+      "question": "The Indian government has launched which of the following initiatives to promote the conservation of forests?",
       "options": [
-        "The increase in the Earth's average temperature",
-        "The decrease in the Earth's average temperature",
-        "The melting of polar ice caps",
-        "The rise in sea levels"
+        "National Forest Policy",
+        "National Wildlife Policy",
+        "National Environmental Policy",
+        "National Conservation Policy"
       ],
       "correct": 0,
-      "explanation": "Global warming refers to the long-term increase in the Earth's average temperature, primarily due to human activities such as burning fossil fuels and deforestation."
+      "explanation": "The Indian government has launched the National Forest Policy to promote the conservation of forests and the sustainable use of forest resources."
     },
     {
       "id": 28,
       "category": "Current Affairs & General Knowledge",
-      "question": "The first woman to become the President of India was?",
+      "question": "The Indian government has launched which of the following schemes to promote the development of rural areas?",
       "options": [
-        "Pratibha Patil",
-        "Indira Gandhi",
-        "Sonia Gandhi",
-        "Mayawati"
+        "Pradhan Mantri Gram Sadak Yojana",
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Jan-Dhan Yojana"
       ],
       "correct": 0,
-      "explanation": "Pratibha Patil became the first woman to become the President of India, serving from 2007 to 2012."
+      "explanation": "The Indian government has launched the Pradhan Mantri Gram Sadak Yojana to promote the development of rural areas and improve the connectivity of rural communities."
     },
     {
       "id": 29,
-      "category": "Indian History",
-      "question": "The Indian National Congress was founded in which year?",
-      "options": [
-        "1880",
-        "1885",
-        "1890",
-        "1895"
-      ],
-      "correct": 1,
-      "explanation": "The Indian National Congress was founded on December 28, 1885, by A.O. Hume, a British civil servant."
-    },
-    {
-      "id": 30,
-      "category": "Indian Geography",
-      "question": "The highest peak in the Himalayan mountain range is?",
-      "options": [
-        "Mount Everest",
-        "K2",
-        "Kangchenjunga",
-        "Annapurna"
-      ],
-      "correct": 0,
-      "explanation": "Mount Everest is the highest peak in the Himalayan mountain range, with a height of over 8,848 meters above sea level."
-    },
-    {
-      "id": 31,
-      "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution guarantees the right to?",
-      "options": [
-        "Freedom of speech and expression",
-        "Freedom of assembly and association",
-        "Right to life and liberty",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "The Indian Constitution guarantees the right to freedom of speech and expression, freedom of assembly and association, and the right to life and liberty, among other fundamental rights."
-    },
-    {
-      "id": 32,
-      "category": "Indian Economy",
-      "question": "The Reserve Bank of India (RBI) was established in which year?",
-      "options": [
-        "1934",
-        "1935",
-        "1940",
-        "1945"
-      ],
-      "correct": 1,
-      "explanation": "The Reserve Bank of India (RBI) was established on April 1, 1935, as the central bank of India."
-    },
-    {
-      "id": 33,
-      "category": "General Science",
-      "question": "The largest living structure on Earth is?",
-      "options": [
-        "The Great Barrier Reef",
-        "The Amazon rainforest",
-        "The Grand Canyon",
-        "The Great Wall of China"
-      ],
-      "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
-    },
-    {
-      "id": 34,
-      "category": "Environment & Ecology",
-      "question": "The term 'ecosystem' was coined by?",
-      "options": [
-        "Arthur Tansley",
-        "Charles Darwin",
-        "Gregor Mendel",
-        "Rachel Carson"
-      ],
-      "correct": 0,
-      "explanation": "The term 'ecosystem' was coined by Arthur Tansley in 1935, combining the words 'ecology' and 'system'."
-    },
-    {
-      "id": 35,
-      "category": "Current Affairs & General Knowledge",
-      "question": "The first Indian to win a Nobel Prize was?",
-      "options": [
-        "Rabindranath Tagore",
-        "C.V. Raman",
-        "Amartya Sen",
-        "Mother Teresa"
-      ],
-      "correct": 0,
-      "explanation": "Rabindranath Tagore was the first Indian to win a Nobel Prize, awarded the Nobel Prize in Literature in 1913."
-    },
-    {
-      "id": 36,
       "category": "Indian History",
       "question": "The Battle of Panipat was fought in which year?",
       "options": [
@@ -470,319 +379,410 @@
         "1799"
       ],
       "correct": 2,
-      "explanation": "The Third Battle of Panipat was fought on January 14, 1761, between the Maratha Empire and the Durrani Empire."
+      "explanation": "The Battle of Panipat was fought in 1761, between the Maratha Empire and the Durrani Empire, and marked a significant turning point in Indian history."
     },
     {
-      "id": 37,
+      "id": 30,
       "category": "Indian Geography",
-      "question": "The largest desert in India is?",
+      "question": "Which of the following mountain ranges is located in the eastern part of India?",
       "options": [
-        "Thar Desert",
-        "Cholistan Desert",
-        "Kutch Desert",
-        "Rann of Kutch"
-      ],
-      "correct": 0,
-      "explanation": "The Thar Desert, also known as the Cholistan Desert, is the largest desert in India, covering over 260,000 square kilometers."
-    },
-    {
-      "id": 38,
-      "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution provides for a?",
-      "options": [
-        "Federal system of government",
-        "Unitary system of government",
-        "Confederal system of government",
-        "Mixed system of government"
-      ],
-      "correct": 0,
-      "explanation": "The Indian Constitution provides for a federal system of government, with power divided between the central government and the state governments."
-    },
-    {
-      "id": 39,
-      "category": "Indian Economy",
-      "question": "The concept of 'planned economy' was introduced in India by?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Indira Gandhi",
-        "Manmohan Singh",
-        "Narendra Modi"
-      ],
-      "correct": 0,
-      "explanation": "The concept of 'planned economy' was introduced in India by Jawaharlal Nehru, who served as the first Prime Minister of India."
-    },
-    {
-      "id": 40,
-      "category": "General Science",
-      "question": "The process by which an organism's genetic information is passed from one generation to the next is called?",
-      "options": [
-        "Mutation",
-        "Genetic drift",
-        "Gene flow",
-        "Hereditary"
+        "Himalayas",
+        "Aravalli",
+        "Vindhya",
+        "Purulia"
       ],
       "correct": 3,
-      "explanation": "Hereditary refers to the process by which an organism's genetic information is passed from one generation to the next through the transmission of genes."
+      "explanation": "The Purulia mountain range is located in the eastern part of India, in the state of West Bengal, and is known for its scenic beauty and rich biodiversity."
     },
     {
-      "id": 41,
-      "category": "Environment & Ecology",
-      "question": "The term 'sustainable development' was popularized by?",
-      "options": [
-        "Gro Harlem Brundtland",
-        "Al Gore",
-        "James Hansen",
-        "David Attenborough"
-      ],
-      "correct": 0,
-      "explanation": "The term 'sustainable development' was popularized by Gro Harlem Brundtland, the former Prime Minister of Norway, in the 1987 report 'Our Common Future'."
-    },
-    {
-      "id": 42,
-      "category": "Current Affairs & General Knowledge",
-      "question": "The first woman to become the Prime Minister of India was?",
-      "options": [
-        "Indira Gandhi",
-        "Sonia Gandhi",
-        "Pratibha Patil",
-        "Mayawati"
-      ],
-      "correct": 0,
-      "explanation": "Indira Gandhi became the first woman to become the Prime Minister of India, serving from 1966 to 1977 and again from 1980 to 1984."
-    },
-    {
-      "id": 43,
-      "category": "Indian History",
-      "question": "The East India Company was established in which year?",
-      "options": [
-        "1600",
-        "1610",
-        "1620",
-        "1650"
-      ],
-      "correct": 0,
-      "explanation": "The East India Company was established on December 31, 1600, by a royal charter granted by Queen Elizabeth I."
-    },
-    {
-      "id": 44,
-      "category": "Indian Geography",
-      "question": "The state with the longest coastline in India is?",
-      "options": [
-        "Gujarat",
-        "Maharashtra",
-        "Tamil Nadu",
-        "Andhra Pradesh"
-      ],
-      "correct": 0,
-      "explanation": "Gujarat has the longest coastline in India, stretching over 1,600 kilometers along the Arabian Sea."
-    },
-    {
-      "id": 45,
+      "id": 31,
       "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution provides for a?",
-      "options": [
-        "Independent judiciary",
-        "Federal system of government",
-        "Unitary system of government",
-        "Confederal system of government"
-      ],
-      "correct": 0,
-      "explanation": "The Indian Constitution provides for an independent judiciary, with the Supreme Court as the highest court in the land."
-    },
-    {
-      "id": 46,
-      "category": "Indian Economy",
-      "question": "The concept of 'liberalization' was introduced in India by?",
-      "options": [
-        "Rajiv Gandhi",
-        "Narasimha Rao",
-        "Manmohan Singh",
-        "Narendra Modi"
-      ],
-      "correct": 1,
-      "explanation": "The concept of 'liberalization' was introduced in India by Narasimha Rao, who served as the Prime Minister of India from 1991 to 1996."
-    },
-    {
-      "id": 47,
-      "category": "General Science",
-      "question": "The largest mammal on Earth is?",
-      "options": [
-        "Blue whale",
-        "Fin whale",
-        "Humpback whale",
-        "Sperm whale"
-      ],
-      "correct": 0,
-      "explanation": "The blue whale is the largest mammal on Earth, with some individuals reaching lengths of up to 33 meters and weighing up to 180 metric tons."
-    },
-    {
-      "id": 48,
-      "category": "Environment & Ecology",
-      "question": "The term 'greenhouse effect' refers to?",
-      "options": [
-        "The warming of the Earth's atmosphere due to human activities",
-        "The cooling of the Earth's atmosphere due to natural processes",
-        "The reduction of the Earth's atmospheric pressure",
-        "The increase in the Earth's ocean currents"
-      ],
-      "correct": 0,
-      "explanation": "The greenhouse effect refers to the warming of the Earth's atmosphere due to the increased levels of greenhouse gases, such as carbon dioxide and methane, primarily caused by human activities."
-    },
-    {
-      "id": 49,
-      "category": "Current Affairs & General Knowledge",
-      "question": "The first Indian to win a Grammy Award was?",
-      "options": [
-        "Ravi Shankar",
-        "Ali Akbar Khan",
-        "Lata Mangeshkar",
-        "A.R. Rahman"
-      ],
-      "correct": 0,
-      "explanation": "Ravi Shankar was the first Indian to win a Grammy Award, awarded in 1967 for his album 'West Meets East'."
-    },
-    {
-      "id": 50,
-      "category": "Indian History",
-      "question": "The Mughal Empire was founded by?",
-      "options": [
-        "Babur",
-        "Humayun",
-        "Akbar",
-        "Babur's father, Umar Shaikh Mirza"
-      ],
-      "correct": 0,
-      "explanation": "The Mughal Empire was founded by Babur, a Central Asian ruler, in 1526 after his victory over the Sultan of Delhi, Ibrahim Lodi."
-    },
-    {
-      "id": 51,
-      "category": "Indian Geography",
-      "question": "The state with the highest population density in India is?",
-      "options": [
-        "Bihar",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Delhi"
-      ],
-      "correct": 3,
-      "explanation": "Delhi has the highest population density in India, with over 11,000 people per square kilometer."
-    },
-    {
-      "id": 52,
-      "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution has a?",
-      "options": [
-        "Flexible constitution",
-        "Rigid constitution",
-        "Federal constitution",
-        "Unitary constitution"
-      ],
-      "correct": 1,
-      "explanation": "The Indian Constitution has a rigid constitution, with a complex process for amendments, to ensure stability and continuity."
-    },
-    {
-      "id": 53,
-      "category": "Indian Economy",
-      "question": "The concept of 'fiscal policy' refers to?",
-      "options": [
-        "The use of monetary policy to regulate the economy",
-        "The use of fiscal policy to regulate the economy",
-        "The use of trade policy to regulate the economy",
-        "The use of industrial policy to regulate the economy"
-      ],
-      "correct": 1,
-      "explanation": "The concept of 'fiscal policy' refers to the use of government spending and taxation to regulate the economy and achieve economic objectives."
-    },
-    {
-      "id": 54,
-      "category": "General Science",
-      "question": "The process by which water moves through a plant, from the roots to the leaves, is called?",
-      "options": [
-        "Transpiration",
-        "Respiration",
-        "Photosynthesis",
-        "Osmosis"
-      ],
-      "correct": 0,
-      "explanation": "Transpiration refers to the process by which water moves through a plant, from the roots to the leaves, and is then released into the atmosphere as water vapor."
-    },
-    {
-      "id": 55,
-      "category": "Environment & Ecology",
-      "question": "The term 'conservation' refers to?",
-      "options": [
-        "The preservation of natural resources for future generations",
-        "The exploitation of natural resources for economic gain",
-        "The protection of endangered species",
-        "The reduction of greenhouse gas emissions"
-      ],
-      "correct": 0,
-      "explanation": "The term 'conservation' refers to the preservation of natural resources, including forests, wildlife, and water, for future generations."
-    },
-    {
-      "id": 56,
-      "category": "Current Affairs & General Knowledge",
-      "question": "The first Indian to win an Olympic gold medal was?",
-      "options": [
-        "Abhinav Bindra",
-        "Leander Paes",
-        "Karnam Malleswari",
-        "Neeraj Chopra"
-      ],
-      "correct": 0,
-      "explanation": "Abhinav Bindra won the first individual Olympic gold medal for India, in the 10m air rifle event, at the 2008 Beijing Olympics."
-    },
-    {
-      "id": 57,
-      "category": "Indian History",
-      "question": "The Sepoy Mutiny of 1857 was also known as?",
-      "options": [
-        "The Indian Rebellion of 1857",
-        "The Sepoy Revolt of 1857",
-        "The Great Mutiny of 1857",
-        "The First War of Indian Independence"
-      ],
-      "correct": 3,
-      "explanation": "The Sepoy Mutiny of 1857 was also known as the First War of Indian Independence, as it marked a significant turning point in the Indian independence movement."
-    },
-    {
-      "id": 58,
-      "category": "Indian Geography",
-      "question": "The easternmost state in India is?",
-      "options": [
-        "Arunachal Pradesh",
-        "Assam",
-        "Meghalaya",
-        "Nagaland"
-      ],
-      "correct": 0,
-      "explanation": "Arunachal Pradesh is the easternmost state in India, bordering Myanmar, Bhutan, and China."
-    },
-    {
-      "id": 59,
-      "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution provides for a?",
+      "question": "The Indian Constitution provides for which of the following types of citizenship?",
       "options": [
         "Single citizenship",
         "Dual citizenship",
         "Multiple citizenship",
-        "No citizenship"
+        "Overseas citizenship"
       ],
       "correct": 0,
-      "explanation": "The Indian Constitution provides for a single citizenship, where every citizen of India is a citizen of the country as a whole, and not just of a particular state or region."
+      "explanation": "The Indian Constitution provides for single citizenship, which means that every Indian citizen is a citizen of India and is entitled to the same rights and privileges throughout the country."
+    },
+    {
+      "id": 32,
+      "category": "Indian Economy",
+      "question": "The concept of 'inflation' refers to which of the following?",
+      "options": [
+        "A decrease in the general price level",
+        "An increase in the general price level",
+        "A decrease in the money supply",
+        "An increase in the money supply"
+      ],
+      "correct": 1,
+      "explanation": "The concept of 'inflation' refers to an increase in the general price level of goods and services in an economy over a period of time, which can erode the purchasing power of consumers."
+    },
+    {
+      "id": 33,
+      "category": "General Science",
+      "question": "Which of the following elements is the lightest in the periodic table?",
+      "options": [
+        "Hydrogen",
+        "Helium",
+        "Lithium",
+        "Boron"
+      ],
+      "correct": 0,
+      "explanation": "Hydrogen is the lightest element in the periodic table, with an atomic mass of 1.00794 u."
+    },
+    {
+      "id": 34,
+      "category": "Environment & Ecology",
+      "question": "The Indian government has launched which of the following initiatives to promote the conservation of water?",
+      "options": [
+        "National Water Policy",
+        "National Water Mission",
+        "National Water Conservation Policy",
+        "National Water Harvesting Policy"
+      ],
+      "correct": 1,
+      "explanation": "The Indian government has launched the National Water Mission to promote the conservation of water and the efficient use of water resources in the country."
+    },
+    {
+      "id": 35,
+      "category": "Current Affairs & General Knowledge",
+      "question": "The Indian government has launched which of the following schemes to promote the development of skill?",
+      "options": [
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Jan-Dhan Yojana",
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Gram Sadak Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The Indian government has launched the Pradhan Mantri Kaushal Vikas Yojana to promote the development of skill and provide training to young people in various fields."
+    },
+    {
+      "id": 36,
+      "category": "Indian History",
+      "question": "The Jallianwala Bagh massacre took place in which year?",
+      "options": [
+        "1914",
+        "1919",
+        "1921",
+        "1922"
+      ],
+      "correct": 1,
+      "explanation": "The Jallianwala Bagh massacre took place in 1919, in Amritsar, Punjab, and marked a significant turning point in the Indian independence movement."
+    },
+    {
+      "id": 37,
+      "category": "Indian Geography",
+      "question": "Which of the following rivers flows through the city of Varanasi?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Brahmaputra",
+        "Godavari"
+      ],
+      "correct": 0,
+      "explanation": "The Ganga river flows through the city of Varanasi, which is a sacred city in Hinduism and a major cultural and spiritual center in India."
+    },
+    {
+      "id": 38,
+      "category": "Indian Polity & Governance",
+      "question": "The Indian Parliament consists of which of the following houses?",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Vidhan Sabha",
+        "All of the above"
+      ],
+      "correct": 2,
+      "explanation": "The Indian Parliament consists of two houses: the Lok Sabha and the Rajya Sabha, which are responsible for making laws and overseeing the government."
+    },
+    {
+      "id": 39,
+      "category": "Indian Economy",
+      "question": "The concept of 'economic growth' refers to which of the following?",
+      "options": [
+        "An increase in the production of goods and services",
+        "A decrease in the production of goods and services",
+        "An increase in the money supply",
+        "A decrease in the money supply"
+      ],
+      "correct": 0,
+      "explanation": "The concept of 'economic growth' refers to an increase in the production of goods and services in an economy over a period of time, which can lead to an improvement in the standard of living of the people."
+    },
+    {
+      "id": 40,
+      "category": "General Science",
+      "question": "Which of the following scientists is credited with the discovery of the principle of buoyancy?",
+      "options": [
+        "Archimedes",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "correct": 0,
+      "explanation": "Archimedes is credited with the discovery of the principle of buoyancy, which states that the buoyant force on an object is equal to the weight of the fluid displaced by the object."
+    },
+    {
+      "id": 41,
+      "category": "Environment & Ecology",
+      "question": "The Indian government has launched which of the following initiatives to promote the conservation of biodiversity?",
+      "options": [
+        "National Biodiversity Policy",
+        "National Wildlife Policy",
+        "National Environmental Policy",
+        "National Conservation Policy"
+      ],
+      "correct": 0,
+      "explanation": "The Indian government has launched the National Biodiversity Policy to promote the conservation of biodiversity and the sustainable use of natural resources."
+    },
+    {
+      "id": 42,
+      "category": "Current Affairs & General Knowledge",
+      "question": "The Indian government has launched which of the following schemes to promote the development of entrepreneurship?",
+      "options": [
+        "Pradhan Mantri Mudra Yojana",
+        "Pradhan Mantri Jan-Dhan Yojana",
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Gram Sadak Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The Indian government has launched the Pradhan Mantri Mudra Yojana to promote the development of entrepreneurship and provide financial assistance to small and medium-sized enterprises."
+    },
+    {
+      "id": 43,
+      "category": "Indian History",
+      "question": "The Sepoy Mutiny took place in which year?",
+      "options": [
+        "1856",
+        "1857",
+        "1858",
+        "1859"
+      ],
+      "correct": 1,
+      "explanation": "The Sepoy Mutiny took place in 1857, and marked a significant turning point in the Indian independence movement, as it was the first major rebellion against British rule in India."
+    },
+    {
+      "id": 44,
+      "category": "Indian Geography",
+      "question": "Which of the following states has the largest desert?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
+      ],
+      "correct": 0,
+      "explanation": "Rajasthan has the largest desert in India, the Thar Desert, which covers over 320,000 square kilometers and is one of the most arid regions in the country."
+    },
+    {
+      "id": 45,
+      "category": "Indian Polity & Governance",
+      "question": "The Indian Constitution provides for which of the following types of fundamental rights?",
+      "options": [
+        "Right to equality",
+        "Right to freedom",
+        "Right to life",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The Indian Constitution provides for several types of fundamental rights, including the right to equality, the right to freedom, and the right to life, which are guaranteed to all citizens and are enforceable by the courts."
+    },
+    {
+      "id": 46,
+      "category": "Indian Economy",
+      "question": "The concept of 'poverty line' refers to which of the following?",
+      "options": [
+        "The minimum income required to survive",
+        "The minimum income required to live a decent life",
+        "The average income of the population",
+        "The median income of the population"
+      ],
+      "correct": 0,
+      "explanation": "The concept of 'poverty line' refers to the minimum income required to survive, and is used as a benchmark to measure poverty and deprivation in a population."
+    },
+    {
+      "id": 47,
+      "category": "General Science",
+      "question": "Which of the following elements is the most abundant in the Earth's crust?",
+      "options": [
+        "Oxygen",
+        "Silicon",
+        "Aluminum",
+        "Iron"
+      ],
+      "correct": 0,
+      "explanation": "Oxygen is the most abundant element in the Earth's crust, making up approximately 46% of the Earth's crust by weight."
+    },
+    {
+      "id": 48,
+      "category": "Environment & Ecology",
+      "question": "The Indian government has launched which of the following initiatives to promote the conservation of forests?",
+      "options": [
+        "National Forest Policy",
+        "National Wildlife Policy",
+        "National Environmental Policy",
+        "National Conservation Policy"
+      ],
+      "correct": 0,
+      "explanation": "The Indian government has launched the National Forest Policy to promote the conservation of forests and the sustainable use of forest resources."
+    },
+    {
+      "id": 49,
+      "category": "Current Affairs & General Knowledge",
+      "question": "The Indian government has launched which of the following schemes to promote the development of rural infrastructure?",
+      "options": [
+        "Pradhan Mantri Gram Sadak Yojana",
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Jan-Dhan Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The Indian government has launched the Pradhan Mantri Gram Sadak Yojana to promote the development of rural infrastructure and improve the connectivity of rural communities."
+    },
+    {
+      "id": 50,
+      "category": "Indian History",
+      "question": "The Indian National Army was formed in which year?",
+      "options": [
+        "1940",
+        "1942",
+        "1943",
+        "1945"
+      ],
+      "correct": 2,
+      "explanation": "The Indian National Army was formed in 1943, during World War II, with the aim of fighting for Indian independence from British rule."
+    },
+    {
+      "id": 51,
+      "category": "Indian Geography",
+      "question": "Which of the following mountain ranges is located in the western part of India?",
+      "options": [
+        "Himalayas",
+        "Aravalli",
+        "Vindhya",
+        "Sahyadri"
+      ],
+      "correct": 3,
+      "explanation": "The Sahyadri mountain range is located in the western part of India, in the state of Maharashtra, and is known for its scenic beauty and rich biodiversity."
+    },
+    {
+      "id": 52,
+      "category": "Indian Polity & Governance",
+      "question": "The Indian Constitution provides for which of the following types of governments?",
+      "options": [
+        "Federal government",
+        "Unitary government",
+        "Confederal government",
+        "All of the above"
+      ],
+      "correct": 0,
+      "explanation": "The Indian Constitution provides for a federal government, which is a system of government in which power is divided between a central authority and constituent units, such as states and local governments."
+    },
+    {
+      "id": 53,
+      "category": "Indian Economy",
+      "question": "The concept of 'foreign direct investment' refers to which of the following?",
+      "options": [
+        "Investment by foreign companies in the domestic economy",
+        "Investment by domestic companies in foreign economies",
+        "Investment by foreign governments in the domestic economy",
+        "Investment by domestic governments in foreign economies"
+      ],
+      "correct": 0,
+      "explanation": "The concept of 'foreign direct investment' refers to investment by foreign companies in the domestic economy, which can take the form of setting up new businesses or acquiring existing ones."
+    },
+    {
+      "id": 54,
+      "category": "General Science",
+      "question": "Which of the following scientists is credited with the discovery of the principle of relativity?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Marie Curie"
+      ],
+      "correct": 0,
+      "explanation": "Albert Einstein is credited with the discovery of the principle of relativity, which revolutionized our understanding of space and time."
+    },
+    {
+      "id": 55,
+      "category": "Environment & Ecology",
+      "question": "The Indian government has launched which of the following initiatives to promote the conservation of wildlife?",
+      "options": [
+        "Project Tiger",
+        "Project Elephant",
+        "Project Lion",
+        "Project Rhino"
+      ],
+      "correct": 0,
+      "explanation": "The Indian government has launched Project Tiger to promote the conservation of tigers and their habitats, and to protect the country's rich biodiversity."
+    },
+    {
+      "id": 56,
+      "category": "Current Affairs & General Knowledge",
+      "question": "The Indian government has launched which of the following schemes to promote the development of entrepreneurship?",
+      "options": [
+        "Pradhan Mantri Mudra Yojana",
+        "Pradhan Mantri Jan-Dhan Yojana",
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Gram Sadak Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The Indian government has launched the Pradhan Mantri Mudra Yojana to promote the development of entrepreneurship and provide financial assistance to small and medium-sized enterprises."
+    },
+    {
+      "id": 57,
+      "category": "Indian History",
+      "question": "The Indian Independence Act was passed in which year?",
+      "options": [
+        "1946",
+        "1947",
+        "1948",
+        "1949"
+      ],
+      "correct": 1,
+      "explanation": "The Indian Independence Act was passed in 1947, and marked the end of British rule in India and the beginning of a new era of independence and self-governance."
+    },
+    {
+      "id": 58,
+      "category": "Indian Geography",
+      "question": "Which of the following rivers flows through the city of Ahmedabad?",
+      "options": [
+        "Sabarmati",
+        "Narmada",
+        "Tapi",
+        "Mahanadi"
+      ],
+      "correct": 0,
+      "explanation": "The Sabarmati river flows through the city of Ahmedabad, which is a major urban center in the state of Gujarat."
+    },
+    {
+      "id": 59,
+      "category": "Indian Polity & Governance",
+      "question": "The Indian Constitution provides for which of the following types of local governments?",
+      "options": [
+        "Panchayati Raj",
+        "Nagarpalika",
+        "Zilla Parishad",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The Indian Constitution provides for various types of local governments, including Panchayati Raj, Nagarpalika, and Zilla Parishad, which are responsible for providing basic services and amenities to local communities."
     },
     {
       "id": 60,
       "category": "Indian Economy",
-      "question": "The concept of 'disinvestment' refers to?",
+      "question": "The concept of 'economic liberalization' refers to which of the following?",
       "options": [
-        "The sale of government-owned assets to private companies",
-        "The purchase of government-owned assets by private companies",
+        "The reduction of government regulations and controls on the economy",
+        "The increase of government regulations and controls on the economy",
         "The privatization of public sector enterprises",
         "The nationalization of private sector enterprises"
       ],
       "correct": 0,
-      "explanation": "The concept of 'disinvestment' refers to the sale of government-owned assets to private companies, in order to raise revenue and promote economic efficiency."
+      "explanation": "The concept of 'economic liberalization' refers to the reduction of government regulations and controls on the economy, and the promotion of free market principles and private sector participation."
     }
   ]
 }

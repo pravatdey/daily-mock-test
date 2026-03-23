@@ -1,26 +1,26 @@
 {
   "exam": "cgl",
   "name": "SSC CGL",
-  "date": "2026-03-22",
+  "date": "2026-03-23",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'India Wins Freedom'?",
+      "question": "Who was the author of the book 'The Discovery of India'?",
       "options": [
-        "Abul Kalam Azad",
         "Jawaharlal Nehru",
-        "Maulana Azad",
-        "Mahatma Gandhi"
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Rabindranath Tagore"
       ],
       "correct": 0,
-      "explanation": "Abul Kalam Azad wrote the book 'India Wins Freedom', which is an account of India's struggle for independence."
+      "explanation": "The book 'The Discovery of India' was written by Jawaharlal Nehru in 1946. It is a comprehensive book on Indian history, culture, and philosophy."
     },
     {
       "id": 2,
       "category": "General Science",
-      "question": "What is the process by which plants convert sunlight into energy?",
+      "question": "What is the process by which plants make their own food from sunlight?",
       "options": [
         "Respiration",
         "Photosynthesis",
@@ -33,15 +33,15 @@
     {
       "id": 3,
       "category": "Indian Polity & Economy",
-      "question": "Which of the following is NOT a fundamental right in the Indian Constitution?",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to farmers?",
       "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right to Property",
-        "Right to Education"
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Krishi Sinchai Yojana",
+        "Pradhan Mantri Jan Dhan Yojana"
       ],
-      "correct": 2,
-      "explanation": "The Right to Property was removed as a fundamental right by the 44th Amendment to the Constitution in 1978."
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a scheme launched by the Indian government in 2019 to provide financial assistance to farmers. Under this scheme, eligible farmers receive a minimum income support of Rs. 6,000 per year."
     },
     {
       "id": 4,
@@ -54,20 +54,20 @@
         "Magdalena River"
       ],
       "correct": 0,
-      "explanation": "The Amazon River is the longest river in South America and the largest river in the world by discharge volume."
+      "explanation": "The Amazon River is the longest river in South America, stretching over 6,400 kilometers from its source in the Andes Mountains to its mouth in the Atlantic Ocean."
     },
     {
       "id": 5,
       "category": "Reasoning & Logic",
-      "question": "If A is taller than B, and C is shorter than B, who is the shortest?",
+      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
       "options": [
-        "A",
-        "B",
-        "C",
-        "Cannot be determined"
+        "5 minutes",
+        "10 minutes",
+        "50 minutes",
+        "100 minutes"
       ],
-      "correct": 2,
-      "explanation": "Given that C is shorter than B, and A is taller than B, we can conclude that C is the shortest."
+      "correct": 0,
+      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then 1 machine can make 1 widget in 5 minutes. Therefore, 100 machines can make 100 widgets in 5 minutes."
     },
     {
       "id": 6,
@@ -76,37 +76,37 @@
       "options": [
         "Quick",
         "Slow",
-        "Rapid",
-        "All of the above"
+        "Big",
+        "Happy"
       ],
-      "correct": 3,
-      "explanation": "The words 'quick', 'rapid' are all synonyms of the word 'fast'."
+      "correct": 0,
+      "explanation": "The word 'quick' is a synonym of 'fast', meaning moving or able to move quickly."
     },
     {
       "id": 7,
       "category": "Current Affairs",
-      "question": "Who was appointed as the Chairman of the 15th Finance Commission of India?",
+      "question": "Who is the current CEO of the International Monetary Fund?",
       "options": [
-        "N.K. Singh",
-        "Arvind Subramanian",
-        "Raghuram Rajan",
-        "Urjit Patel"
+        "Kristalina Georgieva",
+        "David Malpass",
+        "Jose Angel Gurria",
+        "Antonio Guterres"
       ],
       "correct": 0,
-      "explanation": "N.K. Singh was appointed as the Chairman of the 15th Finance Commission of India in 2017."
+      "explanation": "Kristalina Georgieva has been the Managing Director of the International Monetary Fund since October 2019."
     },
     {
       "id": 8,
       "category": "General Awareness & Static GK",
-      "question": "Which ancient Indian university was a major center of learning for Buddhism?",
+      "question": "Who was the first President of India?",
       "options": [
-        "Nalanda University",
-        "Taxila University",
-        "Vikramshila University",
-        "All of the above"
+        "Dr. Rajendra Prasad",
+        "Dr. Sarvepalli Radhakrishnan",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Nalanda University was a major center of learning for Buddhism, and one of the oldest universities in the world."
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
     },
     {
       "id": 9,
@@ -124,15 +124,15 @@
     {
       "id": 10,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the economic policy pursued by the Indian government in 1991?",
+      "question": "What is the name of the Indian government's scheme to provide housing for all by 2022?",
       "options": [
-        "New Economic Policy",
-        "Liberalization Policy",
-        "Globalization Policy",
-        "LPG Policy"
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Ujjwala Yojana"
       ],
       "correct": 0,
-      "explanation": "The New Economic Policy was the economic policy pursued by the Indian government in 1991, which aimed to liberalize the economy and increase foreign investment."
+      "explanation": "The Pradhan Mantri Awas Yojana is a scheme launched by the Indian government in 2015 to provide housing for all by 2022."
     },
     {
       "id": 11,
@@ -150,59 +150,59 @@
     {
       "id": 12,
       "category": "Reasoning & Logic",
-      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet at night, how many days will it take for the snail to reach the top of the well?",
       "options": [
-        "5 minutes",
-        "10 minutes",
-        "50 minutes",
-        "100 minutes"
+        "18 days",
+        "20 days",
+        "22 days",
+        "28 days"
       ],
-      "correct": 0,
-      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then 100 machines can make 100 widgets in the same amount of time, which is 5 minutes."
+      "correct": 2,
+      "explanation": "The snail climbs 3 feet up and slips back 2 feet, so it effectively climbs 1 foot per day. To climb 20 feet, it will take 18 days, and on the 18th day, it will climb 3 feet and reach the top, so the answer is 18 days."
     },
     {
       "id": 13,
       "category": "English Language Concepts",
-      "question": "What is the antonym of the word 'hot'?",
+      "question": "What is the antonym of the word 'clean'?",
       "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "All of the above"
+        "Dirty",
+        "Big",
+        "Happy",
+        "Fast"
       ],
       "correct": 0,
-      "explanation": "The antonym of the word 'hot' is 'cold'."
+      "explanation": "The word 'dirty' is an antonym of 'clean', meaning unclean or impure."
     },
     {
       "id": 14,
       "category": "Current Affairs",
-      "question": "Who is the current CEO of the International Monetary Fund?",
+      "question": "Which country hosted the 2020 Summer Olympics?",
       "options": [
-        "Kristalina Georgieva",
-        "Christine Lagarde",
-        "Jim Yong Kim",
-        "Dominique Strauss-Kahn"
+        "Japan",
+        "China",
+        "United States",
+        "South Korea"
       ],
       "correct": 0,
-      "explanation": "Kristalina Georgieva is the current CEO of the International Monetary Fund, appointed in 2019."
+      "explanation": "The 2020 Summer Olympics were held in Tokyo, Japan, from July 23 to August 8, 2021."
     },
     {
       "id": 15,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Discovery of India'?",
+      "question": "Who was the founder of the Indian National Congress?",
       "options": [
-        "Jawaharlal Nehru",
+        "A.O. Hume",
         "Mahatma Gandhi",
-        "Rabindranath Tagore",
+        "Jawaharlal Nehru",
         "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Jawaharlal Nehru wrote the book 'The Discovery of India', which is an account of India's history and culture."
+      "explanation": "A.O. Hume was the founder of the Indian National Congress in 1885."
     },
     {
       "id": 16,
       "category": "General Science",
-      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor?",
       "options": [
         "Respiration",
         "Photosynthesis",
@@ -215,15 +215,15 @@
     {
       "id": 17,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to provide financial inclusion to all citizens?",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to farmers for crop insurance?",
       "options": [
-        "Jan Dhan Yojana",
-        "Aadhaar Card",
-        "Make in India",
-        "Digital India"
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Pradhan Mantri Krishi Sinchai Yojana",
+        "Pradhan Mantri Jan Dhan Yojana"
       ],
       "correct": 0,
-      "explanation": "Jan Dhan Yojana is the Indian government's program to provide financial inclusion to all citizens, by providing them with bank accounts and other financial services."
+      "explanation": "The Pradhan Mantri Fasal Bima Yojana is a scheme launched by the Indian government in 2016 to provide financial assistance to farmers for crop insurance."
     },
     {
       "id": 18,
@@ -236,20 +236,20 @@
         "Ganges River"
       ],
       "correct": 0,
-      "explanation": "The Yangtze River is the longest river in Asia, with a length of approximately 6,300 kilometers."
+      "explanation": "The Yangtze River is the longest river in Asia, stretching over 6,300 kilometers from its source in the Tibetan Plateau to its mouth in the East China Sea."
     },
     {
       "id": 19,
       "category": "Reasoning & Logic",
-      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet at night, how many days will it take for the snail to reach the top of the well?",
+      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
       "options": [
-        "18 days",
-        "20 days",
-        "22 days",
-        "28 days"
+        "5 cents",
+        "10 cents",
+        "15 cents",
+        "20 cents"
       ],
-      "correct": 2,
-      "explanation": "The snail climbs 3 feet up the well each day, but slips back 2 feet at night, so it makes a net progress of 1 foot per day. To reach the top of the 20-foot well, it will take the snail 18 days to climb 18 feet, and on the 19th day, it will climb the remaining 2 feet and reach the top, but since it slips back 2 feet at night, it will take one more day to climb the last 2 feet, so the total number of days is 18 + 2 = 20 days, but on the 18th day, the snail will climb 3 feet and reach 20 feet, so the answer is 18 days."
+      "correct": 0,
+      "explanation": "Let's say the ball costs x cents. The bat costs $1.00 more than the ball, so the bat costs x + $1.00. The total cost is $1.10, so x + (x + $1.00) = $1.10. Simplifying the equation, we get 2x + $1.00 = $1.10, and 2x = $0.10, so x = $0.05, or 5 cents."
     },
     {
       "id": 20,
@@ -257,12 +257,12 @@
       "question": "What is the meaning of the idiom 'break a leg'?",
       "options": [
         "To wish someone good luck",
-        "To wish someone bad luck",
         "To tell someone to be careful",
-        "To tell someone to give up"
+        "To ask someone to stop doing something",
+        "To congratulate someone on their success"
       ],
       "correct": 0,
-      "explanation": "The idiom 'break a leg' means to wish someone good luck, especially before a performance or a challenging situation."
+      "explanation": "The idiom 'break a leg' is a way of wishing someone good luck, especially before a performance or a challenging situation."
     },
     {
       "id": 21,
@@ -270,25 +270,25 @@
       "question": "Who is the current President of the European Commission?",
       "options": [
         "Ursula von der Leyen",
-        "Jean-Claude Juncker",
-        "Donald Tusk",
-        "Angela Merkel"
+        "Charles Michel",
+        "David Sassoli",
+        "Josep Borrell"
       ],
       "correct": 0,
-      "explanation": "Ursula von der Leyen is the current President of the European Commission, appointed in 2019."
+      "explanation": "Ursula von der Leyen is the current President of the European Commission, taking office in December 2019."
     },
     {
       "id": 22,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'My Experiments with Truth'?",
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Rabindranath Tagore",
-        "Subhas Chandra Bose"
+        "Amelia Earhart",
+        "Charles Lindbergh",
+        "Amy Johnson",
+        "Beryl Markham"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi wrote the book 'My Experiments with Truth', which is an autobiography of his life."
+      "explanation": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean, completing the flight on May 20-21, 1932."
     },
     {
       "id": 23,
@@ -306,15 +306,15 @@
     {
       "id": 24,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to provide healthcare to all citizens?",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to small and medium-sized enterprises?",
       "options": [
-        "Ayushman Bharat",
-        "Modicare",
-        "National Health Mission",
-        "Health for All"
+        "Pradhan Mantri MUDRA Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Ujjwala Yojana"
       ],
       "correct": 0,
-      "explanation": "Ayushman Bharat is the Indian government's program to provide healthcare to all citizens, by providing them with health insurance and other healthcare services."
+      "explanation": "The Pradhan Mantri MUDRA Yojana is a scheme launched by the Indian government in 2015 to provide financial assistance to small and medium-sized enterprises."
     },
     {
       "id": 25,
@@ -332,54 +332,54 @@
     {
       "id": 26,
       "category": "Reasoning & Logic",
-      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
+      "question": "If a person is facing north and turns 90 degrees to their right, which direction are they now facing?",
       "options": [
-        "$0.05",
-        "$0.10",
-        "$0.15",
-        "$0.20"
+        "East",
+        "West",
+        "South",
+        "North"
       ],
       "correct": 0,
-      "explanation": "Let's say the ball costs x cents. Since the bat costs $1.00 more than the ball, the bat costs x + $1.00. The total cost of the bat and the ball together is $1.10, so we can write the equation: x + (x + $1.00) = $1.10. Simplifying the equation, we get: 2x + $1.00 = $1.10. Subtracting $1.00 from both sides, we get: 2x = $0.10. Dividing both sides by 2, we get: x = $0.05."
+      "explanation": "If a person is facing north and turns 90 degrees to their right, they will now be facing east."
     },
     {
       "id": 27,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'perspicacious'?",
+      "question": "What is the meaning of the word 'ennui'?",
       "options": [
-        "Having a keen understanding and insight",
-        "Having a strong and unpleasant smell",
-        "Having a tendency to talk too much",
-        "Having a lack of energy and enthusiasm"
+        "A feeling of boredom and listlessness",
+        "A feeling of excitement and enthusiasm",
+        "A feeling of happiness and joy",
+        "A feeling of sadness and sorrow"
       ],
       "correct": 0,
-      "explanation": "The word 'perspicacious' means having a keen understanding and insight, being able to notice and understand things that are not immediately apparent."
+      "explanation": "The word 'ennui' refers to a feeling of boredom and listlessness, often resulting from a lack of interest or excitement."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Who is the current Prime Minister of the United Kingdom?",
+      "question": "Who is the current CEO of the World Health Organization?",
       "options": [
-        "Rishi Sunak",
-        "Boris Johnson",
-        "Theresa May",
-        "David Cameron"
+        "Tedros Adhanom Ghebreyesus",
+        "Maria Van Kerkhove",
+        "Michael Ryan",
+        "Bruce Aylward"
       ],
       "correct": 0,
-      "explanation": "Rishi Sunak is the current Prime Minister of the United Kingdom, appointed in 2022."
+      "explanation": "Tedros Adhanom Ghebreyesus is the current Director-General of the World Health Organization, taking office in July 2017."
     },
     {
       "id": 29,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Interpretation of Dreams'?",
+      "question": "Who was the author of the book 'To Kill a Mockingbird'?",
       "options": [
-        "Sigmund Freud",
-        "Carl Jung",
-        "Alfred Adler",
-        "Erich Fromm"
+        "F. Scott Fitzgerald",
+        "Harper Lee",
+        "Jane Austen",
+        "J.K. Rowling"
       ],
-      "correct": 0,
-      "explanation": "Sigmund Freud wrote the book 'The Interpretation of Dreams', which is a foundational work of psychoanalysis."
+      "correct": 1,
+      "explanation": "Harper Lee was the author of the classic novel 'To Kill a Mockingbird', published in 1960."
     },
     {
       "id": 30,
@@ -392,85 +392,85 @@
         "Hereditary"
       ],
       "correct": 3,
-      "explanation": "Hereditary is the process by which an organism's genetic information is passed from one generation to the next, through the transmission of genes from parents to offspring."
+      "explanation": "Hereditary refers to the process by which an organism's genetic information is passed from one generation to the next through the transmission of genes from parents to offspring."
     },
     {
       "id": 31,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to provide financial assistance to farmers?",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to women for self-employment?",
       "options": [
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Krishi Sinchayee Yojana",
-        "Rashtriya Krishi Vikas Yojana"
+        "Pradhan Mantri Mahila Shakti Kendra Scheme",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Ujjwala Yojana"
       ],
       "correct": 0,
-      "explanation": "Pradhan Mantri Kisan Samman Nidhi is the Indian government's program to provide financial assistance to farmers, by providing them with a minimum income support of Rs. 6,000 per year."
+      "explanation": "The Pradhan Mantri Mahila Shakti Kendra Scheme is a scheme launched by the Indian government in 2017 to provide financial assistance to women for self-employment."
     },
     {
       "id": 32,
       "category": "Geography",
-      "question": "Which river is the longest in Africa?",
+      "question": "Which city is the largest in Scandinavia?",
       "options": [
-        "Nile River",
-        "Congo River",
-        "Niger River",
-        "Zambezi River"
+        "Stockholm",
+        "Copenhagen",
+        "Oslo",
+        "Helsinki"
       ],
       "correct": 0,
-      "explanation": "The Nile River is the longest river in Africa, with a length of approximately 6,695 kilometers."
+      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people."
     },
     {
       "id": 33,
       "category": "Reasoning & Logic",
-      "question": "If a person is facing north and turns 90 degrees to the right, what direction will they be facing?",
+      "question": "If a person has 12 apples and gives 1/4 of them to their friend, how many apples does the person have left?",
       "options": [
-        "North",
-        "South",
-        "East",
-        "West"
+        "9 apples",
+        "10 apples",
+        "11 apples",
+        "12 apples"
       ],
-      "correct": 2,
-      "explanation": "If a person is facing north and turns 90 degrees to the right, they will be facing east."
+      "correct": 0,
+      "explanation": "If the person gives 1/4 of the 12 apples to their friend, they give away 12 * 1/4 = 3 apples. The person has 12 - 3 = 9 apples left."
     },
     {
       "id": 34,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'fastidious'?",
+      "question": "What is the meaning of the word 'perspicacious'?",
       "options": [
-        "Meticulous and demanding in one's standards",
-        "Careless and sloppy in one's work",
-        "Quick and efficient in one's work",
-        "Slow and sluggish in one's work"
+        "Having a keen understanding and insight",
+        "Having a strong and unpleasant smell",
+        "Having a loud and harsh sound",
+        "Having a bright and colorful appearance"
       ],
       "correct": 0,
-      "explanation": "The word 'fastidious' means being meticulous and demanding in one's standards, having a strong attention to detail and a high level of quality."
+      "explanation": "The word 'perspicacious' means having a keen understanding and insight, being able to notice and understand things that are not immediately apparent."
     },
     {
       "id": 35,
       "category": "Current Affairs",
-      "question": "Who is the current President of the World Bank?",
+      "question": "Who is the current President of the European Council?",
       "options": [
-        "David Malpass",
-        "Jim Yong Kim",
-        "Robert Zoellick",
-        "Paul Wolfowitz"
+        "Charles Michel",
+        "Ursula von der Leyen",
+        "David Sassoli",
+        "Josep Borrell"
       ],
       "correct": 0,
-      "explanation": "David Malpass is the current President of the World Bank, appointed in 2019."
+      "explanation": "Charles Michel is the current President of the European Council, taking office in December 2019."
     },
     {
       "id": 36,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Wealth of Nations'?",
+      "question": "Who was the first Prime Minister of India?",
       "options": [
-        "Adam Smith",
-        "Karl Marx",
-        "John Maynard Keynes",
-        "Friedrich Hayek"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Sardar Vallabhbhai Patel"
       ],
       "correct": 0,
-      "explanation": "Adam Smith wrote the book 'The Wealth of Nations', which is a foundational work of modern economics."
+      "explanation": "Jawaharlal Nehru was the first Prime Minister of India, serving from 1947 to 1964."
     },
     {
       "id": 37,
@@ -488,18 +488,109 @@
     {
       "id": 38,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to provide housing to all citizens?",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to small and marginal farmers?",
       "options": [
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Gramin Awas Yojana",
-        "Pradhan Mantri Urban Awas Yojana",
-        "Indira Awas Yojana"
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Krishi Sinchai Yojana",
+        "Pradhan Mantri Jan Dhan Yojana"
       ],
       "correct": 0,
-      "explanation": "Pradhan Mantri Awas Yojana is the Indian government's program to provide housing to all citizens, by providing them with affordable housing and other related benefits."
+      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a scheme launched by the Indian government in 2019 to provide financial assistance to small and marginal farmers."
     },
     {
       "id": 39,
+      "category": "Geography",
+      "question": "Which river is the longest in Africa?",
+      "options": [
+        "Nile River",
+        "Congo River",
+        "Zambezi River",
+        "Orange River"
+      ],
+      "correct": 0,
+      "explanation": "The Nile River is the longest river in Africa, stretching over 6,650 kilometers from its source in Burundi to its mouth in the Mediterranean Sea."
+    },
+    {
+      "id": 40,
+      "category": "Reasoning & Logic",
+      "question": "If a person is facing south and turns 90 degrees to their left, which direction are they now facing?",
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
+      "correct": 1,
+      "explanation": "If a person is facing south and turns 90 degrees to their left, they will now be facing east."
+    },
+    {
+      "id": 41,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the word 'fastidious'?",
+      "options": [
+        "Meticulous and demanding in one's standards",
+        "Careless and sloppy in one's work",
+        "Quick and efficient in one's tasks",
+        "Lazy and idle in one's behavior"
+      ],
+      "correct": 0,
+      "explanation": "The word 'fastidious' means being meticulous and demanding in one's standards, having a strong attention to detail and a high level of precision."
+    },
+    {
+      "id": 42,
+      "category": "Current Affairs",
+      "question": "Who is the current President of the World Bank?",
+      "options": [
+        "David Malpass",
+        "Kristalina Georgieva",
+        "Jose Angel Gurria",
+        "Antonio Guterres"
+      ],
+      "correct": 0,
+      "explanation": "David Malpass is the current President of the World Bank, taking office in April 2019."
+    },
+    {
+      "id": 43,
+      "category": "General Awareness & Static GK",
+      "question": "Who was the author of the book 'The Interpretation of Dreams'?",
+      "options": [
+        "Sigmund Freud",
+        "Carl Jung",
+        "Alfred Adler",
+        "Erik Erikson"
+      ],
+      "correct": 0,
+      "explanation": "Sigmund Freud was the author of the book 'The Interpretation of Dreams', published in 1900."
+    },
+    {
+      "id": 44,
+      "category": "General Science",
+      "question": "What is the process by which an organism's genetic information is changed by external factors?",
+      "options": [
+        "Mutation",
+        "Genetic drift",
+        "Gene flow",
+        "Hereditary"
+      ],
+      "correct": 0,
+      "explanation": "Mutation refers to the process by which an organism's genetic information is changed by external factors, such as radiation or chemicals."
+    },
+    {
+      "id": 45,
+      "category": "Indian Polity & Economy",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to women for higher education?",
+      "options": [
+        "Pradhan Mantri Mahila Shakti Kendra Scheme",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Ujjwala Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Mahila Shakti Kendra Scheme is a scheme launched by the Indian government in 2017 to provide financial assistance to women for higher education."
+    },
+    {
+      "id": 46,
       "category": "Geography",
       "question": "Which city is the capital of China?",
       "options": [
@@ -509,246 +600,64 @@
         "Hong Kong"
       ],
       "correct": 0,
-      "explanation": "Beijing is the capital city of China, located in the northern part of the country."
-    },
-    {
-      "id": 40,
-      "category": "Reasoning & Logic",
-      "question": "If a person is facing south and turns 180 degrees, what direction will they be facing?",
-      "options": [
-        "North",
-        "South",
-        "East",
-        "West"
-      ],
-      "correct": 0,
-      "explanation": "If a person is facing south and turns 180 degrees, they will be facing north."
-    },
-    {
-      "id": 41,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'enigma'?",
-      "options": [
-        "A mysterious or difficult problem",
-        "A simple and easy solution",
-        "A clear and obvious answer",
-        "A confusing and unclear question"
-      ],
-      "correct": 0,
-      "explanation": "The word 'enigma' means a mysterious or difficult problem, something that is hard to understand or solve."
-    },
-    {
-      "id": 42,
-      "category": "Current Affairs",
-      "question": "Who is the current Secretary-General of the United Nations?",
-      "options": [
-        "Antonio Guterres",
-        "Ban Ki-moon",
-        "Kofi Annan",
-        "Boutros Boutros-Ghali"
-      ],
-      "correct": 0,
-      "explanation": "Antonio Guterres is the current Secretary-General of the United Nations, appointed in 2017."
-    },
-    {
-      "id": 43,
-      "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'To Kill a Mockingbird'?",
-      "options": [
-        "Harper Lee",
-        "F. Scott Fitzgerald",
-        "Jane Austen",
-        "J.K. Rowling"
-      ],
-      "correct": 0,
-      "explanation": "Harper Lee wrote the book 'To Kill a Mockingbird', which is a classic novel of modern American literature."
-    },
-    {
-      "id": 44,
-      "category": "General Science",
-      "question": "What is the process by which an organism's genetic information is altered by external factors?",
-      "options": [
-        "Mutation",
-        "Genetic drift",
-        "Gene flow",
-        "Epigenetics"
-      ],
-      "correct": 0,
-      "explanation": "Mutation is the process by which an organism's genetic information is altered by external factors, such as radiation or chemicals."
-    },
-    {
-      "id": 45,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to provide employment to rural youth?",
-      "options": [
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Rozgar Protsahan Yojana",
-        "Pradhan Mantri Rural Employment Guarantee Scheme",
-        "Deen Dayal Upadhyaya Grameen Kaushalya Yojana"
-      ],
-      "correct": 2,
-      "explanation": "Pradhan Mantri Rural Employment Guarantee Scheme is the Indian government's program to provide employment to rural youth, by providing them with a guaranteed minimum number of days of employment per year."
-    },
-    {
-      "id": 46,
-      "category": "Geography",
-      "question": "Which river is the longest in Europe?",
-      "options": [
-        "Volga River",
-        "Danube River",
-        "Rhine River",
-        "Elbe River"
-      ],
-      "correct": 0,
-      "explanation": "The Volga River is the longest river in Europe, with a length of approximately 3,692 kilometers."
+      "explanation": "Beijing is the capital city of China, with a population of over 21 million people."
     },
     {
       "id": 47,
       "category": "Reasoning & Logic",
-      "question": "If a person is facing east and turns 270 degrees to the left, what direction will they be facing?",
+      "question": "If a person has 15 pencils and gives 1/3 of them to their friend, how many pencils does the person have left?",
       "options": [
-        "North",
-        "South",
-        "East",
-        "West"
+        "10 pencils",
+        "12 pencils",
+        "13 pencils",
+        "15 pencils"
       ],
-      "correct": 1,
-      "explanation": "If a person is facing east and turns 270 degrees to the left, they will be facing south."
+      "correct": 0,
+      "explanation": "If the person gives 1/3 of the 15 pencils to their friend, they give away 15 * 1/3 = 5 pencils. The person has 15 - 5 = 10 pencils left."
     },
     {
       "id": 48,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'persuade'?",
+      "question": "What is the meaning of the word 'perfidious'?",
       "options": [
-        "To convince someone to do something",
-        "To force someone to do something",
-        "To persuade someone to do something",
-        "To dissuade someone from doing something"
+        "Disloyal and treacherous",
+        "Loyal and faithful",
+        "Honest and trustworthy",
+        "Cautious and prudent"
       ],
       "correct": 0,
-      "explanation": "The word 'persuade' means to convince someone to do something, to make them believe or agree with something."
+      "explanation": "The word 'perfidious' means being disloyal and treacherous, having a tendency to betray trust or be unfaithful."
     },
     {
       "id": 49,
       "category": "Current Affairs",
-      "question": "Who is the current Chancellor of Germany?",
+      "question": "Who is the current Secretary-General of the United Nations?",
       "options": [
-        "Olaf Scholz",
-        "Angela Merkel",
-        "Gerhard Schroder",
-        "Helmut Kohl"
+        "Antonio Guterres",
+        "Jose Angel Gurria",
+        "Kristalina Georgieva",
+        "David Malpass"
       ],
       "correct": 0,
-      "explanation": "Olaf Scholz is the current Chancellor of Germany, appointed in 2021."
+      "explanation": "Antonio Guterres is the current Secretary-General of the United Nations, taking office in January 2017."
     },
     {
       "id": 50,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book '1984'?",
+      "question": "Who was the first woman to win the Nobel Prize in Physics?",
       "options": [
-        "George Orwell",
-        "Aldous Huxley",
-        "Ray Bradbury",
-        "Kurt Vonnegut"
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Jane Goodall",
+        "Valentina Tereshkova"
       ],
       "correct": 0,
-      "explanation": "George Orwell wrote the book '1984', which is a classic dystopian novel."
+      "explanation": "Marie Curie was the first woman to win the Nobel Prize in Physics, awarded in 1903 for her pioneering work on radioactivity."
     },
     {
       "id": 51,
       "category": "General Science",
-      "question": "What is the largest living thing on Earth?",
-      "options": [
-        "A blue whale",
-        "A redwood tree",
-        "A coral reef",
-        "A fungus"
-      ],
-      "correct": 2,
-      "explanation": "A coral reef is the largest living thing on Earth, with some reefs covering over 2,300 kilometers."
-    },
-    {
-      "id": 52,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to provide healthcare to pregnant women?",
-      "options": [
-        "Pradhan Mantri Matru Vandana Yojana",
-        "Pradhan Mantri Surakshit Matritva Abhiyan",
-        "Pradhan Mantri Janani Suraksha Yojana",
-        "National Health Mission"
-      ],
-      "correct": 2,
-      "explanation": "Pradhan Mantri Janani Suraksha Yojana is the Indian government's program to provide healthcare to pregnant women, by providing them with cash incentives and other benefits."
-    },
-    {
-      "id": 53,
-      "category": "Geography",
-      "question": "Which city is the capital of Brazil?",
-      "options": [
-        "Brasilia",
-        "Rio de Janeiro",
-        "Sao Paulo",
-        "Buenos Aires"
-      ],
-      "correct": 0,
-      "explanation": "Brasilia is the capital city of Brazil, located in the Federal District."
-    },
-    {
-      "id": 54,
-      "category": "Reasoning & Logic",
-      "question": "If a person is facing north and turns 45 degrees to the right, what direction will they be facing?",
-      "options": [
-        "North",
-        "South",
-        "East",
-        "Northeast"
-      ],
-      "correct": 3,
-      "explanation": "If a person is facing north and turns 45 degrees to the right, they will be facing northeast."
-    },
-    {
-      "id": 55,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'ubiquitous'?",
-      "options": [
-        "Existing or being everywhere at the same time",
-        "Existing or being in a specific place",
-        "Existing or being at a specific time",
-        "Existing or being in a specific context"
-      ],
-      "correct": 0,
-      "explanation": "The word 'ubiquitous' means existing or being everywhere at the same time, being widespread and omnipresent."
-    },
-    {
-      "id": 56,
-      "category": "Current Affairs",
-      "question": "Who is the current Prime Minister of Australia?",
-      "options": [
-        "Anthony Albanese",
-        "Scott Morrison",
-        "Malcolm Turnbull",
-        "Tony Abbott"
-      ],
-      "correct": 0,
-      "explanation": "Anthony Albanese is the current Prime Minister of Australia, appointed in 2022."
-    },
-    {
-      "id": 57,
-      "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Alchemist'?",
-      "options": [
-        "Paulo Coelho",
-        "Gabriel Garcia Marquez",
-        "Mario Vargas Llosa",
-        "Isabel Allende"
-      ],
-      "correct": 0,
-      "explanation": "Paulo Coelho wrote the book 'The Alchemist', which is a famous novel about spiritual journey and self-discovery."
-    },
-    {
-      "id": 58,
-      "category": "General Science",
-      "question": "What is the process by which water moves from the ground to the atmosphere through plants?",
+      "question": "What is the process by which plants release water vapor into the air?",
       "options": [
         "Respiration",
         "Photosynthesis",
@@ -756,33 +665,124 @@
         "Evaporation"
       ],
       "correct": 2,
-      "explanation": "Transpiration is the process by which water moves from the ground to the atmosphere through plants, which release water vapor into the air through their leaves."
+      "explanation": "Transpiration is the process by which plants release water vapor into the air, mainly through their leaves."
+    },
+    {
+      "id": 52,
+      "category": "Indian Polity & Economy",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to startups?",
+      "options": [
+        "Pradhan Mantri Startup India Scheme",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Ujjwala Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Startup India Scheme is a scheme launched by the Indian government in 2016 to provide financial assistance to startups."
+    },
+    {
+      "id": 53,
+      "category": "Geography",
+      "question": "Which city is the largest in South America?",
+      "options": [
+        "Sao Paulo",
+        "Buenos Aires",
+        "Lima",
+        "Rio de Janeiro"
+      ],
+      "correct": 0,
+      "explanation": "Sao Paulo is the largest city in South America, with a population of over 22 million people."
+    },
+    {
+      "id": 54,
+      "category": "Reasoning & Logic",
+      "question": "If a person has 20 marbles and loses 1/5 of them, how many marbles does the person have left?",
+      "options": [
+        "16 marbles",
+        "17 marbles",
+        "18 marbles",
+        "20 marbles"
+      ],
+      "correct": 0,
+      "explanation": "If the person loses 1/5 of the 20 marbles, they lose 20 * 1/5 = 4 marbles. The person has 20 - 4 = 16 marbles left."
+    },
+    {
+      "id": 55,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the word 'enigmatic'?",
+      "options": [
+        "Mysterious and difficult to understand",
+        "Clear and easy to understand",
+        "Interesting and engaging",
+        "Boring and uninteresting"
+      ],
+      "correct": 0,
+      "explanation": "The word 'enigmatic' means being mysterious and difficult to understand, often having a puzzling or ambiguous nature."
+    },
+    {
+      "id": 56,
+      "category": "Current Affairs",
+      "question": "Who is the current President of the International Committee of the Red Cross?",
+      "options": [
+        "Peter Maurer",
+        "Kristalina Georgieva",
+        "Jose Angel Gurria",
+        "Antonio Guterres"
+      ],
+      "correct": 0,
+      "explanation": "Peter Maurer is the current President of the International Committee of the Red Cross, taking office in 2012."
+    },
+    {
+      "id": 57,
+      "category": "General Awareness & Static GK",
+      "question": "Who was the author of the book 'The Wealth of Nations'?",
+      "options": [
+        "Adam Smith",
+        "Karl Marx",
+        "Friedrich Engels",
+        "John Maynard Keynes"
+      ],
+      "correct": 0,
+      "explanation": "Adam Smith was the author of the book 'The Wealth of Nations', published in 1776."
+    },
+    {
+      "id": 58,
+      "category": "General Science",
+      "question": "What is the process by which the Earth's plates move and change?",
+      "options": [
+        "Plate tectonics",
+        "Continental drift",
+        "Weathering and erosion",
+        "Glaciation"
+      ],
+      "correct": 0,
+      "explanation": "Plate tectonics refers to the process by which the Earth's plates move and change, resulting in the creation of mountains, volcanoes, and earthquakes."
     },
     {
       "id": 59,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's program to provide financial assistance to small and medium-sized enterprises?",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to micro, small, and medium-sized enterprises?",
       "options": [
         "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Stand-up India Scheme",
-        "Pradhan Mantri Micro Units Development and Refinance Agency Yojana",
-        "National Small Industries Corporation"
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Ujjwala Yojana"
       ],
       "correct": 0,
-      "explanation": "Pradhan Mantri MUDRA Yojana is the Indian government's program to provide financial assistance to small and medium-sized enterprises, by providing them with loans and other financial services."
+      "explanation": "The Pradhan Mantri MUDRA Yojana is a scheme launched by the Indian government in 2015 to provide financial assistance to micro, small, and medium-sized enterprises."
     },
     {
       "id": 60,
       "category": "Geography",
-      "question": "Which city is the largest in Scandinavia?",
+      "question": "Which city is the capital of Australia's largest state by area?",
       "options": [
-        "Stockholm",
-        "Copenhagen",
-        "Oslo",
-        "Helsinki"
+        "Perth",
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
       ],
       "correct": 0,
-      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people."
+      "explanation": "Perth is the capital city of Western Australia, which is the largest state in Australia by area."
     }
   ]
 }
