@@ -1,273 +1,52 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-03-23",
+  "date": "2026-03-24",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "The ancient Indian university of Taxila was located in which modern-day country?",
+      "question": "Which ancient Indian dynasty built the city of Pataliputra?",
       "options": [
-        "India",
-        "Pakistan",
-        "Afghanistan",
-        "Nepal"
+        "Mauryan",
+        "Gupta",
+        "Kushan",
+        "Mughal"
       ],
-      "correct": 1,
-      "explanation": "Taxila was an ancient city located in the northwestern part of the Indian subcontinent, now in modern-day Pakistan."
+      "correct": 0,
+      "explanation": "The Mauryan dynasty built the city of Pataliputra, which is now known as Patna, in the 3rd century BCE."
     },
     {
       "id": 2,
       "category": "Indian Geography",
-      "question": "Which of the following rivers is known for its reverse flow during the monsoon season?",
+      "question": "What is the name of the highest peak in the Eastern Ghats?",
       "options": [
-        "Brahmaputra",
-        "Ganga",
-        "Mekong",
-        "Narmada"
+        "Mahendragiri",
+        "Aravalli",
+        "Vindhya",
+        "Satpura"
       ],
       "correct": 0,
-      "explanation": "The Brahmaputra river is known for its reverse flow during the monsoon season due to the heavy rainfall and melting of snow in the Himalayas."
+      "explanation": "The highest peak in the Eastern Ghats is Mahendragiri, which is located in the state of Odisha."
     },
     {
       "id": 3,
       "category": "Indian Polity & Governance",
-      "question": "The 42nd Amendment to the Indian Constitution was enacted in which year?",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of speech and expression?",
       "options": [
-        "1975",
-        "1976",
-        "1977",
-        "1978"
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 25"
       ],
       "correct": 1,
-      "explanation": "The 42nd Amendment to the Indian Constitution was enacted in 1976, during the Emergency period, and made significant changes to the Constitution."
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression."
     },
     {
       "id": 4,
       "category": "Indian Economy",
-      "question": "The concept of 'inclusive growth' was introduced in which Five-Year Plan?",
-      "options": [
-        "10th Plan",
-        "11th Plan",
-        "12th Plan",
-        "13th Plan"
-      ],
-      "correct": 1,
-      "explanation": "The concept of 'inclusive growth' was introduced in the 11th Five-Year Plan (2007-2012), which aimed to promote growth that would benefit all sections of society."
-    },
-    {
-      "id": 5,
-      "category": "General Science",
-      "question": "Which of the following scientists is credited with the discovery of the first antibiotic, penicillin?",
-      "options": [
-        "Alexander Fleming",
-        "Louis Pasteur",
-        "Robert Koch",
-        "Edward Jenner"
-      ],
-      "correct": 0,
-      "explanation": "Alexander Fleming is credited with the discovery of penicillin in 1928, which revolutionized the treatment of bacterial infections."
-    },
-    {
-      "id": 6,
-      "category": "Environment & Ecology",
-      "question": "The Chipko Movement was a response to which of the following environmental issues?",
-      "options": [
-        "Deforestation",
-        "Pollution",
-        "Climate change",
-        "Wildlife conservation"
-      ],
-      "correct": 0,
-      "explanation": "The Chipko Movement was a response to deforestation and the felling of trees in the Himalayan region, and aimed to protect the environment and the livelihoods of local communities."
-    },
-    {
-      "id": 7,
-      "category": "Current Affairs & General Knowledge",
-      "question": "The 'Make in India' initiative was launched by the Indian government in which year?",
-      "options": [
-        "2014",
-        "2015",
-        "2016",
-        "2017"
-      ],
-      "correct": 1,
-      "explanation": "The 'Make in India' initiative was launched by the Indian government in 2015, with the aim of promoting India as a manufacturing hub and attracting foreign investment."
-    },
-    {
-      "id": 8,
-      "category": "Indian History",
-      "question": "The ancient Indian university of Nalanda was located in which modern-day state?",
-      "options": [
-        "Bihar",
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "West Bengal"
-      ],
-      "correct": 0,
-      "explanation": "The ancient Indian university of Nalanda was located in the state of Bihar, and was a major center of learning and intellectual inquiry in ancient India."
-    },
-    {
-      "id": 9,
-      "category": "Indian Geography",
-      "question": "Which of the following mountain ranges runs along the border between India and Pakistan?",
-      "options": [
-        "Karakoram",
-        "Himalayas",
-        "Aravalli",
-        "Vindhya"
-      ],
-      "correct": 0,
-      "explanation": "The Karakoram mountain range runs along the border between India and Pakistan, and is known for its rugged terrain and high peaks."
-    },
-    {
-      "id": 10,
-      "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution came into effect on which date?",
-      "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "October 2, 1950",
-        "November 26, 1949"
-      ],
-      "correct": 0,
-      "explanation": "The Indian Constitution came into effect on January 26, 1950, marking the transition of India from a British colony to a republic."
-    },
-    {
-      "id": 11,
-      "category": "Indian Economy",
-      "question": "The concept of 'fiscal deficit' refers to which of the following?",
-      "options": [
-        "The difference between the government's revenue and expenditure",
-        "The difference between the government's revenue and GDP",
-        "The ratio of government debt to GDP",
-        "The ratio of government expenditure to GDP"
-      ],
-      "correct": 0,
-      "explanation": "The concept of 'fiscal deficit' refers to the difference between the government's revenue and expenditure, and is a key indicator of a country's fiscal health."
-    },
-    {
-      "id": 12,
-      "category": "General Science",
-      "question": "Which of the following planets in our solar system is known for its reddish appearance?",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturn",
-        "Uranus"
-      ],
-      "correct": 0,
-      "explanation": "Mars is known for its reddish appearance, due to the presence of iron oxide in the planet's soil and rocks."
-    },
-    {
-      "id": 13,
-      "category": "Environment & Ecology",
-      "question": "The Indian government has launched which of the following initiatives to promote the use of renewable energy?",
-      "options": [
-        "National Solar Mission",
-        "National Wind Mission",
-        "National Renewable Energy Mission",
-        "National Energy Efficiency Mission"
-      ],
-      "correct": 0,
-      "explanation": "The Indian government has launched the National Solar Mission to promote the use of solar energy and reduce the country's dependence on fossil fuels."
-    },
-    {
-      "id": 14,
-      "category": "Current Affairs & General Knowledge",
-      "question": "The Indian government has launched which of the following schemes to provide financial assistance to farmers?",
-      "options": [
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Krishi Sinchayee Yojana",
-        "Pradhan Mantri Kisan Mandhan Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Indian government has launched the Pradhan Mantri Kisan Samman Nidhi scheme to provide financial assistance to farmers and support their livelihoods."
-    },
-    {
-      "id": 15,
-      "category": "Indian History",
-      "question": "The Quit India Movement was launched by Mahatma Gandhi in which year?",
-      "options": [
-        "1940",
-        "1942",
-        "1945",
-        "1947"
-      ],
-      "correct": 1,
-      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942, with the aim of ending British rule in India and achieving independence."
-    },
-    {
-      "id": 16,
-      "category": "Indian Geography",
-      "question": "Which of the following rivers is the longest in South India?",
-      "options": [
-        "Godavari",
-        "Krishna",
-        "Kaveri",
-        "Tungabhadra"
-      ],
-      "correct": 0,
-      "explanation": "The Godavari river is the longest in South India, stretching over 1,450 kilometers and flowing through several states."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution has how many schedules?",
-      "options": [
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
-      "correct": 2,
-      "explanation": "The Indian Constitution has 9 schedules, which deal with various aspects of governance and administration."
-    },
-    {
-      "id": 18,
-      "category": "Indian Economy",
-      "question": "The concept of 'monetary policy' refers to which of the following?",
-      "options": [
-        "The use of fiscal policy to manage the economy",
-        "The use of monetary policy to manage the economy",
-        "The regulation of banks and financial institutions",
-        "The management of the government's budget and expenditure"
-      ],
-      "correct": 1,
-      "explanation": "The concept of 'monetary policy' refers to the use of monetary policy to manage the economy, including the use of interest rates and money supply to promote economic growth and stability."
-    },
-    {
-      "id": 19,
-      "category": "General Science",
-      "question": "Which of the following scientists is credited with the discovery of the theory of evolution?",
-      "options": [
-        "Charles Darwin",
-        "Gregor Mendel",
-        "Louis Pasteur",
-        "Albert Einstein"
-      ],
-      "correct": 0,
-      "explanation": "Charles Darwin is credited with the discovery of the theory of evolution, which revolutionized our understanding of the natural world and the diversity of life on Earth."
-    },
-    {
-      "id": 20,
-      "category": "Environment & Ecology",
-      "question": "The Indian government has launched which of the following initiatives to promote the conservation of wildlife?",
-      "options": [
-        "Project Tiger",
-        "Project Elephant",
-        "Project Lion",
-        "Project Rhino"
-      ],
-      "correct": 0,
-      "explanation": "The Indian government has launched Project Tiger to promote the conservation of tigers and their habitats, and to protect the country's rich biodiversity."
-    },
-    {
-      "id": 21,
-      "category": "Current Affairs & General Knowledge",
-      "question": "The Indian government has launched which of the following schemes to promote digital payments?",
+      "question": "What is the name of the government scheme launched to promote digital payments in India?",
       "options": [
         "Digital India",
         "Make in India",
@@ -275,514 +54,735 @@
         "BHIM"
       ],
       "correct": 3,
-      "explanation": "The Indian government has launched the BHIM scheme to promote digital payments and reduce the country's dependence on cash transactions."
+      "explanation": "The government scheme launched to promote digital payments in India is BHIM, which stands for Bharat Interface for Money."
+    },
+    {
+      "id": 5,
+      "category": "General Science",
+      "question": "What is the process by which plants convert sunlight into energy?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Fermentation"
+      ],
+      "correct": 1,
+      "explanation": "The process by which plants convert sunlight into energy is called photosynthesis."
+    },
+    {
+      "id": 6,
+      "category": "Environment & Ecology",
+      "question": "What is the name of the international agreement aimed at reducing greenhouse gas emissions?",
+      "options": [
+        "Paris Agreement",
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Copenhagen Accord"
+      ],
+      "correct": 0,
+      "explanation": "The Paris Agreement is an international agreement aimed at reducing greenhouse gas emissions and mitigating the effects of climate change."
+    },
+    {
+      "id": 7,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the author of the book 'India: A History'",
+      "options": [
+        "John Keay",
+        "William Dalrymple",
+        "Ramachandra Guha",
+        "Narendra Singh Sarila"
+      ],
+      "correct": 0,
+      "explanation": "The author of the book 'India: A History' is John Keay."
+    },
+    {
+      "id": 8,
+      "category": "Indian History",
+      "question": "Which Mughal emperor built the Taj Mahal?",
+      "options": [
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Shah Jahan"
+      ],
+      "correct": 3,
+      "explanation": "The Mughal emperor who built the Taj Mahal was Shah Jahan."
+    },
+    {
+      "id": 9,
+      "category": "Indian Geography",
+      "question": "What is the name of the largest river island in the world?",
+      "options": [
+        "Majuli",
+        "Sangai",
+        "Bhavani",
+        "Vedanthangal"
+      ],
+      "correct": 0,
+      "explanation": "The largest river island in the world is Majuli, which is located in the state of Assam."
+    },
+    {
+      "id": 10,
+      "category": "Indian Polity & Governance",
+      "question": "Which article of the Indian Constitution deals with the right to equality?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "correct": 0,
+      "explanation": "Article 14 of the Indian Constitution deals with the right to equality."
+    },
+    {
+      "id": 11,
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme launched to promote entrepreneurship in India?",
+      "options": [
+        "Make in India",
+        "Start-Up India",
+        "Digital India",
+        "Skill India"
+      ],
+      "correct": 1,
+      "explanation": "The government scheme launched to promote entrepreneurship in India is Start-Up India."
+    },
+    {
+      "id": 12,
+      "category": "General Science",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
+      ],
+      "correct": 2,
+      "explanation": "The process by which water moves through a plant, from the roots to the leaves, is called transpiration."
+    },
+    {
+      "id": 13,
+      "category": "Environment & Ecology",
+      "question": "What is the name of the largest national park in India?",
+      "options": [
+        "Hemis National Park",
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Gir Forest National Park"
+      ],
+      "correct": 0,
+      "explanation": "The largest national park in India is Hemis National Park, which is located in the state of Jammu and Kashmir."
+    },
+    {
+      "id": 14,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current President of the International Olympic Committee?",
+      "options": [
+        "Thomas Bach",
+        "Jacques Rogge",
+        "Juan Antonio Samaranch",
+        "Lamine Diack"
+      ],
+      "correct": 0,
+      "explanation": "The current President of the International Olympic Committee is Thomas Bach."
+    },
+    {
+      "id": 15,
+      "category": "Indian History",
+      "question": "Which ancient Indian dynasty built the city of Hampi?",
+      "options": [
+        "Vijayanagara",
+        "Hoysala",
+        "Chola",
+        "Pallava"
+      ],
+      "correct": 0,
+      "explanation": "The ancient Indian dynasty that built the city of Hampi was the Vijayanagara dynasty."
+    },
+    {
+      "id": 16,
+      "category": "Indian Geography",
+      "question": "What is the name of the highest mountain peak in the Western Ghats?",
+      "options": [
+        "Anamudi",
+        "Doddabetta",
+        "Mullayanagiri",
+        "Kudremukh"
+      ],
+      "correct": 0,
+      "explanation": "The highest mountain peak in the Western Ghats is Anamudi, which is located in the state of Kerala."
+    },
+    {
+      "id": 17,
+      "category": "Indian Polity & Governance",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of assembly?",
+      "options": [
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
+      ],
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of assembly."
+    },
+    {
+      "id": 18,
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme launched to promote financial inclusion in India?",
+      "options": [
+        "Jan Dhan Yojana",
+        "Mudra Yojana",
+        "Stand-Up India",
+        "Atal Pension Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The government scheme launched to promote financial inclusion in India is Jan Dhan Yojana."
+    },
+    {
+      "id": 19,
+      "category": "General Science",
+      "question": "What is the process by which the human body converts food into energy?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Digestion",
+        "Fermentation"
+      ],
+      "correct": 0,
+      "explanation": "The process by which the human body converts food into energy is called respiration."
+    },
+    {
+      "id": 20,
+      "category": "Environment & Ecology",
+      "question": "What is the name of the international agreement aimed at reducing the use of ozone-depleting substances?",
+      "options": [
+        "Montreal Protocol",
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "Copenhagen Accord"
+      ],
+      "correct": 0,
+      "explanation": "The international agreement aimed at reducing the use of ozone-depleting substances is the Montreal Protocol."
+    },
+    {
+      "id": 21,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current Prime Minister of India?",
+      "options": [
+        "Narendra Modi",
+        "Rahul Gandhi",
+        "Amit Shah",
+        "Arun Jaitley"
+      ],
+      "correct": 0,
+      "explanation": "The current Prime Minister of India is Narendra Modi."
     },
     {
       "id": 22,
       "category": "Indian History",
-      "question": "The Indian National Congress was founded in which year?",
+      "question": "Which ancient Indian dynasty built the city of Fatehpur Sikri?",
       "options": [
-        "1884",
-        "1885",
-        "1886",
-        "1887"
+        "Mughal",
+        "Sultanate",
+        "Vijayanagara",
+        "Gupta"
       ],
-      "correct": 1,
-      "explanation": "The Indian National Congress was founded in 1885, with the aim of promoting Indian rights and self-rule under British colonial rule."
+      "correct": 0,
+      "explanation": "The ancient Indian dynasty that built the city of Fatehpur Sikri was the Mughal dynasty."
     },
     {
       "id": 23,
       "category": "Indian Geography",
-      "question": "Which of the following states has the longest coastline?",
+      "question": "What is the name of the largest lake in India?",
       "options": [
-        "Gujarat",
-        "Maharashtra",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Vullar Lake",
+        "Dal Lake",
+        "Chilka Lake",
+        "Pulicat Lake"
       ],
       "correct": 0,
-      "explanation": "Gujarat has the longest coastline, stretching over 1,600 kilometers and providing a strategic location for trade and commerce."
+      "explanation": "The largest lake in India is Vullar Lake, which is located in the state of Jammu and Kashmir."
     },
     {
       "id": 24,
       "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution provides for which of the following types of emergencies?",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of the press?",
       "options": [
-        "National emergency",
-        "State emergency",
-        "Financial emergency",
-        "All of the above"
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
       ],
-      "correct": 3,
-      "explanation": "The Indian Constitution provides for national emergency, state emergency, and financial emergency, which can be declared in times of crisis to ensure the stability and security of the country."
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of the press."
     },
     {
       "id": 25,
       "category": "Indian Economy",
-      "question": "The concept of 'fiscal policy' refers to which of the following?",
+      "question": "What is the name of the government scheme launched to promote skill development in India?",
       "options": [
-        "The use of monetary policy to manage the economy",
-        "The use of fiscal policy to manage the economy",
-        "The regulation of banks and financial institutions",
-        "The management of the government's budget and expenditure"
+        "Skill India",
+        "Make in India",
+        "Digital India",
+        "Start-Up India"
       ],
-      "correct": 1,
-      "explanation": "The concept of 'fiscal policy' refers to the use of fiscal policy to manage the economy, including the use of government spending and taxation to promote economic growth and stability."
+      "correct": 0,
+      "explanation": "The government scheme launched to promote skill development in India is Skill India."
     },
     {
       "id": 26,
       "category": "General Science",
-      "question": "Which of the following planets in our solar system is known for its ring system?",
+      "question": "What is the process by which the Earth's plates move?",
       "options": [
-        "Jupiter",
-        "Saturn",
-        "Uranus",
-        "Neptune"
+        "Continental drift",
+        "Plate tectonics",
+        "Weathering",
+        "Erosion"
       ],
       "correct": 1,
-      "explanation": "Saturn is known for its ring system, which is one of the most extensive and complex in the solar system."
+      "explanation": "The process by which the Earth's plates move is called plate tectonics."
     },
     {
       "id": 27,
       "category": "Environment & Ecology",
-      "question": "The Indian government has launched which of the following initiatives to promote the conservation of forests?",
+      "question": "What is the name of the largest wildlife sanctuary in India?",
       "options": [
-        "National Forest Policy",
-        "National Wildlife Policy",
-        "National Environmental Policy",
-        "National Conservation Policy"
+        "Periyar Wildlife Sanctuary",
+        "Kaziranga Wildlife Sanctuary",
+        "Sundarbans Wildlife Sanctuary",
+        "Gir Wildlife Sanctuary"
       ],
       "correct": 0,
-      "explanation": "The Indian government has launched the National Forest Policy to promote the conservation of forests and the sustainable use of forest resources."
+      "explanation": "The largest wildlife sanctuary in India is Periyar Wildlife Sanctuary, which is located in the state of Kerala."
     },
     {
       "id": 28,
       "category": "Current Affairs & General Knowledge",
-      "question": "The Indian government has launched which of the following schemes to promote the development of rural areas?",
+      "question": "Who is the current President of India?",
       "options": [
-        "Pradhan Mantri Gram Sadak Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Jan-Dhan Yojana"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "Pratibha Patil"
       ],
       "correct": 0,
-      "explanation": "The Indian government has launched the Pradhan Mantri Gram Sadak Yojana to promote the development of rural areas and improve the connectivity of rural communities."
+      "explanation": "The current President of India is Droupadi Murmu."
     },
     {
       "id": 29,
       "category": "Indian History",
-      "question": "The Battle of Panipat was fought in which year?",
+      "question": "Which ancient Indian dynasty built the city of Ayodhya?",
       "options": [
-        "1526",
-        "1556",
-        "1761",
-        "1799"
+        "Mauryan",
+        "Gupta",
+        "Vijayanagara",
+        "Mughal"
       ],
-      "correct": 2,
-      "explanation": "The Battle of Panipat was fought in 1761, between the Maratha Empire and the Durrani Empire, and marked a significant turning point in Indian history."
+      "correct": 0,
+      "explanation": "The ancient Indian dynasty that built the city of Ayodhya was the Mauryan dynasty."
     },
     {
       "id": 30,
       "category": "Indian Geography",
-      "question": "Which of the following mountain ranges is located in the eastern part of India?",
+      "question": "What is the name of the highest mountain peak in the Himalayas?",
       "options": [
-        "Himalayas",
-        "Aravalli",
-        "Vindhya",
-        "Purulia"
+        "Mount Everest",
+        "K2",
+        "Kangchenjunga",
+        "Nanda Devi"
       ],
-      "correct": 3,
-      "explanation": "The Purulia mountain range is located in the eastern part of India, in the state of West Bengal, and is known for its scenic beauty and rich biodiversity."
+      "correct": 0,
+      "explanation": "The highest mountain peak in the Himalayas is Mount Everest, which is located on the border of India and Nepal."
     },
     {
       "id": 31,
       "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution provides for which of the following types of citizenship?",
+      "question": "Which article of the Indian Constitution deals with the right to education?",
       "options": [
-        "Single citizenship",
-        "Dual citizenship",
-        "Multiple citizenship",
-        "Overseas citizenship"
+        "Article 21A",
+        "Article 21B",
+        "Article 22",
+        "Article 23"
       ],
       "correct": 0,
-      "explanation": "The Indian Constitution provides for single citizenship, which means that every Indian citizen is a citizen of India and is entitled to the same rights and privileges throughout the country."
+      "explanation": "Article 21A of the Indian Constitution deals with the right to education."
     },
     {
       "id": 32,
       "category": "Indian Economy",
-      "question": "The concept of 'inflation' refers to which of the following?",
+      "question": "What is the name of the government scheme launched to promote rural development in India?",
       "options": [
-        "A decrease in the general price level",
-        "An increase in the general price level",
-        "A decrease in the money supply",
-        "An increase in the money supply"
+        "Mahatma Gandhi National Rural Employment Guarantee Act",
+        "Pradhan Mantri Gram Sadak Yojana",
+        "Deen Dayal Upadhyaya Antyodaya Yojana",
+        "Swachh Bharat Abhiyan"
       ],
-      "correct": 1,
-      "explanation": "The concept of 'inflation' refers to an increase in the general price level of goods and services in an economy over a period of time, which can erode the purchasing power of consumers."
+      "correct": 0,
+      "explanation": "The government scheme launched to promote rural development in India is Mahatma Gandhi National Rural Employment Guarantee Act."
     },
     {
       "id": 33,
       "category": "General Science",
-      "question": "Which of the following elements is the lightest in the periodic table?",
+      "question": "What is the process by which the human body regulates its temperature?",
       "options": [
-        "Hydrogen",
-        "Helium",
-        "Lithium",
-        "Boron"
+        "Homeostasis",
+        "Thermoregulation",
+        "Respiration",
+        "Photosynthesis"
       ],
-      "correct": 0,
-      "explanation": "Hydrogen is the lightest element in the periodic table, with an atomic mass of 1.00794 u."
+      "correct": 1,
+      "explanation": "The process by which the human body regulates its temperature is called thermoregulation."
     },
     {
       "id": 34,
       "category": "Environment & Ecology",
-      "question": "The Indian government has launched which of the following initiatives to promote the conservation of water?",
+      "question": "What is the name of the largest coral reef system in the world?",
       "options": [
-        "National Water Policy",
-        "National Water Mission",
-        "National Water Conservation Policy",
-        "National Water Harvesting Policy"
+        "Great Barrier Reef",
+        "Red Sea Coral Reef",
+        "New Caledonia Barrier Reef",
+        "Belize Barrier Reef"
       ],
-      "correct": 1,
-      "explanation": "The Indian government has launched the National Water Mission to promote the conservation of water and the efficient use of water resources in the country."
+      "correct": 0,
+      "explanation": "The largest coral reef system in the world is the Great Barrier Reef, which is located off the coast of Australia."
     },
     {
       "id": 35,
       "category": "Current Affairs & General Knowledge",
-      "question": "The Indian government has launched which of the following schemes to promote the development of skill?",
+      "question": "Who is the current Chief Justice of India?",
       "options": [
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Jan-Dhan Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Gram Sadak Yojana"
+        "Dhananjaya Y. Chandrachud",
+        "N.V. Ramana",
+        "Sharad Arvind Bobde",
+        "Ranjan Gogoi"
       ],
       "correct": 0,
-      "explanation": "The Indian government has launched the Pradhan Mantri Kaushal Vikas Yojana to promote the development of skill and provide training to young people in various fields."
+      "explanation": "The current Chief Justice of India is Dhananjaya Y. Chandrachud."
     },
     {
       "id": 36,
       "category": "Indian History",
-      "question": "The Jallianwala Bagh massacre took place in which year?",
+      "question": "Which ancient Indian dynasty built the city of Thanjavur?",
       "options": [
-        "1914",
-        "1919",
-        "1921",
-        "1922"
+        "Chola",
+        "Pallava",
+        "Pandya",
+        "Vijayanagara"
       ],
-      "correct": 1,
-      "explanation": "The Jallianwala Bagh massacre took place in 1919, in Amritsar, Punjab, and marked a significant turning point in the Indian independence movement."
+      "correct": 0,
+      "explanation": "The ancient Indian dynasty that built the city of Thanjavur was the Chola dynasty."
     },
     {
       "id": 37,
       "category": "Indian Geography",
-      "question": "Which of the following rivers flows through the city of Varanasi?",
+      "question": "What is the name of the largest river delta in India?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Brahmaputra",
-        "Godavari"
+        "Ganges-Brahmaputra Delta",
+        "Mahanadi Delta",
+        "Godavari Delta",
+        "Krishna-Godavari Delta"
       ],
       "correct": 0,
-      "explanation": "The Ganga river flows through the city of Varanasi, which is a sacred city in Hinduism and a major cultural and spiritual center in India."
+      "explanation": "The largest river delta in India is the Ganges-Brahmaputra Delta, which is located in the state of West Bengal."
     },
     {
       "id": 38,
       "category": "Indian Polity & Governance",
-      "question": "The Indian Parliament consists of which of the following houses?",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of conscience and free profession, practice and propagation of religion?",
       "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "Vidhan Sabha",
-        "All of the above"
+        "Article 25",
+        "Article 26",
+        "Article 27",
+        "Article 28"
       ],
-      "correct": 2,
-      "explanation": "The Indian Parliament consists of two houses: the Lok Sabha and the Rajya Sabha, which are responsible for making laws and overseeing the government."
+      "correct": 0,
+      "explanation": "Article 25 of the Indian Constitution deals with the right to freedom of conscience and free profession, practice and propagation of religion."
     },
     {
       "id": 39,
       "category": "Indian Economy",
-      "question": "The concept of 'economic growth' refers to which of the following?",
+      "question": "What is the name of the government scheme launched to promote financial inclusion in India?",
       "options": [
-        "An increase in the production of goods and services",
-        "A decrease in the production of goods and services",
-        "An increase in the money supply",
-        "A decrease in the money supply"
+        "Jan Dhan Yojana",
+        "Mudra Yojana",
+        "Stand-Up India",
+        "Atal Pension Yojana"
       ],
       "correct": 0,
-      "explanation": "The concept of 'economic growth' refers to an increase in the production of goods and services in an economy over a period of time, which can lead to an improvement in the standard of living of the people."
+      "explanation": "The government scheme launched to promote financial inclusion in India is Jan Dhan Yojana."
     },
     {
       "id": 40,
       "category": "General Science",
-      "question": "Which of the following scientists is credited with the discovery of the principle of buoyancy?",
+      "question": "What is the process by which the Earth's atmosphere retains heat?",
       "options": [
-        "Archimedes",
-        "Galileo Galilei",
-        "Isaac Newton",
-        "Albert Einstein"
+        "Greenhouse effect",
+        "Ozone layer depletion",
+        "Acid rain",
+        "Climate change"
       ],
       "correct": 0,
-      "explanation": "Archimedes is credited with the discovery of the principle of buoyancy, which states that the buoyant force on an object is equal to the weight of the fluid displaced by the object."
+      "explanation": "The process by which the Earth's atmosphere retains heat is called the greenhouse effect."
     },
     {
       "id": 41,
       "category": "Environment & Ecology",
-      "question": "The Indian government has launched which of the following initiatives to promote the conservation of biodiversity?",
+      "question": "What is the name of the largest national park in the world?",
       "options": [
-        "National Biodiversity Policy",
-        "National Wildlife Policy",
-        "National Environmental Policy",
-        "National Conservation Policy"
+        "Northeast Greenland National Park",
+        "Yellowstone National Park",
+        "Yosemite National Park",
+        "Kakadu National Park"
       ],
       "correct": 0,
-      "explanation": "The Indian government has launched the National Biodiversity Policy to promote the conservation of biodiversity and the sustainable use of natural resources."
+      "explanation": "The largest national park in the world is Northeast Greenland National Park, which is located in Greenland."
     },
     {
       "id": 42,
       "category": "Current Affairs & General Knowledge",
-      "question": "The Indian government has launched which of the following schemes to promote the development of entrepreneurship?",
+      "question": "Who is the current Vice President of India?",
       "options": [
-        "Pradhan Mantri Mudra Yojana",
-        "Pradhan Mantri Jan-Dhan Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Gram Sadak Yojana"
+        "Jagdeep Dhankhar",
+        "M. Venkaiah Naidu",
+        "Mohammad Hamid Ansari",
+        "Bhairon Singh Shekhawat"
       ],
       "correct": 0,
-      "explanation": "The Indian government has launched the Pradhan Mantri Mudra Yojana to promote the development of entrepreneurship and provide financial assistance to small and medium-sized enterprises."
+      "explanation": "The current Vice President of India is Jagdeep Dhankhar."
     },
     {
       "id": 43,
       "category": "Indian History",
-      "question": "The Sepoy Mutiny took place in which year?",
+      "question": "Which ancient Indian dynasty built the city of Warangal?",
       "options": [
-        "1856",
-        "1857",
-        "1858",
-        "1859"
+        "Kakatiya",
+        "Hoysala",
+        "Vijayanagara",
+        "Gupta"
       ],
-      "correct": 1,
-      "explanation": "The Sepoy Mutiny took place in 1857, and marked a significant turning point in the Indian independence movement, as it was the first major rebellion against British rule in India."
+      "correct": 0,
+      "explanation": "The ancient Indian dynasty that built the city of Warangal was the Kakatiya dynasty."
     },
     {
       "id": 44,
       "category": "Indian Geography",
-      "question": "Which of the following states has the largest desert?",
+      "question": "What is the name of the highest mountain peak in the Nilgiri Hills?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Doddabetta",
+        "Mullayanagiri",
+        "Anamudi",
+        "Kudremukh"
       ],
       "correct": 0,
-      "explanation": "Rajasthan has the largest desert in India, the Thar Desert, which covers over 320,000 square kilometers and is one of the most arid regions in the country."
+      "explanation": "The highest mountain peak in the Nilgiri Hills is Doddabetta, which is located in the state of Tamil Nadu."
     },
     {
       "id": 45,
       "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution provides for which of the following types of fundamental rights?",
+      "question": "Which article of the Indian Constitution deals with the right to equality before the law?",
       "options": [
-        "Right to equality",
-        "Right to freedom",
-        "Right to life",
-        "All of the above"
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
       ],
-      "correct": 3,
-      "explanation": "The Indian Constitution provides for several types of fundamental rights, including the right to equality, the right to freedom, and the right to life, which are guaranteed to all citizens and are enforceable by the courts."
+      "correct": 0,
+      "explanation": "Article 14 of the Indian Constitution deals with the right to equality before the law."
     },
     {
       "id": 46,
       "category": "Indian Economy",
-      "question": "The concept of 'poverty line' refers to which of the following?",
+      "question": "What is the name of the government scheme launched to promote urban development in India?",
       "options": [
-        "The minimum income required to survive",
-        "The minimum income required to live a decent life",
-        "The average income of the population",
-        "The median income of the population"
+        "Smart Cities Mission",
+        "Atal Mission for Rejuvenation and Urban Transformation",
+        "Pradhan Mantri Awas Yojana",
+        "Deen Dayal Upadhyaya Antyodaya Yojana"
       ],
-      "correct": 0,
-      "explanation": "The concept of 'poverty line' refers to the minimum income required to survive, and is used as a benchmark to measure poverty and deprivation in a population."
+      "correct": 1,
+      "explanation": "The government scheme launched to promote urban development in India is Atal Mission for Rejuvenation and Urban Transformation."
     },
     {
       "id": 47,
       "category": "General Science",
-      "question": "Which of the following elements is the most abundant in the Earth's crust?",
+      "question": "What is the process by which the human body maintains its internal environment?",
       "options": [
-        "Oxygen",
-        "Silicon",
-        "Aluminum",
-        "Iron"
+        "Homeostasis",
+        "Thermoregulation",
+        "Respiration",
+        "Photosynthesis"
       ],
       "correct": 0,
-      "explanation": "Oxygen is the most abundant element in the Earth's crust, making up approximately 46% of the Earth's crust by weight."
+      "explanation": "The process by which the human body maintains its internal environment is called homeostasis."
     },
     {
       "id": 48,
       "category": "Environment & Ecology",
-      "question": "The Indian government has launched which of the following initiatives to promote the conservation of forests?",
+      "question": "What is the name of the largest mangrove forest in the world?",
       "options": [
-        "National Forest Policy",
-        "National Wildlife Policy",
-        "National Environmental Policy",
-        "National Conservation Policy"
+        "Sundarbans",
+        "Mangrove Forest of the Amazon",
+        "Mangrove Forest of the Congo",
+        "Mangrove Forest of the Mekong"
       ],
       "correct": 0,
-      "explanation": "The Indian government has launched the National Forest Policy to promote the conservation of forests and the sustainable use of forest resources."
+      "explanation": "The largest mangrove forest in the world is the Sundarbans, which is located in the states of West Bengal and Bangladesh."
     },
     {
       "id": 49,
       "category": "Current Affairs & General Knowledge",
-      "question": "The Indian government has launched which of the following schemes to promote the development of rural infrastructure?",
+      "question": "Who is the current Governor of the Reserve Bank of India?",
       "options": [
-        "Pradhan Mantri Gram Sadak Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Jan-Dhan Yojana"
+        "Shaktikanta Das",
+        "Urjit Patel",
+        "Raghuram Rajan",
+        "D. Subbarao"
       ],
       "correct": 0,
-      "explanation": "The Indian government has launched the Pradhan Mantri Gram Sadak Yojana to promote the development of rural infrastructure and improve the connectivity of rural communities."
+      "explanation": "The current Governor of the Reserve Bank of India is Shaktikanta Das."
     },
     {
       "id": 50,
       "category": "Indian History",
-      "question": "The Indian National Army was formed in which year?",
+      "question": "Which ancient Indian dynasty built the city of Mysore?",
       "options": [
-        "1940",
-        "1942",
-        "1943",
-        "1945"
+        "Wodeyar",
+        "Hoysala",
+        "Vijayanagara",
+        "Gupta"
       ],
-      "correct": 2,
-      "explanation": "The Indian National Army was formed in 1943, during World War II, with the aim of fighting for Indian independence from British rule."
+      "correct": 0,
+      "explanation": "The ancient Indian dynasty that built the city of Mysore was the Wodeyar dynasty."
     },
     {
       "id": 51,
       "category": "Indian Geography",
-      "question": "Which of the following mountain ranges is located in the western part of India?",
+      "question": "What is the name of the largest island in the Andaman and Nicobar Islands?",
       "options": [
-        "Himalayas",
-        "Aravalli",
-        "Vindhya",
-        "Sahyadri"
+        "Andaman Island",
+        "Nicobar Island",
+        "Little Andaman",
+        "Great Nicobar"
       ],
-      "correct": 3,
-      "explanation": "The Sahyadri mountain range is located in the western part of India, in the state of Maharashtra, and is known for its scenic beauty and rich biodiversity."
+      "correct": 0,
+      "explanation": "The largest island in the Andaman and Nicobar Islands is Andaman Island, which is located in the Bay of Bengal."
     },
     {
       "id": 52,
       "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution provides for which of the following types of governments?",
+      "question": "Which article of the Indian Constitution deals with the right to protection of life and personal liberty?",
       "options": [
-        "Federal government",
-        "Unitary government",
-        "Confederal government",
-        "All of the above"
+        "Article 20",
+        "Article 21",
+        "Article 22",
+        "Article 23"
       ],
-      "correct": 0,
-      "explanation": "The Indian Constitution provides for a federal government, which is a system of government in which power is divided between a central authority and constituent units, such as states and local governments."
+      "correct": 1,
+      "explanation": "Article 21 of the Indian Constitution deals with the right to protection of life and personal liberty."
     },
     {
       "id": 53,
       "category": "Indian Economy",
-      "question": "The concept of 'foreign direct investment' refers to which of the following?",
+      "question": "What is the name of the government scheme launched to promote rural entrepreneurship in India?",
       "options": [
-        "Investment by foreign companies in the domestic economy",
-        "Investment by domestic companies in foreign economies",
-        "Investment by foreign governments in the domestic economy",
-        "Investment by domestic governments in foreign economies"
+        "Deen Dayal Upadhyaya Antyodaya Yojana",
+        "Mahatma Gandhi National Rural Employment Guarantee Act",
+        "Pradhan Mantri Gram Sadak Yojana",
+        "Swachh Bharat Abhiyan"
       ],
       "correct": 0,
-      "explanation": "The concept of 'foreign direct investment' refers to investment by foreign companies in the domestic economy, which can take the form of setting up new businesses or acquiring existing ones."
+      "explanation": "The government scheme launched to promote rural entrepreneurship in India is Deen Dayal Upadhyaya Antyodaya Yojana."
     },
     {
       "id": 54,
       "category": "General Science",
-      "question": "Which of the following scientists is credited with the discovery of the principle of relativity?",
+      "question": "What is the process by which the Earth's atmosphere is protected from harmful radiation?",
       "options": [
-        "Albert Einstein",
-        "Isaac Newton",
-        "Galileo Galilei",
-        "Marie Curie"
+        "Ozone layer",
+        "Greenhouse effect",
+        "Thermoregulation",
+        "Homeostasis"
       ],
       "correct": 0,
-      "explanation": "Albert Einstein is credited with the discovery of the principle of relativity, which revolutionized our understanding of space and time."
+      "explanation": "The process by which the Earth's atmosphere is protected from harmful radiation is called the ozone layer."
     },
     {
       "id": 55,
       "category": "Environment & Ecology",
-      "question": "The Indian government has launched which of the following initiatives to promote the conservation of wildlife?",
+      "question": "What is the name of the largest wetland in the world?",
       "options": [
-        "Project Tiger",
-        "Project Elephant",
-        "Project Lion",
-        "Project Rhino"
+        "Sundarbans",
+        "Mangrove Forest of the Amazon",
+        "Pantanal",
+        "Caspian Sea"
       ],
-      "correct": 0,
-      "explanation": "The Indian government has launched Project Tiger to promote the conservation of tigers and their habitats, and to protect the country's rich biodiversity."
+      "correct": 2,
+      "explanation": "The largest wetland in the world is the Pantanal, which is located in South America."
     },
     {
       "id": 56,
       "category": "Current Affairs & General Knowledge",
-      "question": "The Indian government has launched which of the following schemes to promote the development of entrepreneurship?",
+      "question": "Who is the current Chairman of the Indian Space Research Organisation?",
       "options": [
-        "Pradhan Mantri Mudra Yojana",
-        "Pradhan Mantri Jan-Dhan Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Gram Sadak Yojana"
+        "S. Somanath",
+        "K. Sivan",
+        "A.S. Kiran Kumar",
+        "G. Madhavan Nair"
       ],
       "correct": 0,
-      "explanation": "The Indian government has launched the Pradhan Mantri Mudra Yojana to promote the development of entrepreneurship and provide financial assistance to small and medium-sized enterprises."
+      "explanation": "The current Chairman of the Indian Space Research Organisation is S. Somanath."
     },
     {
       "id": 57,
       "category": "Indian History",
-      "question": "The Indian Independence Act was passed in which year?",
+      "question": "Which ancient Indian dynasty built the city of Bhubaneswar?",
       "options": [
-        "1946",
-        "1947",
-        "1948",
-        "1949"
+        "Kalinga",
+        "Mauryan",
+        "Gupta",
+        "Vijayanagara"
       ],
-      "correct": 1,
-      "explanation": "The Indian Independence Act was passed in 1947, and marked the end of British rule in India and the beginning of a new era of independence and self-governance."
+      "correct": 0,
+      "explanation": "The ancient Indian dynasty that built the city of Bhubaneswar was the Kalinga dynasty."
     },
     {
       "id": 58,
       "category": "Indian Geography",
-      "question": "Which of the following rivers flows through the city of Ahmedabad?",
+      "question": "What is the name of the highest mountain peak in the Garhwal Himalayas?",
       "options": [
-        "Sabarmati",
-        "Narmada",
-        "Tapi",
-        "Mahanadi"
+        "Nanda Devi",
+        "Kamet",
+        "Trisul",
+        "Shivling"
       ],
       "correct": 0,
-      "explanation": "The Sabarmati river flows through the city of Ahmedabad, which is a major urban center in the state of Gujarat."
+      "explanation": "The highest mountain peak in the Garhwal Himalayas is Nanda Devi, which is located in the state of Uttarakhand."
     },
     {
       "id": 59,
       "category": "Indian Polity & Governance",
-      "question": "The Indian Constitution provides for which of the following types of local governments?",
+      "question": "Which article of the Indian Constitution deals with the right to protection against arrest and detention?",
       "options": [
-        "Panchayati Raj",
-        "Nagarpalika",
-        "Zilla Parishad",
-        "All of the above"
+        "Article 21",
+        "Article 22",
+        "Article 23",
+        "Article 24"
       ],
-      "correct": 3,
-      "explanation": "The Indian Constitution provides for various types of local governments, including Panchayati Raj, Nagarpalika, and Zilla Parishad, which are responsible for providing basic services and amenities to local communities."
+      "correct": 1,
+      "explanation": "Article 22 of the Indian Constitution deals with the right to protection against arrest and detention."
     },
     {
       "id": 60,
-      "category": "Indian Economy",
-      "question": "The concept of 'economic liberalization' refers to which of the following?",
+      "category": "General Science",
+      "question": "What is the process by which the human body regulates its blood sugar levels?",
       "options": [
-        "The reduction of government regulations and controls on the economy",
-        "The increase of government regulations and controls on the economy",
-        "The privatization of public sector enterprises",
-        "The nationalization of private sector enterprises"
+        "Homeostasis",
+        "Thermoregulation",
+        "Respiration",
+        "Glycogenesis"
       ],
       "correct": 0,
-      "explanation": "The concept of 'economic liberalization' refers to the reduction of government regulations and controls on the economy, and the promotion of free market principles and private sector participation."
+      "explanation": "The process by which the human body regulates its blood sugar levels is called homeostasis."
     }
   ]
 }

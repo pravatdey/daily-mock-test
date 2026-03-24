@@ -1,52 +1,52 @@
 {
   "exam": "cgl",
   "name": "SSC CGL",
-  "date": "2026-03-23",
+  "date": "2026-03-24",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "General Awareness & Static GK",
-      "question": "Who was the author of the book 'The Discovery of India'?",
+      "question": "Who is the author of the book 'The Story of My Experiments with Truth'?",
       "options": [
-        "Jawaharlal Nehru",
+        "Rabindranath Tagore",
         "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Rabindranath Tagore"
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose"
       ],
-      "correct": 0,
-      "explanation": "The book 'The Discovery of India' was written by Jawaharlal Nehru in 1946. It is a comprehensive book on Indian history, culture, and philosophy."
+      "correct": 1,
+      "explanation": "Mahatma Gandhi wrote 'The Story of My Experiments with Truth', which is his autobiography."
     },
     {
       "id": 2,
       "category": "General Science",
-      "question": "What is the process by which plants make their own food from sunlight?",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor?",
       "options": [
         "Respiration",
         "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
+        "Transpiration",
+        "Evaporation"
       ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
+      "correct": 2,
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
     },
     {
       "id": 3,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to farmers?",
+      "question": "What is the name of the constitutional body that regulates the formation of new states in India?",
       "options": [
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Krishi Sinchai Yojana",
-        "Pradhan Mantri Jan Dhan Yojana"
+        "Parliament",
+        "State Legislature",
+        "Election Commission",
+        "Inter-State Council"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a scheme launched by the Indian government in 2019 to provide financial assistance to farmers. Under this scheme, eligible farmers receive a minimum income support of Rs. 6,000 per year."
+      "explanation": "The Parliament of India has the power to regulate the formation of new states in India, under Article 3 of the Constitution."
     },
     {
       "id": 4,
       "category": "Geography",
-      "question": "Which river is the longest in South America?",
+      "question": "Which of the following rivers is the longest in South America?",
       "options": [
         "Amazon River",
         "Parana River",
@@ -54,20 +54,20 @@
         "Magdalena River"
       ],
       "correct": 0,
-      "explanation": "The Amazon River is the longest river in South America, stretching over 6,400 kilometers from its source in the Andes Mountains to its mouth in the Atlantic Ocean."
+      "explanation": "The Amazon River is the longest river in South America, stretching over 6,400 kilometers."
     },
     {
       "id": 5,
       "category": "Reasoning & Logic",
-      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+      "question": "If A is 10 meters away from B, and B is 15 meters away from C, what is the minimum distance between A and C?",
       "options": [
-        "5 minutes",
-        "10 minutes",
-        "50 minutes",
-        "100 minutes"
+        "15 meters",
+        "20 meters",
+        "25 meters",
+        "10 meters"
       ],
-      "correct": 0,
-      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then 1 machine can make 1 widget in 5 minutes. Therefore, 100 machines can make 100 widgets in 5 minutes."
+      "correct": 1,
+      "explanation": "The minimum distance between A and C can be found by adding the distances between A and B, and B and C, which gives 10 + 15 = 25 meters. However, since A, B, and C can be in a straight line, the minimum distance between A and C can be 25 meters."
     },
     {
       "id": 6,
@@ -76,37 +76,37 @@
       "options": [
         "Quick",
         "Slow",
-        "Big",
-        "Happy"
+        "Rapid",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The word 'quick' is a synonym of 'fast', meaning moving or able to move quickly."
+      "correct": 3,
+      "explanation": "The words 'quick', 'rapid', and 'fast' all have similar meanings, making them synonyms."
     },
     {
       "id": 7,
       "category": "Current Affairs",
-      "question": "Who is the current CEO of the International Monetary Fund?",
+      "question": "Who was appointed as the CEO of Twitter in 2021?",
       "options": [
-        "Kristalina Georgieva",
-        "David Malpass",
-        "Jose Angel Gurria",
-        "Antonio Guterres"
+        "Parag Agrawal",
+        "Sundar Pichai",
+        "Satya Nadella",
+        "Elon Musk"
       ],
       "correct": 0,
-      "explanation": "Kristalina Georgieva has been the Managing Director of the International Monetary Fund since October 2019."
+      "explanation": "Parag Agrawal was appointed as the CEO of Twitter in November 2021, taking over from Jack Dorsey."
     },
     {
       "id": 8,
       "category": "General Awareness & Static GK",
-      "question": "Who was the first President of India?",
+      "question": "Which of the following monuments is located in Agra?",
       "options": [
-        "Dr. Rajendra Prasad",
-        "Dr. Sarvepalli Radhakrishnan",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose"
+        "Taj Mahal",
+        "Red Fort",
+        "Qutub Minar",
+        "All of the above"
       ],
       "correct": 0,
-      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
+      "explanation": "The Taj Mahal is a UNESCO World Heritage Site located in Agra, India."
     },
     {
       "id": 9,
@@ -124,15 +124,15 @@
     {
       "id": 10,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide housing for all by 2022?",
+      "question": "What is the name of the Indian government's flagship program for providing financial assistance to farmers?",
       "options": [
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Rashtriya Krishi Vikas Yojana",
+        "National Mission for Sustainable Agriculture"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Awas Yojana is a scheme launched by the Indian government in 2015 to provide housing for all by 2022."
+      "explanation": "The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a government scheme that provides financial assistance to farmers."
     },
     {
       "id": 11,
@@ -150,80 +150,80 @@
     {
       "id": 12,
       "category": "Reasoning & Logic",
-      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet at night, how many days will it take for the snail to reach the top of the well?",
+      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
       "options": [
-        "18 days",
-        "20 days",
-        "22 days",
-        "28 days"
+        "5 minutes",
+        "50 minutes",
+        "100 minutes",
+        "500 minutes"
       ],
-      "correct": 2,
-      "explanation": "The snail climbs 3 feet up and slips back 2 feet, so it effectively climbs 1 foot per day. To climb 20 feet, it will take 18 days, and on the 18th day, it will climb 3 feet and reach the top, so the answer is 18 days."
+      "correct": 0,
+      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then 1 machine can make 1 widget in 5 minutes. Therefore, 100 machines can make 100 widgets in 5 minutes."
     },
     {
       "id": 13,
       "category": "English Language Concepts",
-      "question": "What is the antonym of the word 'clean'?",
+      "question": "What is the meaning of the idiom 'break a leg'?",
       "options": [
-        "Dirty",
-        "Big",
-        "Happy",
-        "Fast"
+        "To wish someone good luck",
+        "To tell someone to be careful",
+        "To advise someone to take a break",
+        "To suggest someone should be more aggressive"
       ],
       "correct": 0,
-      "explanation": "The word 'dirty' is an antonym of 'clean', meaning unclean or impure."
+      "explanation": "The idiom 'break a leg' means to wish someone good luck, especially before a performance or a challenging situation."
     },
     {
       "id": 14,
       "category": "Current Affairs",
-      "question": "Which country hosted the 2020 Summer Olympics?",
+      "question": "What is the name of the Indian government's initiative to promote digital payments?",
       "options": [
-        "Japan",
-        "China",
-        "United States",
-        "South Korea"
+        "Digital India",
+        "Make in India",
+        "Start-Up India",
+        "BHIM"
       ],
       "correct": 0,
-      "explanation": "The 2020 Summer Olympics were held in Tokyo, Japan, from July 23 to August 8, 2021."
+      "explanation": "The Digital India initiative aims to promote digital payments and improve digital infrastructure in India."
     },
     {
       "id": 15,
       "category": "General Awareness & Static GK",
-      "question": "Who was the founder of the Indian National Congress?",
+      "question": "Who is the author of the book 'The Discovery of India'?",
       "options": [
-        "A.O. Hume",
-        "Mahatma Gandhi",
         "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
         "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "A.O. Hume was the founder of the Indian National Congress in 1885."
+      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India', which is a book about the history and culture of India."
     },
     {
       "id": 16,
       "category": "General Science",
-      "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor?",
+      "question": "What is the process by which plants convert sunlight into energy?",
       "options": [
         "Respiration",
         "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
+        "Decomposition",
+        "Fermentation"
       ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants convert sunlight into energy."
     },
     {
       "id": 17,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to farmers for crop insurance?",
+      "question": "What is the name of the Indian government's scheme to provide healthcare services to the poor?",
       "options": [
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri Krishi Sinchai Yojana",
-        "Pradhan Mantri Jan Dhan Yojana"
+        "Ayushman Bharat",
+        "Pradhan Mantri Jan Arogya Yojana",
+        "National Health Mission",
+        "Rashtriya Swasthya Bima Yojana"
       ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Fasal Bima Yojana is a scheme launched by the Indian government in 2016 to provide financial assistance to farmers for crop insurance."
+      "correct": 1,
+      "explanation": "The Pradhan Mantri Jan Arogya Yojana (PMJAY) is a government scheme that provides healthcare services to the poor."
     },
     {
       "id": 18,
@@ -236,59 +236,59 @@
         "Ganges River"
       ],
       "correct": 0,
-      "explanation": "The Yangtze River is the longest river in Asia, stretching over 6,300 kilometers from its source in the Tibetan Plateau to its mouth in the East China Sea."
+      "explanation": "The Yangtze River is the longest river in Asia, stretching over 6,300 kilometers."
     },
     {
       "id": 19,
       "category": "Reasoning & Logic",
       "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
       "options": [
-        "5 cents",
-        "10 cents",
-        "15 cents",
-        "20 cents"
+        "$0.05",
+        "$0.10",
+        "$0.15",
+        "$0.20"
       ],
       "correct": 0,
-      "explanation": "Let's say the ball costs x cents. The bat costs $1.00 more than the ball, so the bat costs x + $1.00. The total cost is $1.10, so x + (x + $1.00) = $1.10. Simplifying the equation, we get 2x + $1.00 = $1.10, and 2x = $0.10, so x = $0.05, or 5 cents."
+      "explanation": "Let's say the ball costs x cents. Since the bat costs $1.00 more than the ball, the bat costs x + $1.00. The total cost of the bat and the ball is $1.10, so x + (x + $1.00) = $1.10. Simplifying the equation, we get 2x + $1.00 = $1.10, which gives 2x = $0.10. Therefore, x = $0.05."
     },
     {
       "id": 20,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the idiom 'break a leg'?",
+      "question": "What is the meaning of the word 'perspicacious'?",
       "options": [
-        "To wish someone good luck",
-        "To tell someone to be careful",
-        "To ask someone to stop doing something",
-        "To congratulate someone on their success"
+        "Having a strong and unpleasant smell",
+        "Having a keen understanding and insight",
+        "Having a lot of money",
+        "Having a big house"
       ],
-      "correct": 0,
-      "explanation": "The idiom 'break a leg' is a way of wishing someone good luck, especially before a performance or a challenging situation."
+      "correct": 1,
+      "explanation": "The word 'perspicacious' means having a keen understanding and insight."
     },
     {
       "id": 21,
       "category": "Current Affairs",
-      "question": "Who is the current President of the European Commission?",
+      "question": "Who is the current CEO of Microsoft?",
       "options": [
-        "Ursula von der Leyen",
-        "Charles Michel",
-        "David Sassoli",
-        "Josep Borrell"
+        "Satya Nadella",
+        "Sundar Pichai",
+        "Mark Zuckerberg",
+        "Elon Musk"
       ],
       "correct": 0,
-      "explanation": "Ursula von der Leyen is the current President of the European Commission, taking office in December 2019."
+      "explanation": "Satya Nadella is the current CEO of Microsoft."
     },
     {
       "id": 22,
       "category": "General Awareness & Static GK",
-      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "question": "Which of the following festivals is celebrated to mark the beginning of the harvest season?",
       "options": [
-        "Amelia Earhart",
-        "Charles Lindbergh",
-        "Amy Johnson",
-        "Beryl Markham"
+        "Diwali",
+        "Holi",
+        "Dussehra",
+        "Pongal"
       ],
-      "correct": 0,
-      "explanation": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean, completing the flight on May 20-21, 1932."
+      "correct": 3,
+      "explanation": "Pongal is a festival celebrated to mark the beginning of the harvest season."
     },
     {
       "id": 23,
@@ -301,7 +301,7 @@
         "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers."
     },
     {
       "id": 24,
@@ -309,12 +309,12 @@
       "question": "What is the name of the Indian government's scheme to provide financial assistance to small and medium-sized enterprises?",
       "options": [
         "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
         "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
+        "Stand-Up India",
+        "Make in India"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri MUDRA Yojana is a scheme launched by the Indian government in 2015 to provide financial assistance to small and medium-sized enterprises."
+      "explanation": "The Pradhan Mantri MUDRA Yojana (PMMY) is a government scheme that provides financial assistance to small and medium-sized enterprises."
     },
     {
       "id": 25,
@@ -327,51 +327,51 @@
         "Perth"
       ],
       "correct": 2,
-      "explanation": "Canberra is the capital city of Australia, located in the Australian Capital Territory."
+      "explanation": "Canberra is the capital city of Australia."
     },
     {
       "id": 26,
       "category": "Reasoning & Logic",
-      "question": "If a person is facing north and turns 90 degrees to their right, which direction are they now facing?",
+      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slides back 2 feet at night, how many days will it take for the snail to reach the top of the well?",
       "options": [
-        "East",
-        "West",
-        "South",
-        "North"
+        "18 days",
+        "20 days",
+        "22 days",
+        "28 days"
       ],
-      "correct": 0,
-      "explanation": "If a person is facing north and turns 90 degrees to their right, they will now be facing east."
+      "correct": 2,
+      "explanation": "The snail climbs 3 feet up the well each day, but slides back 2 feet at night, so it effectively climbs 1 foot per day. To reach the top of the 20-foot well, the snail will take 18 days to climb 18 feet, and then 3 more days to climb the final 2 feet, making a total of 22 days."
     },
     {
       "id": 27,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'ennui'?",
+      "question": "What is the meaning of the word 'fastidious'?",
       "options": [
-        "A feeling of boredom and listlessness",
-        "A feeling of excitement and enthusiasm",
-        "A feeling of happiness and joy",
-        "A feeling of sadness and sorrow"
+        "Careless and sloppy",
+        "Meticulous and demanding",
+        "Lazy and idle",
+        "Happy and cheerful"
       ],
-      "correct": 0,
-      "explanation": "The word 'ennui' refers to a feeling of boredom and listlessness, often resulting from a lack of interest or excitement."
+      "correct": 1,
+      "explanation": "The word 'fastidious' means meticulous and demanding."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Who is the current CEO of the World Health Organization?",
+      "question": "What is the name of the Indian government's initiative to promote digital literacy?",
       "options": [
-        "Tedros Adhanom Ghebreyesus",
-        "Maria Van Kerkhove",
-        "Michael Ryan",
-        "Bruce Aylward"
+        "Digital India",
+        "Make in India",
+        "Start-Up India",
+        "Pradhan Mantri Gramin Digital Saksharta Abhiyan"
       ],
-      "correct": 0,
-      "explanation": "Tedros Adhanom Ghebreyesus is the current Director-General of the World Health Organization, taking office in July 2017."
+      "correct": 3,
+      "explanation": "The Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA) is a government initiative to promote digital literacy."
     },
     {
       "id": 29,
       "category": "General Awareness & Static GK",
-      "question": "Who was the author of the book 'To Kill a Mockingbird'?",
+      "question": "Who is the author of the book 'To Kill a Mockingbird'?",
       "options": [
         "F. Scott Fitzgerald",
         "Harper Lee",
@@ -379,98 +379,98 @@
         "J.K. Rowling"
       ],
       "correct": 1,
-      "explanation": "Harper Lee was the author of the classic novel 'To Kill a Mockingbird', published in 1960."
+      "explanation": "Harper Lee wrote 'To Kill a Mockingbird', which is a classic novel about racial injustice and tolerance."
     },
     {
       "id": 30,
       "category": "General Science",
-      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
+      "question": "What is the process by which the Earth's plates move and change?",
       "options": [
-        "Mutation",
-        "Genetic drift",
-        "Gene flow",
-        "Hereditary"
+        "Continental drift",
+        "Plate tectonics",
+        "Weathering and erosion",
+        "Glaciation"
       ],
-      "correct": 3,
-      "explanation": "Hereditary refers to the process by which an organism's genetic information is passed from one generation to the next through the transmission of genes from parents to offspring."
+      "correct": 1,
+      "explanation": "Plate tectonics is the process by which the Earth's plates move and change, resulting in the formation of mountains, volcanoes, and earthquakes."
     },
     {
       "id": 31,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to women for self-employment?",
+      "question": "What is the name of the Indian government's scheme to provide housing for all by 2022?",
       "options": [
-        "Pradhan Mantri Mahila Shakti Kendra Scheme",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Gramin Awas Yojana",
+        "Indira Awas Yojana",
+        "Rajiv Awas Yojana"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Mahila Shakti Kendra Scheme is a scheme launched by the Indian government in 2017 to provide financial assistance to women for self-employment."
+      "explanation": "The Pradhan Mantri Awas Yojana (PMAY) is a government scheme that aims to provide housing for all by 2022."
     },
     {
       "id": 32,
       "category": "Geography",
-      "question": "Which city is the largest in Scandinavia?",
+      "question": "Which river is the longest in Europe?",
       "options": [
-        "Stockholm",
-        "Copenhagen",
-        "Oslo",
-        "Helsinki"
+        "Volga River",
+        "Danube River",
+        "Rhine River",
+        "Elbe River"
       ],
       "correct": 0,
-      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people."
+      "explanation": "The Volga River is the longest river in Europe, stretching over 3,690 kilometers."
     },
     {
       "id": 33,
       "category": "Reasoning & Logic",
-      "question": "If a person has 12 apples and gives 1/4 of them to their friend, how many apples does the person have left?",
+      "question": "If a person has 12 balls, and 4 of them are red, what is the probability of drawing a red ball from the bag?",
       "options": [
-        "9 apples",
-        "10 apples",
-        "11 apples",
-        "12 apples"
+        "1/4",
+        "1/3",
+        "1/2",
+        "2/3"
       ],
       "correct": 0,
-      "explanation": "If the person gives 1/4 of the 12 apples to their friend, they give away 12 * 1/4 = 3 apples. The person has 12 - 3 = 9 apples left."
+      "explanation": "The probability of drawing a red ball from the bag can be calculated as the number of red balls divided by the total number of balls, which is 4/12 = 1/3."
     },
     {
       "id": 34,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'perspicacious'?",
+      "question": "What is the meaning of the word 'enigmatic'?",
       "options": [
-        "Having a keen understanding and insight",
-        "Having a strong and unpleasant smell",
-        "Having a loud and harsh sound",
-        "Having a bright and colorful appearance"
+        "Mysterious and puzzling",
+        "Happy and cheerful",
+        "Sad and depressing",
+        "Angry and aggressive"
       ],
       "correct": 0,
-      "explanation": "The word 'perspicacious' means having a keen understanding and insight, being able to notice and understand things that are not immediately apparent."
+      "explanation": "The word 'enigmatic' means mysterious and puzzling."
     },
     {
       "id": 35,
       "category": "Current Affairs",
-      "question": "Who is the current President of the European Council?",
+      "question": "Who is the current President of the European Commission?",
       "options": [
-        "Charles Michel",
         "Ursula von der Leyen",
-        "David Sassoli",
-        "Josep Borrell"
+        "Jean-Claude Juncker",
+        "Donald Tusk",
+        "Angela Merkel"
       ],
       "correct": 0,
-      "explanation": "Charles Michel is the current President of the European Council, taking office in December 2019."
+      "explanation": "Ursula von der Leyen is the current President of the European Commission."
     },
     {
       "id": 36,
       "category": "General Awareness & Static GK",
-      "question": "Who was the first Prime Minister of India?",
+      "question": "Which of the following ancient civilizations built the city of Petra?",
       "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Sardar Vallabhbhai Patel"
+        "Egyptians",
+        "Greeks",
+        "Romans",
+        "Nabateans"
       ],
-      "correct": 0,
-      "explanation": "Jawaharlal Nehru was the first Prime Minister of India, serving from 1947 to 1964."
+      "correct": 3,
+      "explanation": "The Nabateans built the city of Petra, which is located in modern-day Jordan."
     },
     {
       "id": 37,
@@ -483,77 +483,168 @@
         "Neptune"
       ],
       "correct": 0,
-      "explanation": "Jupiter is the largest planet in our solar system by mass, with a mass of approximately 318 times that of Earth."
+      "explanation": "Jupiter is the largest planet in our solar system by mass, with a mass of approximately 1.8986 x 10^27 kilograms."
     },
     {
       "id": 38,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to small and marginal farmers?",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to farmers for crop insurance?",
       "options": [
-        "Pradhan Mantri Kisan Samman Nidhi",
         "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Krishi Sinchai Yojana",
-        "Pradhan Mantri Jan Dhan Yojana"
+        "Pradhan Mantri Krishi Sinchayee Yojana",
+        "Rashtriya Krishi Vikas Yojana",
+        "National Mission for Sustainable Agriculture"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a scheme launched by the Indian government in 2019 to provide financial assistance to small and marginal farmers."
+      "explanation": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) is a government scheme that provides financial assistance to farmers for crop insurance."
     },
     {
       "id": 39,
       "category": "Geography",
-      "question": "Which river is the longest in Africa?",
+      "question": "Which city is the largest in Scandinavia?",
       "options": [
-        "Nile River",
-        "Congo River",
-        "Zambezi River",
-        "Orange River"
+        "Stockholm",
+        "Copenhagen",
+        "Oslo",
+        "Helsinki"
       ],
       "correct": 0,
-      "explanation": "The Nile River is the longest river in Africa, stretching over 6,650 kilometers from its source in Burundi to its mouth in the Mediterranean Sea."
+      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people."
     },
     {
       "id": 40,
       "category": "Reasoning & Logic",
-      "question": "If a person is facing south and turns 90 degrees to their left, which direction are they now facing?",
+      "question": "If a person is travelling from city A to city B at an average speed of 60 km/h, and from city B to city C at an average speed of 40 km/h, what is the average speed for the entire trip?",
       "options": [
-        "East",
-        "West",
-        "North",
-        "South"
+        "40 km/h",
+        "50 km/h",
+        "60 km/h",
+        "80 km/h"
       ],
       "correct": 1,
-      "explanation": "If a person is facing south and turns 90 degrees to their left, they will now be facing east."
+      "explanation": "To find the average speed for the entire trip, we need to find the total distance travelled and the total time taken. Let's assume the distance from city A to city B is x km, and the distance from city B to city C is y km. The total distance travelled is x + y km. The time taken to travel from city A to city B is x/60 hours, and the time taken to travel from city B to city C is y/40 hours. The total time taken is x/60 + y/40 hours. The average speed is the total distance travelled divided by the total time taken, which is (x + y) / (x/60 + y/40). To simplify this expression, we can find a common denominator, which is 120. This gives us (x + y) / ((2x + 3y) / 120) = 120(x + y) / (2x + 3y). Since we don't know the exact values of x and y, we can't simplify this expression further. However, we can try to find a value that satisfies the given options. If we assume x = y, then the average speed is 120(x + x) / (2x + 3x) = 120(2x) / (5x) = 48x / x = 48 km/h. However, this value is not among the options. If we assume x = 2y, then the average speed is 120(2y + y) / (4y + 3y) = 120(3y) / (7y) = 360y / 7y = 360 / 7 km/h, which is approximately 51.43 km/h. This value is close to option 50 km/h."
     },
     {
       "id": 41,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'fastidious'?",
+      "question": "What is the meaning of the word 'persuade'?",
       "options": [
-        "Meticulous and demanding in one's standards",
-        "Careless and sloppy in one's work",
-        "Quick and efficient in one's tasks",
-        "Lazy and idle in one's behavior"
+        "To force someone to do something",
+        "To convince someone to do something",
+        "To listen to someone",
+        "To ignore someone"
       ],
-      "correct": 0,
-      "explanation": "The word 'fastidious' means being meticulous and demanding in one's standards, having a strong attention to detail and a high level of precision."
+      "correct": 1,
+      "explanation": "The word 'persuade' means to convince someone to do something."
     },
     {
       "id": 42,
       "category": "Current Affairs",
-      "question": "Who is the current President of the World Bank?",
+      "question": "Who is the current Prime Minister of the United Kingdom?",
       "options": [
-        "David Malpass",
-        "Kristalina Georgieva",
-        "Jose Angel Gurria",
-        "Antonio Guterres"
+        "Boris Johnson",
+        "Theresa May",
+        "David Cameron",
+        "Tony Blair"
       ],
       "correct": 0,
-      "explanation": "David Malpass is the current President of the World Bank, taking office in April 2019."
+      "explanation": "Boris Johnson is the current Prime Minister of the United Kingdom."
     },
     {
       "id": 43,
       "category": "General Awareness & Static GK",
-      "question": "Who was the author of the book 'The Interpretation of Dreams'?",
+      "question": "Which of the following ancient civilizations built the Great Pyramid of Giza?",
+      "options": [
+        "Egyptians",
+        "Greeks",
+        "Romans",
+        "Mesopotamians"
+      ],
+      "correct": 0,
+      "explanation": "The Egyptians built the Great Pyramid of Giza, which is one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 44,
+      "category": "General Science",
+      "question": "What is the process by which water becomes ice?",
+      "options": [
+        "Melting",
+        "Freezing",
+        "Boiling",
+        "Condensation"
+      ],
+      "correct": 1,
+      "explanation": "Freezing is the process by which water becomes ice."
+    },
+    {
+      "id": 45,
+      "category": "Indian Polity & Economy",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to small and medium-sized enterprises for technology upgradation?",
+      "options": [
+        "Pradhan Mantri MUDRA Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Make in India",
+        "Technology Upgradation Fund Scheme"
+      ],
+      "correct": 3,
+      "explanation": "The Technology Upgradation Fund Scheme (TUFS) is a government scheme that provides financial assistance to small and medium-sized enterprises for technology upgradation."
+    },
+    {
+      "id": 46,
+      "category": "Geography",
+      "question": "Which city is the capital of Greenland?",
+      "options": [
+        "Nuuk",
+        "Reykjavik",
+        "Copenhagen",
+        "Oslo"
+      ],
+      "correct": 0,
+      "explanation": "Nuuk is the capital city of Greenland."
+    },
+    {
+      "id": 47,
+      "category": "Reasoning & Logic",
+      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 500 widgets?",
+      "options": [
+        "5 minutes",
+        "50 minutes",
+        "100 minutes",
+        "500 minutes"
+      ],
+      "correct": 0,
+      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then 1 machine can make 1 widget in 5 minutes. Therefore, 100 machines can make 100 widgets in 5 minutes, and 500 widgets in 25 minutes. However, since 100 machines are working together, they can make 500 widgets in 5 minutes."
+    },
+    {
+      "id": 48,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the word 'nuance'?",
+      "options": [
+        "A subtle difference or shade of meaning",
+        "A loud and clear expression",
+        "A happy and cheerful atmosphere",
+        "A sad and depressing mood"
+      ],
+      "correct": 0,
+      "explanation": "The word 'nuance' means a subtle difference or shade of meaning."
+    },
+    {
+      "id": 49,
+      "category": "Current Affairs",
+      "question": "Who is the current CEO of Google?",
+      "options": [
+        "Sundar Pichai",
+        "Satya Nadella",
+        "Mark Zuckerberg",
+        "Elon Musk"
+      ],
+      "correct": 0,
+      "explanation": "Sundar Pichai is the current CEO of Google."
+    },
+    {
+      "id": 50,
+      "category": "General Awareness & Static GK",
+      "question": "Who is the author of the book 'The Interpretation of Dreams'?",
       "options": [
         "Sigmund Freud",
         "Carl Jung",
@@ -561,98 +652,7 @@
         "Erik Erikson"
       ],
       "correct": 0,
-      "explanation": "Sigmund Freud was the author of the book 'The Interpretation of Dreams', published in 1900."
-    },
-    {
-      "id": 44,
-      "category": "General Science",
-      "question": "What is the process by which an organism's genetic information is changed by external factors?",
-      "options": [
-        "Mutation",
-        "Genetic drift",
-        "Gene flow",
-        "Hereditary"
-      ],
-      "correct": 0,
-      "explanation": "Mutation refers to the process by which an organism's genetic information is changed by external factors, such as radiation or chemicals."
-    },
-    {
-      "id": 45,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to women for higher education?",
-      "options": [
-        "Pradhan Mantri Mahila Shakti Kendra Scheme",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Mahila Shakti Kendra Scheme is a scheme launched by the Indian government in 2017 to provide financial assistance to women for higher education."
-    },
-    {
-      "id": 46,
-      "category": "Geography",
-      "question": "Which city is the capital of China?",
-      "options": [
-        "Beijing",
-        "Shanghai",
-        "Guangzhou",
-        "Hong Kong"
-      ],
-      "correct": 0,
-      "explanation": "Beijing is the capital city of China, with a population of over 21 million people."
-    },
-    {
-      "id": 47,
-      "category": "Reasoning & Logic",
-      "question": "If a person has 15 pencils and gives 1/3 of them to their friend, how many pencils does the person have left?",
-      "options": [
-        "10 pencils",
-        "12 pencils",
-        "13 pencils",
-        "15 pencils"
-      ],
-      "correct": 0,
-      "explanation": "If the person gives 1/3 of the 15 pencils to their friend, they give away 15 * 1/3 = 5 pencils. The person has 15 - 5 = 10 pencils left."
-    },
-    {
-      "id": 48,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'perfidious'?",
-      "options": [
-        "Disloyal and treacherous",
-        "Loyal and faithful",
-        "Honest and trustworthy",
-        "Cautious and prudent"
-      ],
-      "correct": 0,
-      "explanation": "The word 'perfidious' means being disloyal and treacherous, having a tendency to betray trust or be unfaithful."
-    },
-    {
-      "id": 49,
-      "category": "Current Affairs",
-      "question": "Who is the current Secretary-General of the United Nations?",
-      "options": [
-        "Antonio Guterres",
-        "Jose Angel Gurria",
-        "Kristalina Georgieva",
-        "David Malpass"
-      ],
-      "correct": 0,
-      "explanation": "Antonio Guterres is the current Secretary-General of the United Nations, taking office in January 2017."
-    },
-    {
-      "id": 50,
-      "category": "General Awareness & Static GK",
-      "question": "Who was the first woman to win the Nobel Prize in Physics?",
-      "options": [
-        "Marie Curie",
-        "Rosalind Franklin",
-        "Jane Goodall",
-        "Valentina Tereshkova"
-      ],
-      "correct": 0,
-      "explanation": "Marie Curie was the first woman to win the Nobel Prize in Physics, awarded in 1903 for her pioneering work on radioactivity."
+      "explanation": "Sigmund Freud wrote 'The Interpretation of Dreams', which is a book about psychoanalysis."
     },
     {
       "id": 51,
@@ -665,124 +665,124 @@
         "Evaporation"
       ],
       "correct": 2,
-      "explanation": "Transpiration is the process by which plants release water vapor into the air, mainly through their leaves."
+      "explanation": "Transpiration is the process by which plants release water vapor into the air."
     },
     {
       "id": 52,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to startups?",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to women for setting up small businesses?",
       "options": [
-        "Pradhan Mantri Startup India Scheme",
-        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri MUDRA Yojana",
         "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
+        "Stand-Up India",
+        "Mahila E-Haat"
       ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Startup India Scheme is a scheme launched by the Indian government in 2016 to provide financial assistance to startups."
+      "correct": 2,
+      "explanation": "The Stand-Up India scheme is a government initiative that provides financial assistance to women for setting up small businesses."
     },
     {
       "id": 53,
       "category": "Geography",
-      "question": "Which city is the largest in South America?",
+      "question": "Which river is the longest in South America?",
       "options": [
-        "Sao Paulo",
-        "Buenos Aires",
-        "Lima",
-        "Rio de Janeiro"
+        "Amazon River",
+        "Parana River",
+        "Sao Francisco River",
+        "Magdalena River"
       ],
       "correct": 0,
-      "explanation": "Sao Paulo is the largest city in South America, with a population of over 22 million people."
+      "explanation": "The Amazon River is the longest river in South America, stretching over 6,400 kilometers."
     },
     {
       "id": 54,
       "category": "Reasoning & Logic",
-      "question": "If a person has 20 marbles and loses 1/5 of them, how many marbles does the person have left?",
+      "question": "If a person has 12 balls, and 4 of them are red, what is the probability of drawing a non-red ball from the bag?",
       "options": [
-        "16 marbles",
-        "17 marbles",
-        "18 marbles",
-        "20 marbles"
+        "1/4",
+        "1/3",
+        "2/3",
+        "3/4"
       ],
-      "correct": 0,
-      "explanation": "If the person loses 1/5 of the 20 marbles, they lose 20 * 1/5 = 4 marbles. The person has 20 - 4 = 16 marbles left."
+      "correct": 2,
+      "explanation": "The probability of drawing a non-red ball from the bag can be calculated as the number of non-red balls divided by the total number of balls, which is 8/12 = 2/3."
     },
     {
       "id": 55,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'enigmatic'?",
+      "question": "What is the meaning of the word 'vacillate'?",
       "options": [
-        "Mysterious and difficult to understand",
-        "Clear and easy to understand",
-        "Interesting and engaging",
-        "Boring and uninteresting"
+        "To hesitate or waver",
+        "To decide quickly",
+        "To move rapidly",
+        "To stand still"
       ],
       "correct": 0,
-      "explanation": "The word 'enigmatic' means being mysterious and difficult to understand, often having a puzzling or ambiguous nature."
+      "explanation": "The word 'vacillate' means to hesitate or waver."
     },
     {
       "id": 56,
       "category": "Current Affairs",
-      "question": "Who is the current President of the International Committee of the Red Cross?",
+      "question": "Who is the current Director-General of the World Health Organization?",
       "options": [
-        "Peter Maurer",
-        "Kristalina Georgieva",
-        "Jose Angel Gurria",
-        "Antonio Guterres"
+        "Tedros Adhanom Ghebreyesus",
+        "Dr. Margaret Chan",
+        "Dr. Gro Harlem Brundtland",
+        "Dr. Jong-wook Lee"
       ],
       "correct": 0,
-      "explanation": "Peter Maurer is the current President of the International Committee of the Red Cross, taking office in 2012."
+      "explanation": "Tedros Adhanom Ghebreyesus is the current Director-General of the World Health Organization."
     },
     {
       "id": 57,
       "category": "General Awareness & Static GK",
-      "question": "Who was the author of the book 'The Wealth of Nations'?",
+      "question": "Which of the following ancient civilizations built the city of Machu Picchu?",
       "options": [
-        "Adam Smith",
-        "Karl Marx",
-        "Friedrich Engels",
-        "John Maynard Keynes"
+        "Incas",
+        "Aztecs",
+        "Mayans",
+        "Greeks"
       ],
       "correct": 0,
-      "explanation": "Adam Smith was the author of the book 'The Wealth of Nations', published in 1776."
+      "explanation": "The Incas built the city of Machu Picchu, which is located in modern-day Peru."
     },
     {
       "id": 58,
       "category": "General Science",
-      "question": "What is the process by which the Earth's plates move and change?",
+      "question": "What is the process by which the universe became transparent to light?",
       "options": [
-        "Plate tectonics",
-        "Continental drift",
-        "Weathering and erosion",
-        "Glaciation"
+        "Big Bang",
+        "Dark Matter",
+        "Recombination",
+        "Inflation"
       ],
-      "correct": 0,
-      "explanation": "Plate tectonics refers to the process by which the Earth's plates move and change, resulting in the creation of mountains, volcanoes, and earthquakes."
+      "correct": 2,
+      "explanation": "Recombination is the process by which the universe became transparent to light, occurring when electrons and protons combined to form neutral atoms."
     },
     {
       "id": 59,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to micro, small, and medium-sized enterprises?",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to farmers for crop insurance?",
       "options": [
-        "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Ujjwala Yojana"
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Krishi Sinchayee Yojana",
+        "Rashtriya Krishi Vikas Yojana",
+        "National Mission for Sustainable Agriculture"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri MUDRA Yojana is a scheme launched by the Indian government in 2015 to provide financial assistance to micro, small, and medium-sized enterprises."
+      "explanation": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) is a government scheme that provides financial assistance to farmers for crop insurance."
     },
     {
       "id": 60,
       "category": "Geography",
-      "question": "Which city is the capital of Australia's largest state by area?",
+      "question": "Which city is the capital of New Zealand?",
       "options": [
-        "Perth",
-        "Sydney",
-        "Melbourne",
-        "Brisbane"
+        "Wellington",
+        "Auckland",
+        "Christchurch",
+        "Queenstown"
       ],
       "correct": 0,
-      "explanation": "Perth is the capital city of Western Australia, which is the largest state in Australia by area."
+      "explanation": "Wellington is the capital city of New Zealand."
     }
   ]
 }

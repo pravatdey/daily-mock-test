@@ -1,34 +1,34 @@
 {
   "exam": "ssb",
   "name": "SSB",
-  "date": "2026-03-23",
+  "date": "2026-03-24",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "General Awareness & GK",
-      "question": "Who is the founder of Sashastra Seema Bal?",
+      "question": "What is the name of the national animal of India?",
       "options": [
-        "K.F. Rustamji",
-        "Jawaharlal Nehru",
-        "Indira Gandhi",
-        "Arun Singh"
+        "Lion",
+        "Tiger",
+        "Elephant",
+        "Peacock"
       ],
-      "correct": 0,
-      "explanation": "K.F. Rustamji was the founder of Sashastra Seema Bal, which was established in 1963 as a special force to guard India's international borders."
+      "correct": 1,
+      "explanation": "The tiger is the national animal of India and is an integral part of the country's culture and identity."
     },
     {
       "id": 2,
       "category": "Indian History & Freedom Struggle",
-      "question": "What was the name of the revolt that took place in 1857 against British rule?",
+      "question": "Who was the leader of the Indian National Congress during the Salt March?",
       "options": [
-        "Indian Rebellion of 1857",
-        "Sepoy Mutiny",
-        "War of Independence",
-        "Great Revolt"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "The Indian Rebellion of 1857, also known as the Sepoy Mutiny, was a major uprising against British rule in India that began in Meerut and spread to other parts of the country."
+      "explanation": "Mahatma Gandhi led the Salt March, also known as the Dandi March, in 1930 to protest the British salt tax in India."
     },
     {
       "id": 3,
@@ -41,20 +41,20 @@
         "10 years"
       ],
       "correct": 0,
-      "explanation": "The term of the President of India is 5 years, as specified in Article 56 of the Indian Constitution."
+      "explanation": "The President of India serves a term of 5 years, according to Article 56 of the Indian Constitution."
     },
     {
       "id": 4,
       "category": "Geography",
-      "question": "Which mountain range runs along the India-Nepal border?",
+      "question": "Which river is the longest in India?",
       "options": [
-        "Himalayas",
-        "Karakoram",
-        "Aravalli",
-        "Vindhya"
+        "Ganges",
+        "Brahmaputra",
+        "Indus",
+        "Godavari"
       ],
       "correct": 0,
-      "explanation": "The Himalayas mountain range runs along the India-Nepal border, stretching for over 800 km."
+      "explanation": "The Ganges is the longest river in India, stretching over 2,525 kilometers from its source in the Himalayas to its delta in the Bay of Bengal."
     },
     {
       "id": 5,
@@ -64,88 +64,88 @@
         "Jupiter",
         "Saturn",
         "Uranus",
-        "Earth"
+        "Neptune"
       ],
       "correct": 0,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 km."
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
     },
     {
       "id": 6,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Army's special forces unit?",
+      "question": "What is the name of the Indian military operation that took place in 1971?",
       "options": [
-        "National Security Guard",
-        "Special Protection Group",
-        "Parachute Regiment",
-        "MARCOS"
+        "Operation Vijay",
+        "Operation Meghdoot",
+        "Operation Trident",
+        "Operation Cactus"
       ],
-      "correct": 2,
-      "explanation": "The Parachute Regiment is the Indian Army's special forces unit, which is trained to conduct airborne operations and other specialized tasks."
+      "correct": 0,
+      "explanation": "Operation Vijay was the Indian military operation that took place in 1971, resulting in the liberation of Bangladesh from Pakistan."
     },
     {
       "id": 7,
       "category": "Current Affairs",
-      "question": "Who is the current Director General of Sashastra Seema Bal?",
+      "question": "Who is the current Prime Minister of India?",
       "options": [
-        "Kuldiep Singh",
-        "S.S. Deswal",
-        "Rajni Kant Mishra",
-        "S.K. Asthana"
+        "Narendra Modi",
+        "Amit Shah",
+        "Rahul Gandhi",
+        "Arvind Kejriwal"
       ],
-      "correct": 1,
-      "explanation": "S.S. Deswal is the current Director General of Sashastra Seema Bal, who took over the post in 2018."
+      "correct": 0,
+      "explanation": "Narendra Modi has been the Prime Minister of India since 2014, serving two consecutive terms."
     },
     {
       "id": 8,
       "category": "General Awareness & GK",
-      "question": "What is the name of the national park located in the state of Uttarakhand?",
+      "question": "What is the name of the highest mountain peak in India?",
       "options": [
-        "Jim Corbett National Park",
-        "Kanha National Park",
-        "Bandhavgarh National Park",
-        "Ranthambore National Park"
+        "Kangchenjunga",
+        "Nanda Devi",
+        "Mount Everest",
+        "K2"
       ],
       "correct": 0,
-      "explanation": "Jim Corbett National Park is located in the state of Uttarakhand and is one of the oldest national parks in India."
+      "explanation": "Kangchenjunga is the highest mountain peak in India, located in the Himalayas in the state of Sikkim."
     },
     {
       "id": 9,
       "category": "Indian History & Freedom Struggle",
-      "question": "Who was the leader of the Indian National Army during World War II?",
+      "question": "Who was the first Governor-General of India?",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bhagat Singh"
+        "Warren Hastings",
+        "Lord Cornwallis",
+        "Lord William Bentinck",
+        "Lord Curzon"
       ],
       "correct": 0,
-      "explanation": "Subhas Chandra Bose was the leader of the Indian National Army during World War II, who fought against British rule in India."
+      "explanation": "Warren Hastings was the first Governor-General of India, serving from 1773 to 1785."
     },
     {
       "id": 10,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the fundamental right that guarantees freedom of speech and expression?",
+      "question": "What is the name of the article that deals with the right to equality in the Indian Constitution?",
       "options": [
         "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 25"
+        "Article 15",
+        "Article 16",
+        "Article 17"
       ],
-      "correct": 1,
-      "explanation": "Article 19 of the Indian Constitution guarantees freedom of speech and expression, which is a fundamental right of every citizen."
+      "correct": 0,
+      "explanation": "Article 14 of the Indian Constitution deals with the right to equality, which is a fundamental right guaranteed to all citizens."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which river flows through the city of Varanasi?",
+      "question": "Which state in India has the longest coastline?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Brahmaputra",
-        "Narmada"
+        "Gujarat",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Kerala"
       ],
       "correct": 0,
-      "explanation": "The Ganga river flows through the city of Varanasi, which is considered one of the most sacred cities in Hinduism."
+      "explanation": "Gujarat has the longest coastline in India, with a total length of approximately 1,600 kilometers."
     },
     {
       "id": 12,
@@ -163,135 +163,226 @@
     {
       "id": 13,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's submarine rescue unit?",
+      "question": "What is the name of the Indian naval base in the Andaman and Nicobar Islands?",
       "options": [
-        "INS Satavahana",
-        "INS Abhimanyu",
-        "INS Nireekshak",
-        "INS Vajra"
+        "INS Jarawa",
+        "INS Kardip",
+        "INS Baaz",
+        "INS Vajrakosh"
       ],
-      "correct": 0,
-      "explanation": "INS Satavahana is the Indian Navy's submarine rescue unit, which provides support and rescue services to submarines in distress."
+      "correct": 2,
+      "explanation": "INS Baaz is the Indian naval base in the Andaman and Nicobar Islands, serving as a strategic location for naval operations in the region."
     },
     {
       "id": 14,
       "category": "Current Affairs",
-      "question": "What is the name of the government scheme launched to improve road connectivity in rural areas?",
+      "question": "What is the name of the Indian government's flagship program for digital literacy?",
       "options": [
-        "Pradhan Mantri Gram Sadak Yojana",
-        "Rashtriya Krishi Vikas Yojana",
-        "Swachh Bharat Abhiyan",
-        "Make in India"
+        "Digital India",
+        "Make in India",
+        "Skill India",
+        "Beti Bachao Beti Padhao"
       ],
       "correct": 0,
-      "explanation": "Pradhan Mantri Gram Sadak Yojana is the government scheme launched to improve road connectivity in rural areas, which aims to connect all villages with a population of over 500 people."
+      "explanation": "Digital India is the Indian government's flagship program for digital literacy, aiming to empower citizens through digital technologies and online services."
     },
     {
       "id": 15,
       "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'The Discovery of India'?",
+      "question": "Who is the author of the book 'India After Gandhi'?",
       "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Rabindranath Tagore",
-        "Subhas Chandra Bose"
+        "Ramachandra Guha",
+        "Narendra Modi",
+        "Amitav Ghosh",
+        "Arundhati Roy"
       ],
       "correct": 0,
-      "explanation": "Jawaharlal Nehru is the author of the book 'The Discovery of India', which provides an account of India's history and culture."
+      "explanation": "Ramachandra Guha is the author of the book 'India After Gandhi', which is a comprehensive history of India since its independence in 1947."
     },
     {
       "id": 16,
       "category": "Indian History & Freedom Struggle",
-      "question": "What was the name of the movement launched by Mahatma Gandhi in 1942 to demand Indian independence?",
+      "question": "What was the name of the Indian freedom fighter who was hanged by the British in 1931?",
       "options": [
-        "Quit India Movement",
-        "Non-Cooperation Movement",
-        "Civil Disobedience Movement",
-        "Khilafat Movement"
+        "Bhagat Singh",
+        "Chandrashekhar Azad",
+        "Rajguru",
+        "Sukhdev"
       ],
       "correct": 0,
-      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942 to demand Indian independence from British rule, which was marked by widespread protests and demonstrations across the country."
+      "explanation": "Bhagat Singh was the Indian freedom fighter who was hanged by the British in 1931, along with his fellow comrades Rajguru and Sukhdev, for their involvement in the Lahore Conspiracy Case."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional body that regulates the conduct of elections in India?",
+      "question": "What is the name of the article that deals with the right to freedom of speech and expression in the Indian Constitution?",
       "options": [
-        "Election Commission of India",
-        "Union Public Service Commission",
-        "National Human Rights Commission",
-        "Central Information Commission"
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
       ],
       "correct": 0,
-      "explanation": "The Election Commission of India is the constitutional body that regulates the conduct of elections in India, ensuring that elections are free and fair."
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression, which is a fundamental right guaranteed to all citizens."
     },
     {
       "id": 18,
       "category": "Geography",
-      "question": "Which state has the longest coastline in India?",
+      "question": "Which mountain range runs along the border between India and Pakistan?",
       "options": [
-        "Gujarat",
-        "Maharashtra",
-        "Tamil Nadu",
-        "West Bengal"
+        "The Karakoram",
+        "The Himalayas",
+        "The Aravallis",
+        "The Satpura"
       ],
       "correct": 0,
-      "explanation": "Gujarat has the longest coastline in India, stretching for over 1,600 km."
+      "explanation": "The Karakoram mountain range runs along the border between India and Pakistan, serving as a natural boundary between the two countries."
     },
     {
       "id": 19,
       "category": "General Science",
       "question": "What is the largest living structure on Earth?",
       "options": [
-        "Great Barrier Reef",
-        "Amazon Rainforest",
-        "Grand Canyon",
-        "Mount Everest"
+        "The Great Barrier Reef",
+        "The Amazon Rainforest",
+        "The Grand Canyon",
+        "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, covering an area of over 344,400 square km."
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
     },
     {
       "id": 20,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Air Force's transport aircraft?",
+      "question": "What is the name of the Indian army's special forces unit?",
       "options": [
-        "C-130J Super Hercules",
-        "C-17 Globemaster III",
-        "IL-76",
-        "AN-32"
+        "The Para Commandos",
+        "The Ghatak Force",
+        "The NSG",
+        "The Marcos"
       ],
       "correct": 0,
-      "explanation": "The C-130J Super Hercules is the Indian Air Force's transport aircraft, which provides tactical airlift capabilities."
+      "explanation": "The Para Commandos are the Indian army's special forces unit, trained for high-altitude and counter-terrorism operations."
     },
     {
       "id": 21,
       "category": "Current Affairs",
       "question": "Who is the current Chief of the Army Staff?",
       "options": [
-        "Manoj Pande",
-        "Bipin Rawat",
-        "Dalbir Singh Suhag",
-        "Vikram Singh"
+        "General Bipin Rawat",
+        "General Manoj Mukund Naravane",
+        "General Dalbir Singh Suhag",
+        "General Bikram Singh"
       ],
-      "correct": 0,
-      "explanation": "Manoj Pande is the current Chief of the Army Staff, who took over the post in 2022."
+      "correct": 1,
+      "explanation": "General Manoj Mukund Naravane is the current Chief of the Army Staff, serving as the head of the Indian Army since 2019."
     },
     {
       "id": 22,
       "category": "General Awareness & GK",
-      "question": "What is the name of the famous dance form of Kerala?",
+      "question": "What is the name of the largest island in the Andaman and Nicobar Islands?",
       "options": [
-        "Bharatanatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
+        "Great Andaman",
+        "Little Andaman",
+        "Middle Andaman",
+        "North Andaman"
       ],
-      "correct": 1,
-      "explanation": "Kathakali is the famous dance form of Kerala, which is known for its elaborate costumes and makeup."
+      "correct": 0,
+      "explanation": "Great Andaman is the largest island in the Andaman and Nicobar Islands, accounting for the majority of the archipelago's land area."
     },
     {
       "id": 23,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the leader of the Quit India Movement?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ],
+      "correct": 0,
+      "explanation": "Mahatma Gandhi was the leader of the Quit India Movement, launched in 1942 to demand an end to British rule in India."
+    },
+    {
+      "id": 24,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article that deals with the right to life and personal liberty in the Indian Constitution?",
+      "options": [
+        "Article 20",
+        "Article 21",
+        "Article 22",
+        "Article 23"
+      ],
+      "correct": 1,
+      "explanation": "Article 21 of the Indian Constitution deals with the right to life and personal liberty, which is a fundamental right guaranteed to all citizens."
+    },
+    {
+      "id": 25,
+      "category": "Geography",
+      "question": "Which river flows through the city of Delhi?",
+      "options": [
+        "The Yamuna",
+        "The Ganges",
+        "The Brahmaputra",
+        "The Indus"
+      ],
+      "correct": 0,
+      "explanation": "The Yamuna river flows through the city of Delhi, serving as a major source of water and transportation."
+    },
+    {
+      "id": 26,
+      "category": "General Science",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
+      ],
+      "correct": 2,
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
+    },
+    {
+      "id": 27,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian air force's transport aircraft?",
+      "options": [
+        "The C-130J Super Hercules",
+        "The C-17 Globemaster III",
+        "The IL-76",
+        "The AN-32"
+      ],
+      "correct": 0,
+      "explanation": "The C-130J Super Hercules is the Indian air force's transport aircraft, used for a variety of tasks including cargo transport and medical evacuation."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs",
+      "question": "Who is the current Chief of the Naval Staff?",
+      "options": [
+        "Admiral Karambir Singh",
+        "Admiral Sunil Lanba",
+        "Admiral Robin Dhowan",
+        "Admiral Arun Prakash"
+      ],
+      "correct": 0,
+      "explanation": "Admiral Karambir Singh is the current Chief of the Naval Staff, serving as the head of the Indian Navy since 2019."
+    },
+    {
+      "id": 29,
+      "category": "General Awareness & GK",
+      "question": "What is the name of the highest award given to civilians in India?",
+      "options": [
+        "The Bharat Ratna",
+        "The Padma Vibhushan",
+        "The Padma Bhushan",
+        "The Padma Shri"
+      ],
+      "correct": 0,
+      "explanation": "The Bharat Ratna is the highest award given to civilians in India, conferred for exceptional service or performance of the highest order."
+    },
+    {
+      "id": 30,
       "category": "Indian History & Freedom Struggle",
       "question": "Who was the leader of the Azad Hind Fauj?",
       "options": [
@@ -301,488 +392,397 @@
         "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "Subhas Chandra Bose was the leader of the Azad Hind Fauj, which was formed in 1942 to fight against British rule in India."
-    },
-    {
-      "id": 24,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional amendment that gave special status to the state of Jammu and Kashmir?",
-      "options": [
-        "Article 370",
-        "Article 371",
-        "Article 35A",
-        "Article 21"
-      ],
-      "correct": 0,
-      "explanation": "Article 370 was the constitutional amendment that gave special status to the state of Jammu and Kashmir, which was repealed in 2019."
-    },
-    {
-      "id": 25,
-      "category": "Geography",
-      "question": "Which river flows through the city of Delhi?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Brahmaputra",
-        "Narmada"
-      ],
-      "correct": 1,
-      "explanation": "The Yamuna river flows through the city of Delhi, which is a major tributary of the Ganga river."
-    },
-    {
-      "id": 26,
-      "category": "General Science",
-      "question": "What is the process by which the human body regulates its temperature?",
-      "options": [
-        "Sweating",
-        "Shivering",
-        "Hibernation",
-        "Metabolism"
-      ],
-      "correct": 0,
-      "explanation": "Sweating is the process by which the human body regulates its temperature, as it helps to cool the body down in hot conditions."
-    },
-    {
-      "id": 27,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's aircraft carrier?",
-      "options": [
-        "INS Vikramaditya",
-        "INS Viraat",
-        "INS Vikrant",
-        "INS Arihant"
-      ],
-      "correct": 0,
-      "explanation": "INS Vikramaditya is the Indian Navy's aircraft carrier, which provides air power capabilities to the navy."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs",
-      "question": "What is the name of the government scheme launched to provide financial assistance to farmers?",
-      "options": [
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Rashtriya Krishi Vikas Yojana",
-        "National Mission on Sustainable Agriculture"
-      ],
-      "correct": 0,
-      "explanation": "Pradhan Mantri Kisan Samman Nidhi is the government scheme launched to provide financial assistance to farmers, which provides an annual income support of Rs. 6,000 to eligible farmers."
-    },
-    {
-      "id": 29,
-      "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'India Wins Freedom'?",
-      "options": [
-        "Abul Kalam Azad",
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Maulana Azad"
-      ],
-      "correct": 0,
-      "explanation": "Abul Kalam Azad is the author of the book 'India Wins Freedom', which provides an account of India's struggle for independence."
-    },
-    {
-      "id": 30,
-      "category": "Indian History & Freedom Struggle",
-      "question": "What was the name of the movement launched by Mahatma Gandhi in 1920 to non-cooperate with British rule?",
-      "options": [
-        "Non-Cooperation Movement",
-        "Civil Disobedience Movement",
-        "Quit India Movement",
-        "Khilafat Movement"
-      ],
-      "correct": 0,
-      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920 to non-cooperate with British rule, which involved the boycott of British goods and institutions."
+      "explanation": "Subhas Chandra Bose was the leader of the Azad Hind Fauj, a military force formed to fight for Indian independence during World War II."
     },
     {
       "id": 31,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional body that regulates the conduct of public servants?",
+      "question": "What is the name of the article that deals with the right to freedom of assembly in the Indian Constitution?",
       "options": [
-        "Central Vigilance Commission",
-        "Central Information Commission",
-        "National Human Rights Commission",
-        "Comptroller and Auditor General"
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
       ],
       "correct": 0,
-      "explanation": "The Central Vigilance Commission is the constitutional body that regulates the conduct of public servants, ensuring that they act with integrity and honesty."
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of assembly, which is a fundamental right guaranteed to all citizens."
     },
     {
       "id": 32,
       "category": "Geography",
-      "question": "Which state has the highest population density in India?",
+      "question": "Which state in India has the highest population density?",
       "options": [
         "Bihar",
         "Uttar Pradesh",
         "West Bengal",
-        "Delhi"
+        "Kerala"
       ],
-      "correct": 3,
-      "explanation": "Delhi has the highest population density in India, with a population density of over 11,000 people per square km."
+      "correct": 0,
+      "explanation": "Bihar has the highest population density in India, with an average of over 1,100 people per square kilometer."
     },
     {
       "id": 33,
       "category": "General Science",
-      "question": "What is the process by which plants release water vapor into the air?",
+      "question": "What is the largest living thing on Earth?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
+        "The Great Barrier Reef",
+        "The Amazon Rainforest",
+        "The Grand Canyon",
+        "The Great Wall of China"
       ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which plants release water vapor into the air, which is an essential part of the water cycle."
+      "correct": 0,
+      "explanation": "The Great Barrier Reef is the largest living thing on Earth, spanning over 2,300 kilometers off the coast of Australia."
     },
     {
       "id": 34,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Army's counter-terrorism unit?",
+      "question": "What is the name of the Indian defense research organization?",
       "options": [
-        "National Security Guard",
-        "Special Protection Group",
-        "Parachute Regiment",
-        "Rashtriya Rifles"
+        "The DRDO",
+        "The ISRO",
+        "The BDL",
+        "The BEL"
       ],
       "correct": 0,
-      "explanation": "The National Security Guard is the Indian Army's counter-terrorism unit, which provides specialized training and support to counter terrorist threats."
+      "explanation": "The DRDO (Defence Research and Development Organisation) is the Indian defense research organization, responsible for developing and producing defense technologies and systems."
     },
     {
       "id": 35,
       "category": "Current Affairs",
-      "question": "Who is the current President of the Indian Olympic Association?",
+      "question": "Who is the current Director-General of the Border Security Force?",
       "options": [
-        "Narinder Batra",
-        "Nita Ambani",
-        "Siddharth Mishra",
-        "Vikram Singh Saini"
+        "Rakesh Asthana",
+        "Surinder Singh",
+        "Pankaj Kumar Singh",
+        "K.K. Sharma"
       ],
       "correct": 0,
-      "explanation": "Narinder Batra is the current President of the Indian Olympic Association, who took over the post in 2017."
+      "explanation": "Rakesh Asthana is the current Director-General of the Border Security Force, serving as the head of the BSF since 2020."
     },
     {
       "id": 36,
       "category": "General Awareness & GK",
-      "question": "What is the name of the famous festival celebrated in Kerala?",
+      "question": "What is the name of the national bird of India?",
       "options": [
-        "Onam",
-        "Vishu",
-        "Diwali",
-        "Navaratri"
+        "The Peacock",
+        "The Eagle",
+        "The Parrot",
+        "The Sparrow"
       ],
       "correct": 0,
-      "explanation": "Onam is the famous festival celebrated in Kerala, which is a harvest festival that celebrates the bounty of the land."
+      "explanation": "The Peacock is the national bird of India, known for its vibrant plumage and distinctive call."
     },
     {
       "id": 37,
       "category": "Indian History & Freedom Struggle",
-      "question": "Who was the leader of the Chittagong Armory Raid in 1930?",
+      "question": "Who was the first President of India?",
       "options": [
-        "Surya Sen",
-        "Bhagat Singh",
-        "Chandra Shekhar Azad",
-        "Rajguru"
+        "Dr. Rajendra Prasad",
+        "Dr. Sarvepalli Radhakrishnan",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Surya Sen was the leader of the Chittagong Armory Raid in 1930, which was a daring attack on a British armory in Chittagong."
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
     },
     {
       "id": 38,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional amendment that gave the right to education as a fundamental right?",
+      "question": "What is the name of the article that deals with the right to education in the Indian Constitution?",
       "options": [
         "Article 21A",
-        "Article 14",
-        "Article 19",
-        "Article 25"
+        "Article 22",
+        "Article 23",
+        "Article 24"
       ],
       "correct": 0,
-      "explanation": "Article 21A is the constitutional amendment that gave the right to education as a fundamental right, which provides access to free and compulsory education to all children between the ages of 6 and 14."
+      "explanation": "Article 21A of the Indian Constitution deals with the right to education, which is a fundamental right guaranteed to all citizens."
     },
     {
       "id": 39,
       "category": "Geography",
-      "question": "Which river flows through the city of Bangalore?",
+      "question": "Which river flows through the city of Mumbai?",
       "options": [
-        "Cauvery",
-        "Krishna",
-        "Godavari",
-        "Vrishabhavathi"
+        "The Tapi",
+        "The Narmada",
+        "The Godavari",
+        "The Ulhas"
       ],
       "correct": 3,
-      "explanation": "The Vrishabhavathi river flows through the city of Bangalore, which is a tributary of the Arkavathi river."
+      "explanation": "The Ulhas river flows through the city of Mumbai, serving as a major source of water and transportation."
     },
     {
       "id": 40,
       "category": "General Science",
-      "question": "What is the process by which the body fights against infection?",
+      "question": "What is the process by which the Earth's plates move and change?",
       "options": [
-        "Immunity",
-        "Inflammation",
-        "Respiration",
-        "Circulation"
+        "Plate tectonics",
+        "Weathering",
+        "Erosion",
+        "Deposition"
       ],
       "correct": 0,
-      "explanation": "Immunity is the process by which the body fights against infection, which involves the production of antibodies and the activation of immune cells."
+      "explanation": "Plate tectonics is the process by which the Earth's plates move and change, resulting in the formation of mountains, volcanoes, and earthquakes."
     },
     {
       "id": 41,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's maritime reconnaissance aircraft?",
+      "question": "What is the name of the Indian navy's submarine fleet?",
       "options": [
-        "P-8I Poseidon",
-        "Tu-142",
-        "IL-38",
-        "Dornier 228"
+        "The Arihant-class",
+        "The Akula-class",
+        "The Scorpene-class",
+        "The Kalvari-class"
       ],
       "correct": 0,
-      "explanation": "The P-8I Poseidon is the Indian Navy's maritime reconnaissance aircraft, which provides surveillance and reconnaissance capabilities."
+      "explanation": "The Arihant-class is the Indian navy's submarine fleet, featuring nuclear-powered ballistic missile submarines."
     },
     {
       "id": 42,
       "category": "Current Affairs",
-      "question": "Who is the current Chairman of the Central Board of Direct Taxes?",
+      "question": "Who is the current Chief Minister of the state of Jammu and Kashmir?",
       "options": [
-        "J.B. Mohapatra",
-        "Pramod Chandra Mody",
-        "Sushil Chandra",
-        "Ajay Bhushan Pandey"
+        "Omar Abdullah",
+        "Mehbooba Mufti",
+        "Farooq Abdullah",
+        "Manoj Sinha"
       ],
-      "correct": 1,
-      "explanation": "Pramod Chandra Mody is the current Chairman of the Central Board of Direct Taxes, who took over the post in 2019."
+      "correct": 3,
+      "explanation": "Manoj Sinha is the current Lieutenant Governor of the union territory of Jammu and Kashmir, serving since 2020."
     },
     {
       "id": 43,
       "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'The Story of My Experiments with Truth'?",
+      "question": "What is the name of the largest city in India by population?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Rabindranath Tagore",
-        "Subhas Chandra Bose"
+        "Mumbai",
+        "Delhi",
+        "Kolkata",
+        "Chennai"
       ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi is the author of the book 'The Story of My Experiments with Truth', which is an autobiography that provides an account of his life and experiences."
+      "correct": 1,
+      "explanation": "Delhi is the largest city in India by population, with an estimated population of over 29 million people."
     },
     {
       "id": 44,
       "category": "Indian History & Freedom Struggle",
-      "question": "What was the name of the movement launched by Mahatma Gandhi in 1930 to protest against the salt tax?",
-      "options": [
-        "Salt Satyagraha",
-        "Non-Cooperation Movement",
-        "Civil Disobedience Movement",
-        "Quit India Movement"
-      ],
-      "correct": 0,
-      "explanation": "The Salt Satyagraha was the movement launched by Mahatma Gandhi in 1930 to protest against the salt tax, which involved a march from Ahmedabad to Dandi."
-    },
-    {
-      "id": 45,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional body that regulates the conduct of the judiciary?",
-      "options": [
-        "National Judicial Accountability Commission",
-        "National Human Rights Commission",
-        "Central Vigilance Commission",
-        "Judicial Standards and Accountability Bill"
-      ],
-      "correct": 0,
-      "explanation": "The National Judicial Accountability Commission is the constitutional body that regulates the conduct of the judiciary, ensuring that judges act with integrity and impartiality."
-    },
-    {
-      "id": 46,
-      "category": "Geography",
-      "question": "Which state has the longest international border in India?",
-      "options": [
-        "Gujarat",
-        "Rajasthan",
-        "Punjab",
-        "West Bengal"
-      ],
-      "correct": 1,
-      "explanation": "Rajasthan has the longest international border in India, sharing a border with Pakistan and China."
-    },
-    {
-      "id": 47,
-      "category": "General Science",
-      "question": "What is the process by which the body converts food into energy?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Metabolism",
-        "Digestion"
-      ],
-      "correct": 2,
-      "explanation": "Metabolism is the process by which the body converts food into energy, which involves the breakdown of nutrients and the production of energy."
-    },
-    {
-      "id": 48,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Army's elite counter-terrorism unit?",
-      "options": [
-        "National Security Guard",
-        "Special Protection Group",
-        "Parachute Regiment",
-        "Ghatak Force"
-      ],
-      "correct": 3,
-      "explanation": "The Ghatak Force is the Indian Army's elite counter-terrorism unit, which provides specialized training and support to counter terrorist threats."
-    },
-    {
-      "id": 49,
-      "category": "Current Affairs",
-      "question": "Who is the current Director General of the National Investigation Agency?",
-      "options": [
-        "Dinkar Gupta",
-        "Y.C. Modi",
-        "Sharad Kumar",
-        "Siddharth Mishra"
-      ],
-      "correct": 1,
-      "explanation": "Y.C. Modi is the current Director General of the National Investigation Agency, who took over the post in 2017."
-    },
-    {
-      "id": 50,
-      "category": "General Awareness & GK",
-      "question": "What is the name of the famous temple located in Tamil Nadu?",
-      "options": [
-        "Meenakshi Amman Temple",
-        "Brihadeeswara Temple",
-        "Kapaleeswarar Temple",
-        "Ekambareswarar Temple"
-      ],
-      "correct": 0,
-      "explanation": "The Meenakshi Amman Temple is the famous temple located in Tamil Nadu, which is dedicated to the goddess Meenakshi and is known for its intricate carvings and sculptures."
-    },
-    {
-      "id": 51,
-      "category": "Indian History & Freedom Struggle",
-      "question": "Who was the leader of the Indian National Congress during the independence movement?",
+      "question": "Who was the leader of the Non-Cooperation Movement?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
         "Subhas Chandra Bose",
-        "Lala Lajpat Rai"
+        "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the independence movement, who played a key role in the country's struggle for freedom."
+      "explanation": "Mahatma Gandhi was the leader of the Non-Cooperation Movement, launched in 1920 to protest British rule in India."
+    },
+    {
+      "id": 45,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the article that deals with the right to freedom of speech and expression in the Indian Constitution?",
+      "options": [
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
+      ],
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression, which is a fundamental right guaranteed to all citizens."
+    },
+    {
+      "id": 46,
+      "category": "Geography",
+      "question": "Which state in India has the longest international border?",
+      "options": [
+        "Uttar Pradesh",
+        "Bihar",
+        "West Bengal",
+        "Assam"
+      ],
+      "correct": 2,
+      "explanation": "West Bengal has the longest international border in India, sharing borders with Nepal, Bhutan, and Bangladesh."
+    },
+    {
+      "id": 47,
+      "category": "General Science",
+      "question": "What is the process by which the human body regulates its internal temperature?",
+      "options": [
+        "Homeostasis",
+        "Metabolism",
+        "Respiration",
+        "Circulation"
+      ],
+      "correct": 0,
+      "explanation": "Homeostasis is the process by which the human body regulates its internal temperature, maintaining a stable balance of bodily functions."
+    },
+    {
+      "id": 48,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian air force's fighter jet?",
+      "options": [
+        "The Tejas",
+        "The Jaguar",
+        "The MiG-29",
+        "The Su-30MKI"
+      ],
+      "correct": 0,
+      "explanation": "The Tejas is the Indian air force's fighter jet, developed by the Hindustan Aeronautics Limited (HAL) as a lightweight, multi-role fighter aircraft."
+    },
+    {
+      "id": 49,
+      "category": "Current Affairs",
+      "question": "Who is the current President of India?",
+      "options": [
+        "Ram Nath Kovind",
+        "Droupadi Murmu",
+        "Pratibha Patil",
+        "A.P.J. Abdul Kalam"
+      ],
+      "correct": 1,
+      "explanation": "Droupadi Murmu is the current President of India, serving since 2022."
+    },
+    {
+      "id": 50,
+      "category": "General Awareness & GK",
+      "question": "What is the name of the national anthem of India?",
+      "options": [
+        "Jana Gana Mana",
+        "Vande Mataram",
+        "Saare Jahan Se Achha",
+        "Maa Tujhe Salaam"
+      ],
+      "correct": 0,
+      "explanation": "Jana Gana Mana is the national anthem of India, composed by Rabindranath Tagore and adopted in 1950."
+    },
+    {
+      "id": 51,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the leader of the Khilafat Movement?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Maulana Azad"
+      ],
+      "correct": 0,
+      "explanation": "Mahatma Gandhi was the leader of the Khilafat Movement, launched in 1919 to support the Ottoman Empire and promote Hindu-Muslim unity."
     },
     {
       "id": 52,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional amendment that gave the right to information as a fundamental right?",
+      "question": "What is the name of the article that deals with the right to equality before the law in the Indian Constitution?",
       "options": [
-        "Right to Information Act",
-        "Freedom of Information Act",
-        "Public Records Act",
-        "Official Secrets Act"
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
       ],
       "correct": 0,
-      "explanation": "The Right to Information Act is the constitutional amendment that gave the right to information as a fundamental right, which provides citizens with access to information about government activities and decisions."
+      "explanation": "Article 14 of the Indian Constitution deals with the right to equality before the law, which is a fundamental right guaranteed to all citizens."
     },
     {
       "id": 53,
       "category": "Geography",
-      "question": "Which state has the highest number of UNESCO World Heritage Sites in India?",
+      "question": "Which river flows through the city of Hyderabad?",
       "options": [
-        "Tamil Nadu",
-        "Kerala",
-        "Karnataka",
-        "Maharashtra"
+        "The Godavari",
+        "The Krishna",
+        "The Tungabhadra",
+        "The Musi"
       ],
-      "correct": 0,
-      "explanation": "Tamil Nadu has the highest number of UNESCO World Heritage Sites in India, including the Great Living Chola Temples and the Nilgiri Mountain Railway."
+      "correct": 3,
+      "explanation": "The Musi river flows through the city of Hyderabad, serving as a major source of water and transportation."
     },
     {
       "id": 54,
       "category": "General Science",
-      "question": "What is the process by which the body regulates its body temperature?",
+      "question": "What is the process by which plants release water vapor into the air?",
       "options": [
-        "Sweating",
-        "Shivering",
-        "Hibernation",
-        "Thermoregulation"
+        "Transpiration",
+        "Evaporation",
+        "Respiration",
+        "Photosynthesis"
       ],
-      "correct": 3,
-      "explanation": "Thermoregulation is the process by which the body regulates its body temperature, which involves the production of heat and the loss of heat through various mechanisms."
+      "correct": 0,
+      "explanation": "Transpiration is the process by which plants release water vapor into the air, playing a crucial role in the water cycle."
     },
     {
       "id": 55,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's amphibious assault ship?",
+      "question": "What is the name of the Indian army's special forces unit for counter-terrorism operations?",
       "options": [
-        "INS Jalashwa",
-        "INS Shardul",
-        "INS Airavat",
-        "INS Magar"
+        "The Para Commandos",
+        "The Ghatak Force",
+        "The NSG",
+        "The Marcos"
       ],
-      "correct": 0,
-      "explanation": "The INS Jalashwa is the Indian Navy's amphibious assault ship, which provides support for amphibious operations and disaster relief efforts."
+      "correct": 2,
+      "explanation": "The NSG (National Security Guard) is the Indian army's special forces unit for counter-terrorism operations, trained to handle high-risk situations and hostage rescue missions."
     },
     {
       "id": 56,
       "category": "Current Affairs",
-      "question": "Who is the current Chairman of the Indian Space Research Organisation?",
+      "question": "Who is the current Union Home Minister of India?",
       "options": [
-        "K. Sivan",
-        "A.S. Kiran Kumar",
-        "G. Madhavan Nair",
-        "Satish Dhawan"
+        "Amit Shah",
+        "Rajnath Singh",
+        "Sushma Swaraj",
+        "L.K. Advani"
       ],
       "correct": 0,
-      "explanation": "K. Sivan is the current Chairman of the Indian Space Research Organisation, who took over the post in 2018."
+      "explanation": "Amit Shah is the current Union Home Minister of India, serving since 2019."
     },
     {
       "id": 57,
       "category": "General Awareness & GK",
-      "question": "What is the name of the famous festival celebrated in Punjab?",
+      "question": "What is the name of the largest lake in India?",
       "options": [
-        "Baisakhi",
-        "Diwali",
-        "Holi",
-        "Lohri"
+        "The Wular Lake",
+        "The Dal Lake",
+        "The Nainital Lake",
+        "The Chilika Lake"
       ],
       "correct": 0,
-      "explanation": "Baisakhi is the famous festival celebrated in Punjab, which marks the beginning of the harvest season and is also known as the Sikh New Year."
+      "explanation": "The Wular Lake is the largest lake in India, located in the state of Jammu and Kashmir."
     },
     {
       "id": 58,
       "category": "Indian History & Freedom Struggle",
-      "question": "Who was the leader of the Khilafat Movement in India?",
+      "question": "Who was the leader of the Rowlatt Satyagraha?",
       "options": [
         "Mahatma Gandhi",
-        "Maulana Azad",
-        "Ali Brothers",
-        "Shaukat Ali"
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
       ],
-      "correct": 2,
-      "explanation": "The Ali Brothers, including Muhammad Ali and Shaukat Ali, were the leaders of the Khilafat Movement in India, which was a movement to support the Ottoman Caliphate during World War I."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi was the leader of the Rowlatt Satyagraha, launched in 1919 to protest the Rowlatt Act and promote non-violent resistance."
     },
     {
       "id": 59,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional body that regulates the conduct of the bureaucracy?",
+      "question": "What is the name of the article that deals with the right to freedom of the press in the Indian Constitution?",
       "options": [
-        "Central Vigilance Commission",
-        "Union Public Service Commission",
-        "National Human Rights Commission",
-        "Central Information Commission"
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
       ],
-      "correct": 1,
-      "explanation": "The Union Public Service Commission is the constitutional body that regulates the conduct of the bureaucracy, ensuring that bureaucrats act with integrity and impartiality."
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of the press, which is a fundamental right guaranteed to all citizens."
     },
     {
       "id": 60,
       "category": "Geography",
-      "question": "Which state has the highest number of islands in India?",
+      "question": "Which mountain range runs along the eastern border of India?",
       "options": [
-        "Andaman and Nicobar Islands",
-        "Lakshadweep",
-        "Tamil Nadu",
-        "Kerala"
+        "The Karakoram",
+        "The Himalayas",
+        "The Purvanchal",
+        "The Aravallis"
       ],
-      "correct": 0,
-      "explanation": "The Andaman and Nicobar Islands have the highest number of islands in India, with a total of 572 islands."
+      "correct": 2,
+      "explanation": "The Purvanchal mountain range runs along the eastern border of India, located in the states of Arunachal Pradesh and Assam."
     }
   ]
 }
