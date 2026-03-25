@@ -1,60 +1,60 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-03-24",
+  "date": "2026-03-25",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian dynasty built the city of Pataliputra?",
+      "question": "The ancient Indian university of Takshashila was located in which modern-day country?",
       "options": [
-        "Mauryan",
-        "Gupta",
-        "Kushan",
-        "Mughal"
+        "India",
+        "Pakistan",
+        "Afghanistan",
+        "Nepal"
       ],
-      "correct": 0,
-      "explanation": "The Mauryan dynasty built the city of Pataliputra, which is now known as Patna, in the 3rd century BCE."
+      "correct": 1,
+      "explanation": "Takshashila was an ancient Indian university located in the north-western region of the Indian subcontinent, which is now in modern-day Pakistan."
     },
     {
       "id": 2,
       "category": "Indian Geography",
-      "question": "What is the name of the highest peak in the Eastern Ghats?",
+      "question": "Which of the following rivers flows through the Grand Canyon?",
       "options": [
-        "Mahendragiri",
-        "Aravalli",
-        "Vindhya",
-        "Satpura"
+        "Brahmaputra",
+        "Ganga",
+        "Colorado",
+        "Godavari"
       ],
-      "correct": 0,
-      "explanation": "The highest peak in the Eastern Ghats is Mahendragiri, which is located in the state of Odisha."
+      "correct": 2,
+      "explanation": "The Colorado River flows through the Grand Canyon in Arizona, USA, but in the context of Indian geography, it's worth noting that the Colorado is not an Indian river, and the Grand Canyon is not in India."
     },
     {
       "id": 3,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of speech and expression?",
+      "question": "What is the term for the power of the Supreme Court to declare laws and government actions unconstitutional?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 25"
+        "Judicial Review",
+        "Legislative Veto",
+        "Executive Privilege",
+        "Parliamentary Supremacy"
       ],
-      "correct": 1,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression."
+      "correct": 0,
+      "explanation": "Judicial review is the power of the Supreme Court to declare laws and government actions unconstitutional, as enshrined in the Constitution of India."
     },
     {
       "id": 4,
       "category": "Indian Economy",
-      "question": "What is the name of the government scheme launched to promote digital payments in India?",
+      "question": "Which of the following is a key objective of the National Monetary Policy?",
       "options": [
-        "Digital India",
-        "Make in India",
-        "Start-Up India",
-        "BHIM"
+        "Price Stability",
+        "Full Employment",
+        "Economic Growth",
+        "All of the above"
       ],
       "correct": 3,
-      "explanation": "The government scheme launched to promote digital payments in India is BHIM, which stands for Bharat Interface for Money."
+      "explanation": "The key objectives of the National Monetary Policy include price stability, full employment, and economic growth, as outlined by the Reserve Bank of India."
     },
     {
       "id": 5,
@@ -67,90 +67,363 @@
         "Fermentation"
       ],
       "correct": 1,
-      "explanation": "The process by which plants convert sunlight into energy is called photosynthesis."
+      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
     },
     {
       "id": 6,
       "category": "Environment & Ecology",
-      "question": "What is the name of the international agreement aimed at reducing greenhouse gas emissions?",
+      "question": "Which of the following international agreements aims to reduce greenhouse gas emissions and mitigate climate change?",
       "options": [
         "Paris Agreement",
         "Kyoto Protocol",
         "Montreal Protocol",
-        "Copenhagen Accord"
+        "Stockholm Convention"
       ],
       "correct": 0,
-      "explanation": "The Paris Agreement is an international agreement aimed at reducing greenhouse gas emissions and mitigating the effects of climate change."
+      "explanation": "The Paris Agreement is an international agreement that aims to reduce greenhouse gas emissions and mitigate climate change by limiting global warming to well below 2°C and pursuing efforts to limit it to 1.5°C."
     },
     {
       "id": 7,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the author of the book 'India: A History'",
+      "question": "Which Indian cricketer is known for being the first player to score a double century in ODIs?",
       "options": [
-        "John Keay",
-        "William Dalrymple",
-        "Ramachandra Guha",
-        "Narendra Singh Sarila"
+        "Sachin Tendulkar",
+        "Virender Sehwag",
+        "Rohit Sharma",
+        "Virat Kohli"
       ],
       "correct": 0,
-      "explanation": "The author of the book 'India: A History' is John Keay."
+      "explanation": "Sachin Tendulkar is the first player to score a double century in ODIs, achieving this feat against South Africa in 2010."
     },
     {
       "id": 8,
       "category": "Indian History",
-      "question": "Which Mughal emperor built the Taj Mahal?",
+      "question": "The ancient Indian emperor Ashoka converted to Buddhism after the Battle of?",
       "options": [
-        "Babur",
-        "Humayun",
-        "Akbar",
-        "Shah Jahan"
+        "Kalinga",
+        "Pataliputra",
+        "Taxila",
+        "Ujjain"
       ],
-      "correct": 3,
-      "explanation": "The Mughal emperor who built the Taj Mahal was Shah Jahan."
+      "correct": 0,
+      "explanation": "Ashoka converted to Buddhism after the Battle of Kalinga, which took place in 261 BCE and resulted in significant loss of life and destruction."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "What is the name of the largest river island in the world?",
+      "question": "Which of the following mountain ranges runs along the border between India and Pakistan?",
       "options": [
-        "Majuli",
-        "Sangai",
-        "Bhavani",
-        "Vedanthangal"
+        "Himalayas",
+        "Karakoram",
+        "Aravalli",
+        "Sulaiman"
       ],
-      "correct": 0,
-      "explanation": "The largest river island in the world is Majuli, which is located in the state of Assam."
+      "correct": 1,
+      "explanation": "The Karakoram mountain range runs along the border between India and Pakistan, and is known for its rugged terrain and high peaks."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to equality?",
+      "question": "What is the term for the system of government in which power is divided between a central authority and smaller regional authorities?",
       "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
+        "Federalism",
+        "Confederalism",
+        "Unitary",
+        "Parliamentary"
       ],
       "correct": 0,
-      "explanation": "Article 14 of the Indian Constitution deals with the right to equality."
+      "explanation": "Federalism is the system of government in which power is divided between a central authority and smaller regional authorities, such as states or provinces."
     },
     {
       "id": 11,
       "category": "Indian Economy",
-      "question": "What is the name of the government scheme launched to promote entrepreneurship in India?",
+      "question": "Which of the following is a key component of the Indian government's Make in India initiative?",
       "options": [
-        "Make in India",
-        "Start-Up India",
-        "Digital India",
-        "Skill India"
+        "Foreign Direct Investment",
+        "Public-Private Partnerships",
+        "Easy Doing Business",
+        "All of the above"
       ],
-      "correct": 1,
-      "explanation": "The government scheme launched to promote entrepreneurship in India is Start-Up India."
+      "correct": 3,
+      "explanation": "The Make in India initiative aims to promote foreign direct investment, public-private partnerships, and ease of doing business in India, in order to boost economic growth and job creation."
     },
     {
       "id": 12,
       "category": "General Science",
-      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Uranus"
+      ],
+      "correct": 2,
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
+    },
+    {
+      "id": 13,
+      "category": "Environment & Ecology",
+      "question": "Which of the following types of pollution is caused by the release of particulate matter into the air?",
+      "options": [
+        "Air Pollution",
+        "Water Pollution",
+        "Soil Pollution",
+        "Noise Pollution"
+      ],
+      "correct": 0,
+      "explanation": "Air pollution is caused by the release of particulate matter, such as dust, smoke, and other pollutants, into the air, which can have negative impacts on human health and the environment."
+    },
+    {
+      "id": 14,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Which Indian state has the highest number of tiger reserves?",
+      "options": [
+        "Madhya Pradesh",
+        "Karnataka",
+        "Tamil Nadu",
+        "Uttarakhand"
+      ],
+      "correct": 0,
+      "explanation": "Madhya Pradesh has the highest number of tiger reserves in India, with a total of six reserves, including the famous Kanha and Bandhavgarh reserves."
+    },
+    {
+      "id": 15,
+      "category": "Indian History",
+      "question": "The ancient Indian kingdom of Magadha was located in which modern-day state?",
+      "options": [
+        "Bihar",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Odisha"
+      ],
+      "correct": 0,
+      "explanation": "The ancient Indian kingdom of Magadha was located in the modern-day state of Bihar, and was a major power in ancient India during the 6th and 5th centuries BCE."
+    },
+    {
+      "id": 16,
+      "category": "Indian Geography",
+      "question": "Which of the following rivers flows through the city of Delhi?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Brahmaputra",
+        "Sutlej"
+      ],
+      "correct": 1,
+      "explanation": "The Yamuna River flows through the city of Delhi, and is a major tributary of the Ganga River."
+    },
+    {
+      "id": 17,
+      "category": "Indian Polity & Governance",
+      "question": "What is the term for the system of government in which the head of state is a monarch or hereditary ruler?",
+      "options": [
+        "Monarchy",
+        "Democracy",
+        "Oligarchy",
+        "Theocracy"
+      ],
+      "correct": 0,
+      "explanation": "A monarchy is a system of government in which the head of state is a monarch or hereditary ruler, such as a king or queen."
+    },
+    {
+      "id": 18,
+      "category": "Indian Economy",
+      "question": "Which of the following is a key indicator of a country's economic development?",
+      "options": [
+        "GDP",
+        "Inflation Rate",
+        "Unemployment Rate",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "GDP, inflation rate, and unemployment rate are all key indicators of a country's economic development, and are used to assess the overall health and growth of an economy."
+    },
+    {
+      "id": 19,
+      "category": "General Science",
+      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Genetic Drift",
+        "Natural Selection"
+      ],
+      "correct": 1,
+      "explanation": "Meiosis is the process by which an organism's genetic information is passed from one generation to the next, through the production of gametes such as sperm and egg cells."
+    },
+    {
+      "id": 20,
+      "category": "Environment & Ecology",
+      "question": "Which of the following types of ecosystems is characterized by a lack of trees and a dominance of grasses and other herbaceous plants?",
+      "options": [
+        "Forest",
+        "Grassland",
+        "Desert",
+        "Tundra"
+      ],
+      "correct": 1,
+      "explanation": "Grasslands are ecosystems characterized by a lack of trees and a dominance of grasses and other herbaceous plants, and are found in a variety of regions around the world, including the prairies of North America and the savannas of Africa."
+    },
+    {
+      "id": 21,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": [
+        "Bengaluru",
+        "Hyderabad",
+        "Pune",
+        "Chennai"
+      ],
+      "correct": 0,
+      "explanation": "Bengaluru is known as the 'Silicon Valley of India' due to its high concentration of technology and software companies, and is a major hub for the Indian IT industry."
+    },
+    {
+      "id": 22,
+      "category": "Indian History",
+      "question": "The Quit India Movement was launched by Mahatma Gandhi in which year?",
+      "options": [
+        "1942",
+        "1945",
+        "1947",
+        "1950"
+      ],
+      "correct": 0,
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942, and was a major civil disobedience movement against British rule in India."
+    },
+    {
+      "id": 23,
+      "category": "Indian Geography",
+      "question": "Which of the following mountain ranges is located in the western part of India?",
+      "options": [
+        "Himalayas",
+        "Aravalli",
+        "Vindhya",
+        "Sahyadri"
+      ],
+      "correct": 3,
+      "explanation": "The Sahyadri mountain range is located in the western part of India, and is also known as the Western Ghats."
+    },
+    {
+      "id": 24,
+      "category": "Indian Polity & Governance",
+      "question": "What is the term for the system of government in which power is held by a small group of people?",
+      "options": [
+        "Oligarchy",
+        "Democracy",
+        "Monarchy",
+        "Theocracy"
+      ],
+      "correct": 0,
+      "explanation": "An oligarchy is a system of government in which power is held by a small group of people, often for their own benefit rather than for the benefit of the wider population."
+    },
+    {
+      "id": 25,
+      "category": "Indian Economy",
+      "question": "Which of the following is a key component of the Indian government's Make in India initiative?",
+      "options": [
+        "Ease of Doing Business",
+        "Foreign Direct Investment",
+        "Public-Private Partnerships",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The Make in India initiative aims to promote ease of doing business, foreign direct investment, and public-private partnerships in India, in order to boost economic growth and job creation."
+    },
+    {
+      "id": 26,
+      "category": "General Science",
+      "question": "What is the largest living structure on Earth?",
+      "options": [
+        "The Great Barrier Reef",
+        "The Amazon Rainforest",
+        "The Grand Canyon",
+        "The Great Wall of China"
+      ],
+      "correct": 0,
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
+    },
+    {
+      "id": 27,
+      "category": "Environment & Ecology",
+      "question": "Which of the following types of pollution is caused by the release of excess nutrients into waterways?",
+      "options": [
+        "Eutrophication",
+        "Acid Rain",
+        "Ozone Depletion",
+        "Climate Change"
+      ],
+      "correct": 0,
+      "explanation": "Eutrophication is a type of pollution caused by the release of excess nutrients, such as nitrogen and phosphorus, into waterways, which can lead to the growth of algae and deplete the oxygen in the water."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Which Indian state has the highest number of UNESCO World Heritage Sites?",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "correct": 2,
+      "explanation": "Rajasthan has the highest number of UNESCO World Heritage Sites in India, including the Jantar Mantar in Jaipur and the Hill Forts of Rajasthan."
+    },
+    {
+      "id": 29,
+      "category": "Indian History",
+      "question": "The ancient Indian emperor Chandragupta Maurya was born in which city?",
+      "options": [
+        "Pataliputra",
+        "Taxila",
+        "Ujjain",
+        "Bodh Gaya"
+      ],
+      "correct": 0,
+      "explanation": "Chandragupta Maurya was born in Pataliputra, which is now modern-day Patna, the capital of Bihar."
+    },
+    {
+      "id": 30,
+      "category": "Indian Geography",
+      "question": "Which of the following rivers flows through the city of Mumbai?",
+      "options": [
+        "Ganga",
+        "Brahmaputra",
+        "Mithi",
+        "Ulhas"
+      ],
+      "correct": 2,
+      "explanation": "The Mithi River flows through the city of Mumbai, and is a major source of water for the city."
+    },
+    {
+      "id": 31,
+      "category": "Indian Polity & Governance",
+      "question": "What is the term for the system of government in which power is divided between a central authority and regional authorities, with a president or monarch as head of state?",
+      "options": [
+        "Federalism",
+        "Confederalism",
+        "Parliamentary",
+        "Presidential"
+      ],
+      "correct": 0,
+      "explanation": "Federalism is a system of government in which power is divided between a central authority and regional authorities, with a president or monarch as head of state, and is characterized by a system of checks and balances."
+    },
+    {
+      "id": 32,
+      "category": "Indian Economy",
+      "question": "Which of the following is a key indicator of a country's economic development?",
+      "options": [
+        "GDP per capita",
+        "Inflation Rate",
+        "Unemployment Rate",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "GDP per capita, inflation rate, and unemployment rate are all key indicators of a country's economic development, and are used to assess the overall health and growth of an economy."
+    },
+    {
+      "id": 33,
+      "category": "General Science",
+      "question": "What is the process by which plants release water vapor into the air?",
       "options": [
         "Respiration",
         "Photosynthesis",
@@ -158,631 +431,358 @@
         "Evaporation"
       ],
       "correct": 2,
-      "explanation": "The process by which water moves through a plant, from the roots to the leaves, is called transpiration."
-    },
-    {
-      "id": 13,
-      "category": "Environment & Ecology",
-      "question": "What is the name of the largest national park in India?",
-      "options": [
-        "Hemis National Park",
-        "Kaziranga National Park",
-        "Sundarbans National Park",
-        "Gir Forest National Park"
-      ],
-      "correct": 0,
-      "explanation": "The largest national park in India is Hemis National Park, which is located in the state of Jammu and Kashmir."
-    },
-    {
-      "id": 14,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current President of the International Olympic Committee?",
-      "options": [
-        "Thomas Bach",
-        "Jacques Rogge",
-        "Juan Antonio Samaranch",
-        "Lamine Diack"
-      ],
-      "correct": 0,
-      "explanation": "The current President of the International Olympic Committee is Thomas Bach."
-    },
-    {
-      "id": 15,
-      "category": "Indian History",
-      "question": "Which ancient Indian dynasty built the city of Hampi?",
-      "options": [
-        "Vijayanagara",
-        "Hoysala",
-        "Chola",
-        "Pallava"
-      ],
-      "correct": 0,
-      "explanation": "The ancient Indian dynasty that built the city of Hampi was the Vijayanagara dynasty."
-    },
-    {
-      "id": 16,
-      "category": "Indian Geography",
-      "question": "What is the name of the highest mountain peak in the Western Ghats?",
-      "options": [
-        "Anamudi",
-        "Doddabetta",
-        "Mullayanagiri",
-        "Kudremukh"
-      ],
-      "correct": 0,
-      "explanation": "The highest mountain peak in the Western Ghats is Anamudi, which is located in the state of Kerala."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of assembly?",
-      "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
-      ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of assembly."
-    },
-    {
-      "id": 18,
-      "category": "Indian Economy",
-      "question": "What is the name of the government scheme launched to promote financial inclusion in India?",
-      "options": [
-        "Jan Dhan Yojana",
-        "Mudra Yojana",
-        "Stand-Up India",
-        "Atal Pension Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The government scheme launched to promote financial inclusion in India is Jan Dhan Yojana."
-    },
-    {
-      "id": 19,
-      "category": "General Science",
-      "question": "What is the process by which the human body converts food into energy?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Digestion",
-        "Fermentation"
-      ],
-      "correct": 0,
-      "explanation": "The process by which the human body converts food into energy is called respiration."
-    },
-    {
-      "id": 20,
-      "category": "Environment & Ecology",
-      "question": "What is the name of the international agreement aimed at reducing the use of ozone-depleting substances?",
-      "options": [
-        "Montreal Protocol",
-        "Kyoto Protocol",
-        "Paris Agreement",
-        "Copenhagen Accord"
-      ],
-      "correct": 0,
-      "explanation": "The international agreement aimed at reducing the use of ozone-depleting substances is the Montreal Protocol."
-    },
-    {
-      "id": 21,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current Prime Minister of India?",
-      "options": [
-        "Narendra Modi",
-        "Rahul Gandhi",
-        "Amit Shah",
-        "Arun Jaitley"
-      ],
-      "correct": 0,
-      "explanation": "The current Prime Minister of India is Narendra Modi."
-    },
-    {
-      "id": 22,
-      "category": "Indian History",
-      "question": "Which ancient Indian dynasty built the city of Fatehpur Sikri?",
-      "options": [
-        "Mughal",
-        "Sultanate",
-        "Vijayanagara",
-        "Gupta"
-      ],
-      "correct": 0,
-      "explanation": "The ancient Indian dynasty that built the city of Fatehpur Sikri was the Mughal dynasty."
-    },
-    {
-      "id": 23,
-      "category": "Indian Geography",
-      "question": "What is the name of the largest lake in India?",
-      "options": [
-        "Vullar Lake",
-        "Dal Lake",
-        "Chilka Lake",
-        "Pulicat Lake"
-      ],
-      "correct": 0,
-      "explanation": "The largest lake in India is Vullar Lake, which is located in the state of Jammu and Kashmir."
-    },
-    {
-      "id": 24,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of the press?",
-      "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
-      ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of the press."
-    },
-    {
-      "id": 25,
-      "category": "Indian Economy",
-      "question": "What is the name of the government scheme launched to promote skill development in India?",
-      "options": [
-        "Skill India",
-        "Make in India",
-        "Digital India",
-        "Start-Up India"
-      ],
-      "correct": 0,
-      "explanation": "The government scheme launched to promote skill development in India is Skill India."
-    },
-    {
-      "id": 26,
-      "category": "General Science",
-      "question": "What is the process by which the Earth's plates move?",
-      "options": [
-        "Continental drift",
-        "Plate tectonics",
-        "Weathering",
-        "Erosion"
-      ],
-      "correct": 1,
-      "explanation": "The process by which the Earth's plates move is called plate tectonics."
-    },
-    {
-      "id": 27,
-      "category": "Environment & Ecology",
-      "question": "What is the name of the largest wildlife sanctuary in India?",
-      "options": [
-        "Periyar Wildlife Sanctuary",
-        "Kaziranga Wildlife Sanctuary",
-        "Sundarbans Wildlife Sanctuary",
-        "Gir Wildlife Sanctuary"
-      ],
-      "correct": 0,
-      "explanation": "The largest wildlife sanctuary in India is Periyar Wildlife Sanctuary, which is located in the state of Kerala."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current President of India?",
-      "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "Pratibha Patil"
-      ],
-      "correct": 0,
-      "explanation": "The current President of India is Droupadi Murmu."
-    },
-    {
-      "id": 29,
-      "category": "Indian History",
-      "question": "Which ancient Indian dynasty built the city of Ayodhya?",
-      "options": [
-        "Mauryan",
-        "Gupta",
-        "Vijayanagara",
-        "Mughal"
-      ],
-      "correct": 0,
-      "explanation": "The ancient Indian dynasty that built the city of Ayodhya was the Mauryan dynasty."
-    },
-    {
-      "id": 30,
-      "category": "Indian Geography",
-      "question": "What is the name of the highest mountain peak in the Himalayas?",
-      "options": [
-        "Mount Everest",
-        "K2",
-        "Kangchenjunga",
-        "Nanda Devi"
-      ],
-      "correct": 0,
-      "explanation": "The highest mountain peak in the Himalayas is Mount Everest, which is located on the border of India and Nepal."
-    },
-    {
-      "id": 31,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to education?",
-      "options": [
-        "Article 21A",
-        "Article 21B",
-        "Article 22",
-        "Article 23"
-      ],
-      "correct": 0,
-      "explanation": "Article 21A of the Indian Constitution deals with the right to education."
-    },
-    {
-      "id": 32,
-      "category": "Indian Economy",
-      "question": "What is the name of the government scheme launched to promote rural development in India?",
-      "options": [
-        "Mahatma Gandhi National Rural Employment Guarantee Act",
-        "Pradhan Mantri Gram Sadak Yojana",
-        "Deen Dayal Upadhyaya Antyodaya Yojana",
-        "Swachh Bharat Abhiyan"
-      ],
-      "correct": 0,
-      "explanation": "The government scheme launched to promote rural development in India is Mahatma Gandhi National Rural Employment Guarantee Act."
-    },
-    {
-      "id": 33,
-      "category": "General Science",
-      "question": "What is the process by which the human body regulates its temperature?",
-      "options": [
-        "Homeostasis",
-        "Thermoregulation",
-        "Respiration",
-        "Photosynthesis"
-      ],
-      "correct": 1,
-      "explanation": "The process by which the human body regulates its temperature is called thermoregulation."
+      "explanation": "Transpiration is the process by which plants release water vapor into the air, primarily through their leaves, and is an important part of the water cycle."
     },
     {
       "id": 34,
       "category": "Environment & Ecology",
-      "question": "What is the name of the largest coral reef system in the world?",
+      "question": "Which of the following types of ecosystems is characterized by a cold and treeless environment?",
       "options": [
-        "Great Barrier Reef",
-        "Red Sea Coral Reef",
-        "New Caledonia Barrier Reef",
-        "Belize Barrier Reef"
+        "Desert",
+        "Grassland",
+        "Tundra",
+        "Alpine"
       ],
-      "correct": 0,
-      "explanation": "The largest coral reef system in the world is the Great Barrier Reef, which is located off the coast of Australia."
+      "correct": 2,
+      "explanation": "Tundra ecosystems are characterized by a cold and treeless environment, and are found in Arctic and sub-Arctic regions around the world."
     },
     {
       "id": 35,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current Chief Justice of India?",
+      "question": "Which Indian city is known as the 'Pink City'?",
       "options": [
-        "Dhananjaya Y. Chandrachud",
-        "N.V. Ramana",
-        "Sharad Arvind Bobde",
-        "Ranjan Gogoi"
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Bikaner"
       ],
       "correct": 0,
-      "explanation": "The current Chief Justice of India is Dhananjaya Y. Chandrachud."
+      "explanation": "Jaipur is known as the 'Pink City' due to the pink-colored buildings and structures that are characteristic of the city's architecture."
     },
     {
       "id": 36,
       "category": "Indian History",
-      "question": "Which ancient Indian dynasty built the city of Thanjavur?",
+      "question": "The ancient Indian kingdom of Chola was located in which modern-day state?",
       "options": [
-        "Chola",
-        "Pallava",
-        "Pandya",
-        "Vijayanagara"
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka",
+        "Andhra Pradesh"
       ],
       "correct": 0,
-      "explanation": "The ancient Indian dynasty that built the city of Thanjavur was the Chola dynasty."
+      "explanation": "The ancient Indian kingdom of Chola was located in the modern-day state of Tamil Nadu, and was a major power in southern India during the 9th to 13th centuries CE."
     },
     {
       "id": 37,
       "category": "Indian Geography",
-      "question": "What is the name of the largest river delta in India?",
+      "question": "Which of the following rivers flows through the city of Ahmedabad?",
       "options": [
-        "Ganges-Brahmaputra Delta",
-        "Mahanadi Delta",
-        "Godavari Delta",
-        "Krishna-Godavari Delta"
+        "Sabarmati",
+        "Narmada",
+        "Tapi",
+        "Mahi"
       ],
       "correct": 0,
-      "explanation": "The largest river delta in India is the Ganges-Brahmaputra Delta, which is located in the state of West Bengal."
+      "explanation": "The Sabarmati River flows through the city of Ahmedabad, and is a major source of water for the city."
     },
     {
       "id": 38,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of conscience and free profession, practice and propagation of religion?",
+      "question": "What is the term for the system of government in which power is held by a single person or group, often without checks and balances?",
       "options": [
-        "Article 25",
-        "Article 26",
-        "Article 27",
-        "Article 28"
+        "Autocracy",
+        "Democracy",
+        "Oligarchy",
+        "Theocracy"
       ],
       "correct": 0,
-      "explanation": "Article 25 of the Indian Constitution deals with the right to freedom of conscience and free profession, practice and propagation of religion."
+      "explanation": "An autocracy is a system of government in which power is held by a single person or group, often without checks and balances, and is characterized by a lack of accountability and transparency."
     },
     {
       "id": 39,
       "category": "Indian Economy",
-      "question": "What is the name of the government scheme launched to promote financial inclusion in India?",
+      "question": "Which of the following is a key component of the Indian government's Digital India initiative?",
       "options": [
-        "Jan Dhan Yojana",
-        "Mudra Yojana",
-        "Stand-Up India",
-        "Atal Pension Yojana"
+        "Broadband Infrastructure",
+        "Digital Literacy",
+        "E-Governance",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The government scheme launched to promote financial inclusion in India is Jan Dhan Yojana."
+      "correct": 3,
+      "explanation": "The Digital India initiative aims to promote broadband infrastructure, digital literacy, and e-governance in India, in order to boost economic growth and improve the delivery of public services."
     },
     {
       "id": 40,
       "category": "General Science",
-      "question": "What is the process by which the Earth's atmosphere retains heat?",
+      "question": "What is the largest mammal on Earth?",
       "options": [
-        "Greenhouse effect",
-        "Ozone layer depletion",
-        "Acid rain",
-        "Climate change"
+        "Blue Whale",
+        "Fin Whale",
+        "Humpback Whale",
+        "Sperm Whale"
       ],
       "correct": 0,
-      "explanation": "The process by which the Earth's atmosphere retains heat is called the greenhouse effect."
+      "explanation": "The blue whale is the largest mammal on Earth, with some individuals reaching lengths of up to 30 meters and weighing up to 180 metric tons."
     },
     {
       "id": 41,
       "category": "Environment & Ecology",
-      "question": "What is the name of the largest national park in the world?",
+      "question": "Which of the following types of pollution is caused by the release of chemicals and heavy metals into the environment?",
       "options": [
-        "Northeast Greenland National Park",
-        "Yellowstone National Park",
-        "Yosemite National Park",
-        "Kakadu National Park"
+        "Air Pollution",
+        "Water Pollution",
+        "Soil Pollution",
+        "Chemical Pollution"
       ],
-      "correct": 0,
-      "explanation": "The largest national park in the world is Northeast Greenland National Park, which is located in Greenland."
+      "correct": 3,
+      "explanation": "Chemical pollution is caused by the release of chemicals and heavy metals into the environment, which can have negative impacts on human health and the environment."
     },
     {
       "id": 42,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current Vice President of India?",
+      "question": "Which Indian state has the highest number of national parks?",
       "options": [
-        "Jagdeep Dhankhar",
-        "M. Venkaiah Naidu",
-        "Mohammad Hamid Ansari",
-        "Bhairon Singh Shekhawat"
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Gujarat",
+        "Assam"
       ],
       "correct": 0,
-      "explanation": "The current Vice President of India is Jagdeep Dhankhar."
+      "explanation": "Madhya Pradesh has the highest number of national parks in India, with a total of nine parks, including the famous Kanha and Bandhavgarh national parks."
     },
     {
       "id": 43,
       "category": "Indian History",
-      "question": "Which ancient Indian dynasty built the city of Warangal?",
+      "question": "The Battle of Panipat was fought in which year?",
       "options": [
-        "Kakatiya",
-        "Hoysala",
-        "Vijayanagara",
-        "Gupta"
+        "1526",
+        "1556",
+        "1761",
+        "1799"
       ],
-      "correct": 0,
-      "explanation": "The ancient Indian dynasty that built the city of Warangal was the Kakatiya dynasty."
+      "correct": 2,
+      "explanation": "The Battle of Panipat was fought in 1761, and was a major conflict between the Maratha Empire and the Durrani Empire."
     },
     {
       "id": 44,
       "category": "Indian Geography",
-      "question": "What is the name of the highest mountain peak in the Nilgiri Hills?",
+      "question": "Which of the following rivers flows through the city of Kolkata?",
       "options": [
-        "Doddabetta",
-        "Mullayanagiri",
-        "Anamudi",
-        "Kudremukh"
+        "Ganga",
+        "Brahmaputra",
+        "Hooghly",
+        "Damodar"
       ],
-      "correct": 0,
-      "explanation": "The highest mountain peak in the Nilgiri Hills is Doddabetta, which is located in the state of Tamil Nadu."
+      "correct": 2,
+      "explanation": "The Hooghly River flows through the city of Kolkata, and is a major tributary of the Ganga River."
     },
     {
       "id": 45,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to equality before the law?",
+      "question": "What is the term for the system of government in which power is divided between a central authority and regional authorities, with a president or monarch as head of state?",
       "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
+        "Federalism",
+        "Confederalism",
+        "Parliamentary",
+        "Presidential"
       ],
       "correct": 0,
-      "explanation": "Article 14 of the Indian Constitution deals with the right to equality before the law."
+      "explanation": "Federalism is a system of government in which power is divided between a central authority and regional authorities, with a president or monarch as head of state, and is characterized by a system of checks and balances."
     },
     {
       "id": 46,
       "category": "Indian Economy",
-      "question": "What is the name of the government scheme launched to promote urban development in India?",
+      "question": "Which of the following is a key indicator of a country's economic development?",
       "options": [
-        "Smart Cities Mission",
-        "Atal Mission for Rejuvenation and Urban Transformation",
-        "Pradhan Mantri Awas Yojana",
-        "Deen Dayal Upadhyaya Antyodaya Yojana"
+        "GDP per capita",
+        "Inflation Rate",
+        "Unemployment Rate",
+        "Human Development Index"
       ],
-      "correct": 1,
-      "explanation": "The government scheme launched to promote urban development in India is Atal Mission for Rejuvenation and Urban Transformation."
+      "correct": 3,
+      "explanation": "The Human Development Index (HDI) is a key indicator of a country's economic development, and takes into account factors such as life expectancy, education, and income."
     },
     {
       "id": 47,
       "category": "General Science",
-      "question": "What is the process by which the human body maintains its internal environment?",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
       "options": [
-        "Homeostasis",
-        "Thermoregulation",
         "Respiration",
-        "Photosynthesis"
+        "Photosynthesis",
+        "Transpiration",
+        "Osmosis"
       ],
-      "correct": 0,
-      "explanation": "The process by which the human body maintains its internal environment is called homeostasis."
+      "correct": 2,
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is an important part of the water cycle."
     },
     {
       "id": 48,
       "category": "Environment & Ecology",
-      "question": "What is the name of the largest mangrove forest in the world?",
+      "question": "Which of the following types of ecosystems is characterized by a hot and dry environment?",
       "options": [
-        "Sundarbans",
-        "Mangrove Forest of the Amazon",
-        "Mangrove Forest of the Congo",
-        "Mangrove Forest of the Mekong"
+        "Desert",
+        "Grassland",
+        "Tundra",
+        "Alpine"
       ],
       "correct": 0,
-      "explanation": "The largest mangrove forest in the world is the Sundarbans, which is located in the states of West Bengal and Bangladesh."
+      "explanation": "Desert ecosystems are characterized by a hot and dry environment, and are found in regions with low rainfall and high temperatures."
     },
     {
       "id": 49,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current Governor of the Reserve Bank of India?",
+      "question": "Which Indian city is known as the 'City of Lakes'?",
       "options": [
-        "Shaktikanta Das",
-        "Urjit Patel",
-        "Raghuram Rajan",
-        "D. Subbarao"
+        "Udaipur",
+        "Bikaner",
+        "Jodhpur",
+        "Jaipur"
       ],
       "correct": 0,
-      "explanation": "The current Governor of the Reserve Bank of India is Shaktikanta Das."
+      "explanation": "Udaipur is known as the 'City of Lakes' due to its numerous lakes and water bodies, including Lake Pichola and Lake Fateh Sagar."
     },
     {
       "id": 50,
       "category": "Indian History",
-      "question": "Which ancient Indian dynasty built the city of Mysore?",
+      "question": "The ancient Indian kingdom of Pallava was located in which modern-day state?",
       "options": [
-        "Wodeyar",
-        "Hoysala",
-        "Vijayanagara",
-        "Gupta"
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka",
+        "Andhra Pradesh"
       ],
       "correct": 0,
-      "explanation": "The ancient Indian dynasty that built the city of Mysore was the Wodeyar dynasty."
+      "explanation": "The ancient Indian kingdom of Pallava was located in the modern-day state of Tamil Nadu, and was a major power in southern India during the 6th to 9th centuries CE."
     },
     {
       "id": 51,
       "category": "Indian Geography",
-      "question": "What is the name of the largest island in the Andaman and Nicobar Islands?",
+      "question": "Which of the following rivers flows through the city of Hyderabad?",
       "options": [
-        "Andaman Island",
-        "Nicobar Island",
-        "Little Andaman",
-        "Great Nicobar"
+        "Godavari",
+        "Krishna",
+        "Musi",
+        "Tungabhadra"
       ],
-      "correct": 0,
-      "explanation": "The largest island in the Andaman and Nicobar Islands is Andaman Island, which is located in the Bay of Bengal."
+      "correct": 2,
+      "explanation": "The Musi River flows through the city of Hyderabad, and is a major tributary of the Krishna River."
     },
     {
       "id": 52,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to protection of life and personal liberty?",
+      "question": "What is the term for the system of government in which power is divided between a central authority and regional authorities, with a parliamentary system of government?",
       "options": [
-        "Article 20",
-        "Article 21",
-        "Article 22",
-        "Article 23"
+        "Federalism",
+        "Confederalism",
+        "Parliamentary",
+        "Presidential"
       ],
-      "correct": 1,
-      "explanation": "Article 21 of the Indian Constitution deals with the right to protection of life and personal liberty."
+      "correct": 2,
+      "explanation": "A parliamentary system of government is a system in which power is divided between a central authority and regional authorities, with a prime minister or premier as head of government, and is characterized by a system of checks and balances."
     },
     {
       "id": 53,
       "category": "Indian Economy",
-      "question": "What is the name of the government scheme launched to promote rural entrepreneurship in India?",
+      "question": "Which of the following is a key component of the Indian government's Start-Up India initiative?",
       "options": [
-        "Deen Dayal Upadhyaya Antyodaya Yojana",
-        "Mahatma Gandhi National Rural Employment Guarantee Act",
-        "Pradhan Mantri Gram Sadak Yojana",
-        "Swachh Bharat Abhiyan"
+        "Funding Support",
+        "Tax Exemptions",
+        "Regulatory Simplification",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The government scheme launched to promote rural entrepreneurship in India is Deen Dayal Upadhyaya Antyodaya Yojana."
+      "correct": 3,
+      "explanation": "The Start-Up India initiative aims to promote funding support, tax exemptions, and regulatory simplification for start-ups in India, in order to boost entrepreneurship and job creation."
     },
     {
       "id": 54,
       "category": "General Science",
-      "question": "What is the process by which the Earth's atmosphere is protected from harmful radiation?",
+      "question": "What is the largest living structure on Earth, according to the Guinness World Records?",
       "options": [
-        "Ozone layer",
-        "Greenhouse effect",
-        "Thermoregulation",
-        "Homeostasis"
+        "The Great Barrier Reef",
+        "The Amazon Rainforest",
+        "The Grand Canyon",
+        "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The process by which the Earth's atmosphere is protected from harmful radiation is called the ozone layer."
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia, and is composed of more than 2,900 individual reefs and 900 islands."
     },
     {
       "id": 55,
       "category": "Environment & Ecology",
-      "question": "What is the name of the largest wetland in the world?",
+      "question": "Which of the following types of pollution is caused by the release of excess noise into the environment?",
       "options": [
-        "Sundarbans",
-        "Mangrove Forest of the Amazon",
-        "Pantanal",
-        "Caspian Sea"
+        "Air Pollution",
+        "Water Pollution",
+        "Soil Pollution",
+        "Noise Pollution"
       ],
-      "correct": 2,
-      "explanation": "The largest wetland in the world is the Pantanal, which is located in South America."
+      "correct": 3,
+      "explanation": "Noise pollution is caused by the release of excess noise into the environment, which can have negative impacts on human health and the environment, including hearing loss and disruption of natural habitats."
     },
     {
       "id": 56,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current Chairman of the Indian Space Research Organisation?",
+      "question": "Which Indian city is known as the 'City of Pearls'?",
       "options": [
-        "S. Somanath",
-        "K. Sivan",
-        "A.S. Kiran Kumar",
-        "G. Madhavan Nair"
+        "Hyderabad",
+        "Mumbai",
+        "Chennai",
+        "Kolkata"
       ],
       "correct": 0,
-      "explanation": "The current Chairman of the Indian Space Research Organisation is S. Somanath."
+      "explanation": "Hyderabad is known as the 'City of Pearls' due to its historical association with the pearl trade, and is a major center for the gem and jewelry industry in India."
     },
     {
       "id": 57,
       "category": "Indian History",
-      "question": "Which ancient Indian dynasty built the city of Bhubaneswar?",
+      "question": "The ancient Indian kingdom of Chera was located in which modern-day state?",
       "options": [
-        "Kalinga",
-        "Mauryan",
-        "Gupta",
-        "Vijayanagara"
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
       ],
       "correct": 0,
-      "explanation": "The ancient Indian dynasty that built the city of Bhubaneswar was the Kalinga dynasty."
+      "explanation": "The ancient Indian kingdom of Chera was located in the modern-day state of Kerala, and was a major power in southern India during the 3rd century BCE to the 12th century CE."
     },
     {
       "id": 58,
       "category": "Indian Geography",
-      "question": "What is the name of the highest mountain peak in the Garhwal Himalayas?",
+      "question": "Which of the following rivers flows through the city of Bhopal?",
       "options": [
-        "Nanda Devi",
-        "Kamet",
-        "Trisul",
-        "Shivling"
+        "Narmada",
+        "Tapi",
+        "Bhima",
+        "Betwa"
       ],
-      "correct": 0,
-      "explanation": "The highest mountain peak in the Garhwal Himalayas is Nanda Devi, which is located in the state of Uttarakhand."
+      "correct": 3,
+      "explanation": "The Betwa River flows through the city of Bhopal, and is a major tributary of the Yamuna River."
     },
     {
       "id": 59,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to protection against arrest and detention?",
+      "question": "What is the term for the system of government in which power is divided between a central authority and regional authorities, with a system of checks and balances?",
       "options": [
-        "Article 21",
-        "Article 22",
-        "Article 23",
-        "Article 24"
+        "Federalism",
+        "Confederalism",
+        "Parliamentary",
+        "Presidential"
       ],
-      "correct": 1,
-      "explanation": "Article 22 of the Indian Constitution deals with the right to protection against arrest and detention."
+      "correct": 0,
+      "explanation": "Federalism is a system of government in which power is divided between a central authority and regional authorities, with a system of checks and balances, and is characterized by a division of power between the central government and the states."
     },
     {
       "id": 60,
-      "category": "General Science",
-      "question": "What is the process by which the human body regulates its blood sugar levels?",
+      "category": "Indian Economy",
+      "question": "Which of the following is a key component of the Indian government's Skill India initiative?",
       "options": [
-        "Homeostasis",
-        "Thermoregulation",
-        "Respiration",
-        "Glycogenesis"
+        "Vocational Training",
+        "Apprenticeships",
+        "Entrepreneurship Development",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The process by which the human body regulates its blood sugar levels is called homeostasis."
+      "correct": 3,
+      "explanation": "The Skill India initiative aims to promote vocational training, apprenticeships, and entrepreneurship development in India, in order to boost employability and economic growth."
     }
   ]
 }
