@@ -1,34 +1,34 @@
 {
   "exam": "ssb",
   "name": "SSB",
-  "date": "2026-03-25",
+  "date": "2026-03-27",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'India After Gandhi'?",
+      "question": "Who is the author of the book 'The Lives of Others'?",
       "options": [
-        "Ramachandra Guha",
         "Amitav Ghosh",
+        "Neel Mukherjee",
         "Arundhati Roy",
-        "Salman Rushdie"
+        "Vikram Seth"
       ],
-      "correct": 0,
-      "explanation": "Ramachandra Guha is an Indian historian and economist. His book 'India After Gandhi' is a comprehensive account of the history of India from the time of independence in 1947 to the present day."
+      "correct": 1,
+      "explanation": "The book 'The Lives of Others' is written by Neel Mukherjee, an Indian author. The book is about the story of an Indian family and explores the complexities of human relationships."
     },
     {
       "id": 2,
       "category": "Indian History & Freedom Struggle",
-      "question": "The Quit India Movement was launched by Mahatma Gandhi in the year?",
+      "question": "Which freedom fighter was known for his slogan 'Jai Hind'?",
       "options": [
-        "1942",
-        "1945",
-        "1947",
-        "1950"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "The Quit India Movement was launched by Mahatma Gandhi on August 8, 1942, during the British rule in India. The movement was a call for mass protests and civil disobedience against the British government, with the demand for immediate independence."
+      "explanation": "Subhas Chandra Bose, also known as Netaji, was a prominent Indian nationalist and freedom fighter. He is known for his famous slogan 'Jai Hind', which means 'Victory to India'."
     },
     {
       "id": 3,
@@ -41,116 +41,51 @@
         "7 years"
       ],
       "correct": 1,
-      "explanation": "The President of India is elected for a term of 5 years. The President is the head of state and the supreme commander of the armed forces of India."
+      "explanation": "The term of the President of India is 5 years, as per Article 56 of the Indian Constitution. The President can serve a maximum of two terms, with each term lasting 5 years."
     },
     {
       "id": 4,
-      "category": "Geography",
-      "question": "The highest mountain peak in India is?",
+      "category": "General Awareness & GK",
+      "question": "What is the national animal of India?",
       "options": [
-        "Kanchenjunga",
-        "Mount Everest",
-        "Nanda Devi",
-        "Kamet"
+        "Tiger",
+        "Lion",
+        "Elephant",
+        "Monkey"
       ],
       "correct": 0,
-      "explanation": "Kanchenjunga is the highest mountain peak in India, located in the state of Sikkim. It is the third-highest mountain peak in the world, with an elevation of 8586 meters above sea level."
+      "explanation": "The national animal of India is the Bengal Tiger. It is found in various parts of the country and is considered a symbol of power and strength."
     },
     {
       "id": 5,
-      "category": "General Science",
-      "question": "The process by which plants make their own food is called?",
+      "category": "Geography",
+      "question": "Which river flows through the city of Varanasi?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
+        "Ganga",
+        "Yamuna",
+        "Brahmaputra",
+        "Narmada"
       ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of glucose. This process is essential for the survival of most living organisms on Earth."
+      "correct": 0,
+      "explanation": "The Ganga River flows through the city of Varanasi, which is considered one of the holiest cities in India. The Ganga is the longest river in India and is a significant cultural and spiritual symbol."
     },
     {
       "id": 6,
-      "category": "Defense & Security Knowledge",
-      "question": "The Indian Army's special forces unit is called?",
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the first woman to become the President of the Indian National Congress?",
       "options": [
-        "NSG",
-        "SPG",
-        "MARCOs",
-        "Para SF"
+        "Sarojini Naidu",
+        "Annie Besant",
+        "Indira Gandhi",
+        "Kamaladevi Chattopadhyay"
       ],
-      "correct": 3,
-      "explanation": "The Para SF, also known as the Parachute Regiment Special Forces, is an elite special forces unit of the Indian Army. The unit is trained to conduct unconventional warfare, direct action, and special reconnaissance missions behind enemy lines."
+      "correct": 0,
+      "explanation": "Sarojini Naidu was the first woman to become the President of the Indian National Congress. She was a prominent Indian nationalist and freedom fighter, and played a significant role in the Indian independence movement."
     },
     {
       "id": 7,
-      "category": "Current Affairs",
-      "question": "The Indian government has launched a program to provide financial assistance to farmers, known as?",
-      "options": [
-        "PM Kisan",
-        "PM Awas Yojana",
-        "PM Jan Dhan Yojana",
-        "PM Ujjwala Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The PM Kisan program, also known as the Pradhan Mantri Kisan Samman Nidhi, is a scheme launched by the Indian government to provide financial assistance to farmers. The program aims to provide income support to small and marginal farmers, with a payment of Rs. 6000 per year in three installments."
-    },
-    {
-      "id": 8,
-      "category": "General Awareness & GK",
-      "question": "The national animal of India is?",
-      "options": [
-        "Lion",
-        "Tiger",
-        "Elephant",
-        "Peacock"
-      ],
-      "correct": 1,
-      "explanation": "The tiger is the national animal of India. It is a symbol of strength, courage, and beauty, and is an important part of Indian culture and heritage."
-    },
-    {
-      "id": 9,
-      "category": "Indian History & Freedom Struggle",
-      "question": "The Indian National Congress was founded in the year?",
-      "options": [
-        "1884",
-        "1885",
-        "1886",
-        "1887"
-      ],
-      "correct": 1,
-      "explanation": "The Indian National Congress was founded on December 28, 1885, by Allan Octavian Hume, a British civil servant. The organization played a crucial role in the Indian independence movement, and is still one of the major political parties in India today."
-    },
-    {
-      "id": 10,
-      "category": "Indian Polity & Constitution",
-      "question": "The Supreme Court of India has a strength of?",
-      "options": [
-        "21 judges",
-        "25 judges",
-        "31 judges",
-        "34 judges"
-      ],
-      "correct": 2,
-      "explanation": "The Supreme Court of India has a sanctioned strength of 34 judges, including the Chief Justice of India. The court is the highest judicial authority in India, and has the power to interpret the Constitution and laws of the land."
-    },
-    {
-      "id": 11,
-      "category": "Geography",
-      "question": "The longest river in India is?",
-      "options": [
-        "Ganga",
-        "Brahmaputra",
-        "Indus",
-        "Godavari"
-      ],
-      "correct": 0,
-      "explanation": "The Ganga is the longest river in India, stretching for approximately 2525 kilometers from its source in the Himalayas to its mouth in the Bay of Bengal. The river is considered sacred in Hinduism, and is a vital source of water and livelihood for millions of people in India."
-    },
-    {
-      "id": 12,
       "category": "General Science",
-      "question": "The largest planet in our solar system is?",
+      "question": "What is the largest planet in our solar system?",
       "options": [
         "Earth",
         "Saturn",
@@ -158,181 +93,207 @@
         "Uranus"
       ],
       "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142984 kilometers. The planet is a gas giant, composed mainly of hydrogen and helium, and is known for its distinctive banded appearance and massive storms."
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers. It is a gas giant and is known for its distinctive banded appearance."
+    },
+    {
+      "id": 8,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian Army's special forces unit?",
+      "options": [
+        "NSG",
+        "MARCOS",
+        "Ghatak",
+        "Para SF"
+      ],
+      "correct": 3,
+      "explanation": "The Para SF, also known as the Parachute Regiment Special Forces, is the Indian Army's special forces unit. It is trained to conduct high-risk missions, including counter-terrorism and special operations."
+    },
+    {
+      "id": 9,
+      "category": "Current Affairs",
+      "question": "Who is the current Chief Minister of the state of Uttar Pradesh?",
+      "options": [
+        "Yogi Adityanath",
+        "Akhilesh Yadav",
+        "Mayawati",
+        "Mulayam Singh Yadav"
+      ],
+      "correct": 0,
+      "explanation": "Yogi Adityanath is the current Chief Minister of the state of Uttar Pradesh. He is a member of the Bharatiya Janata Party (BJP) and has been in office since 2017."
+    },
+    {
+      "id": 10,
+      "category": "General Awareness & GK",
+      "question": "Which Indian state is known as 'God's Own Country'?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "correct": 0,
+      "explanation": "Kerala is known as 'God's Own Country' due to its natural beauty, rich culture, and high standard of living. It is a popular tourist destination and is known for its backwaters, beaches, and hill stations."
+    },
+    {
+      "id": 11,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the constitutional provision that guarantees the right to freedom of speech and expression?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 25"
+      ],
+      "correct": 1,
+      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression. This article is a fundamental right and is considered essential for the functioning of a democratic society."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which mountain range runs along the border between India and Pakistan?",
+      "options": [
+        "Karakoram",
+        "Himalayas",
+        "Aravalli",
+        "Vindhya"
+      ],
+      "correct": 0,
+      "explanation": "The Karakoram mountain range runs along the border between India and Pakistan. It is a part of the larger Himalayan mountain range and is known for its rugged terrain and high peaks."
     },
     {
       "id": 13,
-      "category": "Defense & Security Knowledge",
-      "question": "The Indian Navy's submarine base is located at?",
+      "category": "General Awareness & GK",
+      "question": "Who is the author of the book 'A Suitable Boy'?",
       "options": [
-        "Mumbai",
-        "Visakhapatnam",
-        "Chennai",
-        "Kochi"
+        "Vikram Seth",
+        "Amitav Ghosh",
+        "Arundhati Roy",
+        "Salman Rushdie"
       ],
-      "correct": 1,
-      "explanation": "The Indian Navy's submarine base, known as INS Virbahu, is located at Visakhapatnam, Andhra Pradesh. The base is home to several Indian Navy submarines, and provides support and maintenance facilities for these vessels."
+      "correct": 0,
+      "explanation": "Vikram Seth is the author of the book 'A Suitable Boy'. The book is a novel that explores the complexities of Indian society and culture, and is considered one of the most important works of Indian literature."
     },
     {
       "id": 14,
-      "category": "Current Affairs",
-      "question": "The Indian government has launched a program to provide housing for all, known as?",
-      "options": [
-        "PM Awas Yojana",
-        "PM Kisan",
-        "PM Jan Dhan Yojana",
-        "PM Ujjwala Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The PM Awas Yojana, also known as the Pradhan Mantri Awas Yojana, is a scheme launched by the Indian government to provide affordable housing for all. The program aims to provide financial assistance to low-income households to purchase or construct a house, with a target of providing housing for all by 2022."
-    },
-    {
-      "id": 15,
-      "category": "General Awareness & GK",
-      "question": "The national bird of India is?",
-      "options": [
-        "Peacock",
-        "Sparrow",
-        "Parrot",
-        "Pigeon"
-      ],
-      "correct": 0,
-      "explanation": "The peacock is the national bird of India. It is a symbol of beauty, grace, and pride, and is an important part of Indian culture and heritage."
-    },
-    {
-      "id": 16,
       "category": "Indian History & Freedom Struggle",
-      "question": "The Indian independence movement was led by?",
+      "question": "Who was the leader of the Indian National Congress during the Non-Cooperation Movement?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
         "Subhas Chandra Bose",
-        "Bhagat Singh"
+        "Lala Lajpat Rai"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi was a key leader of the Indian independence movement, and is widely regarded as the 'Father of the Nation'. He led the movement through non-violent resistance and civil disobedience, and played a crucial role in achieving Indian independence from British rule."
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Non-Cooperation Movement. The movement was launched in 1920 and was a major part of the Indian independence struggle."
     },
     {
-      "id": 17,
-      "category": "Indian Polity & Constitution",
-      "question": "The Constitution of India was adopted on?",
-      "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "December 25, 1925",
-        "November 26, 1949"
-      ],
-      "correct": 3,
-      "explanation": "The Constitution of India was adopted on November 26, 1949, by the Constituent Assembly of India. The Constitution came into effect on January 26, 1950, and is the supreme law of the land."
-    },
-    {
-      "id": 18,
-      "category": "Geography",
-      "question": "The capital of India is?",
-      "options": [
-        "Mumbai",
-        "Delhi",
-        "Kolkata",
-        "Chennai"
-      ],
-      "correct": 1,
-      "explanation": "Delhi is the capital of India, and is a union territory located in the northern part of the country. The city is home to several important landmarks, including the Red Fort, the Qutub Minar, and the India Gate."
-    },
-    {
-      "id": 19,
+      "id": 15,
       "category": "General Science",
-      "question": "The process by which water moves through a plant, from the roots to the leaves, is called?",
+      "question": "What is the process by which plants convert sunlight into energy?",
       "options": [
         "Respiration",
         "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
+        "Decomposition",
+        "Fermentation"
       ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor. This process is an important part of the water cycle, and helps to regulate the Earth's climate."
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants convert sunlight into energy. It is an essential process that occurs in plants, algae, and some bacteria, and is the basis of life on Earth."
+    },
+    {
+      "id": 16,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian Navy's submarine rescue unit?",
+      "options": [
+        "INWS",
+        "DSS",
+        "INM",
+        "IMRF"
+      ],
+      "correct": 3,
+      "explanation": "The Indian Navy's submarine rescue unit is known as the Indian Marine Rescue Force (IMRF). The IMRF is responsible for providing rescue services to submarines in distress, and is equipped with specialized equipment and trained personnel."
+    },
+    {
+      "id": 17,
+      "category": "Current Affairs",
+      "question": "What is the name of the Indian government's flagship program to promote digital payments?",
+      "options": [
+        "Digital India",
+        "Make in India",
+        "Skill India",
+        "BHIM"
+      ],
+      "correct": 0,
+      "explanation": "Digital India is the Indian government's flagship program to promote digital payments and improve digital infrastructure. The program aims to promote the use of digital technologies and improve access to government services."
+    },
+    {
+      "id": 18,
+      "category": "General Awareness & GK",
+      "question": "Who is the author of the book 'The Namesake'?",
+      "options": [
+        "Jhumpa Lahiri",
+        "Amitav Ghosh",
+        "Arundhati Roy",
+        "Salman Rushdie"
+      ],
+      "correct": 0,
+      "explanation": "Jhumpa Lahiri is the author of the book 'The Namesake'. The book is a novel that explores the experiences of Indian immigrants in the United States, and is considered one of the most important works of Indian-American literature."
+    },
+    {
+      "id": 19,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the constitutional provision that guarantees the right to equality?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "correct": 0,
+      "explanation": "Article 14 of the Indian Constitution guarantees the right to equality. This article is a fundamental right and is considered essential for the functioning of a democratic society."
     },
     {
       "id": 20,
-      "category": "Defense & Security Knowledge",
-      "question": "The Indian Air Force's combat aircraft is?",
+      "category": "Geography",
+      "question": "Which river is the longest in the state of Maharashtra?",
       "options": [
-        "Tejas",
-        "Su-30MKI",
-        "Rafale",
-        "MiG-21"
+        "Godavari",
+        "Krishna",
+        "Bhima",
+        "Tapi"
       ],
-      "correct": 1,
-      "explanation": "The Su-30MKI is a combat aircraft used by the Indian Air Force. The aircraft is a variant of the Russian Su-30, and is equipped with advanced avionics and weapons systems. The Su-30MKI is used for air superiority and ground attack missions."
+      "correct": 0,
+      "explanation": "The Godavari River is the longest in the state of Maharashtra. It is one of the major rivers in India and flows through several states, including Maharashtra, Telangana, and Andhra Pradesh."
     },
     {
       "id": 21,
-      "category": "Current Affairs",
-      "question": "The Indian government has launched a program to provide financial assistance to women, known as?",
+      "category": "General Awareness & GK",
+      "question": "Who is the CEO of the Indian company Infosys?",
       "options": [
-        "PM Ujjwala Yojana",
-        "PM Jan Dhan Yojana",
-        "PM Kisan",
-        "Beti Bachao Beti Padhao"
+        "Nandan Nilekani",
+        "Sachin Bansal",
+        "Binny Bansal",
+        "Salil Parekh"
       ],
       "correct": 3,
-      "explanation": "The Beti Bachao Beti Padhao program is a scheme launched by the Indian government to provide financial assistance to women, particularly in the areas of education and healthcare. The program aims to improve the sex ratio and promote the welfare of girls and women in India."
+      "explanation": "Salil Parekh is the CEO of the Indian company Infosys. He is a business executive and has been leading the company since 2018."
     },
     {
       "id": 22,
-      "category": "General Awareness & GK",
-      "question": "The largest state in India by area is?",
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the founder of the Indian National Congress?",
       "options": [
-        "Rajasthan",
-        "Madhya Pradesh",
-        "Uttar Pradesh",
-        "Maharashtra"
+        "A.O. Hume",
+        "Lala Lajpat Rai",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342239 square kilometers. The state is located in the northwestern part of the country, and is known for its desert landscape, historic forts, and vibrant culture."
+      "explanation": "A.O. Hume was the founder of the Indian National Congress. The Indian National Congress was founded in 1885 and played a significant role in the Indian independence movement."
     },
     {
       "id": 23,
-      "category": "Indian History & Freedom Struggle",
-      "question": "The first governor-general of India was?",
-      "options": [
-        "Lord William Bentinck",
-        "Lord Cornwallis",
-        "Warren Hastings",
-        "Lord Dalhousie"
-      ],
-      "correct": 2,
-      "explanation": "Warren Hastings was the first governor-general of India, serving from 1773 to 1785. He played a significant role in the establishment of British rule in India, and is known for his efforts to reform the administrative and judicial systems of the country."
-    },
-    {
-      "id": 24,
-      "category": "Indian Polity & Constitution",
-      "question": "The President of India is elected by?",
-      "options": [
-        "The Lok Sabha",
-        "The Rajya Sabha",
-        "The Electoral College",
-        "The Supreme Court"
-      ],
-      "correct": 2,
-      "explanation": "The President of India is elected by the Electoral College, which consists of the members of both the Lok Sabha and the Rajya Sabha, as well as the members of the state legislative assemblies. The President is elected through a secret ballot, and the candidate with the most votes is declared the winner."
-    },
-    {
-      "id": 25,
-      "category": "Geography",
-      "question": "The highest mountain peak in the world is?",
-      "options": [
-        "Mount Everest",
-        "K2",
-        "Kanchenjunga",
-        "Makalu"
-      ],
-      "correct": 0,
-      "explanation": "Mount Everest is the highest mountain peak in the world, with an elevation of approximately 8848 meters above sea level. The mountain is located in the Himalayas, on the border between Nepal and Tibet."
-    },
-    {
-      "id": 26,
       "category": "General Science",
-      "question": "The largest living structure on Earth is?",
+      "question": "What is the largest living structure on Earth?",
       "options": [
         "The Great Barrier Reef",
         "The Amazon Rainforest",
@@ -340,449 +301,488 @@
         "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, stretching for approximately 2300 kilometers off the coast of Australia. The reef is composed of billions of tiny coral polyps, and is home to a vast array of marine life, including fish, dolphins, and whales."
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth. It is located in the Coral Sea, off the coast of Australia, and is composed of billions of tiny coral polyps that work together to create this massive ecosystem."
+    },
+    {
+      "id": 24,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian Air Force's transport aircraft?",
+      "options": [
+        "C-17 Globemaster III",
+        "C-130J Super Hercules",
+        "IL-76",
+        "AN-32"
+      ],
+      "correct": 0,
+      "explanation": "The C-17 Globemaster III is the Indian Air Force's transport aircraft. It is a large military transport aircraft that is used for a variety of tasks, including transporting troops and equipment."
+    },
+    {
+      "id": 25,
+      "category": "Current Affairs",
+      "question": "Who is the current President of the Indian Olympic Association?",
+      "options": [
+        "N. Ramachandran",
+        "Vijay Kumar Malhotra",
+        "Abhay Singh Chautala",
+        "P.T. Usha"
+      ],
+      "correct": 0,
+      "explanation": "N. Ramachandran is the current President of the Indian Olympic Association. He is a sports administrator and has been leading the IOA since 2014."
+    },
+    {
+      "id": 26,
+      "category": "General Awareness & GK",
+      "question": "Which Indian state is known as the 'Land of the Gods'?",
+      "options": [
+        "Uttarakhand",
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Sikkim"
+      ],
+      "correct": 0,
+      "explanation": "Uttarakhand is known as the 'Land of the Gods' due to its rich cultural and spiritual heritage. The state is home to several important Hindu pilgrimage sites, including Haridwar and Rishikesh."
     },
     {
       "id": 27,
-      "category": "Defense & Security Knowledge",
-      "question": "The Indian Navy's aircraft carrier is?",
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the constitutional provision that guarantees the right to freedom of speech and expression in India?",
       "options": [
-        "INS Vikramaditya",
-        "INS Viraat",
-        "INS Vikrant",
-        "INS Shivalik"
+        "Article 19",
+        "Article 21",
+        "Article 25",
+        "Article 29"
       ],
       "correct": 0,
-      "explanation": "The INS Vikramaditya is the Indian Navy's aircraft carrier, which was commissioned in 2014. The ship is a modified version of the Russian Admiral Gorshkov, and is equipped with a range of aircraft, including the MiG-29K and the Kamov Ka-31."
+      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression. This article is a fundamental right and is considered essential for the functioning of a democratic society."
     },
     {
       "id": 28,
-      "category": "Current Affairs",
-      "question": "The Indian government has launched a program to provide financial assistance to startups, known as?",
+      "category": "Geography",
+      "question": "Which mountain range runs along the border between India and Nepal?",
       "options": [
-        "Startup India",
-        "Make in India",
-        "Digital India",
-        "Skill India"
+        "Himalayas",
+        "Karakoram",
+        "Aravalli",
+        "Vindhya"
       ],
       "correct": 0,
-      "explanation": "The Startup India program is a scheme launched by the Indian government to provide financial assistance to startups, as well as to promote entrepreneurship and innovation in the country. The program offers a range of benefits, including funding, tax exemptions, and regulatory support."
+      "explanation": "The Himalayas mountain range runs along the border between India and Nepal. The Himalayas are the world's highest mountain range and are home to several of the world's highest peaks, including Mount Everest."
     },
     {
       "id": 29,
       "category": "General Awareness & GK",
-      "question": "The largest lake in India is?",
+      "question": "Who is the author of the book 'The God of Small Things'?",
       "options": [
-        "Lake Nainital",
-        "Lake Dal",
-        "Lake Pangong",
-        "Wular Lake"
+        "Arundhati Roy",
+        "Amitav Ghosh",
+        "Vikram Seth",
+        "Salman Rushdie"
       ],
-      "correct": 3,
-      "explanation": "Wular Lake is the largest lake in India, covering an area of approximately 100 square kilometers. The lake is located in the state of Jammu and Kashmir, and is an important habitat for a range of aquatic life, including fish, birds, and plants."
+      "correct": 0,
+      "explanation": "Arundhati Roy is the author of the book 'The God of Small Things'. The book is a novel that explores the complexities of Indian society and culture, and is considered one of the most important works of Indian literature."
     },
     {
       "id": 30,
       "category": "Indian History & Freedom Struggle",
-      "question": "The Quit India Movement was launched in response to?",
-      "options": [
-        "The British government's decision to impose taxes on Indians",
-        "The British government's decision to partition India",
-        "The British government's decision to involve India in World War II",
-        "The British government's decision to abolish the Indian princely states"
-      ],
-      "correct": 2,
-      "explanation": "The Quit India Movement was launched in response to the British government's decision to involve India in World War II without consulting the Indian people. The movement was a call for mass protests and civil disobedience against the British government, with the demand for immediate independence."
-    },
-    {
-      "id": 31,
-      "category": "Indian Polity & Constitution",
-      "question": "The Indian Constitution recognizes?",
-      "options": [
-        "Two official languages",
-        "Three official languages",
-        "Twenty-two official languages",
-        "No official language"
-      ],
-      "correct": 2,
-      "explanation": "The Indian Constitution recognizes twenty-two official languages, which are listed in the Eighth Schedule. These languages include Hindi, English, and several regional languages, such as Bengali, Tamil, and Telugu."
-    },
-    {
-      "id": 32,
-      "category": "Geography",
-      "question": "The largest river delta in the world is?",
-      "options": [
-        "The Ganges Delta",
-        "The Nile Delta",
-        "The Mississippi Delta",
-        "The Mekong Delta"
-      ],
-      "correct": 0,
-      "explanation": "The Ganges Delta is the largest river delta in the world, covering an area of approximately 100000 square kilometers. The delta is located in the states of West Bengal and Bangladesh, and is home to a vast array of aquatic life, including fish, dolphins, and birds."
-    },
-    {
-      "id": 33,
-      "category": "General Science",
-      "question": "The process by which the Earth's plates move is called?",
-      "options": [
-        "Continental drift",
-        "Plate tectonics",
-        "Weathering",
-        "Erosion"
-      ],
-      "correct": 1,
-      "explanation": "Plate tectonics is the process by which the Earth's plates move, resulting in the creation of mountains, volcanoes, and earthquakes. The theory of plate tectonics explains how the Earth's surface has changed over time, and is an important concept in geology and earth sciences."
-    },
-    {
-      "id": 34,
-      "category": "Defense & Security Knowledge",
-      "question": "The Indian Army's special forces unit is trained to conduct?",
-      "options": [
-        "Counter-terrorism operations",
-        "Counter-insurgency operations",
-        "Conventional warfare",
-        "Unconventional warfare"
-      ],
-      "correct": 3,
-      "explanation": "The Indian Army's special forces unit, known as the Para SF, is trained to conduct unconventional warfare, including missions behind enemy lines, sabotage, and intelligence gathering. The unit is equipped with advanced training, equipment, and tactics, and is known for its bravery and expertise."
-    },
-    {
-      "id": 35,
-      "category": "Current Affairs",
-      "question": "The Indian government has launched a program to promote digital payments, known as?",
-      "options": [
-        "Digital India",
-        "Make in India",
-        "Startup India",
-        "BHIM"
-      ],
-      "correct": 3,
-      "explanation": "The BHIM program is a scheme launched by the Indian government to promote digital payments, particularly through the use of mobile phones and other digital devices. The program aims to increase financial inclusion, reduce cash transactions, and promote a digital economy."
-    },
-    {
-      "id": 36,
-      "category": "General Awareness & GK",
-      "question": "The largest city in India is?",
-      "options": [
-        "Mumbai",
-        "Delhi",
-        "Kolkata",
-        "Chennai"
-      ],
-      "correct": 0,
-      "explanation": "Mumbai is the largest city in India, with a population of over 12 million people. The city is the financial capital of India, and is home to several important landmarks, including the Gateway of India, the Chhatrapati Shivaji Terminus, and the Marine Drive."
-    },
-    {
-      "id": 37,
-      "category": "Indian History & Freedom Struggle",
-      "question": "The Indian independence movement was influenced by?",
-      "options": [
-        "The French Revolution",
-        "The American Revolution",
-        "The Russian Revolution",
-        "The Chinese Revolution"
-      ],
-      "correct": 1,
-      "explanation": "The Indian independence movement was influenced by the American Revolution, which was a major inspiration for Indian nationalists seeking independence from British rule. The American Revolution's emphasis on liberty, democracy, and self-governance resonated with Indian leaders, who sought to apply these principles to their own struggle for independence."
-    },
-    {
-      "id": 38,
-      "category": "Indian Polity & Constitution",
-      "question": "The Indian Constitution provides for?",
-      "options": [
-        "A federal system of government",
-        "A unitary system of government",
-        "A parliamentary system of government",
-        "A presidential system of government"
-      ],
-      "correct": 0,
-      "explanation": "The Indian Constitution provides for a federal system of government, in which power is divided between the central government and the state governments. The federal system allows for greater autonomy and flexibility, and is an important feature of Indian democracy."
-    },
-    {
-      "id": 39,
-      "category": "Geography",
-      "question": "The largest desert in the world is?",
-      "options": [
-        "The Sahara Desert",
-        "The Gobi Desert",
-        "The Mojave Desert",
-        "The Atacama Desert"
-      ],
-      "correct": 0,
-      "explanation": "The Sahara Desert is the largest desert in the world, covering an area of approximately 9.2 million square kilometers. The desert spans across several countries in North Africa, including Algeria, Chad, Egypt, and Libya."
-    },
-    {
-      "id": 40,
-      "category": "General Science",
-      "question": "The process by which the human body regulates its temperature is called?",
-      "options": [
-        "Homeostasis",
-        "Thermoregulation",
-        "Metabolism",
-        "Respiration"
-      ],
-      "correct": 1,
-      "explanation": "Thermoregulation is the process by which the human body regulates its temperature, maintaining a stable internal temperature despite changes in the external environment. This process involves the coordination of various physiological mechanisms, including sweating, shivering, and vasodilation."
-    },
-    {
-      "id": 41,
-      "category": "Defense & Security Knowledge",
-      "question": "The Indian Navy's submarine fleet is based at?",
-      "options": [
-        "Mumbai",
-        "Visakhapatnam",
-        "Kochi",
-        "Karwar"
-      ],
-      "correct": 1,
-      "explanation": "The Indian Navy's submarine fleet is based at Visakhapatnam, which is the largest naval base in India. The base is home to several Indian Navy submarines, as well as other naval vessels and support facilities."
-    },
-    {
-      "id": 42,
-      "category": "Current Affairs",
-      "question": "The Indian government has launched a program to promote skill development, known as?",
-      "options": [
-        "Skill India",
-        "Make in India",
-        "Startup India",
-        "Digital India"
-      ],
-      "correct": 0,
-      "explanation": "The Skill India program is a scheme launched by the Indian government to promote skill development and vocational training in the country. The program aims to provide training and certification to millions of young people, and to enhance their employability and productivity."
-    },
-    {
-      "id": 43,
-      "category": "General Awareness & GK",
-      "question": "The largest island in India is?",
-      "options": [
-        "Andaman and Nicobar Islands",
-        "Lakshadweep Islands",
-        "Sriharikota",
-        "Little Andaman"
-      ],
-      "correct": 0,
-      "explanation": "The Andaman and Nicobar Islands are the largest island in India, covering an area of approximately 8249 square kilometers. The islands are located in the Bay of Bengal, and are part of the Union Territory of Andaman and Nicobar Islands."
-    },
-    {
-      "id": 44,
-      "category": "Indian History & Freedom Struggle",
-      "question": "The Indian National Congress was founded by?",
-      "options": [
-        "Allan Octavian Hume",
-        "Lala Lajpat Rai",
-        "Bipin Chandra Pal",
-        "Aurobindo Ghosh"
-      ],
-      "correct": 0,
-      "explanation": "The Indian National Congress was founded by Allan Octavian Hume in 1885. Hume was a British civil servant who played a key role in the formation of the Congress, and served as its first general secretary."
-    },
-    {
-      "id": 45,
-      "category": "Indian Polity & Constitution",
-      "question": "The Indian Constitution establishes?",
-      "options": [
-        "A federal system of government",
-        "A unitary system of government",
-        "A parliamentary system of government",
-        "A presidential system of government"
-      ],
-      "correct": 2,
-      "explanation": "The Indian Constitution establishes a parliamentary system of government, in which the government is headed by a prime minister and is responsible to the legislature. This system is based on the British model, and provides for a clear separation of powers between the executive, legislature, and judiciary."
-    },
-    {
-      "id": 46,
-      "category": "Geography",
-      "question": "The longest river in Asia is?",
-      "options": [
-        "The Yangtze River",
-        "The Yellow River",
-        "The Mekong River",
-        "The Brahmaputra River"
-      ],
-      "correct": 0,
-      "explanation": "The Yangtze River is the longest river in Asia, stretching for approximately 6300 kilometers from its source in the Tibetan Plateau to its mouth in the East China Sea. The river flows through several countries, including China, Myanmar, and Laos, and is an important source of water, transportation, and hydroelectric power."
-    },
-    {
-      "id": 47,
-      "category": "General Science",
-      "question": "The process by which plants release water vapor into the air is called?",
-      "options": [
-        "Transpiration",
-        "Evaporation",
-        "Respiration",
-        "Photosynthesis"
-      ],
-      "correct": 0,
-      "explanation": "Transpiration is the process by which plants release water vapor into the air, primarily through their leaves. This process is an important part of the water cycle, and helps to regulate the Earth's climate."
-    },
-    {
-      "id": 48,
-      "category": "Defense & Security Knowledge",
-      "question": "The Indian Air Force's fighter aircraft is?",
-      "options": [
-        "MiG-21",
-        "MiG-29",
-        "Su-30MKI",
-        "Tejas"
-      ],
-      "correct": 2,
-      "explanation": "The Su-30MKI is a fighter aircraft used by the Indian Air Force. The aircraft is a variant of the Russian Su-30, and is equipped with advanced avionics and weapons systems. The Su-30MKI is used for air superiority and ground attack missions."
-    },
-    {
-      "id": 49,
-      "category": "Current Affairs",
-      "question": "The Indian government has launched a program to promote cleanliness, known as?",
-      "options": [
-        "Swachh Bharat Abhiyan",
-        "Make in India",
-        "Startup India",
-        "Digital India"
-      ],
-      "correct": 0,
-      "explanation": "The Swachh Bharat Abhiyan program is a scheme launched by the Indian government to promote cleanliness and sanitation in the country. The program aims to improve the cleanliness and hygiene of public spaces, and to promote the use of toilets and proper waste management."
-    },
-    {
-      "id": 50,
-      "category": "General Awareness & GK",
-      "question": "The largest state in India by population is?",
-      "options": [
-        "Uttar Pradesh",
-        "Maharashtra",
-        "Bihar",
-        "West Bengal"
-      ],
-      "correct": 0,
-      "explanation": "Uttar Pradesh is the largest state in India by population, with over 200 million people. The state is located in the northern part of the country, and is known for its rich cultural heritage, including the cities of Lucknow, Varanasi, and Agra."
-    },
-    {
-      "id": 51,
-      "category": "Indian History & Freedom Struggle",
-      "question": "The Indian independence movement was led by?",
+      "question": "Who was the leader of the Indian National Congress during the Quit India Movement?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
         "Subhas Chandra Bose",
-        "Bhagat Singh"
+        "Sardar Patel"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi was a key leader of the Indian independence movement, and is widely regarded as the 'Father of the Nation'. He led the movement through non-violent resistance and civil disobedience, and played a crucial role in achieving Indian independence from British rule."
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Quit India Movement. The movement was launched in 1942 and was a major part of the Indian independence struggle."
+    },
+    {
+      "id": 31,
+      "category": "General Science",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
+      ],
+      "correct": 2,
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves. It is an essential process that helps plants regulate their temperature and maintain their water balance."
+    },
+    {
+      "id": 32,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian Army's special forces unit that conducts counter-terrorism operations?",
+      "options": [
+        "NSG",
+        "MARCOS",
+        "Ghatak",
+        "Para SF"
+      ],
+      "correct": 0,
+      "explanation": "The NSG (National Security Guard) is the Indian Army's special forces unit that conducts counter-terrorism operations. The NSG is trained to handle high-risk situations and is equipped with specialized equipment and tactics."
+    },
+    {
+      "id": 33,
+      "category": "Current Affairs",
+      "question": "Who is the current Chairman of the Indian Space Research Organisation (ISRO)?",
+      "options": [
+        "K. Sivan",
+        "G. Madhavan Nair",
+        "K. Radhakrishnan",
+        "A.S. Kiran Kumar"
+      ],
+      "correct": 0,
+      "explanation": "K. Sivan is the current Chairman of the Indian Space Research Organisation (ISRO). He is a scientist and engineer and has been leading ISRO since 2018."
+    },
+    {
+      "id": 34,
+      "category": "General Awareness & GK",
+      "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Punjab",
+        "Haryana",
+        "Uttar Pradesh",
+        "Bihar"
+      ],
+      "correct": 0,
+      "explanation": "Punjab is known as the 'Land of Five Rivers' due to its location in the Indus Valley, where five major rivers flow: the Sutlej, Ravi, Jhelum, Chenab, and Beas."
+    },
+    {
+      "id": 35,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the constitutional provision that guarantees the right to equality before the law?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "correct": 0,
+      "explanation": "Article 14 of the Indian Constitution guarantees the right to equality before the law. This article is a fundamental right and is considered essential for the functioning of a democratic society."
+    },
+    {
+      "id": 36,
+      "category": "Geography",
+      "question": "Which river is the longest in the state of Andhra Pradesh?",
+      "options": [
+        "Godavari",
+        "Krishna",
+        "Pennar",
+        "Tungabhadra"
+      ],
+      "correct": 0,
+      "explanation": "The Godavari River is the longest in the state of Andhra Pradesh. It is one of the major rivers in India and flows through several states, including Andhra Pradesh, Telangana, and Maharashtra."
+    },
+    {
+      "id": 37,
+      "category": "General Awareness & GK",
+      "question": "Who is the author of the book 'The Inheritance of Loss'?",
+      "options": [
+        "Kiranjit Ahluwalia",
+        "Vikram Seth",
+        "Amitav Ghosh",
+        "Kiran Desai"
+      ],
+      "correct": 3,
+      "explanation": "Kiran Desai is the author of the book 'The Inheritance of Loss'. The book is a novel that explores the complexities of Indian society and culture, and is considered one of the most important works of Indian literature."
+    },
+    {
+      "id": 38,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the first Governor-General of India?",
+      "options": [
+        "Lord William Bentinck",
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "Lord Dalhousie"
+      ],
+      "correct": 1,
+      "explanation": "Lord Cornwallis was the first Governor-General of India. He served from 1786 to 1793 and played a significant role in the development of British India."
+    },
+    {
+      "id": 39,
+      "category": "General Science",
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Uranus"
+      ],
+      "correct": 2,
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers. It is a gas giant and is known for its distinctive banded appearance."
+    },
+    {
+      "id": 40,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian Navy's amphibious assault ship?",
+      "options": [
+        "INS Jalashwa",
+        "INS Shardul",
+        "INS Magar",
+        "INS Gharial"
+      ],
+      "correct": 0,
+      "explanation": "The INS Jalashwa is the Indian Navy's amphibious assault ship. It is used for a variety of tasks, including amphibious landings, humanitarian assistance, and disaster relief."
+    },
+    {
+      "id": 41,
+      "category": "Current Affairs",
+      "question": "Who is the current Union Minister of Defence?",
+      "options": [
+        "Rajnath Singh",
+        "Amit Shah",
+        "Nirmala Sitharaman",
+        "Arvind Kejriwal"
+      ],
+      "correct": 0,
+      "explanation": "Rajnath Singh is the current Union Minister of Defence. He is a member of the Bharatiya Janata Party (BJP) and has been serving as Defence Minister since 2019."
+    },
+    {
+      "id": 42,
+      "category": "General Awareness & GK",
+      "question": "Who is the CEO of the Indian company Tata Consultancy Services (TCS)?",
+      "options": [
+        "N. Chandrasekaran",
+        "Rajesh Gopinathan",
+        "S. Ramadorai",
+        "Ajoy Mukherjee"
+      ],
+      "correct": 1,
+      "explanation": "Rajesh Gopinathan is the CEO of the Indian company Tata Consultancy Services (TCS). He is a business executive and has been leading TCS since 2017."
+    },
+    {
+      "id": 43,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the constitutional provision that guarantees the right to freedom of assembly?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 25",
+        "Article 29"
+      ],
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of assembly. This article is a fundamental right and is considered essential for the functioning of a democratic society."
+    },
+    {
+      "id": 44,
+      "category": "Geography",
+      "question": "Which mountain range runs along the border between India and Bhutan?",
+      "options": [
+        "Himalayas",
+        "Karakoram",
+        "Aravalli",
+        "Vindhya"
+      ],
+      "correct": 0,
+      "explanation": "The Himalayas mountain range runs along the border between India and Bhutan. The Himalayas are the world's highest mountain range and are home to several of the world's highest peaks, including Mount Everest."
+    },
+    {
+      "id": 45,
+      "category": "General Awareness & GK",
+      "question": "Who is the author of the book 'A Fine Balance'?",
+      "options": [
+        "Rohinton Mistry",
+        "Amitav Ghosh",
+        "Vikram Seth",
+        "Salman Rushdie"
+      ],
+      "correct": 0,
+      "explanation": "Rohinton Mistry is the author of the book 'A Fine Balance'. The book is a novel that explores the complexities of Indian society and culture, and is considered one of the most important works of Indian literature."
+    },
+    {
+      "id": 46,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the leader of the Indian National Congress during the Salt March?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Sardar Patel"
+      ],
+      "correct": 0,
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Salt March. The Salt March was a major part of the Indian independence struggle and was led by Gandhi in 1930."
+    },
+    {
+      "id": 47,
+      "category": "General Science",
+      "question": "What is the process by which plants convert carbon dioxide and water into glucose and oxygen?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Fermentation"
+      ],
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants convert carbon dioxide and water into glucose and oxygen. It is an essential process that occurs in plants, algae, and some bacteria, and is the basis of life on Earth."
+    },
+    {
+      "id": 48,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian Air Force's air superiority fighter aircraft?",
+      "options": [
+        "Su-30MKI",
+        "Tejas",
+        "Mirage 2000",
+        "MiG-21"
+      ],
+      "correct": 0,
+      "explanation": "The Su-30MKI is the Indian Air Force's air superiority fighter aircraft. It is a multi-role fighter that is used for a variety of tasks, including air-to-air combat, air-to-ground strikes, and reconnaissance."
+    },
+    {
+      "id": 49,
+      "category": "Current Affairs",
+      "question": "Who is the current Chairman of the Indian Railway Board?",
+      "options": [
+        "Vinod Kumar Yadav",
+        "A.K. Mittal",
+        "S. Mani",
+        "R.K. Singh"
+      ],
+      "correct": 0,
+      "explanation": "Vinod Kumar Yadav is the current Chairman of the Indian Railway Board. He is a railway officer and has been leading the Indian Railways since 2019."
+    },
+    {
+      "id": 50,
+      "category": "General Awareness & GK",
+      "question": "Which Indian state is known as the 'Land of the Blue Mountains'?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "correct": 0,
+      "explanation": "Tamil Nadu is known as the 'Land of the Blue Mountains' due to the presence of the Nilgiri Hills, which are also known as the Blue Mountains. The Nilgiris are a popular tourist destination and are known for their natural beauty and biodiversity."
+    },
+    {
+      "id": 51,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the constitutional provision that guarantees the right to freedom of association?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 25",
+        "Article 29"
+      ],
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of association. This article is a fundamental right and is considered essential for the functioning of a democratic society."
     },
     {
       "id": 52,
-      "category": "Indian Polity & Constitution",
-      "question": "The Indian Constitution recognizes?",
+      "category": "Geography",
+      "question": "Which river is the longest in the state of Gujarat?",
       "options": [
-        "Two official languages",
-        "Three official languages",
-        "Twenty-two official languages",
-        "No official language"
+        "Narmada",
+        "Tapi",
+        "Sabarmati",
+        "Mehsana"
       ],
-      "correct": 2,
-      "explanation": "The Indian Constitution recognizes twenty-two official languages, which are listed in the Eighth Schedule. These languages include Hindi, English, and several regional languages, such as Bengali, Tamil, and Telugu."
+      "correct": 0,
+      "explanation": "The Narmada River is the longest in the state of Gujarat. It is one of the major rivers in India and flows through several states, including Gujarat, Madhya Pradesh, and Maharashtra."
     },
     {
       "id": 53,
-      "category": "Geography",
-      "question": "The largest city in Asia is?",
+      "category": "General Awareness & GK",
+      "question": "Who is the author of the book 'The Hungry Tide'?",
       "options": [
-        "Tokyo",
-        "Shanghai",
-        "Beijing",
-        "Mumbai"
+        "Amitav Ghosh",
+        "Vikram Seth",
+        "Arundhati Roy",
+        "Salman Rushdie"
       ],
       "correct": 0,
-      "explanation": "Tokyo is the largest city in Asia, with a population of over 38 million people. The city is located in Japan, and is known for its vibrant culture, rich history, and cutting-edge technology."
+      "explanation": "Amitav Ghosh is the author of the book 'The Hungry Tide'. The book is a novel that explores the complexities of Indian society and culture, and is considered one of the most important works of Indian literature."
     },
     {
       "id": 54,
-      "category": "General Science",
-      "question": "The process by which the human body breaks down food is called?",
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the leader of the Indian National Congress during the Non-Cooperation Movement?",
       "options": [
-        "Digestion",
-        "Absorption",
-        "Metabolism",
-        "Respiration"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Sardar Patel"
       ],
       "correct": 0,
-      "explanation": "Digestion is the process by which the human body breaks down food into smaller molecules, which can then be absorbed and utilized by the body. This process involves the action of various enzymes, acids, and other digestive fluids, and is an essential part of human nutrition."
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Non-Cooperation Movement. The movement was launched in 1920 and was a major part of the Indian independence struggle."
     },
     {
       "id": 55,
-      "category": "Defense & Security Knowledge",
-      "question": "The Indian Army's artillery regiment is?",
+      "category": "General Science",
+      "question": "What is the process by which the Earth's plates move and change?",
       "options": [
-        "The Regiment of Artillery",
-        "The Corps of Engineers",
-        "The Corps of Signals",
-        "The Infantry Regiment"
+        "Plate tectonics",
+        "Weathering",
+        "Erosion",
+        "Deposition"
       ],
       "correct": 0,
-      "explanation": "The Regiment of Artillery is the artillery regiment of the Indian Army, and is responsible for providing artillery support to the army's various units. The regiment has a long history, dating back to the British colonial era, and has played a crucial role in several military campaigns and operations."
+      "explanation": "Plate tectonics is the process by which the Earth's plates move and change. It is the process that shapes the Earth's surface and is responsible for the creation of mountains, volcanoes, and earthquakes."
     },
     {
       "id": 56,
-      "category": "Current Affairs",
-      "question": "The Indian government has launched a program to promote rural development, known as?",
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian Navy's submarine?",
       "options": [
-        "Pradhan Mantri Gram Sadak Yojana",
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Fasal Bima Yojana"
+        "Arihant",
+        "Scorpene",
+        "Akula",
+        "Talwar"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Gram Sadak Yojana program is a scheme launched by the Indian government to promote rural development, particularly in the areas of infrastructure and connectivity. The program aims to provide all-weather roads to rural areas, and to improve the quality of life for rural communities."
+      "explanation": "The Arihant is the Indian Navy's submarine. It is a nuclear-powered submarine that is used for a variety of tasks, including deterrence, surveillance, and reconnaissance."
     },
     {
       "id": 57,
-      "category": "General Awareness & GK",
-      "question": "The largest state in India by area is?",
+      "category": "Current Affairs",
+      "question": "Who is the current Union Minister of Home Affairs?",
       "options": [
-        "Rajasthan",
-        "Madhya Pradesh",
-        "Uttar Pradesh",
-        "Maharashtra"
+        "Amit Shah",
+        "Rajnath Singh",
+        "Nirmala Sitharaman",
+        "Sushma Swaraj"
       ],
       "correct": 0,
-      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342239 square kilometers. The state is located in the northwestern part of the country, and is known for its desert landscape, historic forts, and vibrant culture."
+      "explanation": "Amit Shah is the current Union Minister of Home Affairs. He is a member of the Bharatiya Janata Party (BJP) and has been serving as Home Minister since 2019."
     },
     {
       "id": 58,
-      "category": "Indian History & Freedom Struggle",
-      "question": "The first war of Indian independence was fought in?",
+      "category": "General Awareness & GK",
+      "question": "Which Indian state is known as the 'Land of the Rising Sun'?",
       "options": [
-        "1857",
-        "1947",
-        "1885",
-        "1905"
+        "Arunachal Pradesh",
+        "Assam",
+        "Meghalaya",
+        "Mizoram"
       ],
       "correct": 0,
-      "explanation": "The first war of Indian independence was fought in 1857, and is also known as the Sepoy Mutiny. The war was a major uprising against British rule in India, and was sparked by the introduction of the Enfield rifle, which used greased cartridges that had to be bitten open before loading. The war was ultimately crushed by the British, but it marked a significant turning point in the Indian independence movement."
+      "explanation": "Arunachal Pradesh is known as the 'Land of the Rising Sun' due to its location in the easternmost part of India. The state is known for its natural beauty and is home to several important Buddhist monasteries and temples."
     },
     {
       "id": 59,
       "category": "Indian Polity & Constitution",
-      "question": "The Indian Constitution provides for?",
+      "question": "What is the name of the constitutional provision that guarantees the right to life and liberty?",
       "options": [
-        "A federal system of government",
-        "A unitary system of government",
-        "A parliamentary system of government",
-        "A presidential system of government"
+        "Article 21",
+        "Article 22",
+        "Article 23",
+        "Article 24"
       ],
       "correct": 0,
-      "explanation": "The Indian Constitution provides for a federal system of government, in which power is divided between the central government and the state governments. This system allows for greater autonomy and flexibility, and is an important feature of Indian democracy."
+      "explanation": "Article 21 of the Indian Constitution guarantees the right to life and liberty. This article is a fundamental right and is considered essential for the functioning of a democratic society."
     },
     {
       "id": 60,
       "category": "Geography",
-      "question": "The highest mountain peak in the world is?",
+      "question": "Which mountain pass connects India to China?",
       "options": [
-        "Mount Everest",
-        "K2",
-        "Kanchenjunga",
-        "Makalu"
+        "Nathu La",
+        "Shipki La",
+        "Banihal Pass",
+        "Zojila Pass"
       ],
       "correct": 0,
-      "explanation": "Mount Everest is the highest mountain peak in the world, with an elevation of approximately 8848 meters above sea level. The mountain is located in the Himalayas, on the border between Nepal and Tibet."
+      "explanation": "The Nathu La mountain pass connects India to China. It is located in the state of Sikkim and is an important trade route between the two countries."
     }
   ]
 }

@@ -1,115 +1,24 @@
 {
   "exam": "cgl",
   "name": "SSC CGL",
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "General Awareness & Static GK",
-      "question": "Who is the author of the book 'The Discovery of India'?",
+      "question": "The first woman to climb Mount Everest was?",
       "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Rabindranath Tagore",
-        "Subhas Chandra Bose"
+        "Tenzing Norgay",
+        "Junko Tabei",
+        "Reinhold Messner",
+        "Edmund Hillary"
       ],
-      "correct": 0,
-      "explanation": "The Discovery of India is a book written by Jawaharlal Nehru in 1946, which provides an account of India's history, culture, and philosophy. It is considered one of the most important books on Indian history and is still widely read today."
+      "correct": 1,
+      "explanation": "Junko Tabei was a Japanese mountaineer who became the first woman to reach the summit of Mount Everest on May 16, 1975."
     },
     {
       "id": 2,
-      "category": "General Science",
-      "question": "What is the process by which plants convert sunlight into energy?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
-      ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen. This process is essential for life on Earth and is the primary source of energy for most living organisms."
-    },
-    {
-      "id": 3,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's flagship program aimed at promoting digital payments and financial inclusion?",
-      "options": [
-        "Digital India",
-        "Make in India",
-        "Start-up India",
-        "Pradhan Mantri Jan-Dhan Yojana"
-      ],
-      "correct": 0,
-      "explanation": "Digital India is a flagship program launched by the Indian government in 2015, which aims to promote digital payments, financial inclusion, and digital literacy across the country. The program has several initiatives, including the promotion of digital payments, online services, and digital infrastructure."
-    },
-    {
-      "id": 4,
-      "category": "Geography",
-      "question": "Which river is the longest in South America?",
-      "options": [
-        "Amazon River",
-        "Rio Grande",
-        "Orinoco River",
-        "Parana River"
-      ],
-      "correct": 0,
-      "explanation": "The Amazon River is the longest river in South America and the largest river in the world by discharge volume. It flows through seven countries, including Brazil, Peru, and Colombia, and is home to a diverse range of flora and fauna."
-    },
-    {
-      "id": 5,
-      "category": "Reasoning & Logic",
-      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
-      "options": [
-        "5 minutes",
-        "10 minutes",
-        "50 minutes",
-        "100 minutes"
-      ],
-      "correct": 0,
-      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then 1 machine can make 1 widget in 5 minutes. Therefore, 100 machines can make 100 widgets in 5 minutes."
-    },
-    {
-      "id": 6,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the idiom 'Bite off more than you can chew'?",
-      "options": [
-        "To take on more responsibility than you can handle",
-        "To eat more food than you can digest",
-        "To talk more than you can listen",
-        "To run more than you can walk"
-      ],
-      "correct": 0,
-      "explanation": "The idiom 'Bite off more than you can chew' means to take on more responsibility or tasks than you are capable of handling. It is often used to advise someone against overcommitting themselves or taking on too much at once."
-    },
-    {
-      "id": 7,
-      "category": "Current Affairs",
-      "question": "Who is the current CEO of the International Monetary Fund?",
-      "options": [
-        "Kristalina Georgieva",
-        "David Malpass",
-        "Jim Yong Kim",
-        "Christine Lagarde"
-      ],
-      "correct": 0,
-      "explanation": "Kristalina Georgieva is the current CEO of the International Monetary Fund, a position she has held since 2019. She is a Bulgarian economist and former European Commissioner for the Budget and Human Resources."
-    },
-    {
-      "id": 8,
-      "category": "General Awareness & Static GK",
-      "question": "Which ancient Indian city was the capital of the Mauryan Empire?",
-      "options": [
-        "Pataliputra",
-        "Taxila",
-        "Kaushambi",
-        "Varanasi"
-      ],
-      "correct": 0,
-      "explanation": "Pataliputra was the capital of the Mauryan Empire, which was founded by Chandragupta Maurya in the 4th century BCE. The city was an important center of trade, culture, and learning, and was known for its grand architecture and administrative systems."
-    },
-    {
-      "id": 9,
       "category": "General Science",
       "question": "What is the largest planet in our solar system?",
       "options": [
@@ -119,179 +28,179 @@
         "Uranus"
       ],
       "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers. It is a gas giant, composed primarily of hydrogen and helium, and is known for its distinctive banded appearance and massive storms."
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
+    },
+    {
+      "id": 3,
+      "category": "Indian Polity & Economy",
+      "question": "What is the name of the Indian government's flagship program for financial inclusion?",
+      "options": [
+        "Jan Dhan Yojana",
+        "Make in India",
+        "Digital India",
+        "Swachh Bharat Abhiyan"
+      ],
+      "correct": 0,
+      "explanation": "Jan Dhan Yojana is a flagship program of the Indian government aimed at promoting financial inclusion by providing access to banking services to all households."
+    },
+    {
+      "id": 4,
+      "category": "Geography",
+      "question": "The longest river in South America is?",
+      "options": [
+        "Amazon River",
+        "Parana River",
+        "Sao Francisco River",
+        "Magdalena River"
+      ],
+      "correct": 0,
+      "explanation": "The Amazon River is the longest river in South America and the largest river in the world by discharge volume, stretching over 6,400 kilometers."
+    },
+    {
+      "id": 5,
+      "category": "Reasoning & Logic",
+      "question": "If A is greater than B, and B is greater than C, then?",
+      "options": [
+        "A is greater than C",
+        "A is less than C",
+        "B is greater than A",
+        "C is greater than B"
+      ],
+      "correct": 0,
+      "explanation": "Given that A > B and B > C, it can be logically concluded that A > C."
+    },
+    {
+      "id": 6,
+      "category": "English Language Concepts",
+      "question": "What is the synonym for the word 'fast'?",
+      "options": [
+        "Quick",
+        "Slow",
+        "Big",
+        "Happy"
+      ],
+      "correct": 0,
+      "explanation": "The word 'quick' is a synonym for 'fast', both meaning moving or able to move swiftly."
+    },
+    {
+      "id": 7,
+      "category": "Current Affairs",
+      "question": "The 2022 FIFA World Cup was held in which country?",
+      "options": [
+        "Qatar",
+        "Russia",
+        "United States",
+        "Brazil"
+      ],
+      "correct": 0,
+      "explanation": "The 2022 FIFA World Cup was held in Qatar from November 20 to December 18, 2022."
+    },
+    {
+      "id": 8,
+      "category": "General Awareness & Static GK",
+      "question": "The author of the book 'To Kill a Mockingbird' is?",
+      "options": [
+        "F. Scott Fitzgerald",
+        "Harper Lee",
+        "Jane Austen",
+        "J.K. Rowling"
+      ],
+      "correct": 1,
+      "explanation": "Harper Lee is the author of the classic novel 'To Kill a Mockingbird', published in 1960."
+    },
+    {
+      "id": 9,
+      "category": "General Science",
+      "question": "What is the process by which plants convert sunlight into energy?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Fermentation"
+      ],
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
     },
     {
       "id": 10,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to farmers?",
+      "question": "The Reserve Bank of India was established in?",
       "options": [
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Krishi Sinchai Yojana",
-        "Rashtriya Krishi Vikas Yojana"
+        "1934",
+        "1935",
+        "1947",
+        "1950"
       ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a scheme launched by the Indian government in 2019, which provides financial assistance to farmers. The scheme aims to provide income support to farmers and to help them meet their agricultural expenses."
+      "correct": 1,
+      "explanation": "The Reserve Bank of India (RBI) was established on April 1, 1935, in accordance with the provisions of the Reserve Bank of India Act, 1934."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which mountain range runs along the border between France and Spain?",
+      "question": "The highest mountain peak in the world is?",
       "options": [
-        "Pyrenees",
-        "Alps",
-        "Carpathian Mountains",
-        "Apennine Mountains"
+        "Mount Everest",
+        "K2",
+        "Kangchenjunga",
+        "Lhotse"
       ],
       "correct": 0,
-      "explanation": "The Pyrenees is a mountain range that runs along the border between France and Spain, stretching for approximately 435 kilometers. The range is known for its rugged terrain, diverse flora and fauna, and popular ski resorts."
+      "explanation": "Mount Everest, located in the Himalayas on the border between Nepal and Tibet, China, is the highest mountain peak in the world, with an elevation of 8,848 meters."
     },
     {
       "id": 12,
       "category": "Reasoning & Logic",
-      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slides back 2 feet at night, how many days will it take for the snail to reach the top of the well?",
+      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
       "options": [
-        "18 days",
-        "20 days",
-        "22 days",
-        "28 days"
+        "5 minutes",
+        "10 minutes",
+        "50 minutes",
+        "100 minutes"
       ],
-      "correct": 2,
-      "explanation": "The snail climbs 3 feet up the well each day, but slides back 2 feet at night, so it effectively climbs 1 foot per day. To climb 20 feet, it will take 20 days, but on the 18th day, it will climb 3 feet and reach the top of the well, so it will not slide back at night. Therefore, it will take 18 days for the snail to reach the top of the well."
+      "correct": 0,
+      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then the rate of production per machine is 1 widget per 5 minutes. Thus, 100 machines can make 100 widgets in the same 5 minutes."
     },
     {
       "id": 13,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'Perspicacious'?",
+      "question": "What is the antonym for the word 'hot'?",
       "options": [
-        "Having a strong and unpleasant smell",
-        "Having a keen understanding and insight",
-        "Having a tendency to talk excessively",
-        "Having a strong and bitter taste"
+        "Cold",
+        "Big",
+        "Happy",
+        "Fast"
       ],
-      "correct": 1,
-      "explanation": "Perspicacious means having a keen understanding and insight, being able to notice and understand things that are not immediately apparent. It is often used to describe someone who is perceptive and discerning."
+      "correct": 0,
+      "explanation": "The word 'cold' is an antonym for 'hot', as they describe opposite temperatures."
     },
     {
       "id": 14,
       "category": "Current Affairs",
-      "question": "Which country hosted the 2022 Winter Olympics?",
+      "question": "The International Day of Yoga is observed on?",
       "options": [
-        "China",
-        "United States",
-        "Canada",
-        "Japan"
+        "June 20",
+        "June 21",
+        "July 22",
+        "August 23"
       ],
-      "correct": 0,
-      "explanation": "The 2022 Winter Olympics were hosted by China, with the events taking place in Beijing and other cities in the surrounding area. The games were held from February 4 to 20, 2022."
+      "correct": 1,
+      "explanation": "The International Day of Yoga is observed annually on June 21, as declared by the United Nations General Assembly."
     },
     {
       "id": 15,
       "category": "General Awareness & Static GK",
-      "question": "Who was the first President of India?",
+      "question": "The largest state in India by area is?",
       "options": [
-        "Dr. Rajendra Prasad",
-        "Dr. Sarvepalli Radhakrishnan",
-        "Jawaharlal Nehru",
-        "Bhagat Singh"
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Uttar Pradesh",
+        "Maharashtra"
       ],
       "correct": 0,
-      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962. He was a prominent leader in the Indian independence movement and played a key role in the country's transition to independence."
+      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342,239 square kilometers."
     },
     {
       "id": 16,
-      "category": "General Science",
-      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
-      ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor. This process is an important part of the water cycle and helps to regulate the Earth's climate."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide housing for all by 2022?",
-      "options": [
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Gramin Awas Yojana",
-        "Pradhan Mantri Shahari Awas Yojana",
-        "Rashtriya Awas Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Awas Yojana is a scheme launched by the Indian government in 2015, which aims to provide housing for all by 2022. The scheme has several components, including the construction of new houses, the renovation of existing houses, and the provision of subsidies to homebuyers."
-    },
-    {
-      "id": 18,
-      "category": "Geography",
-      "question": "Which river is the longest in Asia?",
-      "options": [
-        "Yangtze River",
-        "Yellow River",
-        "Mekong River",
-        "Ganges River"
-      ],
-      "correct": 0,
-      "explanation": "The Yangtze River is the longest river in Asia, stretching for approximately 6,300 kilometers from its source in the Tibetan Plateau to its mouth in the East China Sea. The river is a major transportation route and is home to a diverse range of flora and fauna."
-    },
-    {
-      "id": 19,
-      "category": "Reasoning & Logic",
-      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
-      "options": [
-        "$0.05",
-        "$0.10",
-        "$0.15",
-        "$0.20"
-      ],
-      "correct": 0,
-      "explanation": "Let the cost of the ball be x. Then the cost of the bat is x + $1.00. The total cost is $1.10, so x + (x + $1.00) = $1.10. Simplifying the equation, we get 2x + $1.00 = $1.10. Subtracting $1.00 from both sides, we get 2x = $0.10. Dividing both sides by 2, we get x = $0.05."
-    },
-    {
-      "id": 20,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'Ennui'?",
-      "options": [
-        "A feeling of listlessness and boredom",
-        "A feeling of excitement and enthusiasm",
-        "A feeling of anger and frustration",
-        "A feeling of sadness and grief"
-      ],
-      "correct": 0,
-      "explanation": "Ennui is a feeling of listlessness and boredom, a lack of interest or excitement. It is often used to describe a state of mind that is characterized by a sense of emptiness or dissatisfaction."
-    },
-    {
-      "id": 21,
-      "category": "Current Affairs",
-      "question": "Who is the current Prime Minister of the United Kingdom?",
-      "options": [
-        "Rishi Sunak",
-        "Boris Johnson",
-        "Theresa May",
-        "David Cameron"
-      ],
-      "correct": 0,
-      "explanation": "Rishi Sunak is the current Prime Minister of the United Kingdom, a position he has held since 2022. He is a member of the Conservative Party and has previously served as Chancellor of the Exchequer."
-    },
-    {
-      "id": 22,
-      "category": "General Awareness & Static GK",
-      "question": "Which ancient Indian philosopher wrote the book 'Arthashastra'?",
-      "options": [
-        "Kautilya",
-        "Chanakya",
-        "Aryabhata",
-        "Nagarjuna"
-      ],
-      "correct": 0,
-      "explanation": "Kautilya, also known as Chanakya, was an ancient Indian philosopher who wrote the book 'Arthashastra'. The book is a treatise on statecraft, economics, and politics, and is considered one of the most important works of ancient Indian literature."
-    },
-    {
-      "id": 23,
       "category": "General Science",
       "question": "What is the largest living structure on Earth?",
       "options": [
@@ -301,25 +210,259 @@
         "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, stretching for approximately 2,300 kilometers off the coast of Australia. The reef is home to a diverse range of marine life, including coral, fish, and other organisms."
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning more than 2,300 kilometers off the coast of Australia."
+    },
+    {
+      "id": 17,
+      "category": "Indian Polity & Economy",
+      "question": "The term of the President of India is?",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "correct": 1,
+      "explanation": "The President of India is elected for a term of 5 years, as per Article 56 of the Indian Constitution."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "The largest desert in the world is?",
+      "options": [
+        "Sahara Desert",
+        "Gobi Desert",
+        "Mojave Desert",
+        "Atacama Desert"
+      ],
+      "correct": 0,
+      "explanation": "The Sahara Desert is the largest hot desert in the world, covering most of North Africa."
+    },
+    {
+      "id": 19,
+      "category": "Reasoning & Logic",
+      "question": "If A is greater than B, and C is less than B, then?",
+      "options": [
+        "A is greater than C",
+        "A is less than C",
+        "B is greater than A",
+        "C is greater than B"
+      ],
+      "correct": 0,
+      "explanation": "Given that A > B and C < B, it logically follows that A > C."
+    },
+    {
+      "id": 20,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the idiom 'break a leg'?",
+      "options": [
+        "To wish someone bad luck",
+        "To wish someone good luck",
+        "To instruct someone to be careful",
+        "To tell someone to stop"
+      ],
+      "correct": 1,
+      "explanation": "The idiom 'break a leg' is used to wish someone good luck, especially before a performance or a challenging situation."
+    },
+    {
+      "id": 21,
+      "category": "Current Affairs",
+      "question": "The first Indian to win an Olympic gold medal was?",
+      "options": [
+        "Abhinav Bindra",
+        "Neeraj Chopra",
+        "Khashaba Dadasaheb Jadhav",
+        "Milkha Singh"
+      ],
+      "correct": 2,
+      "explanation": "Khashaba Dadasaheb Jadhav was the first Indian to win an Olympic medal, a bronze in wrestling at the 1952 Helsinki Olympics, but Abhinav Bindra was the first to win a gold, at the 2008 Beijing Olympics. However, among the options given for winning a gold, Abhinav Bindra is the correct answer."
+    },
+    {
+      "id": 22,
+      "category": "General Awareness & Static GK",
+      "question": "The author of the book 'The Alchemist' is?",
+      "options": [
+        "Paulo Coelho",
+        "Gabriel Garcia Marquez",
+        "Mario Vargas Llosa",
+        "Isabel Allende"
+      ],
+      "correct": 0,
+      "explanation": "Paulo Coelho is the author of the internationally acclaimed novel 'The Alchemist', published in 1988."
+    },
+    {
+      "id": 23,
+      "category": "General Science",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
+      ],
+      "correct": 2,
+      "explanation": "Transpiration is the process by which water is transported through a plant, from the roots to the leaves, and is then released into the air as water vapor."
     },
     {
       "id": 24,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to small and medium-sized enterprises?",
+      "question": "The Indian Constitution came into effect on?",
       "options": [
-        "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Rojgar Protsahan Yojana",
-        "Pradhan Mantri Shram Yogi Maan-dhan Yojana"
+        "January 26, 1950",
+        "August 15, 1947",
+        "October 2, 1950",
+        "November 26, 1949"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri MUDRA Yojana is a scheme launched by the Indian government in 2015, which provides financial assistance to small and medium-sized enterprises. The scheme aims to promote entrepreneurship and job creation, and to provide access to credit for small businesses."
+      "explanation": "The Indian Constitution came into effect on January 26, 1950, and is celebrated as Republic Day in India."
     },
     {
       "id": 25,
       "category": "Geography",
-      "question": "Which city is the capital of Australia?",
+      "question": "The country with the longest coastline in the world is?",
+      "options": [
+        "Canada",
+        "Russia",
+        "China",
+        "United States"
+      ],
+      "correct": 0,
+      "explanation": "Canada has the longest coastline in the world, with a total length of approximately 243,000 kilometers."
+    },
+    {
+      "id": 26,
+      "category": "Reasoning & Logic",
+      "question": "If it takes 3 people 3 hours to dig 3 holes, how long would it take 6 people to dig 6 holes?",
+      "options": [
+        "3 hours",
+        "6 hours",
+        "9 hours",
+        "12 hours"
+      ],
+      "correct": 0,
+      "explanation": "If 3 people can dig 3 holes in 3 hours, the rate of digging is 1 hole per person per 3 hours. Thus, 6 people can dig 6 holes in the same 3 hours."
+    },
+    {
+      "id": 27,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the word 'nemesis'?",
+      "options": [
+        "A person's best friend",
+        "A person's worst enemy",
+        "A historical event",
+        "A scientific term"
+      ],
+      "correct": 1,
+      "explanation": "A nemesis is a person's archenemy or worst enemy, often used to describe someone who is a formidable and persistent opponent."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs",
+      "question": "The first woman to fly in space was?",
+      "options": [
+        "Valentina Tereshkova",
+        "Sally Ride",
+        "Mae Jemison",
+        "Kalpana Chawla"
+      ],
+      "correct": 0,
+      "explanation": "Valentina Tereshkova became the first woman to fly in space on June 16, 1963, aboard the Soviet spacecraft Vostok 6."
+    },
+    {
+      "id": 29,
+      "category": "General Awareness & Static GK",
+      "question": "The largest island in the Mediterranean Sea is?",
+      "options": [
+        "Sicily",
+        "Sardinia",
+        "Corsica",
+        "Crete"
+      ],
+      "correct": 0,
+      "explanation": "Sicily is the largest island in the Mediterranean Sea, with an area of approximately 25,711 square kilometers."
+    },
+    {
+      "id": 30,
+      "category": "General Science",
+      "question": "What is the largest part of the human brain?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Brainstem",
+        "Frontal lobe"
+      ],
+      "correct": 0,
+      "explanation": "The cerebrum is the largest part of the human brain, responsible for processing sensory information, controlling movement, and managing higher-level cognitive functions."
+    },
+    {
+      "id": 31,
+      "category": "Indian Polity & Economy",
+      "question": "The concept of 'directive principles of state policy' is enshrined in?",
+      "options": [
+        "Part III of the Indian Constitution",
+        "Part IV of the Indian Constitution",
+        "Part XII of the Indian Constitution",
+        "Part XIV of the Indian Constitution"
+      ],
+      "correct": 1,
+      "explanation": "The directive principles of state policy are outlined in Part IV of the Indian Constitution, which sets out the goals and objectives that the state should strive to achieve."
+    },
+    {
+      "id": 32,
+      "category": "Geography",
+      "question": "The river that flows through the Grand Canyon is?",
+      "options": [
+        "Colorado River",
+        "Missouri River",
+        "Mississippi River",
+        "Rio Grande"
+      ],
+      "correct": 0,
+      "explanation": "The Colorado River is the river that flows through the Grand Canyon, one of the most iconic natural wonders in the United States."
+    },
+    {
+      "id": 33,
+      "category": "Reasoning & Logic",
+      "question": "If A is less than B, and C is less than A, then?",
+      "options": [
+        "C is less than B",
+        "C is greater than B",
+        "A is greater than C",
+        "B is less than C"
+      ],
+      "correct": 0,
+      "explanation": "Given that A < B and C < A, it logically follows that C < B."
+    },
+    {
+      "id": 34,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the idiom 'bend over backwards'?",
+      "options": [
+        "To be very flexible",
+        "To work very hard",
+        "To go out of one's way to help",
+        "To be extremely lazy"
+      ],
+      "correct": 2,
+      "explanation": "The idiom 'bend over backwards' means to go out of one's way to help or accommodate someone, often to an excessive degree."
+    },
+    {
+      "id": 35,
+      "category": "Current Affairs",
+      "question": "The first commercial jet airliner was?",
+      "options": [
+        "Boeing 707",
+        "Douglas DC-8",
+        "de Havilland Comet",
+        "Airbus A300"
+      ],
+      "correct": 2,
+      "explanation": "The de Havilland Comet was the first commercial jet airliner, which entered service in 1952."
+    },
+    {
+      "id": 36,
+      "category": "General Awareness & Static GK",
+      "question": "The capital of Australia is?",
       "options": [
         "Sydney",
         "Melbourne",
@@ -327,90 +470,181 @@
         "Perth"
       ],
       "correct": 2,
-      "explanation": "Canberra is the capital of Australia, a city that was specifically designed and built to serve as the country's capital. The city is located in the Australian Capital Territory and is home to many national institutions, including the Parliament of Australia."
+      "explanation": "Canberra is the capital city of Australia, located in the Australian Capital Territory."
     },
     {
-      "id": 26,
-      "category": "Reasoning & Logic",
-      "question": "If a person is traveling from city A to city B at an average speed of 60 km/h, and from city B to city C at an average speed of 40 km/h, what is the average speed for the entire trip?",
-      "options": [
-        "50 km/h",
-        "55 km/h",
-        "60 km/h",
-        "65 km/h"
-      ],
-      "correct": 0,
-      "explanation": "To find the average speed for the entire trip, we need to find the total distance traveled and the total time taken. Let the distance from city A to city B be x km, and the distance from city B to city C be y km. The total distance is x + y km. The time taken to travel from city A to city B is x/60 hours, and the time taken to travel from city B to city C is y/40 hours. The total time is x/60 + y/40 hours. The average speed is (x + y) / (x/60 + y/40). To simplify, we can assume that the distance from city A to city B is equal to the distance from city B to city C, i.e., x = y. The total distance is 2x km. The total time is x/60 + x/40 = (2x + 3x)/120 = 5x/120 = x/24 hours. The average speed is 2x / (x/24) = 48 km/h. However, this is not among the options. Let's try another approach. The average speed is (total distance) / (total time). The total distance is x + y km. The total time is x/60 + y/40 hours. The average speed is (x + y) / (x/60 + y/40). We can simplify this expression by finding a common denominator for the fractions in the denominator. The common denominator is 120. So, the average speed is (x + y) / ((2x + 3y)/120). To simplify further, we can assume that the distance from city A to city B is equal to the distance from city B to city C, i.e., x = y. The total distance is 2x km. The total time is 2x/60 + 2x/40 = (4x + 3x)/120 = 7x/120 hours. The average speed is 2x / (7x/120) = 240/7 km/h = 34.29 km/h. However, this is not among the options. Since the options are 50 km/h, 55 km/h, 60 km/h, and 65 km/h, and the average speed must be less than 60 km/h (the higher speed) and more than 40 km/h (the lower speed), the correct answer is 50 km/h."
-    },
-    {
-      "id": 27,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'Fastidious'?",
-      "options": [
-        "Meticulous and demanding in one's standards",
-        "Careless and sloppy in one's work",
-        "Quick and efficient in one's actions",
-        "Slow and hesitant in one's decisions"
-      ],
-      "correct": 0,
-      "explanation": "Fastidious means meticulous and demanding in one's standards, having a strong attention to detail and a desire for precision and accuracy. It is often used to describe someone who is perfectionistic and has high expectations for themselves and others."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs",
-      "question": "Which company is the largest e-commerce platform in India?",
-      "options": [
-        "Amazon",
-        "Flipkart",
-        "Paytm",
-        "Snapdeal"
-      ],
-      "correct": 1,
-      "explanation": "Flipkart is the largest e-commerce platform in India, with a market share of over 30%. The company was founded in 2007 and has since become one of the most popular online shopping destinations in the country."
-    },
-    {
-      "id": 29,
-      "category": "General Awareness & Static GK",
-      "question": "Which ancient Indian dynasty built the temple of Angkor Wat?",
-      "options": [
-        "Gupta dynasty",
-        "Mauryan dynasty",
-        "Pallava dynasty",
-        "Khmer dynasty"
-      ],
-      "correct": 3,
-      "explanation": "The Khmer dynasty built the temple of Angkor Wat, which is located in modern-day Cambodia. The temple was built in the 12th century and is considered one of the most important architectural achievements in Southeast Asian history."
-    },
-    {
-      "id": 30,
+      "id": 37,
       "category": "General Science",
-      "question": "What is the process by which the universe became transparent to light?",
+      "question": "What is the scientific term for the 'building blocks of life'?",
       "options": [
-        "Big Bang",
-        "Dark Matter",
-        "Recombination",
-        "Inflation"
+        "Cells",
+        "Molecules",
+        "Tissues",
+        "Organs"
+      ],
+      "correct": 0,
+      "explanation": "Cells are often referred to as the 'building blocks of life' because they are the basic structural and functional units of living organisms."
+    },
+    {
+      "id": 38,
+      "category": "Indian Polity & Economy",
+      "question": "The Indian Independence Act was passed in?",
+      "options": [
+        "1945",
+        "1946",
+        "1947",
+        "1948"
       ],
       "correct": 2,
-      "explanation": "Recombination is the process by which the universe became transparent to light. This occurred when the universe had cooled enough for electrons and protons to combine into neutral atoms, allowing light to travel freely through space."
+      "explanation": "The Indian Independence Act was passed by the British Parliament in 1947, which led to the creation of India and Pakistan as separate nations."
     },
     {
-      "id": 31,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide health insurance to poor families?",
+      "id": 39,
+      "category": "Geography",
+      "question": "The highest peak in the solar system is?",
       "options": [
-        "Ayushman Bharat",
-        "Pradhan Mantri Jan Arogya Yojana",
-        "Rashtriya Swasthya Bima Yojana",
-        "National Health Mission"
+        "Mount Everest",
+        "Olympus Mons",
+        "Mauna Kea",
+        "Denali"
       ],
       "correct": 1,
-      "explanation": "The Pradhan Mantri Jan Arogya Yojana is a scheme launched by the Indian government in 2018, which provides health insurance to poor families. The scheme aims to provide financial protection to families against hospitalization expenses and to improve access to healthcare services for the poor."
+      "explanation": "Olympus Mons on Mars is the highest peak in the solar system, with a height of approximately 27 km above the Martian surface."
     },
     {
-      "id": 32,
+      "id": 40,
+      "category": "Reasoning & Logic",
+      "question": "If A and B are both greater than C, and A is less than B, then?",
+      "options": [
+        "A is greater than C",
+        "B is greater than A and C",
+        "C is greater than A and B",
+        "A and B are equal"
+      ],
+      "correct": 1,
+      "explanation": "Given that A > C and B > C, and A < B, it logically follows that B > A and C."
+    },
+    {
+      "id": 41,
+      "category": "English Language Concepts",
+      "question": "What is the synonym for the word 'happy'?",
+      "options": [
+        "Sad",
+        "Joyful",
+        "Big",
+        "Fast"
+      ],
+      "correct": 1,
+      "explanation": "The word 'joyful' is a synonym for 'happy', both describing a positive emotional state."
+    },
+    {
+      "id": 42,
+      "category": "Current Affairs",
+      "question": "The largest planet in our solar system is?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 0,
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
+    },
+    {
+      "id": 43,
+      "category": "General Awareness & Static GK",
+      "question": "The first Prime Minister of India was?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Vallabhbhai Patel"
+      ],
+      "correct": 0,
+      "explanation": "Jawaharlal Nehru was the first Prime Minister of India, serving from 1947 until his death in 1964."
+    },
+    {
+      "id": 44,
+      "category": "General Science",
+      "question": "What is the term for the movement of water from the ground to the atmosphere through plants?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
+      ],
+      "correct": 2,
+      "explanation": "Transpiration is the process by which water is transported through a plant, from the roots to the leaves, and is then released into the air as water vapor."
+    },
+    {
+      "id": 45,
+      "category": "Indian Polity & Economy",
+      "question": "The Indian Constitution is divided into?",
+      "options": [
+        "20 parts",
+        "22 parts",
+        "24 parts",
+        "25 parts"
+      ],
+      "correct": 1,
+      "explanation": "The Indian Constitution is divided into 22 parts, which include 448 articles and 8 schedules."
+    },
+    {
+      "id": 46,
       "category": "Geography",
-      "question": "Which city is the largest in Scandinavia?",
+      "question": "The country with the most time zones is?",
+      "options": [
+        "Russia",
+        "Canada",
+        "United States",
+        "China"
+      ],
+      "correct": 0,
+      "explanation": "Russia spans across 11 time zones, making it the country with the most time zones in the world."
+    },
+    {
+      "id": 47,
+      "category": "Reasoning & Logic",
+      "question": "If A is less than B, and B is less than C, then?",
+      "options": [
+        "A is less than C",
+        "A is greater than C",
+        "B is greater than A and C",
+        "C is less than A and B"
+      ],
+      "correct": 0,
+      "explanation": "Given that A < B and B < C, it logically follows that A < C."
+    },
+    {
+      "id": 48,
+      "category": "English Language Concepts",
+      "question": "What is the antonym for the word 'slow'?",
+      "options": [
+        "Fast",
+        "Big",
+        "Happy",
+        "Cold"
+      ],
+      "correct": 0,
+      "explanation": "The word 'fast' is an antonym for 'slow', as they describe opposite rates of movement or action."
+    },
+    {
+      "id": 49,
+      "category": "Current Affairs",
+      "question": "The first woman to walk in space was?",
+      "options": [
+        "Valentina Tereshkova",
+        "Svetlana Savitskaya",
+        "Sally Ride",
+        "Mae Jemison"
+      ],
+      "correct": 1,
+      "explanation": "Svetlana Savitskaya became the first woman to walk in space on July 25, 1984, during the Salyut 7 mission."
+    },
+    {
+      "id": 50,
+      "category": "General Awareness & Static GK",
+      "question": "The largest city in Scandinavia is?",
       "options": [
         "Stockholm",
         "Copenhagen",
@@ -418,371 +652,137 @@
         "Helsinki"
       ],
       "correct": 0,
-      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people. The city is located on the eastern coast of Sweden and is known for its stunning architecture, vibrant cultural scene, and beautiful natural surroundings."
-    },
-    {
-      "id": 33,
-      "category": "Reasoning & Logic",
-      "question": "If it takes 5 hours to walk from city A to city B, and 3 hours to walk from city B to city C, what is the average walking speed for the entire trip?",
-      "options": [
-        "4 km/h",
-        "5 km/h",
-        "6 km/h",
-        "7 km/h"
-      ],
-      "correct": 0,
-      "explanation": "To find the average walking speed for the entire trip, we need to find the total distance traveled and the total time taken. Let the distance from city A to city B be x km, and the distance from city B to city C be y km. The total distance is x + y km. The time taken to walk from city A to city B is 5 hours, and the time taken to walk from city B to city C is 3 hours. The total time is 5 + 3 = 8 hours. The average speed is (x + y) / 8 km/h. To simplify, we can assume that the distance from city A to city B is equal to the distance from city B to city C, i.e., x = y. The total distance is 2x km. The total time is 8 hours. The average speed is 2x / 8 = x/4 km/h. Since the options are 4 km/h, 5 km/h, 6 km/h, and 7 km/h, and the average speed must be less than 5 hours (the time taken to walk from city A to city B) and more than 3 hours (the time taken to walk from city B to city C), the correct answer is 4 km/h."
-    },
-    {
-      "id": 34,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'Heterogeneous'?",
-      "options": [
-        "Diverse and composed of different kinds of things",
-        "Uniform and composed of the same kind of things",
-        "Complex and difficult to understand",
-        "Simple and easy to understand"
-      ],
-      "correct": 0,
-      "explanation": "Heterogeneous means diverse and composed of different kinds of things, having a mixture of different elements or components. It is often used to describe a group or collection that is diverse and varied."
-    },
-    {
-      "id": 35,
-      "category": "Current Affairs",
-      "question": "Which country has the largest number of billionaires in the world?",
-      "options": [
-        "United States",
-        "China",
-        "India",
-        "Russia"
-      ],
-      "correct": 0,
-      "explanation": "The United States has the largest number of billionaires in the world, with over 700 billionaires. The country is home to many of the world's wealthiest individuals, including Bill Gates, Jeff Bezos, and Mark Zuckerberg."
-    },
-    {
-      "id": 36,
-      "category": "General Awareness & Static GK",
-      "question": "Which ancient Indian text is considered the oldest surviving Sanskrit epic?",
-      "options": [
-        "The Rigveda",
-        "The Mahabharata",
-        "The Ramayana",
-        "The Bhagavad Gita"
-      ],
-      "correct": 0,
-      "explanation": "The Rigveda is considered the oldest surviving Sanskrit epic, dating back to around 1500 BCE. The text is a collection of Vedic hymns and is considered one of the most important works of ancient Indian literature."
-    },
-    {
-      "id": 37,
-      "category": "General Science",
-      "question": "What is the process by which plants release water vapor into the air?",
-      "options": [
-        "Transpiration",
-        "Respiration",
-        "Photosynthesis",
-        "Evaporation"
-      ],
-      "correct": 0,
-      "explanation": "Transpiration is the process by which plants release water vapor into the air through their leaves. This process is an important part of the water cycle and helps to regulate the Earth's climate."
-    },
-    {
-      "id": 38,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to start-ups?",
-      "options": [
-        "Start-up India",
-        "Stand-up India",
-        "Make in India",
-        "Digital India"
-      ],
-      "correct": 0,
-      "explanation": "The Start-up India scheme is a initiative launched by the Indian government in 2016, which provides financial assistance to start-ups. The scheme aims to promote entrepreneurship and job creation, and to provide funding and support to start-ups in their early stages."
-    },
-    {
-      "id": 39,
-      "category": "Geography",
-      "question": "Which river is the longest in Europe?",
-      "options": [
-        "Volga River",
-        "Danube River",
-        "Rhine River",
-        "Elbe River"
-      ],
-      "correct": 0,
-      "explanation": "The Volga River is the longest river in Europe, stretching for approximately 3,692 kilometers from its source in the Valdai Hills to its mouth in the Caspian Sea. The river is a major transportation route and is home to a diverse range of flora and fauna."
-    },
-    {
-      "id": 40,
-      "category": "Reasoning & Logic",
-      "question": "If a person is traveling from city A to city B at an average speed of 40 km/h, and from city B to city C at an average speed of 60 km/h, what is the average speed for the entire trip?",
-      "options": [
-        "45 km/h",
-        "50 km/h",
-        "55 km/h",
-        "60 km/h"
-      ],
-      "correct": 1,
-      "explanation": "To find the average speed for the entire trip, we need to find the total distance traveled and the total time taken. Let the distance from city A to city B be x km, and the distance from city B to city C be y km. The total distance is x + y km. The time taken to travel from city A to city B is x/40 hours, and the time taken to travel from city B to city C is y/60 hours. The total time is x/40 + y/60 hours. The average speed is (x + y) / (x/40 + y/60). To simplify, we can assume that the distance from city A to city B is equal to the distance from city B to city C, i.e., x = y. The total distance is 2x km. The total time is x/40 + x/60 = (3x + 2x)/120 = 5x/120 = x/24 hours. The average speed is 2x / (x/24) = 48 km/h. However, this is not among the options. Since the options are 45 km/h, 50 km/h, 55 km/h, and 60 km/h, and the average speed must be less than 60 km/h (the higher speed) and more than 40 km/h (the lower speed), the correct answer is 50 km/h."
-    },
-    {
-      "id": 41,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'Inscrutable'?",
-      "options": [
-        "Difficult to understand or interpret",
-        "Easy to understand or interpret",
-        "Having a strong and unpleasant smell",
-        "Having a bright and colorful appearance"
-      ],
-      "correct": 0,
-      "explanation": "Inscrutable means difficult to understand or interpret, being mysterious or obscure. It is often used to describe something that is puzzling or enigmatic."
-    },
-    {
-      "id": 42,
-      "category": "Current Affairs",
-      "question": "Which city is the capital of Sri Lanka?",
-      "options": [
-        "Colombo",
-        "Sri Jayawardenepura Kotte",
-        "Kandy",
-        "Galle"
-      ],
-      "correct": 1,
-      "explanation": "Sri Jayawardenepura Kotte is the capital of Sri Lanka, a city that is located in the western part of the country. The city is home to many important government institutions, including the Parliament of Sri Lanka."
-    },
-    {
-      "id": 43,
-      "category": "General Awareness & Static GK",
-      "question": "Which ancient Indian king built the temple of Konark?",
-      "options": [
-        "Ashoka",
-        "Akbar",
-        "Narasimhadeva I",
-        "Krishnadeva Raya"
-      ],
-      "correct": 2,
-      "explanation": "Narasimhadeva I, also known as Langula Narasimha Deva, was an ancient Indian king who built the temple of Konark in the 13th century. The temple is located in the state of Odisha and is known for its intricate carvings and stunning architecture."
-    },
-    {
-      "id": 44,
-      "category": "General Science",
-      "question": "What is the process by which the universe became dominated by matter?",
-      "options": [
-        "Big Bang",
-        "Dark Matter",
-        "Matter-antimatter asymmetry",
-        "Inflation"
-      ],
-      "correct": 2,
-      "explanation": "Matter-antimatter asymmetry is the process by which the universe became dominated by matter. This occurred in the early universe, when the laws of physics allowed for the creation of more matter than antimatter, resulting in the universe we see today."
-    },
-    {
-      "id": 45,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to farmers for irrigation purposes?",
-      "options": [
-        "Pradhan Mantri Krishi Sinchai Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Rashtriya Krishi Vikas Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Krishi Sinchai Yojana is a scheme launched by the Indian government in 2015, which provides financial assistance to farmers for irrigation purposes. The scheme aims to promote water conservation and efficient use of water in agriculture."
-    },
-    {
-      "id": 46,
-      "category": "Geography",
-      "question": "Which city is the largest in South America?",
-      "options": [
-        "Sao Paulo",
-        "Buenos Aires",
-        "Lima",
-        "Bogota"
-      ],
-      "correct": 0,
-      "explanation": "Sao Paulo is the largest city in South America, with a population of over 22 million people. The city is located in the southeastern part of Brazil and is a major economic and cultural center in the region."
-    },
-    {
-      "id": 47,
-      "category": "Reasoning & Logic",
-      "question": "If a person is traveling from city A to city B at an average speed of 50 km/h, and from city B to city C at an average speed of 30 km/h, what is the average speed for the entire trip?",
-      "options": [
-        "35 km/h",
-        "40 km/h",
-        "45 km/h",
-        "50 km/h"
-      ],
-      "correct": 1,
-      "explanation": "To find the average speed for the entire trip, we need to find the total distance traveled and the total time taken. Let the distance from city A to city B be x km, and the distance from city B to city C be y km. The total distance is x + y km. The time taken to travel from city A to city B is x/50 hours, and the time taken to travel from city B to city C is y/30 hours. The total time is x/50 + y/30 hours. The average speed is (x + y) / (x/50 + y/30). To simplify, we can assume that the distance from city A to city B is equal to the distance from city B to city C, i.e., x = y. The total distance is 2x km. The total time is x/50 + x/30 = (3x + 5x)/150 = 8x/150 = 4x/75 hours. The average speed is 2x / (4x/75) = 75/2 km/h = 37.5 km/h. However, this is not among the options. Since the options are 35 km/h, 40 km/h, 45 km/h, and 50 km/h, and the average speed must be less than 50 km/h (the higher speed) and more than 30 km/h (the lower speed), the correct answer is 40 km/h."
-    },
-    {
-      "id": 48,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'Perfidious'?",
-      "options": [
-        "Disloyal or treacherous",
-        "Loyal or faithful",
-        "Honest or trustworthy",
-        "Dishonest or deceitful"
-      ],
-      "correct": 0,
-      "explanation": "Perfidious means disloyal or treacherous, being unfaithful or having a tendency to betray trust. It is often used to describe someone who is untrustworthy or has a history of deceit."
-    },
-    {
-      "id": 49,
-      "category": "Current Affairs",
-      "question": "Which country is the largest producer of oil in the world?",
-      "options": [
-        "United States",
-        "Saudi Arabia",
-        "Russia",
-        "Canada"
-      ],
-      "correct": 0,
-      "explanation": "The United States is the largest producer of oil in the world, accounting for over 18% of global production. The country has a large number of oil fields and is home to many major oil companies, including ExxonMobil and Chevron."
-    },
-    {
-      "id": 50,
-      "category": "General Awareness & Static GK",
-      "question": "Which ancient Indian scholar wrote the book 'Charaka Samhita'?",
-      "options": [
-        "Charaka",
-        "Sushruta",
-        "Vagbhata",
-        "Kashyapa"
-      ],
-      "correct": 0,
-      "explanation": "Charaka was an ancient Indian scholar who wrote the book 'Charaka Samhita', a treatise on Ayurveda that is still studied today. The book is considered one of the most important works on Indian medicine and is known for its detailed descriptions of human anatomy and disease."
+      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people within the city limits."
     },
     {
       "id": 51,
       "category": "General Science",
-      "question": "What is the process by which the human body regulates its temperature?",
+      "question": "What is the term for the study of the structure, behavior, and evolution of the universe?",
       "options": [
-        "Sweating",
-        "Shivering",
-        "Hyperventilation",
-        "Vasoconstriction"
+        "Cosmology",
+        "Astronomy",
+        "Astrophysics",
+        "Geology"
       ],
       "correct": 0,
-      "explanation": "Sweating is the process by which the human body regulates its temperature, with sweat glands producing sweat that evaporates and cools the body. This process is an important part of the body's thermoregulatory system and helps to maintain a stable body temperature."
+      "explanation": "Cosmology is the study of the origin, evolution, and fate of the universe, encompassing its structure, composition, and laws."
     },
     {
       "id": 52,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to women for entrepreneurship?",
+      "question": "The Comptroller and Auditor General of India is appointed by?",
       "options": [
-        "Pradhan Mantri Mudra Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Ujjwala Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana"
+        "The President of India",
+        "The Prime Minister of India",
+        "The Parliament of India",
+        "The Supreme Court of India"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Mudra Yojana is a scheme launched by the Indian government in 2015, which provides financial assistance to women for entrepreneurship. The scheme aims to promote women's empowerment and economic development, and to provide funding and support to women entrepreneurs."
+      "explanation": "The Comptroller and Auditor General of India is appointed by the President of India, as per Article 148 of the Indian Constitution."
     },
     {
       "id": 53,
       "category": "Geography",
-      "question": "Which city is the capital of New Zealand?",
+      "question": "The world's largest waterfall, by volume of water, is?",
       "options": [
-        "Wellington",
-        "Auckland",
-        "Christchurch",
-        "Queenstown"
+        "Victoria Falls",
+        "Iguazu Falls",
+        "Niagara Falls",
+        "Angel Falls"
       ],
       "correct": 0,
-      "explanation": "Wellington is the capital of New Zealand, a city that is located on the southern tip of the North Island. The city is home to many important government institutions, including the Parliament of New Zealand."
+      "explanation": "Victoria Falls, located on the border of Zambia and Zimbabwe in southern Africa, is the world's largest waterfall by volume of water."
     },
     {
       "id": 54,
       "category": "Reasoning & Logic",
-      "question": "If a person is traveling from city A to city B at an average speed of 60 km/h, and from city B to city C at an average speed of 40 km/h, what is the average speed for the entire trip?",
+      "question": "If A and B are both greater than C, and A is greater than B, then?",
       "options": [
-        "45 km/h",
-        "50 km/h",
-        "55 km/h",
-        "60 km/h"
+        "A is greater than C",
+        "B is greater than A and C",
+        "C is greater than A and B",
+        "A and B are equal"
       ],
       "correct": 0,
-      "explanation": "To find the average speed for the entire trip, we need to find the total distance traveled and the total time taken. Let the distance from city A to city B be x km, and the distance from city B to city C be y km. The total distance is x + y km. The time taken to travel from city A to city B is x/60 hours, and the time taken to travel from city B to city C is y/40 hours. The total time is x/60 + y/40 hours. The average speed is (x + y) / (x/60 + y/40). To simplify, we can assume that the distance from city A to city B is equal to the distance from city B to city C, i.e., x = y. The total distance is 2x km. The total time is x/60 + x/40 = (2x + 3x)/120 = 5x/120 = x/24 hours. The average speed is 2x / (x/24) = 48 km/h. However, this is not among the options. Since the options are 45 km/h, 50 km/h, 55 km/h, and 60 km/h, and the average speed must be less than 60 km/h (the higher speed) and more than 40 km/h (the lower speed), the correct answer is 45 km/h."
+      "explanation": "Given that A > C and B > C, and A > B, it logically follows that A > C."
     },
     {
       "id": 55,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'Ephemeral'?",
+      "question": "What is the meaning of the idiom 'call it a day'?",
       "options": [
-        "Lasting for a very short time",
-        "Lasting for a very long time",
-        "Having a strong and unpleasant smell",
-        "Having a bright and colorful appearance"
+        "To start work",
+        "To finish work for the day",
+        "To take a break",
+        "To go on a vacation"
       ],
-      "correct": 0,
-      "explanation": "Ephemeral means lasting for a very short time, being transitory or fleeting. It is often used to describe something that is temporary or has a limited duration."
+      "correct": 1,
+      "explanation": "The idiom 'call it a day' means to stop what you are doing and go home for the day, often because you are tired or it is late."
     },
     {
       "id": 56,
       "category": "Current Affairs",
-      "question": "Which company is the largest technology company in the world?",
+      "question": "The first country to grant women the right to vote was?",
       "options": [
-        "Apple",
-        "Google",
-        "Amazon",
-        "Microsoft"
+        "New Zealand",
+        "United States",
+        "United Kingdom",
+        "Australia"
       ],
       "correct": 0,
-      "explanation": "Apple is the largest technology company in the world, with a market capitalization of over $2 trillion. The company is known for its innovative products, including the iPhone, MacBook, and iPad."
+      "explanation": "New Zealand was the first country to grant women the right to vote, with the Electoral Act of 1893 coming into effect on September 19, 1893."
     },
     {
       "id": 57,
       "category": "General Awareness & Static GK",
-      "question": "Which ancient Indian text is considered the oldest surviving work on Indian philosophy?",
+      "question": "The author of the book '1984' is?",
       "options": [
-        "The Rigveda",
-        "The Upanishads",
-        "The Bhagavad Gita",
-        "The Mahabharata"
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "Kurt Vonnegut"
       ],
-      "correct": 1,
-      "explanation": "The Upanishads are considered the oldest surviving work on Indian philosophy, with the oldest texts dating back to around 800 BCE. The Upanishads are a collection of philosophical and spiritual texts that explore the nature of reality, the self, and the ultimate reality."
+      "correct": 0,
+      "explanation": "George Orwell is the author of the dystopian novel '1984', published in 1949."
     },
     {
       "id": 58,
       "category": "General Science",
-      "question": "What is the process by which the human body repairs damaged tissues?",
+      "question": "What is the scientific term for the study of the weather?",
       "options": [
-        "Inflammation",
-        "Infection",
-        "Regeneration",
-        "Degeneration"
+        "Meteorology",
+        "Climatology",
+        "Geology",
+        "Oceanography"
       ],
-      "correct": 2,
-      "explanation": "Regeneration is the process by which the human body repairs damaged tissues, with the body's cells and tissues working together to restore damaged or missing tissue. This process is an important part of the body's healing response and is essential for maintaining overall health and function."
+      "correct": 0,
+      "explanation": "Meteorology is the scientific study of the Earth's atmosphere, especially as it relates to weather and climate."
     },
     {
       "id": 59,
       "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's scheme to provide financial assistance to small and medium-sized enterprises?",
+      "question": "The Planning Commission of India was replaced by?",
       "options": [
-        "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Ujjwala Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana"
+        "NITI Aayog",
+        "Ministry of Finance",
+        "Ministry of Planning",
+        "Department of Economic Affairs"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri MUDRA Yojana is a scheme launched by the Indian government in 2015, which provides financial assistance to small and medium-sized enterprises. The scheme aims to promote entrepreneurship and job creation, and to provide funding and support to small businesses."
+      "explanation": "The Planning Commission of India was replaced by NITI Aayog (National Institution for Transforming India) in 2015."
     },
     {
       "id": 60,
-      "category": "Geography",
-      "question": "Which city is the largest in Africa?",
+      "category": "Reasoning & Logic",
+      "question": "If A is greater than B, and B is greater than C, then?",
       "options": [
-        "Lagos",
-        "Cairo",
-        "Kinshasa",
-        "Johannesburg"
+        "A is greater than C",
+        "A is less than C",
+        "B is greater than A",
+        "C is greater than B"
       ],
       "correct": 0,
-      "explanation": "Lagos is the largest city in Africa, with a population of over 21 million people. The city is located in the western part of Nigeria and is a major economic and cultural center in the region."
+      "explanation": "Given that A > B and B > C, it logically follows that A > C."
     }
   ]
 }
