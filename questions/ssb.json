@@ -1,180 +1,115 @@
 {
   "exam": "ssb",
   "name": "SSB",
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'The Lives of Others'?",
+      "question": "Who is the author of the book 'The Discovery of India'?",
       "options": [
-        "Amitav Ghosh",
-        "Neel Mukherjee",
-        "Arundhati Roy",
-        "Vikram Seth"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
       ],
-      "correct": 1,
-      "explanation": "The book 'The Lives of Others' is written by Neel Mukherjee, an Indian author. The book is about the story of an Indian family and explores the complexities of human relationships."
+      "correct": 0,
+      "explanation": "The book 'The Discovery of India' was written by Jawaharlal Nehru. The book is a historical narrative and gives a detailed account of India's history and culture."
     },
     {
       "id": 2,
       "category": "Indian History & Freedom Struggle",
-      "question": "Which freedom fighter was known for his slogan 'Jai Hind'?",
+      "question": "Which of the following battles marked the end of the Mughal Empire?",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bhagat Singh"
+        "Battle of Panipat",
+        "Battle of Plassey",
+        "Battle of Buxar",
+        "Battle of Delhi"
       ],
       "correct": 0,
-      "explanation": "Subhas Chandra Bose, also known as Netaji, was a prominent Indian nationalist and freedom fighter. He is known for his famous slogan 'Jai Hind', which means 'Victory to India'."
+      "explanation": "The Battle of Panipat marked the end of the Mughal Empire. It was fought between the Maratha Empire and the Durrani Empire in 1761."
     },
     {
       "id": 3,
       "category": "Indian Polity & Constitution",
       "question": "What is the term of the President of India?",
       "options": [
-        "4 years",
         "5 years",
         "6 years",
-        "7 years"
+        "7 years",
+        "10 years"
       ],
-      "correct": 1,
-      "explanation": "The term of the President of India is 5 years, as per Article 56 of the Indian Constitution. The President can serve a maximum of two terms, with each term lasting 5 years."
+      "correct": 0,
+      "explanation": "The term of the President of India is 5 years. The President is elected by an electoral college consisting of the members of both houses of parliament and the legislative assemblies of the states."
     },
     {
       "id": 4,
-      "category": "General Awareness & GK",
-      "question": "What is the national animal of India?",
+      "category": "Geography",
+      "question": "Which of the following rivers flows through the states of Madhya Pradesh and Gujarat?",
       "options": [
-        "Tiger",
-        "Lion",
-        "Elephant",
-        "Monkey"
+        "Narmada River",
+        "Tapi River",
+        "Mahanadi River",
+        "Godavari River"
       ],
       "correct": 0,
-      "explanation": "The national animal of India is the Bengal Tiger. It is found in various parts of the country and is considered a symbol of power and strength."
+      "explanation": "The Narmada River flows through the states of Madhya Pradesh and Gujarat. It is one of the major rivers in India and is considered sacred by Hindus."
     },
     {
       "id": 5,
-      "category": "Geography",
-      "question": "Which river flows through the city of Varanasi?",
+      "category": "General Science",
+      "question": "What is the process by which plants make their own food?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Brahmaputra",
-        "Narmada"
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Fermentation"
       ],
-      "correct": 0,
-      "explanation": "The Ganga River flows through the city of Varanasi, which is considered one of the holiest cities in India. The Ganga is the longest river in India and is a significant cultural and spiritual symbol."
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants make their own food. It involves the conversion of light energy into chemical energy, which is then used to synthesize glucose from carbon dioxide and water."
     },
     {
       "id": 6,
-      "category": "Indian History & Freedom Struggle",
-      "question": "Who was the first woman to become the President of the Indian National Congress?",
-      "options": [
-        "Sarojini Naidu",
-        "Annie Besant",
-        "Indira Gandhi",
-        "Kamaladevi Chattopadhyay"
-      ],
-      "correct": 0,
-      "explanation": "Sarojini Naidu was the first woman to become the President of the Indian National Congress. She was a prominent Indian nationalist and freedom fighter, and played a significant role in the Indian independence movement."
-    },
-    {
-      "id": 7,
-      "category": "General Science",
-      "question": "What is the largest planet in our solar system?",
-      "options": [
-        "Earth",
-        "Saturn",
-        "Jupiter",
-        "Uranus"
-      ],
-      "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers. It is a gas giant and is known for its distinctive banded appearance."
-    },
-    {
-      "id": 8,
       "category": "Defense & Security Knowledge",
       "question": "What is the name of the Indian Army's special forces unit?",
       "options": [
-        "NSG",
-        "MARCOS",
-        "Ghatak",
-        "Para SF"
+        "National Security Guard",
+        "Special Protection Group",
+        "Parachute Regiment",
+        "Marcos"
       ],
-      "correct": 3,
-      "explanation": "The Para SF, also known as the Parachute Regiment Special Forces, is the Indian Army's special forces unit. It is trained to conduct high-risk missions, including counter-terrorism and special operations."
+      "correct": 0,
+      "explanation": "The National Security Guard (NSG) is the Indian Army's special forces unit. It was established in 1984 and is trained to handle high-risk situations such as hostage rescue and counter-terrorism operations."
+    },
+    {
+      "id": 7,
+      "category": "Current Affairs",
+      "question": "Who is the current Chief of the Air Staff of the Indian Air Force?",
+      "options": [
+        "Air Chief Marshal Vivek Ram Chaudhari",
+        "Air Chief Marshal RKS Bhadauria",
+        "Air Chief Marshal Birender Singh Dhanoa",
+        "Air Chief Marshal Arup Raha"
+      ],
+      "correct": 0,
+      "explanation": "Air Chief Marshal Vivek Ram Chaudhari is the current Chief of the Air Staff of the Indian Air Force. He took over as the Chief of the Air Staff on 30 September 2021."
+    },
+    {
+      "id": 8,
+      "category": "General Awareness & GK",
+      "question": "What is the name of the largest national park in India?",
+      "options": [
+        "Hemis National Park",
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Gir Forest National Park"
+      ],
+      "correct": 0,
+      "explanation": "The Hemis National Park is the largest national park in India. It is located in the state of Jammu and Kashmir and covers an area of approximately 4,400 square kilometers."
     },
     {
       "id": 9,
-      "category": "Current Affairs",
-      "question": "Who is the current Chief Minister of the state of Uttar Pradesh?",
-      "options": [
-        "Yogi Adityanath",
-        "Akhilesh Yadav",
-        "Mayawati",
-        "Mulayam Singh Yadav"
-      ],
-      "correct": 0,
-      "explanation": "Yogi Adityanath is the current Chief Minister of the state of Uttar Pradesh. He is a member of the Bharatiya Janata Party (BJP) and has been in office since 2017."
-    },
-    {
-      "id": 10,
-      "category": "General Awareness & GK",
-      "question": "Which Indian state is known as 'God's Own Country'?",
-      "options": [
-        "Kerala",
-        "Tamil Nadu",
-        "Karnataka",
-        "Andhra Pradesh"
-      ],
-      "correct": 0,
-      "explanation": "Kerala is known as 'God's Own Country' due to its natural beauty, rich culture, and high standard of living. It is a popular tourist destination and is known for its backwaters, beaches, and hill stations."
-    },
-    {
-      "id": 11,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional provision that guarantees the right to freedom of speech and expression?",
-      "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 25"
-      ],
-      "correct": 1,
-      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression. This article is a fundamental right and is considered essential for the functioning of a democratic society."
-    },
-    {
-      "id": 12,
-      "category": "Geography",
-      "question": "Which mountain range runs along the border between India and Pakistan?",
-      "options": [
-        "Karakoram",
-        "Himalayas",
-        "Aravalli",
-        "Vindhya"
-      ],
-      "correct": 0,
-      "explanation": "The Karakoram mountain range runs along the border between India and Pakistan. It is a part of the larger Himalayan mountain range and is known for its rugged terrain and high peaks."
-    },
-    {
-      "id": 13,
-      "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'A Suitable Boy'?",
-      "options": [
-        "Vikram Seth",
-        "Amitav Ghosh",
-        "Arundhati Roy",
-        "Salman Rushdie"
-      ],
-      "correct": 0,
-      "explanation": "Vikram Seth is the author of the book 'A Suitable Boy'. The book is a novel that explores the complexities of Indian society and culture, and is considered one of the most important works of Indian literature."
-    },
-    {
-      "id": 14,
       "category": "Indian History & Freedom Struggle",
       "question": "Who was the leader of the Indian National Congress during the Non-Cooperation Movement?",
       "options": [
@@ -184,218 +119,36 @@
         "Lala Lajpat Rai"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Non-Cooperation Movement. The movement was launched in 1920 and was a major part of the Indian independence struggle."
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Non-Cooperation Movement. The movement was launched in 1920 and aimed at achieving independence for India through non-violent means."
     },
     {
-      "id": 15,
-      "category": "General Science",
-      "question": "What is the process by which plants convert sunlight into energy?",
+      "id": 10,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the highest court in India?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
+        "Supreme Court",
+        "High Court",
+        "District Court",
+        "Tribunal"
+      ],
+      "correct": 0,
+      "explanation": "The Supreme Court is the highest court in India. It is the apex court and has the power to interpret the Constitution and laws of the land."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which of the following mountain ranges runs along the border between India and Pakistan?",
+      "options": [
+        "Himalayan Mountain Range",
+        "Karakoram Mountain Range",
+        "Aravalli Mountain Range",
+        "Vindhya Mountain Range"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants convert sunlight into energy. It is an essential process that occurs in plants, algae, and some bacteria, and is the basis of life on Earth."
+      "explanation": "The Karakoram Mountain Range runs along the border between India and Pakistan. It is a mountain range that stretches for approximately 500 kilometers and is known for its rugged terrain and high peaks."
     },
     {
-      "id": 16,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's submarine rescue unit?",
-      "options": [
-        "INWS",
-        "DSS",
-        "INM",
-        "IMRF"
-      ],
-      "correct": 3,
-      "explanation": "The Indian Navy's submarine rescue unit is known as the Indian Marine Rescue Force (IMRF). The IMRF is responsible for providing rescue services to submarines in distress, and is equipped with specialized equipment and trained personnel."
-    },
-    {
-      "id": 17,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian government's flagship program to promote digital payments?",
-      "options": [
-        "Digital India",
-        "Make in India",
-        "Skill India",
-        "BHIM"
-      ],
-      "correct": 0,
-      "explanation": "Digital India is the Indian government's flagship program to promote digital payments and improve digital infrastructure. The program aims to promote the use of digital technologies and improve access to government services."
-    },
-    {
-      "id": 18,
-      "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'The Namesake'?",
-      "options": [
-        "Jhumpa Lahiri",
-        "Amitav Ghosh",
-        "Arundhati Roy",
-        "Salman Rushdie"
-      ],
-      "correct": 0,
-      "explanation": "Jhumpa Lahiri is the author of the book 'The Namesake'. The book is a novel that explores the experiences of Indian immigrants in the United States, and is considered one of the most important works of Indian-American literature."
-    },
-    {
-      "id": 19,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional provision that guarantees the right to equality?",
-      "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
-      ],
-      "correct": 0,
-      "explanation": "Article 14 of the Indian Constitution guarantees the right to equality. This article is a fundamental right and is considered essential for the functioning of a democratic society."
-    },
-    {
-      "id": 20,
-      "category": "Geography",
-      "question": "Which river is the longest in the state of Maharashtra?",
-      "options": [
-        "Godavari",
-        "Krishna",
-        "Bhima",
-        "Tapi"
-      ],
-      "correct": 0,
-      "explanation": "The Godavari River is the longest in the state of Maharashtra. It is one of the major rivers in India and flows through several states, including Maharashtra, Telangana, and Andhra Pradesh."
-    },
-    {
-      "id": 21,
-      "category": "General Awareness & GK",
-      "question": "Who is the CEO of the Indian company Infosys?",
-      "options": [
-        "Nandan Nilekani",
-        "Sachin Bansal",
-        "Binny Bansal",
-        "Salil Parekh"
-      ],
-      "correct": 3,
-      "explanation": "Salil Parekh is the CEO of the Indian company Infosys. He is a business executive and has been leading the company since 2018."
-    },
-    {
-      "id": 22,
-      "category": "Indian History & Freedom Struggle",
-      "question": "Who was the founder of the Indian National Congress?",
-      "options": [
-        "A.O. Hume",
-        "Lala Lajpat Rai",
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose"
-      ],
-      "correct": 0,
-      "explanation": "A.O. Hume was the founder of the Indian National Congress. The Indian National Congress was founded in 1885 and played a significant role in the Indian independence movement."
-    },
-    {
-      "id": 23,
-      "category": "General Science",
-      "question": "What is the largest living structure on Earth?",
-      "options": [
-        "The Great Barrier Reef",
-        "The Amazon Rainforest",
-        "The Grand Canyon",
-        "The Great Wall of China"
-      ],
-      "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth. It is located in the Coral Sea, off the coast of Australia, and is composed of billions of tiny coral polyps that work together to create this massive ecosystem."
-    },
-    {
-      "id": 24,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Air Force's transport aircraft?",
-      "options": [
-        "C-17 Globemaster III",
-        "C-130J Super Hercules",
-        "IL-76",
-        "AN-32"
-      ],
-      "correct": 0,
-      "explanation": "The C-17 Globemaster III is the Indian Air Force's transport aircraft. It is a large military transport aircraft that is used for a variety of tasks, including transporting troops and equipment."
-    },
-    {
-      "id": 25,
-      "category": "Current Affairs",
-      "question": "Who is the current President of the Indian Olympic Association?",
-      "options": [
-        "N. Ramachandran",
-        "Vijay Kumar Malhotra",
-        "Abhay Singh Chautala",
-        "P.T. Usha"
-      ],
-      "correct": 0,
-      "explanation": "N. Ramachandran is the current President of the Indian Olympic Association. He is a sports administrator and has been leading the IOA since 2014."
-    },
-    {
-      "id": 26,
-      "category": "General Awareness & GK",
-      "question": "Which Indian state is known as the 'Land of the Gods'?",
-      "options": [
-        "Uttarakhand",
-        "Himachal Pradesh",
-        "Jammu and Kashmir",
-        "Sikkim"
-      ],
-      "correct": 0,
-      "explanation": "Uttarakhand is known as the 'Land of the Gods' due to its rich cultural and spiritual heritage. The state is home to several important Hindu pilgrimage sites, including Haridwar and Rishikesh."
-    },
-    {
-      "id": 27,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional provision that guarantees the right to freedom of speech and expression in India?",
-      "options": [
-        "Article 19",
-        "Article 21",
-        "Article 25",
-        "Article 29"
-      ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression. This article is a fundamental right and is considered essential for the functioning of a democratic society."
-    },
-    {
-      "id": 28,
-      "category": "Geography",
-      "question": "Which mountain range runs along the border between India and Nepal?",
-      "options": [
-        "Himalayas",
-        "Karakoram",
-        "Aravalli",
-        "Vindhya"
-      ],
-      "correct": 0,
-      "explanation": "The Himalayas mountain range runs along the border between India and Nepal. The Himalayas are the world's highest mountain range and are home to several of the world's highest peaks, including Mount Everest."
-    },
-    {
-      "id": 29,
-      "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'The God of Small Things'?",
-      "options": [
-        "Arundhati Roy",
-        "Amitav Ghosh",
-        "Vikram Seth",
-        "Salman Rushdie"
-      ],
-      "correct": 0,
-      "explanation": "Arundhati Roy is the author of the book 'The God of Small Things'. The book is a novel that explores the complexities of Indian society and culture, and is considered one of the most important works of Indian literature."
-    },
-    {
-      "id": 30,
-      "category": "Indian History & Freedom Struggle",
-      "question": "Who was the leader of the Indian National Congress during the Quit India Movement?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Sardar Patel"
-      ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Quit India Movement. The movement was launched in 1942 and was a major part of the Indian independence struggle."
-    },
-    {
-      "id": 31,
+      "id": 12,
       "category": "General Science",
       "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
       "options": [
@@ -405,101 +158,88 @@
         "Evaporation"
       ],
       "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves. It is an essential process that helps plants regulate their temperature and maintain their water balance."
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves. It involves the movement of water from the roots to the leaves, where it is then released into the air as water vapor."
     },
     {
-      "id": 32,
+      "id": 13,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Army's special forces unit that conducts counter-terrorism operations?",
+      "question": "What is the name of the Indian Navy's submarine rescue unit?",
       "options": [
-        "NSG",
-        "MARCOS",
-        "Ghatak",
-        "Para SF"
-      ],
-      "correct": 0,
-      "explanation": "The NSG (National Security Guard) is the Indian Army's special forces unit that conducts counter-terrorism operations. The NSG is trained to handle high-risk situations and is equipped with specialized equipment and tactics."
-    },
-    {
-      "id": 33,
-      "category": "Current Affairs",
-      "question": "Who is the current Chairman of the Indian Space Research Organisation (ISRO)?",
-      "options": [
-        "K. Sivan",
-        "G. Madhavan Nair",
-        "K. Radhakrishnan",
-        "A.S. Kiran Kumar"
-      ],
-      "correct": 0,
-      "explanation": "K. Sivan is the current Chairman of the Indian Space Research Organisation (ISRO). He is a scientist and engineer and has been leading ISRO since 2018."
-    },
-    {
-      "id": 34,
-      "category": "General Awareness & GK",
-      "question": "Which Indian state is known as the 'Land of Five Rivers'?",
-      "options": [
-        "Punjab",
-        "Haryana",
-        "Uttar Pradesh",
-        "Bihar"
-      ],
-      "correct": 0,
-      "explanation": "Punjab is known as the 'Land of Five Rivers' due to its location in the Indus Valley, where five major rivers flow: the Sutlej, Ravi, Jhelum, Chenab, and Beas."
-    },
-    {
-      "id": 35,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional provision that guarantees the right to equality before the law?",
-      "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
-      ],
-      "correct": 0,
-      "explanation": "Article 14 of the Indian Constitution guarantees the right to equality before the law. This article is a fundamental right and is considered essential for the functioning of a democratic society."
-    },
-    {
-      "id": 36,
-      "category": "Geography",
-      "question": "Which river is the longest in the state of Andhra Pradesh?",
-      "options": [
-        "Godavari",
-        "Krishna",
-        "Pennar",
-        "Tungabhadra"
-      ],
-      "correct": 0,
-      "explanation": "The Godavari River is the longest in the state of Andhra Pradesh. It is one of the major rivers in India and flows through several states, including Andhra Pradesh, Telangana, and Maharashtra."
-    },
-    {
-      "id": 37,
-      "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'The Inheritance of Loss'?",
-      "options": [
-        "Kiranjit Ahluwalia",
-        "Vikram Seth",
-        "Amitav Ghosh",
-        "Kiran Desai"
+        "Indian Navy Submarine Rescue Unit",
+        "National Institute of Ocean Technology",
+        "Indian Navy's Deep Sea Submarine Rescue Unit",
+        "Indian Navy's Submarine Rescue and Salvage Unit"
       ],
       "correct": 3,
-      "explanation": "Kiran Desai is the author of the book 'The Inheritance of Loss'. The book is a novel that explores the complexities of Indian society and culture, and is considered one of the most important works of Indian literature."
+      "explanation": "The Indian Navy's Submarine Rescue and Salvage Unit is a specialized unit that provides rescue and salvage services for submarines. It is equipped with advanced equipment and trained personnel to handle submarine rescue operations."
     },
     {
-      "id": 38,
-      "category": "Indian History & Freedom Struggle",
-      "question": "Who was the first Governor-General of India?",
+      "id": 14,
+      "category": "Current Affairs",
+      "question": "What is the name of the Indian government's initiative to promote digital payments?",
       "options": [
-        "Lord William Bentinck",
-        "Lord Cornwallis",
-        "Lord Wellesley",
-        "Lord Dalhousie"
+        "Digital India",
+        "Make in India",
+        "Startup India",
+        "BHIM"
       ],
-      "correct": 1,
-      "explanation": "Lord Cornwallis was the first Governor-General of India. He served from 1786 to 1793 and played a significant role in the development of British India."
+      "correct": 0,
+      "explanation": "Digital India is the Indian government's initiative to promote digital payments. It aims to make India a digitally empowered society and knowledge economy by providing access to digital services and promoting digital literacy."
     },
     {
-      "id": 39,
+      "id": 15,
+      "category": "General Awareness & GK",
+      "question": "Who is the author of the book 'My Experiments with Truth'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
+      ],
+      "correct": 0,
+      "explanation": "Mahatma Gandhi is the author of the book 'My Experiments with Truth'. The book is an autobiography that details Gandhi's life and experiences, including his early life, his time in South Africa, and his role in the Indian independence movement."
+    },
+    {
+      "id": 16,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Which of the following battles was fought between the British East India Company and the Maratha Empire?",
+      "options": [
+        "Battle of Panipat",
+        "Battle of Plassey",
+        "Battle of Buxar",
+        "Third Anglo-Maratha War"
+      ],
+      "correct": 3,
+      "explanation": "The Third Anglo-Maratha War was fought between the British East India Company and the Maratha Empire. It was a series of conflicts that took place from 1816 to 1818 and resulted in the defeat of the Maratha Empire and the expansion of British control in India."
+    },
+    {
+      "id": 17,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the constitutional body that oversees the conduct of elections in India?",
+      "options": [
+        "Election Commission of India",
+        "Union Public Service Commission",
+        "National Human Rights Commission",
+        "Central Information Commission"
+      ],
+      "correct": 0,
+      "explanation": "The Election Commission of India is the constitutional body that oversees the conduct of elections in India. It is responsible for ensuring that elections are free, fair, and transparent, and for enforcing the Model Code of Conduct for political parties and candidates."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which of the following rivers flows through the states of Maharashtra and Gujarat?",
+      "options": [
+        "Tapi River",
+        "Narmada River",
+        "Godavari River",
+        "Krishna River"
+      ],
+      "correct": 0,
+      "explanation": "The Tapi River flows through the states of Maharashtra and Gujarat. It is a major river in western India and is known for its fertile delta and scenic beauty."
+    },
+    {
+      "id": 19,
       "category": "General Science",
       "question": "What is the largest planet in our solar system?",
       "options": [
@@ -509,280 +249,540 @@
         "Uranus"
       ],
       "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers. It is a gas giant and is known for its distinctive banded appearance."
+      "explanation": "Jupiter is the largest planet in our solar system. It is a gas giant and is known for its massive size, stormy atmosphere, and numerous moons."
     },
     {
-      "id": 40,
+      "id": 20,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's amphibious assault ship?",
+      "question": "What is the name of the Indian Army's special forces unit that conducts counter-terrorism operations?",
       "options": [
-        "INS Jalashwa",
-        "INS Shardul",
-        "INS Magar",
-        "INS Gharial"
+        "National Security Guard",
+        "Special Protection Group",
+        "Parachute Regiment",
+        "Ghatak Force"
       ],
       "correct": 0,
-      "explanation": "The INS Jalashwa is the Indian Navy's amphibious assault ship. It is used for a variety of tasks, including amphibious landings, humanitarian assistance, and disaster relief."
+      "explanation": "The National Security Guard is the Indian Army's special forces unit that conducts counter-terrorism operations. It was established in 1984 and is trained to handle high-risk situations such as hostage rescue and counter-terrorism operations."
     },
     {
-      "id": 41,
+      "id": 21,
       "category": "Current Affairs",
-      "question": "Who is the current Union Minister of Defence?",
+      "question": "Who is the current Chairperson of the National Commission for Women?",
       "options": [
-        "Rajnath Singh",
-        "Amit Shah",
-        "Nirmala Sitharaman",
-        "Arvind Kejriwal"
+        "Rekha Sharma",
+        "Lalitha Kumaramangalam",
+        "Mamta Sharma",
+        "Girija Vyas"
       ],
       "correct": 0,
-      "explanation": "Rajnath Singh is the current Union Minister of Defence. He is a member of the Bharatiya Janata Party (BJP) and has been serving as Defence Minister since 2019."
+      "explanation": "Rekha Sharma is the current Chairperson of the National Commission for Women. She took over as the Chairperson in 2017 and has been working to promote the rights and welfare of women in India."
     },
     {
-      "id": 42,
+      "id": 22,
       "category": "General Awareness & GK",
-      "question": "Who is the CEO of the Indian company Tata Consultancy Services (TCS)?",
+      "question": "What is the name of the largest island in the Andaman and Nicobar Islands?",
       "options": [
-        "N. Chandrasekaran",
-        "Rajesh Gopinathan",
-        "S. Ramadorai",
-        "Ajoy Mukherjee"
+        "Andaman Island",
+        "Nicobar Island",
+        "Great Nicobar Island",
+        "Little Andaman Island"
       ],
-      "correct": 1,
-      "explanation": "Rajesh Gopinathan is the CEO of the Indian company Tata Consultancy Services (TCS). He is a business executive and has been leading TCS since 2017."
+      "correct": 0,
+      "explanation": "The Andaman Island is the largest island in the Andaman and Nicobar Islands. It is located in the Bay of Bengal and is known for its pristine beaches, lush forests, and diverse wildlife."
     },
     {
-      "id": 43,
+      "id": 23,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the leader of the Indian National Congress during the Quit India Movement?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Lala Lajpat Rai"
+      ],
+      "correct": 0,
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Quit India Movement. The movement was launched in 1942 and aimed at achieving independence for India through non-violent means."
+    },
+    {
+      "id": 24,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional provision that guarantees the right to freedom of assembly?",
+      "question": "What is the name of the constitutional body that oversees the conduct of public servants in India?",
       "options": [
-        "Article 19",
-        "Article 21",
-        "Article 25",
-        "Article 29"
+        "Lokpal",
+        "Central Vigilance Commission",
+        "Central Information Commission",
+        "National Human Rights Commission"
       ],
       "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of assembly. This article is a fundamental right and is considered essential for the functioning of a democratic society."
+      "explanation": "The Lokpal is the constitutional body that oversees the conduct of public servants in India. It is responsible for investigating complaints of corruption and misconduct against public servants and for taking action against those found guilty."
     },
     {
-      "id": 44,
+      "id": 25,
       "category": "Geography",
-      "question": "Which mountain range runs along the border between India and Bhutan?",
+      "question": "Which of the following mountain ranges runs along the border between India and Nepal?",
       "options": [
-        "Himalayas",
-        "Karakoram",
-        "Aravalli",
-        "Vindhya"
+        "Himalayan Mountain Range",
+        "Karakoram Mountain Range",
+        "Aravalli Mountain Range",
+        "Vindhya Mountain Range"
       ],
       "correct": 0,
-      "explanation": "The Himalayas mountain range runs along the border between India and Bhutan. The Himalayas are the world's highest mountain range and are home to several of the world's highest peaks, including Mount Everest."
+      "explanation": "The Himalayan Mountain Range runs along the border between India and Nepal. It is a mountain range that stretches for approximately 2,500 kilometers and is known for its rugged terrain and high peaks."
     },
     {
-      "id": 45,
+      "id": 26,
+      "category": "General Science",
+      "question": "What is the process by which the Earth's atmosphere is heated?",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Greenhouse effect"
+      ],
+      "correct": 3,
+      "explanation": "The greenhouse effect is the process by which the Earth's atmosphere is heated. It involves the trapping of heat by greenhouse gases such as carbon dioxide and methane, which leads to an increase in the Earth's temperature."
+    },
+    {
+      "id": 27,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian Navy's aircraft carrier?",
+      "options": [
+        "INS Vikramaditya",
+        "INS Viraat",
+        "INS Vikrant",
+        "INS Shivalik"
+      ],
+      "correct": 0,
+      "explanation": "The INS Vikramaditya is the Indian Navy's aircraft carrier. It was commissioned in 2014 and is equipped with advanced fighter jets and helicopters, as well as a range of radar and communication systems."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs",
+      "question": "Who is the current Director General of the Border Security Force?",
+      "options": [
+        "Pankaj Kumar Singh",
+        "Rakesh Asthana",
+        "S S Deswal",
+        "K K Sharma"
+      ],
+      "correct": 0,
+      "explanation": "Pankaj Kumar Singh is the current Director General of the Border Security Force. He took over as the Director General in 2021 and is responsible for overseeing the security of India's borders and the operations of the BSF."
+    },
+    {
+      "id": 29,
       "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'A Fine Balance'?",
+      "question": "What is the name of the largest city in the state of Jammu and Kashmir?",
       "options": [
-        "Rohinton Mistry",
-        "Amitav Ghosh",
-        "Vikram Seth",
-        "Salman Rushdie"
+        "Srinagar",
+        "Jammu",
+        "Leh",
+        "Kargil"
       ],
       "correct": 0,
-      "explanation": "Rohinton Mistry is the author of the book 'A Fine Balance'. The book is a novel that explores the complexities of Indian society and culture, and is considered one of the most important works of Indian literature."
+      "explanation": "Srinagar is the largest city in the state of Jammu and Kashmir. It is located in the Kashmir Valley and is known for its scenic beauty, with several lakes, gardens, and mountains in the surrounding area."
     },
     {
-      "id": 46,
+      "id": 30,
       "category": "Indian History & Freedom Struggle",
       "question": "Who was the leader of the Indian National Congress during the Salt March?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
         "Subhas Chandra Bose",
-        "Sardar Patel"
+        "Lala Lajpat Rai"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Salt March. The Salt March was a major part of the Indian independence struggle and was led by Gandhi in 1930."
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Salt March. The Salt March was a non-violent protest against the British salt tax, and it marked a significant milestone in the Indian independence movement."
+    },
+    {
+      "id": 31,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the constitutional body that oversees the conduct of elections to the offices of the President and the Vice-President of India?",
+      "options": [
+        "Election Commission of India",
+        "Union Public Service Commission",
+        "National Human Rights Commission",
+        "Central Information Commission"
+      ],
+      "correct": 0,
+      "explanation": "The Election Commission of India is the constitutional body that oversees the conduct of elections to the offices of the President and the Vice-President of India. It is responsible for ensuring that the elections are free, fair, and transparent, and for enforcing the Model Code of Conduct for political parties and candidates."
+    },
+    {
+      "id": 32,
+      "category": "Geography",
+      "question": "Which of the following rivers flows through the states of Assam and Meghalaya?",
+      "options": [
+        "Brahmaputra River",
+        "Ganges River",
+        "Kaveri River",
+        "Godavari River"
+      ],
+      "correct": 0,
+      "explanation": "The Brahmaputra River flows through the states of Assam and Meghalaya. It is a major river in eastern India and is known for its fertile delta and scenic beauty."
+    },
+    {
+      "id": 33,
+      "category": "General Science",
+      "question": "What is the process by which the human body regulates its temperature?",
+      "options": [
+        "Sweating",
+        "Shivering",
+        "Respiration",
+        "Circulation"
+      ],
+      "correct": 0,
+      "explanation": "Sweating is the process by which the human body regulates its temperature. When the body temperature rises, it produces sweat, which evaporates and cools the body down, helping to maintain a stable body temperature."
+    },
+    {
+      "id": 34,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian Army's mountain warfare training institution?",
+      "options": [
+        "High Altitude Warfare School",
+        "Army War College",
+        "National Defence Academy",
+        "Indian Military Academy"
+      ],
+      "correct": 0,
+      "explanation": "The High Altitude Warfare School is the Indian Army's mountain warfare training institution. It is located in the state of Jammu and Kashmir and provides training to soldiers in mountain warfare, including skiing, rock climbing, and survival techniques."
+    },
+    {
+      "id": 35,
+      "category": "Current Affairs",
+      "question": "Who is the current Chairperson of the Central Board of Secondary Education?",
+      "options": [
+        "Manoj Ahuja",
+        "Rakesh Kumar Srivastava",
+        "Anurag Tripathi",
+        "Amit Khare"
+      ],
+      "correct": 0,
+      "explanation": "Manoj Ahuja is the current Chairperson of the Central Board of Secondary Education. He took over as the Chairperson in 2020 and is responsible for overseeing the conduct of secondary and senior secondary school examinations in India."
+    },
+    {
+      "id": 36,
+      "category": "General Awareness & GK",
+      "question": "What is the name of the largest city in the state of Gujarat?",
+      "options": [
+        "Ahmedabad",
+        "Surat",
+        "Vadodara",
+        "Rajkot"
+      ],
+      "correct": 0,
+      "explanation": "Ahmedabad is the largest city in the state of Gujarat. It is located on the banks of the Sabarmati River and is known for its textile industry, historical landmarks, and cultural festivals."
+    },
+    {
+      "id": 37,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the leader of the Indian National Congress during the Khilafat Movement?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Lala Lajpat Rai"
+      ],
+      "correct": 0,
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Khilafat Movement. The movement was a non-violent protest against the British government's treatment of the Ottoman Empire and its caliph, and it marked a significant milestone in the Indian independence movement."
+    },
+    {
+      "id": 38,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the constitutional body that oversees the conduct of the Comptroller and Auditor General of India?",
+      "options": [
+        "Public Accounts Committee",
+        "Estimates Committee",
+        "Committee on Public Undertakings",
+        "Committee on Subordinate Legislation"
+      ],
+      "correct": 0,
+      "explanation": "The Public Accounts Committee is the constitutional body that oversees the conduct of the Comptroller and Auditor General of India. It is responsible for examining the audit reports of the CAG and for ensuring that the government is accountable for its finances and activities."
+    },
+    {
+      "id": 39,
+      "category": "Geography",
+      "question": "Which of the following rivers flows through the states of Odisha and West Bengal?",
+      "options": [
+        "Subarnarekha River",
+        "Mahanadi River",
+        "Godavari River",
+        "Brahmaputra River"
+      ],
+      "correct": 0,
+      "explanation": "The Subarnarekha River flows through the states of Odisha and West Bengal. It is a major river in eastern India and is known for its fertile delta and scenic beauty."
+    },
+    {
+      "id": 40,
+      "category": "General Science",
+      "question": "What is the process by which plants release water vapor into the air?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
+      ],
+      "correct": 2,
+      "explanation": "Transpiration is the process by which plants release water vapor into the air. It involves the movement of water from the roots to the leaves, where it is then released into the air as water vapor, helping to regulate the plant's temperature and maintain a stable water balance."
+    },
+    {
+      "id": 41,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian Air Force's aerial display team?",
+      "options": [
+        "Surya Kiran",
+        "Sarang",
+        "Tejas",
+        "Lightning"
+      ],
+      "correct": 0,
+      "explanation": "The Surya Kiran is the Indian Air Force's aerial display team. It was formed in 1996 and is known for its precision flying and aerobatic maneuvers, which are performed using the Hawk Mk 132 aircraft."
+    },
+    {
+      "id": 42,
+      "category": "Current Affairs",
+      "question": "Who is the current Vice-Chairperson of the NITI Aayog?",
+      "options": [
+        "Rajiv Kumar",
+        "Amitabh Kant",
+        "Vinod Rai",
+        "Arvind Panagariya"
+      ],
+      "correct": 0,
+      "explanation": "Rajiv Kumar is the current Vice-Chairperson of the NITI Aayog. He took over as the Vice-Chairperson in 2018 and is responsible for overseeing the think tank's operations and providing strategic advice to the government on policy matters."
+    },
+    {
+      "id": 43,
+      "category": "General Awareness & GK",
+      "question": "What is the name of the largest city in the state of Andhra Pradesh?",
+      "options": [
+        "Visakhapatnam",
+        "Vijayawada",
+        "Tirupati",
+        "Kurnool"
+      ],
+      "correct": 0,
+      "explanation": "Visakhapatnam is the largest city in the state of Andhra Pradesh. It is located on the coast of the Bay of Bengal and is known for its ports, beaches, and industrial activities."
+    },
+    {
+      "id": 44,
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the leader of the Indian National Congress during the Swadeshi Movement?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Lala Lajpat Rai"
+      ],
+      "correct": 3,
+      "explanation": "Lala Lajpat Rai was one of the leaders of the Indian National Congress during the Swadeshi Movement. The movement was a non-violent protest against the British government's partition of Bengal, and it marked a significant milestone in the Indian independence movement."
+    },
+    {
+      "id": 45,
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the constitutional body that oversees the conduct of the Public Service Commissions?",
+      "options": [
+        "Union Public Service Commission",
+        "State Public Service Commissions",
+        "National Human Rights Commission",
+        "Central Information Commission"
+      ],
+      "correct": 0,
+      "explanation": "The Union Public Service Commission is the constitutional body that oversees the conduct of the Public Service Commissions. It is responsible for advising the government on matters related to the civil services and for ensuring that the recruitment and promotion of civil servants are based on merit and fairness."
+    },
+    {
+      "id": 46,
+      "category": "Geography",
+      "question": "Which of the following rivers flows through the states of Karnataka and Tamil Nadu?",
+      "options": [
+        "Kaveri River",
+        "Godavari River",
+        "Krishna River",
+        "Tungabhadra River"
+      ],
+      "correct": 0,
+      "explanation": "The Kaveri River flows through the states of Karnataka and Tamil Nadu. It is a major river in southern India and is known for its fertile delta and scenic beauty."
     },
     {
       "id": 47,
       "category": "General Science",
-      "question": "What is the process by which plants convert carbon dioxide and water into glucose and oxygen?",
+      "question": "What is the process by which the Earth's plates move?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
+        "Continental drift",
+        "Plate tectonics",
+        "Sea-floor spreading",
+        "Weathering and erosion"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants convert carbon dioxide and water into glucose and oxygen. It is an essential process that occurs in plants, algae, and some bacteria, and is the basis of life on Earth."
+      "explanation": "Plate tectonics is the process by which the Earth's plates move. It involves the movement of the Earth's lithosphere, which is broken into several large plates that move relative to each other, resulting in the creation of mountains, volcanoes, and earthquakes."
     },
     {
       "id": 48,
       "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Air Force's air superiority fighter aircraft?",
+      "question": "What is the name of the Indian Navy's submarine rescue vessel?",
       "options": [
-        "Su-30MKI",
-        "Tejas",
-        "Mirage 2000",
-        "MiG-21"
+        "INS Nireekshak",
+        "INS Deepak",
+        "INS Shakti",
+        "INS Jalashwa"
       ],
       "correct": 0,
-      "explanation": "The Su-30MKI is the Indian Air Force's air superiority fighter aircraft. It is a multi-role fighter that is used for a variety of tasks, including air-to-air combat, air-to-ground strikes, and reconnaissance."
+      "explanation": "The INS Nireekshak is the Indian Navy's submarine rescue vessel. It is equipped with advanced equipment and trained personnel to handle submarine rescue operations, including the rescue of stranded submarines and their crews."
     },
     {
       "id": 49,
       "category": "Current Affairs",
-      "question": "Who is the current Chairman of the Indian Railway Board?",
+      "question": "Who is the current Secretary-General of the Shanghai Cooperation Organization?",
       "options": [
-        "Vinod Kumar Yadav",
-        "A.K. Mittal",
-        "S. Mani",
-        "R.K. Singh"
+        "Zhang Ming",
+        "Vladimir Norov",
+        "Rashid Alimov",
+        "Muratbek Imanaliev"
       ],
       "correct": 0,
-      "explanation": "Vinod Kumar Yadav is the current Chairman of the Indian Railway Board. He is a railway officer and has been leading the Indian Railways since 2019."
+      "explanation": "Zhang Ming is the current Secretary-General of the Shanghai Cooperation Organization. He took over as the Secretary-General in 2022 and is responsible for overseeing the organization's operations and promoting cooperation among its member states."
     },
     {
       "id": 50,
       "category": "General Awareness & GK",
-      "question": "Which Indian state is known as the 'Land of the Blue Mountains'?",
+      "question": "What is the name of the largest city in the state of Kerala?",
       "options": [
-        "Tamil Nadu",
-        "Kerala",
-        "Karnataka",
-        "Andhra Pradesh"
+        "Thiruvananthapuram",
+        "Kochi",
+        "Kozhikode",
+        "Thrissur"
       ],
-      "correct": 0,
-      "explanation": "Tamil Nadu is known as the 'Land of the Blue Mountains' due to the presence of the Nilgiri Hills, which are also known as the Blue Mountains. The Nilgiris are a popular tourist destination and are known for their natural beauty and biodiversity."
+      "correct": 1,
+      "explanation": "Kochi is the largest city in the state of Kerala. It is located on the coast of the Arabian Sea and is known for its ports, beaches, and industrial activities."
     },
     {
       "id": 51,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional provision that guarantees the right to freedom of association?",
+      "category": "Indian History & Freedom Struggle",
+      "question": "Who was the leader of the Indian National Congress during the Champaran Satyagraha?",
       "options": [
-        "Article 19",
-        "Article 21",
-        "Article 25",
-        "Article 29"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Lala Lajpat Rai"
       ],
       "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of association. This article is a fundamental right and is considered essential for the functioning of a democratic society."
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Champaran Satyagraha. The movement was a non-violent protest against the British government's policies in the Champaran district of Bihar, and it marked a significant milestone in the Indian independence movement."
     },
     {
       "id": 52,
-      "category": "Geography",
-      "question": "Which river is the longest in the state of Gujarat?",
+      "category": "Indian Polity & Constitution",
+      "question": "What is the name of the constitutional body that oversees the conduct of the Lok Sabha?",
       "options": [
-        "Narmada",
-        "Tapi",
-        "Sabarmati",
-        "Mehsana"
+        "Speaker of the Lok Sabha",
+        "Deputy Speaker of the Lok Sabha",
+        "Leader of the Opposition in the Lok Sabha",
+        "Committee on Parliamentary Privileges"
       ],
       "correct": 0,
-      "explanation": "The Narmada River is the longest in the state of Gujarat. It is one of the major rivers in India and flows through several states, including Gujarat, Madhya Pradesh, and Maharashtra."
+      "explanation": "The Speaker of the Lok Sabha is the constitutional body that oversees the conduct of the Lok Sabha. The Speaker is responsible for maintaining order and discipline in the House, and for ensuring that the proceedings are conducted in a fair and transparent manner."
     },
     {
       "id": 53,
-      "category": "General Awareness & GK",
-      "question": "Who is the author of the book 'The Hungry Tide'?",
+      "category": "Geography",
+      "question": "Which of the following rivers flows through the states of Maharashtra and Madhya Pradesh?",
       "options": [
-        "Amitav Ghosh",
-        "Vikram Seth",
-        "Arundhati Roy",
-        "Salman Rushdie"
+        "Tapi River",
+        "Godavari River",
+        "Krishna River",
+        "Narmada River"
       ],
-      "correct": 0,
-      "explanation": "Amitav Ghosh is the author of the book 'The Hungry Tide'. The book is a novel that explores the complexities of Indian society and culture, and is considered one of the most important works of Indian literature."
+      "correct": 3,
+      "explanation": "The Narmada River flows through the states of Maharashtra and Madhya Pradesh. It is a major river in central India and is known for its fertile delta and scenic beauty."
     },
     {
       "id": 54,
+      "category": "General Science",
+      "question": "What is the process by which the human body regulates its blood sugar levels?",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Adrenaline",
+        "Thyroxine"
+      ],
+      "correct": 0,
+      "explanation": "Insulin is the process by which the human body regulates its blood sugar levels. It involves the production of insulin by the pancreas, which helps to lower blood sugar levels by facilitating the uptake of glucose by cells."
+    },
+    {
+      "id": 55,
+      "category": "Defense & Security Knowledge",
+      "question": "What is the name of the Indian Air Force's air defense system?",
+      "options": [
+        "Akash",
+        "Trishul",
+        "Nag",
+        "Prithvi"
+      ],
+      "correct": 0,
+      "explanation": "The Akash is the Indian Air Force's air defense system. It is a surface-to-air missile system that is designed to intercept and destroy enemy aircraft and missiles."
+    },
+    {
+      "id": 56,
+      "category": "Current Affairs",
+      "question": "Who is the current Director-General of the World Health Organization?",
+      "options": [
+        "Tedros Adhanom Ghebreyesus",
+        "Margaret Chan",
+        "Gro Harlem Brundtland",
+        "Jonas Salk"
+      ],
+      "correct": 0,
+      "explanation": "Tedros Adhanom Ghebreyesus is the current Director-General of the World Health Organization. He took over as the Director-General in 2017 and is responsible for overseeing the organization's operations and promoting global health security."
+    },
+    {
+      "id": 57,
+      "category": "General Awareness & GK",
+      "question": "What is the name of the largest city in the state of Punjab?",
+      "options": [
+        "Ludhiana",
+        "Amritsar",
+        "Chandigarh",
+        "Jalandhar"
+      ],
+      "correct": 0,
+      "explanation": "Ludhiana is the largest city in the state of Punjab. It is located in the northwestern part of the state and is known for its textile industry, agricultural production, and cultural festivals."
+    },
+    {
+      "id": 58,
       "category": "Indian History & Freedom Struggle",
       "question": "Who was the leader of the Indian National Congress during the Non-Cooperation Movement?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
         "Subhas Chandra Bose",
-        "Sardar Patel"
+        "Lala Lajpat Rai"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Non-Cooperation Movement. The movement was launched in 1920 and was a major part of the Indian independence struggle."
-    },
-    {
-      "id": 55,
-      "category": "General Science",
-      "question": "What is the process by which the Earth's plates move and change?",
-      "options": [
-        "Plate tectonics",
-        "Weathering",
-        "Erosion",
-        "Deposition"
-      ],
-      "correct": 0,
-      "explanation": "Plate tectonics is the process by which the Earth's plates move and change. It is the process that shapes the Earth's surface and is responsible for the creation of mountains, volcanoes, and earthquakes."
-    },
-    {
-      "id": 56,
-      "category": "Defense & Security Knowledge",
-      "question": "What is the name of the Indian Navy's submarine?",
-      "options": [
-        "Arihant",
-        "Scorpene",
-        "Akula",
-        "Talwar"
-      ],
-      "correct": 0,
-      "explanation": "The Arihant is the Indian Navy's submarine. It is a nuclear-powered submarine that is used for a variety of tasks, including deterrence, surveillance, and reconnaissance."
-    },
-    {
-      "id": 57,
-      "category": "Current Affairs",
-      "question": "Who is the current Union Minister of Home Affairs?",
-      "options": [
-        "Amit Shah",
-        "Rajnath Singh",
-        "Nirmala Sitharaman",
-        "Sushma Swaraj"
-      ],
-      "correct": 0,
-      "explanation": "Amit Shah is the current Union Minister of Home Affairs. He is a member of the Bharatiya Janata Party (BJP) and has been serving as Home Minister since 2019."
-    },
-    {
-      "id": 58,
-      "category": "General Awareness & GK",
-      "question": "Which Indian state is known as the 'Land of the Rising Sun'?",
-      "options": [
-        "Arunachal Pradesh",
-        "Assam",
-        "Meghalaya",
-        "Mizoram"
-      ],
-      "correct": 0,
-      "explanation": "Arunachal Pradesh is known as the 'Land of the Rising Sun' due to its location in the easternmost part of India. The state is known for its natural beauty and is home to several important Buddhist monasteries and temples."
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress during the Non-Cooperation Movement. The movement was launched in 1920 and aimed at achieving independence for India through non-violent means."
     },
     {
       "id": 59,
       "category": "Indian Polity & Constitution",
-      "question": "What is the name of the constitutional provision that guarantees the right to life and liberty?",
+      "question": "What is the name of the constitutional body that oversees the conduct of the Supreme Court of India?",
       "options": [
-        "Article 21",
-        "Article 22",
-        "Article 23",
-        "Article 24"
+        "Chief Justice of India",
+        "Attorney General of India",
+        "Solicitor General of India",
+        "Registrar of the Supreme Court of India"
       ],
       "correct": 0,
-      "explanation": "Article 21 of the Indian Constitution guarantees the right to life and liberty. This article is a fundamental right and is considered essential for the functioning of a democratic society."
+      "explanation": "The Chief Justice of India is the constitutional body that oversees the conduct of the Supreme Court of India. The Chief Justice is responsible for presiding over the Court and for ensuring that the proceedings are conducted in a fair and transparent manner."
     },
     {
       "id": 60,
       "category": "Geography",
-      "question": "Which mountain pass connects India to China?",
+      "question": "Which of the following rivers flows through the states of Uttar Pradesh and Bihar?",
       "options": [
-        "Nathu La",
-        "Shipki La",
-        "Banihal Pass",
-        "Zojila Pass"
+        "Ganges River",
+        "Yamuna River",
+        "Gomti River",
+        "Sarayu River"
       ],
       "correct": 0,
-      "explanation": "The Nathu La mountain pass connects India to China. It is located in the state of Sikkim and is an important trade route between the two countries."
+      "explanation": "The Ganges River flows through the states of Uttar Pradesh and Bihar. It is a major river in northern India and is known for its fertile delta and scenic beauty."
     }
   ]
 }

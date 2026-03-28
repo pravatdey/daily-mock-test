@@ -1,154 +1,63 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "The ancient Indian city of Taxila was located in which modern-day country?",
+      "question": "Who was the founder of the Gupta dynasty?",
       "options": [
-        "India",
-        "Pakistan",
-        "Afghanistan",
-        "Nepal"
+        "Chandragupta I",
+        "Samudragupta",
+        "Skandagupta",
+        "Rajagupta"
       ],
-      "correct": 1,
-      "explanation": "Taxila was an ancient city located in the northwestern part of the Indian subcontinent, which is now in modern-day Pakistan."
+      "correct": 0,
+      "explanation": "Chandragupta I was the founder of the Gupta dynasty. He was a powerful king who ruled from 320 to 335 CE and is credited with establishing the Gupta Empire."
     },
     {
       "id": 2,
       "category": "Indian Geography",
-      "question": "What is the largest river island in the world, located in India?",
+      "question": "Which of the following rivers flows through the states of Madhya Pradesh and Gujarat?",
       "options": [
-        "Majuli",
-        "Sangam",
-        "Marajuli",
-        "Dibru Saikhowa"
+        "Narmada River",
+        "Tapi River",
+        "Mahanadi River",
+        "Godavari River"
       ],
       "correct": 0,
-      "explanation": "Majuli is the largest river island in the world, located in the Brahmaputra River in the state of Assam, India."
+      "explanation": "The Narmada River flows through the states of Madhya Pradesh and Gujarat. It is one of the major rivers in India and is known for its scenic beauty and cultural significance."
     },
     {
       "id": 3,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to equality?",
+      "question": "What is the name of the constitutional amendment that added the words 'Socialist' and 'Secular' to the Preamble of the Indian Constitution?",
       "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
+        "42nd Amendment",
+        "44th Amendment",
+        "45th Amendment",
+        "46th Amendment"
       ],
       "correct": 0,
-      "explanation": "Article 14 of the Indian Constitution deals with the right to equality, which states that the state shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
+      "explanation": "The 42nd Amendment added the words 'Socialist' and 'Secular' to the Preamble of the Indian Constitution. This amendment was made in 1976 and reflected the government's commitment to socialism and secularism."
     },
     {
       "id": 4,
       "category": "Indian Economy",
-      "question": "What is the name of the Indian government's program to promote digital payments and reduce cash transactions?",
+      "question": "What is the name of the government scheme that aims to provide financial inclusion to all citizens?",
       "options": [
-        "Digital India",
-        "Make in India",
-        "Start-Up India",
-        "Less Cash India"
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana"
       ],
-      "correct": 3,
-      "explanation": "Less Cash India is a program launched by the Indian government to promote digital payments and reduce cash transactions, in line with the Digital India initiative."
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Jan Dhan Yojana is a government scheme that aims to provide financial inclusion to all citizens. It was launched in 2014 and provides access to banking services, credit, and insurance to all citizens."
     },
     {
       "id": 5,
-      "category": "General Science",
-      "question": "What is the largest planet in our solar system?",
-      "options": [
-        "Earth",
-        "Saturn",
-        "Jupiter",
-        "Uranus"
-      ],
-      "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
-    },
-    {
-      "id": 6,
-      "category": "Environment & Ecology",
-      "question": "What is the name of the international agreement aimed at reducing greenhouse gas emissions and mitigating climate change?",
-      "options": [
-        "Paris Agreement",
-        "Kyoto Protocol",
-        "Montreal Protocol",
-        "Copenhagen Accord"
-      ],
-      "correct": 0,
-      "explanation": "The Paris Agreement is an international agreement aimed at reducing greenhouse gas emissions and mitigating climate change, which was adopted by nearly 200 countries in 2015."
-    },
-    {
-      "id": 7,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current President of the European Commission?",
-      "options": [
-        "Ursula von der Leyen",
-        "Jean-Claude Juncker",
-        "Donald Tusk",
-        "Angela Merkel"
-      ],
-      "correct": 0,
-      "explanation": "Ursula von der Leyen is the current President of the European Commission, taking office on December 1, 2019."
-    },
-    {
-      "id": 8,
-      "category": "Indian History",
-      "question": "The ancient Indian university of Nalanda was located in which modern-day state?",
-      "options": [
-        "Bihar",
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Odisha"
-      ],
-      "correct": 0,
-      "explanation": "The ancient Indian university of Nalanda was located in the state of Bihar, and was a major center of learning and intellectual inquiry in ancient India."
-    },
-    {
-      "id": 9,
-      "category": "Indian Geography",
-      "question": "What is the name of the strait that separates the islands of Java and Sumatra in Indonesia?",
-      "options": [
-        "Sunda Strait",
-        "Lombok Strait",
-        "Makassar Strait",
-        "Java Sea"
-      ],
-      "correct": 0,
-      "explanation": "The Sunda Strait is a strait that separates the islands of Java and Sumatra in Indonesia, and is an important shipping route in the region."
-    },
-    {
-      "id": 10,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of speech and expression?",
-      "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
-      ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression, which is a fundamental right guaranteed to all citizens of India."
-    },
-    {
-      "id": 11,
-      "category": "Indian Economy",
-      "question": "What is the name of the Indian government's program to promote entrepreneurship and start-ups?",
-      "options": [
-        "Start-Up India",
-        "Make in India",
-        "Digital India",
-        "Stand-Up India"
-      ],
-      "correct": 0,
-      "explanation": "Start-Up India is a program launched by the Indian government to promote entrepreneurship and start-ups, with the goal of encouraging innovation and job creation."
-    },
-    {
-      "id": 12,
       "category": "General Science",
       "question": "What is the process by which plants convert sunlight into energy?",
       "options": [
@@ -158,179 +67,179 @@
         "Fermentation"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants convert sunlight into energy, using carbon dioxide and water to produce glucose and oxygen."
+      "explanation": "Photosynthesis is the process by which plants convert sunlight into energy. This process involves the conversion of carbon dioxide and water into glucose and oxygen, using sunlight as the energy source."
+    },
+    {
+      "id": 6,
+      "category": "Environment & Ecology",
+      "question": "What is the name of the international agreement that aims to reduce greenhouse gas emissions and mitigate the effects of climate change?",
+      "options": [
+        "Paris Agreement",
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Rio Declaration"
+      ],
+      "correct": 0,
+      "explanation": "The Paris Agreement is an international agreement that aims to reduce greenhouse gas emissions and mitigate the effects of climate change. It was signed in 2015 and aims to limit global warming to well below 2 degrees Celsius and pursue efforts to limit it to 1.5 degrees Celsius."
+    },
+    {
+      "id": 7,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current Chairman of the Indian Space Research Organisation (ISRO)?",
+      "options": [
+        "Kailasavadivoo Sivan",
+        "G. Madhavan Nair",
+        "A. S. Kiran Kumar",
+        "S. Somanath"
+      ],
+      "correct": 3,
+      "explanation": "S. Somanath is the current Chairman of the Indian Space Research Organisation (ISRO). He took over as the Chairman in January 2022 and is responsible for leading the organization's efforts in space exploration and development."
+    },
+    {
+      "id": 8,
+      "category": "Indian History",
+      "question": "Which of the following battles marked the beginning of the Indian Rebellion of 1857?",
+      "options": [
+        "Battle of Plassey",
+        "Battle of Buxar",
+        "Battle of Kanpur",
+        "Battle of Meerut"
+      ],
+      "correct": 3,
+      "explanation": "The Battle of Meerut marked the beginning of the Indian Rebellion of 1857. The rebellion started on May 10, 1857, when Indian sepoys in Meerut revolted against the British East India Company's rule."
+    },
+    {
+      "id": 9,
+      "category": "Indian Geography",
+      "question": "What is the name of the largest island in the Andaman and Nicobar Islands?",
+      "options": [
+        "Andaman Island",
+        "Nicobar Island",
+        "Great Nicobar Island",
+        "Little Andaman Island"
+      ],
+      "correct": 0,
+      "explanation": "The Andaman Island is the largest island in the Andaman and Nicobar Islands. It is located in the Bay of Bengal and is known for its beautiful beaches, coral reefs, and dense forests."
+    },
+    {
+      "id": 10,
+      "category": "Indian Polity & Governance",
+      "question": "What is the name of the constitutional body that is responsible for the appointment of judges to the Supreme Court and the High Courts?",
+      "options": [
+        "National Judicial Commission",
+        "Supreme Court Collegium",
+        "High Court Collegium",
+        "Judicial Appointment Commission"
+      ],
+      "correct": 1,
+      "explanation": "The Supreme Court Collegium is the constitutional body that is responsible for the appointment of judges to the Supreme Court and the High Courts. The collegium consists of the Chief Justice of India and the senior-most judges of the Supreme Court."
+    },
+    {
+      "id": 11,
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme that aims to provide affordable housing to all citizens?",
+      "options": [
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Awas Yojana is a government scheme that aims to provide affordable housing to all citizens. It was launched in 2015 and aims to provide housing for all by 2022."
+    },
+    {
+      "id": 12,
+      "category": "General Science",
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Uranus"
+      ],
+      "correct": 2,
+      "explanation": "Jupiter is the largest planet in our solar system. It is a gas giant and is known for its massive size, stormy atmosphere, and numerous moons."
     },
     {
       "id": 13,
       "category": "Environment & Ecology",
-      "question": "What is the name of the largest coral reef system in the world, located off the coast of Australia?",
+      "question": "What is the name of the international agreement that aims to protect the ozone layer?",
       "options": [
-        "Great Barrier Reef",
-        "Red Sea Coral Reef",
-        "New Caledonia Barrier Reef",
-        "The Reef"
+        "Montreal Protocol",
+        "Paris Agreement",
+        "Kyoto Protocol",
+        "Rio Declaration"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest coral reef system in the world, located off the coast of Australia, and is home to a diverse array of marine life."
+      "explanation": "The Montreal Protocol is an international agreement that aims to protect the ozone layer. It was signed in 1987 and aims to phase out the production and consumption of ozone-depleting substances."
     },
     {
       "id": 14,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current Prime Minister of the United Kingdom?",
+      "question": "Who is the current President of the International Cricket Council (ICC)?",
       "options": [
-        "Rishi Sunak",
-        "Boris Johnson",
-        "Liz Truss",
-        "Theresa May"
+        "Greg Barclay",
+        "Shashank Manohar",
+        "N. Srinivasan",
+        "Mustafa Kamal"
       ],
       "correct": 0,
-      "explanation": "Rishi Sunak is the current Prime Minister of the United Kingdom, taking office on October 25, 2022."
+      "explanation": "Greg Barclay is the current President of the International Cricket Council (ICC). He took over as the President in November 2020 and is responsible for leading the organization's efforts in promoting and developing the sport of cricket globally."
     },
     {
       "id": 15,
       "category": "Indian History",
-      "question": "The ancient Indian emperor Ashoka the Great ruled from which city?",
+      "question": "Which of the following emperors built the Qutub Minar?",
       "options": [
-        "Pataliputra",
-        "Taxila",
-        "Kolkata",
-        "Mysore"
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Razia Sultan",
+        "Alauddin Khalji"
       ],
       "correct": 0,
-      "explanation": "Ashoka the Great ruled from the city of Pataliputra, which was the capital of the Mauryan Empire and is now modern-day Patna."
+      "explanation": "Qutb-ud-din Aibak built the Qutub Minar. It was constructed in 1192 and is one of the tallest minarets in India, standing at a height of 72.5 meters."
     },
     {
       "id": 16,
       "category": "Indian Geography",
-      "question": "What is the name of the highest mountain peak in the Indian state of Sikkim?",
+      "question": "What is the name of the highest mountain peak in the Eastern Ghats?",
       "options": [
-        "Kanchenjunga",
-        "Mount Everest",
-        "K2",
-        "Nanda Devi"
+        "Mahendragiri",
+        "Gurushikhar",
+        "Doddabetta",
+        "Anamudi"
       ],
       "correct": 0,
-      "explanation": "Kanchenjunga is the highest mountain peak in the Indian state of Sikkim, and is the third-highest peak in the world."
+      "explanation": "Mahendragiri is the highest mountain peak in the Eastern Ghats. It is located in the state of Odisha and has a height of 1,501 meters above sea level."
     },
     {
       "id": 17,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to life and personal liberty?",
+      "question": "What is the name of the constitutional article that deals with the right to freedom of speech and expression?",
       "options": [
-        "Article 20",
+        "Article 19",
         "Article 21",
-        "Article 22",
-        "Article 23"
+        "Article 25",
+        "Article 30"
       ],
-      "correct": 1,
-      "explanation": "Article 21 of the Indian Constitution deals with the right to life and personal liberty, which is a fundamental right guaranteed to all citizens of India."
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression. It guarantees the freedom of speech and expression to all citizens, subject to certain reasonable restrictions."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "What is the name of the Indian government's program to promote financial inclusion and provide banking services to the poor?",
+      "question": "What is the name of the government scheme that aims to provide financial support to farmers?",
       "options": [
-        "Jan Dhan Yojana",
-        "Aadhaar",
-        "Make in India",
-        "Digital India"
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana"
       ],
       "correct": 0,
-      "explanation": "Jan Dhan Yojana is a program launched by the Indian government to promote financial inclusion and provide banking services to the poor, with the goal of reducing poverty and promoting economic growth."
+      "explanation": "The Pradhan Mantri Fasal Bima Yojana is a government scheme that aims to provide financial support to farmers. It was launched in 2016 and provides crop insurance to farmers, covering crop losses due to natural disasters and other risks."
     },
     {
       "id": 19,
-      "category": "General Science",
-      "question": "What is the largest living structure on Earth?",
-      "options": [
-        "The Great Barrier Reef",
-        "The Amazon Rainforest",
-        "The Grand Canyon",
-        "The Great Wall of China"
-      ],
-      "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
-    },
-    {
-      "id": 20,
-      "category": "Environment & Ecology",
-      "question": "What is the name of the international agreement aimed at reducing the production and consumption of ozone-depleting substances?",
-      "options": [
-        "Montreal Protocol",
-        "Kyoto Protocol",
-        "Paris Agreement",
-        "Copenhagen Accord"
-      ],
-      "correct": 0,
-      "explanation": "The Montreal Protocol is an international agreement aimed at reducing the production and consumption of ozone-depleting substances, which was signed in 1987 and has been ratified by nearly 200 countries."
-    },
-    {
-      "id": 21,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current President of the World Bank?",
-      "options": [
-        "David Malpass",
-        "Jim Yong Kim",
-        "Robert Zoellick",
-        "Paul Wolfowitz"
-      ],
-      "correct": 0,
-      "explanation": "David Malpass is the current President of the World Bank, taking office on April 9, 2019."
-    },
-    {
-      "id": 22,
-      "category": "Indian History",
-      "question": "The ancient Indian kingdom of Magadha was located in which modern-day state?",
-      "options": [
-        "Bihar",
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Odisha"
-      ],
-      "correct": 0,
-      "explanation": "The ancient Indian kingdom of Magadha was located in the state of Bihar, and was a major power in ancient India."
-    },
-    {
-      "id": 23,
-      "category": "Indian Geography",
-      "question": "What is the name of the largest river in the Indian state of Tamil Nadu?",
-      "options": [
-        "Kaveri",
-        "Godavari",
-        "Krishna",
-        "Tungabhadra"
-      ],
-      "correct": 0,
-      "explanation": "The Kaveri River is the largest river in the Indian state of Tamil Nadu, and is an important source of water and hydroelectric power for the region."
-    },
-    {
-      "id": 24,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of assembly?",
-      "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
-      ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of assembly, which is a fundamental right guaranteed to all citizens of India."
-    },
-    {
-      "id": 25,
-      "category": "Indian Economy",
-      "question": "What is the name of the Indian government's program to promote manufacturing and job creation?",
-      "options": [
-        "Make in India",
-        "Digital India",
-        "Start-Up India",
-        "Stand-Up India"
-      ],
-      "correct": 0,
-      "explanation": "Make in India is a program launched by the Indian government to promote manufacturing and job creation, with the goal of making India a major manufacturing hub."
-    },
-    {
-      "id": 26,
       "category": "General Science",
       "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
       "options": [
@@ -340,272 +249,90 @@
         "Evaporation"
       ],
       "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is an important part of the water cycle."
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves. This process involves the loss of water vapor from the plant's leaves, which helps to cool the plant and maintain its water balance."
     },
     {
-      "id": 27,
+      "id": 20,
       "category": "Environment & Ecology",
-      "question": "What is the name of the largest national park in India?",
-      "options": [
-        "Hemis National Park",
-        "Kaziranga National Park",
-        "Sundarbans National Park",
-        "Ranthambore National Park"
-      ],
-      "correct": 0,
-      "explanation": "Hemis National Park is the largest national park in India, covering an area of over 4,400 square kilometers in the state of Jammu and Kashmir."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current CEO of the International Monetary Fund?",
-      "options": [
-        "Kristalina Georgieva",
-        "Christine Lagarde",
-        "Dominique Strauss-Kahn",
-        "Rodrigo Rato"
-      ],
-      "correct": 0,
-      "explanation": "Kristalina Georgieva is the current CEO of the International Monetary Fund, taking office on October 1, 2019."
-    },
-    {
-      "id": 29,
-      "category": "Indian History",
-      "question": "The ancient Indian city of Varanasi was an important center of which religion?",
-      "options": [
-        "Hinduism",
-        "Buddhism",
-        "Jainism",
-        "Sikhism"
-      ],
-      "correct": 0,
-      "explanation": "The ancient Indian city of Varanasi was an important center of Hinduism, and is still considered one of the holiest cities in India."
-    },
-    {
-      "id": 30,
-      "category": "Indian Geography",
-      "question": "What is the name of the largest lake in the Indian state of Kashmir?",
-      "options": [
-        "Wular Lake",
-        "Dal Lake",
-        "Pangong Lake",
-        "Tso Moriri"
-      ],
-      "correct": 0,
-      "explanation": "Wular Lake is the largest lake in the Indian state of Kashmir, and is an important wetland and habitat for migratory birds."
-    },
-    {
-      "id": 31,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of speech and expression?",
-      "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
-      ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression, which is a fundamental right guaranteed to all citizens of India."
-    },
-    {
-      "id": 32,
-      "category": "Indian Economy",
-      "question": "What is the name of the Indian government's program to promote skill development and vocational training?",
-      "options": [
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Make in India",
-        "Digital India",
-        "Start-Up India"
-      ],
-      "correct": 0,
-      "explanation": "Pradhan Mantri Kaushal Vikas Yojana is a program launched by the Indian government to promote skill development and vocational training, with the goal of creating a skilled workforce."
-    },
-    {
-      "id": 33,
-      "category": "General Science",
-      "question": "What is the largest planet in our solar system by mass?",
-      "options": [
-        "Jupiter",
-        "Saturn",
-        "Uranus",
-        "Neptune"
-      ],
-      "correct": 0,
-      "explanation": "Jupiter is the largest planet in our solar system by mass, with a mass of approximately 318 times that of Earth."
-    },
-    {
-      "id": 34,
-      "category": "Environment & Ecology",
-      "question": "What is the name of the international agreement aimed at conserving and sustainably using the world's biodiversity?",
+      "question": "What is the name of the international agreement that aims to conserve biodiversity?",
       "options": [
         "Convention on Biological Diversity",
+        "United Nations Framework Convention on Climate Change",
         "Kyoto Protocol",
-        "Paris Agreement",
-        "Copenhagen Accord"
+        "Paris Agreement"
       ],
       "correct": 0,
-      "explanation": "The Convention on Biological Diversity is an international agreement aimed at conserving and sustainably using the world's biodiversity, with the goal of protecting ecosystems and promoting sustainable development."
+      "explanation": "The Convention on Biological Diversity is an international agreement that aims to conserve biodiversity. It was signed in 1992 and aims to promote the conservation and sustainable use of biodiversity, as well as the fair and equitable sharing of benefits arising from the use of genetic resources."
     },
     {
-      "id": 35,
+      "id": 21,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current Director-General of the World Health Organization?",
+      "question": "Who is the current CEO of the National Basketball Association (NBA)?",
       "options": [
-        "Tedros Adhanom Ghebreyesus",
-        "Margaret Chan",
-        "Gro Harlem Brundtland",
-        "Hiroshi Nakajima"
+        "Adam Silver",
+        "David Stern",
+        "Michael Jordan",
+        "LeBron James"
       ],
       "correct": 0,
-      "explanation": "Tedros Adhanom Ghebreyesus is the current Director-General of the World Health Organization, taking office on July 1, 2017."
+      "explanation": "Adam Silver is the current CEO of the National Basketball Association (NBA). He took over as the CEO in 2014 and is responsible for leading the organization's efforts in promoting and developing the sport of basketball globally."
     },
     {
-      "id": 36,
+      "id": 22,
       "category": "Indian History",
-      "question": "The ancient Indian emperor Chandragupta Maurya ruled from which city?",
+      "question": "Which of the following kingdoms was ruled by the Pallava dynasty?",
       "options": [
-        "Pataliputra",
-        "Taxila",
-        "Kolkata",
-        "Mysore"
+        "Chola Kingdom",
+        "Pallava Kingdom",
+        "Pandya Kingdom",
+        "Chera Kingdom"
       ],
-      "correct": 0,
-      "explanation": "Chandragupta Maurya ruled from the city of Pataliputra, which was the capital of the Mauryan Empire and is now modern-day Patna."
+      "correct": 1,
+      "explanation": "The Pallava Kingdom was ruled by the Pallava dynasty. The Pallavas were a powerful dynasty that ruled over the region of Tamil Nadu from the 6th to the 9th centuries CE."
     },
     {
-      "id": 37,
+      "id": 23,
       "category": "Indian Geography",
-      "question": "What is the name of the highest mountain peak in the Indian state of Uttarakhand?",
+      "question": "What is the name of the largest lake in the state of Maharashtra?",
       "options": [
-        "Nanda Devi",
-        "Kamet",
-        "Trisul",
-        "Shivling"
+        "Venna Lake",
+        "Panshet Lake",
+        "Varasgaon Lake",
+        "Salim Ali Lake"
       ],
       "correct": 0,
-      "explanation": "Nanda Devi is the highest mountain peak in the Indian state of Uttarakhand, and is the second-highest peak in India."
+      "explanation": "Venna Lake is the largest lake in the state of Maharashtra. It is located in the city of Mahabaleshwar and is a popular tourist destination."
     },
     {
-      "id": 38,
+      "id": 24,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of association?",
+      "question": "What is the name of the constitutional article that deals with the right to equality?",
       "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
       ],
       "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of association, which is a fundamental right guaranteed to all citizens of India."
+      "explanation": "Article 14 of the Indian Constitution deals with the right to equality. It guarantees equality before the law and equal protection of the laws to all citizens, as well as prohibits discrimination on the grounds of religion, race, caste, sex, or place of birth."
     },
     {
-      "id": 39,
+      "id": 25,
       "category": "Indian Economy",
-      "question": "What is the name of the Indian government's program to promote financial inclusion and provide banking services to the poor?",
+      "question": "What is the name of the government scheme that aims to provide skill training to youth?",
       "options": [
-        "Jan Dhan Yojana",
-        "Aadhaar",
-        "Make in India",
-        "Digital India"
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Fasal Bima Yojana"
       ],
       "correct": 0,
-      "explanation": "Jan Dhan Yojana is a program launched by the Indian government to promote financial inclusion and provide banking services to the poor, with the goal of reducing poverty and promoting economic growth."
+      "explanation": "The Pradhan Mantri Kaushal Vikas Yojana is a government scheme that aims to provide skill training to youth. It was launched in 2015 and provides financial support to youth to acquire skills in various trades and industries."
     },
     {
-      "id": 40,
+      "id": 26,
       "category": "General Science",
-      "question": "What is the process by which the universe became transparent to light, occurring around 380,000 years after the Big Bang?",
-      "options": [
-        "Recombination",
-        "Nucleosynthesis",
-        "Dark matter formation",
-        "Galaxy formation"
-      ],
-      "correct": 0,
-      "explanation": "Recombination is the process by which the universe became transparent to light, occurring around 380,000 years after the Big Bang, when electrons and protons combined to form neutral atoms."
-    },
-    {
-      "id": 41,
-      "category": "Environment & Ecology",
-      "question": "What is the name of the largest wildlife sanctuary in India?",
-      "options": [
-        "Sundarbans Wildlife Sanctuary",
-        "Periyar Wildlife Sanctuary",
-        "Kaziranga Wildlife Sanctuary",
-        "Gir Wildlife Sanctuary"
-      ],
-      "correct": 0,
-      "explanation": "The Sundarbans Wildlife Sanctuary is the largest wildlife sanctuary in India, covering an area of over 4,200 square kilometers in the state of West Bengal."
-    },
-    {
-      "id": 42,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current President of the Asian Development Bank?",
-      "options": [
-        "Masatsugu Asakawa",
-        "Takehiko Nakao",
-        "Haruhiko Kuroda",
-        "Taro Aso"
-      ],
-      "correct": 0,
-      "explanation": "Masatsugu Asakawa is the current President of the Asian Development Bank, taking office on January 17, 2020."
-    },
-    {
-      "id": 43,
-      "category": "Indian History",
-      "question": "The ancient Indian city of Hampi was the capital of which kingdom?",
-      "options": [
-        "Vijayanagara",
-        "Hoysala",
-        "Chola",
-        "Pallava"
-      ],
-      "correct": 0,
-      "explanation": "The ancient Indian city of Hampi was the capital of the Vijayanagara Kingdom, which was a major power in southern India during the 14th to 16th centuries."
-    },
-    {
-      "id": 44,
-      "category": "Indian Geography",
-      "question": "What is the name of the longest river in the Indian state of Maharashtra?",
-      "options": [
-        "Godavari",
-        "Krishna",
-        "Tungabhadra",
-        "Bhima"
-      ],
-      "correct": 0,
-      "explanation": "The Godavari River is the longest river in the Indian state of Maharashtra, and is an important source of water and hydroelectric power for the region."
-    },
-    {
-      "id": 45,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of the press?",
-      "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
-      ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of the press, which is a fundamental right guaranteed to all citizens of India."
-    },
-    {
-      "id": 46,
-      "category": "Indian Economy",
-      "question": "What is the name of the Indian government's program to promote entrepreneurship and start-ups in the rural sector?",
-      "options": [
-        "Deendayal Antyodaya Yojana",
-        "Make in India",
-        "Digital India",
-        "Start-Up India"
-      ],
-      "correct": 0,
-      "explanation": "Deendayal Antyodaya Yojana is a program launched by the Indian government to promote entrepreneurship and start-ups in the rural sector, with the goal of creating jobs and promoting economic growth."
-    },
-    {
-      "id": 47,
-      "category": "General Science",
-      "question": "What is the largest living thing on Earth, covering over 2,300 square kilometers?",
+      "question": "What is the largest living structure on Earth?",
       "options": [
         "The Great Barrier Reef",
         "The Amazon Rainforest",
@@ -613,176 +340,449 @@
         "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living thing on Earth, covering over 2,300 square kilometers off the coast of Australia."
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth. It is a coral reef system located in the Coral Sea, off the coast of Australia, and is home to a diverse array of marine life."
     },
     {
-      "id": 48,
+      "id": 27,
       "category": "Environment & Ecology",
-      "question": "What is the name of the international agreement aimed at reducing the use of plastic bags and promoting sustainable waste management?",
+      "question": "What is the name of the international agreement that aims to reduce the emission of greenhouse gases?",
       "options": [
-        "Basel Convention",
         "Kyoto Protocol",
         "Paris Agreement",
-        "Copenhagen Accord"
+        "Montreal Protocol",
+        "Rio Declaration"
       ],
       "correct": 0,
-      "explanation": "The Basel Convention is an international agreement aimed at reducing the use of plastic bags and promoting sustainable waste management, with the goal of protecting the environment and human health."
+      "explanation": "The Kyoto Protocol is an international agreement that aims to reduce the emission of greenhouse gases. It was signed in 1997 and aims to reduce the emission of greenhouse gases by developed countries by an average of 5% below 1990 levels by 2008-2012."
     },
     {
-      "id": 49,
+      "id": 28,
       "category": "Current Affairs & General Knowledge",
       "question": "Who is the current Secretary-General of the United Nations?",
       "options": [
         "António Guterres",
         "Ban Ki-moon",
         "Kofi Annan",
-        "Boutros Boutros-Ghali"
+        "Javier Pérez de Cuéllar"
       ],
       "correct": 0,
-      "explanation": "António Guterres is the current Secretary-General of the United Nations, taking office on January 1, 2017."
+      "explanation": "António Guterres is the current Secretary-General of the United Nations. He took over as the Secretary-General in 2017 and is responsible for leading the organization's efforts in promoting peace, security, and development globally."
+    },
+    {
+      "id": 29,
+      "category": "Indian History",
+      "question": "Which of the following kingdoms was ruled by the Chola dynasty?",
+      "options": [
+        "Chola Kingdom",
+        "Pallava Kingdom",
+        "Pandya Kingdom",
+        "Chera Kingdom"
+      ],
+      "correct": 0,
+      "explanation": "The Chola Kingdom was ruled by the Chola dynasty. The Cholas were a powerful dynasty that ruled over the region of Tamil Nadu from the 9th to the 13th centuries CE."
+    },
+    {
+      "id": 30,
+      "category": "Indian Geography",
+      "question": "What is the name of the highest mountain peak in the Western Ghats?",
+      "options": [
+        "Anamudi",
+        "Doddabetta",
+        "Mullayanagiri",
+        "Kudremukh"
+      ],
+      "correct": 0,
+      "explanation": "Anamudi is the highest mountain peak in the Western Ghats. It is located in the state of Kerala and has a height of 2,695 meters above sea level."
+    },
+    {
+      "id": 31,
+      "category": "Indian Polity & Governance",
+      "question": "What is the name of the constitutional article that deals with the right to freedom of religion?",
+      "options": [
+        "Article 25",
+        "Article 26",
+        "Article 27",
+        "Article 28"
+      ],
+      "correct": 0,
+      "explanation": "Article 25 of the Indian Constitution deals with the right to freedom of religion. It guarantees the freedom of conscience and the right to profess, practice, and propagate religion to all citizens, subject to certain reasonable restrictions."
+    },
+    {
+      "id": 32,
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme that aims to provide financial support to small and medium-sized enterprises?",
+      "options": [
+        "Pradhan Mantri Mudra Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Fasal Bima Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Mudra Yojana is a government scheme that aims to provide financial support to small and medium-sized enterprises. It was launched in 2015 and provides financial support to entrepreneurs to start and grow their businesses."
+    },
+    {
+      "id": 33,
+      "category": "General Science",
+      "question": "What is the process by which the universe became transparent to light?",
+      "options": [
+        "Big Bang",
+        "Recombination",
+        "Nucleosynthesis",
+        "Galaxy formation"
+      ],
+      "correct": 1,
+      "explanation": "Recombination is the process by which the universe became transparent to light. This process occurred around 380,000 years after the Big Bang, when the universe had cooled enough for electrons and protons to combine into neutral atoms, allowing light to travel freely through the universe."
+    },
+    {
+      "id": 34,
+      "category": "Environment & Ecology",
+      "question": "What is the name of the international agreement that aims to conserve marine biodiversity?",
+      "options": [
+        "United Nations Convention on the Law of the Sea",
+        "Convention on Biological Diversity",
+        "Kyoto Protocol",
+        "Paris Agreement"
+      ],
+      "correct": 0,
+      "explanation": "The United Nations Convention on the Law of the Sea is an international agreement that aims to conserve marine biodiversity. It was signed in 1982 and aims to promote the conservation and sustainable use of marine living resources, as well as the protection of the marine environment."
+    },
+    {
+      "id": 35,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current Prime Minister of the United Kingdom?",
+      "options": [
+        "Rishi Sunak",
+        "Boris Johnson",
+        "Theresa May",
+        "David Cameron"
+      ],
+      "correct": 0,
+      "explanation": "Rishi Sunak is the current Prime Minister of the United Kingdom. He took over as the Prime Minister in 2022 and is responsible for leading the government's efforts in promoting economic growth, improving public services, and strengthening national security."
+    },
+    {
+      "id": 36,
+      "category": "Indian History",
+      "question": "Which of the following kingdoms was ruled by the Vijayanagara dynasty?",
+      "options": [
+        "Vijayanagara Kingdom",
+        "Bahmani Kingdom",
+        "Golconda Sultanate",
+        "Bijapur Sultanate"
+      ],
+      "correct": 0,
+      "explanation": "The Vijayanagara Kingdom was ruled by the Vijayanagara dynasty. The Vijayanagara Empire was a powerful empire that ruled over the region of South India from the 14th to the 17th centuries CE."
+    },
+    {
+      "id": 37,
+      "category": "Indian Geography",
+      "question": "What is the name of the largest river delta in the world?",
+      "options": [
+        "Ganges River Delta",
+        "Brahmaputra River Delta",
+        "Mekong River Delta",
+        "Yellow River Delta"
+      ],
+      "correct": 0,
+      "explanation": "The Ganges River Delta is the largest river delta in the world. It is located in the state of West Bengal and the country of Bangladesh, and is formed by the confluence of the Ganges, Brahmaputra, and Meghna rivers."
+    },
+    {
+      "id": 38,
+      "category": "Indian Polity & Governance",
+      "question": "What is the name of the constitutional article that deals with the right to property?",
+      "options": [
+        "Article 300A",
+        "Article 301",
+        "Article 302",
+        "Article 303"
+      ],
+      "correct": 0,
+      "explanation": "Article 300A of the Indian Constitution deals with the right to property. It guarantees the right to property to all citizens, subject to certain reasonable restrictions, and provides that no person shall be deprived of their property save by authority of law."
+    },
+    {
+      "id": 39,
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme that aims to provide financial support to startups?",
+      "options": [
+        "Startup India",
+        "Make in India",
+        "Digital India",
+        "Skill India"
+      ],
+      "correct": 0,
+      "explanation": "The Startup India scheme is a government scheme that aims to provide financial support to startups. It was launched in 2016 and provides financial support, tax exemptions, and other benefits to startups to promote entrepreneurship and job creation."
+    },
+    {
+      "id": 40,
+      "category": "General Science",
+      "question": "What is the largest planet in our solar system in terms of mass?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 0,
+      "explanation": "Jupiter is the largest planet in our solar system in terms of mass. It has a mass of approximately 318 times that of Earth and is the fifth planet from the Sun."
+    },
+    {
+      "id": 41,
+      "category": "Environment & Ecology",
+      "question": "What is the name of the international agreement that aims to reduce the emission of ozone-depleting substances?",
+      "options": [
+        "Montreal Protocol",
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "Rio Declaration"
+      ],
+      "correct": 0,
+      "explanation": "The Montreal Protocol is an international agreement that aims to reduce the emission of ozone-depleting substances. It was signed in 1987 and aims to phase out the production and consumption of ozone-depleting substances, such as chlorofluorocarbons (CFCs) and halons."
+    },
+    {
+      "id": 42,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current President of the European Commission?",
+      "options": [
+        "Ursula von der Leyen",
+        "Jean-Claude Juncker",
+        "José Manuel Barroso",
+        "Romano Prodi"
+      ],
+      "correct": 0,
+      "explanation": "Ursula von der Leyen is the current President of the European Commission. She took over as the President in 2019 and is responsible for leading the Commission's efforts in promoting European integration, economic growth, and social cohesion."
+    },
+    {
+      "id": 43,
+      "category": "Indian History",
+      "question": "Which of the following kingdoms was ruled by the Mughal dynasty?",
+      "options": [
+        "Mughal Empire",
+        "Sultanate of Delhi",
+        "Golconda Sultanate",
+        "Bijapur Sultanate"
+      ],
+      "correct": 0,
+      "explanation": "The Mughal Empire was ruled by the Mughal dynasty. The Mughal Empire was a powerful empire that ruled over the region of North India from the 16th to the 19th centuries CE."
+    },
+    {
+      "id": 44,
+      "category": "Indian Geography",
+      "question": "What is the name of the highest mountain peak in the Himalayas?",
+      "options": [
+        "Mount Everest",
+        "K2",
+        "Kangchenjunga",
+        "Nanda Devi"
+      ],
+      "correct": 0,
+      "explanation": "Mount Everest is the highest mountain peak in the Himalayas. It is located in the Himalayan mountain range, on the border between Nepal and Tibet, and has a height of 8,848 meters above sea level."
+    },
+    {
+      "id": 45,
+      "category": "Indian Polity & Governance",
+      "question": "What is the name of the constitutional article that deals with the right to freedom of speech and expression in the context of the media?",
+      "options": [
+        "Article 19",
+        "Article 19(1)(a)",
+        "Article 21",
+        "Article 25"
+      ],
+      "correct": 1,
+      "explanation": "Article 19(1)(a) of the Indian Constitution deals with the right to freedom of speech and expression in the context of the media. It guarantees the freedom of speech and expression to all citizens, subject to certain reasonable restrictions, and provides that the media has the right to publish news and information without prior restraint."
+    },
+    {
+      "id": 46,
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme that aims to provide financial support to farmers through direct benefit transfer?",
+      "options": [
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Awas Yojana"
+      ],
+      "correct": 0,
+      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a government scheme that aims to provide financial support to farmers through direct benefit transfer. It was launched in 2019 and provides an annual payment of Rs 6,000 to eligible farmers to support their agricultural activities."
+    },
+    {
+      "id": 47,
+      "category": "General Science",
+      "question": "What is the process by which the universe became dominated by matter?",
+      "options": [
+        "Big Bang",
+        "Recombination",
+        "Baryogenesis",
+        "Nucleosynthesis"
+      ],
+      "correct": 2,
+      "explanation": "Baryogenesis is the process by which the universe became dominated by matter. This process occurred in the early universe, when the universe was still very hot and dense, and resulted in the formation of matter-antimatter asymmetry, which ultimately led to the dominance of matter in the universe."
+    },
+    {
+      "id": 48,
+      "category": "Environment & Ecology",
+      "question": "What is the name of the international agreement that aims to conserve and sustainably use marine biodiversity?",
+      "options": [
+        "United Nations Convention on the Law of the Sea",
+        "Convention on Biological Diversity",
+        "Kyoto Protocol",
+        "Paris Agreement"
+      ],
+      "correct": 0,
+      "explanation": "The United Nations Convention on the Law of the Sea is an international agreement that aims to conserve and sustainably use marine biodiversity. It was signed in 1982 and aims to promote the conservation and sustainable use of marine living resources, as well as the protection of the marine environment."
+    },
+    {
+      "id": 49,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current Director-General of the World Health Organization (WHO)?",
+      "options": [
+        "Tedros Adhanom Ghebreyesus",
+        "Margaret Chan",
+        "Gro Harlem Brundtland",
+        "Hiroshi Nakajima"
+      ],
+      "correct": 0,
+      "explanation": "Tedros Adhanom Ghebreyesus is the current Director-General of the World Health Organization (WHO). He took over as the Director-General in 2017 and is responsible for leading the organization's efforts in promoting global health, preventing and controlling diseases, and improving access to healthcare."
     },
     {
       "id": 50,
       "category": "Indian History",
-      "question": "The ancient Indian city of Ayodhya was an important center of which religion?",
+      "question": "Which of the following kingdoms was ruled by the Maratha dynasty?",
       "options": [
-        "Hinduism",
-        "Buddhism",
-        "Jainism",
-        "Sikhism"
+        "Maratha Empire",
+        "Sultanate of Delhi",
+        "Golconda Sultanate",
+        "Bijapur Sultanate"
       ],
       "correct": 0,
-      "explanation": "The ancient Indian city of Ayodhya was an important center of Hinduism, and is still considered one of the holiest cities in India."
+      "explanation": "The Maratha Empire was ruled by the Maratha dynasty. The Marathas were a powerful dynasty that ruled over the region of Western India from the 17th to the 19th centuries CE."
     },
     {
       "id": 51,
       "category": "Indian Geography",
-      "question": "What is the name of the largest island in the Indian union territory of Lakshadweep?",
+      "question": "What is the name of the largest island in the Bay of Bengal?",
       "options": [
-        "Amini",
-        "Androth",
-        "Kavaratti",
-        "Minicoy"
+        "Andaman Island",
+        "Nicobar Island",
+        "Great Nicobar Island",
+        "Little Andaman Island"
       ],
-      "correct": 2,
-      "explanation": "Kavaratti is the largest island in the Indian union territory of Lakshadweep, and is the administrative capital of the territory."
+      "correct": 0,
+      "explanation": "The Andaman Island is the largest island in the Bay of Bengal. It is located in the Andaman and Nicobar Islands union territory and is known for its beautiful beaches, coral reefs, and dense forests."
     },
     {
       "id": 52,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of worship?",
+      "question": "What is the name of the constitutional article that deals with the right to education?",
       "options": [
+        "Article 21A",
+        "Article 21",
         "Article 25",
-        "Article 26",
-        "Article 27",
-        "Article 28"
+        "Article 30"
       ],
       "correct": 0,
-      "explanation": "Article 25 of the Indian Constitution deals with the right to freedom of worship, which is a fundamental right guaranteed to all citizens of India."
+      "explanation": "Article 21A of the Indian Constitution deals with the right to education. It guarantees the right to education to all children between the ages of 6 and 14, and provides that the state shall provide free and compulsory education to all children in this age group."
     },
     {
       "id": 53,
       "category": "Indian Economy",
-      "question": "What is the name of the Indian government's program to promote rural development and poverty alleviation?",
+      "question": "What is the name of the government scheme that aims to provide financial support to micro, small, and medium-sized enterprises?",
       "options": [
-        "Mahatma Gandhi National Rural Employment Guarantee Act",
-        "Make in India",
-        "Digital India",
-        "Start-Up India"
+        "Pradhan Mantri Mudra Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Fasal Bima Yojana"
       ],
       "correct": 0,
-      "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act is a program launched by the Indian government to promote rural development and poverty alleviation, with the goal of providing guaranteed employment to rural laborers."
+      "explanation": "The Pradhan Mantri Mudra Yojana is a government scheme that aims to provide financial support to micro, small, and medium-sized enterprises. It was launched in 2015 and provides financial support to entrepreneurs to start and grow their businesses."
     },
     {
       "id": 54,
       "category": "General Science",
-      "question": "What is the process by which the universe became transparent to light, occurring around 13.6 billion years ago?",
+      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
       "options": [
-        "Recombination",
-        "Nucleosynthesis",
-        "Dark matter formation",
-        "Galaxy formation"
+        "Genetic drift",
+        "Natural selection",
+        "Mutation",
+        "Hereditary"
       ],
-      "correct": 0,
-      "explanation": "Recombination is the process by which the universe became transparent to light, occurring around 13.6 billion years ago, when electrons and protons combined to form neutral atoms."
+      "correct": 3,
+      "explanation": "Hereditary is the process by which an organism's genetic information is passed from one generation to the next. This process involves the transmission of genetic traits from parents to offspring through the transmission of DNA, and is the basis of the continuity of life on Earth."
     },
     {
       "id": 55,
       "category": "Environment & Ecology",
-      "question": "What is the name of the largest wildlife sanctuary in the Indian state of Madhya Pradesh?",
+      "question": "What is the name of the international agreement that aims to reduce the emission of greenhouse gases and mitigate the effects of climate change?",
       "options": [
-        "Kanha National Park",
-        "Pench National Park",
-        "Bandhavgarh National Park",
-        "Satpura National Park"
+        "Paris Agreement",
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Rio Declaration"
       ],
       "correct": 0,
-      "explanation": "Kanha National Park is the largest wildlife sanctuary in the Indian state of Madhya Pradesh, covering an area of over 940 square kilometers."
+      "explanation": "The Paris Agreement is an international agreement that aims to reduce the emission of greenhouse gases and mitigate the effects of climate change. It was signed in 2015 and aims to limit global warming to well below 2 degrees Celsius and pursue efforts to limit it to 1.5 degrees Celsius."
     },
     {
       "id": 56,
       "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current President of the International Cricket Council?",
+      "question": "Who is the current President of the International Olympic Committee (IOC)?",
       "options": [
-        "Greg Barclay",
-        "Shashank Manohar",
-        "Zaheer Abbas",
-        "Ehsan Mani"
+        "Thomas Bach",
+        "Jacques Rogge",
+        "Juan Antonio Samaranch",
+        "Avery Brundage"
       ],
       "correct": 0,
-      "explanation": "Greg Barclay is the current President of the International Cricket Council, taking office on November 25, 2020."
+      "explanation": "Thomas Bach is the current President of the International Olympic Committee (IOC). He took over as the President in 2013 and is responsible for leading the organization's efforts in promoting the Olympic Movement, developing the Olympic Games, and supporting athletes and national Olympic committees."
     },
     {
       "id": 57,
       "category": "Indian History",
-      "question": "The ancient Indian city of Mathura was an important center of which religion?",
+      "question": "Which of the following kingdoms was ruled by the Sikh dynasty?",
       "options": [
-        "Hinduism",
-        "Buddhism",
-        "Jainism",
-        "Sikhism"
+        "Sikh Empire",
+        "Mughal Empire",
+        "Maratha Empire",
+        "Rajput Kingdom"
       ],
       "correct": 0,
-      "explanation": "The ancient Indian city of Mathura was an important center of Hinduism, and is still considered one of the holiest cities in India."
+      "explanation": "The Sikh Empire was ruled by the Sikh dynasty. The Sikhs were a powerful dynasty that ruled over the region of Punjab from the 18th to the 19th centuries CE."
     },
     {
       "id": 58,
       "category": "Indian Geography",
-      "question": "What is the name of the largest river in the Indian state of Andhra Pradesh?",
+      "question": "What is the name of the highest mountain peak in the state of Jammu and Kashmir?",
       "options": [
-        "Godavari",
-        "Krishna",
-        "Tungabhadra",
-        "Pennar"
+        "K2",
+        "Nanga Parbat",
+        "Kangchenjunga",
+        "Mount Harmukh"
       ],
       "correct": 0,
-      "explanation": "The Godavari River is the largest river in the Indian state of Andhra Pradesh, and is an important source of water and hydroelectric power for the region."
+      "explanation": "K2 is the highest mountain peak in the state of Jammu and Kashmir. It is located in the Karakoram mountain range and has a height of 8,611 meters above sea level."
     },
     {
       "id": 59,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of conscience?",
+      "question": "What is the name of the constitutional article that deals with the right to equality before the law?",
       "options": [
-        "Article 25",
-        "Article 26",
-        "Article 27",
-        "Article 28"
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
       ],
       "correct": 0,
-      "explanation": "Article 25 of the Indian Constitution deals with the right to freedom of conscience, which is a fundamental right guaranteed to all citizens of India."
+      "explanation": "Article 14 of the Indian Constitution deals with the right to equality before the law. It guarantees equality before the law and equal protection of the laws to all citizens, as well as prohibits discrimination on the grounds of religion, race, caste, sex, or place of birth."
     },
     {
       "id": 60,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current President of the World Trade Organization?",
+      "category": "Indian Economy",
+      "question": "What is the name of the government scheme that aims to provide financial support to women through the setup of self-help groups?",
       "options": [
-        "Ngozi Okonjo-Iweala",
-        "Roberto Azevêdo",
-        "Pascal Lamy",
-        "Supachai Panitchpakdi"
+        "National Rural Livelihood Mission",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Fasal Bima Yojana"
       ],
       "correct": 0,
-      "explanation": "Ngozi Okonjo-Iweala is the current President of the World Trade Organization, taking office on March 1, 2021."
+      "explanation": "The National Rural Livelihood Mission is a government scheme that aims to provide financial support to women through the setup of self-help groups. It was launched in 2011 and provides financial support, training, and other benefits to women to promote their economic empowerment and social development."
     }
   ]
 }

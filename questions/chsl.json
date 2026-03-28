@@ -1,21 +1,21 @@
 {
   "exam": "chsl",
   "name": "SSC CHSL",
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "questionCount": 60,
   "questions": [
     {
       "id": 1,
       "category": "General Awareness",
-      "question": "Which of the following dances is a classical dance of India that originated in the state of Kerala?",
+      "question": "Who was the first President of India?",
       "options": [
-        "Bharatanatyam",
-        "Kathakali",
-        "Kuchipudi",
-        "Odissi"
+        "Dr. Rajendra Prasad",
+        "Dr. Bhimrao Ambedkar",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose"
       ],
-      "correct": 1,
-      "explanation": "Kathakali is a classical dance of India that originated in the state of Kerala. It is known for its elaborate costumes, intricate hand gestures, and detailed facial expressions."
+      "correct": 0,
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
     },
     {
       "id": 2,
@@ -33,54 +33,54 @@
     {
       "id": 3,
       "category": "Reasoning & Mental Ability",
-      "question": "What comes next in the series: 2, 4, 8, 16, 32, ?",
+      "question": "What comes next in the series: 2, 5, 8, 11, 14?",
       "options": [
-        "64",
-        "128",
-        "256",
-        "512"
+        "15",
+        "17",
+        "18",
+        "20"
       ],
-      "correct": 0,
-      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2. Therefore, the next term in the series is 64."
+      "correct": 1,
+      "explanation": "The pattern of the series is adding 3 to the previous term, so the next number in the series is 17."
     },
     {
       "id": 4,
       "category": "Indian Polity",
-      "question": "Which of the following is a fundamental right guaranteed by the Indian Constitution?",
+      "question": "What is the term of the President of India?",
       "options": [
-        "Right to Education",
-        "Right to Freedom",
-        "Right to Property",
-        "Right to Vote"
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
       ],
       "correct": 1,
-      "explanation": "The Right to Freedom is a fundamental right guaranteed by the Indian Constitution. It includes the right to freedom of speech and expression, freedom of assembly, and freedom of association."
+      "explanation": "The term of the President of India is 5 years, as per Article 56 of the Indian Constitution."
     },
     {
       "id": 5,
       "category": "Geography",
-      "question": "Which of the following rivers flows through the state of Rajasthan?",
+      "question": "Which river is known as the 'Ganga of the South'?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Brahmaputra",
-        "Chambal"
+        "Godavari",
+        "Krishna",
+        "Kaveri",
+        "Tamiraparani"
       ],
-      "correct": 3,
-      "explanation": "The Chambal River flows through the state of Rajasthan. It is a major river in northern India and is known for its unique ecosystem and biodiversity."
+      "correct": 0,
+      "explanation": "The Godavari River is known as the 'Ganga of the South' due to its cultural and geographical significance in southern India."
     },
     {
       "id": 6,
       "category": "Current Affairs & GK",
-      "question": "What is the name of the scheme launched by the Government of India to provide financial assistance to farmers?",
+      "question": "What is the name of the Indian government's scheme to provide financial assistance to farmers?",
       "options": [
         "Pradhan Mantri Kisan Samman Nidhi",
         "Pradhan Mantri Fasal Bima Yojana",
         "Pradhan Mantri Krishi Sinchayee Yojana",
-        "Pradhan Mantri Gram Sadak Yojana"
+        "Pradhan Mantri Annadata Aay SanraksHan Abhiyan"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a scheme launched by the Government of India to provide financial assistance to farmers. It aims to provide a minimum income support of Rs. 6,000 per year to eligible farmers."
+      "explanation": "Pradhan Mantri Kisan Samman Nidhi is a scheme launched by the Indian government to provide financial assistance to farmers, with an aim to supplement their income."
     },
     {
       "id": 7,
@@ -93,12 +93,12 @@
         "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "The Discovery of India is a book written by Jawaharlal Nehru. It is a historical and cultural account of India and its people."
+      "explanation": "Jawaharlal Nehru wrote the book 'The Discovery of India' while he was in prison during the British rule."
     },
     {
       "id": 8,
       "category": "General Science",
-      "question": "What is the process by which plants make their own food from sunlight?",
+      "question": "What is the process by which plants make their own food?",
       "options": [
         "Respiration",
         "Photosynthesis",
@@ -106,20 +106,20 @@
         "Fermentation"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants make their own food from sunlight. It involves the conversion of carbon dioxide and water into glucose and oxygen."
+      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria make their own food using sunlight, water, and carbon dioxide."
     },
     {
       "id": 9,
       "category": "Reasoning & Mental Ability",
-      "question": "Which of the following is the odd one out in the series: 3, 6, 9, 12, 15, 18?",
+      "question": "Which of the following is an example of a coding-decoding question?",
       "options": [
-        "3",
-        "6",
-        "9",
-        "12"
+        "If A = 1, B = 2, ..., Z = 26, then what is the code for 'CAT'?",
+        "What is the next number in the series: 1, 2, 4, 8, 16?",
+        "Which of the following words is closest in meaning to 'big'?",
+        "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?"
       ],
       "correct": 0,
-      "explanation": "The pattern of the series is obtained by adding 3 to the previous term. Therefore, the odd one out in the series is 3, as it is the first term and does not have a previous term to add 3 to."
+      "explanation": "The given option is an example of a coding-decoding question, where each letter is replaced by a number based on its position in the alphabet."
     },
     {
       "id": 10,
@@ -132,49 +132,36 @@
         "Tribunal"
       ],
       "correct": 0,
-      "explanation": "The Supreme Court is the highest court in India. It is the apex court and has the final say in matters of law and justice."
+      "explanation": "The Supreme Court is the highest court in India, with the power to interpret the Constitution and laws."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which of the following mountains is the highest peak in the Himalayan range?",
+      "question": "Which of the following states is known as the 'Land of Five Rivers'?",
       "options": [
-        "Mount Everest",
-        "K2",
-        "Kangchenjunga",
-        "Annapurna"
+        "Punjab",
+        "Haryana",
+        "Uttar Pradesh",
+        "Bihar"
       ],
       "correct": 0,
-      "explanation": "Mount Everest is the highest peak in the Himalayan range. It is located in the Mahalangur Himal sub-range of the Himalayas and is the highest mountain in the world."
+      "explanation": "Punjab is known as the 'Land of Five Rivers', as it is drained by the five rivers of the Indus basin: Jhelum, Chenab, Ravi, Beas, and Sutlej."
     },
     {
       "id": 12,
-      "category": "Current Affairs & GK",
-      "question": "What is the name of the scheme launched by the Government of India to provide housing for all by 2022?",
+      "category": "General Awareness",
+      "question": "Who was the founder of the Indian National Congress?",
       "options": [
-        "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Gram Sadak Yojana",
-        "Pradhan Mantri Krishi Sinchayee Yojana",
-        "Pradhan Mantri Fasal Bima Yojana"
+        "Allan Octavian Hume",
+        "Lala Lajpat Rai",
+        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Awas Yojana is a scheme launched by the Government of India to provide housing for all by 2022. It aims to provide affordable housing to the urban poor and slum dwellers."
+      "explanation": "Allan Octavian Hume was a British civil servant who founded the Indian National Congress in 1885, with the aim of promoting Indian rights and self-governance."
     },
     {
       "id": 13,
-      "category": "General Awareness",
-      "question": "Who is the author of the book 'Gita Govinda'?",
-      "options": [
-        "Jayadeva",
-        "Kalidasa",
-        "Tulsidas",
-        "Surdas"
-      ],
-      "correct": 0,
-      "explanation": "The Gita Govinda is a book written by Jayadeva. It is a poetic work that describes the love of Krishna and Radha."
-    },
-    {
-      "id": 14,
       "category": "General Science",
       "question": "What is the largest living structure on Earth?",
       "options": [
@@ -184,142 +171,64 @@
         "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth. It is a coral reef system located in the Coral Sea, off the coast of Australia."
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
+    },
+    {
+      "id": 14,
+      "category": "Reasoning & Mental Ability",
+      "question": "What is the missing number in the series: 1, 3, 5, 7, _, 11?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "explanation": "The pattern of the series is adding 2 to the previous term, so the missing number is 9."
     },
     {
       "id": 15,
-      "category": "Reasoning & Mental Ability",
-      "question": "What comes next in the series: 1, 2, 4, 7, 11, ?",
+      "category": "Indian Polity",
+      "question": "What is the term of a member of the Lok Sabha?",
       "options": [
-        "14",
-        "16",
-        "18",
-        "20"
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
       ],
-      "correct": 0,
-      "explanation": "The pattern of the series is obtained by adding 1, 2, 3, 4, and so on to the previous term. Therefore, the next term in the series is 14, as 1 + 1 = 2, 2 + 2 = 4, 4 + 3 = 7, 7 + 4 = 11, and 11 + 5 = 16, but 11 + 3 = 14."
+      "correct": 1,
+      "explanation": "The term of a member of the Lok Sabha is 5 years, as per Article 83 of the Indian Constitution."
     },
     {
       "id": 16,
-      "category": "Indian Polity",
-      "question": "Who is the head of the government in India?",
+      "category": "Geography",
+      "question": "Which of the following rivers flows through the Grand Canyon?",
       "options": [
-        "President",
-        "Prime Minister",
-        "Vice-President",
-        "Governor"
+        "Colorado River",
+        "Mississippi River",
+        "Rio Grande",
+        "Yellowstone River"
       ],
-      "correct": 1,
-      "explanation": "The Prime Minister is the head of the government in India. The Prime Minister is the leader of the party or coalition with the majority in the Lok Sabha and is responsible for advising the President on matters of state."
+      "correct": 0,
+      "explanation": "The Colorado River flows through the Grand Canyon, one of the most iconic natural wonders in the United States."
     },
     {
       "id": 17,
-      "category": "Geography",
-      "question": "Which of the following rivers flows through the state of Madhya Pradesh?",
+      "category": "Current Affairs & GK",
+      "question": "What is the name of the Indian government's scheme to provide free LPG connections to poor households?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Narmada",
-        "Tapti"
+        "Pradhan Mantri Ujjwala Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana"
       ],
-      "correct": 2,
-      "explanation": "The Narmada River flows through the state of Madhya Pradesh. It is a major river in central India and is known for its unique ecosystem and biodiversity."
+      "correct": 0,
+      "explanation": "Pradhan Mantri Ujjwala Yojana is a scheme launched by the Indian government to provide free LPG connections to poor households, with an aim to reduce dependence on traditional cooking fuels."
     },
     {
       "id": 18,
-      "category": "Current Affairs & GK",
-      "question": "What is the name of the scheme launched by the Government of India to provide financial assistance to women?",
-      "options": [
-        "Pradhan Mantri Mahila Shakti Kendra Scheme",
-        "Pradhan Mantri Ujjwala Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri MUDRA Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Mahila Shakti Kendra Scheme is a scheme launched by the Government of India to provide financial assistance to women. It aims to empower women and provide them with access to credit, skills, and knowledge."
-    },
-    {
-      "id": 19,
       "category": "General Awareness",
-      "question": "Who is the founder of the religion of Buddhism?",
-      "options": [
-        "Gautama Buddha",
-        "Mahavira",
-        "Siddhartha",
-        "Zoroaster"
-      ],
-      "correct": 0,
-      "explanation": "Gautama Buddha is the founder of the religion of Buddhism. He was born in ancient India and is believed to have achieved enlightenment under the Bodhi Tree in Bodh Gaya."
-    },
-    {
-      "id": 20,
-      "category": "General Science",
-      "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
-      ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor. It is an important part of the water cycle and helps to regulate the plant's temperature and maintain its water balance."
-    },
-    {
-      "id": 21,
-      "category": "Reasoning & Mental Ability",
-      "question": "Which of the following is the odd one out in the series: 5, 10, 15, 20, 25, 30?",
-      "options": [
-        "5",
-        "10",
-        "15",
-        "20"
-      ],
-      "correct": 0,
-      "explanation": "The pattern of the series is obtained by adding 5 to the previous term. Therefore, the odd one out in the series is 5, as it is the first term and does not have a previous term to add 5 to."
-    },
-    {
-      "id": 22,
-      "category": "Indian Polity",
-      "question": "What is the name of the upper house of the Indian Parliament?",
-      "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "Vidhan Sabha",
-        "Vidhan Parishad"
-      ],
-      "correct": 1,
-      "explanation": "The Rajya Sabha is the upper house of the Indian Parliament. It is a permanent body that consists of 245 members, with 233 members elected by the elected members of the State Legislative Assemblies and 12 members nominated by the President."
-    },
-    {
-      "id": 23,
-      "category": "Geography",
-      "question": "Which of the following mountains is the highest peak in the Western Ghats?",
-      "options": [
-        "Anamudi",
-        "Doddabetta",
-        "Mullayanagiri",
-        "Agasthyamala"
-      ],
-      "correct": 0,
-      "explanation": "Anamudi is the highest peak in the Western Ghats. It is located in the Idukki district of Kerala and is a popular destination for trekking and adventure tourism."
-    },
-    {
-      "id": 24,
-      "category": "Current Affairs & GK",
-      "question": "What is the name of the scheme launched by the Government of India to provide skill training to youth?",
-      "options": [
-        "Pradhan Mantri Kaushal Vikas Yojana",
-        "Pradhan Mantri Ujjwala Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri MUDRA Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Kaushal Vikas Yojana is a scheme launched by the Government of India to provide skill training to youth. It aims to provide training and certification to youth in various skills and trades, making them employable and self-dependent."
-    },
-    {
-      "id": 25,
-      "category": "General Awareness",
-      "question": "Who is the author of the book 'The Story of My Experiments with Truth'?",
+      "question": "Who is the author of the book 'My Experiments with Truth'?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
@@ -327,246 +236,12 @@
         "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "The Story of My Experiments with Truth is a book written by Mahatma Gandhi. It is an autobiography that describes Gandhi's life, struggles, and experiences."
+      "explanation": "Mahatma Gandhi wrote the book 'My Experiments with Truth', which is an autobiography detailing his life experiences and spiritual journey."
     },
     {
-      "id": 26,
+      "id": 19,
       "category": "General Science",
-      "question": "What is the largest organ of the human body?",
-      "options": [
-        "Brain",
-        "Heart",
-        "Lungs",
-        "Skin"
-      ],
-      "correct": 3,
-      "explanation": "The skin is the largest organ of the human body. It is the outermost layer of the body and plays a crucial role in protecting the body from external damage, regulating body temperature, and aiding in the production of vitamin D."
-    },
-    {
-      "id": 27,
-      "category": "Reasoning & Mental Ability",
-      "question": "What comes next in the series: 1, 4, 9, 16, 25, ?",
-      "options": [
-        "36",
-        "49",
-        "64",
-        "81"
-      ],
-      "correct": 0,
-      "explanation": "The pattern of the series is obtained by squaring the previous term. Therefore, the next term in the series is 36, as 1^2 = 1, 2^2 = 4, 3^2 = 9, 4^2 = 16, 5^2 = 25, and 6^2 = 36."
-    },
-    {
-      "id": 28,
-      "category": "Indian Polity",
-      "question": "Who is the head of the state in India?",
-      "options": [
-        "President",
-        "Prime Minister",
-        "Vice-President",
-        "Governor"
-      ],
-      "correct": 0,
-      "explanation": "The President is the head of the state in India. The President is the ceremonial head of state and is responsible for appointing the Prime Minister and other high officials."
-    },
-    {
-      "id": 29,
-      "category": "Geography",
-      "question": "Which of the following rivers flows through the state of Gujarat?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Narmada",
-        "Sabarmati"
-      ],
-      "correct": 3,
-      "explanation": "The Sabarmati River flows through the state of Gujarat. It is a major river in western India and is known for its unique ecosystem and biodiversity."
-    },
-    {
-      "id": 30,
-      "category": "Current Affairs & GK",
-      "question": "What is the name of the scheme launched by the Government of India to provide digital literacy to rural youth?",
-      "options": [
-        "Pradhan Mantri Gramin Digital Saksharta Abhiyan",
-        "Pradhan Mantri Ujjwala Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri MUDRA Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Gramin Digital Saksharta Abhiyan is a scheme launched by the Government of India to provide digital literacy to rural youth. It aims to provide training and certification to rural youth in digital skills, making them employable and self-dependent."
-    },
-    {
-      "id": 31,
-      "category": "General Awareness",
-      "question": "Who is the founder of the Sikh religion?",
-      "options": [
-        "Guru Nanak",
-        "Guru Gobind Singh",
-        "Guru Arjan Dev",
-        "Guru Teg Bahadur"
-      ],
-      "correct": 0,
-      "explanation": "Guru Nanak is the founder of the Sikh religion. He was born in ancient India and is believed to have achieved enlightenment and founded the Sikh faith."
-    },
-    {
-      "id": 32,
-      "category": "General Science",
-      "question": "What is the process by which the body converts food into energy?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Metabolism",
-        "Digestion"
-      ],
-      "correct": 2,
-      "explanation": "Metabolism is the process by which the body converts food into energy. It involves the breakdown of nutrients from food into energy, which is then used to power the body's functions."
-    },
-    {
-      "id": 33,
-      "category": "Reasoning & Mental Ability",
-      "question": "What comes next in the series: 3, 5, 7, 9, 11, ?",
-      "options": [
-        "13",
-        "15",
-        "17",
-        "19"
-      ],
-      "correct": 0,
-      "explanation": "The pattern of the series is obtained by adding 2 to the previous term. Therefore, the next term in the series is 13, as 3 + 2 = 5, 5 + 2 = 7, 7 + 2 = 9, 9 + 2 = 11, and 11 + 2 = 13."
-    },
-    {
-      "id": 34,
-      "category": "Indian Polity",
-      "question": "What is the name of the lower house of the Indian Parliament?",
-      "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "Vidhan Sabha",
-        "Vidhan Parishad"
-      ],
-      "correct": 0,
-      "explanation": "The Lok Sabha is the lower house of the Indian Parliament. It is a temporary body that consists of 543 elected members, who are elected by the people of India for a term of five years."
-    },
-    {
-      "id": 35,
-      "category": "Geography",
-      "question": "Which of the following mountains is the highest peak in the Eastern Ghats?",
-      "options": [
-        "Mahendragiri",
-        "Doddabetta",
-        "Mullayanagiri",
-        "Agasthyamala"
-      ],
-      "correct": 0,
-      "explanation": "Mahendragiri is the highest peak in the Eastern Ghats. It is located in the Gajapati district of Odisha and is a popular destination for trekking and adventure tourism."
-    },
-    {
-      "id": 36,
-      "category": "Current Affairs & GK",
-      "question": "What is the name of the scheme launched by the Government of India to provide financial assistance to small and medium-sized enterprises?",
-      "options": [
-        "Pradhan Mantri MUDRA Yojana",
-        "Pradhan Mantri Ujjwala Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Kaushal Vikas Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri MUDRA Yojana is a scheme launched by the Government of India to provide financial assistance to small and medium-sized enterprises. It aims to provide loans and other financial assistance to entrepreneurs and small businesses, promoting economic growth and job creation."
-    },
-    {
-      "id": 37,
-      "category": "General Awareness",
-      "question": "Who is the author of the book 'The Interpretation of Dreams'?",
-      "options": [
-        "Sigmund Freud",
-        "Carl Jung",
-        "Alfred Adler",
-        "Erik Erikson"
-      ],
-      "correct": 0,
-      "explanation": "The Interpretation of Dreams is a book written by Sigmund Freud. It is a psychological work that explores the nature of dreams and their role in human psychology."
-    },
-    {
-      "id": 38,
-      "category": "General Science",
-      "question": "What is the largest planet in our solar system?",
-      "options": [
-        "Earth",
-        "Saturn",
-        "Jupiter",
-        "Uranus"
-      ],
-      "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
-    },
-    {
-      "id": 39,
-      "category": "Reasoning & Mental Ability",
-      "question": "What comes next in the series: 2, 6, 12, 20, 30, ?",
-      "options": [
-        "42",
-        "44",
-        "46",
-        "48"
-      ],
-      "correct": 0,
-      "explanation": "The pattern of the series is obtained by adding 4, 6, 8, 10, and so on to the previous term. Therefore, the next term in the series is 42, as 2 + 4 = 6, 6 + 6 = 12, 12 + 8 = 20, 20 + 10 = 30, and 30 + 12 = 42."
-    },
-    {
-      "id": 40,
-      "category": "Indian Polity",
-      "question": "Who is the head of the judiciary in India?",
-      "options": [
-        "Chief Justice of India",
-        "President",
-        "Prime Minister",
-        "Attorney General"
-      ],
-      "correct": 0,
-      "explanation": "The Chief Justice of India is the head of the judiciary in India. The Chief Justice is the head of the Supreme Court and is responsible for interpreting the Constitution and laws of India."
-    },
-    {
-      "id": 41,
-      "category": "Geography",
-      "question": "Which of the following rivers flows through the state of West Bengal?",
-      "options": [
-        "Ganga",
-        "Yamuna",
-        "Brahmaputra",
-        "Hooghly"
-      ],
-      "correct": 3,
-      "explanation": "The Hooghly River flows through the state of West Bengal. It is a major river in eastern India and is known for its unique ecosystem and biodiversity."
-    },
-    {
-      "id": 42,
-      "category": "Current Affairs & GK",
-      "question": "What is the name of the scheme launched by the Government of India to provide financial assistance to farmers?",
-      "options": [
-        "Pradhan Mantri Kisan Samman Nidhi",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Krishi Sinchayee Yojana",
-        "Pradhan Mantri Gram Sadak Yojana"
-      ],
-      "correct": 0,
-      "explanation": "The Pradhan Mantri Kisan Samman Nidhi is a scheme launched by the Government of India to provide financial assistance to farmers. It aims to provide a minimum income support of Rs. 6,000 per year to eligible farmers."
-    },
-    {
-      "id": 43,
-      "category": "General Awareness",
-      "question": "Who is the author of the book 'The Count of Monte Cristo'?",
-      "options": [
-        "Alexandre Dumas",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Honore de Balzac"
-      ],
-      "correct": 0,
-      "explanation": "The Count of Monte Cristo is a book written by Alexandre Dumas. It is a novel that tells the story of a man who seeks revenge on those who wronged him."
-    },
-    {
-      "id": 44,
-      "category": "General Science",
-      "question": "What is the process by which plants release water vapor into the air?",
+      "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
       "options": [
         "Respiration",
         "Photosynthesis",
@@ -574,77 +249,233 @@
         "Evaporation"
       ],
       "correct": 2,
-      "explanation": "Transpiration is the process by which plants release water vapor into the air. It is an important part of the water cycle and helps to regulate the plant's temperature and maintain its water balance."
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
     },
     {
-      "id": 45,
+      "id": 20,
       "category": "Reasoning & Mental Ability",
-      "question": "What comes next in the series: 1, 3, 5, 7, 9, ?",
+      "question": "What is the next letter in the series: A, C, E, G, I?",
       "options": [
-        "11",
-        "13",
-        "15",
-        "17"
+        "K",
+        "L",
+        "M",
+        "N"
       ],
       "correct": 0,
-      "explanation": "The pattern of the series is obtained by adding 2 to the previous term. Therefore, the next term in the series is 11, as 1 + 2 = 3, 3 + 2 = 5, 5 + 2 = 7, 7 + 2 = 9, and 9 + 2 = 11."
+      "explanation": "The pattern of the series is incrementing by 2 letters in the alphabet, so the next letter is K."
     },
     {
-      "id": 46,
+      "id": 21,
       "category": "Indian Polity",
-      "question": "What is the name of the document that outlines the fundamental rights and duties of Indian citizens?",
+      "question": "What is the name of the highest civilian award in India?",
       "options": [
-        "Constitution of India",
-        "Indian Penal Code",
-        "Code of Civil Procedure",
-        "Criminal Procedure Code"
+        "Bharat Ratna",
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Padma Shri"
       ],
       "correct": 0,
-      "explanation": "The Constitution of India is the document that outlines the fundamental rights and duties of Indian citizens. It is the supreme law of the land and is the foundation of the Indian legal system."
+      "explanation": "The Bharat Ratna is the highest civilian award in India, conferred by the President of India for exceptional service or achievement."
     },
     {
-      "id": 47,
+      "id": 22,
       "category": "Geography",
-      "question": "Which of the following mountains is the highest peak in the Himalayan range?",
+      "question": "Which of the following states is the largest producer of coffee in India?",
       "options": [
-        "Mount Everest",
-        "K2",
-        "Kangchenjunga",
-        "Annapurna"
+        "Karnataka",
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh"
       ],
       "correct": 0,
-      "explanation": "Mount Everest is the highest peak in the Himalayan range. It is located in the Mahalangur Himal sub-range of the Himalayas and is the highest mountain in the world."
+      "explanation": "Karnataka is the largest producer of coffee in India, accounting for around 70% of the country's total coffee production."
     },
     {
-      "id": 48,
+      "id": 23,
       "category": "Current Affairs & GK",
-      "question": "What is the name of the scheme launched by the Government of India to provide affordable housing to the urban poor?",
+      "question": "What is the name of the Indian government's scheme to promote digital payments?",
+      "options": [
+        "Digital India",
+        "Make in India",
+        "Skill India",
+        "Pradhan Mantri Jan Dhan Yojana"
+      ],
+      "correct": 0,
+      "explanation": "Digital India is a scheme launched by the Indian government to promote digital payments and improve digital infrastructure in the country."
+    },
+    {
+      "id": 24,
+      "category": "General Awareness",
+      "question": "Who was the first woman to fly an aircraft solo?",
+      "options": [
+        "Amelia Earhart",
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Kalpana Chawla"
+      ],
+      "correct": 0,
+      "explanation": "Amelia Earhart was the first woman to fly an aircraft solo, setting a new record in aviation history."
+    },
+    {
+      "id": 25,
+      "category": "General Science",
+      "question": "What is the largest planet in the solar system by mass?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 0,
+      "explanation": "Jupiter is the largest planet in the solar system by mass, with a mass of approximately 318 times that of Earth."
+    },
+    {
+      "id": 26,
+      "category": "Reasoning & Mental Ability",
+      "question": "What is the missing number in the series: 2, 6, 12, 20, _, 42?",
+      "options": [
+        "26",
+        "28",
+        "30",
+        "32"
+      ],
+      "correct": 2,
+      "explanation": "The pattern of the series is formed by adding 4, 6, 8, 10, ... to the previous term, so the missing number is 30."
+    },
+    {
+      "id": 27,
+      "category": "Indian Polity",
+      "question": "What is the name of the constitutional body that oversees the conduct of elections in India?",
+      "options": [
+        "Election Commission of India",
+        "National Human Rights Commission",
+        "National Commission for Women",
+        "National Commission for Minorities"
+      ],
+      "correct": 0,
+      "explanation": "The Election Commission of India is a constitutional body that oversees the conduct of elections in India, ensuring free and fair polls."
+    },
+    {
+      "id": 28,
+      "category": "Geography",
+      "question": "Which of the following rivers flows through the city of Varanasi?",
+      "options": [
+        "Ganges",
+        "Yamuna",
+        "Gomti",
+        "Ghaghara"
+      ],
+      "correct": 0,
+      "explanation": "The Ganges River flows through the city of Varanasi, which is one of the oldest continuously inhabited cities in the world."
+    },
+    {
+      "id": 29,
+      "category": "Current Affairs & GK",
+      "question": "What is the name of the Indian government's scheme to provide affordable housing to all?",
       "options": [
         "Pradhan Mantri Awas Yojana",
-        "Pradhan Mantri Ujjwala Yojana",
         "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri MUDRA Yojana"
+        "Pradhan Mantri Ujjwala Yojana",
+        "Pradhan Mantri Kaushal Vikas Yojana"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Awas Yojana is a scheme launched by the Government of India to provide affordable housing to the urban poor. It aims to provide housing to all by 2022 and is a key initiative of the Government's 'Housing for All' mission."
+      "explanation": "Pradhan Mantri Awas Yojana is a scheme launched by the Indian government to provide affordable housing to all, with an aim to achieve 'Housing for All' by 2022."
     },
     {
-      "id": 49,
+      "id": 30,
       "category": "General Awareness",
-      "question": "Who is the founder of the company 'SpaceX'?",
+      "question": "Who was the founder of the Sikh faith?",
       "options": [
-        "Elon Musk",
-        "Jeff Bezos",
-        "Bill Gates",
-        "Mark Zuckerberg"
+        "Guru Nanak",
+        "Guru Gobind Singh",
+        "Guru Arjan Dev",
+        "Guru Ramdas"
       ],
       "correct": 0,
-      "explanation": "Elon Musk is the founder of the company 'SpaceX'. He is a entrepreneur and business magnate who has founded several successful companies, including PayPal and Tesla."
+      "explanation": "Guru Nanak was the founder of the Sikh faith, who preached the message of love, equality, and devotion to God."
     },
     {
-      "id": 50,
+      "id": 31,
       "category": "General Science",
-      "question": "What is the largest living structure on Earth?",
+      "question": "What is the process by which the Earth's plates move?",
+      "options": [
+        "Continental drift",
+        "Plate tectonics",
+        "Weathering",
+        "Erosion"
+      ],
+      "correct": 1,
+      "explanation": "Plate tectonics is the process by which the Earth's plates move, resulting in the creation of mountains, volcanoes, and earthquakes."
+    },
+    {
+      "id": 32,
+      "category": "Reasoning & Mental Ability",
+      "question": "What is the next number in the series: 1, 4, 9, 16, 25?",
+      "options": [
+        "30",
+        "36",
+        "40",
+        "49"
+      ],
+      "correct": 3,
+      "explanation": "The pattern of the series is formed by squaring the consecutive integers, so the next number is 49 (7^2)."
+    },
+    {
+      "id": 33,
+      "category": "Indian Polity",
+      "question": "What is the name of the highest award for bravery in India?",
+      "options": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "correct": 0,
+      "explanation": "The Param Vir Chakra is the highest award for bravery in India, conferred for the most conspicuous bravery or some daring or pre-eminent act of valour or self-sacrifice."
+    },
+    {
+      "id": 34,
+      "category": "Geography",
+      "question": "Which of the following states is the largest producer of tea in India?",
+      "options": [
+        "Assam",
+        "West Bengal",
+        "Tamil Nadu",
+        "Kerala"
+      ],
+      "correct": 0,
+      "explanation": "Assam is the largest producer of tea in India, accounting for around 50% of the country's total tea production."
+    },
+    {
+      "id": 35,
+      "category": "Current Affairs & GK",
+      "question": "What is the name of the Indian government's scheme to promote entrepreneurship and job creation?",
+      "options": [
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Ujjwala Yojana",
+        "Make in India"
+      ],
+      "correct": 0,
+      "explanation": "Pradhan Mantri Kaushal Vikas Yojana is a scheme launched by the Indian government to promote entrepreneurship and job creation, with an aim to train and certify 10 million youth by 2020."
+    },
+    {
+      "id": 36,
+      "category": "General Awareness",
+      "question": "Who was the first Prime Minister of India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Lala Lajpat Rai"
+      ],
+      "correct": 0,
+      "explanation": "Jawaharlal Nehru was the first Prime Minister of India, serving from 1947 to 1964."
+    },
+    {
+      "id": 37,
+      "category": "General Science",
+      "question": "What is the largest living thing on Earth?",
       "options": [
         "The Great Barrier Reef",
         "The Amazon Rainforest",
@@ -652,137 +483,306 @@
         "The Great Wall of China"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth. It is a coral reef system located in the Coral Sea, off the coast of Australia, and is home to a diverse array of marine life."
+      "explanation": "The Great Barrier Reef is the largest living thing on Earth, spanning over 2,300 kilometers off the coast of Australia."
+    },
+    {
+      "id": 38,
+      "category": "Reasoning & Mental Ability",
+      "question": "What is the missing number in the series: 3, 6, 9, 12, _, 18?",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correct": 2,
+      "explanation": "The pattern of the series is formed by adding 3 to the previous term, so the missing number is 15."
+    },
+    {
+      "id": 39,
+      "category": "Indian Polity",
+      "question": "What is the name of the constitutional body that oversees the conduct of elections in the states?",
+      "options": [
+        "Election Commission of India",
+        "State Election Commission",
+        "National Human Rights Commission",
+        "National Commission for Women"
+      ],
+      "correct": 1,
+      "explanation": "The State Election Commission is a constitutional body that oversees the conduct of elections in the states, ensuring free and fair polls."
+    },
+    {
+      "id": 40,
+      "category": "Geography",
+      "question": "Which of the following rivers flows through the city of Kanpur?",
+      "options": [
+        "Ganges",
+        "Yamuna",
+        "Gomti",
+        "Betiwa"
+      ],
+      "correct": 0,
+      "explanation": "The Ganges River flows through the city of Kanpur, which is an important industrial and commercial center in northern India."
+    },
+    {
+      "id": 41,
+      "category": "Current Affairs & GK",
+      "question": "What is the name of the Indian government's scheme to promote rural development?",
+      "options": [
+        "Pradhan Mantri Gram Sadak Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Ujjwala Yojana",
+        "Make in India"
+      ],
+      "correct": 0,
+      "explanation": "Pradhan Mantri Gram Sadak Yojana is a scheme launched by the Indian government to promote rural development, with an aim to improve rural connectivity and infrastructure."
+    },
+    {
+      "id": 42,
+      "category": "General Awareness",
+      "question": "Who was the founder of the Red Cross?",
+      "options": [
+        "Henry Dunant",
+        "Florence Nightingale",
+        "Jean-Henri Dunant",
+        "Clara Barton"
+      ],
+      "correct": 0,
+      "explanation": "Henry Dunant was the founder of the Red Cross, who established the organization in 1863 to provide humanitarian aid in times of war and conflict."
+    },
+    {
+      "id": 43,
+      "category": "General Science",
+      "question": "What is the process by which the human body regulates its temperature?",
+      "options": [
+        "Sweating",
+        "Shivering",
+        "Hyperventilation",
+        "Vasodilation"
+      ],
+      "correct": 0,
+      "explanation": "Sweating is the process by which the human body regulates its temperature, as it helps to cool the body through the evaporation of sweat."
+    },
+    {
+      "id": 44,
+      "category": "Reasoning & Mental Ability",
+      "question": "What is the next number in the series: 2, 4, 8, 16, 32?",
+      "options": [
+        "48",
+        "64",
+        "80",
+        "128"
+      ],
+      "correct": 3,
+      "explanation": "The pattern of the series is formed by multiplying the previous term by 2, so the next number is 64."
+    },
+    {
+      "id": 45,
+      "category": "Indian Polity",
+      "question": "What is the name of the constitutional body that protects the rights of minorities?",
+      "options": [
+        "National Commission for Minorities",
+        "National Human Rights Commission",
+        "National Commission for Women",
+        "National Commission for Scheduled Castes"
+      ],
+      "correct": 0,
+      "explanation": "The National Commission for Minorities is a constitutional body that protects the rights of minorities, ensuring their social and economic development."
+    },
+    {
+      "id": 46,
+      "category": "Geography",
+      "question": "Which of the following states is the largest producer of silk in India?",
+      "options": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "West Bengal"
+      ],
+      "correct": 0,
+      "explanation": "Karnataka is the largest producer of silk in India, accounting for around 70% of the country's total silk production."
+    },
+    {
+      "id": 47,
+      "category": "Current Affairs & GK",
+      "question": "What is the name of the Indian government's scheme to promote digital literacy?",
+      "options": [
+        "Pradhan Mantri Digital Saksharta Abhiyan",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Ujjwala Yojana",
+        "Make in India"
+      ],
+      "correct": 0,
+      "explanation": "Pradhan Mantri Digital Saksharta Abhiyan is a scheme launched by the Indian government to promote digital literacy, with an aim to train 60 million people in digital skills by 2020."
+    },
+    {
+      "id": 48,
+      "category": "General Awareness",
+      "question": "Who was the first woman to win the Nobel Prize?",
+      "options": [
+        "Marie Curie",
+        "Emily Dickinson",
+        "Virginia Woolf",
+        "Jane Austen"
+      ],
+      "correct": 0,
+      "explanation": "Marie Curie was the first woman to win the Nobel Prize, who won the award in 1903 for her pioneering work in radioactivity."
+    },
+    {
+      "id": 49,
+      "category": "General Science",
+      "question": "What is the largest part of the human brain?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Brainstem",
+        "Frontal lobe"
+      ],
+      "correct": 0,
+      "explanation": "The cerebrum is the largest part of the human brain, accounting for around 85% of the brain's total weight."
+    },
+    {
+      "id": 50,
+      "category": "Reasoning & Mental Ability",
+      "question": "What is the missing number in the series: 1, 2, 4, 7, 11?",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correct": 0,
+      "explanation": "The pattern of the series is formed by adding 1, 2, 3, 4, ... to the previous term, so the missing number is 13."
     },
     {
       "id": 51,
-      "category": "Reasoning & Mental Ability",
-      "question": "What comes next in the series: 2, 4, 8, 16, 32, ?",
+      "category": "Indian Polity",
+      "question": "What is the name of the constitutional body that protects the rights of women?",
       "options": [
-        "64",
-        "128",
-        "256",
-        "512"
+        "National Commission for Women",
+        "National Human Rights Commission",
+        "National Commission for Minorities",
+        "National Commission for Scheduled Castes"
       ],
       "correct": 0,
-      "explanation": "The pattern of the series is obtained by multiplying the previous term by 2. Therefore, the next term in the series is 64, as 2 x 2 = 4, 4 x 2 = 8, 8 x 2 = 16, 16 x 2 = 32, and 32 x 2 = 64."
+      "explanation": "The National Commission for Women is a constitutional body that protects the rights of women, ensuring their social and economic development."
     },
     {
       "id": 52,
-      "category": "Indian Polity",
-      "question": "Who is the head of the government in India?",
+      "category": "Geography",
+      "question": "Which of the following states is the largest producer of cotton in India?",
       "options": [
-        "President",
-        "Prime Minister",
-        "Vice-President",
-        "Governor"
+        "Maharashtra",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "correct": 1,
-      "explanation": "The Prime Minister is the head of the government in India. The Prime Minister is the leader of the party or coalition with the majority in the Lok Sabha and is responsible for advising the President on matters of state."
+      "correct": 0,
+      "explanation": "Maharashtra is the largest producer of cotton in India, accounting for around 25% of the country's total cotton production."
     },
     {
       "id": 53,
-      "category": "Geography",
-      "question": "Which of the following rivers flows through the state of Andhra Pradesh?",
+      "category": "Current Affairs & GK",
+      "question": "What is the name of the Indian government's scheme to promote startup businesses?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Godavari",
-        "Krishna"
+        "Startup India",
+        "Make in India",
+        "Digital India",
+        "Pradhan Mantri Jan Dhan Yojana"
       ],
-      "correct": 2,
-      "explanation": "The Godavari River flows through the state of Andhra Pradesh. It is a major river in southern India and is known for its unique ecosystem and biodiversity."
+      "correct": 0,
+      "explanation": "Startup India is a scheme launched by the Indian government to promote startup businesses, with an aim to foster entrepreneurship and job creation."
     },
     {
       "id": 54,
-      "category": "Current Affairs & GK",
-      "question": "What is the name of the scheme launched by the Government of India to provide financial assistance to women?",
+      "category": "General Awareness",
+      "question": "Who was the founder of the Boy Scouts movement?",
       "options": [
-        "Pradhan Mantri Mahila Shakti Kendra Scheme",
-        "Pradhan Mantri Ujjwala Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri MUDRA Yojana"
+        "Robert Baden-Powell",
+        "Lord Baden-Powell",
+        "General Baden-Powell",
+        "Sir Robert Baden-Powell"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Mahila Shakti Kendra Scheme is a scheme launched by the Government of India to provide financial assistance to women. It aims to empower women and provide them with access to credit, skills, and knowledge."
+      "explanation": "Robert Baden-Powell was the founder of the Boy Scouts movement, who established the organization in 1908 to promote outdoor skills and community service."
     },
     {
       "id": 55,
-      "category": "General Awareness",
-      "question": "Who is the author of the book 'To Kill a Mockingbird'?",
+      "category": "General Science",
+      "question": "What is the process by which the human body responds to injury or infection?",
       "options": [
-        "Harper Lee",
-        "F. Scott Fitzgerald",
-        "Jane Austen",
-        "J.K. Rowling"
+        "Inflammation",
+        "Immunity",
+        "Hypertension",
+        "Allergy"
       ],
       "correct": 0,
-      "explanation": "To Kill a Mockingbird is a book written by Harper Lee. It is a classic novel that explores issues of racial injustice and the loss of innocence in a small Alabama town."
+      "explanation": "Inflammation is the process by which the human body responds to injury or infection, as it helps to protect the body from further damage and promote healing."
     },
     {
       "id": 56,
-      "category": "General Science",
-      "question": "What is the process by which the body converts food into energy?",
+      "category": "Reasoning & Mental Ability",
+      "question": "What is the next number in the series: 3, 6, 12, 24, 48?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Metabolism",
-        "Digestion"
+        "64",
+        "72",
+        "80",
+        "96"
       ],
-      "correct": 2,
-      "explanation": "Metabolism is the process by which the body converts food into energy. It involves the breakdown of nutrients from food into energy, which is then used to power the body's functions."
+      "correct": 3,
+      "explanation": "The pattern of the series is formed by multiplying the previous term by 2, so the next number is 96."
     },
     {
       "id": 57,
-      "category": "Reasoning & Mental Ability",
-      "question": "What comes next in the series: 3, 6, 9, 12, 15, ?",
+      "category": "Indian Polity",
+      "question": "What is the name of the constitutional body that protects the rights of scheduled castes?",
       "options": [
-        "18",
-        "20",
-        "21",
-        "22"
+        "National Commission for Scheduled Castes",
+        "National Human Rights Commission",
+        "National Commission for Minorities",
+        "National Commission for Women"
       ],
       "correct": 0,
-      "explanation": "The pattern of the series is obtained by adding 3 to the previous term. Therefore, the next term in the series is 18, as 3 + 3 = 6, 6 + 3 = 9, 9 + 3 = 12, 12 + 3 = 15, and 15 + 3 = 18."
+      "explanation": "The National Commission for Scheduled Castes is a constitutional body that protects the rights of scheduled castes, ensuring their social and economic development."
     },
     {
       "id": 58,
-      "category": "Indian Polity",
-      "question": "What is the name of the upper house of the Indian Parliament?",
+      "category": "Geography",
+      "question": "Which of the following states is the largest producer of jute in India?",
       "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "Vidhan Sabha",
-        "Vidhan Parishad"
+        "West Bengal",
+        "Bihar",
+        "Assam",
+        "Odisha"
       ],
-      "correct": 1,
-      "explanation": "The Rajya Sabha is the upper house of the Indian Parliament. It is a permanent body that consists of 245 members, with 233 members elected by the elected members of the State Legislative Assemblies and 12 members nominated by the President."
+      "correct": 0,
+      "explanation": "West Bengal is the largest producer of jute in India, accounting for around 60% of the country's total jute production."
     },
     {
       "id": 59,
-      "category": "Geography",
-      "question": "Which of the following mountains is the highest peak in the Western Ghats?",
+      "category": "Current Affairs & GK",
+      "question": "What is the name of the Indian government's scheme to promote skill development?",
       "options": [
-        "Anamudi",
-        "Doddabetta",
-        "Mullayanagiri",
-        "Agasthyamala"
+        "Pradhan Mantri Kaushal Vikas Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Pradhan Mantri Ujjwala Yojana",
+        "Make in India"
       ],
       "correct": 0,
-      "explanation": "Anamudi is the highest peak in the Western Ghats. It is located in the Idukki district of Kerala and is a popular destination for trekking and adventure tourism."
+      "explanation": "Pradhan Mantri Kaushal Vikas Yojana is a scheme launched by the Indian government to promote skill development, with an aim to train and certify 10 million youth by 2020."
     },
     {
       "id": 60,
-      "category": "Current Affairs & GK",
-      "question": "What is the name of the scheme launched by the Government of India to provide digital literacy to rural youth?",
+      "category": "General Awareness",
+      "question": "Who was the first woman to travel in space?",
       "options": [
-        "Pradhan Mantri Gramin Digital Saksharta Abhiyan",
-        "Pradhan Mantri Ujjwala Yojana",
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri MUDRA Yojana"
+        "Valentina Tereshkova",
+        "Sally Ride",
+        "Mae Jemison",
+        "Kalpana Chawla"
       ],
       "correct": 0,
-      "explanation": "The Pradhan Mantri Gramin Digital Saksharta Abhiyan is a scheme launched by the Government of India to provide digital literacy to rural youth. It aims to provide training and certification to rural youth in digital skills, making them employable and self-dependent."
+      "explanation": "Valentina Tereshkova was the first woman to travel in space, who flew aboard the Soviet spacecraft Vostok 6 in 1963."
     }
   ]
 }
