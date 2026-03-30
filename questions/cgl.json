@@ -1,7 +1,7 @@
 {
   "exam": "cgl",
   "name": "SSC CGL",
-  "date": "2026-03-27",
+  "date": "2026-03-30",
   "questionCount": 60,
   "questions": [
     {
@@ -11,14 +11,105 @@
       "options": [
         "Tenzing Norgay",
         "Junko Tabei",
-        "Reinhold Messner",
-        "Edmund Hillary"
+        "Sir Edmund Hillary",
+        "Bachendri Pal"
       ],
       "correct": 1,
-      "explanation": "Junko Tabei was a Japanese mountaineer who became the first woman to reach the summit of Mount Everest on May 16, 1975."
+      "explanation": "Junko Tabei was the first woman to climb Mount Everest on May 16, 1992."
     },
     {
       "id": 2,
+      "category": "General Science",
+      "question": "What is the chemical symbol of Gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Hg",
+        "Pb"
+      ],
+      "correct": 1,
+      "explanation": "The chemical symbol of Gold is Au, derived from the Latin word 'Aurum'."
+    },
+    {
+      "id": 3,
+      "category": "Indian Polity & Economy",
+      "question": "Which of the following is the largest public sector bank in India?",
+      "options": [
+        "State Bank of India",
+        "Punjab National Bank",
+        "Bank of Baroda",
+        "Canara Bank"
+      ],
+      "correct": 0,
+      "explanation": "State Bank of India is the largest public sector bank in India, with over 24,000 branches and 66,000 ATMs across the country."
+    },
+    {
+      "id": 4,
+      "category": "Geography",
+      "question": "The largest river in South America is?",
+      "options": [
+        "Amazon River",
+        "Parana River",
+        "Sao Francisco River",
+        "Magdalena River"
+      ],
+      "correct": 0,
+      "explanation": "The Amazon River is the largest river in South America and the largest river in the world by discharge volume, stretching over 6,400 kilometers from its source to its mouth."
+    },
+    {
+      "id": 5,
+      "category": "Reasoning & Logic",
+      "question": "If it takes five machines five minutes to make five widgets, how long would it take 100 machines to make 100 widgets?",
+      "options": [
+        "5 minutes",
+        "50 minutes",
+        "100 minutes",
+        "500 minutes"
+      ],
+      "correct": 0,
+      "explanation": "If five machines take five minutes to make five widgets, it means that each machine takes five minutes to make one widget. Thus, 100 machines will also take five minutes to make 100 widgets."
+    },
+    {
+      "id": 6,
+      "category": "English Language Concepts",
+      "question": "What is the synonym of the word 'enormous'?",
+      "options": [
+        "Tiny",
+        "Huge",
+        "Small",
+        "Moderate"
+      ],
+      "correct": 1,
+      "explanation": "The word 'huge' is a synonym of 'enormous', meaning extremely large or immense in size, amount, or degree."
+    },
+    {
+      "id": 7,
+      "category": "Current Affairs",
+      "question": "The 2026 Summer Olympics are scheduled to be held in which city?",
+      "options": [
+        "Los Angeles",
+        "Paris",
+        "Tokyo",
+        "New York"
+      ],
+      "correct": 0,
+      "explanation": "The 2026 Summer Olympics are scheduled to be held in Los Angeles, California, from July 21 to August 6, 2026."
+    },
+    {
+      "id": 8,
+      "category": "General Awareness & Static GK",
+      "question": "The book 'To Kill a Mockingbird' was written by?",
+      "options": [
+        "F. Scott Fitzgerald",
+        "Harper Lee",
+        "Jane Austen",
+        "J.K. Rowling"
+      ],
+      "correct": 1,
+      "explanation": "The book 'To Kill a Mockingbird' was written by Harper Lee, an American novelist, and published in 1960."
+    },
+    {
+      "id": 9,
       "category": "General Science",
       "question": "What is the largest planet in our solar system?",
       "options": [
@@ -28,98 +119,7 @@
         "Uranus"
       ],
       "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
-    },
-    {
-      "id": 3,
-      "category": "Indian Polity & Economy",
-      "question": "What is the name of the Indian government's flagship program for financial inclusion?",
-      "options": [
-        "Jan Dhan Yojana",
-        "Make in India",
-        "Digital India",
-        "Swachh Bharat Abhiyan"
-      ],
-      "correct": 0,
-      "explanation": "Jan Dhan Yojana is a flagship program of the Indian government aimed at promoting financial inclusion by providing access to banking services to all households."
-    },
-    {
-      "id": 4,
-      "category": "Geography",
-      "question": "The longest river in South America is?",
-      "options": [
-        "Amazon River",
-        "Parana River",
-        "Sao Francisco River",
-        "Magdalena River"
-      ],
-      "correct": 0,
-      "explanation": "The Amazon River is the longest river in South America and the largest river in the world by discharge volume, stretching over 6,400 kilometers."
-    },
-    {
-      "id": 5,
-      "category": "Reasoning & Logic",
-      "question": "If A is greater than B, and B is greater than C, then?",
-      "options": [
-        "A is greater than C",
-        "A is less than C",
-        "B is greater than A",
-        "C is greater than B"
-      ],
-      "correct": 0,
-      "explanation": "Given that A > B and B > C, it can be logically concluded that A > C."
-    },
-    {
-      "id": 6,
-      "category": "English Language Concepts",
-      "question": "What is the synonym for the word 'fast'?",
-      "options": [
-        "Quick",
-        "Slow",
-        "Big",
-        "Happy"
-      ],
-      "correct": 0,
-      "explanation": "The word 'quick' is a synonym for 'fast', both meaning moving or able to move swiftly."
-    },
-    {
-      "id": 7,
-      "category": "Current Affairs",
-      "question": "The 2022 FIFA World Cup was held in which country?",
-      "options": [
-        "Qatar",
-        "Russia",
-        "United States",
-        "Brazil"
-      ],
-      "correct": 0,
-      "explanation": "The 2022 FIFA World Cup was held in Qatar from November 20 to December 18, 2022."
-    },
-    {
-      "id": 8,
-      "category": "General Awareness & Static GK",
-      "question": "The author of the book 'To Kill a Mockingbird' is?",
-      "options": [
-        "F. Scott Fitzgerald",
-        "Harper Lee",
-        "Jane Austen",
-        "J.K. Rowling"
-      ],
-      "correct": 1,
-      "explanation": "Harper Lee is the author of the classic novel 'To Kill a Mockingbird', published in 1960."
-    },
-    {
-      "id": 9,
-      "category": "General Science",
-      "question": "What is the process by which plants convert sunlight into energy?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
-      ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen."
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers, more than 11 times the diameter of Earth."
     },
     {
       "id": 10,
@@ -128,11 +128,11 @@
       "options": [
         "1934",
         "1935",
-        "1947",
-        "1950"
+        "1936",
+        "1937"
       ],
       "correct": 1,
-      "explanation": "The Reserve Bank of India (RBI) was established on April 1, 1935, in accordance with the provisions of the Reserve Bank of India Act, 1934."
+      "explanation": "The Reserve Bank of India was established on April 1, 1935, under the Reserve Bank of India Act, 1934."
     },
     {
       "id": 11,
@@ -145,85 +145,85 @@
         "Lhotse"
       ],
       "correct": 0,
-      "explanation": "Mount Everest, located in the Himalayas on the border between Nepal and Tibet, China, is the highest mountain peak in the world, with an elevation of 8,848 meters."
+      "explanation": "Mount Everest, located in the Himalayas on the border between Nepal and Tibet, is the highest mountain peak in the world, with an elevation of 8,848 meters above sea level."
     },
     {
       "id": 12,
       "category": "Reasoning & Logic",
-      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+      "question": "If a bicycle is moving at a speed of 20 km/h, how far will it travel in 3 hours?",
       "options": [
-        "5 minutes",
-        "10 minutes",
-        "50 minutes",
-        "100 minutes"
+        "40 km",
+        "50 km",
+        "60 km",
+        "80 km"
       ],
-      "correct": 0,
-      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then the rate of production per machine is 1 widget per 5 minutes. Thus, 100 machines can make 100 widgets in the same 5 minutes."
+      "correct": 2,
+      "explanation": "To find the distance traveled, we multiply the speed by the time. So, 20 km/h * 3 h = 60 km."
     },
     {
       "id": 13,
       "category": "English Language Concepts",
-      "question": "What is the antonym for the word 'hot'?",
+      "question": "What is the antonym of the word 'fast'?",
       "options": [
-        "Cold",
-        "Big",
-        "Happy",
-        "Fast"
+        "Quick",
+        "Slow",
+        "Strong",
+        "Happy"
       ],
-      "correct": 0,
-      "explanation": "The word 'cold' is an antonym for 'hot', as they describe opposite temperatures."
+      "correct": 1,
+      "explanation": "The word 'slow' is an antonym of 'fast', meaning moving or able to move at a lower speed."
     },
     {
       "id": 14,
       "category": "Current Affairs",
-      "question": "The International Day of Yoga is observed on?",
+      "question": "The International Day of Happiness is celebrated on?",
       "options": [
-        "June 20",
-        "June 21",
-        "July 22",
-        "August 23"
+        "March 20",
+        "March 21",
+        "March 22",
+        "March 23"
       ],
-      "correct": 1,
-      "explanation": "The International Day of Yoga is observed annually on June 21, as declared by the United Nations General Assembly."
+      "correct": 0,
+      "explanation": "The International Day of Happiness is celebrated on March 20 every year, as declared by the United Nations in 2012."
     },
     {
       "id": 15,
       "category": "General Awareness & Static GK",
-      "question": "The largest state in India by area is?",
+      "question": "The first president of India was?",
       "options": [
-        "Rajasthan",
-        "Madhya Pradesh",
-        "Uttar Pradesh",
-        "Maharashtra"
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
       ],
-      "correct": 0,
-      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342,239 square kilometers."
+      "correct": 1,
+      "explanation": "Dr. Rajendra Prasad was the first president of India, serving from January 26, 1950, to May 13, 1962."
     },
     {
       "id": 16,
       "category": "General Science",
-      "question": "What is the largest living structure on Earth?",
+      "question": "What is the process by which plants convert sunlight into energy?",
       "options": [
-        "The Great Barrier Reef",
-        "The Amazon Rainforest",
-        "The Grand Canyon",
-        "The Great Wall of China"
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Fermentation"
       ],
-      "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning more than 2,300 kilometers off the coast of Australia."
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen, releasing energy."
     },
     {
       "id": 17,
       "category": "Indian Polity & Economy",
-      "question": "The term of the President of India is?",
+      "question": "The Indian economy is classified as a?",
       "options": [
-        "4 years",
-        "5 years",
-        "6 years",
-        "7 years"
+        "Developed economy",
+        "Developing economy",
+        "Transition economy",
+        "Mixed economy"
       ],
       "correct": 1,
-      "explanation": "The President of India is elected for a term of 5 years, as per Article 56 of the Indian Constitution."
+      "explanation": "The Indian economy is classified as a developing economy, as it is still in the process of industrialization and has a large agricultural sector."
     },
     {
       "id": 18,
@@ -236,62 +236,153 @@
         "Atacama Desert"
       ],
       "correct": 0,
-      "explanation": "The Sahara Desert is the largest hot desert in the world, covering most of North Africa."
+      "explanation": "The Sahara Desert is the largest hot desert in the world, covering an area of approximately 9,200,000 square kilometers across North Africa."
     },
     {
       "id": 19,
       "category": "Reasoning & Logic",
-      "question": "If A is greater than B, and C is less than B, then?",
+      "question": "A bat and a ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?",
       "options": [
-        "A is greater than C",
-        "A is less than C",
-        "B is greater than A",
-        "C is greater than B"
+        "$0.05",
+        "$0.10",
+        "$0.15",
+        "$0.20"
       ],
       "correct": 0,
-      "explanation": "Given that A > B and C < B, it logically follows that A > C."
+      "explanation": "Let's assume the cost of the ball is x. The bat costs $1.00 more than the ball, so the bat costs x + $1.00. The total cost is $1.10, so x + (x + $1.00) = $1.10. Solving the equation, we get 2x = $0.10, so x = $0.05."
     },
     {
       "id": 20,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the idiom 'break a leg'?",
+      "question": "What is the meaning of the idiom 'Break a leg'?",
       "options": [
-        "To wish someone bad luck",
         "To wish someone good luck",
-        "To instruct someone to be careful",
-        "To tell someone to stop"
+        "To hurt someone's leg",
+        "To stop something from happening",
+        "To start a new project"
       ],
-      "correct": 1,
-      "explanation": "The idiom 'break a leg' is used to wish someone good luck, especially before a performance or a challenging situation."
+      "correct": 0,
+      "explanation": "The idiom 'Break a leg' is a way of wishing someone good luck, especially before a performance or a challenging situation."
     },
     {
       "id": 21,
       "category": "Current Affairs",
-      "question": "The first Indian to win an Olympic gold medal was?",
+      "question": "The 2026 FIFA World Cup is scheduled to be held in?",
       "options": [
-        "Abhinav Bindra",
-        "Neeraj Chopra",
-        "Khashaba Dadasaheb Jadhav",
-        "Milkha Singh"
+        "United States",
+        "Canada",
+        "Mexico",
+        "All of the above"
       ],
-      "correct": 2,
-      "explanation": "Khashaba Dadasaheb Jadhav was the first Indian to win an Olympic medal, a bronze in wrestling at the 1952 Helsinki Olympics, but Abhinav Bindra was the first to win a gold, at the 2008 Beijing Olympics. However, among the options given for winning a gold, Abhinav Bindra is the correct answer."
+      "correct": 3,
+      "explanation": "The 2026 FIFA World Cup is scheduled to be held in the United States, Canada, and Mexico, making it the first time three countries will jointly host the tournament."
     },
     {
       "id": 22,
       "category": "General Awareness & Static GK",
-      "question": "The author of the book 'The Alchemist' is?",
+      "question": "The famous painting 'The Starry Night' was created by?",
       "options": [
-        "Paulo Coelho",
-        "Gabriel Garcia Marquez",
-        "Mario Vargas Llosa",
-        "Isabel Allende"
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Claude Monet"
       ],
-      "correct": 0,
-      "explanation": "Paulo Coelho is the author of the internationally acclaimed novel 'The Alchemist', published in 1988."
+      "correct": 1,
+      "explanation": "The famous painting 'The Starry Night' was created by Vincent van Gogh in 1889, depicting the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence."
     },
     {
       "id": 23,
+      "category": "General Science",
+      "question": "What is the largest living structure on Earth?",
+      "options": [
+        "The Great Barrier Reef",
+        "The Amazon Rainforest",
+        "The Grand Canyon",
+        "The Great Wall of China"
+      ],
+      "correct": 0,
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia and composed of more than 2,900 individual reefs and 900 islands."
+    },
+    {
+      "id": 24,
+      "category": "Indian Polity & Economy",
+      "question": "The term 'Laissez-faire' refers to?",
+      "options": [
+        "A type of economic system",
+        "A type of government",
+        "A type of business",
+        "A type of policy"
+      ],
+      "correct": 0,
+      "explanation": "The term 'Laissez-faire' refers to a type of economic system where the government does not intervene in the economy, allowing the market to self-regulate."
+    },
+    {
+      "id": 25,
+      "category": "Geography",
+      "question": "The longest river in Asia is?",
+      "options": [
+        "Yangtze River",
+        "Yellow River",
+        "Mekong River",
+        "Ganges River"
+      ],
+      "correct": 0,
+      "explanation": "The Yangtze River is the longest river in Asia, stretching over 6,300 kilometers from its source in the Tibetan Plateau to its mouth in the East China Sea."
+    },
+    {
+      "id": 26,
+      "category": "Reasoning & Logic",
+      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet each night, how many days will it take for the snail to reach the top of the well?",
+      "options": [
+        "18 days",
+        "20 days",
+        "22 days",
+        "28 days"
+      ],
+      "correct": 2,
+      "explanation": "The snail climbs 3 feet up the well each day, but slips back 2 feet each night, so it effectively moves 1 foot up the well each day. To reach the top of the 20-foot well, it will take the snail 18 days to climb 18 feet, and on the 19th day, it will climb the remaining 2 feet and reach the top, but since it doesn't slip back at the top, it takes 18 + 2 = 20 days in total."
+    },
+    {
+      "id": 27,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the word 'Perspicacious'?",
+      "options": [
+        "Having a strong and unpleasant smell",
+        "Having a keen understanding and insight",
+        "Having a lot of money",
+        "Having a big house"
+      ],
+      "correct": 1,
+      "explanation": "The word 'Perspicacious' means having a keen understanding and insight, able to notice and understand things that are not immediately apparent."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs",
+      "question": "The 2026 Commonwealth Games are scheduled to be held in?",
+      "options": [
+        "Victoria, Canada",
+        "Birmingham, UK",
+        "Delhi, India",
+        "Kolkata, India"
+      ],
+      "correct": 1,
+      "explanation": "The 2026 Commonwealth Games are scheduled to be held in Birmingham, UK, from July 27 to August 7, 2026."
+    },
+    {
+      "id": 29,
+      "category": "General Awareness & Static GK",
+      "question": "The famous Indian freedom fighter 'Bhagat Singh' was born on?",
+      "options": [
+        "September 28, 1907",
+        "September 27, 1907",
+        "September 29, 1907",
+        "September 30, 1907"
+      ],
+      "correct": 1,
+      "explanation": "Bhagat Singh was born on September 27, 1907, in Banga village, Lyallpur district, Punjab, British India."
+    },
+    {
+      "id": 30,
       "category": "General Science",
       "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor?",
       "options": [
@@ -301,76 +392,24 @@
         "Evaporation"
       ],
       "correct": 2,
-      "explanation": "Transpiration is the process by which water is transported through a plant, from the roots to the leaves, and is then released into the air as water vapor."
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor, playing a crucial role in the water cycle and plant growth."
     },
     {
-      "id": 24,
+      "id": 31,
       "category": "Indian Polity & Economy",
-      "question": "The Indian Constitution came into effect on?",
+      "question": "The term 'Fiscal Policy' refers to?",
       "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "October 2, 1950",
-        "November 26, 1949"
-      ],
-      "correct": 0,
-      "explanation": "The Indian Constitution came into effect on January 26, 1950, and is celebrated as Republic Day in India."
-    },
-    {
-      "id": 25,
-      "category": "Geography",
-      "question": "The country with the longest coastline in the world is?",
-      "options": [
-        "Canada",
-        "Russia",
-        "China",
-        "United States"
-      ],
-      "correct": 0,
-      "explanation": "Canada has the longest coastline in the world, with a total length of approximately 243,000 kilometers."
-    },
-    {
-      "id": 26,
-      "category": "Reasoning & Logic",
-      "question": "If it takes 3 people 3 hours to dig 3 holes, how long would it take 6 people to dig 6 holes?",
-      "options": [
-        "3 hours",
-        "6 hours",
-        "9 hours",
-        "12 hours"
-      ],
-      "correct": 0,
-      "explanation": "If 3 people can dig 3 holes in 3 hours, the rate of digging is 1 hole per person per 3 hours. Thus, 6 people can dig 6 holes in the same 3 hours."
-    },
-    {
-      "id": 27,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'nemesis'?",
-      "options": [
-        "A person's best friend",
-        "A person's worst enemy",
-        "A historical event",
-        "A scientific term"
+        "The use of monetary policy to control inflation",
+        "The use of government spending and taxation to control the economy",
+        "The use of interest rates to control inflation",
+        "The use of foreign policy to control trade"
       ],
       "correct": 1,
-      "explanation": "A nemesis is a person's archenemy or worst enemy, often used to describe someone who is a formidable and persistent opponent."
+      "explanation": "The term 'Fiscal Policy' refers to the use of government spending and taxation to control the economy, influencing the level of economic activity, employment, and inflation."
     },
     {
-      "id": 28,
-      "category": "Current Affairs",
-      "question": "The first woman to fly in space was?",
-      "options": [
-        "Valentina Tereshkova",
-        "Sally Ride",
-        "Mae Jemison",
-        "Kalpana Chawla"
-      ],
-      "correct": 0,
-      "explanation": "Valentina Tereshkova became the first woman to fly in space on June 16, 1963, aboard the Soviet spacecraft Vostok 6."
-    },
-    {
-      "id": 29,
-      "category": "General Awareness & Static GK",
+      "id": 32,
+      "category": "Geography",
       "question": "The largest island in the Mediterranean Sea is?",
       "options": [
         "Sicily",
@@ -379,271 +418,180 @@
         "Crete"
       ],
       "correct": 0,
-      "explanation": "Sicily is the largest island in the Mediterranean Sea, with an area of approximately 25,711 square kilometers."
-    },
-    {
-      "id": 30,
-      "category": "General Science",
-      "question": "What is the largest part of the human brain?",
-      "options": [
-        "Cerebrum",
-        "Cerebellum",
-        "Brainstem",
-        "Frontal lobe"
-      ],
-      "correct": 0,
-      "explanation": "The cerebrum is the largest part of the human brain, responsible for processing sensory information, controlling movement, and managing higher-level cognitive functions."
-    },
-    {
-      "id": 31,
-      "category": "Indian Polity & Economy",
-      "question": "The concept of 'directive principles of state policy' is enshrined in?",
-      "options": [
-        "Part III of the Indian Constitution",
-        "Part IV of the Indian Constitution",
-        "Part XII of the Indian Constitution",
-        "Part XIV of the Indian Constitution"
-      ],
-      "correct": 1,
-      "explanation": "The directive principles of state policy are outlined in Part IV of the Indian Constitution, which sets out the goals and objectives that the state should strive to achieve."
-    },
-    {
-      "id": 32,
-      "category": "Geography",
-      "question": "The river that flows through the Grand Canyon is?",
-      "options": [
-        "Colorado River",
-        "Missouri River",
-        "Mississippi River",
-        "Rio Grande"
-      ],
-      "correct": 0,
-      "explanation": "The Colorado River is the river that flows through the Grand Canyon, one of the most iconic natural wonders in the United States."
+      "explanation": "Sicily is the largest island in the Mediterranean Sea, with an area of approximately 25,711 square kilometers, located off the southern coast of Italy."
     },
     {
       "id": 33,
       "category": "Reasoning & Logic",
-      "question": "If A is less than B, and C is less than A, then?",
+      "question": "If it takes 5 hours to drive from City A to City B at an average speed of 60 km/h, how long will it take to drive from City B to City A at an average speed of 40 km/h?",
       "options": [
-        "C is less than B",
-        "C is greater than B",
-        "A is greater than C",
-        "B is less than C"
+        "5 hours",
+        "6 hours",
+        "7.5 hours",
+        "8 hours"
       ],
-      "correct": 0,
-      "explanation": "Given that A < B and C < A, it logically follows that C < B."
+      "correct": 2,
+      "explanation": "The distance between City A and City B can be calculated as speed * time = distance, so 60 km/h * 5 h = 300 km. To drive from City B to City A at an average speed of 40 km/h, the time taken would be distance / speed = 300 km / 40 km/h = 7.5 hours."
     },
     {
       "id": 34,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the idiom 'bend over backwards'?",
+      "question": "What is the meaning of the phrase 'Beat around the bush'?",
       "options": [
-        "To be very flexible",
-        "To work very hard",
-        "To go out of one's way to help",
-        "To be extremely lazy"
+        "To speak directly and clearly",
+        "To speak indirectly and avoidance",
+        "To ask someone for help",
+        "To give someone a gift"
       ],
-      "correct": 2,
-      "explanation": "The idiom 'bend over backwards' means to go out of one's way to help or accommodate someone, often to an excessive degree."
+      "correct": 1,
+      "explanation": "The phrase 'Beat around the bush' means to speak indirectly and avoid talking about the main point, often to avoid offense or to delay discussing an unpleasant topic."
     },
     {
       "id": 35,
       "category": "Current Affairs",
-      "question": "The first commercial jet airliner was?",
+      "question": "The 2026 Asian Games are scheduled to be held in?",
       "options": [
-        "Boeing 707",
-        "Douglas DC-8",
-        "de Havilland Comet",
-        "Airbus A300"
+        "Hangzhou, China",
+        "Seoul, South Korea",
+        "Tokyo, Japan",
+        "New Delhi, India"
       ],
-      "correct": 2,
-      "explanation": "The de Havilland Comet was the first commercial jet airliner, which entered service in 1952."
+      "correct": 0,
+      "explanation": "The 2026 Asian Games are scheduled to be held in Hangzhou, China, from September 10 to 24, 2026."
     },
     {
       "id": 36,
       "category": "General Awareness & Static GK",
-      "question": "The capital of Australia is?",
+      "question": "The first woman to fly solo across the Atlantic Ocean was?",
       "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
+        "Amelia Earhart",
+        "Charles Lindbergh",
+        "Chuck Yeager",
+        "Howard Hughes"
       ],
-      "correct": 2,
-      "explanation": "Canberra is the capital city of Australia, located in the Australian Capital Territory."
+      "correct": 0,
+      "explanation": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean, completing the flight on May 20-21, 1932."
     },
     {
       "id": 37,
       "category": "General Science",
-      "question": "What is the scientific term for the 'building blocks of life'?",
+      "question": "What is the largest mammal on Earth?",
       "options": [
-        "Cells",
-        "Molecules",
-        "Tissues",
-        "Organs"
+        "Blue whale",
+        "Fin whale",
+        "Humpback whale",
+        "Sperm whale"
       ],
       "correct": 0,
-      "explanation": "Cells are often referred to as the 'building blocks of life' because they are the basic structural and functional units of living organisms."
+      "explanation": "The blue whale is the largest mammal on Earth, with some individuals reaching lengths of up to 33 meters and weighing up to 180 metric tons."
     },
     {
       "id": 38,
       "category": "Indian Polity & Economy",
-      "question": "The Indian Independence Act was passed in?",
+      "question": "The term 'Monopoly' refers to?",
       "options": [
-        "1945",
-        "1946",
-        "1947",
-        "1948"
+        "A market structure in which there are many buyers and sellers",
+        "A market structure in which there is only one buyer",
+        "A market structure in which there is only one seller",
+        "A market structure in which there are no buyers or sellers"
       ],
       "correct": 2,
-      "explanation": "The Indian Independence Act was passed by the British Parliament in 1947, which led to the creation of India and Pakistan as separate nations."
+      "explanation": "The term 'Monopoly' refers to a market structure in which there is only one seller, giving that seller significant market power and the ability to influence prices."
     },
     {
       "id": 39,
       "category": "Geography",
-      "question": "The highest peak in the solar system is?",
+      "question": "The highest mountain peak in South America is?",
       "options": [
-        "Mount Everest",
-        "Olympus Mons",
-        "Mauna Kea",
-        "Denali"
+        "Aconcagua",
+        "Ojos del Salado",
+        "Monte Pissis",
+        "Llullaillaco"
       ],
-      "correct": 1,
-      "explanation": "Olympus Mons on Mars is the highest peak in the solar system, with a height of approximately 27 km above the Martian surface."
+      "correct": 0,
+      "explanation": "Aconcagua is the highest mountain peak in South America, located in the Andes mountain range in Argentina, with an elevation of 6,962 meters above sea level."
     },
     {
       "id": 40,
       "category": "Reasoning & Logic",
-      "question": "If A and B are both greater than C, and A is less than B, then?",
+      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, what is the cost of the ball?",
       "options": [
-        "A is greater than C",
-        "B is greater than A and C",
-        "C is greater than A and B",
-        "A and B are equal"
+        "$0.05",
+        "$0.10",
+        "$0.15",
+        "$0.20"
       ],
-      "correct": 1,
-      "explanation": "Given that A > C and B > C, and A < B, it logically follows that B > A and C."
+      "correct": 0,
+      "explanation": "Let's assume the cost of the ball is x. The bat costs $1.00 more than the ball, so the bat costs x + $1.00. The total cost is $1.10, so x + (x + $1.00) = $1.10. Solving the equation, we get 2x = $0.10, so x = $0.05."
     },
     {
       "id": 41,
       "category": "English Language Concepts",
-      "question": "What is the synonym for the word 'happy'?",
+      "question": "What is the meaning of the word 'Fastidious'?",
       "options": [
-        "Sad",
-        "Joyful",
-        "Big",
-        "Fast"
+        "Careless and sloppy",
+        "Meticulous and demanding",
+        "Happy and cheerful",
+        "Sad and depressed"
       ],
       "correct": 1,
-      "explanation": "The word 'joyful' is a synonym for 'happy', both describing a positive emotional state."
+      "explanation": "The word 'Fastidious' means meticulous and demanding in one's standards, having a strong attention to detail and being careful and precise in one's work or activities."
     },
     {
       "id": 42,
       "category": "Current Affairs",
-      "question": "The largest planet in our solar system is?",
+      "question": "The 2026 G7 Summit is scheduled to be held in?",
       "options": [
-        "Jupiter",
-        "Saturn",
-        "Uranus",
-        "Neptune"
+        "Germany",
+        "Canada",
+        "Japan",
+        "Italy"
       ],
       "correct": 0,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
+      "explanation": "The 2026 G7 Summit is scheduled to be held in Germany, although the exact location and dates have not been officially announced yet."
     },
     {
       "id": 43,
       "category": "General Awareness & Static GK",
-      "question": "The first Prime Minister of India was?",
+      "question": "The famous Indian classical dance 'Bharatanatyam' originated in?",
       "options": [
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Vallabhbhai Patel"
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka",
+        "Andhra Pradesh"
       ],
       "correct": 0,
-      "explanation": "Jawaharlal Nehru was the first Prime Minister of India, serving from 1947 until his death in 1964."
+      "explanation": "Bharatanatyam is a classical dance form that originated in the state of Tamil Nadu, India, with a history dating back over 2,000 years."
     },
     {
       "id": 44,
       "category": "General Science",
-      "question": "What is the term for the movement of water from the ground to the atmosphere through plants?",
+      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
+        "Mutation",
+        "Genetic drift",
+        "Gene flow",
+        "Hereditary"
       ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water is transported through a plant, from the roots to the leaves, and is then released into the air as water vapor."
+      "correct": 3,
+      "explanation": "Hereditary refers to the process by which an organism's genetic information is passed from one generation to the next, through the transmission of genes from parents to offspring."
     },
     {
       "id": 45,
       "category": "Indian Polity & Economy",
-      "question": "The Indian Constitution is divided into?",
+      "question": "The term 'Fiscal Deficit' refers to?",
       "options": [
-        "20 parts",
-        "22 parts",
-        "24 parts",
-        "25 parts"
+        "The difference between the government's revenue and expenditure",
+        "The total amount of money spent by the government",
+        "The total amount of money earned by the government",
+        "The amount of money borrowed by the government"
       ],
-      "correct": 1,
-      "explanation": "The Indian Constitution is divided into 22 parts, which include 448 articles and 8 schedules."
+      "correct": 0,
+      "explanation": "The term 'Fiscal Deficit' refers to the difference between the government's revenue and expenditure, where the government's spending exceeds its revenue, resulting in a deficit that may be financed through borrowing."
     },
     {
       "id": 46,
       "category": "Geography",
-      "question": "The country with the most time zones is?",
-      "options": [
-        "Russia",
-        "Canada",
-        "United States",
-        "China"
-      ],
-      "correct": 0,
-      "explanation": "Russia spans across 11 time zones, making it the country with the most time zones in the world."
-    },
-    {
-      "id": 47,
-      "category": "Reasoning & Logic",
-      "question": "If A is less than B, and B is less than C, then?",
-      "options": [
-        "A is less than C",
-        "A is greater than C",
-        "B is greater than A and C",
-        "C is less than A and B"
-      ],
-      "correct": 0,
-      "explanation": "Given that A < B and B < C, it logically follows that A < C."
-    },
-    {
-      "id": 48,
-      "category": "English Language Concepts",
-      "question": "What is the antonym for the word 'slow'?",
-      "options": [
-        "Fast",
-        "Big",
-        "Happy",
-        "Cold"
-      ],
-      "correct": 0,
-      "explanation": "The word 'fast' is an antonym for 'slow', as they describe opposite rates of movement or action."
-    },
-    {
-      "id": 49,
-      "category": "Current Affairs",
-      "question": "The first woman to walk in space was?",
-      "options": [
-        "Valentina Tereshkova",
-        "Svetlana Savitskaya",
-        "Sally Ride",
-        "Mae Jemison"
-      ],
-      "correct": 1,
-      "explanation": "Svetlana Savitskaya became the first woman to walk in space on July 25, 1984, during the Salyut 7 mission."
-    },
-    {
-      "id": 50,
-      "category": "General Awareness & Static GK",
       "question": "The largest city in Scandinavia is?",
       "options": [
         "Stockholm",
@@ -652,137 +600,189 @@
         "Helsinki"
       ],
       "correct": 0,
-      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people within the city limits."
+      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people, and is the capital of Sweden."
+    },
+    {
+      "id": 47,
+      "category": "Reasoning & Logic",
+      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet each night, how many days will it take for the snail to reach the top of the well if it climbs 4 feet on the last day?",
+      "options": [
+        "18 days",
+        "19 days",
+        "20 days",
+        "21 days"
+      ],
+      "correct": 1,
+      "explanation": "The snail climbs 3 feet up the well each day, but slips back 2 feet each night, so it effectively moves 1 foot up the well each day. To reach the top of the 20-foot well, it will take the snail 18 days to climb 18 feet, and on the 19th day, it will climb the remaining 2 feet and reach the top."
+    },
+    {
+      "id": 48,
+      "category": "English Language Concepts",
+      "question": "What is the meaning of the word 'Ennui'?",
+      "options": [
+        "A feeling of listlessness and boredom",
+        "A feeling of happiness and excitement",
+        "A feeling of sadness and grief",
+        "A feeling of anger and frustration"
+      ],
+      "correct": 0,
+      "explanation": "The word 'Ennui' refers to a feeling of listlessness and boredom, a lack of interest or excitement, often resulting in a sense of discontent or dissatisfaction."
+    },
+    {
+      "id": 49,
+      "category": "Current Affairs",
+      "question": "The 2026 UEFA European Football Championship is scheduled to be held in?",
+      "options": [
+        "Germany",
+        "England",
+        "Spain",
+        "Italy"
+      ],
+      "correct": 0,
+      "explanation": "The 2026 UEFA European Football Championship is not officially scheduled yet, but the previous one was held in 2021, and the next one is expected to be held in 2028, not 2026."
+    },
+    {
+      "id": 50,
+      "category": "General Awareness & Static GK",
+      "question": "The famous Indian poet 'Rabindranath Tagore' was born on?",
+      "options": [
+        "May 7, 1861",
+        "May 6, 1861",
+        "May 8, 1861",
+        "May 9, 1861"
+      ],
+      "correct": 1,
+      "explanation": "Rabindranath Tagore was born on May 6, 1861, in Calcutta, India, and is best known for his work 'Gitanjali', which earned him the Nobel Prize in Literature in 1913."
     },
     {
       "id": 51,
       "category": "General Science",
-      "question": "What is the term for the study of the structure, behavior, and evolution of the universe?",
+      "question": "What is the process by which plants release water vapor into the air?",
       "options": [
-        "Cosmology",
-        "Astronomy",
-        "Astrophysics",
-        "Geology"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Evaporation"
       ],
-      "correct": 0,
-      "explanation": "Cosmology is the study of the origin, evolution, and fate of the universe, encompassing its structure, composition, and laws."
+      "correct": 2,
+      "explanation": "Transpiration is the process by which plants release water vapor into the air, playing a crucial role in the water cycle and plant growth."
     },
     {
       "id": 52,
       "category": "Indian Polity & Economy",
-      "question": "The Comptroller and Auditor General of India is appointed by?",
+      "question": "The term 'Monetary Policy' refers to?",
       "options": [
-        "The President of India",
-        "The Prime Minister of India",
-        "The Parliament of India",
-        "The Supreme Court of India"
+        "The use of government spending and taxation to control the economy",
+        "The use of interest rates and money supply to control inflation",
+        "The use of foreign policy to control trade",
+        "The use of fiscal policy to control the economy"
       ],
-      "correct": 0,
-      "explanation": "The Comptroller and Auditor General of India is appointed by the President of India, as per Article 148 of the Indian Constitution."
+      "correct": 1,
+      "explanation": "The term 'Monetary Policy' refers to the use of interest rates and money supply to control inflation, stabilize the economy, and promote economic growth, typically implemented by a central bank."
     },
     {
       "id": 53,
       "category": "Geography",
-      "question": "The world's largest waterfall, by volume of water, is?",
+      "question": "The largest island in the Arctic Ocean is?",
       "options": [
-        "Victoria Falls",
-        "Iguazu Falls",
-        "Niagara Falls",
-        "Angel Falls"
+        "Greenland",
+        "Baffin Island",
+        "Ellesmere Island",
+        "New Siberian Islands"
       ],
       "correct": 0,
-      "explanation": "Victoria Falls, located on the border of Zambia and Zimbabwe in southern Africa, is the world's largest waterfall by volume of water."
+      "explanation": "Greenland is the largest island in the Arctic Ocean, with an area of approximately 2,166,086 square kilometers, located between the Arctic and Atlantic Oceans."
     },
     {
       "id": 54,
       "category": "Reasoning & Logic",
-      "question": "If A and B are both greater than C, and A is greater than B, then?",
+      "question": "If a man is looking at a photograph of someone, and his friend asks him, 'Who is in the picture?', and the man replies, 'Brothers and sisters I have none, but that man's father is my father's son.', who is in the picture?",
       "options": [
-        "A is greater than C",
-        "B is greater than A and C",
-        "C is greater than A and B",
-        "A and B are equal"
+        "The man's son",
+        "The man's brother",
+        "The man's father",
+        "The man himself"
       ],
       "correct": 0,
-      "explanation": "Given that A > C and B > C, and A > B, it logically follows that A > C."
+      "explanation": "The man says 'that man's father is my father's son', which means the man in the picture is the son of the speaker's son, making the man in the picture the speaker's son."
     },
     {
       "id": 55,
       "category": "English Language Concepts",
-      "question": "What is the meaning of the idiom 'call it a day'?",
+      "question": "What is the meaning of the word 'Malleable'?",
       "options": [
-        "To start work",
-        "To finish work for the day",
-        "To take a break",
-        "To go on a vacation"
+        "Capable of being shaped or molded",
+        "Capable of being broken or destroyed",
+        "Capable of being stretched or expanded",
+        "Capable of being compressed or contracted"
       ],
-      "correct": 1,
-      "explanation": "The idiom 'call it a day' means to stop what you are doing and go home for the day, often because you are tired or it is late."
+      "correct": 0,
+      "explanation": "The word 'Malleable' means capable of being shaped or molded, often used to describe materials that can be easily shaped or formed, such as metals or clay."
     },
     {
       "id": 56,
       "category": "Current Affairs",
-      "question": "The first country to grant women the right to vote was?",
+      "question": "The 2026 Winter Olympics are scheduled to be held in?",
       "options": [
-        "New Zealand",
-        "United States",
-        "United Kingdom",
-        "Australia"
+        "Milan-Cortina, Italy",
+        "Sapporo, Japan",
+        "Salt Lake City, USA",
+        "Vancouver, Canada"
       ],
       "correct": 0,
-      "explanation": "New Zealand was the first country to grant women the right to vote, with the Electoral Act of 1893 coming into effect on September 19, 1893."
+      "explanation": "The 2026 Winter Olympics are scheduled to be held in Milan-Cortina, Italy, from February 6 to 22, 2026."
     },
     {
       "id": 57,
       "category": "General Awareness & Static GK",
-      "question": "The author of the book '1984' is?",
+      "question": "The first prime minister of India was?",
       "options": [
-        "George Orwell",
-        "Aldous Huxley",
-        "Ray Bradbury",
-        "Kurt Vonnegut"
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Lal Bahadur Shastri"
       ],
       "correct": 0,
-      "explanation": "George Orwell is the author of the dystopian novel '1984', published in 1949."
+      "explanation": "Jawaharlal Nehru was the first prime minister of India, serving from August 15, 1947, to May 27, 1964."
     },
     {
       "id": 58,
       "category": "General Science",
-      "question": "What is the scientific term for the study of the weather?",
+      "question": "What is the largest planet in our solar system by mass?",
       "options": [
-        "Meteorology",
-        "Climatology",
-        "Geology",
-        "Oceanography"
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
       ],
       "correct": 0,
-      "explanation": "Meteorology is the scientific study of the Earth's atmosphere, especially as it relates to weather and climate."
+      "explanation": "Jupiter is the largest planet in our solar system by mass, with a mass of approximately 317.8 times that of Earth, and is the fifth planet from the Sun."
     },
     {
       "id": 59,
       "category": "Indian Polity & Economy",
-      "question": "The Planning Commission of India was replaced by?",
+      "question": "The term 'Public Sector Undertaking' (PSU) refers to?",
       "options": [
-        "NITI Aayog",
-        "Ministry of Finance",
-        "Ministry of Planning",
-        "Department of Economic Affairs"
+        "A company owned and controlled by the government",
+        "A company owned and controlled by private individuals",
+        "A company owned and controlled by foreign investors",
+        "A company owned and controlled by non-profit organizations"
       ],
       "correct": 0,
-      "explanation": "The Planning Commission of India was replaced by NITI Aayog (National Institution for Transforming India) in 2015."
+      "explanation": "A Public Sector Undertaking (PSU) refers to a company owned and controlled by the government, often established to provide essential goods and services, such as electricity, water, or transportation."
     },
     {
       "id": 60,
-      "category": "Reasoning & Logic",
-      "question": "If A is greater than B, and B is greater than C, then?",
+      "category": "Geography",
+      "question": "The largest city in Australia is?",
       "options": [
-        "A is greater than C",
-        "A is less than C",
-        "B is greater than A",
-        "C is greater than B"
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Perth"
       ],
       "correct": 0,
-      "explanation": "Given that A > B and B > C, it logically follows that A > C."
+      "explanation": "Sydney is the largest city in Australia, with a population of over 5 million people, and is the state capital of New South Wales."
     }
   ]
 }
