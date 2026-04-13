@@ -98,21 +98,21 @@ Cover these topics:
 
 Questions should be at 10+2 level difficulty - simpler than CGL. Focus on direct, factual questions rather than analytical ones. This is an easier exam.`
     },
-    ssb: {
-        name: 'SSB',
+    sgl: {
+        name: 'Odisha SGL',
         questionCount: 60,
-        prompt: `Generate 60 unique multiple-choice questions for SSB (Sashastra Seema Bal) Head Constable / Constable examination.
+        prompt: `Generate 60 unique multiple-choice questions for OSSC SGL (Staff Selection for Group-L posts) examination in Odisha.
 
-Cover these topics:
-- General Awareness & GK (Famous personalities, National symbols, Important days, Firsts in India, Awards - Padma/Bharat Ratna, National parks, Dances) - 12 questions
-- Indian History & Freedom Struggle (Ancient kingdoms, Mughal era, British rule, Freedom fighters, Important revolts, Battles, Independence movement) - 10 questions
-- Indian Polity & Constitution (Fundamental Rights, DPSP, President, Parliament, Supreme Court, Election Commission, Emergency provisions) - 8 questions
-- Geography (India - Rivers, Mountains, Borders, Neighboring countries, International boundaries, Passes, Ports, Climate) - 8 questions
-- General Science (Physics basics, Chemistry basics, Biology - diseases/vitamins/body systems, Space missions, Defense technology) - 8 questions
-- Defense & Security Knowledge (Indian Army/Navy/Air Force, Ranks, Operations, Border security forces, War history, Weapons systems, Defense exercises) - 6 questions
-- Current Affairs (National events, International news, Sports, Government schemes, Recent appointments, Summits) - 8 questions
+Cover these topics - focused on Odisha and general knowledge:
+- Odisha General Knowledge (Districts, famous places, rivers, lakes, dams, festivals, tribal communities, Odisha history, temples, important personalities of Odisha) - 12 questions
+- Indian History (Ancient India, Medieval India, Modern India, Freedom struggle, Important dates and events) - 8 questions
+- Odisha History & Culture (Kalinga war, Odisha freedom fighters, formation of Odisha state, Jagannath culture, Odissi dance, Pattachitra, tribal culture, festivals like Raja/Nuakhai/Rath Yatra) - 8 questions
+- Geography (India + Odisha - physical features, rivers, climate, soil, agriculture, minerals, national parks of Odisha) - 8 questions
+- Indian Polity & Constitution (Fundamental rights, DPSP, Parliament, State Legislature, Panchayati Raj, local governance) - 7 questions
+- General Science (Basic Physics, Chemistry, Biology, Health, Nutrition, common diseases, everyday science) - 8 questions
+- Current Affairs & Computer Knowledge (Odisha + National news, government schemes, basic computer concepts, MS Office, internet basics) - 9 questions
 
-Include questions about Indian borders, neighboring countries, and security-related topics. Suitable for paramilitary force exam level.`
+Questions should be at intermediate level - suitable for Group-L staff selection. Include questions about Odisha government schemes like KALIA, BSKY, Mo Sarkar, Jaga Mission.`
     }
 };
 

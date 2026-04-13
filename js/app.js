@@ -83,17 +83,17 @@ const EXAM_CONFIG = {
         marksPerQuestion: 2,
         tags: ['General Awareness', 'Reasoning', 'English', 'Quant', 'Science', 'Current Affairs']
     },
-    ssb: {
-        name: 'SSB',
-        subtitle: 'Sashastra Seema Bal',
-        icon: '🛡️',
+    sgl: {
+        name: 'Odisha SGL',
+        subtitle: 'OSSC Staff Selection Group-L',
+        icon: '📋',
         gradient: 'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)',
         color: '#43e97b',
-        ribbonClass: 'ssb',
+        ribbonClass: 'sgl',
         questionCount: 60,
         timeMinutes: 60,
         marksPerQuestion: 2,
-        tags: ['General Awareness', 'Indian History', 'Polity', 'Geography', 'Science', 'Defense', 'Current Affairs']
+        tags: ['Odisha GK', 'Indian History', 'Odisha Culture', 'Geography', 'Science', 'Computer', 'Current Affairs']
     }
 };
 
