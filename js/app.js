@@ -15,7 +15,7 @@ let currentQuestions = [];
 let userAnswers = {};
 let currentQuestionIndex = 0;
 let timerInterval = null;
-let timeRemaining = 60 * 60;
+let timeRemaining = 30 * 60;
 let testStartTime = null;
 let testEndTime = null;
 let testSubmitted = false;
@@ -30,8 +30,8 @@ const EXAM_CONFIG = {
         gradient: 'linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%)',
         color: '#FF6B6B',
         ribbonClass: 'upsc',
-        questionCount: 60,
-        timeMinutes: 60,
+        questionCount: 30,
+        timeMinutes: 30,
         marksPerQuestion: 2,
         tags: ['Indian History', 'Geography', 'Polity', 'Economy', 'Science', 'Environment', 'Current Affairs']
     },
@@ -42,8 +42,8 @@ const EXAM_CONFIG = {
         gradient: 'linear-gradient(135deg, #4ECDC4 0%, #44B09E 100%)',
         color: '#4ECDC4',
         ribbonClass: 'oas',
-        questionCount: 60,
-        timeMinutes: 60,
+        questionCount: 30,
+        timeMinutes: 30,
         marksPerQuestion: 2,
         tags: ['Odisha History', 'Odisha Geography', 'Odisha Culture', 'Indian Polity', 'Economy', 'Science', 'Current Affairs']
     },
@@ -54,8 +54,8 @@ const EXAM_CONFIG = {
         gradient: 'linear-gradient(135deg, #FFD93D 0%, #FF9F1C 100%)',
         color: '#FFD93D',
         ribbonClass: 'ossc',
-        questionCount: 60,
-        timeMinutes: 60,
+        questionCount: 30,
+        timeMinutes: 30,
         marksPerQuestion: 2,
         tags: ['Odisha GK', 'Indian History', 'Geography', 'Polity', 'Science & Math', 'Reasoning', 'Current Affairs']
     },
@@ -66,8 +66,8 @@ const EXAM_CONFIG = {
         gradient: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
         color: '#667eea',
         ribbonClass: 'cgl',
-        questionCount: 60,
-        timeMinutes: 60,
+        questionCount: 30,
+        timeMinutes: 30,
         marksPerQuestion: 2,
         tags: ['General Awareness', 'Reasoning', 'English', 'Quant Concepts', 'Science', 'Polity', 'Current Affairs']
     },
@@ -78,8 +78,8 @@ const EXAM_CONFIG = {
         gradient: 'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)',
         color: '#f093fb',
         ribbonClass: 'chsl',
-        questionCount: 60,
-        timeMinutes: 60,
+        questionCount: 30,
+        timeMinutes: 30,
         marksPerQuestion: 2,
         tags: ['General Awareness', 'Reasoning', 'English', 'Quant', 'Science', 'Current Affairs']
     },
@@ -90,8 +90,8 @@ const EXAM_CONFIG = {
         gradient: 'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)',
         color: '#43e97b',
         ribbonClass: 'sgl',
-        questionCount: 60,
-        timeMinutes: 60,
+        questionCount: 30,
+        timeMinutes: 30,
         marksPerQuestion: 2,
         tags: ['Odisha GK', 'Indian History', 'Odisha Culture', 'Geography', 'Science', 'Computer', 'Current Affairs']
     }
@@ -262,7 +262,7 @@ async function startTest(examType) {
     testSubmitted = false;
     userAnswers = {};
     currentQuestionIndex = 0;
-    timeRemaining = 60 * 60;
+    timeRemaining = EXAM_CONFIG[examType].timeMinutes * 60;
     testStartTime = new Date();
 
     // Show loading screen

@@ -21,96 +21,96 @@ if (!GEMINI_API_KEY && !GROQ_API_KEY) {
 const EXAMS = {
     upsc: {
         name: 'UPSC Prelims',
-        questionCount: 60,
-        prompt: `Generate 60 unique multiple-choice questions for UPSC Civil Services Prelims General Studies Paper-I exam preparation.
+        questionCount: 30,
+        prompt: `Generate 30 unique multiple-choice questions for UPSC Civil Services Prelims General Studies Paper-I exam preparation.
 
 Cover these topics with roughly equal distribution:
-- Indian History (Ancient, Medieval, Modern, Freedom Struggle) - 9 questions
-- Indian Geography (Physical, Economic, Climate, Rivers, Resources) - 9 questions
-- Indian Polity & Governance (Constitution, Parliament, Judiciary, Panchayati Raj, Fundamental Rights) - 9 questions
-- Indian Economy (Budget, Banking, GDP, Five Year Plans, Economic Reforms, Trade) - 8 questions
-- General Science (Physics, Chemistry, Biology, Technology, Space) - 9 questions
-- Environment & Ecology (Biodiversity, Climate Change, Protected Areas, Environmental Laws) - 8 questions
-- Current Affairs & General Knowledge (National, International, Awards, Schemes, Sports) - 8 questions
+- Indian History (Ancient, Medieval, Modern, Freedom Struggle) - 5 questions
+- Indian Geography (Physical, Economic, Climate, Rivers, Resources) - 4 questions
+- Indian Polity & Governance (Constitution, Parliament, Judiciary, Panchayati Raj, Fundamental Rights) - 5 questions
+- Indian Economy (Budget, Banking, GDP, Five Year Plans, Economic Reforms, Trade) - 4 questions
+- General Science (Physics, Chemistry, Biology, Technology, Space) - 4 questions
+- Environment & Ecology (Biodiversity, Climate Change, Protected Areas, Environmental Laws) - 4 questions
+- Current Affairs & General Knowledge (National, International, Awards, Schemes, Sports) - 4 questions
 
 Questions should be at UPSC Prelims difficulty level - analytical, conceptual, and fact-based. Include questions on constitutional amendments, important acts, historical events with dates, geographical features of India, scientific discoveries, and government schemes.`
     },
     oas: {
         name: 'Odisha Civil Services',
-        questionCount: 60,
-        prompt: `Generate 60 unique multiple-choice questions for Odisha Administrative Services (OAS) exam conducted by OPSC.
+        questionCount: 30,
+        prompt: `Generate 30 unique multiple-choice questions for Odisha Administrative Services (OAS) exam conducted by OPSC.
 
 Cover these topics - HEAVILY focused on Odisha state:
-- Odisha History (Kalinga War, Gajapati dynasty, Ganga dynasty, Bhoi dynasty, Odisha freedom fighters like Buxi Jagabandhu, Surendra Sai, Jayee Rajguru, Laxman Naik, formation of Odisha state 1936) - 10 questions
-- Odisha Geography (Districts of Odisha, Rivers - Mahanadi/Brahmani/Baitarani, Chilika Lake, Eastern Ghats, Minerals, Climate, Ports) - 10 questions
-- Odisha Culture & Heritage (Jagannath Temple, Konark Sun Temple, Odissi dance, Pattachitra, Sabai grass craft, Raja festival, Nuakhai, tribal culture of Odisha, Odia literature) - 8 questions
-- Odisha Economy & Development (Mining industry, NALCO, Paradip Port, agriculture, Odisha Budget, welfare schemes of Odisha government) - 7 questions
-- Indian Polity & Constitution (relevant to state governance, Governor, State Legislature, Panchayati Raj in Odisha) - 8 questions
-- General Science (Basic Physics, Chemistry, Biology for state exam level) - 8 questions
-- Current Affairs (Odisha state news, national events, Odisha government schemes, Mo Sarkar, KALIA, BSKY) - 9 questions
+- Odisha History (Kalinga War, Gajapati dynasty, Ganga dynasty, Bhoi dynasty, Odisha freedom fighters like Buxi Jagabandhu, Surendra Sai, Jayee Rajguru, Laxman Naik, formation of Odisha state 1936) - 5 questions
+- Odisha Geography (Districts of Odisha, Rivers - Mahanadi/Brahmani/Baitarani, Chilika Lake, Eastern Ghats, Minerals, Climate, Ports) - 5 questions
+- Odisha Culture & Heritage (Jagannath Temple, Konark Sun Temple, Odissi dance, Pattachitra, Sabai grass craft, Raja festival, Nuakhai, tribal culture of Odisha, Odia literature) - 4 questions
+- Odisha Economy & Development (Mining industry, NALCO, Paradip Port, agriculture, Odisha Budget, welfare schemes of Odisha government) - 4 questions
+- Indian Polity & Constitution (relevant to state governance, Governor, State Legislature, Panchayati Raj in Odisha) - 4 questions
+- General Science (Basic Physics, Chemistry, Biology for state exam level) - 4 questions
+- Current Affairs (Odisha state news, national events, Odisha government schemes, Mo Sarkar, KALIA, BSKY) - 4 questions
 
 Questions must be specific to Odisha state - NOT generic Indian GK. This is a STATE exam.`
     },
     ossc: {
         name: 'OSSC RI/Amin',
-        questionCount: 60,
-        prompt: `Generate 60 unique multiple-choice questions for OSSC Revenue Inspector (RI) and Amin examination in Odisha.
+        questionCount: 30,
+        prompt: `Generate 30 unique multiple-choice questions for OSSC Revenue Inspector (RI) and Amin examination in Odisha.
 
 Cover these topics:
-- Odisha General Knowledge (Districts, famous places, rivers, lakes, dams, festivals, tribal communities, Odisha history, important personalities of Odisha) - 12 questions
-- Indian History & Culture (Ancient India, Medieval India, Modern India, Indian culture, heritage sites) - 8 questions
-- Geography (India + Odisha - physical features, climate, soil, agriculture, minerals) - 9 questions
-- Indian Polity & Constitution (Fundamental rights, DPSP, Parliament, State Legislature, Local governance, Land revenue system) - 8 questions
-- General Science (Physics basics, Chemistry basics, Biology, Health, Nutrition, common diseases) - 8 questions
-- Mental Ability & Reasoning (Number series, letter series, analogies, coding-decoding, direction sense, blood relations) - 8 questions
-- Current Affairs (Odisha + National - government schemes, awards, sports, recent events) - 7 questions
+- Odisha General Knowledge (Districts, famous places, rivers, lakes, dams, festivals, tribal communities, Odisha history, important personalities of Odisha) - 6 questions
+- Indian History & Culture (Ancient India, Medieval India, Modern India, Indian culture, heritage sites) - 4 questions
+- Geography (India + Odisha - physical features, climate, soil, agriculture, minerals) - 4 questions
+- Indian Polity & Constitution (Fundamental rights, DPSP, Parliament, State Legislature, Local governance, Land revenue system) - 4 questions
+- General Science (Physics basics, Chemistry basics, Biology, Health, Nutrition, common diseases) - 4 questions
+- Mental Ability & Reasoning (Number series, letter series, analogies, coding-decoding, direction sense, blood relations) - 4 questions
+- Current Affairs (Odisha + National - government schemes, awards, sports, recent events) - 4 questions
 
 Questions should be at intermediate difficulty - suitable for RI/Amin level exam. Include questions about land revenue administration, survey & settlement.`
     },
     cgl: {
         name: 'SSC CGL',
-        questionCount: 60,
-        prompt: `Generate 60 unique multiple-choice questions for SSC CGL (Combined Graduate Level) Tier-1 examination.
+        questionCount: 30,
+        prompt: `Generate 30 unique multiple-choice questions for SSC CGL (Combined Graduate Level) Tier-1 examination.
 
 Cover these topics:
-- General Awareness & Static GK (History, Culture, Heritage, Books & Authors, Important Days, First in India/World) - 10 questions
-- General Science (Physics concepts, Chemistry - elements/compounds/reactions, Biology - human body/diseases/nutrition) - 9 questions
-- Indian Polity & Economy (Constitution, Government institutions, Banking, Insurance, Budget terminology, Economic organizations) - 9 questions
-- Geography (India & World - capitals, rivers, mountains, ocean currents, climate, soils) - 8 questions
-- Reasoning & Logic (Analogies, Coding-Decoding, Series completion, Syllogisms, Blood relations, Direction sense, Mirror/Water image concepts) - 10 questions
-- English Language Concepts (Synonyms, Antonyms, Idioms & Phrases, One word substitution, Spelling corrections, Grammar rules) - 7 questions
-- Current Affairs (Recent appointments, awards, summits, sports events, government schemes, international events) - 7 questions
+- General Awareness & Static GK (History, Culture, Heritage, Books & Authors, Important Days, First in India/World) - 5 questions
+- General Science (Physics concepts, Chemistry - elements/compounds/reactions, Biology - human body/diseases/nutrition) - 4 questions
+- Indian Polity & Economy (Constitution, Government institutions, Banking, Insurance, Budget terminology, Economic organizations) - 5 questions
+- Geography (India & World - capitals, rivers, mountains, ocean currents, climate, soils) - 4 questions
+- Reasoning & Logic (Analogies, Coding-Decoding, Series completion, Syllogisms, Blood relations, Direction sense, Mirror/Water image concepts) - 5 questions
+- English Language Concepts (Synonyms, Antonyms, Idioms & Phrases, One word substitution, Spelling corrections, Grammar rules) - 3 questions
+- Current Affairs (Recent appointments, awards, summits, sports events, government schemes, international events) - 4 questions
 
 Questions should match SSC CGL Tier-1 difficulty. Mix conceptual and factual questions.`
     },
     chsl: {
         name: 'SSC CHSL',
-        questionCount: 60,
-        prompt: `Generate 60 unique multiple-choice questions for SSC CHSL (Combined Higher Secondary Level) Tier-1 examination.
+        questionCount: 30,
+        prompt: `Generate 30 unique multiple-choice questions for SSC CHSL (Combined Higher Secondary Level) Tier-1 examination.
 
 Cover these topics:
-- General Awareness (Indian History, Culture, Famous personalities, Important dates, Books & Authors, National symbols, Dances of India) - 12 questions
-- General Science (Basic Physics, Basic Chemistry, Biology - diseases, vitamins, human body systems, nutrition) - 10 questions
-- Reasoning & Mental Ability (Number series, Alphabet series, Odd one out, Analogy, Classification, Coding-Decoding, Mirror image, Paper folding) - 12 questions
-- Indian Polity (Fundamental Rights, Duties, President, Prime Minister, Parliament basics, Courts) - 8 questions
-- Geography (Indian states & capitals, rivers, mountains, national parks, soils, crops) - 8 questions
-- Current Affairs & GK (Government schemes, recent events, sports, awards, abbreviations) - 10 questions
+- General Awareness (Indian History, Culture, Famous personalities, Important dates, Books & Authors, National symbols, Dances of India) - 6 questions
+- General Science (Basic Physics, Basic Chemistry, Biology - diseases, vitamins, human body systems, nutrition) - 5 questions
+- Reasoning & Mental Ability (Number series, Alphabet series, Odd one out, Analogy, Classification, Coding-Decoding, Mirror image, Paper folding) - 5 questions
+- Indian Polity (Fundamental Rights, Duties, President, Prime Minister, Parliament basics, Courts) - 4 questions
+- Geography (Indian states & capitals, rivers, mountains, national parks, soils, crops) - 4 questions
+- Current Affairs & GK (Government schemes, recent events, sports, awards, abbreviations) - 6 questions
 
 Questions should be at 10+2 level difficulty - simpler than CGL. Focus on direct, factual questions rather than analytical ones. This is an easier exam.`
     },
     sgl: {
         name: 'Odisha SGL',
-        questionCount: 60,
-        prompt: `Generate 60 unique multiple-choice questions for OSSC SGL (Staff Selection for Group-L posts) examination in Odisha.
+        questionCount: 30,
+        prompt: `Generate 30 unique multiple-choice questions for OSSC SGL (Staff Selection for Group-L posts) examination in Odisha.
 
 Cover these topics - focused on Odisha and general knowledge:
-- Odisha General Knowledge (Districts, famous places, rivers, lakes, dams, festivals, tribal communities, Odisha history, temples, important personalities of Odisha) - 12 questions
-- Indian History (Ancient India, Medieval India, Modern India, Freedom struggle, Important dates and events) - 8 questions
-- Odisha History & Culture (Kalinga war, Odisha freedom fighters, formation of Odisha state, Jagannath culture, Odissi dance, Pattachitra, tribal culture, festivals like Raja/Nuakhai/Rath Yatra) - 8 questions
-- Geography (India + Odisha - physical features, rivers, climate, soil, agriculture, minerals, national parks of Odisha) - 8 questions
-- Indian Polity & Constitution (Fundamental rights, DPSP, Parliament, State Legislature, Panchayati Raj, local governance) - 7 questions
-- General Science (Basic Physics, Chemistry, Biology, Health, Nutrition, common diseases, everyday science) - 8 questions
-- Current Affairs & Computer Knowledge (Odisha + National news, government schemes, basic computer concepts, MS Office, internet basics) - 9 questions
+- Odisha General Knowledge (Districts, famous places, rivers, lakes, dams, festivals, tribal communities, Odisha history, temples, important personalities of Odisha) - 5 questions
+- Indian History (Ancient India, Medieval India, Modern India, Freedom struggle, Important dates and events) - 4 questions
+- Odisha History & Culture (Kalinga war, Odisha freedom fighters, formation of Odisha state, Jagannath culture, Odissi dance, Pattachitra, tribal culture, festivals like Raja/Nuakhai/Rath Yatra) - 5 questions
+- Geography (India + Odisha - physical features, rivers, climate, soil, agriculture, minerals, national parks of Odisha) - 4 questions
+- Indian Polity & Constitution (Fundamental rights, DPSP, Parliament, State Legislature, Panchayati Raj, local governance) - 4 questions
+- General Science (Basic Physics, Chemistry, Biology, Health, Nutrition, common diseases, everyday science) - 4 questions
+- Current Affairs & Computer Knowledge (Odisha + National news, government schemes, basic computer concepts, MS Office, internet basics) - 4 questions
 
 Questions should be at intermediate level - suitable for Group-L staff selection. Include questions about Odisha government schemes like KALIA, BSKY, Mo Sarkar, Jaga Mission.`
     }
