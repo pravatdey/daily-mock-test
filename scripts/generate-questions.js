@@ -198,8 +198,8 @@ async function callGemini(fullPrompt, examConfig) {
     return parseQuestions(textContent, examConfig);
 }
 
-// ===== Groq API Call (Fallback) =====
-async function callGroq(fullPrompt, examConfig) {
+// ===== Groq API Call (Fallback) - generates in batches to stay under token limits =====
+async function callGroqBatch(batchPrompt, batchSize) {
     const url = 'https://api.groq.com/openai/v1/chat/completions';
 
     const response = await fetch(url, {
@@ -209,19 +209,19 @@ async function callGroq(fullPrompt, examConfig) {
             'Authorization': `Bearer ${GROQ_API_KEY}`
         },
         body: JSON.stringify({
-            model: 'llama-3.3-70b-versatile',
+            model: 'gemma2-9b-it',
             messages: [
                 {
                     role: 'system',
-                    content: 'You are an expert exam question generator. Always return a JSON object with a "questions" key containing an array of question objects.'
+                    content: 'You are an expert exam question generator for Indian competitive exams. Return ONLY a valid JSON object with a "questions" key containing an array of question objects. No extra text.'
                 },
                 {
                     role: 'user',
-                    content: fullPrompt
+                    content: batchPrompt
                 }
             ],
             temperature: 0.9,
-            max_tokens: 32768,
+            max_tokens: 8192,
             response_format: { type: 'json_object' }
         })
     });
@@ -247,7 +247,6 @@ async function callGroq(fullPrompt, examConfig) {
     if (Array.isArray(parsed)) {
         questions = parsed;
     } else if (typeof parsed === 'object' && parsed !== null) {
-        // Search all values for an array of objects with "question" property
         for (const value of Object.values(parsed)) {
             if (Array.isArray(value) && value.length > 0 && value[0].question) {
                 questions = value;
@@ -257,11 +256,42 @@ async function callGroq(fullPrompt, examConfig) {
     }
 
     if (!Array.isArray(questions) || questions.length === 0) {
-        console.log(`    Debug: Groq response keys: ${typeof parsed === 'object' ? Object.keys(parsed).join(', ') : typeof parsed}`);
         throw new Error('Groq response does not contain a questions array');
     }
 
-    return questions.slice(0, examConfig.questionCount).map((q, i) => ({
+    return questions;
+}
+
+async function callGroq(examConfig, dateStr) {
+    const batchSize = 20;
+    const totalQuestions = examConfig.questionCount;
+    const batches = Math.ceil(totalQuestions / batchSize);
+    let allQuestions = [];
+
+    for (let batch = 0; batch < batches; batch++) {
+        const remaining = totalQuestions - allQuestions.length;
+        const count = Math.min(batchSize, remaining);
+        const batchNum = batch + 1;
+
+        // Shorter prompt for Groq to stay under token limits
+        const batchPrompt = `Generate ${count} unique MCQ questions for ${examConfig.name} exam.
+Topics: ${examConfig.prompt.split('\n').filter(l => l.startsWith('-')).map(l => l.replace(/- /,'').replace(/ - \d+ questions/,'')).join(', ')}
+Date seed: ${dateStr}-batch${batchNum}
+
+Return JSON: {"questions": [{"id":1,"category":"Topic","question":"Q?","options":["A","B","C","D"],"correct":0,"explanation":"Why"}]}
+"correct" = 0-based index (0=A,1=B,2=C,3=D). Generate EXACTLY ${count} questions.`;
+
+        console.log(`    Groq batch ${batchNum}/${batches} (${count} questions)...`);
+        const batchQuestions = await callGroqBatch(batchPrompt, count);
+        allQuestions = allQuestions.concat(batchQuestions);
+
+        // Wait between batches to avoid rate limits
+        if (batch < batches - 1) {
+            await new Promise(resolve => setTimeout(resolve, 15000));
+        }
+    }
+
+    return allQuestions.slice(0, totalQuestions).map((q, i) => ({
         id: i + 1,
         category: q.category || 'General',
         question: q.question,
@@ -286,21 +316,15 @@ async function generateQuestions(examKey, examConfig, dateStr) {
         }
     }
 
-    // Fallback to Groq (with retry)
+    // Fallback to Groq (batch mode)
     if (GROQ_API_KEY) {
-        for (let attempt = 1; attempt <= 2; attempt++) {
-            try {
-                console.log(`  → Trying Groq fallback for ${examConfig.name}... (attempt ${attempt})`);
-                const questions = await callGroq(fullPrompt, examConfig);
-                console.log(`  ✓ ${examConfig.name}: ${questions.length} questions (Groq)`);
-                return questions;
-            } catch (error) {
-                console.log(`  ⚠ Groq attempt ${attempt} failed for ${examConfig.name}: ${error.message}`);
-                if (attempt < 2) {
-                    console.log(`  ⏳ Waiting 30s before retry...`);
-                    await new Promise(resolve => setTimeout(resolve, 30000));
-                }
-            }
+        try {
+            console.log(`  → Trying Groq fallback for ${examConfig.name}...`);
+            const questions = await callGroq(examConfig, dateStr);
+            console.log(`  ✓ ${examConfig.name}: ${questions.length} questions (Groq)`);
+            return questions;
+        } catch (error) {
+            console.log(`  ⚠ Groq failed for ${examConfig.name}: ${error.message}`);
         }
     }
 
