@@ -209,7 +209,7 @@ async function callGroqBatch(batchPrompt, batchSize) {
             'Authorization': `Bearer ${GROQ_API_KEY}`
         },
         body: JSON.stringify({
-            model: 'gemma2-9b-it',
+            model: 'llama-3.1-8b-instant',
             messages: [
                 {
                     role: 'system',
