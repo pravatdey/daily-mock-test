@@ -1,788 +1,398 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-03-30",
-  "questionCount": 60,
+  "date": "2026-04-21",
+  "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Odisha General Knowledge",
-      "question": "What is the name of the famous lake in Odisha where the Chilika Lake Festival is held?",
+      "category": "Odisha Geography",
+      "question": "Which of the following rivers flows through the city of Cuttack in Odisha?",
+      "options": [
+        "Mahanadi",
+        "Brahmani",
+        "Subarnarekha",
+        "Baitarani"
+      ],
+      "correct": 0,
+      "explanation": "Mahanadi River flows through the city of Cuttack in Odisha."
+    },
+    {
+      "id": 2,
+      "category": "Odisha Festivals",
+      "question": "What is the significance of the 'Ratha Yatra' festival celebrated in Puri, Odisha?",
+      "options": [
+        "Celebration of Lord Jagannath's birth",
+        "Celebration of Lord Jagannath's marriage",
+        "Celebration of Lord Jagannath's annual journey to his aunt's house",
+        "Celebration of Lord Jagannath's victory over evil"
+      ],
+      "correct": 2,
+      "explanation": "Ratha Yatra is the celebration of Lord Jagannath's annual journey to his aunt's house."
+    },
+    {
+      "id": 3,
+      "category": "Odisha History",
+      "question": "Who was the founder of the Bhaumara dynasty in Odisha?",
+      "options": [
+        "Kharavela",
+        "Subarnesi",
+        "Sailodbhava",
+        "Chandasai"
+      ],
+      "correct": 2,
+      "explanation": "Sailodbhava was the founder of the Bhaumara dynasty in Odisha."
+    },
+    {
+      "id": 4,
+      "category": "Odisha Districts",
+      "question": "Which district is known for the 'Sun Temple' in Odisha?",
+      "options": [
+        "Konark",
+        "Puri",
+        "Bhubaneswar",
+        "Cuttack"
+      ],
+      "correct": 0,
+      "explanation": "Konark district is known for the 'Sun Temple' in Odisha."
+    },
+    {
+      "id": 5,
+      "category": "Odisha Tribal Communities",
+      "question": "Which of the following is a prominent tribal community in the Mayurbhanj district of Odisha?",
+      "options": [
+        "Santhals",
+        "Bhuyan",
+        "Gond",
+        "Ho"
+      ],
+      "correct": 0,
+      "explanation": "Santhals are a prominent tribal community in the Mayurbhanj district of Odisha."
+    },
+    {
+      "id": 6,
+      "category": "Odisha Lakes",
+      "question": "What is the name of the largest brackish water lake in Odisha?",
       "options": [
         "Chilika Lake",
         "Ansupa Lake",
         "Hirakud Reservoir",
-        "Indravati Lake"
+        "Indravati Reservoir"
       ],
       "correct": 0,
-      "explanation": "Chilika Lake is the largest brackish water lagoon in Asia and the largest wintering ground for migratory birds on the Indian sub-continent. The Chilika Lake Festival is held here every year to promote tourism."
-    },
-    {
-      "id": 2,
-      "category": "Indian History & Culture",
-      "question": "Which ancient Indian dynasty built the Khajuraho temples?",
-      "options": [
-        "Gupta dynasty",
-        "Chandela dynasty",
-        "Mauryan dynasty",
-        "Vakataka dynasty"
-      ],
-      "correct": 1,
-      "explanation": "The Khajuraho temples were built by the Chandela dynasty in the 10th century. These temples are known for their intricate carvings and sculptures depicting various aspects of Indian mythology and daily life."
-    },
-    {
-      "id": 3,
-      "category": "Geography",
-      "question": "What is the name of the mountain range that runs along the eastern edge of India?",
-      "options": [
-        "Himalayan mountain range",
-        "Eastern Ghats",
-        "Western Ghats",
-        "Purvanchal range"
-      ],
-      "correct": 1,
-      "explanation": "The Eastern Ghats are a discontinuous mountain range that runs along the eastern edge of India, parallel to the Bay of Bengal. They are older and more eroded than the Western Ghats."
-    },
-    {
-      "id": 4,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to equality?",
-      "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
-      ],
-      "correct": 0,
-      "explanation": "Article 14 of the Indian Constitution states that the state shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
-    },
-    {
-      "id": 5,
-      "category": "General Science",
-      "question": "What is the process by which plants convert light energy into chemical energy?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
-      ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of glucose."
-    },
-    {
-      "id": 6,
-      "category": "Mental Ability & Reasoning",
-      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
-      "options": [
-        "5 minutes",
-        "10 minutes",
-        "50 minutes",
-        "100 minutes"
-      ],
-      "correct": 0,
-      "explanation": "If 5 machines can make 5 widgets in 5 minutes, then each machine can make 1 widget in 5 minutes. Therefore, 100 machines can make 100 widgets in 5 minutes."
+      "explanation": "Chilika Lake is the largest brackish water lake in Odisha."
     },
     {
       "id": 7,
-      "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Odisha government to provide financial assistance to farmers?",
+      "category": "Odisha Dams",
+      "question": "Which dam is located on the Mahanadi River in Odisha?",
       "options": [
-        "KALIA scheme",
-        "PM-KISAN scheme",
-        "Rythu Bandhu scheme",
-        "Krishi Sinchayee Yojana"
+        "Hirakud Dam",
+        "Mandira Dam",
+        "Rengali Dam",
+        "Tikarpada Dam"
       ],
       "correct": 0,
-      "explanation": "The KALIA scheme (Krushak Assistance for Livelihood and Income Augmentation) was launched by the Odisha government in 2018 to provide financial assistance to farmers and support their livelihood."
+      "explanation": "Hirakud Dam is located on the Mahanadi River in Odisha."
     },
     {
       "id": 8,
-      "category": "Odisha General Knowledge",
-      "question": "Which district in Odisha is known for its coal mines?",
+      "category": "Odisha Famous Places",
+      "question": "Which of the following is a famous tourist destination in the Gajapati district of Odisha?",
       "options": [
-        "Angul district",
-        "Dhenkanal district",
-        "Jharsuguda district",
-        "Sundargarh district"
+        "Taptapani",
+        "Dhenkanal",
+        "Chandragiri",
+        "Mohana"
       ],
-      "correct": 3,
-      "explanation": "Sundargarh district in Odisha is known for its coal mines, particularly the Ib Valley Coalfield and the Talcher Coalfield."
+      "correct": 0,
+      "explanation": "Taptapani is a famous tourist destination in the Gajapati district of Odisha."
     },
     {
       "id": 9,
-      "category": "Indian History & Culture",
-      "question": "Who was the founder of the Mughal Empire in India?",
+      "category": "Odisha Important Personalities",
+      "question": "Who was the first Chief Minister of Odisha after independence?",
       "options": [
-        "Babur",
-        "Humayun",
-        "Akbar",
-        "Jahangir"
+        "Harekrushna Mahatab",
+        "Nabakrushna Choudhuri",
+        "Biren Mitra",
+        "Bijayananda Patnaik"
       ],
       "correct": 0,
-      "explanation": "Babur was the founder of the Mughal Empire in India. He defeated Ibrahim Lodi in the Battle of Panipat in 1526 and established the Mughal Empire, which lasted for over 300 years."
+      "explanation": "Harekrushna Mahatab was the first Chief Minister of Odisha after independence."
     },
     {
       "id": 10,
-      "category": "Geography",
-      "question": "What is the name of the river that flows through the city of Bhubaneswar?",
+      "category": "Odisha Rivers",
+      "question": "Which river forms the boundary between Odisha and Chhattisgarh?",
       "options": [
-        "Mahanadi river",
-        "Brahmani river",
-        "Subarnarekha river",
-        "Daya river"
+        "Mahanadi",
+        "Brahmani",
+        "Subarnarekha",
+        "Ib"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi river flows through the city of Bhubaneswar, the capital of Odisha. It is one of the major rivers in India and plays an important role in the state's economy and ecosystem."
+      "explanation": "Mahanadi River forms the boundary between Odisha and Chhattisgarh."
     },
     {
       "id": 11,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of speech and expression?",
+      "category": "Ancient India",
+      "question": "Which ancient Indian dynasty built the city of Pataliputra?",
       "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
+        "Mauryan",
+        "Gupta",
+        "Kushan",
+        "Pallava"
       ],
       "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution states that all citizens have the right to freedom of speech and expression, subject to reasonable restrictions."
+      "explanation": "The Mauryan dynasty built the city of Pataliputra, which was the capital of their empire."
     },
     {
       "id": 12,
-      "category": "General Science",
-      "question": "What is the largest planet in our solar system?",
+      "category": "Medieval India",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Earth",
-        "Saturn",
-        "Jupiter",
-        "Uranus"
+        "Babur",
+        "Akbar",
+        "Humayun",
+        "Shah Jahan"
       ],
-      "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers."
+      "correct": 0,
+      "explanation": "Babur was the founder of the Mughal Empire in India, who defeated Ibrahim Lodi in the Battle of Panipat in 1526."
     },
     {
       "id": 13,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a snail is at the bottom of a 20-foot well, and each day it climbs up 3 feet, but at night it slips back 2 feet, how many days will it take for the snail to reach the top of the well?",
+      "category": "Modern India",
+      "question": "Which Indian independence activist is known for the quote 'Jai Hind'?",
       "options": [
-        "18 days",
-        "20 days",
-        "22 days",
-        "28 days"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bhagat Singh"
       ],
-      "correct": 2,
-      "explanation": "The snail climbs 3 feet up and slips 2 feet back each day, so it effectively climbs 1 foot per day. To climb 20 feet, it will take 18 days, and on the 19th day, it will climb the final 3 feet and reach the top of the well, but since it won't slip back, the answer is 18 + 1 = 19 days, but among the given options 18 days is closest and it is assumed that on 18th day it will reach at 18 feet and will reach on the top on 19th day."
+      "correct": 0,
+      "explanation": "Subhas Chandra Bose, also known as Netaji, is famous for the quote 'Jai Hind', which became a slogan of the Indian independence movement."
     },
     {
       "id": 14,
-      "category": "Current Affairs",
-      "question": "What is the name of the scheme launched by the Indian government to provide financial assistance to small and medium-sized enterprises?",
+      "category": "Indian Culture",
+      "question": "What is the name of the ancient Indian medical system that is still practiced today?",
       "options": [
-        "MSME Scheme",
-        "PM MUDRA Yojana",
-        "PSB Loans in 59 Minutes",
-        "Stand Up India Scheme"
+        "Ayurveda",
+        "Unani",
+        "Siddha",
+        "Homeopathy"
       ],
-      "correct": 1,
-      "explanation": "The PM MUDRA Yojana (Micro Units Development and Refinance Agency) was launched by the Indian government in 2015 to provide financial assistance to small and medium-sized enterprises."
+      "correct": 0,
+      "explanation": "Ayurveda is the ancient Indian medical system that is still practiced today and emphasizes natural and holistic healing methods."
     },
     {
       "id": 15,
-      "category": "Odisha General Knowledge",
-      "question": "Which tribe in Odisha is known for its expertise in archery?",
+      "category": "Heritage Sites",
+      "question": "Which Indian monument is a UNESCO World Heritage Site and a symbol of love?",
       "options": [
-        "Bonda tribe",
-        "Santhal tribe",
-        "Ho tribe",
-        "Gond tribe"
+        "Taj Mahal",
+        "Red Fort",
+        "Qutub Minar",
+        "Hampi"
       ],
-      "correct": 1,
-      "explanation": "The Santhal tribe in Odisha is known for its expertise in archery. They have a rich tradition of archery and are known for their skill in making bows and arrows."
+      "correct": 0,
+      "explanation": "The Taj Mahal is a UNESCO World Heritage Site and a symbol of love, built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal."
     },
     {
       "id": 16,
-      "category": "Indian History & Culture",
-      "question": "Who was the ancient Indian philosopher who founded the Charvaka school of thought?",
+      "category": "Ancient India",
+      "question": "Who was the ancient Indian philosopher who taught the concept of ahimsa or non-violence?",
       "options": [
-        "Charvaka",
-        "Kapila",
-        "Kanada",
-        "Brihaspati"
+        "Mahavira",
+        "Gautama Buddha",
+        "Adi Shankaracharya",
+        "Chanakya"
       ],
       "correct": 0,
-      "explanation": "Charvaka was the ancient Indian philosopher who founded the Charvaka school of thought. The Charvaka school is known for its materialistic and atheistic philosophy, which emphasizes the importance of sensory experience and rejects the idea of an afterlife."
+      "explanation": "Mahavira was the ancient Indian philosopher who taught the concept of ahimsa or non-violence, which is a core principle of Jainism."
     },
     {
       "id": 17,
-      "category": "Geography",
-      "question": "What is the name of the soil type that is commonly found in the state of Odisha?",
+      "category": "Medieval India",
+      "question": "Which medieval Indian kingdom was known for its beautiful temples and sculptures?",
       "options": [
-        "Alluvial soil",
-        "Black soil",
-        "Red soil",
-        "Laterite soil"
+        "Vijayanagara",
+        "Gujarat",
+        "Bengal",
+        "Orissa"
       ],
-      "correct": 1,
-      "explanation": "Black soil is the most common type of soil found in the state of Odisha. It is a fertile soil type that is suitable for growing a variety of crops, including rice, wheat, and cotton."
+      "correct": 0,
+      "explanation": "The Vijayanagara kingdom was known for its beautiful temples and sculptures, particularly the Virupaksha Temple in Hampi."
     },
     {
       "id": 18,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to constitutional remedies?",
+      "category": "Modern India",
+      "question": "Who was the first President of India after it gained independence?",
       "options": [
-        "Article 31",
-        "Article 32",
-        "Article 33",
-        "Article 34"
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "M.K. Gandhi"
       ],
-      "correct": 1,
-      "explanation": "Article 32 of the Indian Constitution states that the right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by Part III of the Constitution is guaranteed."
+      "correct": 0,
+      "explanation": "Dr. Rajendra Prasad was the first President of India after it gained independence, serving from 1950 to 1962."
     },
     {
       "id": 19,
-      "category": "General Science",
-      "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor?",
+      "category": "Indian Culture",
+      "question": "What is the name of the traditional Indian classical dance form that originated in the state of Kerala?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
+        "Bharatanatyam",
+        "Kathakali",
+        "Kathak",
+        "Odissi"
       ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor. This process is an important part of the water cycle and helps to regulate the Earth's climate."
+      "correct": 1,
+      "explanation": "Kathakali is the traditional Indian classical dance form that originated in the state of Kerala, known for its elaborate costumes and makeup."
     },
     {
       "id": 20,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
+      "category": "Heritage Sites",
+      "question": "Which ancient Indian city is known for its rock-cut caves and is a UNESCO World Heritage Site?",
       "options": [
-        "$0.05",
-        "$0.10",
-        "$0.15",
-        "$0.20"
+        "Ajanta",
+        "Ellora",
+        "Mahabalipuram",
+        "Khajuraho"
       ],
       "correct": 0,
-      "explanation": "Let's say the ball costs x cents. Since the bat costs $1.00 more than the ball, the bat costs x + $1.00. The total cost of the bat and ball is $1.10, so we can set up the equation: x + (x + $1.00) = $1.10. Simplifying the equation, we get: 2x + $1.00 = $1.10. Subtracting $1.00 from both sides, we get: 2x = $0.10. Dividing both sides by 2, we get: x = $0.05."
+      "explanation": "Ajanta is the ancient Indian city known for its rock-cut caves, which are a UNESCO World Heritage Site and feature intricate Buddhist sculptures and paintings."
     },
     {
       "id": 21,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian government's initiative to promote digital payments and reduce cash transactions?",
+      "category": "Geography",
+      "question": "What is the longest river in Odisha?",
       "options": [
-        "Digital India",
-        "Make in India",
-        "Startup India",
-        "Less Cash India"
+        "Mahanadi",
+        "Godavari",
+        "Brahmani",
+        "Subarnarekha"
       ],
       "correct": 0,
-      "explanation": "Digital India is the Indian government's initiative to promote digital payments and reduce cash transactions. The initiative aims to create a digital economy and promote cashless transactions."
+      "explanation": "The Mahanadi is the longest river in Odisha, stretching approximately 860 kilometers."
     },
     {
       "id": 22,
-      "category": "Odisha General Knowledge",
-      "question": "Which city in Odisha is known as the 'Silver City'?",
+      "category": "Geography",
+      "question": "Which mountain range runs along the eastern coast of India?",
       "options": [
-        "Cuttack",
-        "Bhubaneswar",
-        "Puri",
-        "Sambalpur"
+        "Eastern Ghats",
+        "Western Ghats",
+        "Himalayas",
+        "Aravalli Range"
       ],
       "correct": 0,
-      "explanation": "Cuttack is known as the 'Silver City' due to its historical significance as a major center for silver filigree work and other handicrafts."
+      "explanation": "The Eastern Ghats mountain range runs along the eastern coast of India."
     },
     {
       "id": 23,
-      "category": "Indian History & Culture",
-      "question": "Who was the Indian emperor who built the Red Fort in Delhi?",
+      "category": "Geography",
+      "question": "What type of climate does Odisha have?",
       "options": [
-        "Akbar",
-        "Jahangir",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Tropical wet and dry",
+        "Humid subtropical",
+        "Semi-arid",
+        "Alpine"
       ],
-      "correct": 2,
-      "explanation": "Shah Jahan built the Red Fort in Delhi. The Red Fort, also known as the Lal Qila, was constructed between 1638 and 1648 and served as the imperial palace of the Mughal Empire."
+      "correct": 0,
+      "explanation": "Odisha has a tropical wet and dry climate, characterized by high temperatures and high humidity."
     },
     {
       "id": 24,
       "category": "Geography",
-      "question": "What is the name of the strait that separates the island of Little Andaman from the island of Great Nicobar?",
+      "question": "Which type of soil is commonly found in the coastal regions of Odisha?",
       "options": [
-        "Duncan Passage",
-        "Ten Degree Channel",
-        "Coco Channel",
-        "Sombreiro Channel"
+        "Alluvial soil",
+        "Laterite soil",
+        "Black soil",
+        "Red soil"
       ],
-      "correct": 1,
-      "explanation": "The Ten Degree Channel is a strait that separates the island of Little Andaman from the island of Great Nicobar. It is located in the Bay of Bengal and is part of the Andaman and Nicobar Islands union territory."
+      "correct": 0,
+      "explanation": "Alluvial soil is commonly found in the coastal regions of Odisha, deposited by rivers and sea waves."
     },
     {
       "id": 25,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the powers of the President of India?",
+      "category": "Geography",
+      "question": "What is the main crop grown in Odisha?",
       "options": [
-        "Article 52",
-        "Article 53",
-        "Article 54",
-        "Article 55"
+        "Rice",
+        "Wheat",
+        "Pulses",
+        "Sugarcane"
       ],
-      "correct": 1,
-      "explanation": "Article 53 of the Indian Constitution states that the executive power of the Union shall be vested in the President and shall be exercised by him either directly or through officers subordinate to him."
+      "correct": 0,
+      "explanation": "Rice is the main crop grown in Odisha, with the state being one of the largest producers of rice in India."
     },
     {
       "id": 26,
-      "category": "General Science",
-      "question": "What is the largest living structure on Earth?",
+      "category": "Geography",
+      "question": "Which mineral is abundantly found in Odisha?",
       "options": [
-        "The Great Barrier Reef",
-        "The Amazon Rainforest",
-        "The Grand Canyon",
-        "The Great Wall of China"
+        "Iron ore",
+        "Coal",
+        "Chromium",
+        "Bauxite"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia."
+      "explanation": "Odisha is rich in iron ore deposits, with the state being one of the largest producers of iron ore in India."
     },
     {
       "id": 27,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a car travels from city A to city B at an average speed of 60 km/h and returns at an average speed of 40 km/h, what is the average speed of the car for the entire trip?",
+      "category": "Geography",
+      "question": "What is the name of the delta formed by the Mahanadi river?",
       "options": [
-        "48 km/h",
-        "50 km/h",
-        "52 km/h",
-        "56 km/h"
+        "Mahanadi Delta",
+        "Ganges Delta",
+        "Godavari Delta",
+        "Krishna Delta"
       ],
-      "correct": 1,
-      "explanation": "To calculate the average speed for the entire trip, we need to find the total distance traveled and the total time taken. Since the distance from A to B is the same as the distance from B to A, let's call it x. The time taken to travel from A to B is x / 60, and the time taken to travel from B to A is x / 40. The total time taken is x / 60 + x / 40. The total distance traveled is 2x. The average speed is the total distance divided by the total time, which is 2x / (x / 60 + x / 40). Simplifying this expression, we get: 2x / ((2x + 3x) / 120) = 2x / (5x / 120) = 240 / 5 = 48 km/h, but since the harmonic mean is more accurate in such cases, the answer will be 48 km/h, which is the same as the harmonic mean of 60 and 40."
+      "correct": 0,
+      "explanation": "The Mahanadi Delta is formed by the Mahanadi river, which empties into the Bay of Bengal."
     },
     {
       "id": 28,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian government's initiative to promote sustainable agriculture and reduce the use of chemical fertilizers?",
+      "category": "Geography",
+      "question": "Which region in Odisha is known for its dense forests?",
       "options": [
-        "Paramparagat Krishi Vikas Yojana",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Pradhan Mantri Krishi Sinchai Yojana",
-        "Rashtriya Krishi Vikas Yojana"
+        "Simlipal",
+        "Sundargarh",
+        "Mayurbhanj",
+        "Keonjhar"
       ],
       "correct": 0,
-      "explanation": "Paramparagat Krishi Vikas Yojana is the Indian government's initiative to promote sustainable agriculture and reduce the use of chemical fertilizers. The initiative aims to promote organic farming and reduce the country's dependence on chemical fertilizers."
+      "explanation": "The Simlipal region in Odisha is known for its dense forests, which are home to a wide range of flora and fauna."
     },
     {
       "id": 29,
-      "category": "Odisha General Knowledge",
-      "question": "Which district in Odisha is known for its handloom industry?",
+      "category": "Geography",
+      "question": "What is the name of the coastal district in Odisha known for its scenic beaches?",
       "options": [
-        "Bhadrak district",
-        "Jajpur district",
-        "Kendrapara district",
-        "Nuapada district"
+        "Puri",
+        "Ganjam",
+        "Jagatsinghpur",
+        "Kendrapara"
       ],
       "correct": 0,
-      "explanation": "Bhadrak district in Odisha is known for its handloom industry, particularly the production of high-quality cotton and silk fabrics."
+      "explanation": "The Puri district in Odisha is known for its scenic beaches, including the famous Puri Beach."
     },
     {
       "id": 30,
-      "category": "Indian History & Culture",
-      "question": "Who was the ancient Indian king who built the temple of Konark?",
-      "options": [
-        "Narasimhadeva I",
-        "Langula Narasimha Deva",
-        "Anantavarman Chodaganga",
-        "Rajaraja Chola"
-      ],
-      "correct": 0,
-      "explanation": "Narasimhadeva I, also known as Langula Narasimha Deva, built the temple of Konark in the 13th century. The temple is a UNESCO World Heritage Site and is known for its intricate carvings and sculptures."
-    },
-    {
-      "id": 31,
       "category": "Geography",
-      "question": "What is the name of the major river that flows through the city of Varanasi?",
+      "question": "Which river forms the boundary between Odisha and Chhattisgarh?",
       "options": [
-        "Ganges River",
-        "Yamuna River",
-        "Brahmaputra River",
-        "Godavari River"
+        "Mahanadi",
+        "Brahmani",
+        "Subarnarekha",
+        "Ib"
       ],
       "correct": 0,
-      "explanation": "The Ganges River flows through the city of Varanasi, which is considered one of the holiest cities in Hinduism."
-    },
-    {
-      "id": 32,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to freedom of assembly?",
-      "options": [
-        "Article 19",
-        "Article 20",
-        "Article 21",
-        "Article 22"
-      ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution states that all citizens have the right to freedom of speech and expression, assembly, and association, subject to reasonable restrictions."
-    },
-    {
-      "id": 33,
-      "category": "General Science",
-      "question": "What is the largest living species of lizard?",
-      "options": [
-        "Komodo dragon",
-        "Saltwater crocodile",
-        "Black mamba",
-        "African elephant"
-      ],
-      "correct": 0,
-      "explanation": "The Komodo dragon is the largest living species of lizard, found in the wild only on a few islands in Indonesia."
-    },
-    {
-      "id": 34,
-      "category": "Mental Ability & Reasoning",
-      "question": "A snail is at the bottom of a 20-foot well, and each day it climbs up 3 feet, but at night it slips back 2 feet. How many feet will the snail have climbed after 5 days?",
-      "options": [
-        "11 feet",
-        "13 feet",
-        "15 feet",
-        "17 feet"
-      ],
-      "correct": 1,
-      "explanation": "On day 1, the snail climbs 3 feet and slips back 2 feet, so it is at 1 foot. On day 2, it climbs 3 feet and slips back 2 feet, so it is at 2 feet. On day 3, it climbs 3 feet and slips back 2 feet, so it is at 3 feet. On day 4, it climbs 3 feet and slips back 2 feet, so it is at 4 feet. On day 5, it climbs 3 feet and slips back 2 feet, so it is at 5 feet, and during the day it climbs 3 more feet, so it is at 8 feet, but then it slips back 2 feet, and the answer is 13 feet - 5 feet = 8 feet + 5 feet = 13 feet."
-    },
-    {
-      "id": 35,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian government's initiative to promote cleanliness and hygiene in public places?",
-      "options": [
-        "Swachh Bharat Abhiyan",
-        "Clean India Mission",
-        "Healthy India Initiative",
-        "Sanitation and Hygiene Mission"
-      ],
-      "correct": 0,
-      "explanation": "Swachh Bharat Abhiyan is the Indian government's initiative to promote cleanliness and hygiene in public places. The initiative aims to create a clean and healthy environment for all citizens."
-    },
-    {
-      "id": 36,
-      "category": "Odisha General Knowledge",
-      "question": "Which city in Odisha is known as the 'Temple City'?",
-      "options": [
-        "Bhubaneswar",
-        "Cuttack",
-        "Puri",
-        "Sambalpur"
-      ],
-      "correct": 0,
-      "explanation": "Bhubaneswar is known as the 'Temple City' due to the presence of numerous ancient temples in the city, including the Lingaraj Temple and the Mukteshwar Temple."
-    },
-    {
-      "id": 37,
-      "category": "Indian History & Culture",
-      "question": "Who was the ancient Indian philosopher who founded the Vaisheshika school of thought?",
-      "options": [
-        "Kanada",
-        "Kapila",
-        "Charvaka",
-        "Brihaspati"
-      ],
-      "correct": 0,
-      "explanation": "Kanada was the ancient Indian philosopher who founded the Vaisheshika school of thought. The Vaisheshika school is known for its atomic theory of the universe and its emphasis on the importance of sense perception."
-    },
-    {
-      "id": 38,
-      "category": "Geography",
-      "question": "What is the name of the mountain range that runs along the western edge of India?",
-      "options": [
-        "Himalayan mountain range",
-        "Western Ghats",
-        "Eastern Ghats",
-        "Aravalli range"
-      ],
-      "correct": 1,
-      "explanation": "The Western Ghats are a mountain range that runs along the western edge of India, parallel to the Arabian Sea. They are a biodiversity hotspot and are home to a wide variety of flora and fauna."
-    },
-    {
-      "id": 39,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the powers of the state legislature?",
-      "options": [
-        "Article 161",
-        "Article 162",
-        "Article 163",
-        "Article 164"
-      ],
-      "correct": 1,
-      "explanation": "Article 162 of the Indian Constitution states that the executive power of a state shall be vested in the Governor and shall be exercised by him either directly or through officers subordinate to him."
-    },
-    {
-      "id": 40,
-      "category": "General Science",
-      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
-      "options": [
-        "Mutation",
-        "Genetic drift",
-        "Gene flow",
-        "Hereditary"
-      ],
-      "correct": 3,
-      "explanation": "Hereditary is the process by which an organism's genetic information is passed from one generation to the next. This process involves the transmission of genetic traits from parents to offspring through the transmission of DNA."
-    },
-    {
-      "id": 41,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a car travels from city A to city B at an average speed of 40 km/h and returns at an average speed of 60 km/h, what is the average speed of the car for the entire trip?",
-      "options": [
-        "48 km/h",
-        "50 km/h",
-        "52 km/h",
-        "56 km/h"
-      ],
-      "correct": 0,
-      "explanation": "To calculate the average speed for the entire trip, we need to find the total distance traveled and the total time taken. Since the distance from A to B is the same as the distance from B to A, let's call it x. The time taken to travel from A to B is x / 40, and the time taken to travel from B to A is x / 60. The total time taken is x / 40 + x / 60. The total distance traveled is 2x. The average speed is the total distance divided by the total time, which is 2x / (x / 40 + x / 60). Simplifying this expression, we get: 2x / ((3x + 2x) / 120) = 2x / (5x / 120) = 240 / 5 = 48 km/h."
-    },
-    {
-      "id": 42,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian government's initiative to promote entrepreneurship and job creation among the youth?",
-      "options": [
-        "Make in India",
-        "Startup India",
-        "Stand Up India",
-        "Skill India"
-      ],
-      "correct": 1,
-      "explanation": "Startup India is the Indian government's initiative to promote entrepreneurship and job creation among the youth. The initiative aims to create a supportive ecosystem for startups and encourage innovation and entrepreneurship."
-    },
-    {
-      "id": 43,
-      "category": "Odisha General Knowledge",
-      "question": "Which district in Odisha is known for its production of cashew nuts?",
-      "options": [
-        "Ganjam district",
-        "Gajapati district",
-        "Koraput district",
-        "Malkangiri district"
-      ],
-      "correct": 0,
-      "explanation": "Ganjam district in Odisha is known for its production of cashew nuts. The district has a large number of cashew plantations and is a major producer of cashew nuts in the country."
-    },
-    {
-      "id": 44,
-      "category": "Indian History & Culture",
-      "question": "Who was the ancient Indian king who built the temple of Brihadeeswara?",
-      "options": [
-        "Rajaraja Chola",
-        "Rajendra Chola",
-        "Kulottunga Chola",
-        "Vijayalaya Chola"
-      ],
-      "correct": 0,
-      "explanation": "Rajaraja Chola built the temple of Brihadeeswara in the 11th century. The temple is a UNESCO World Heritage Site and is known for its impressive architecture and intricate carvings."
-    },
-    {
-      "id": 45,
-      "category": "Geography",
-      "question": "What is the name of the strait that separates the islands of Java and Sumatra?",
-      "options": [
-        "Sunda Strait",
-        "Lombok Strait",
-        "Makassar Strait",
-        "Java Strait"
-      ],
-      "correct": 0,
-      "explanation": "The Sunda Strait is a strait that separates the islands of Java and Sumatra in Indonesia. It connects the Java Sea to the Indian Ocean and is an important shipping route."
-    },
-    {
-      "id": 46,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the powers of the Governor of a state?",
-      "options": [
-        "Article 153",
-        "Article 154",
-        "Article 155",
-        "Article 156"
-      ],
-      "correct": 1,
-      "explanation": "Article 154 of the Indian Constitution states that the executive power of a state shall be vested in the Governor and shall be exercised by him either directly or through officers subordinate to him."
-    },
-    {
-      "id": 47,
-      "category": "General Science",
-      "question": "What is the largest planet in our solar system in terms of diameter?",
-      "options": [
-        "Earth",
-        "Saturn",
-        "Jupiter",
-        "Uranus"
-      ],
-      "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system in terms of diameter, with a diameter of approximately 142,984 kilometers."
-    },
-    {
-      "id": 48,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a man is sitting in a room with two doors, one leading to certain death and the other to freedom, and there are two guards, one who always tells the truth and the other who always lies, and the man does not know which guard is which or which door leads to freedom, what question should he ask one of the guards to ensure he chooses the door to freedom?",
-      "options": [
-        "Which door leads to freedom?",
-        "Which guard is the truth-teller?",
-        "If I were to ask the other guard which door leads to freedom, what would he say?",
-        "What is the color of the sky?"
-      ],
-      "correct": 2,
-      "explanation": "The man should ask one of the guards, 'If I were to ask the other guard which door leads to freedom, what would he say?' This question will ensure that the man gets the correct answer, regardless of which guard he asks. If the guard he asks is the truth-teller, the truth-teller will tell him what the liar would say, which would be the door to death. If the guard he asks is the liar, the liar will lie about what the truth-teller would say, which would also be the door to death. So, in either case, the man can safely assume the opposite door leads to freedom."
-    },
-    {
-      "id": 49,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian government's initiative to promote digital literacy among the rural population?",
-      "options": [
-        "Digital India",
-        "Make in India",
-        "Skill India",
-        "Pradhan Mantri Gramin Digital Saksharta Abhiyan"
-      ],
-      "correct": 3,
-      "explanation": "Pradhan Mantri Gramin Digital Saksharta Abhiyan is the Indian government's initiative to promote digital literacy among the rural population. The initiative aims to create a digitally empowered society and promote digital inclusion."
-    },
-    {
-      "id": 50,
-      "category": "Odisha General Knowledge",
-      "question": "Which city in Odisha is known for its production of handicrafts?",
-      "options": [
-        "Bhubaneswar",
-        "Cuttack",
-        "Puri",
-        "Rourkela"
-      ],
-      "correct": 1,
-      "explanation": "Cuttack is known for its production of handicrafts, particularly the famous 'Cuttacki' silver filigree work and other handicrafts like horn work, bell metal work, and stone carving."
-    },
-    {
-      "id": 51,
-      "category": "Indian History & Culture",
-      "question": "Who was the Indian emperor who built the temple of Somnath?",
-      "options": [
-        "Chandragupta Maurya",
-        "Ashoka the Great",
-        "Rajendra Chola",
-        "Kumaragupta I"
-      ],
-      "correct": 3,
-      "explanation": "Kumaragupta I built the temple of Somnath in the 5th century. The temple is located in the state of Gujarat and is one of the most famous temples in India."
-    },
-    {
-      "id": 52,
-      "category": "Geography",
-      "question": "What is the name of the major river that flows through the city of Patna?",
-      "options": [
-        "Ganges River",
-        "Yamuna River",
-        "Brahmaputra River",
-        "Godavari River"
-      ],
-      "correct": 0,
-      "explanation": "The Ganges River flows through the city of Patna, which is the capital of the state of Bihar."
-    },
-    {
-      "id": 53,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to constitutional remedies?",
-      "options": [
-        "Article 31",
-        "Article 32",
-        "Article 33",
-        "Article 34"
-      ],
-      "correct": 1,
-      "explanation": "Article 32 of the Indian Constitution states that the right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by Part III of the Constitution is guaranteed."
-    },
-    {
-      "id": 54,
-      "category": "General Science",
-      "question": "What is the process by which plants release water vapor into the air?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
-      ],
-      "correct": 2,
-      "explanation": "Transpiration is the process by which plants release water vapor into the air. This process occurs mainly through the leaves of plants and is an important part of the water cycle."
-    },
-    {
-      "id": 55,
-      "category": "Mental Ability & Reasoning",
-      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, how much does the ball cost?",
-      "options": [
-        "$0.05",
-        "$0.10",
-        "$0.15",
-        "$0.20"
-      ],
-      "correct": 0,
-      "explanation": "Let's say the ball costs x cents. Since the bat costs $1.00 more than the ball, the bat costs x + $1.00. The total cost of the bat and ball is $1.10, so we can set up the equation: x + (x + $1.00) = $1.10. Simplifying the equation, we get: 2x + $1.00 = $1.10. Subtracting $1.00 from both sides, we get: 2x = $0.10. Dividing both sides by 2, we get: x = $0.05."
-    },
-    {
-      "id": 56,
-      "category": "Current Affairs",
-      "question": "What is the name of the Indian government's initiative to promote skill development among the youth?",
-      "options": [
-        "Make in India",
-        "Skill India",
-        "Digital India",
-        "Start Up India"
-      ],
-      "correct": 1,
-      "explanation": "Skill India is the Indian government's initiative to promote skill development among the youth. The initiative aims to create a skilled workforce and promote entrepreneurship and employment."
-    },
-    {
-      "id": 57,
-      "category": "Odisha General Knowledge",
-      "question": "Which district in Odisha is known for its production of silk?",
-      "options": [
-        "Bhadrak district",
-        "Jajpur district",
-        "Kendrapara district",
-        "Bargarh district"
-      ],
-      "correct": 3,
-      "explanation": "Bargarh district in Odisha is known for its production of silk, particularly the famous 'Bargarh' silk sarees."
-    },
-    {
-      "id": 58,
-      "category": "Indian History & Culture",
-      "question": "Who was the Indian emperor who built the temple of Khajuraho?",
-      "options": [
-        "Chandragupta Maurya",
-        "Ashoka the Great",
-        "Harsha",
-        "Chandela"
-      ],
-      "correct": 3,
-      "explanation": "The Chandela dynasty built the temples of Khajuraho in the 10th and 11th centuries. The temples are known for their intricate carvings and sculptures depicting various aspects of Indian mythology and daily life."
-    },
-    {
-      "id": 59,
-      "category": "Geography",
-      "question": "What is the name of the strait that separates the islands of New Guinea and New Britain?",
-      "options": [
-        "Dampier Strait",
-        "Vitiaz Strait",
-        "Torres Strait",
-        "Bougainville Strait"
-      ],
-      "correct": 1,
-      "explanation": "The Vitiaz Strait is a strait that separates the islands of New Guinea and New Britain. It connects the Solomon Sea to the Bismarck Sea and is an important shipping route."
-    },
-    {
-      "id": 60,
-      "category": "Indian Polity & Constitution",
-      "question": "What is the name of the article in the Indian Constitution that deals with the right to equality?",
-      "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
-      ],
-      "correct": 0,
-      "explanation": "Article 14 of the Indian Constitution states that the state shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
+      "explanation": "The Mahanadi river forms the boundary between Odisha and Chhattisgarh."
     }
   ]
 }

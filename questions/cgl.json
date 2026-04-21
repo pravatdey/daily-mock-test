@@ -1,389 +1,142 @@
 {
   "exam": "cgl",
   "name": "SSC CGL",
-  "date": "2026-03-30",
-  "questionCount": 60,
+  "date": "2026-04-21",
+  "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "General Awareness & Static GK",
-      "question": "The first woman to climb Mount Everest was?",
+      "category": "History",
+      "question": "Who was the founder of the Indian National Congress?",
       "options": [
-        "Tenzing Norgay",
-        "Junko Tabei",
-        "Sir Edmund Hillary",
-        "Bachendri Pal"
+        "A.O. Hume",
+        "Lala Lajpat Rai",
+        "Bal Gangadhar Tilak",
+        "Bipin Chandra Pal"
       ],
-      "correct": 1,
-      "explanation": "Junko Tabei was the first woman to climb Mount Everest on May 16, 1992."
+      "correct": 0,
+      "explanation": "A.O. Hume founded the Indian National Congress in 1885."
     },
     {
       "id": 2,
-      "category": "General Science",
-      "question": "What is the chemical symbol of Gold?",
+      "category": "Culture",
+      "question": "What is the name of the famous classical dance of Kerala?",
       "options": [
-        "Ag",
-        "Au",
-        "Hg",
-        "Pb"
+        "Bharatanatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
       ],
       "correct": 1,
-      "explanation": "The chemical symbol of Gold is Au, derived from the Latin word 'Aurum'."
+      "explanation": "Kathakali is a famous classical dance of Kerala, known for its elaborate costumes and makeup."
     },
     {
       "id": 3,
-      "category": "Indian Polity & Economy",
-      "question": "Which of the following is the largest public sector bank in India?",
+      "category": "Heritage",
+      "question": "Which of the following monuments is a UNESCO World Heritage Site?",
       "options": [
-        "State Bank of India",
-        "Punjab National Bank",
-        "Bank of Baroda",
-        "Canara Bank"
-      ],
-      "correct": 0,
-      "explanation": "State Bank of India is the largest public sector bank in India, with over 24,000 branches and 66,000 ATMs across the country."
-    },
-    {
-      "id": 4,
-      "category": "Geography",
-      "question": "The largest river in South America is?",
-      "options": [
-        "Amazon River",
-        "Parana River",
-        "Sao Francisco River",
-        "Magdalena River"
-      ],
-      "correct": 0,
-      "explanation": "The Amazon River is the largest river in South America and the largest river in the world by discharge volume, stretching over 6,400 kilometers from its source to its mouth."
-    },
-    {
-      "id": 5,
-      "category": "Reasoning & Logic",
-      "question": "If it takes five machines five minutes to make five widgets, how long would it take 100 machines to make 100 widgets?",
-      "options": [
-        "5 minutes",
-        "50 minutes",
-        "100 minutes",
-        "500 minutes"
-      ],
-      "correct": 0,
-      "explanation": "If five machines take five minutes to make five widgets, it means that each machine takes five minutes to make one widget. Thus, 100 machines will also take five minutes to make 100 widgets."
-    },
-    {
-      "id": 6,
-      "category": "English Language Concepts",
-      "question": "What is the synonym of the word 'enormous'?",
-      "options": [
-        "Tiny",
-        "Huge",
-        "Small",
-        "Moderate"
-      ],
-      "correct": 1,
-      "explanation": "The word 'huge' is a synonym of 'enormous', meaning extremely large or immense in size, amount, or degree."
-    },
-    {
-      "id": 7,
-      "category": "Current Affairs",
-      "question": "The 2026 Summer Olympics are scheduled to be held in which city?",
-      "options": [
-        "Los Angeles",
-        "Paris",
-        "Tokyo",
-        "New York"
-      ],
-      "correct": 0,
-      "explanation": "The 2026 Summer Olympics are scheduled to be held in Los Angeles, California, from July 21 to August 6, 2026."
-    },
-    {
-      "id": 8,
-      "category": "General Awareness & Static GK",
-      "question": "The book 'To Kill a Mockingbird' was written by?",
-      "options": [
-        "F. Scott Fitzgerald",
-        "Harper Lee",
-        "Jane Austen",
-        "J.K. Rowling"
-      ],
-      "correct": 1,
-      "explanation": "The book 'To Kill a Mockingbird' was written by Harper Lee, an American novelist, and published in 1960."
-    },
-    {
-      "id": 9,
-      "category": "General Science",
-      "question": "What is the largest planet in our solar system?",
-      "options": [
-        "Earth",
-        "Saturn",
-        "Jupiter",
-        "Uranus"
-      ],
-      "correct": 2,
-      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of approximately 142,984 kilometers, more than 11 times the diameter of Earth."
-    },
-    {
-      "id": 10,
-      "category": "Indian Polity & Economy",
-      "question": "The Reserve Bank of India was established in?",
-      "options": [
-        "1934",
-        "1935",
-        "1936",
-        "1937"
-      ],
-      "correct": 1,
-      "explanation": "The Reserve Bank of India was established on April 1, 1935, under the Reserve Bank of India Act, 1934."
-    },
-    {
-      "id": 11,
-      "category": "Geography",
-      "question": "The highest mountain peak in the world is?",
-      "options": [
-        "Mount Everest",
-        "K2",
-        "Kangchenjunga",
-        "Lhotse"
-      ],
-      "correct": 0,
-      "explanation": "Mount Everest, located in the Himalayas on the border between Nepal and Tibet, is the highest mountain peak in the world, with an elevation of 8,848 meters above sea level."
-    },
-    {
-      "id": 12,
-      "category": "Reasoning & Logic",
-      "question": "If a bicycle is moving at a speed of 20 km/h, how far will it travel in 3 hours?",
-      "options": [
-        "40 km",
-        "50 km",
-        "60 km",
-        "80 km"
-      ],
-      "correct": 2,
-      "explanation": "To find the distance traveled, we multiply the speed by the time. So, 20 km/h * 3 h = 60 km."
-    },
-    {
-      "id": 13,
-      "category": "English Language Concepts",
-      "question": "What is the antonym of the word 'fast'?",
-      "options": [
-        "Quick",
-        "Slow",
-        "Strong",
-        "Happy"
-      ],
-      "correct": 1,
-      "explanation": "The word 'slow' is an antonym of 'fast', meaning moving or able to move at a lower speed."
-    },
-    {
-      "id": 14,
-      "category": "Current Affairs",
-      "question": "The International Day of Happiness is celebrated on?",
-      "options": [
-        "March 20",
-        "March 21",
-        "March 22",
-        "March 23"
-      ],
-      "correct": 0,
-      "explanation": "The International Day of Happiness is celebrated on March 20 every year, as declared by the United Nations in 2012."
-    },
-    {
-      "id": 15,
-      "category": "General Awareness & Static GK",
-      "question": "The first president of India was?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Dr. Rajendra Prasad",
-        "Subhas Chandra Bose",
-        "Bhagat Singh"
-      ],
-      "correct": 1,
-      "explanation": "Dr. Rajendra Prasad was the first president of India, serving from January 26, 1950, to May 13, 1962."
-    },
-    {
-      "id": 16,
-      "category": "General Science",
-      "question": "What is the process by which plants convert sunlight into energy?",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition",
-        "Fermentation"
-      ],
-      "correct": 1,
-      "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen, releasing energy."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Economy",
-      "question": "The Indian economy is classified as a?",
-      "options": [
-        "Developed economy",
-        "Developing economy",
-        "Transition economy",
-        "Mixed economy"
-      ],
-      "correct": 1,
-      "explanation": "The Indian economy is classified as a developing economy, as it is still in the process of industrialization and has a large agricultural sector."
-    },
-    {
-      "id": 18,
-      "category": "Geography",
-      "question": "The largest desert in the world is?",
-      "options": [
-        "Sahara Desert",
-        "Gobi Desert",
-        "Mojave Desert",
-        "Atacama Desert"
-      ],
-      "correct": 0,
-      "explanation": "The Sahara Desert is the largest hot desert in the world, covering an area of approximately 9,200,000 square kilometers across North Africa."
-    },
-    {
-      "id": 19,
-      "category": "Reasoning & Logic",
-      "question": "A bat and a ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?",
-      "options": [
-        "$0.05",
-        "$0.10",
-        "$0.15",
-        "$0.20"
-      ],
-      "correct": 0,
-      "explanation": "Let's assume the cost of the ball is x. The bat costs $1.00 more than the ball, so the bat costs x + $1.00. The total cost is $1.10, so x + (x + $1.00) = $1.10. Solving the equation, we get 2x = $0.10, so x = $0.05."
-    },
-    {
-      "id": 20,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the idiom 'Break a leg'?",
-      "options": [
-        "To wish someone good luck",
-        "To hurt someone's leg",
-        "To stop something from happening",
-        "To start a new project"
-      ],
-      "correct": 0,
-      "explanation": "The idiom 'Break a leg' is a way of wishing someone good luck, especially before a performance or a challenging situation."
-    },
-    {
-      "id": 21,
-      "category": "Current Affairs",
-      "question": "The 2026 FIFA World Cup is scheduled to be held in?",
-      "options": [
-        "United States",
-        "Canada",
-        "Mexico",
+        "Taj Mahal",
+        "Red Fort",
+        "Qutub Minar",
         "All of the above"
       ],
       "correct": 3,
-      "explanation": "The 2026 FIFA World Cup is scheduled to be held in the United States, Canada, and Mexico, making it the first time three countries will jointly host the tournament."
+      "explanation": "All the mentioned monuments - Taj Mahal, Red Fort, and Qutub Minar - are UNESCO World Heritage Sites."
     },
     {
-      "id": 22,
-      "category": "General Awareness & Static GK",
-      "question": "The famous painting 'The Starry Night' was created by?",
+      "id": 4,
+      "category": "Books & Authors",
+      "question": "Who wrote the book 'Discovery of India'?",
       "options": [
-        "Leonardo da Vinci",
-        "Vincent van Gogh",
-        "Pablo Picasso",
-        "Claude Monet"
-      ],
-      "correct": 1,
-      "explanation": "The famous painting 'The Starry Night' was created by Vincent van Gogh in 1889, depicting the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence."
-    },
-    {
-      "id": 23,
-      "category": "General Science",
-      "question": "What is the largest living structure on Earth?",
-      "options": [
-        "The Great Barrier Reef",
-        "The Amazon Rainforest",
-        "The Grand Canyon",
-        "The Great Wall of China"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers off the coast of Australia and composed of more than 2,900 individual reefs and 900 islands."
+      "explanation": "The book 'Discovery of India' was written by Jawaharlal Nehru."
     },
     {
-      "id": 24,
-      "category": "Indian Polity & Economy",
-      "question": "The term 'Laissez-faire' refers to?",
+      "id": 5,
+      "category": "Important Days",
+      "question": "When is the World Environment Day observed?",
       "options": [
-        "A type of economic system",
-        "A type of government",
-        "A type of business",
-        "A type of policy"
+        "May 1",
+        "June 5",
+        "July 7",
+        "August 8"
+      ],
+      "correct": 1,
+      "explanation": "The World Environment Day is observed on June 5 every year."
+    },
+    {
+      "id": 6,
+      "category": "First in India/World",
+      "question": "Who was the first woman to fly an aircraft?",
+      "options": [
+        "Kalpana Chawla",
+        "Sarojini Naidu",
+        "Annie Besant",
+        "Amelia Earhart"
+      ],
+      "correct": 3,
+      "explanation": "Amelia Earhart was the first woman to fly an aircraft."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "The Battle of Panipat was fought between?",
+      "options": [
+        "Babur and Ibrahim Lodi",
+        "Akbar and Hemu",
+        "Aurangzeb and Shivaji",
+        "Ahmad Shah Abdali and Marathas"
       ],
       "correct": 0,
-      "explanation": "The term 'Laissez-faire' refers to a type of economic system where the government does not intervene in the economy, allowing the market to self-regulate."
+      "explanation": "The first Battle of Panipat was fought between Babur and Ibrahim Lodi in 1526."
     },
     {
-      "id": 25,
-      "category": "Geography",
-      "question": "The longest river in Asia is?",
+      "id": 8,
+      "category": "Culture",
+      "question": "The festival of 'Baisakhi' is mainly celebrated in which state?",
       "options": [
-        "Yangtze River",
-        "Yellow River",
-        "Mekong River",
-        "Ganges River"
+        "Punjab",
+        "Haryana",
+        "Uttar Pradesh",
+        "Bihar"
       ],
       "correct": 0,
-      "explanation": "The Yangtze River is the longest river in Asia, stretching over 6,300 kilometers from its source in the Tibetan Plateau to its mouth in the East China Sea."
+      "explanation": "Baisakhi is mainly celebrated in the state of Punjab to mark the beginning of the harvest season."
     },
     {
-      "id": 26,
-      "category": "Reasoning & Logic",
-      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet each night, how many days will it take for the snail to reach the top of the well?",
+      "id": 9,
+      "category": "Heritage",
+      "question": "The city of 'Varanasi' is situated on the banks of which river?",
       "options": [
-        "18 days",
-        "20 days",
-        "22 days",
-        "28 days"
+        "Ganga",
+        "Yamuna",
+        "Brahmaputra",
+        "Godavari"
       ],
-      "correct": 2,
-      "explanation": "The snail climbs 3 feet up the well each day, but slips back 2 feet each night, so it effectively moves 1 foot up the well each day. To reach the top of the 20-foot well, it will take the snail 18 days to climb 18 feet, and on the 19th day, it will climb the remaining 2 feet and reach the top, but since it doesn't slip back at the top, it takes 18 + 2 = 20 days in total."
+      "correct": 0,
+      "explanation": "The city of Varanasi is situated on the banks of the Ganga river."
     },
     {
-      "id": 27,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'Perspicacious'?",
+      "id": 10,
+      "category": "Books & Authors",
+      "question": "Who wrote the book 'India Wins Freedom'?",
       "options": [
-        "Having a strong and unpleasant smell",
-        "Having a keen understanding and insight",
-        "Having a lot of money",
-        "Having a big house"
+        "Abul Kalam Azad",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Maulana Azad"
       ],
-      "correct": 1,
-      "explanation": "The word 'Perspicacious' means having a keen understanding and insight, able to notice and understand things that are not immediately apparent."
+      "correct": 0,
+      "explanation": "The book 'India Wins Freedom' was written by Abul Kalam Azad."
     },
     {
-      "id": 28,
-      "category": "Current Affairs",
-      "question": "The 2026 Commonwealth Games are scheduled to be held in?",
-      "options": [
-        "Victoria, Canada",
-        "Birmingham, UK",
-        "Delhi, India",
-        "Kolkata, India"
-      ],
-      "correct": 1,
-      "explanation": "The 2026 Commonwealth Games are scheduled to be held in Birmingham, UK, from July 27 to August 7, 2026."
-    },
-    {
-      "id": 29,
-      "category": "General Awareness & Static GK",
-      "question": "The famous Indian freedom fighter 'Bhagat Singh' was born on?",
-      "options": [
-        "September 28, 1907",
-        "September 27, 1907",
-        "September 29, 1907",
-        "September 30, 1907"
-      ],
-      "correct": 1,
-      "explanation": "Bhagat Singh was born on September 27, 1907, in Banga village, Lyallpur district, Punjab, British India."
-    },
-    {
-      "id": 30,
-      "category": "General Science",
+      "id": 11,
+      "category": "Physics",
       "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor?",
       "options": [
         "Respiration",
@@ -392,397 +145,254 @@
         "Evaporation"
       ],
       "correct": 2,
-      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor, playing a crucial role in the water cycle and plant growth."
+      "explanation": "Transpiration is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapor."
     },
     {
-      "id": 31,
-      "category": "Indian Polity & Economy",
-      "question": "The term 'Fiscal Policy' refers to?",
+      "id": 12,
+      "category": "Chemistry",
+      "question": "Which of the following elements is a noble gas?",
       "options": [
-        "The use of monetary policy to control inflation",
-        "The use of government spending and taxation to control the economy",
-        "The use of interest rates to control inflation",
-        "The use of foreign policy to control trade"
-      ],
-      "correct": 1,
-      "explanation": "The term 'Fiscal Policy' refers to the use of government spending and taxation to control the economy, influencing the level of economic activity, employment, and inflation."
-    },
-    {
-      "id": 32,
-      "category": "Geography",
-      "question": "The largest island in the Mediterranean Sea is?",
-      "options": [
-        "Sicily",
-        "Sardinia",
-        "Corsica",
-        "Crete"
-      ],
-      "correct": 0,
-      "explanation": "Sicily is the largest island in the Mediterranean Sea, with an area of approximately 25,711 square kilometers, located off the southern coast of Italy."
-    },
-    {
-      "id": 33,
-      "category": "Reasoning & Logic",
-      "question": "If it takes 5 hours to drive from City A to City B at an average speed of 60 km/h, how long will it take to drive from City B to City A at an average speed of 40 km/h?",
-      "options": [
-        "5 hours",
-        "6 hours",
-        "7.5 hours",
-        "8 hours"
-      ],
-      "correct": 2,
-      "explanation": "The distance between City A and City B can be calculated as speed * time = distance, so 60 km/h * 5 h = 300 km. To drive from City B to City A at an average speed of 40 km/h, the time taken would be distance / speed = 300 km / 40 km/h = 7.5 hours."
-    },
-    {
-      "id": 34,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the phrase 'Beat around the bush'?",
-      "options": [
-        "To speak directly and clearly",
-        "To speak indirectly and avoidance",
-        "To ask someone for help",
-        "To give someone a gift"
-      ],
-      "correct": 1,
-      "explanation": "The phrase 'Beat around the bush' means to speak indirectly and avoid talking about the main point, often to avoid offense or to delay discussing an unpleasant topic."
-    },
-    {
-      "id": 35,
-      "category": "Current Affairs",
-      "question": "The 2026 Asian Games are scheduled to be held in?",
-      "options": [
-        "Hangzhou, China",
-        "Seoul, South Korea",
-        "Tokyo, Japan",
-        "New Delhi, India"
-      ],
-      "correct": 0,
-      "explanation": "The 2026 Asian Games are scheduled to be held in Hangzhou, China, from September 10 to 24, 2026."
-    },
-    {
-      "id": 36,
-      "category": "General Awareness & Static GK",
-      "question": "The first woman to fly solo across the Atlantic Ocean was?",
-      "options": [
-        "Amelia Earhart",
-        "Charles Lindbergh",
-        "Chuck Yeager",
-        "Howard Hughes"
-      ],
-      "correct": 0,
-      "explanation": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean, completing the flight on May 20-21, 1932."
-    },
-    {
-      "id": 37,
-      "category": "General Science",
-      "question": "What is the largest mammal on Earth?",
-      "options": [
-        "Blue whale",
-        "Fin whale",
-        "Humpback whale",
-        "Sperm whale"
-      ],
-      "correct": 0,
-      "explanation": "The blue whale is the largest mammal on Earth, with some individuals reaching lengths of up to 33 meters and weighing up to 180 metric tons."
-    },
-    {
-      "id": 38,
-      "category": "Indian Polity & Economy",
-      "question": "The term 'Monopoly' refers to?",
-      "options": [
-        "A market structure in which there are many buyers and sellers",
-        "A market structure in which there is only one buyer",
-        "A market structure in which there is only one seller",
-        "A market structure in which there are no buyers or sellers"
-      ],
-      "correct": 2,
-      "explanation": "The term 'Monopoly' refers to a market structure in which there is only one seller, giving that seller significant market power and the ability to influence prices."
-    },
-    {
-      "id": 39,
-      "category": "Geography",
-      "question": "The highest mountain peak in South America is?",
-      "options": [
-        "Aconcagua",
-        "Ojos del Salado",
-        "Monte Pissis",
-        "Llullaillaco"
-      ],
-      "correct": 0,
-      "explanation": "Aconcagua is the highest mountain peak in South America, located in the Andes mountain range in Argentina, with an elevation of 6,962 meters above sea level."
-    },
-    {
-      "id": 40,
-      "category": "Reasoning & Logic",
-      "question": "If a bat and a ball together cost $1.10, and the bat costs $1.00 more than the ball, what is the cost of the ball?",
-      "options": [
-        "$0.05",
-        "$0.10",
-        "$0.15",
-        "$0.20"
-      ],
-      "correct": 0,
-      "explanation": "Let's assume the cost of the ball is x. The bat costs $1.00 more than the ball, so the bat costs x + $1.00. The total cost is $1.10, so x + (x + $1.00) = $1.10. Solving the equation, we get 2x = $0.10, so x = $0.05."
-    },
-    {
-      "id": 41,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'Fastidious'?",
-      "options": [
-        "Careless and sloppy",
-        "Meticulous and demanding",
-        "Happy and cheerful",
-        "Sad and depressed"
-      ],
-      "correct": 1,
-      "explanation": "The word 'Fastidious' means meticulous and demanding in one's standards, having a strong attention to detail and being careful and precise in one's work or activities."
-    },
-    {
-      "id": 42,
-      "category": "Current Affairs",
-      "question": "The 2026 G7 Summit is scheduled to be held in?",
-      "options": [
-        "Germany",
-        "Canada",
-        "Japan",
-        "Italy"
-      ],
-      "correct": 0,
-      "explanation": "The 2026 G7 Summit is scheduled to be held in Germany, although the exact location and dates have not been officially announced yet."
-    },
-    {
-      "id": 43,
-      "category": "General Awareness & Static GK",
-      "question": "The famous Indian classical dance 'Bharatanatyam' originated in?",
-      "options": [
-        "Tamil Nadu",
-        "Kerala",
-        "Karnataka",
-        "Andhra Pradesh"
-      ],
-      "correct": 0,
-      "explanation": "Bharatanatyam is a classical dance form that originated in the state of Tamil Nadu, India, with a history dating back over 2,000 years."
-    },
-    {
-      "id": 44,
-      "category": "General Science",
-      "question": "What is the process by which an organism's genetic information is passed from one generation to the next?",
-      "options": [
-        "Mutation",
-        "Genetic drift",
-        "Gene flow",
-        "Hereditary"
+        "Carbon",
+        "Nitrogen",
+        "Oxygen",
+        "Neon"
       ],
       "correct": 3,
-      "explanation": "Hereditary refers to the process by which an organism's genetic information is passed from one generation to the next, through the transmission of genes from parents to offspring."
+      "explanation": "Neon is a noble gas, which is a group of elements that are unreactive and do not readily form compounds with other elements."
     },
     {
-      "id": 45,
-      "category": "Indian Polity & Economy",
-      "question": "The term 'Fiscal Deficit' refers to?",
+      "id": 13,
+      "category": "Biology",
+      "question": "What is the largest organ of the human body?",
       "options": [
-        "The difference between the government's revenue and expenditure",
-        "The total amount of money spent by the government",
-        "The total amount of money earned by the government",
-        "The amount of money borrowed by the government"
+        "Brain",
+        "Heart",
+        "Lungs",
+        "Skin"
+      ],
+      "correct": 3,
+      "explanation": "The skin is the largest organ of the human body, covering the entire surface of the body and performing multiple functions such as regulating body temperature and protecting the body from external damage."
+    },
+    {
+      "id": 14,
+      "category": "Physics",
+      "question": "What is the unit of measurement for force in the International System of Units (SI)?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
       ],
       "correct": 0,
-      "explanation": "The term 'Fiscal Deficit' refers to the difference between the government's revenue and expenditure, where the government's spending exceeds its revenue, resulting in a deficit that may be financed through borrowing."
+      "explanation": "The Newton is the unit of measurement for force in the International System of Units (SI), named after English physicist and mathematician Isaac Newton."
     },
     {
-      "id": 46,
-      "category": "Geography",
-      "question": "The largest city in Scandinavia is?",
+      "id": 15,
+      "category": "Chemistry",
+      "question": "What is the chemical symbol for gold?",
       "options": [
-        "Stockholm",
-        "Copenhagen",
-        "Oslo",
-        "Helsinki"
-      ],
-      "correct": 0,
-      "explanation": "Stockholm is the largest city in Scandinavia, with a population of over 950,000 people, and is the capital of Sweden."
-    },
-    {
-      "id": 47,
-      "category": "Reasoning & Logic",
-      "question": "If a snail is at the bottom of a 20-foot well, and it climbs 3 feet up the well each day, but slips back 2 feet each night, how many days will it take for the snail to reach the top of the well if it climbs 4 feet on the last day?",
-      "options": [
-        "18 days",
-        "19 days",
-        "20 days",
-        "21 days"
+        "Ag",
+        "Au",
+        "Hg",
+        "Pb"
       ],
       "correct": 1,
-      "explanation": "The snail climbs 3 feet up the well each day, but slips back 2 feet each night, so it effectively moves 1 foot up the well each day. To reach the top of the 20-foot well, it will take the snail 18 days to climb 18 feet, and on the 19th day, it will climb the remaining 2 feet and reach the top."
+      "explanation": "The chemical symbol for gold is Au, which comes from the Latin word for gold, aurum."
     },
     {
-      "id": 48,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'Ennui'?",
+      "id": 16,
+      "category": "Biology",
+      "question": "Which of the following vitamins is important for healthy vision?",
       "options": [
-        "A feeling of listlessness and boredom",
-        "A feeling of happiness and excitement",
-        "A feeling of sadness and grief",
-        "A feeling of anger and frustration"
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
       ],
       "correct": 0,
-      "explanation": "The word 'Ennui' refers to a feeling of listlessness and boredom, a lack of interest or excitement, often resulting in a sense of discontent or dissatisfaction."
+      "explanation": "Vitamin A is important for healthy vision, as it helps to regulate the health of the retina and cornea, and is also involved in the production of rhodopsin, a pigment that allows the eye to adjust to changes in light."
     },
     {
-      "id": 49,
-      "category": "Current Affairs",
-      "question": "The 2026 UEFA European Football Championship is scheduled to be held in?",
+      "id": 17,
+      "category": "Physics",
+      "question": "What is the term for the 'building blocks of matter'?",
       "options": [
-        "Germany",
-        "England",
-        "Spain",
-        "Italy"
-      ],
-      "correct": 0,
-      "explanation": "The 2026 UEFA European Football Championship is not officially scheduled yet, but the previous one was held in 2021, and the next one is expected to be held in 2028, not 2026."
-    },
-    {
-      "id": 50,
-      "category": "General Awareness & Static GK",
-      "question": "The famous Indian poet 'Rabindranath Tagore' was born on?",
-      "options": [
-        "May 7, 1861",
-        "May 6, 1861",
-        "May 8, 1861",
-        "May 9, 1861"
+        "Molecules",
+        "Atoms",
+        "Cells",
+        "Tissues"
       ],
       "correct": 1,
-      "explanation": "Rabindranath Tagore was born on May 6, 1861, in Calcutta, India, and is best known for his work 'Gitanjali', which earned him the Nobel Prize in Literature in 1913."
+      "explanation": "Atoms are the 'building blocks of matter', as they are the smallest units of a chemical element and are the basic components of all matter."
     },
     {
-      "id": 51,
-      "category": "General Science",
-      "question": "What is the process by which plants release water vapor into the air?",
+      "id": 18,
+      "category": "Chemistry",
+      "question": "What is the process by which a solid changes directly to a gas, without going through the liquid phase?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Evaporation"
+        "Melting",
+        "Boiling",
+        "Sublimation",
+        "Deposition"
       ],
       "correct": 2,
-      "explanation": "Transpiration is the process by which plants release water vapor into the air, playing a crucial role in the water cycle and plant growth."
+      "explanation": "Sublimation is the process by which a solid changes directly to a gas, without going through the liquid phase, such as the sublimation of ice to water vapor."
     },
     {
-      "id": 52,
-      "category": "Indian Polity & Economy",
-      "question": "The term 'Monetary Policy' refers to?",
+      "id": 19,
+      "category": "Biology",
+      "question": "What is the term for the movement of molecules from an area of high concentration to an area of low concentration?",
       "options": [
-        "The use of government spending and taxation to control the economy",
-        "The use of interest rates and money supply to control inflation",
-        "The use of foreign policy to control trade",
-        "The use of fiscal policy to control the economy"
+        "Osmosis",
+        "Diffusion",
+        "Active transport",
+        "Passive transport"
       ],
       "correct": 1,
-      "explanation": "The term 'Monetary Policy' refers to the use of interest rates and money supply to control inflation, stabilize the economy, and promote economic growth, typically implemented by a central bank."
+      "explanation": "Diffusion is the term for the movement of molecules from an area of high concentration to an area of low concentration, resulting in the equal distribution of molecules throughout a given space."
     },
     {
-      "id": 53,
-      "category": "Geography",
-      "question": "The largest island in the Arctic Ocean is?",
+      "id": 20,
+      "category": "Chemistry",
+      "question": "What is the chemical symbol for iron?",
       "options": [
-        "Greenland",
-        "Baffin Island",
-        "Ellesmere Island",
-        "New Siberian Islands"
+        "Fe",
+        "Pb",
+        "Hg",
+        "Ag"
       ],
       "correct": 0,
-      "explanation": "Greenland is the largest island in the Arctic Ocean, with an area of approximately 2,166,086 square kilometers, located between the Arctic and Atlantic Oceans."
+      "explanation": "The chemical symbol for iron is Fe, which comes from the Latin word for iron, ferrum."
     },
     {
-      "id": 54,
-      "category": "Reasoning & Logic",
-      "question": "If a man is looking at a photograph of someone, and his friend asks him, 'Who is in the picture?', and the man replies, 'Brothers and sisters I have none, but that man's father is my father's son.', who is in the picture?",
+      "id": 21,
+      "category": "Indian Polity",
+      "question": "What is the term for the process by which the President of India consults the Prime Minister and other Ministers in making decisions?",
       "options": [
-        "The man's son",
-        "The man's brother",
-        "The man's father",
-        "The man himself"
+        "Collective Responsibility",
+        "Cabinet Responsibility",
+        "Executive Privilege",
+        "Parliamentary Supremacy"
       ],
       "correct": 0,
-      "explanation": "The man says 'that man's father is my father's son', which means the man in the picture is the son of the speaker's son, making the man in the picture the speaker's son."
+      "explanation": "The concept of Collective Responsibility refers to the practice where the President consults the Prime Minister and other Ministers in making decisions, making them collectively responsible for the government's actions."
     },
     {
-      "id": 55,
-      "category": "English Language Concepts",
-      "question": "What is the meaning of the word 'Malleable'?",
+      "id": 22,
+      "category": "Government Institutions",
+      "question": "Which of the following is the primary function of the Comptroller and Auditor General (CAG) of India?",
       "options": [
-        "Capable of being shaped or molded",
-        "Capable of being broken or destroyed",
-        "Capable of being stretched or expanded",
-        "Capable of being compressed or contracted"
+        "To conduct audits of government finances and accounts",
+        "To advise the government on economic policy",
+        "To investigate cases of corruption",
+        "To provide legal advice to the government"
       ],
       "correct": 0,
-      "explanation": "The word 'Malleable' means capable of being shaped or molded, often used to describe materials that can be easily shaped or formed, such as metals or clay."
+      "explanation": "The primary function of the Comptroller and Auditor General (CAG) of India is to conduct audits of government finances and accounts, ensuring transparency and accountability in public expenditure."
     },
     {
-      "id": 56,
-      "category": "Current Affairs",
-      "question": "The 2026 Winter Olympics are scheduled to be held in?",
+      "id": 23,
+      "category": "Banking",
+      "question": "What is the main objective of the Reserve Bank of India's (RBI) monetary policy?",
       "options": [
-        "Milan-Cortina, Italy",
-        "Sapporo, Japan",
-        "Salt Lake City, USA",
-        "Vancouver, Canada"
+        "To promote economic growth",
+        "To control inflation",
+        "To stabilize the exchange rate",
+        "To reduce unemployment"
       ],
-      "correct": 0,
-      "explanation": "The 2026 Winter Olympics are scheduled to be held in Milan-Cortina, Italy, from February 6 to 22, 2026."
+      "correct": 1,
+      "explanation": "The main objective of the RBI's monetary policy is to control inflation, maintaining price stability and promoting economic growth."
     },
     {
-      "id": 57,
-      "category": "General Awareness & Static GK",
-      "question": "The first prime minister of India was?",
+      "id": 24,
+      "category": "Insurance",
+      "question": "Which of the following insurance schemes is aimed at providing health insurance coverage to families living below the poverty line?",
       "options": [
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Lal Bahadur Shastri"
+        "Rashtriya Swasthya Bima Yojana (RSBY)",
+        "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+        "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+        "Atal Pension Yojana (APY)"
       ],
       "correct": 0,
-      "explanation": "Jawaharlal Nehru was the first prime minister of India, serving from August 15, 1947, to May 27, 1964."
+      "explanation": "The Rashtriya Swasthya Bima Yojana (RSBY) is a government-run health insurance scheme aimed at providing health insurance coverage to families living below the poverty line."
     },
     {
-      "id": 58,
-      "category": "General Science",
-      "question": "What is the largest planet in our solar system by mass?",
+      "id": 25,
+      "category": "Budget Terminology",
+      "question": "What is the term for the difference between the government's total revenue and total expenditure?",
       "options": [
-        "Jupiter",
-        "Saturn",
-        "Uranus",
-        "Neptune"
+        "Fiscal Deficit",
+        "Revenue Deficit",
+        "Primary Deficit",
+        "Budget Surplus"
       ],
       "correct": 0,
-      "explanation": "Jupiter is the largest planet in our solar system by mass, with a mass of approximately 317.8 times that of Earth, and is the fifth planet from the Sun."
+      "explanation": "The fiscal deficit refers to the difference between the government's total revenue and total expenditure, indicating the amount of borrowing required to finance government spending."
     },
     {
-      "id": 59,
-      "category": "Indian Polity & Economy",
-      "question": "The term 'Public Sector Undertaking' (PSU) refers to?",
+      "id": 26,
+      "category": "Economic Organizations",
+      "question": "Which of the following international organizations is responsible for promoting global economic cooperation and stability?",
       "options": [
-        "A company owned and controlled by the government",
-        "A company owned and controlled by private individuals",
-        "A company owned and controlled by foreign investors",
-        "A company owned and controlled by non-profit organizations"
+        "International Monetary Fund (IMF)",
+        "World Bank",
+        "World Trade Organization (WTO)",
+        "Asian Development Bank (ADB)"
       ],
       "correct": 0,
-      "explanation": "A Public Sector Undertaking (PSU) refers to a company owned and controlled by the government, often established to provide essential goods and services, such as electricity, water, or transportation."
+      "explanation": "The International Monetary Fund (IMF) is responsible for promoting global economic cooperation and stability, providing financial assistance to countries facing economic difficulties."
     },
     {
-      "id": 60,
-      "category": "Geography",
-      "question": "The largest city in Australia is?",
+      "id": 27,
+      "category": "Indian Polity",
+      "question": "What is the term for the power of the Supreme Court to declare laws passed by the Parliament or state legislatures as unconstitutional?",
       "options": [
-        "Sydney",
-        "Melbourne",
-        "Brisbane",
-        "Perth"
+        "Judicial Review",
+        "Parliamentary Supremacy",
+        "Executive Privilege",
+        "Legislative Immunity"
       ],
       "correct": 0,
-      "explanation": "Sydney is the largest city in Australia, with a population of over 5 million people, and is the state capital of New South Wales."
+      "explanation": "The power of the Supreme Court to declare laws passed by the Parliament or state legislatures as unconstitutional is known as Judicial Review, a key aspect of the Indian Constitution."
+    },
+    {
+      "id": 28,
+      "category": "Government Institutions",
+      "question": "Which of the following is the primary function of the National Commission for Scheduled Castes (NCSC)?",
+      "options": [
+        "To investigate cases of corruption",
+        "To advise the government on economic policy",
+        "To protect the rights of Scheduled Castes",
+        "To conduct audits of government finances"
+      ],
+      "correct": 2,
+      "explanation": "The primary function of the National Commission for Scheduled Castes (NCSC) is to protect the rights of Scheduled Castes, ensuring their social and economic empowerment."
+    },
+    {
+      "id": 29,
+      "category": "Banking",
+      "question": "What is the term for the process by which commercial banks create new money by making loans to customers?",
+      "options": [
+        "Money Multiplier",
+        "Credit Creation",
+        "Monetary Policy",
+        "Fiscal Policy"
+      ],
+      "correct": 1,
+      "explanation": "The process by which commercial banks create new money by making loans to customers is known as Credit Creation, a key aspect of the banking system."
+    },
+    {
+      "id": 30,
+      "category": "Budget Terminology",
+      "question": "What is the term for the government's estimate of its revenue and expenditure for a financial year?",
+      "options": [
+        "Budget Estimates",
+        "Revised Estimates",
+        "Fiscal Policy",
+        "Monetary Policy"
+      ],
+      "correct": 0,
+      "explanation": "The government's estimate of its revenue and expenditure for a financial year is known as Budget Estimates, providing a roadmap for government spending and revenue collection."
     }
   ]
 }
