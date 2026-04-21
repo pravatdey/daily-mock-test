@@ -9,20 +9,24 @@
 const fs = require('fs');
 const path = require('path');
 
-// Multiple Gemini API keys (one per exam to spread quota)
+// 3 Gemini API keys spread across 6 exams (2 exams per key)
+const KEY1 = process.env.GEMINI_KEY_1 || process.env.GEMINI_API_KEY;
+const KEY2 = process.env.GEMINI_KEY_2 || process.env.GEMINI_API_KEY;
+const KEY3 = process.env.GEMINI_KEY_3 || process.env.GEMINI_API_KEY;
+
 const GEMINI_KEYS = {
-    upsc: process.env.GEMINI_KEY_UPSC || process.env.GEMINI_API_KEY,
-    oas: process.env.GEMINI_KEY_OAS || process.env.GEMINI_API_KEY,
-    ossc: process.env.GEMINI_KEY_OSSC || process.env.GEMINI_API_KEY,
-    cgl: process.env.GEMINI_KEY_CGL || process.env.GEMINI_API_KEY,
-    chsl: process.env.GEMINI_KEY_CHSL || process.env.GEMINI_API_KEY,
-    sgl: process.env.GEMINI_KEY_SGL || process.env.GEMINI_API_KEY,
+    upsc: KEY1,
+    oas: KEY1,
+    ossc: KEY2,
+    cgl: KEY2,
+    chsl: KEY3,
+    sgl: KEY3,
 };
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
 const hasAnyGemini = Object.values(GEMINI_KEYS).some(k => k);
 if (!hasAnyGemini && !GROQ_API_KEY) {
-    console.error('ERROR: No API keys set. Add GEMINI_KEY_* or GROQ_API_KEY to GitHub Secrets.');
+    console.error('ERROR: No API keys set. Add GEMINI_KEY_1/2/3 or GROQ_API_KEY to GitHub Secrets.');
     process.exit(1);
 }
 
