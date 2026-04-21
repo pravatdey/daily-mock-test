@@ -6,85 +6,124 @@
   "questions": [
     {
       "id": 1,
-      "category": "Ancient Indian History",
-      "question": "Which of the following ancient Indian rulers is credited with the construction of the Grand Anicut dam on the Kaveri river?",
+      "category": "Ancient History",
+      "question": "The ancient Indian university of Taxila was a major center of learning for which of the following?",
       "options": [
-        "Karikala Chola",
-        "Ashoka the Great",
-        "Kanishka the Great",
-        "Harsha Vardhana"
+        "Buddhism and Jainism",
+        "Hinduism and Buddhism",
+        "Vedic Hinduism",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The Grand Anicut, also known as the Kallanai, is one of the oldest water diversion structures in the world and is attributed to the Chola king Karikala."
+      "correct": 3,
+      "explanation": "The ancient Indian university of Taxila was a major center of learning for various subjects including Buddhism and Hinduism."
     },
     {
       "id": 2,
-      "category": "Medieval Indian History",
-      "question": "The Vijayanagara Empire was founded by",
+      "category": "Medieval History",
+      "question": "Who was the founder of the Bahmani Kingdom in the Deccan region of India?",
       "options": [
-        "Harihara and Bukka Raya",
-        "Krishna Deva Raya and Achyuta Raya",
-        "Kakatiya Rudra and Recharla Rudra",
-        "Gajapati Kapilesvara and Prataparudra"
+        "Alauddin Hasan Bahman Shah",
+        "Muhammad bin Tughlaq",
+        "Firoz Shah Tughlaq",
+        "Timur"
       ],
       "correct": 0,
-      "explanation": "Harihara and Bukka Raya, brothers from the Sangama dynasty, are credited with the founding of the Vijayanagara Empire in the 14th century."
+      "explanation": "Alauddin Hasan Bahman Shah was the founder of the Bahmani Kingdom in 1347."
     },
     {
       "id": 3,
-      "category": "Modern Indian History",
-      "question": "The Regulating Act of 1773 was enacted to",
+      "category": "Freedom Struggle",
+      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in the year",
       "options": [
-        "Establish the Supreme Court in Calcutta",
-        "Create a council to oversee the East India Company's activities",
-        "Implement the Permanent Settlement of Bengal",
-        "Establish British parliamentary control over the East India Company"
+        "1918",
+        "1920",
+        "1922",
+        "1925"
       ],
       "correct": 1,
-      "explanation": "The Regulating Act of 1773 aimed to regulate the affairs of the East India Company by creating a council to oversee its activities and establishing British parliamentary control over it."
+      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920."
     },
     {
       "id": 4,
-      "category": "Freedom Struggle",
-      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in",
+      "category": "Ancient History",
+      "question": "The Indus Valley Civilization is known for its sophisticated",
       "options": [
-        "1920",
-        "1922",
-        "1925",
-        "1930"
+        "Agricultural practices",
+        "Urban planning and architecture",
+        "Trade networks",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The Non-Cooperation Movement, a key component of the Indian independence movement, was launched by Mahatma Gandhi in 1920."
+      "correct": 3,
+      "explanation": "The Indus Valley Civilization is known for its sophisticated urban planning and architecture, agricultural practices, and trade networks."
     },
     {
       "id": 5,
-      "category": "Ancient Indian History",
-      "question": "The ancient Indian university of Taxila was located in the kingdom of",
+      "category": "Medieval History",
+      "question": "The Vijayanagara Empire was founded by",
       "options": [
-        "Gandhara",
-        "Magadha",
-        "Kosala",
-        "Vatsa"
+        "Harihara and Bukka Raya",
+        "Krishna Deva Raya",
+        "Aurangzeb",
+        "Shivaji"
       ],
       "correct": 0,
-      "explanation": "Taxila, an ancient Indian university and center of learning, was situated in the kingdom of Gandhara, which is now in modern-day Pakistan."
+      "explanation": "The Vijayanagara Empire was founded by Harihara and Bukka Raya in 1336."
     },
     {
       "id": 6,
-      "category": "Medieval Indian History",
-      "question": "The Bahmani Sultanate was founded by",
+      "category": "Modern History",
+      "question": "The Permanent Settlement of 1793 was introduced by",
       "options": [
-        "Alauddin Bahman Shah",
-        "Mahmud Gawan",
-        "Firuz Shah Bahmani",
-        "Muhammad Shah II"
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "Lord Dalhousie",
+        "Lord Curzon"
       ],
       "correct": 0,
-      "explanation": "Alauddin Bahman Shah, also known as Hasan Gangu, founded the Bahmani Sultanate in the 14th century, marking the beginning of a new era in Deccan history."
+      "explanation": "The Permanent Settlement of 1793 was introduced by Lord Cornwallis."
     },
     {
       "id": 7,
-      "category": "Modern Indian History",
+      "category": "Freedom Struggle",
+      "question": "The Quit India Movement was launched by Mahatma Gandhi in",
+      "options": [
+        "1942",
+        "1945",
+        "1947",
+        "1950"
+      ],
+      "correct": 0,
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi on August 8, 1942."
+    },
+    {
+      "id": 8,
+      "category": "Ancient History",
+      "question": "The ancient Indian text, the Arthashastra, was written by",
+      "options": [
+        "Kautilya",
+        "Manu",
+        "Panini",
+        "Charaka"
+      ],
+      "correct": 0,
+      "explanation": "The ancient Indian text, the Arthashastra, was written by Kautilya."
+    },
+    {
+      "id": 9,
+      "category": "Medieval History",
+      "question": "The Sufi saint, Khwaja Moinuddin Chishti, was a contemporary of",
+      "options": [
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Babur",
+        "Akbar"
+      ],
+      "correct": 0,
+      "explanation": "The Sufi saint, Khwaja Moinuddin Chishti, was a contemporary of Qutb-ud-din Aibak."
+    },
+    {
+      "id": 10,
+      "category": "Modern History",
       "question": "The Indian National Congress was founded in",
       "options": [
         "1884",
@@ -93,77 +132,64 @@
         "1887"
       ],
       "correct": 1,
-      "explanation": "The Indian National Congress was founded on December 28, 1885, by A.O. Hume, with the aim of promoting Indian rights and self-governance."
-    },
-    {
-      "id": 8,
-      "category": "Freedom Struggle",
-      "question": "The Quit India Movement was launched by Mahatma Gandhi in",
-      "options": [
-        "1942",
-        "1945",
-        "1946",
-        "1947"
-      ],
-      "correct": 0,
-      "explanation": "The Quit India Movement, also known as the August Movement, was launched by Mahatma Gandhi on August 8, 1942, with the slogan 'Do or Die'."
-    },
-    {
-      "id": 9,
-      "category": "Medieval Indian History",
-      "question": "The ruler who built the Buland Darwaza at Fatehpur Sikri was",
-      "options": [
-        "Akbar the Great",
-        "Jahangir",
-        "Shah Jahan",
-        "Aurangzeb"
-      ],
-      "correct": 0,
-      "explanation": "The Buland Darwaza, a magnificent gateway at Fatehpur Sikri, was built by Akbar the Great to commemorate his victory over Gujarat."
-    },
-    {
-      "id": 10,
-      "category": "Ancient Indian History",
-      "question": "The ancient Indian text 'Arthashastra' was written by",
-      "options": [
-        "Kautilya",
-        "Manu",
-        "Charaka",
-        "Nagarjuna"
-      ],
-      "correct": 0,
-      "explanation": "The 'Arthashastra', an ancient Indian treatise on statecraft, economy, and politics, is attributed to Kautilya, also known as Chanakya, who was a key advisor to Chandragupta Maurya."
+      "explanation": "The Indian National Congress was founded in 1885."
     },
     {
       "id": 11,
       "category": "Indian Geography",
-      "question": "Which of the following mountain ranges runs along the border between India and Myanmar?",
+      "question": "What is the largest delta in India?",
       "options": [
-        "The Purvanchal",
-        "The Eastern Ghats",
-        "The Western Ghats",
-        "The Aravali Range"
+        "Sundarbans",
+        "Ganges-Brahmaputra",
+        "Godavari",
+        "Kaveri"
       ],
-      "correct": 0,
-      "explanation": "The Purvanchal mountain range is located in the eastern part of India and runs along the border between India and Myanmar."
+      "correct": 1,
+      "explanation": "The Ganges-Brahmaputra delta is the largest delta in India and one of the largest in the world."
     },
     {
       "id": 12,
-      "category": "Indian Climate",
-      "question": "What is the primary cause of the southwest monsoon in India?",
+      "category": "Physical Geography",
+      "question": "Which mountain range runs along the border between India and Myanmar?",
       "options": [
-        "Temperature difference between land and sea",
-        "Pressure difference between land and sea",
-        "Altitude difference between the Himalayas and the plains",
-        "Latitude difference between the equator and the tropics"
+        "Purvanchal",
+        "Himalayas",
+        "Aravallis",
+        "Satpura"
       ],
       "correct": 0,
-      "explanation": "The primary cause of the southwest monsoon in India is the temperature difference between the land and the sea, which leads to a pressure gradient and the flow of moist air from the sea to the land."
+      "explanation": "The Purvanchal range runs along the border between India and Myanmar."
     },
     {
       "id": 13,
-      "category": "Indian Rivers",
-      "question": "Which of the following rivers is known as the 'Ganga of the South'?",
+      "category": "Economic Geography",
+      "question": "Which of the following is the largest iron ore producing state in India?",
+      "options": [
+        "Odisha",
+        "Jharkhand",
+        "Chhattisgarh",
+        "Madhya Pradesh"
+      ],
+      "correct": 0,
+      "explanation": "Odisha is the largest iron ore producing state in India."
+    },
+    {
+      "id": 14,
+      "category": "Climate",
+      "question": "What is the name of the cyclone that affected India in 2020, particularly the states of West Bengal and Odisha?",
+      "options": [
+        "Amphan",
+        "Nisarga",
+        "Gati",
+        "Nivar"
+      ],
+      "correct": 0,
+      "explanation": "Cyclone Amphan affected India in 2020, particularly the states of West Bengal and Odisha."
+    },
+    {
+      "id": 15,
+      "category": "Rivers",
+      "question": "Which river is known as the 'Ganga of the South'?",
       "options": [
         "Godavari",
         "Krishna",
@@ -171,116 +197,90 @@
         "Tapti"
       ],
       "correct": 0,
-      "explanation": "The Godavari river is known as the 'Ganga of the South' due to its cultural and geographical significance in southern India."
-    },
-    {
-      "id": 14,
-      "category": "Indian Geography",
-      "question": "What is the largest delta in India?",
-      "options": [
-        "Ganges-Brahmaputra delta",
-        "Godavari-Krishna delta",
-        "Mahanadi delta",
-        "Kaveri delta"
-      ],
-      "correct": 0,
-      "explanation": "The Ganges-Brahmaputra delta is the largest delta in India, covering an area of approximately 100,000 square kilometers."
-    },
-    {
-      "id": 15,
-      "category": "Indian Economic Geography",
-      "question": "Which of the following states is the largest producer of iron ore in India?",
-      "options": [
-        "Odisha",
-        "Jharkhand",
-        "Chhattisgarh",
-        "Goa"
-      ],
-      "correct": 0,
-      "explanation": "Odisha is the largest producer of iron ore in India, accounting for over 50% of the country's total iron ore production."
+      "explanation": "The Godavari river is known as the 'Ganga of the South'."
     },
     {
       "id": 16,
-      "category": "Indian Geography",
-      "question": "What is the highest peak in the Eastern Ghats?",
+      "category": "Resources",
+      "question": "Which state in India is the largest producer of manganese?",
       "options": [
-        "Mahendragiri",
-        "Arma Konda",
-        "Gali Konda",
-        "Simhachalam"
+        "Odisha",
+        "Jharkhand",
+        "Madhya Pradesh",
+        "Maharashtra"
       ],
       "correct": 0,
-      "explanation": "Mahendragiri is the highest peak in the Eastern Ghats, with an elevation of 1,501 meters above sea level."
+      "explanation": "Odisha is the largest producer of manganese in India."
     },
     {
       "id": 17,
-      "category": "Indian Climate",
-      "question": "Which of the following types of climate is characterized by high temperatures and low humidity?",
+      "category": "Physical Geography",
+      "question": "What is the name of the strait that separates the islands of Little Andaman and Great Nicobar?",
       "options": [
-        "Tropical wet climate",
-        "Tropical dry climate",
-        "Temperate climate",
-        "Alpine climate"
+        "Duncan Passage",
+        "Ten Degree Channel",
+        "Coco Channel",
+        "Sommers Passage"
       ],
       "correct": 1,
-      "explanation": "The tropical dry climate is characterized by high temperatures and low humidity, and is commonly found in the northwestern parts of India."
+      "explanation": "The Ten Degree Channel separates the islands of Little Andaman and Great Nicobar."
     },
     {
       "id": 18,
-      "category": "Indian Rivers",
-      "question": "Which of the following rivers flows through the states of Madhya Pradesh, Gujarat, and Rajasthan?",
+      "category": "Economic Geography",
+      "question": "Which of the following ports is the largest container handling port in India?",
+      "options": [
+        "Jawaharlal Nehru Port",
+        "Mumbai Port",
+        "Chennai Port",
+        "Vizag Port"
+      ],
+      "correct": 0,
+      "explanation": "Jawaharlal Nehru Port is the largest container handling port in India."
+    },
+    {
+      "id": 19,
+      "category": "Climate",
+      "question": "Which of the following types of winds brings rainfall to the west coast of India during the summer months?",
+      "options": [
+        "Southwest monsoon",
+        "Northeast monsoon",
+        "Trade winds",
+        "Westerlies"
+      ],
+      "correct": 0,
+      "explanation": "The southwest monsoon winds bring rainfall to the west coast of India during the summer months."
+    },
+    {
+      "id": 20,
+      "category": "Rivers",
+      "question": "Which river flows through the states of Madhya Pradesh, Gujarat, and Rajasthan before emptying into the Arabian Sea?",
       "options": [
         "Narmada",
         "Tapti",
         "Mahanadi",
-        "Chambal"
+        "Sabarmati"
       ],
       "correct": 0,
-      "explanation": "The Narmada river flows through the states of Madhya Pradesh, Gujarat, and Rajasthan, and is one of the major rivers in western India."
-    },
-    {
-      "id": 19,
-      "category": "Indian Geography",
-      "question": "What is the largest island in the Gulf of Mannar?",
-      "options": [
-        "Sriharikota",
-        "Rameswaram",
-        "Little Andaman",
-        "RamSetu"
-      ],
-      "correct": 1,
-      "explanation": "Rameswaram island is the largest island in the Gulf of Mannar, located off the coast of Tamil Nadu."
-    },
-    {
-      "id": 20,
-      "category": "Indian Economic Geography",
-      "question": "Which of the following states is the largest producer of coal in India?",
-      "options": [
-        "Jharkhand",
-        "Chhattisgarh",
-        "Odisha",
-        "West Bengal"
-      ],
-      "correct": 0,
-      "explanation": "Jharkhand is the largest producer of coal in India, accounting for over 25% of the country's total coal production."
+      "explanation": "The Narmada river flows through the states of Madhya Pradesh, Gujarat, and Rajasthan before emptying into the Arabian Sea."
     },
     {
       "id": 21,
       "category": "Indian Polity & Governance",
-      "question": "What is the primary function of the Rajya Sabha?",
+      "question": "What is the primary function of the Election Commission of India?",
       "options": [
-        "To represent the interests of the states",
-        "To represent the interests of the people",
-        "To advise the President",
-        "To exercise judicial review"
+        "To conduct elections to the Parliament and State Legislatures",
+        "To oversee the judicial appointments in India",
+        "To advise the President on matters of national importance",
+        "To investigate cases of human rights violations"
       ],
       "correct": 0,
-      "explanation": "The Rajya Sabha is the Council of States, which represents the interests of the states in the Indian Parliament."
+      "explanation": "The Election Commission of India is responsible for conducting free and fair elections to the Parliament and State Legislatures."
     },
     {
       "id": 22,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of speech and expression?",
+      "question": "Which article of the Indian Constitution provides for the Right to Freedom of Speech and Expression?",
       "options": [
         "Article 14",
         "Article 19",
@@ -288,111 +288,111 @@
         "Article 25"
       ],
       "correct": 1,
-      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression to all citizens."
+      "explanation": "Article 19 of the Indian Constitution provides for the Right to Freedom of Speech and Expression."
     },
     {
       "id": 23,
       "category": "Indian Polity & Governance",
-      "question": "What is the term of office of the Chairman of the Finance Commission?",
+      "question": "What is the term of office for a member of the Rajya Sabha?",
       "options": [
-        "3 years",
-        "4 years",
         "5 years",
-        "Variable term"
+        "6 years",
+        "7 years",
+        "10 years"
       ],
-      "correct": 2,
-      "explanation": "The Chairman and members of the Finance Commission hold office for a period of 5 years."
+      "correct": 1,
+      "explanation": "The term of office for a member of the Rajya Sabha is 6 years."
     },
     {
       "id": 24,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is NOT a fundamental right?",
+      "question": "Who is the head of the Panchayati Raj system at the district level?",
       "options": [
-        "Right to property",
-        "Right to education",
-        "Right to freedom of speech and expression",
-        "Right to life and personal liberty"
+        "District Collector",
+        "District Magistrate",
+        "Zila Parishad Chairman",
+        "Block Development Officer"
       ],
-      "correct": 0,
-      "explanation": "The right to property was removed as a fundamental right by the 44th Amendment to the Constitution in 1978."
+      "correct": 2,
+      "explanation": "The Zila Parishad Chairman is the head of the Panchayati Raj system at the district level."
     },
     {
       "id": 25,
       "category": "Indian Polity & Governance",
-      "question": "What is the purpose of the 73rd Amendment to the Indian Constitution?",
+      "question": "Which of the following is NOT a Fundamental Right guaranteed by the Indian Constitution?",
       "options": [
-        "To empower local self-government",
-        "To establish a federal system",
-        "To provide for a national emergency",
-        "To amend the provisions related to the President"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Property",
+        "Right to Information"
       ],
-      "correct": 0,
-      "explanation": "The 73rd Amendment to the Constitution gave constitutional status to the Panchayati Raj institutions, empowering local self-government."
+      "correct": 2,
+      "explanation": "Right to Property is not a Fundamental Right guaranteed by the Indian Constitution, although it is a Constitutional right under Article 300A."
     },
     {
       "id": 26,
       "category": "Indian Polity & Governance",
-      "question": "Who is the head of the Indian Judiciary?",
+      "question": "What is the minimum age for a person to be eligible to contest elections to the Lok Sabha?",
       "options": [
-        "President of India",
-        "Prime Minister of India",
-        "Chief Justice of India",
-        "Law Minister of India"
+        "21 years",
+        "25 years",
+        "30 years",
+        "35 years"
       ],
-      "correct": 2,
-      "explanation": "The Chief Justice of India is the head of the Indian Judiciary and presides over the Supreme Court."
+      "correct": 1,
+      "explanation": "The minimum age for a person to be eligible to contest elections to the Lok Sabha is 25 years."
     },
     {
       "id": 27,
       "category": "Indian Polity & Governance",
-      "question": "What is the minimum number of members required for a valid sitting of the Lok Sabha?",
+      "question": "Who is the final interpreter of the Indian Constitution?",
       "options": [
-        "1/10th of the total membership",
-        "1/5th of the total membership",
-        "1/4th of the total membership",
-        "Quorum not specified"
+        "The President of India",
+        "The Prime Minister of India",
+        "The Supreme Court of India",
+        "The Parliament of India"
       ],
-      "correct": 0,
-      "explanation": "At least 1/10th of the total membership of the Lok Sabha must be present for a valid sitting."
+      "correct": 2,
+      "explanation": "The Supreme Court of India is the final interpreter of the Indian Constitution."
     },
     {
       "id": 28,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the provisions for the impeachment of the President?",
+      "question": "Which article of the Indian Constitution deals with the provisions related to the impeachment of the President?",
       "options": [
-        "Article 52",
-        "Article 53",
-        "Article 54",
-        "Article 61"
+        "Article 56",
+        "Article 61",
+        "Article 368",
+        "Article 124"
       ],
-      "correct": 3,
-      "explanation": "Article 61 of the Indian Constitution deals with the procedure for the impeachment of the President."
+      "correct": 1,
+      "explanation": "Article 61 of the Indian Constitution deals with the provisions related to the impeachment of the President."
     },
     {
       "id": 29,
       "category": "Indian Polity & Governance",
-      "question": "What is the purpose of the Public Accounts Committee?",
+      "question": "What is the purpose of the 73rd and 74th Constitutional Amendments?",
       "options": [
-        "To examine the government's expenditure",
-        "To scrutinize the government's policies",
-        "To investigate allegations of corruption",
-        "To advise the government on financial matters"
+        "To establish a federal system of government",
+        "To strengthen the Panchayati Raj system",
+        "To promote the development of urban areas",
+        "To increase the number of seats in the Parliament"
       ],
-      "correct": 0,
-      "explanation": "The Public Accounts Committee examines the government's expenditure and ensures that public funds are utilized efficiently."
+      "correct": 1,
+      "explanation": "The 73rd and 74th Constitutional Amendments aim to strengthen the Panchayati Raj system and urban local bodies respectively."
     },
     {
       "id": 30,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a feature of the Indian parliamentary system?",
+      "question": "Which of the following is a feature of the Indian federal system?",
       "options": [
-        "Separation of powers",
-        "Collective responsibility of the Cabinet",
-        "Independent judiciary",
-        "All of the above"
+        "A single, unified judiciary",
+        "A dual system of government with a clear separation of powers",
+        "A system of government where the central government has absolute power",
+        "A system of government where the states have no autonomy"
       ],
-      "correct": 1,
-      "explanation": "The Indian parliamentary system is based on the principle of collective responsibility, where the Cabinet is collectively responsible to the Lok Sabha."
+      "correct": 0,
+      "explanation": "India has a single, unified judiciary which is a feature of the Indian federal system."
     }
   ]
 }
