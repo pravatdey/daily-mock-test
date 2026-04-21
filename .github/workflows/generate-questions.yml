@@ -24,6 +24,12 @@ jobs:
       - name: Generate daily questions for all exams
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_KEY_UPSC: ${{ secrets.GEMINI_KEY_UPSC }}
+          GEMINI_KEY_OAS: ${{ secrets.GEMINI_KEY_OAS }}
+          GEMINI_KEY_OSSC: ${{ secrets.GEMINI_KEY_OSSC }}
+          GEMINI_KEY_CGL: ${{ secrets.GEMINI_KEY_CGL }}
+          GEMINI_KEY_CHSL: ${{ secrets.GEMINI_KEY_CHSL }}
+          GEMINI_KEY_SGL: ${{ secrets.GEMINI_KEY_SGL }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: node scripts/generate-questions.js
 

@@ -9,11 +9,20 @@
 const fs = require('fs');
 const path = require('path');
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+// Multiple Gemini API keys (one per exam to spread quota)
+const GEMINI_KEYS = {
+    upsc: process.env.GEMINI_KEY_UPSC || process.env.GEMINI_API_KEY,
+    oas: process.env.GEMINI_KEY_OAS || process.env.GEMINI_API_KEY,
+    ossc: process.env.GEMINI_KEY_OSSC || process.env.GEMINI_API_KEY,
+    cgl: process.env.GEMINI_KEY_CGL || process.env.GEMINI_API_KEY,
+    chsl: process.env.GEMINI_KEY_CHSL || process.env.GEMINI_API_KEY,
+    sgl: process.env.GEMINI_KEY_SGL || process.env.GEMINI_API_KEY,
+};
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
-if (!GEMINI_API_KEY && !GROQ_API_KEY) {
-    console.error('ERROR: No API keys set. Add GEMINI_API_KEY or GROQ_API_KEY to GitHub Secrets.');
+const hasAnyGemini = Object.values(GEMINI_KEYS).some(k => k);
+if (!hasAnyGemini && !GROQ_API_KEY) {
+    console.error('ERROR: No API keys set. Add GEMINI_KEY_* or GROQ_API_KEY to GitHub Secrets.');
     process.exit(1);
 }
 
@@ -168,8 +177,8 @@ function parseQuestions(textContent, examConfig) {
 }
 
 // ===== Gemini API Call =====
-async function callGemini(fullPrompt, examConfig) {
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`;
+async function callGemini(fullPrompt, examConfig, apiKey) {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
     const response = await fetch(url, {
         method: 'POST',
@@ -209,7 +218,7 @@ async function callGroqBatch(batchPrompt, batchSize) {
             'Authorization': `Bearer ${GROQ_API_KEY}`
         },
         body: JSON.stringify({
-            model: 'llama-3.1-8b-instant',
+            model: 'llama-3.3-70b-versatile',
             messages: [
                 {
                     role: 'system',
@@ -263,31 +272,34 @@ async function callGroqBatch(batchPrompt, batchSize) {
 }
 
 async function callGroq(examConfig, dateStr) {
-    const batchSize = 20;
+    const batchSize = 10;
     const totalQuestions = examConfig.questionCount;
     const batches = Math.ceil(totalQuestions / batchSize);
     let allQuestions = [];
+
+    // Extract topic names from the prompt
+    const topics = examConfig.prompt.split('\n').filter(l => l.trim().startsWith('-')).map(l => l.replace(/^- /, '').replace(/ - \d+ questions/, '').trim());
 
     for (let batch = 0; batch < batches; batch++) {
         const remaining = totalQuestions - allQuestions.length;
         const count = Math.min(batchSize, remaining);
         const batchNum = batch + 1;
+        const topic = topics[batch % topics.length] || 'General Knowledge';
 
-        // Shorter prompt for Groq to stay under token limits
-        const batchPrompt = `Generate ${count} unique MCQ questions for ${examConfig.name} exam.
-Topics: ${examConfig.prompt.split('\n').filter(l => l.startsWith('-')).map(l => l.replace(/- /,'').replace(/ - \d+ questions/,'')).join(', ')}
-Date seed: ${dateStr}-batch${batchNum}
+        // Short prompt to stay under 12K TPM
+        const batchPrompt = `Generate ${count} unique MCQ for ${examConfig.name} exam. Topic focus: ${topic}. Date seed: ${dateStr}-b${batchNum}
 
-Return JSON: {"questions": [{"id":1,"category":"Topic","question":"Q?","options":["A","B","C","D"],"correct":0,"explanation":"Why"}]}
-"correct" = 0-based index (0=A,1=B,2=C,3=D). Generate EXACTLY ${count} questions.`;
+Return JSON: {"questions":[{"id":1,"category":"Topic","question":"Q?","options":["A","B","C","D"],"correct":0,"explanation":"Why"}]}
+"correct" = 0-based index (0=A,1=B,2=C,3=D). EXACTLY ${count} questions.`;
 
-        console.log(`    Groq batch ${batchNum}/${batches} (${count} questions)...`);
+        console.log(`    Groq batch ${batchNum}/${batches} (${count}q)...`);
         const batchQuestions = await callGroqBatch(batchPrompt, count);
         allQuestions = allQuestions.concat(batchQuestions);
 
-        // Wait between batches to avoid rate limits
+        // Wait 62s between batches to reset TPM window (Groq resets per minute)
         if (batch < batches - 1) {
-            await new Promise(resolve => setTimeout(resolve, 15000));
+            console.log(`    ⏳ Waiting 62s for rate limit reset...`);
+            await new Promise(resolve => setTimeout(resolve, 62000));
         }
     }
 
@@ -305,10 +317,11 @@ Return JSON: {"questions": [{"id":1,"category":"Topic","question":"Q?","options"
 async function generateQuestions(examKey, examConfig, dateStr) {
     const fullPrompt = buildPrompt(examConfig, dateStr);
 
-    // Try Gemini first
-    if (GEMINI_API_KEY) {
+    // Try Gemini first (with per-exam API key)
+    const geminiKey = GEMINI_KEYS[examKey];
+    if (geminiKey) {
         try {
-            const questions = await callGemini(fullPrompt, examConfig);
+            const questions = await callGemini(fullPrompt, examConfig, geminiKey);
             console.log(`  ✓ ${examConfig.name}: ${questions.length} questions (Gemini)`);
             return questions;
         } catch (error) {
@@ -344,7 +357,8 @@ async function main() {
 
     console.log(`\n=== Daily Question Generator ===`);
     console.log(`Date: ${dateStr}`);
-    console.log(`APIs: ${GEMINI_API_KEY ? 'Gemini ✓' : 'Gemini ✗'} | ${GROQ_API_KEY ? 'Groq ✓' : 'Groq ✗'}`);
+    const geminiCount = Object.values(GEMINI_KEYS).filter(k => k).length;
+    console.log(`APIs: Gemini keys: ${geminiCount}/6 | ${GROQ_API_KEY ? 'Groq ✓' : 'Groq ✗'}`);
     console.log(`Exams: ${Object.keys(EXAMS).join(', ')}\n`);
 
     let successCount = 0;
