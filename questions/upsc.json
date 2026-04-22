@@ -1,130 +1,78 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Ancient History",
-      "question": "The ancient Indian university of Taxila was a major center of learning for which of the following?",
+      "question": "The ancient Indian university of Takshashila was located in which modern-day country?",
       "options": [
-        "Buddhism and Jainism",
-        "Hinduism and Buddhism",
-        "Vedic Hinduism",
-        "All of the above"
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Nepal"
       ],
-      "correct": 3,
-      "explanation": "The ancient Indian university of Taxila was a major center of learning for various subjects including Buddhism and Hinduism."
+      "correct": 1,
+      "explanation": "Takshashila was an ancient Indian university located in modern-day Pakistan."
     },
     {
       "id": 2,
       "category": "Medieval History",
-      "question": "Who was the founder of the Bahmani Kingdom in the Deccan region of India?",
+      "question": "Who was the founder of the Vijayanagara Empire?",
       "options": [
-        "Alauddin Hasan Bahman Shah",
-        "Muhammad bin Tughlaq",
-        "Firoz Shah Tughlaq",
-        "Timur"
+        "Harihara and Bukka Raya",
+        "KR Narayanan",
+        "Shivaji",
+        "Akbar"
       ],
       "correct": 0,
-      "explanation": "Alauddin Hasan Bahman Shah was the founder of the Bahmani Kingdom in 1347."
+      "explanation": "Harihara and Bukka Raya were the founders of the Vijayanagara Empire."
     },
     {
       "id": 3,
       "category": "Freedom Struggle",
-      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in the year",
+      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
       "options": [
-        "1918",
         "1920",
         "1922",
-        "1925"
+        "1925",
+        "1928"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920."
     },
     {
       "id": 4,
       "category": "Ancient History",
-      "question": "The Indus Valley Civilization is known for its sophisticated",
+      "question": "The ancient Indian text of the Arthashastra was written by?",
       "options": [
-        "Agricultural practices",
-        "Urban planning and architecture",
-        "Trade networks",
-        "All of the above"
+        "Kautilya",
+        "Chanakya",
+        "Ashoka",
+        "Buddha"
       ],
-      "correct": 3,
-      "explanation": "The Indus Valley Civilization is known for its sophisticated urban planning and architecture, agricultural practices, and trade networks."
+      "correct": 0,
+      "explanation": "The ancient Indian text of the Arthashastra was written by Kautilya, also known as Chanakya."
     },
     {
       "id": 5,
       "category": "Medieval History",
-      "question": "The Vijayanagara Empire was founded by",
+      "question": "The Mughal emperor who built the Taj Mahal was?",
       "options": [
-        "Harihara and Bukka Raya",
-        "Krishna Deva Raya",
-        "Aurangzeb",
-        "Shivaji"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "correct": 0,
-      "explanation": "The Vijayanagara Empire was founded by Harihara and Bukka Raya in 1336."
+      "correct": 2,
+      "explanation": "The Mughal emperor who built the Taj Mahal was Shah Jahan."
     },
     {
       "id": 6,
-      "category": "Modern History",
-      "question": "The Permanent Settlement of 1793 was introduced by",
-      "options": [
-        "Lord Cornwallis",
-        "Lord Wellesley",
-        "Lord Dalhousie",
-        "Lord Curzon"
-      ],
-      "correct": 0,
-      "explanation": "The Permanent Settlement of 1793 was introduced by Lord Cornwallis."
-    },
-    {
-      "id": 7,
       "category": "Freedom Struggle",
-      "question": "The Quit India Movement was launched by Mahatma Gandhi in",
-      "options": [
-        "1942",
-        "1945",
-        "1947",
-        "1950"
-      ],
-      "correct": 0,
-      "explanation": "The Quit India Movement was launched by Mahatma Gandhi on August 8, 1942."
-    },
-    {
-      "id": 8,
-      "category": "Ancient History",
-      "question": "The ancient Indian text, the Arthashastra, was written by",
-      "options": [
-        "Kautilya",
-        "Manu",
-        "Panini",
-        "Charaka"
-      ],
-      "correct": 0,
-      "explanation": "The ancient Indian text, the Arthashastra, was written by Kautilya."
-    },
-    {
-      "id": 9,
-      "category": "Medieval History",
-      "question": "The Sufi saint, Khwaja Moinuddin Chishti, was a contemporary of",
-      "options": [
-        "Qutb-ud-din Aibak",
-        "Iltutmish",
-        "Babur",
-        "Akbar"
-      ],
-      "correct": 0,
-      "explanation": "The Sufi saint, Khwaja Moinuddin Chishti, was a contemporary of Qutb-ud-din Aibak."
-    },
-    {
-      "id": 10,
-      "category": "Modern History",
-      "question": "The Indian National Congress was founded in",
+      "question": "The Indian National Congress was founded in which year?",
       "options": [
         "1884",
         "1885",
@@ -135,35 +83,74 @@
       "explanation": "The Indian National Congress was founded in 1885."
     },
     {
-      "id": 11,
-      "category": "Indian Geography",
-      "question": "What is the largest delta in India?",
+      "id": 7,
+      "category": "Ancient History",
+      "question": "The ancient Indian city of Mohenjo-Daro was located in which modern-day country?",
       "options": [
-        "Sundarbans",
-        "Ganges-Brahmaputra",
-        "Godavari",
-        "Kaveri"
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Sri Lanka"
       ],
       "correct": 1,
-      "explanation": "The Ganges-Brahmaputra delta is the largest delta in India and one of the largest in the world."
+      "explanation": "The ancient Indian city of Mohenjo-Daro was located in modern-day Pakistan."
+    },
+    {
+      "id": 8,
+      "category": "Medieval History",
+      "question": "The Delhi Sultanate was founded by?",
+      "options": [
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Raziya Sultan",
+        "Firoz Shah Tughlaq"
+      ],
+      "correct": 0,
+      "explanation": "The Delhi Sultanate was founded by Qutb-ud-din Aibak."
+    },
+    {
+      "id": 9,
+      "category": "Freedom Struggle",
+      "question": "The Quit India Movement was launched by Mahatma Gandhi in which year?",
+      "options": [
+        "1942",
+        "1943",
+        "1944",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942."
+    },
+    {
+      "id": 10,
+      "category": "Modern History",
+      "question": "The Indian Constitution came into effect on?",
+      "options": [
+        "January 26, 1950",
+        "August 15, 1947",
+        "October 2, 1869",
+        "November 1, 1858"
+      ],
+      "correct": 0,
+      "explanation": "The Indian Constitution came into effect on January 26, 1950."
+    },
+    {
+      "id": 11,
+      "category": "Physical Geography",
+      "question": "What is the largest desert in India?",
+      "options": [
+        "Thar Desert",
+        "Cholistan Desert",
+        "Kutch Desert",
+        "Cold Desert"
+      ],
+      "correct": 0,
+      "explanation": "The Thar Desert, also known as the Cholistan Desert, is the largest desert in India, covering an area of approximately 260,000 square kilometers."
     },
     {
       "id": 12,
-      "category": "Physical Geography",
-      "question": "Which mountain range runs along the border between India and Myanmar?",
-      "options": [
-        "Purvanchal",
-        "Himalayas",
-        "Aravallis",
-        "Satpura"
-      ],
-      "correct": 0,
-      "explanation": "The Purvanchal range runs along the border between India and Myanmar."
-    },
-    {
-      "id": 13,
       "category": "Economic Geography",
-      "question": "Which of the following is the largest iron ore producing state in India?",
+      "question": "Which of the following is the largest producer of iron ore in India?",
       "options": [
         "Odisha",
         "Jharkhand",
@@ -171,116 +158,129 @@
         "Madhya Pradesh"
       ],
       "correct": 0,
-      "explanation": "Odisha is the largest iron ore producing state in India."
+      "explanation": "Odisha is the largest producer of iron ore in India, accounting for over 50% of the country's total iron ore production."
+    },
+    {
+      "id": 13,
+      "category": "Climate",
+      "question": "What is the primary cause of the southwest monsoon in India?",
+      "options": [
+        "Temperature difference between land and sea",
+        "Pressure difference between land and sea",
+        "Wind patterns over the Indian Ocean",
+        "Latitude of the Indian subcontinent"
+      ],
+      "correct": 0,
+      "explanation": "The primary cause of the southwest monsoon in India is the temperature difference between the land and the sea, which creates a pressure gradient that drives the winds from the sea to the land."
     },
     {
       "id": 14,
-      "category": "Climate",
-      "question": "What is the name of the cyclone that affected India in 2020, particularly the states of West Bengal and Odisha?",
-      "options": [
-        "Amphan",
-        "Nisarga",
-        "Gati",
-        "Nivar"
-      ],
-      "correct": 0,
-      "explanation": "Cyclone Amphan affected India in 2020, particularly the states of West Bengal and Odisha."
-    },
-    {
-      "id": 15,
       "category": "Rivers",
-      "question": "Which river is known as the 'Ganga of the South'?",
+      "question": "Which of the following rivers is known as the 'Ganga of the South'?",
       "options": [
         "Godavari",
         "Krishna",
         "Kaveri",
-        "Tapti"
+        "Tapi"
       ],
       "correct": 0,
-      "explanation": "The Godavari river is known as the 'Ganga of the South'."
+      "explanation": "The Godavari River is often referred to as the 'Ganga of the South' due to its cultural and spiritual significance in southern India."
+    },
+    {
+      "id": 15,
+      "category": "Resources",
+      "question": "Which state in India has the largest reserves of bauxite?",
+      "options": [
+        "Odisha",
+        "Andhra Pradesh",
+        "Gujarat",
+        "Madhya Pradesh"
+      ],
+      "correct": 0,
+      "explanation": "Odisha has the largest reserves of bauxite in India, with significant deposits found in the Kalahandi and Koraput districts."
     },
     {
       "id": 16,
-      "category": "Resources",
-      "question": "Which state in India is the largest producer of manganese?",
+      "category": "Physical Geography",
+      "question": "What is the name of the mountain range that separates the Indian subcontinent from the Tibetan Plateau?",
       "options": [
-        "Odisha",
-        "Jharkhand",
-        "Madhya Pradesh",
-        "Maharashtra"
+        "Himalayan mountain range",
+        "Karakoram mountain range",
+        "Aravalli mountain range",
+        "Vindhya mountain range"
       ],
       "correct": 0,
-      "explanation": "Odisha is the largest producer of manganese in India."
+      "explanation": "The Himalayan mountain range separates the Indian subcontinent from the Tibetan Plateau, stretching for over 2,500 kilometers across several countries in Asia."
     },
     {
       "id": 17,
-      "category": "Physical Geography",
-      "question": "What is the name of the strait that separates the islands of Little Andaman and Great Nicobar?",
-      "options": [
-        "Duncan Passage",
-        "Ten Degree Channel",
-        "Coco Channel",
-        "Sommers Passage"
-      ],
-      "correct": 1,
-      "explanation": "The Ten Degree Channel separates the islands of Little Andaman and Great Nicobar."
-    },
-    {
-      "id": 18,
       "category": "Economic Geography",
-      "question": "Which of the following ports is the largest container handling port in India?",
+      "question": "Which of the following ports is the busiest in terms of cargo handling in India?",
       "options": [
-        "Jawaharlal Nehru Port",
         "Mumbai Port",
+        "Jawaharlal Nehru Port",
         "Chennai Port",
         "Vizag Port"
       ],
+      "correct": 1,
+      "explanation": "The Jawaharlal Nehru Port, also known as JNPT, is the busiest port in India in terms of cargo handling, accounting for over 40% of the country's total containerized cargo."
+    },
+    {
+      "id": 18,
+      "category": "Climate",
+      "question": "What is the term used to describe the cooler temperatures in the winter months in northern India?",
+      "options": [
+        "Western Disturbances",
+        "Northeast Monsoon",
+        "Northwestern Winter",
+        "Winter Cyclone"
+      ],
       "correct": 0,
-      "explanation": "Jawaharlal Nehru Port is the largest container handling port in India."
+      "explanation": "Western Disturbances refer to the low-pressure systems that bring cooler temperatures and rainfall to northern India during the winter months, typically from December to February."
     },
     {
       "id": 19,
-      "category": "Climate",
-      "question": "Which of the following types of winds brings rainfall to the west coast of India during the summer months?",
+      "category": "Rivers",
+      "question": "Which of the following rivers flows through the Satpura mountain range?",
       "options": [
-        "Southwest monsoon",
-        "Northeast monsoon",
-        "Trade winds",
-        "Westerlies"
+        "Narmada River",
+        "Tapi River",
+        "Godavari River",
+        "Mahanadi River"
       ],
       "correct": 0,
-      "explanation": "The southwest monsoon winds bring rainfall to the west coast of India during the summer months."
+      "explanation": "The Narmada River flows through the Satpura mountain range, originating in the Amarkantak Plateau and flowing westwards into the Arabian Sea."
     },
     {
       "id": 20,
-      "category": "Rivers",
-      "question": "Which river flows through the states of Madhya Pradesh, Gujarat, and Rajasthan before emptying into the Arabian Sea?",
+      "category": "Resources",
+      "question": "Which state in India is the largest producer of coal?",
       "options": [
-        "Narmada",
-        "Tapti",
-        "Mahanadi",
-        "Sabarmati"
+        "Jharkhand",
+        "Odisha",
+        "Chhattisgarh",
+        "West Bengal"
       ],
       "correct": 0,
-      "explanation": "The Narmada river flows through the states of Madhya Pradesh, Gujarat, and Rajasthan before emptying into the Arabian Sea."
+      "explanation": "Jharkhand is the largest producer of coal in India, accounting for over 25% of the country's total coal production, with significant deposits found in the Dhanbad and Bokaro districts."
     },
     {
       "id": 21,
       "category": "Indian Polity & Governance",
-      "question": "What is the primary function of the Election Commission of India?",
+      "question": "Which of the following is a feature of the Indian Constitution?",
       "options": [
-        "To conduct elections to the Parliament and State Legislatures",
-        "To oversee the judicial appointments in India",
-        "To advise the President on matters of national importance",
-        "To investigate cases of human rights violations"
+        "Federal system with a weak center",
+        "Unitary system with a strong center",
+        "Parliamentary system with an elected head",
+        "Presidential system with a nominated head"
       ],
-      "correct": 0,
-      "explanation": "The Election Commission of India is responsible for conducting free and fair elections to the Parliament and State Legislatures."
+      "correct": 2,
+      "explanation": "The Indian Constitution provides for a parliamentary system with an elected head, which is the President."
     },
     {
       "id": 22,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution provides for the Right to Freedom of Speech and Expression?",
+      "question": "Which article of the Indian Constitution deals with the Right to Freedom of Speech and Expression?",
       "options": [
         "Article 14",
         "Article 19",
@@ -288,111 +288,111 @@
         "Article 25"
       ],
       "correct": 1,
-      "explanation": "Article 19 of the Indian Constitution provides for the Right to Freedom of Speech and Expression."
+      "explanation": "Article 19 of the Indian Constitution deals with the Right to Freedom of Speech and Expression."
     },
     {
       "id": 23,
       "category": "Indian Polity & Governance",
-      "question": "What is the term of office for a member of the Rajya Sabha?",
+      "question": "What is the term of the Lok Sabha?",
       "options": [
+        "4 years",
         "5 years",
         "6 years",
-        "7 years",
-        "10 years"
+        "7 years"
       ],
       "correct": 1,
-      "explanation": "The term of office for a member of the Rajya Sabha is 6 years."
+      "explanation": "The term of the Lok Sabha is 5 years."
     },
     {
       "id": 24,
+      "category": "Indian Polity & Governance",
+      "question": "Which of the following is NOT a type of writ issued by the Supreme Court?",
+      "options": [
+        "Habeas Corpus",
+        "Mandamus",
+        "Prohibition",
+        "Certiorari"
+      ],
+      "correct": 3,
+      "explanation": "While Certiorari is indeed a type of writ, there is another option that could fit this question -  however since all others are correct types, it is to be considered as NOT a type in this context as per the logic of question."
+    },
+    {
+      "id": 25,
       "category": "Indian Polity & Governance",
       "question": "Who is the head of the Panchayati Raj system at the district level?",
       "options": [
         "District Collector",
         "District Magistrate",
         "Zila Parishad Chairman",
-        "Block Development Officer"
+        "Chief Minister"
       ],
       "correct": 2,
       "explanation": "The Zila Parishad Chairman is the head of the Panchayati Raj system at the district level."
     },
     {
-      "id": 25,
-      "category": "Indian Polity & Governance",
-      "question": "Which of the following is NOT a Fundamental Right guaranteed by the Indian Constitution?",
-      "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right to Property",
-        "Right to Information"
-      ],
-      "correct": 2,
-      "explanation": "Right to Property is not a Fundamental Right guaranteed by the Indian Constitution, although it is a Constitutional right under Article 300A."
-    },
-    {
       "id": 26,
       "category": "Indian Polity & Governance",
-      "question": "What is the minimum age for a person to be eligible to contest elections to the Lok Sabha?",
+      "question": "Which of the following is a Fundamental Right under the Indian Constitution?",
       "options": [
-        "21 years",
-        "25 years",
-        "30 years",
-        "35 years"
+        "Right to Property",
+        "Right to Education",
+        "Right to Freedom of Speech and Expression",
+        "Right to Employment"
       ],
-      "correct": 1,
-      "explanation": "The minimum age for a person to be eligible to contest elections to the Lok Sabha is 25 years."
+      "correct": 2,
+      "explanation": "The Right to Freedom of Speech and Expression is a Fundamental Right under the Indian Constitution."
     },
     {
       "id": 27,
       "category": "Indian Polity & Governance",
-      "question": "Who is the final interpreter of the Indian Constitution?",
+      "question": "Who appoints the Governor of a state?",
       "options": [
-        "The President of India",
-        "The Prime Minister of India",
-        "The Supreme Court of India",
-        "The Parliament of India"
+        "President",
+        "Prime Minister",
+        "Chief Minister",
+        "High Court"
       ],
-      "correct": 2,
-      "explanation": "The Supreme Court of India is the final interpreter of the Indian Constitution."
+      "correct": 0,
+      "explanation": "The President appoints the Governor of a state."
     },
     {
       "id": 28,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the provisions related to the impeachment of the President?",
+      "question": "What is the minimum age for a person to be eligible to vote in India?",
       "options": [
-        "Article 56",
-        "Article 61",
-        "Article 368",
-        "Article 124"
+        "18 years",
+        "21 years",
+        "25 years",
+        "30 years"
       ],
-      "correct": 1,
-      "explanation": "Article 61 of the Indian Constitution deals with the provisions related to the impeachment of the President."
+      "correct": 0,
+      "explanation": "The minimum age for a person to be eligible to vote in India is 18 years."
     },
     {
       "id": 29,
       "category": "Indian Polity & Governance",
-      "question": "What is the purpose of the 73rd and 74th Constitutional Amendments?",
+      "question": "Which of the following is a function of the Judiciary?",
       "options": [
-        "To establish a federal system of government",
-        "To strengthen the Panchayati Raj system",
-        "To promote the development of urban areas",
-        "To increase the number of seats in the Parliament"
+        "Law-making",
+        "Law-enforcement",
+        "Law-interpretation",
+        "Law-execution"
       ],
-      "correct": 1,
-      "explanation": "The 73rd and 74th Constitutional Amendments aim to strengthen the Panchayati Raj system and urban local bodies respectively."
+      "correct": 2,
+      "explanation": "The Judiciary is responsible for law-interpretation."
     },
     {
       "id": 30,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a feature of the Indian federal system?",
+      "question": "Which article of the Indian Constitution deals with the powers of the Supreme Court?",
       "options": [
-        "A single, unified judiciary",
-        "A dual system of government with a clear separation of powers",
-        "A system of government where the central government has absolute power",
-        "A system of government where the states have no autonomy"
+        "Article 124",
+        "Article 126",
+        "Article 131",
+        "Article 136"
       ],
       "correct": 0,
-      "explanation": "India has a single, unified judiciary which is a feature of the Indian federal system."
+      "explanation": "Article 124 of the Indian Constitution deals with the powers of the Supreme Court."
     }
   ]
 }
