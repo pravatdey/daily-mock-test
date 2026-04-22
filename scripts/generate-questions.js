@@ -2,35 +2,21 @@
  * Daily Question Generator Script
  *
  * Runs via GitHub Actions at 12 AM IST daily.
- * Uses Gemini API as primary, Groq API as fallback.
+ * Uses Groq API to generate questions.
  * Saves results as static JSON files in questions/ directory.
  */
 
 const fs = require('fs');
 const path = require('path');
 
-// 3 Gemini API keys spread across 6 exams (2 exams per key)
-const KEY1 = process.env.GEMINI_KEY_1 || process.env.GEMINI_API_KEY;
-const KEY2 = process.env.GEMINI_KEY_2 || process.env.GEMINI_API_KEY;
-const KEY3 = process.env.GEMINI_KEY_3 || process.env.GEMINI_API_KEY;
-
-const GEMINI_KEYS = {
-    upsc: KEY1,
-    oas: KEY1,
-    ossc: KEY2,
-    cgl: KEY2,
-    chsl: KEY3,
-    sgl: KEY3,
-};
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
-const hasAnyGemini = Object.values(GEMINI_KEYS).some(k => k);
-if (!hasAnyGemini && !GROQ_API_KEY) {
-    console.error('ERROR: No API keys set. Add GEMINI_KEY_1/2/3 or GROQ_API_KEY to GitHub Secrets.');
+if (!GROQ_API_KEY) {
+    console.error('ERROR: GROQ_API_KEY not set. Add it to GitHub Secrets.');
     process.exit(1);
 }
 
-// ===== Exam Configurations =====
+// ===== Exam Configurations (3 exams only) =====
 const EXAMS = {
     upsc: {
         name: 'UPSC Prelims',
@@ -46,7 +32,7 @@ Cover these topics with roughly equal distribution:
 - Environment & Ecology (Biodiversity, Climate Change, Protected Areas, Environmental Laws) - 4 questions
 - Current Affairs & General Knowledge (National, International, Awards, Schemes, Sports) - 4 questions
 
-Questions should be at UPSC Prelims difficulty level - analytical, conceptual, and fact-based. Include questions on constitutional amendments, important acts, historical events with dates, geographical features of India, scientific discoveries, and government schemes.`
+Questions should be at UPSC Prelims difficulty level - analytical, conceptual, and fact-based.`
     },
     oas: {
         name: 'Odisha Civil Services',
@@ -78,144 +64,13 @@ Cover these topics:
 - Mental Ability & Reasoning (Number series, letter series, analogies, coding-decoding, direction sense, blood relations) - 4 questions
 - Current Affairs (Odisha + National - government schemes, awards, sports, recent events) - 4 questions
 
-Questions should be at intermediate difficulty - suitable for RI/Amin level exam. Include questions about land revenue administration, survey & settlement.`
-    },
-    cgl: {
-        name: 'SSC CGL',
-        questionCount: 30,
-        prompt: `Generate 30 unique multiple-choice questions for SSC CGL (Combined Graduate Level) Tier-1 examination.
-
-Cover these topics:
-- General Awareness & Static GK (History, Culture, Heritage, Books & Authors, Important Days, First in India/World) - 5 questions
-- General Science (Physics concepts, Chemistry - elements/compounds/reactions, Biology - human body/diseases/nutrition) - 4 questions
-- Indian Polity & Economy (Constitution, Government institutions, Banking, Insurance, Budget terminology, Economic organizations) - 5 questions
-- Geography (India & World - capitals, rivers, mountains, ocean currents, climate, soils) - 4 questions
-- Reasoning & Logic (Analogies, Coding-Decoding, Series completion, Syllogisms, Blood relations, Direction sense, Mirror/Water image concepts) - 5 questions
-- English Language Concepts (Synonyms, Antonyms, Idioms & Phrases, One word substitution, Spelling corrections, Grammar rules) - 3 questions
-- Current Affairs (Recent appointments, awards, summits, sports events, government schemes, international events) - 4 questions
-
-Questions should match SSC CGL Tier-1 difficulty. Mix conceptual and factual questions.`
-    },
-    chsl: {
-        name: 'SSC CHSL',
-        questionCount: 30,
-        prompt: `Generate 30 unique multiple-choice questions for SSC CHSL (Combined Higher Secondary Level) Tier-1 examination.
-
-Cover these topics:
-- General Awareness (Indian History, Culture, Famous personalities, Important dates, Books & Authors, National symbols, Dances of India) - 6 questions
-- General Science (Basic Physics, Basic Chemistry, Biology - diseases, vitamins, human body systems, nutrition) - 5 questions
-- Reasoning & Mental Ability (Number series, Alphabet series, Odd one out, Analogy, Classification, Coding-Decoding, Mirror image, Paper folding) - 5 questions
-- Indian Polity (Fundamental Rights, Duties, President, Prime Minister, Parliament basics, Courts) - 4 questions
-- Geography (Indian states & capitals, rivers, mountains, national parks, soils, crops) - 4 questions
-- Current Affairs & GK (Government schemes, recent events, sports, awards, abbreviations) - 6 questions
-
-Questions should be at 10+2 level difficulty - simpler than CGL. Focus on direct, factual questions rather than analytical ones. This is an easier exam.`
-    },
-    sgl: {
-        name: 'Odisha SGL',
-        questionCount: 30,
-        prompt: `Generate 30 unique multiple-choice questions for OSSC SGL (Staff Selection for Group-L posts) examination in Odisha.
-
-Cover these topics - focused on Odisha and general knowledge:
-- Odisha General Knowledge (Districts, famous places, rivers, lakes, dams, festivals, tribal communities, Odisha history, temples, important personalities of Odisha) - 5 questions
-- Indian History (Ancient India, Medieval India, Modern India, Freedom struggle, Important dates and events) - 4 questions
-- Odisha History & Culture (Kalinga war, Odisha freedom fighters, formation of Odisha state, Jagannath culture, Odissi dance, Pattachitra, tribal culture, festivals like Raja/Nuakhai/Rath Yatra) - 5 questions
-- Geography (India + Odisha - physical features, rivers, climate, soil, agriculture, minerals, national parks of Odisha) - 4 questions
-- Indian Polity & Constitution (Fundamental rights, DPSP, Parliament, State Legislature, Panchayati Raj, local governance) - 4 questions
-- General Science (Basic Physics, Chemistry, Biology, Health, Nutrition, common diseases, everyday science) - 4 questions
-- Current Affairs & Computer Knowledge (Odisha + National news, government schemes, basic computer concepts, MS Office, internet basics) - 4 questions
-
-Questions should be at intermediate level - suitable for Group-L staff selection. Include questions about Odisha government schemes like KALIA, BSKY, Mo Sarkar, Jaga Mission.`
+Questions should be at intermediate difficulty - suitable for RI/Amin level exam.`
     }
 };
 
-// ===== Build the full prompt =====
-function buildPrompt(examConfig, dateStr) {
-    return `${examConfig.prompt}
-
-IMPORTANT INSTRUCTIONS:
-- Today's date seed: ${dateStr} - Use this to ensure unique questions for today
-- Generate EXACTLY ${examConfig.questionCount} questions
-- Each question must have EXACTLY 4 options (A, B, C, D)
-- Questions must be UNIQUE and NOT repeated from any standard question bank
-- Include detailed explanations for each correct answer
-- Vary difficulty: 30% easy, 50% medium, 20% hard
-
-Return ONLY a valid JSON array (no markdown, no code blocks, no extra text) in this exact format:
-[
-    {
-        "id": 1,
-        "category": "Category Name",
-        "question": "Question text here?",
-        "options": ["Option A", "Option B", "Option C", "Option D"],
-        "correct": 0,
-        "explanation": "Detailed explanation here"
-    }
-]
-
-The "correct" field is the 0-based index of the correct option (0=A, 1=B, 2=C, 3=D).
-Return ONLY the JSON array, nothing else.`;
-}
-
-// ===== Parse and validate questions =====
-function parseQuestions(textContent, examConfig) {
-    let jsonStr = textContent.trim();
-    if (jsonStr.startsWith('```')) {
-        jsonStr = jsonStr.replace(/```json?\n?/g, '').replace(/```$/g, '').trim();
-    }
-
-    const questions = JSON.parse(jsonStr);
-
-    if (!Array.isArray(questions) || questions.length === 0) {
-        throw new Error(`Invalid question format for ${examConfig.name}`);
-    }
-
-    return questions.slice(0, examConfig.questionCount).map((q, i) => ({
-        id: i + 1,
-        category: q.category || 'General',
-        question: q.question,
-        options: Array.isArray(q.options) ? q.options.slice(0, 4) : ['A', 'B', 'C', 'D'],
-        correct: typeof q.correct === 'number' ? q.correct : 0,
-        explanation: q.explanation || 'No explanation available.'
-    }));
-}
-
-// ===== Gemini API Call =====
-async function callGemini(fullPrompt, examConfig, apiKey) {
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
-
-    const response = await fetch(url, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-            contents: [{ parts: [{ text: fullPrompt }] }],
-            generationConfig: {
-                temperature: 0.9,
-                topP: 0.95,
-                topK: 40,
-                maxOutputTokens: 65536,
-                responseMimeType: 'application/json'
-            }
-        })
-    });
-
-    if (!response.ok) {
-        const errorData = await response.json().catch(() => ({}));
-        throw new Error(`Gemini ${response.status}: ${errorData?.error?.message || 'Unknown error'}`);
-    }
-
-    const data = await response.json();
-    const textContent = data.candidates?.[0]?.content?.parts?.[0]?.text;
-    if (!textContent) throw new Error('Empty response from Gemini');
-
-    return parseQuestions(textContent, examConfig);
-}
-
-// ===== Groq API Call (Fallback) - generates in batches to stay under token limits =====
-async function callGroqBatch(batchPrompt, batchSize) {
-    const url = 'https://api.groq.com/openai/v1/chat/completions';
-
-    const response = await fetch(url, {
+// ===== Groq API Call - generates in batches to stay under token limits =====
+async function callGroqBatch(batchPrompt) {
+    const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
@@ -228,10 +83,7 @@ async function callGroqBatch(batchPrompt, batchSize) {
                     role: 'system',
                     content: 'You are an expert exam question generator for Indian competitive exams. Return ONLY a valid JSON object with a "questions" key containing an array of question objects. No extra text.'
                 },
-                {
-                    role: 'user',
-                    content: batchPrompt
-                }
+                { role: 'user', content: batchPrompt }
             ],
             temperature: 0.9,
             max_tokens: 8192,
@@ -248,14 +100,9 @@ async function callGroqBatch(batchPrompt, batchSize) {
     const textContent = data.choices?.[0]?.message?.content;
     if (!textContent) throw new Error('Empty response from Groq');
 
-    let parsed;
-    try {
-        parsed = JSON.parse(textContent);
-    } catch {
-        throw new Error('Failed to parse Groq response as JSON');
-    }
+    const parsed = JSON.parse(textContent);
 
-    // Find the questions array - Groq wraps in various object structures
+    // Find the questions array
     let questions;
     if (Array.isArray(parsed)) {
         questions = parsed;
@@ -275,13 +122,12 @@ async function callGroqBatch(batchPrompt, batchSize) {
     return questions;
 }
 
-async function callGroq(examConfig, dateStr) {
+async function generateQuestions(examKey, examConfig, dateStr) {
     const batchSize = 10;
     const totalQuestions = examConfig.questionCount;
     const batches = Math.ceil(totalQuestions / batchSize);
     let allQuestions = [];
 
-    // Extract topic names from the prompt
     const topics = examConfig.prompt.split('\n').filter(l => l.trim().startsWith('-')).map(l => l.replace(/^- /, '').replace(/ - \d+ questions/, '').trim());
 
     for (let batch = 0; batch < batches; batch++) {
@@ -290,17 +136,16 @@ async function callGroq(examConfig, dateStr) {
         const batchNum = batch + 1;
         const topic = topics[batch % topics.length] || 'General Knowledge';
 
-        // Short prompt to stay under 12K TPM
         const batchPrompt = `Generate ${count} unique MCQ for ${examConfig.name} exam. Topic focus: ${topic}. Date seed: ${dateStr}-b${batchNum}
 
 Return JSON: {"questions":[{"id":1,"category":"Topic","question":"Q?","options":["A","B","C","D"],"correct":0,"explanation":"Why"}]}
 "correct" = 0-based index (0=A,1=B,2=C,3=D). EXACTLY ${count} questions.`;
 
-        console.log(`    Groq batch ${batchNum}/${batches} (${count}q)...`);
-        const batchQuestions = await callGroqBatch(batchPrompt, count);
+        console.log(`    Batch ${batchNum}/${batches} (${count}q)...`);
+        const batchQuestions = await callGroqBatch(batchPrompt);
         allQuestions = allQuestions.concat(batchQuestions);
 
-        // Wait 62s between batches to reset TPM window (Groq resets per minute)
+        // Wait 62s between batches to reset TPM window
         if (batch < batches - 1) {
             console.log(`    ⏳ Waiting 62s for rate limit reset...`);
             await new Promise(resolve => setTimeout(resolve, 62000));
@@ -317,37 +162,6 @@ Return JSON: {"questions":[{"id":1,"category":"Topic","question":"Q?","options":
     }));
 }
 
-// ===== Generate with fallback =====
-async function generateQuestions(examKey, examConfig, dateStr) {
-    const fullPrompt = buildPrompt(examConfig, dateStr);
-
-    // Try Gemini first (with per-exam API key)
-    const geminiKey = GEMINI_KEYS[examKey];
-    if (geminiKey) {
-        try {
-            const questions = await callGemini(fullPrompt, examConfig, geminiKey);
-            console.log(`  ✓ ${examConfig.name}: ${questions.length} questions (Gemini)`);
-            return questions;
-        } catch (error) {
-            console.log(`  ⚠ Gemini failed for ${examConfig.name}: ${error.message}`);
-        }
-    }
-
-    // Fallback to Groq (batch mode)
-    if (GROQ_API_KEY) {
-        try {
-            console.log(`  → Trying Groq fallback for ${examConfig.name}...`);
-            const questions = await callGroq(examConfig, dateStr);
-            console.log(`  ✓ ${examConfig.name}: ${questions.length} questions (Groq)`);
-            return questions;
-        } catch (error) {
-            console.log(`  ⚠ Groq failed for ${examConfig.name}: ${error.message}`);
-        }
-    }
-
-    throw new Error(`All APIs failed for ${examConfig.name}`);
-}
-
 // ===== Main =====
 async function main() {
     const questionsDir = path.join(__dirname, '..', 'questions');
@@ -361,8 +175,7 @@ async function main() {
 
     console.log(`\n=== Daily Question Generator ===`);
     console.log(`Date: ${dateStr}`);
-    const geminiCount = Object.values(GEMINI_KEYS).filter(k => k).length;
-    console.log(`APIs: Gemini keys: ${geminiCount}/6 | ${GROQ_API_KEY ? 'Groq ✓' : 'Groq ✗'}`);
+    console.log(`API: Groq ✓`);
     console.log(`Exams: ${Object.keys(EXAMS).join(', ')}\n`);
 
     let successCount = 0;
@@ -384,6 +197,7 @@ async function main() {
             };
 
             fs.writeFileSync(filePath, JSON.stringify(output, null, 2));
+            console.log(`  ✓ ${examConfig.name}: ${questions.length} questions saved`);
             successCount++;
 
         } catch (error) {
@@ -391,7 +205,7 @@ async function main() {
             failCount++;
         }
 
-        // Delay between exams to avoid rate limits
+        // Delay between exams
         if (Object.keys(EXAMS).indexOf(examKey) < Object.keys(EXAMS).length - 1) {
             await new Promise(resolve => setTimeout(resolve, 5000));
         }

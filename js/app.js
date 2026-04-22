@@ -59,42 +59,6 @@ const EXAM_CONFIG = {
         marksPerQuestion: 2,
         tags: ['Odisha GK', 'Indian History', 'Geography', 'Polity', 'Science & Math', 'Reasoning', 'Current Affairs']
     },
-    cgl: {
-        name: 'SSC CGL',
-        subtitle: 'Combined Graduate Level',
-        icon: '🎯',
-        gradient: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
-        color: '#667eea',
-        ribbonClass: 'cgl',
-        questionCount: 30,
-        timeMinutes: 30,
-        marksPerQuestion: 2,
-        tags: ['General Awareness', 'Reasoning', 'English', 'Quant Concepts', 'Science', 'Polity', 'Current Affairs']
-    },
-    chsl: {
-        name: 'SSC CHSL',
-        subtitle: 'Combined Higher Secondary Level',
-        icon: '📝',
-        gradient: 'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)',
-        color: '#f093fb',
-        ribbonClass: 'chsl',
-        questionCount: 30,
-        timeMinutes: 30,
-        marksPerQuestion: 2,
-        tags: ['General Awareness', 'Reasoning', 'English', 'Quant', 'Science', 'Current Affairs']
-    },
-    sgl: {
-        name: 'Odisha SGL',
-        subtitle: 'OSSC Staff Selection Group-L',
-        icon: '📋',
-        gradient: 'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)',
-        color: '#43e97b',
-        ribbonClass: 'sgl',
-        questionCount: 30,
-        timeMinutes: 30,
-        marksPerQuestion: 2,
-        tags: ['Odisha GK', 'Indian History', 'Odisha Culture', 'Geography', 'Science', 'Computer', 'Current Affairs']
-    }
 };
 
 // ===== Initialize App =====
