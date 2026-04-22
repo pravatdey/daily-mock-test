@@ -216,7 +216,10 @@ async function loadQuestions(examType) {
     }
 
     // Fetch from static JSON file (generated daily by GitHub Actions)
-    const response = await fetch(`questions/${examType}.json`);
+    // Add date as cache-buster to always get today's fresh questions
+    const today = new Date();
+    const cacheBust = `${today.getFullYear()}${today.getMonth()+1}${today.getDate()}`;
+    const response = await fetch(`questions/${examType}.json?v=${cacheBust}`);
 
     if (!response.ok) {
         throw new Error(`Questions not available for ${EXAM_CONFIG[examType].name}. Please try again later.`);
@@ -229,8 +232,12 @@ async function loadQuestions(examType) {
         throw new Error(`No questions found for ${EXAM_CONFIG[examType].name}.`);
     }
 
-    // Cache for today
-    localStorage.setItem(cacheKey, JSON.stringify(questions));
+    // Only cache if the JSON date matches today (prevents stale cache)
+    const jsonDate = data.date || '';
+    const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+    if (jsonDate === todayStr) {
+        localStorage.setItem(cacheKey, JSON.stringify(questions));
+    }
 
     // Clean up old caches
     cleanOldCache();
