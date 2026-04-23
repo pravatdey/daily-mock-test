@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Ancient History",
-      "question": "The ancient Indian university of Takshashila was located in which modern-day country?",
+      "category": "Indian History",
+      "question": "Which ancient Indian city was known as the 'Golden City' due to its prosperity during the Mauryan period?",
       "options": [
-        "India",
-        "Pakistan",
-        "Bangladesh",
-        "Nepal"
+        "Pataliputra",
+        "Taxila",
+        "Mohenjo-daro",
+        "Rajgir"
       ],
-      "correct": 1,
-      "explanation": "Takshashila was an ancient Indian university located in modern-day Pakistan."
+      "correct": 0,
+      "explanation": "Pataliputra was a major city during the Mauryan empire, renowned for its prosperity, and was sometimes called the 'Golden City' due to its wealth and grandeur."
     },
     {
       "id": 2,
-      "category": "Medieval History",
-      "question": "Who was the founder of the Vijayanagara Empire?",
-      "options": [
-        "Harihara and Bukka Raya",
-        "KR Narayanan",
-        "Shivaji",
-        "Akbar"
-      ],
-      "correct": 0,
-      "explanation": "Harihara and Bukka Raya were the founders of the Vijayanagara Empire."
-    },
-    {
-      "id": 3,
-      "category": "Freedom Struggle",
-      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
-      "options": [
-        "1920",
-        "1922",
-        "1925",
-        "1928"
-      ],
-      "correct": 0,
-      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920."
-    },
-    {
-      "id": 4,
-      "category": "Ancient History",
-      "question": "The ancient Indian text of the Arthashastra was written by?",
-      "options": [
-        "Kautilya",
-        "Chanakya",
-        "Ashoka",
-        "Buddha"
-      ],
-      "correct": 0,
-      "explanation": "The ancient Indian text of the Arthashastra was written by Kautilya, also known as Chanakya."
-    },
-    {
-      "id": 5,
-      "category": "Medieval History",
-      "question": "The Mughal emperor who built the Taj Mahal was?",
+      "category": "Indian History",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
         "Babur",
         "Akbar",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Humayun",
+        "Shah Jahan"
+      ],
+      "correct": 0,
+      "explanation": "Babur, a descendant of Timur and Genghis Khan, founded the Mughal Empire in India in 1526 after his victory at the Battle of Panipat."
+    },
+    {
+      "id": 3,
+      "category": "Indian History",
+      "question": "Which movement is associated with the Non-Cooperation Movement of 1920?",
+      "options": [
+        "Champaran Satyagraha",
+        "Khilafat Movement",
+        "Non-Cooperation Movement",
+        "Salt Satyagraha"
       ],
       "correct": 2,
-      "explanation": "The Mughal emperor who built the Taj Mahal was Shah Jahan."
+      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920 as a mass protest against British rule, emphasizing non-violent resistance."
+    },
+    {
+      "id": 4,
+      "category": "Indian History",
+      "question": "The Revolt of 1857 is also known as:",
+      "options": [
+        "First War of Indian Independence",
+        "Sepoy Mutiny",
+        "Both A and B",
+        "Indian Civil Disobedience"
+      ],
+      "correct": 2,
+      "explanation": "The 1857 revolt is commonly called both the First War of Indian Independence and the Sepoy Mutiny, as it was a widespread uprising against British rule."
+    },
+    {
+      "id": 5,
+      "category": "Indian History",
+      "question": "Which act officially ended the rule of the British East India Company in India?",
+      "options": [
+        "Government of India Act 1858",
+        "Indian Councils Act 1892",
+        "Indian Independence Act 1947",
+        "Partition Act 1947"
+      ],
+      "correct": 0,
+      "explanation": "The Government of India Act 1858 transferred control of India from the British East India Company directly to the British Crown."
     },
     {
       "id": 6,
-      "category": "Freedom Struggle",
-      "question": "The Indian National Congress was founded in which year?",
+      "category": "Indian Geography",
+      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
       "options": [
-        "1884",
-        "1885",
-        "1886",
-        "1887"
+        "Ganga",
+        "Kosi",
+        "Yamuna",
+        "Godavari"
       ],
       "correct": 1,
-      "explanation": "The Indian National Congress was founded in 1885."
+      "explanation": "The Kosi River is notorious for flooding and causing devastation in Bihar, earning it the nickname 'Sorrow of Bihar'."
     },
     {
       "id": 7,
-      "category": "Ancient History",
-      "question": "The ancient Indian city of Mohenjo-Daro was located in which modern-day country?",
+      "category": "Indian Geography",
+      "question": "Which is the largest coastal desert in India?",
       "options": [
-        "India",
-        "Pakistan",
-        "Bangladesh",
-        "Sri Lanka"
+        "Thar Desert",
+        "Cold Desert",
+        "Rann of Kutch",
+        "Great Indian Desert"
       ],
-      "correct": 1,
-      "explanation": "The ancient Indian city of Mohenjo-Daro was located in modern-day Pakistan."
+      "correct": 2,
+      "explanation": "The Rann of Kutch is a salt desert formed by the seasonal flooding and evaporation, known as the Great Indian Desert's coastal extension."
     },
     {
       "id": 8,
-      "category": "Medieval History",
-      "question": "The Delhi Sultanate was founded by?",
+      "category": "Indian Geography",
+      "question": "The 'Monsoon' in India is primarily due to:",
       "options": [
-        "Qutb-ud-din Aibak",
-        "Iltutmish",
-        "Raziya Sultan",
-        "Firoz Shah Tughlaq"
+        "Western Disturbances",
+        "Himalayan Snow Melt",
+        "Southwest Monsoon Winds",
+        "North-East Monsoon Winds"
       ],
-      "correct": 0,
-      "explanation": "The Delhi Sultanate was founded by Qutb-ud-din Aibak."
+      "correct": 2,
+      "explanation": "The Southwest Monsoon Winds, driven by differential heating of land and water, cause the Indian monsoon."
     },
     {
       "id": 9,
-      "category": "Freedom Struggle",
-      "question": "The Quit India Movement was launched by Mahatma Gandhi in which year?",
+      "category": "Indian Geography",
+      "question": "Which resource is most abundantly found in the Deccan Plateau?",
       "options": [
-        "1942",
-        "1943",
-        "1944",
-        "1945"
+        "Coal",
+        "Iron Ore",
+        "Bauxite",
+        "Manganese"
       ],
-      "correct": 0,
-      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942."
+      "correct": 1,
+      "explanation": "The Deccan Plateau is rich in iron ore deposits, among other minerals."
     },
     {
       "id": 10,
-      "category": "Modern History",
-      "question": "The Indian Constitution came into effect on?",
+      "category": "Indian Polity & Governance",
+      "question": "The Constitution of India was adopted on:",
       "options": [
-        "January 26, 1950",
-        "August 15, 1947",
-        "October 2, 1869",
-        "November 1, 1858"
+        "26th November 1947",
+        "26th November 1949",
+        "26th January 1950",
+        "15th August 1947"
       ],
-      "correct": 0,
-      "explanation": "The Indian Constitution came into effect on January 26, 1950."
+      "correct": 1,
+      "explanation": "The Constitution of India was adopted on 26th November 1949 and came into effect on 26th January 1950."
     },
     {
       "id": 11,
-      "category": "Physical Geography",
-      "question": "What is the largest desert in India?",
+      "category": "Indian Polity & Governance",
+      "question": "The process of introducing a money bill can only start in:",
       "options": [
-        "Thar Desert",
-        "Cholistan Desert",
-        "Kutch Desert",
-        "Cold Desert"
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Both Houses",
+        "President"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert, also known as the Cholistan Desert, is the largest desert in India, covering an area of approximately 260,000 square kilometers."
+      "explanation": "Money bills can only be introduced in the Lok Sabha, the lower house of Parliament."
     },
     {
       "id": 12,
-      "category": "Economic Geography",
-      "question": "Which of the following is the largest producer of iron ore in India?",
+      "category": "Indian Polity & Governance",
+      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
       "options": [
-        "Odisha",
-        "Jharkhand",
-        "Chhattisgarh",
-        "Madhya Pradesh"
+        "Article 14",
+        "Articles 12-35",
+        "Article 21",
+        "Article 368"
       ],
-      "correct": 0,
-      "explanation": "Odisha is the largest producer of iron ore in India, accounting for over 50% of the country's total iron ore production."
+      "correct": 1,
+      "explanation": "Articles 12 to 35 of the Indian Constitution enumerate and protect Fundamental Rights."
     },
     {
       "id": 13,
-      "category": "Climate",
-      "question": "What is the primary cause of the southwest monsoon in India?",
+      "category": "Indian Polity & Governance",
+      "question": "The concept of 'Judicial Review' in India is derived from the:",
       "options": [
-        "Temperature difference between land and sea",
-        "Pressure difference between land and sea",
-        "Wind patterns over the Indian Ocean",
-        "Latitude of the Indian subcontinent"
+        "Indian Constitution",
+        "British Constitution",
+        "US Constitution",
+        "French Constitution"
       ],
-      "correct": 0,
-      "explanation": "The primary cause of the southwest monsoon in India is the temperature difference between the land and the sea, which creates a pressure gradient that drives the winds from the sea to the land."
+      "correct": 2,
+      "explanation": "Judicial Review in India is based on the US Constitution's model, allowing courts to review laws for constitutional validity."
     },
     {
       "id": 14,
-      "category": "Rivers",
-      "question": "Which of the following rivers is known as the 'Ganga of the South'?",
+      "category": "Indian Polity & Governance",
+      "question": "The Panchayati Raj system in India was given constitutional status by the:",
       "options": [
-        "Godavari",
-        "Krishna",
-        "Kaveri",
-        "Tapi"
+        "73rd Amendment Act",
+        "74th Amendment Act",
+        "42nd Amendment Act",
+        "44th Amendment Act"
       ],
       "correct": 0,
-      "explanation": "The Godavari River is often referred to as the 'Ganga of the South' due to its cultural and spiritual significance in southern India."
+      "explanation": "The 73rd Amendment Act of 1992 provided constitutional status to Panchayati Raj institutions."
     },
     {
       "id": 15,
-      "category": "Resources",
-      "question": "Which state in India has the largest reserves of bauxite?",
+      "category": "Indian Economy",
+      "question": "India's Gross Domestic Product (GDP) is primarily measured by:",
       "options": [
-        "Odisha",
-        "Andhra Pradesh",
-        "Gujarat",
-        "Madhya Pradesh"
+        "Net National Product",
+        "Gross National Income",
+        "Gross Value Added",
+        "Total Wealth"
       ],
-      "correct": 0,
-      "explanation": "Odisha has the largest reserves of bauxite in India, with significant deposits found in the Kalahandi and Koraput districts."
+      "correct": 2,
+      "explanation": "GDP is calculated by summing the gross value added across all sectors of the economy."
     },
     {
       "id": 16,
-      "category": "Physical Geography",
-      "question": "What is the name of the mountain range that separates the Indian subcontinent from the Tibetan Plateau?",
+      "category": "Indian Economy",
+      "question": "Which financial institution is responsible for providing financial assistance for large projects in India?",
       "options": [
-        "Himalayan mountain range",
-        "Karakoram mountain range",
-        "Aravalli mountain range",
-        "Vindhya mountain range"
+        "Reserve Bank of India",
+        "State Bank of India",
+        "ICICI Bank",
+        "India Infrastructure Finance Company"
       ],
-      "correct": 0,
-      "explanation": "The Himalayan mountain range separates the Indian subcontinent from the Tibetan Plateau, stretching for over 2,500 kilometers across several countries in Asia."
+      "correct": 3,
+      "explanation": "India Infrastructure Finance Company Limited (IIFCL) provides long-term debt finance for infrastructure projects."
     },
     {
       "id": 17,
-      "category": "Economic Geography",
-      "question": "Which of the following ports is the busiest in terms of cargo handling in India?",
+      "category": "Indian Economy",
+      "question": "The 'Five Year Plans' in India were inspired by the plans of which country?",
       "options": [
-        "Mumbai Port",
-        "Jawaharlal Nehru Port",
-        "Chennai Port",
-        "Vizag Port"
+        "USA",
+        "UK",
+        "USSR",
+        "France"
       ],
-      "correct": 1,
-      "explanation": "The Jawaharlal Nehru Port, also known as JNPT, is the busiest port in India in terms of cargo handling, accounting for over 40% of the country's total containerized cargo."
+      "correct": 2,
+      "explanation": "India's Five Year Plans were inspired by the economic planning model of the USSR."
     },
     {
       "id": 18,
-      "category": "Climate",
-      "question": "What is the term used to describe the cooler temperatures in the winter months in northern India?",
+      "category": "Indian Economy",
+      "question": "Which of the following is a recent milestone in India's foreign trade?",
       "options": [
-        "Western Disturbances",
-        "Northeast Monsoon",
-        "Northwestern Winter",
-        "Winter Cyclone"
+        "Export of first drone",
+        "India becoming net exporter of oil",
+        "Joining WTO",
+        "Exporting software services"
       ],
-      "correct": 0,
-      "explanation": "Western Disturbances refer to the low-pressure systems that bring cooler temperatures and rainfall to northern India during the winter months, typically from December to February."
+      "correct": 3,
+      "explanation": "India has increasingly become a major exporter of software and IT services in recent years."
     },
     {
       "id": 19,
-      "category": "Rivers",
-      "question": "Which of the following rivers flows through the Satpura mountain range?",
+      "category": "General Science",
+      "question": "The phenomenon of 'Superconductivity' occurs when a material conducts electricity with zero:",
       "options": [
-        "Narmada River",
-        "Tapi River",
-        "Godavari River",
-        "Mahanadi River"
+        "Resistance",
+        "Magnetic field",
+        "Voltage",
+        "Energy loss"
       ],
       "correct": 0,
-      "explanation": "The Narmada River flows through the Satpura mountain range, originating in the Amarkantak Plateau and flowing westwards into the Arabian Sea."
+      "explanation": "Superconductivity is characterized by zero electrical resistance below a critical temperature."
     },
     {
       "id": 20,
-      "category": "Resources",
-      "question": "Which state in India is the largest producer of coal?",
+      "category": "General Science",
+      "question": "Which element is essential for the production of thyroid hormones?",
       "options": [
-        "Jharkhand",
-        "Odisha",
-        "Chhattisgarh",
-        "West Bengal"
+        "Calcium",
+        "Iodine",
+        "Iron",
+        "Zinc"
       ],
-      "correct": 0,
-      "explanation": "Jharkhand is the largest producer of coal in India, accounting for over 25% of the country's total coal production, with significant deposits found in the Dhanbad and Bokaro districts."
+      "correct": 1,
+      "explanation": "Iodine is crucial for synthesizing thyroid hormones, and its deficiency leads to goitre."
     },
     {
       "id": 21,
-      "category": "Indian Polity & Governance",
-      "question": "Which of the following is a feature of the Indian Constitution?",
+      "category": "General Science",
+      "question": "The DNA molecule is primarily responsible for:",
       "options": [
-        "Federal system with a weak center",
-        "Unitary system with a strong center",
-        "Parliamentary system with an elected head",
-        "Presidential system with a nominated head"
+        "Protein synthesis",
+        "Energy production",
+        "Nutrient absorption",
+        "Cell division"
       ],
-      "correct": 2,
-      "explanation": "The Indian Constitution provides for a parliamentary system with an elected head, which is the President."
+      "correct": 0,
+      "explanation": "DNA contains genetic information essential for protein synthesis."
     },
     {
       "id": 22,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Right to Freedom of Speech and Expression?",
+      "category": "General Science",
+      "question": "Which technology is primarily used in solar panels to generate electricity?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 25"
+        "Photovoltaic cells",
+        "Thermoelectric generators",
+        "Electrochemical cells",
+        "Induction coils"
       ],
-      "correct": 1,
-      "explanation": "Article 19 of the Indian Constitution deals with the Right to Freedom of Speech and Expression."
+      "correct": 0,
+      "explanation": "Photovoltaic cells convert solar energy directly into electricity."
     },
     {
       "id": 23,
-      "category": "Indian Polity & Governance",
-      "question": "What is the term of the Lok Sabha?",
+      "category": "Environment & Ecology",
+      "question": "The Convention on Biological Diversity was adopted in the year:",
       "options": [
-        "4 years",
-        "5 years",
-        "6 years",
-        "7 years"
+        "1992",
+        "2000",
+        "1986",
+        "1972"
       ],
-      "correct": 1,
-      "explanation": "The term of the Lok Sabha is 5 years."
+      "correct": 0,
+      "explanation": "The Convention on Biological Diversity was adopted in 1992 at the Rio Earth Summit."
     },
     {
       "id": 24,
-      "category": "Indian Polity & Governance",
-      "question": "Which of the following is NOT a type of writ issued by the Supreme Court?",
+      "category": "Environment & Ecology",
+      "question": "Which of the following is the flagship program of India for wildlife conservation?",
       "options": [
-        "Habeas Corpus",
-        "Mandamus",
-        "Prohibition",
-        "Certiorari"
+        "Project Tiger",
+        "Project Green India",
+        "Wildlife Protection Act",
+        "National Biodiversity Action Plan"
       ],
-      "correct": 3,
-      "explanation": "While Certiorari is indeed a type of writ, there is another option that could fit this question -  however since all others are correct types, it is to be considered as NOT a type in this context as per the logic of question."
+      "correct": 0,
+      "explanation": "Project Tiger was launched specifically to conserve Bengal tigers and their habitats."
     },
     {
       "id": 25,
-      "category": "Indian Polity & Governance",
-      "question": "Who is the head of the Panchayati Raj system at the district level?",
+      "category": "Environment & Ecology",
+      "question": "Eco-sensitive zones are designated around:",
       "options": [
-        "District Collector",
-        "District Magistrate",
-        "Zila Parishad Chairman",
-        "Chief Minister"
+        "Wildlife sanctuaries and national parks",
+        "Industrial areas",
+        "Urban settlements",
+        "Agricultural lands"
       ],
-      "correct": 2,
-      "explanation": "The Zila Parishad Chairman is the head of the Panchayati Raj system at the district level."
+      "correct": 0,
+      "explanation": "Eco-sensitive zones are designated around protected areas to regulate activities impacting ecology."
     },
     {
       "id": 26,
-      "category": "Indian Polity & Governance",
-      "question": "Which of the following is a Fundamental Right under the Indian Constitution?",
+      "category": "Environment & Ecology",
+      "question": "The main purpose of the Paris Agreement is to:",
       "options": [
-        "Right to Property",
-        "Right to Education",
-        "Right to Freedom of Speech and Expression",
-        "Right to Employment"
+        "Reduce carbon emissions",
+        "Promote trade",
+        "Enhance biodiversity",
+        "Control water pollution"
       ],
-      "correct": 2,
-      "explanation": "The Right to Freedom of Speech and Expression is a Fundamental Right under the Indian Constitution."
+      "correct": 0,
+      "explanation": "The Paris Agreement primarily aims to limit global temperature rise by reducing carbon emissions."
     },
     {
       "id": 27,
-      "category": "Indian Polity & Governance",
-      "question": "Who appoints the Governor of a state?",
+      "category": "Current Affairs & GK",
+      "question": "Which country recently launched the 'Bharat Drone Award' to promote drone technology?",
       "options": [
-        "President",
-        "Prime Minister",
-        "Chief Minister",
-        "High Court"
+        "India",
+        "USA",
+        "China",
+        "Russia"
       ],
       "correct": 0,
-      "explanation": "The President appoints the Governor of a state."
+      "explanation": "India launched the 'Bharat Drone Award' to encourage innovation and promote drone technology."
     },
     {
       "id": 28,
-      "category": "Indian Polity & Governance",
-      "question": "What is the minimum age for a person to be eligible to vote in India?",
+      "category": "Current Affairs & GK",
+      "question": "Who won the Nobel Peace Prize in 2023?",
       "options": [
-        "18 years",
-        "21 years",
-        "25 years",
-        "30 years"
+        "Climate Activists",
+        "UN Peacekeepers",
+        "WHO",
+        "International Campaign to Abolish Nuclear Weapons"
       ],
-      "correct": 0,
-      "explanation": "The minimum age for a person to be eligible to vote in India is 18 years."
+      "correct": 3,
+      "explanation": "The 2023 Nobel Peace Prize was awarded to the International Campaign to Abolish Nuclear Weapons for their efforts to promote nuclear disarmament."
     },
     {
       "id": 29,
-      "category": "Indian Polity & Governance",
-      "question": "Which of the following is a function of the Judiciary?",
+      "category": "Current Affairs & GK",
+      "question": "Which scheme aims to promote Digital India and digital literacy among students?",
       "options": [
-        "Law-making",
-        "Law-enforcement",
-        "Law-interpretation",
-        "Law-execution"
+        "Digital Saksharta Abhiyan",
+        "Startup India",
+        "Make in India",
+        "Skill India"
       ],
-      "correct": 2,
-      "explanation": "The Judiciary is responsible for law-interpretation."
+      "correct": 0,
+      "explanation": "Digital Saksharta Abhiyan aims to promote digital literacy among students and citizens."
     },
     {
       "id": 30,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the powers of the Supreme Court?",
+      "category": "Current Affairs & GK",
+      "question": "India hosted the G20 Summit in which year?",
       "options": [
-        "Article 124",
-        "Article 126",
-        "Article 131",
-        "Article 136"
+        "2022",
+        "2023",
+        "2024",
+        "2025"
       ],
-      "correct": 0,
-      "explanation": "Article 124 of the Indian Constitution deals with the powers of the Supreme Court."
+      "correct": 1,
+      "explanation": "India hosted the G20 Summit in 2023, emphasizing economic cooperation among member countries."
     }
   ]
 }
