@@ -155,35 +155,12 @@ function setTodayDate() {
     document.getElementById('today-date').textContent = today.toLocaleDateString('en-IN', options);
 }
 
-// ===== Get Today's Cache Key =====
-function getTodayCacheKey(examType) {
-    const today = new Date();
-    const dateStr = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
-    return `mock_test_${examType}_${dateStr}`;
-}
 
 // ===== Load Questions from Static JSON =====
 async function loadQuestions(examType) {
-    const cacheKey = getTodayCacheKey(examType);
-
-    // Check localStorage cache first
-    const cached = localStorage.getItem(cacheKey);
-    if (cached) {
-        try {
-            const parsed = JSON.parse(cached);
-            if (Array.isArray(parsed) && parsed.length >= 10) {
-                return parsed;
-            }
-        } catch (_parseError) {
-            localStorage.removeItem(cacheKey);
-        }
-    }
-
-    // Fetch from static JSON file (generated daily by GitHub Actions)
-    // Add date as cache-buster to always get today's fresh questions
-    const today = new Date();
-    const cacheBust = `${today.getFullYear()}${today.getMonth()+1}${today.getDate()}`;
-    const response = await fetch(`questions/${examType}.json?v=${cacheBust}`);
+    // Always fetch fresh from server - use timestamp to bust all caches
+    const cacheBust = Date.now();
+    const response = await fetch(`questions/${examType}.json?t=${cacheBust}`);
 
     if (!response.ok) {
         throw new Error(`Questions not available for ${EXAM_CONFIG[examType].name}. Please try again later.`);
@@ -196,36 +173,9 @@ async function loadQuestions(examType) {
         throw new Error(`No questions found for ${EXAM_CONFIG[examType].name}.`);
     }
 
-    // Only cache if the JSON date matches today (prevents stale cache)
-    const jsonDate = data.date || '';
-    const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
-    if (jsonDate === todayStr) {
-        localStorage.setItem(cacheKey, JSON.stringify(questions));
-    }
-
-    // Clean up old caches
-    cleanOldCache();
-
     return questions;
 }
 
-// ===== Clean Old Cache =====
-function cleanOldCache() {
-    const keys = Object.keys(localStorage);
-    const today = new Date();
-
-    keys.forEach(key => {
-        if (key.startsWith('mock_test_')) {
-            const parts = key.split('_');
-            const dateStr = parts.slice(-3).join('-');
-            const cacheDate = new Date(dateStr);
-            const daysDiff = (today - cacheDate) / (1000 * 60 * 60 * 24);
-            if (daysDiff > 3) {
-                localStorage.removeItem(key);
-            }
-        }
-    });
-}
 
 // ===== Start Test =====
 async function startTest(examType) {
