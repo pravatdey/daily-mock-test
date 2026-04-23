@@ -2,21 +2,22 @@
  * Daily Question Generator Script
  *
  * Runs via GitHub Actions at 12 AM IST daily.
- * Uses Groq API to generate questions.
+ * Uses GitHub Models (primary) and Groq (fallback).
  * Saves results as static JSON files in questions/ directory.
  */
 
 const fs = require('fs');
 const path = require('path');
 
+const GH_MODELS_TOKEN = process.env.GH_MODELS_TOKEN;
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
-if (!GROQ_API_KEY) {
-    console.error('ERROR: GROQ_API_KEY not set. Add it to GitHub Secrets.');
+if (!GH_MODELS_TOKEN && !GROQ_API_KEY) {
+    console.error('ERROR: No API keys. Add GH_MODELS_TOKEN or GROQ_API_KEY to GitHub Secrets.');
     process.exit(1);
 }
 
-// ===== Exam Configurations (3 exams only) =====
+// ===== Exam Configurations =====
 const EXAMS = {
     upsc: {
         name: 'UPSC Prelims',
@@ -68,7 +69,93 @@ Questions should be at intermediate difficulty - suitable for RI/Amin level exam
     }
 };
 
-// ===== Groq API Call - generates in batches to stay under token limits =====
+// ===== Build prompt =====
+function buildPrompt(examConfig, dateStr) {
+    return `${examConfig.prompt}
+
+IMPORTANT:
+- Date seed: ${dateStr} - ensure unique questions for today
+- Generate EXACTLY ${examConfig.questionCount} questions
+- Each question: 4 options (A, B, C, D)
+- Questions must be UNIQUE
+- Include explanations for correct answers
+- Difficulty mix: 30% easy, 50% medium, 20% hard
+
+Return ONLY valid JSON array:
+[{"id":1,"category":"Topic","question":"Q?","options":["A","B","C","D"],"correct":0,"explanation":"Why"}]
+"correct" = 0-based index (0=A,1=B,2=C,3=D). Return ONLY the JSON array.`;
+}
+
+// ===== Parse questions from API response =====
+function parseQuestions(text, examConfig) {
+    let jsonStr = text.trim();
+    if (jsonStr.startsWith('```')) {
+        jsonStr = jsonStr.replace(/```json?\n?/g, '').replace(/```$/g, '').trim();
+    }
+
+    let questions;
+    const parsed = JSON.parse(jsonStr);
+
+    if (Array.isArray(parsed)) {
+        questions = parsed;
+    } else if (typeof parsed === 'object' && parsed !== null) {
+        for (const value of Object.values(parsed)) {
+            if (Array.isArray(value) && value.length > 0 && value[0].question) {
+                questions = value;
+                break;
+            }
+        }
+    }
+
+    if (!Array.isArray(questions) || questions.length === 0) {
+        throw new Error(`Invalid question format for ${examConfig.name}`);
+    }
+
+    return questions.slice(0, examConfig.questionCount).map((q, i) => ({
+        id: i + 1,
+        category: q.category || 'General',
+        question: q.question,
+        options: Array.isArray(q.options) ? q.options.slice(0, 4) : ['A', 'B', 'C', 'D'],
+        correct: typeof q.correct === 'number' ? q.correct : 0,
+        explanation: q.explanation || 'No explanation available.'
+    }));
+}
+
+// ===== GitHub Models API Call (Primary) =====
+async function callGitHubModels(fullPrompt, examConfig) {
+    const response = await fetch('https://models.github.ai/inference/chat/completions', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${GH_MODELS_TOKEN}`
+        },
+        body: JSON.stringify({
+            model: 'openai/gpt-4.1-nano',
+            messages: [
+                {
+                    role: 'system',
+                    content: 'You are an expert exam question generator for Indian competitive exams. Return ONLY a valid JSON array of question objects. No markdown, no extra text.'
+                },
+                { role: 'user', content: fullPrompt }
+            ],
+            temperature: 0.9,
+            max_tokens: 16000
+        })
+    });
+
+    if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}));
+        throw new Error(`GitHub Models ${response.status}: ${errorData?.error?.message || 'Unknown error'}`);
+    }
+
+    const data = await response.json();
+    const textContent = data.choices?.[0]?.message?.content;
+    if (!textContent) throw new Error('Empty response from GitHub Models');
+
+    return parseQuestions(textContent, examConfig);
+}
+
+// ===== Groq API Call (Fallback - batched) =====
 async function callGroqBatch(batchPrompt) {
     const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
         method: 'POST',
@@ -81,7 +168,7 @@ async function callGroqBatch(batchPrompt) {
             messages: [
                 {
                     role: 'system',
-                    content: 'You are an expert exam question generator for Indian competitive exams. Return ONLY a valid JSON object with a "questions" key containing an array of question objects. No extra text.'
+                    content: 'You are an expert exam question generator for Indian competitive exams. Return ONLY a valid JSON object with a "questions" key containing an array of question objects.'
                 },
                 { role: 'user', content: batchPrompt }
             ],
@@ -102,7 +189,6 @@ async function callGroqBatch(batchPrompt) {
 
     const parsed = JSON.parse(textContent);
 
-    // Find the questions array
     let questions;
     if (Array.isArray(parsed)) {
         questions = parsed;
@@ -122,7 +208,7 @@ async function callGroqBatch(batchPrompt) {
     return questions;
 }
 
-async function generateQuestions(examKey, examConfig, dateStr) {
+async function callGroq(examConfig, dateStr) {
     const batchSize = 10;
     const totalQuestions = examConfig.questionCount;
     const batches = Math.ceil(totalQuestions / batchSize);
@@ -136,16 +222,15 @@ async function generateQuestions(examKey, examConfig, dateStr) {
         const batchNum = batch + 1;
         const topic = topics[batch % topics.length] || 'General Knowledge';
 
-        const batchPrompt = `Generate ${count} unique MCQ for ${examConfig.name} exam. Topic focus: ${topic}. Date seed: ${dateStr}-b${batchNum}
+        const batchPrompt = `Generate ${count} unique MCQ for ${examConfig.name} exam. Topic: ${topic}. Date: ${dateStr}-b${batchNum}
 
 Return JSON: {"questions":[{"id":1,"category":"Topic","question":"Q?","options":["A","B","C","D"],"correct":0,"explanation":"Why"}]}
-"correct" = 0-based index (0=A,1=B,2=C,3=D). EXACTLY ${count} questions.`;
+"correct" = 0-based index. EXACTLY ${count} questions.`;
 
-        console.log(`    Batch ${batchNum}/${batches} (${count}q)...`);
+        console.log(`    Groq batch ${batchNum}/${batches} (${count}q)...`);
         const batchQuestions = await callGroqBatch(batchPrompt);
         allQuestions = allQuestions.concat(batchQuestions);
 
-        // Wait 62s between batches to reset TPM window
         if (batch < batches - 1) {
             console.log(`    ⏳ Waiting 62s for rate limit reset...`);
             await new Promise(resolve => setTimeout(resolve, 62000));
@@ -162,6 +247,36 @@ Return JSON: {"questions":[{"id":1,"category":"Topic","question":"Q?","options":
     }));
 }
 
+// ===== Generate with fallback =====
+async function generateQuestions(examKey, examConfig, dateStr) {
+    const fullPrompt = buildPrompt(examConfig, dateStr);
+
+    // Try GitHub Models first (fast, single call)
+    if (GH_MODELS_TOKEN) {
+        try {
+            const questions = await callGitHubModels(fullPrompt, examConfig);
+            console.log(`  ✓ ${examConfig.name}: ${questions.length} questions (GitHub Models)`);
+            return questions;
+        } catch (error) {
+            console.log(`  ⚠ GitHub Models failed: ${error.message}`);
+        }
+    }
+
+    // Fallback to Groq (batched)
+    if (GROQ_API_KEY) {
+        try {
+            console.log(`  → Trying Groq fallback...`);
+            const questions = await callGroq(examConfig, dateStr);
+            console.log(`  ✓ ${examConfig.name}: ${questions.length} questions (Groq)`);
+            return questions;
+        } catch (error) {
+            console.log(`  ⚠ Groq failed: ${error.message}`);
+        }
+    }
+
+    throw new Error(`All APIs failed for ${examConfig.name}`);
+}
+
 // ===== Main =====
 async function main() {
     const questionsDir = path.join(__dirname, '..', 'questions');
@@ -175,7 +290,7 @@ async function main() {
 
     console.log(`\n=== Daily Question Generator ===`);
     console.log(`Date: ${dateStr}`);
-    console.log(`API: Groq ✓`);
+    console.log(`APIs: ${GH_MODELS_TOKEN ? 'GitHub Models ✓' : 'GitHub Models ✗'} | ${GROQ_API_KEY ? 'Groq ✓' : 'Groq ✗'}`);
     console.log(`Exams: ${Object.keys(EXAMS).join(', ')}\n`);
 
     let successCount = 0;
@@ -197,7 +312,6 @@ async function main() {
             };
 
             fs.writeFileSync(filePath, JSON.stringify(output, null, 2));
-            console.log(`  ✓ ${examConfig.name}: ${questions.length} questions saved`);
             successCount++;
 
         } catch (error) {
@@ -205,9 +319,9 @@ async function main() {
             failCount++;
         }
 
-        // Delay between exams
+        // Small delay between exams
         if (Object.keys(EXAMS).indexOf(examKey) < Object.keys(EXAMS).length - 1) {
-            await new Promise(resolve => setTimeout(resolve, 5000));
+            await new Promise(resolve => setTimeout(resolve, 3000));
         }
     }
 
