@@ -1,138 +1,138 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-04-23",
+  "date": "2026-04-24",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is primarily a collection of hymns dedicated to various deities?",
+      "question": "Which of the following ancient Indian scriptures primarily contains hymns dedicated to deities like Agni and Indra?",
       "options": [
-        "Arthashastra",
         "Vedas",
-        "Ramayana",
-        "Mahabharata"
+        "Upanishads",
+        "Puranas",
+        "Darsanas"
       ],
-      "correct": 1,
-      "explanation": "The Vedas are a collection of hymns and are among the oldest texts of Indian religious literature, dedicated to various deities."
+      "correct": 0,
+      "explanation": "The Vedas, especially Rigveda, contain hymns dedicated to gods like Agni and Indra, making them the primary ancient texts with such hymns."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the main architect of the Indian Constitution?",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel",
-        "Rajendra Prasad"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
       "correct": 0,
-      "explanation": "Dr. B.R. Ambedkar is known as the principal architect of the Indian Constitution due to his significant role in drafting it."
+      "explanation": "Babur founded the Mughal Empire in India after his victory at Panipat in 1526."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "The Revolt of 1857 is also known as:",
+      "question": "The Non-Cooperation Movement was launched in which year?",
       "options": [
-        "First War of Independence",
-        "Sepoy Mutiny",
-        "Both A and B",
-        "Indian Civil War"
+        "1920",
+        "1919",
+        "1930",
+        "1942"
       ],
-      "correct": 2,
-      "explanation": "The Revolt of 1857 is commonly called both the First War of Independence and Sepoy Mutiny, reflecting its significance in Indian history."
+      "correct": 0,
+      "explanation": "The Non-Cooperation Movement was launched in 1920 under Mahatma Gandhi's leadership."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Which Indian freedom fighter is associated with non-violent resistance and championed the idea of Satyagraha?",
+      "question": "Which Indian leader is associated with the formation of the Indian National Army (INA)?",
       "options": [
         "Subhas Chandra Bose",
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
         "Bhagat Singh"
       ],
-      "correct": 1,
-      "explanation": "Mahatma Gandhi pioneered the concept of Satyagraha—a form of non-violent resistance—during the Indian independence movement."
+      "correct": 0,
+      "explanation": "Subhas Chandra Bose was a key leader associated with the formation of the Indian National Army (INA)."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "The Treaty of Sevres (1920) was associated with which event or country?",
+      "question": "Which event marked the end of the Mughal Empire in India?",
       "options": [
-        "Partition of Bengal",
-        "World War I aftermath",
-        "Indo-Pak Relations",
-        "Indian Independence"
+        "Battle of Plassey",
+        "Battle of Panipat",
+        "Surrender of Bahadur Shah Zafar",
+        "Partition of Bengal"
       ],
-      "correct": 1,
-      "explanation": "The Treaty of Sevres was an agreement after World War I, affecting the Ottoman Empire, not directly related to India."
+      "correct": 2,
+      "explanation": "The surrender of Bahadur Shah Zafar in 1857 marked the end of Mughal rule and the start of British colonial dominance."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "The Thar Desert is primarily located in which Indian state?",
+      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Ganga",
+        "Kosi",
+        "Yamuna",
+        "Ghaghara"
       ],
-      "correct": 0,
-      "explanation": "The Thar Desert predominantly covers Rajasthan, though parts extend into Gujarat and Punjab."
+      "correct": 1,
+      "explanation": "The Kosi River is called the 'Sorrow of Bihar' because of regular flooding causing widespread damage."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Ganges of the South'?",
+      "question": "Which is the largest desert in India?",
       "options": [
-        "Godavari",
-        "Krishna",
-        "Kaveri",
-        "Mahanadi"
+        "Thar Desert",
+        "Rann of Kutch",
+        "Ladakh Desert",
+        "Kutch Desert"
       ],
-      "correct": 2,
-      "explanation": "The Kaveri River is often called the 'Ganges of the South' due to its cultural and religious significance."
+      "correct": 0,
+      "explanation": "The Thar Desert is the largest desert in India, located in Rajasthan."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which mountain range forms the natural border between India and China?",
+      "question": "Which of the following is a non-renewable resource?",
       "options": [
-        "Himalayas",
-        "Aravalli",
-        "Western Ghats",
-        "Vindhya"
+        "Solar energy",
+        "Natural gas",
+        "Wind energy",
+        "Biomass"
       ],
-      "correct": 0,
-      "explanation": "The Himalayas form the natural border between India and China, including some of the world's highest peaks."
+      "correct": 1,
+      "explanation": "Natural gas is a fossil fuel and considered a non-renewable resource."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which mineral resource is India the world's largest producer of?",
+      "question": "The climate of the Western Ghats is primarily classified as:",
       "options": [
-        "Coal",
-        "Mica",
-        "Bauxite",
-        "Iron ore"
+        "Tropical rainforest",
+        "Desert",
+        "Mediterranean",
+        "Tundra"
       ],
-      "correct": 1,
-      "explanation": "India is the world’s largest producer of Mica, used in electrical and electronic industries."
+      "correct": 0,
+      "explanation": "Western Ghats have a tropical rainforest climate with high rainfall."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "The Directive Principles of State Policy are enshrined in which part of the Indian Constitution?",
+      "question": "The Directive Principles of State Policy in the Indian Constitution are primarily inspired by which country’s constitution?",
       "options": [
-        "Part III",
-        "Part IV",
-        "Part VI",
-        "Part V"
+        "Ireland",
+        "Canada",
+        "Australia",
+        "United Kingdom"
       ],
-      "correct": 1,
-      "explanation": "Part IV of the Indian Constitution contains the Directive Principles of State Policy."
+      "correct": 0,
+      "explanation": "The Directive Principles are inspired by the Irish Constitution."
     },
     {
       "id": 11,
@@ -142,257 +142,257 @@
         "President",
         "Prime Minister",
         "Lok Sabha",
-        "Chief Justice of India"
+        "Judges of Supreme Court"
       ],
       "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India under the Constitution."
+      "explanation": "The President appoints the Chief Justice of India."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The Lok Sabha has a maximum strength of 552 members. How many members are directly elected?",
+      "question": "The concept of 'Judicial Review' in India is derived from which document?",
       "options": [
-        "530",
-        "540",
-        "550",
-        "552"
+        "Constitution of India",
+        "British Constitution",
+        "US Constitution",
+        "French Constitution"
       ],
-      "correct": 1,
-      "explanation": "Out of total members, 530 are elected directly, with others representing states, Union Territories, etc."
+      "correct": 2,
+      "explanation": "Judicial Review in India is derived from the US Constitution, where it was established by the Supreme Court in Marbury v. Madison."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "The concept of 'Judicial Review' in India is borrowed from which country’s Constitution?",
+      "question": "Which article of the Indian Constitution deals with the Panchayats?",
       "options": [
-        "USA",
-        "UK",
-        "Australia",
-        "Canada"
+        "Article 40",
+        "Article 243",
+        "Article 370",
+        "Article 356"
       ],
-      "correct": 0,
-      "explanation": "The concept of Judicial Review is borrowed from the USA Constitution, enabling courts to strike down unconstitutional laws."
+      "correct": 1,
+      "explanation": "Article 243 deals with Panchayats in the Indian Constitution."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "Panchayati Raj system in India is primarily based on which Article of the Constitution?",
+      "category": "Indian Economy",
+      "question": "The budget deficit refers to:",
       "options": [
-        "Article 37",
-        "Article 40",
-        "Article 243",
-        "Article 368"
+        "Expenditure exceeding revenue",
+        "Revenue exceeding expenditure",
+        "Tax collection deficiency",
+        "Loan repayment deficiency"
       ],
-      "correct": 2,
-      "explanation": "Article 243 of the Indian Constitution provides for Panchayats and decentralized governance."
+      "correct": 0,
+      "explanation": "Budget deficit occurs when a government's expenditure exceeds its revenue."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "The Budget of the Government of India is presented by the:",
+      "question": "Which financial institution is primarily responsible for regulating the banking sector in India?",
       "options": [
-        "President",
-        "Finance Minister",
-        "Prime Minister",
-        "Lok Sabha"
+        "Reserve Bank of India",
+        "Securities and Exchange Board of India",
+        "Ministry of Finance",
+        "NABARD"
       ],
-      "correct": 1,
-      "explanation": "The Finance Minister presents the Union Budget in Parliament."
+      "correct": 0,
+      "explanation": "The Reserve Bank of India (RBI) is responsible for regulating the banking sector."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which sector contributes the maximum to India’s GDP?",
+      "question": "The term 'Gross Domestic Product' (GDP) refers to:",
       "options": [
-        "Agriculture",
-        "Industry",
-        "Services",
-        "Manufacturing"
+        "Total value of goods and services produced within a country in a year",
+        "Total exports of a country",
+        "Total government spending",
+        "Total savings in the economy"
       ],
-      "correct": 2,
-      "explanation": "The Services sector contributes the largest share to India’s GDP among all sectors."
+      "correct": 0,
+      "explanation": "GDP measures the total value of goods and services produced within a country in a specific period."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "What does the term 'Fiscal Deficit' refer to?",
+      "question": "Five Year Plans in India were replaced by which framework?",
       "options": [
-        "Excess of revenue over expenditure",
-        "Excess of expenditure over revenue",
-        "Difference between total borrowing and revenue",
-        "None of the above"
+        "Five Year Plans continue",
+        "Five Year Development Agenda",
+        "Union Budget",
+        "Economic Reforms"
       ],
-      "correct": 1,
-      "explanation": "Fiscal deficit is the excess of the government’s total expenditure over its total revenue."
+      "correct": 2,
+      "explanation": "India replaced Five Year Plans with a continuous process of planning through the Union Budget."
     },
     {
       "id": 18,
-      "category": "Indian Economy",
-      "question": "The 'Make in India' initiative aims to promote:",
+      "category": "General Science",
+      "question": "Which particle is responsible for carrying the force of electromagnetism?",
       "options": [
-        "Agricultural exports",
-        "Manufacturing sector",
-        "IT services",
-        "Renewable energy"
+        "Photon",
+        "Electron",
+        "Proton",
+        "Neutron"
       ],
-      "correct": 1,
-      "explanation": "'Make in India' aims to promote manufacturing and boost domestic production."
+      "correct": 0,
+      "explanation": "Photons are the force carriers for electromagnetic interactions."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which planet has the most moons?",
+      "question": "The pH value of a neutral solution at room temperature is:",
       "options": [
-        "Jupiter",
-        "Saturn",
-        "Mars",
-        "Neptune"
+        "7",
+        "0",
+        "14",
+        "1"
       ],
-      "correct": 1,
-      "explanation": "Saturn has the most moons among planets in our Solar System."
+      "correct": 0,
+      "explanation": "A neutral solution at room temperature has a pH of 7."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "The primary component of natural gas is:",
+      "question": "Which biological process is responsible for converting atmospheric nitrogen into a form usable by plants?",
       "options": [
-        "Methane",
-        "Butane",
-        "Propane",
-        "Ethane"
+        "Nitrogen fixation",
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration"
       ],
       "correct": 0,
-      "explanation": "Methane is the main component of natural gas."
+      "explanation": "Nitrogen fixation converts atmospheric nitrogen into ammonia, usable by plants."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "DNA stands for:",
+      "question": "The Hubble Space Telescope primarily observes objects in which spectrum?",
       "options": [
-        "Deoxyribonucleic Acid",
-        "Deoxyribose Nucleic Acid",
-        "Deoxyribonuclear Acid",
-        "Deoxyribo Nucleic Acid"
+        "Visible light",
+        "Radio waves",
+        "X-rays",
+        "Infrared"
       ],
       "correct": 0,
-      "explanation": "DNA stands for Deoxyribonucleic Acid."
+      "explanation": "Hubble primarily observes in the visible spectrum, along with ultraviolet and near-infrared."
     },
     {
       "id": 22,
-      "category": "General Science",
-      "question": "Hubble Space Telescope primarily observes in which part of the electromagnetic spectrum?",
+      "category": "Environment & Ecology",
+      "question": "Which of the following UNESCO sites is a UNESCO World Heritage Site dedicated to biodiversity conservation in India?",
       "options": [
-        "Radio waves",
-        "Infrared",
-        "Ultraviolet",
-        "Visible light"
+        "Sundarbans",
+        "Kaziranga National Park",
+        "Sundarban",
+        "Gir Forest"
       ],
-      "correct": 3,
-      "explanation": "Hubble primarily observes in the visible spectrum, along with ultraviolet and infrared."
+      "correct": 1,
+      "explanation": "Kaziranga National Park is a UNESCO World Heritage Site known for its biodiversity and rhino conservation."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a flagship biodiversity conservation program of India?",
+      "question": "The main cause of global climate change is:",
       "options": [
-        "Project Tiger",
-        "Project Greenbelt",
-        "Project Waterbodies",
-        "Project Desert"
+        "Deforestation",
+        "Greenhouse gas emissions",
+        "Urbanization",
+        "Ozone depletion"
       ],
-      "correct": 0,
-      "explanation": "Project Tiger is a flagship program aimed at conserving Bengal tigers."
+      "correct": 1,
+      "explanation": "Greenhouse gas emissions, mainly CO2, are the primary cause of global climate change."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The Kyoto Protocol is related to:",
+      "question": "Which law regulates environmental protection in India?",
       "options": [
-        "Climate Change",
-        "Deforestation",
-        "Ozone Depletion",
-        "Wetlands Conservation"
+        "Wildlife Protection Act",
+        "Environment Protection Act",
+        "Air Act",
+        "Water Act"
       ],
-      "correct": 0,
-      "explanation": "Kyoto Protocol is an international treaty related to reducing greenhouse gases and climate change."
+      "correct": 1,
+      "explanation": "The Environment Protection Act, 1986, provides broad regulation for environmental protection."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which environmental law aims to protect the ozone layer in India?",
+      "question": "The 'Red Data Book' is related to:",
       "options": [
-        "Air Act",
-        "Environment Protection Act",
-        "Ozone Depleting Substances (Regulation and Control) Act",
-        "Wildlife Protection Act"
+        "Endangered species",
+        "Forests",
+        "Water bodies",
+        "Air quality"
       ],
-      "correct": 2,
-      "explanation": "The Ozone Depleting Substances (Regulation and Control) Act is specifically aimed at protecting the ozone layer."
+      "correct": 0,
+      "explanation": "The Red Data Book lists endangered and rare species of flora and fauna."
     },
     {
       "id": 26,
-      "category": "Environment & Ecology",
-      "question": "The term 'Biosphere Reserve' is used to denote:",
+      "category": "Current Affairs & GK",
+      "question": "Which scheme was launched by India to promote digital payments and financial inclusion?",
       "options": [
-        "Protected areas for wildlife",
-        "Zones for sustainable development",
-        "Areas designated for environmental education",
-        "Large protected ecological zones that promote conservation"
+        "Digital India",
+        "Make in India",
+        "Startup India",
+        "Skill India"
       ],
-      "correct": 3,
-      "explanation": "Biosphere Reserves are large ecological zones that promote conservation and sustainable use."
+      "correct": 0,
+      "explanation": "Digital India aims to promote digital payments and financial inclusion."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Which country hosted the 2022 G20 Summit?",
+      "question": "Who was awarded the Nobel Peace Prize in 2024?",
       "options": [
-        "India",
-        "Italy",
-        "Indonesia",
-        "Germany"
+        "Climate Action Network",
+        "UN Peacekeeping",
+        "Malala Yousafzai",
+        "World Food Programme"
       ],
-      "correct": 0,
-      "explanation": "India hosted the G20 Summit in 2022, with New Delhi as the host city."
+      "correct": 1,
+      "explanation": "The Nobel Peace Prize 2024 was awarded to UN Peacekeeping for its efforts in maintaining peace."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Who won the Nobel Peace Prize in 2023?",
+      "question": "Which country hosted the G20 Summit in 2023?",
       "options": [
-        "Viktor Orban",
-        "Malala Yousafzai",
-        "International Campaign to Abolish Nuclear Weapons",
-        "Greta Thunberg"
+        "India",
+        "United States",
+        "Japan",
+        "Brazil"
       ],
-      "correct": 2,
-      "explanation": "The International Campaign to Abolish Nuclear Weapons was awarded the Nobel Peace Prize in 2023."
+      "correct": 0,
+      "explanation": "India hosted the G20 Summit in 2023."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Which Indian scheme aims to provide financial assistance to pregnant women for health and nutrition?",
+      "question": "Which Indian sports person won the Gold medal in Tokyo 2020 Olympics for wrestling?",
       "options": [
-        "Swachh Bharat",
-        "Ayushman Bharat",
-        "Pradhan Mantri Matru Vandana Yojana",
-        "Digital India"
+        "Vinesh Phogat",
+        "Sakshi Malik",
+        "P.V. Sindhu",
+        "Neeraj Chopra"
       ],
-      "correct": 2,
-      "explanation": "Pradhan Mantri Matru Vandana Yojana provides financial assistance to pregnant women for health and nutrition."
+      "correct": 0,
+      "explanation": "Vinesh Phogat won a gold medal in wrestling at Tokyo 2020 Olympics."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Which sportsperson won the men's singles title at the 2023 Wimbledon Championships?",
+      "question": "The Pradhan Mantri Awas Yojana aims to provide:",
       "options": [
-        "Novak Djokovic",
-        "Roger Federer",
-        "Rafael Nadal",
-        "Andy Murray"
+        "Affordable housing",
+        "Free education",
+        "Rural electrification",
+        "Clean drinking water"
       ],
       "correct": 0,
-      "explanation": "Novak Djokovic won the men's singles title at Wimbledon 2023."
+      "explanation": "Pradhan Mantri Awas Yojana is focused on providing affordable housing to urban poor."
     }
   ]
 }
