@@ -1,73 +1,73 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-04-24",
+  "date": "2026-04-25",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which of the following ancient Indian scriptures primarily contains hymns dedicated to deities like Agni and Indra?",
+      "question": "Which ancient Indian text is considered the earliest known treatise on surgery?",
       "options": [
-        "Vedas",
-        "Upanishads",
-        "Puranas",
-        "Darsanas"
+        "Charaka Samhita",
+        "Sushruta Samhita",
+        "Kautilya Artha Shastra",
+        "Arthashastra"
       ],
-      "correct": 0,
-      "explanation": "The Vedas, especially Rigveda, contain hymns dedicated to gods like Agni and Indra, making them the primary ancient texts with such hymns."
+      "correct": 1,
+      "explanation": "The Sushruta Samhita is the earliest known treatise on Surgery, attributed to Sushruta, an ancient Indian physician."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the founder of the Mughal Empire in India?",
+      "question": "Who was the founder of the Bengal Renaissance in the 19th century?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Raja Ram Mohan Roy",
+        "Swami Vivekananda",
+        "Rabindranath Tagore",
+        "Mahatma Gandhi"
       ],
       "correct": 0,
-      "explanation": "Babur founded the Mughal Empire in India after his victory at Panipat in 1526."
+      "explanation": "Raja Ram Mohan Roy is credited as the father of the Bengal Renaissance, promoting social and educational reform."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "The Non-Cooperation Movement was launched in which year?",
+      "question": "Which event marked the beginning of the Non-Cooperation Movement in India?",
       "options": [
-        "1920",
-        "1919",
-        "1930",
-        "1942"
+        "Jallianwala Bagh Massacre",
+        "Chauri Chaura Incident",
+        "Partition of Bengal",
+        "Rowlatt Act enforcement"
       ],
-      "correct": 0,
-      "explanation": "The Non-Cooperation Movement was launched in 1920 under Mahatma Gandhi's leadership."
+      "correct": 3,
+      "explanation": "The Non-Cooperation Movement was launched in 1920, primarily in response to the Rowlatt Act enforcement."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Which Indian leader is associated with the formation of the Indian National Army (INA)?",
+      "question": "The Battle of Plassey was fought in which year?",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bhagat Singh"
+        "1757",
+        "1761",
+        "1748",
+        "1775"
       ],
       "correct": 0,
-      "explanation": "Subhas Chandra Bose was a key leader associated with the formation of the Indian National Army (INA)."
+      "explanation": "The Battle of Plassey took place in 1757 and marked the start of British dominance in India."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Which event marked the end of the Mughal Empire in India?",
+      "question": "Who was the leader of the Salt Satyagraha in 1930?",
       "options": [
-        "Battle of Plassey",
-        "Battle of Panipat",
-        "Surrender of Bahadur Shah Zafar",
-        "Partition of Bengal"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Bhagat Singh",
+        "Subhas Chandra Bose"
       ],
-      "correct": 2,
-      "explanation": "The surrender of Bahadur Shah Zafar in 1857 marked the end of Mughal rule and the start of British colonial dominance."
+      "correct": 1,
+      "explanation": "Mahatma Gandhi led the Salt Satyagraha (Dandi March) in 1930 as part of his civil disobedience movement."
     },
     {
       "id": 6,
@@ -80,319 +80,319 @@
         "Ghaghara"
       ],
       "correct": 1,
-      "explanation": "The Kosi River is called the 'Sorrow of Bihar' because of regular flooding causing widespread damage."
+      "explanation": "The Kosi River is called the 'Sorrow of Bihar' because of its frequent and devastating floods."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which is the largest desert in India?",
+      "question": "Which is the largest plateau in India?",
       "options": [
-        "Thar Desert",
-        "Rann of Kutch",
-        "Ladakh Desert",
-        "Kutch Desert"
+        "Deccan Plateau",
+        "Chota Nagpur Plateau",
+        "Malwa Plateau",
+        "Mysore Plateau"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert is the largest desert in India, located in Rajasthan."
+      "explanation": "The Deccan Plateau is the largest plateau in India, covering most of southern India."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which of the following is a non-renewable resource?",
+      "question": "Which Indian state is the leading producer of tea?",
       "options": [
-        "Solar energy",
-        "Natural gas",
-        "Wind energy",
-        "Biomass"
+        "Assam",
+        "West Bengal",
+        "Karnataka",
+        "Uttar Pradesh"
       ],
-      "correct": 1,
-      "explanation": "Natural gas is a fossil fuel and considered a non-renewable resource."
+      "correct": 0,
+      "explanation": "Assam is the leading producer of tea in India, known for its extensive tea plantations."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "The climate of the Western Ghats is primarily classified as:",
+      "question": "The climate of Rajasthan is primarily classified as?",
       "options": [
         "Tropical rainforest",
         "Desert",
-        "Mediterranean",
-        "Tundra"
+        "Tundra",
+        "Humid subtropical"
       ],
-      "correct": 0,
-      "explanation": "Western Ghats have a tropical rainforest climate with high rainfall."
+      "correct": 1,
+      "explanation": "Rajasthan has a desert climate, especially in the Thar Desert region."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "The Directive Principles of State Policy in the Indian Constitution are primarily inspired by which country’s constitution?",
+      "question": "Which article of the Indian Constitution deals with the Union Executive?",
       "options": [
-        "Ireland",
-        "Canada",
-        "Australia",
-        "United Kingdom"
+        "Article 52",
+        "Article 74",
+        "Article 123",
+        "Article 356"
       ],
-      "correct": 0,
-      "explanation": "The Directive Principles are inspired by the Irish Constitution."
+      "correct": 1,
+      "explanation": "Article 74 of the Indian Constitution deals with the Council of Ministers and the Prime Minister, forming the Union Executive."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
       "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "President",
-        "Prime Minister",
-        "Lok Sabha",
-        "Judges of Supreme Court"
+        "President of India",
+        "Lok Sabha Speaker",
+        "Chief Justice of India",
+        "Prime Minister"
       ],
       "correct": 0,
-      "explanation": "The President appoints the Chief Justice of India."
+      "explanation": "The President of India appoints the Chief Justice of India."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The concept of 'Judicial Review' in India is derived from which document?",
+      "question": "The concept of 'Judicial Review' in India was adopted from which country?",
       "options": [
-        "Constitution of India",
-        "British Constitution",
-        "US Constitution",
-        "French Constitution"
+        "United Kingdom",
+        "United States",
+        "France",
+        "Canada"
       ],
-      "correct": 2,
-      "explanation": "Judicial Review in India is derived from the US Constitution, where it was established by the Supreme Court in Marbury v. Madison."
+      "correct": 1,
+      "explanation": "India adopted the concept of Judicial Review from the United States Constitution."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Panchayats?",
+      "question": "Which article of the Indian Constitution provides for the Panchayati Raj system?",
       "options": [
         "Article 40",
+        "Article 44",
         "Article 243",
-        "Article 370",
-        "Article 356"
+        "Article 370"
       ],
-      "correct": 1,
-      "explanation": "Article 243 deals with Panchayats in the Indian Constitution."
+      "correct": 2,
+      "explanation": "Article 243 of the Indian Constitution provides for the Panchayati Raj system."
     },
     {
       "id": 14,
       "category": "Indian Economy",
-      "question": "The budget deficit refers to:",
+      "question": "The Union Budget in India is presented by the?",
       "options": [
-        "Expenditure exceeding revenue",
-        "Revenue exceeding expenditure",
-        "Tax collection deficiency",
-        "Loan repayment deficiency"
+        "Finance Minister",
+        "Prime Minister",
+        "President",
+        "Lok Sabha Speaker"
       ],
       "correct": 0,
-      "explanation": "Budget deficit occurs when a government's expenditure exceeds its revenue."
+      "explanation": "The Union Budget is presented by the Finance Minister of India."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Which financial institution is primarily responsible for regulating the banking sector in India?",
+      "question": "Which financial institution is primarily responsible for currency issuance in India?",
       "options": [
-        "Reserve Bank of India",
-        "Securities and Exchange Board of India",
-        "Ministry of Finance",
-        "NABARD"
+        "RBI",
+        "ICICI Bank",
+        "SBI",
+        "SEBI"
       ],
       "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) is responsible for regulating the banking sector."
+      "explanation": "The Reserve Bank of India (RBI) is responsible for currency issuance and regulation."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "The term 'Gross Domestic Product' (GDP) refers to:",
+      "question": "India’s GDP growth rate is most closely estimated by which organization?",
       "options": [
-        "Total value of goods and services produced within a country in a year",
-        "Total exports of a country",
-        "Total government spending",
-        "Total savings in the economy"
+        "IMF",
+        "World Bank",
+        "NITI Aayog",
+        "RBI"
       ],
-      "correct": 0,
-      "explanation": "GDP measures the total value of goods and services produced within a country in a specific period."
+      "correct": 1,
+      "explanation": "The World Bank and other agencies estimate India's GDP growth rate regularly; in particular, the World Bank provides detailed estimates."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "Five Year Plans in India were replaced by which framework?",
+      "question": "What was the main objective of the New Economic Reforms of 1991?",
       "options": [
-        "Five Year Plans continue",
-        "Five Year Development Agenda",
-        "Union Budget",
-        "Economic Reforms"
+        "Reduce inflation",
+        "Liberalize the economy",
+        "Increase agricultural output",
+        "Reduce fiscal deficit"
       ],
-      "correct": 2,
-      "explanation": "India replaced Five Year Plans with a continuous process of planning through the Union Budget."
+      "correct": 1,
+      "explanation": "The 1991 reforms aimed at liberalizing the Indian economy, reducing tariffs, and opening up sectors to private and foreign investment."
     },
     {
       "id": 18,
       "category": "General Science",
-      "question": "Which particle is responsible for carrying the force of electromagnetism?",
+      "question": "Which fundamental force is responsible for radioactive decay?",
       "options": [
-        "Photon",
-        "Electron",
-        "Proton",
-        "Neutron"
+        "Electromagnetic",
+        "Weak nuclear",
+        "Strong nuclear",
+        "Gravitational"
       ],
-      "correct": 0,
-      "explanation": "Photons are the force carriers for electromagnetic interactions."
+      "correct": 1,
+      "explanation": "The weak nuclear force is responsible for the process of radioactive decay."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "The pH value of a neutral solution at room temperature is:",
+      "question": "In chemistry, pH value less than 7 indicates:",
       "options": [
-        "7",
-        "0",
-        "14",
-        "1"
+        "Neutral solution",
+        "Basic solution",
+        "Acidic solution",
+        "Pure water"
       ],
-      "correct": 0,
-      "explanation": "A neutral solution at room temperature has a pH of 7."
+      "correct": 2,
+      "explanation": "A pH less than 7 indicates an acidic solution."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which biological process is responsible for converting atmospheric nitrogen into a form usable by plants?",
+      "question": "Which part of the human body is primarily involved in producing insulin?",
       "options": [
-        "Nitrogen fixation",
-        "Photosynthesis",
-        "Respiration",
-        "Transpiration"
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Lungs"
       ],
-      "correct": 0,
-      "explanation": "Nitrogen fixation converts atmospheric nitrogen into ammonia, usable by plants."
+      "correct": 1,
+      "explanation": "The pancreas produces insulin, which regulates blood sugar levels."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "The Hubble Space Telescope primarily observes objects in which spectrum?",
+      "question": "Which planet is known as the 'Red Planet'?",
       "options": [
-        "Visible light",
-        "Radio waves",
-        "X-rays",
-        "Infrared"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
-      "correct": 0,
-      "explanation": "Hubble primarily observes in the visible spectrum, along with ultraviolet and near-infrared."
+      "correct": 1,
+      "explanation": "Mars is called the 'Red Planet' because of its reddish appearance due to iron oxide on its surface."
     },
     {
       "id": 22,
       "category": "Environment & Ecology",
-      "question": "Which of the following UNESCO sites is a UNESCO World Heritage Site dedicated to biodiversity conservation in India?",
+      "question": "The Convention on Biodiversity was adopted in which year?",
       "options": [
-        "Sundarbans",
-        "Kaziranga National Park",
-        "Sundarban",
-        "Gir Forest"
+        "1992",
+        "1982",
+        "2000",
+        "1972"
       ],
-      "correct": 1,
-      "explanation": "Kaziranga National Park is a UNESCO World Heritage Site known for its biodiversity and rhino conservation."
+      "correct": 0,
+      "explanation": "The Convention on Biological Diversity was adopted at the Earth Summit in Rio de Janeiro in 1992."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "The main cause of global climate change is:",
+      "question": "Which Indian national park is a UNESCO World Heritage Site and known for the Bengal tiger?",
       "options": [
-        "Deforestation",
-        "Greenhouse gas emissions",
-        "Urbanization",
-        "Ozone depletion"
+        "Kaziranga",
+        "Gir",
+        "Sundarbans",
+        "Jim Corbett"
       ],
-      "correct": 1,
-      "explanation": "Greenhouse gas emissions, mainly CO2, are the primary cause of global climate change."
+      "correct": 2,
+      "explanation": "The Sundarbans mangrove forest is a UNESCO World Heritage Site and famous for the Bengal tiger."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which law regulates environmental protection in India?",
+      "question": "Which law was enacted to protect wildlife in India?",
       "options": [
-        "Wildlife Protection Act",
-        "Environment Protection Act",
-        "Air Act",
-        "Water Act"
+        "Wildlife Protection Act, 1972",
+        "Environment Protection Act, 1986",
+        "Air Act, 1981",
+        "Water Act, 1974"
       ],
-      "correct": 1,
-      "explanation": "The Environment Protection Act, 1986, provides broad regulation for environmental protection."
+      "correct": 0,
+      "explanation": "The Wildlife Protection Act, 1972, is the primary law for wildlife protection in India."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "The 'Red Data Book' is related to:",
+      "question": "What is the primary purpose of the International Solar Alliance (ISA)?",
       "options": [
-        "Endangered species",
-        "Forests",
-        "Water bodies",
-        "Air quality"
+        "Promote fossil fuels",
+        "Encourage solar energy use among tropical countries",
+        "Develop nuclear energy",
+        "Control pollution from vehicles"
       ],
-      "correct": 0,
-      "explanation": "The Red Data Book lists endangered and rare species of flora and fauna."
+      "correct": 1,
+      "explanation": "The ISA aims to promote solar energy utilization among countries lying between the Tropic of Cancer and Tropic of Capricorn."
     },
     {
       "id": 26,
       "category": "Current Affairs & GK",
-      "question": "Which scheme was launched by India to promote digital payments and financial inclusion?",
+      "question": "Which country hosted the 2023 G20 Summit?",
       "options": [
-        "Digital India",
-        "Make in India",
-        "Startup India",
-        "Skill India"
+        "India",
+        "Indonesia",
+        "France",
+        "Japan"
       ],
       "correct": 0,
-      "explanation": "Digital India aims to promote digital payments and financial inclusion."
+      "explanation": "India hosted the G20 Summit in 2023, with its presidency focusing on global economic cooperation."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who was awarded the Nobel Peace Prize in 2024?",
+      "question": "Which Indian athlete won the gold medal in men's singles at the Tokyo 2020 Olympic Games?",
       "options": [
-        "Climate Action Network",
-        "UN Peacekeeping",
-        "Malala Yousafzai",
-        "World Food Programme"
+        "PV Sindhu",
+        "Neeraj Chopra",
+        "Abhinav Bindra",
+        "Sania Mirza"
       ],
       "correct": 1,
-      "explanation": "The Nobel Peace Prize 2024 was awarded to UN Peacekeeping for its efforts in maintaining peace."
+      "explanation": "Neeraj Chopra won the gold medal in javelin throw at Tokyo 2020 Olympics."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Which country hosted the G20 Summit in 2023?",
+      "question": "The 'Start-Up India' scheme was launched in which year?",
       "options": [
-        "India",
-        "United States",
-        "Japan",
-        "Brazil"
+        "2015",
+        "2016",
+        "2017",
+        "2018"
       ],
-      "correct": 0,
-      "explanation": "India hosted the G20 Summit in 2023."
+      "correct": 1,
+      "explanation": "The 'Start-Up India' scheme was launched in 2016 to promote entrepreneurship."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Which Indian sports person won the Gold medal in Tokyo 2020 Olympics for wrestling?",
+      "question": "Which is the newest member of the United Nations Security Council as of 2023?",
       "options": [
-        "Vinesh Phogat",
-        "Sakshi Malik",
-        "P.V. Sindhu",
-        "Neeraj Chopra"
+        "India",
+        "Ireland",
+        "Mexico",
+        "United Arab Emirates"
       ],
-      "correct": 0,
-      "explanation": "Vinesh Phogat won a gold medal in wrestling at Tokyo 2020 Olympics."
+      "correct": 3,
+      "explanation": "The United Arab Emirates became a non-permanent member of the UN Security Council in 2022 for the term starting 2023."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "The Pradhan Mantri Awas Yojana aims to provide:",
+      "question": "Which Indian state launched the 'Har Ghar Jal' scheme to provide tap water to households?",
       "options": [
-        "Affordable housing",
-        "Free education",
-        "Rural electrification",
-        "Clean drinking water"
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Delhi"
       ],
-      "correct": 0,
-      "explanation": "Pradhan Mantri Awas Yojana is focused on providing affordable housing to urban poor."
+      "correct": 1,
+      "explanation": "'Har Ghar Jal' scheme aims to provide piped water supply to every rural household, notably implemented in Madhya Pradesh."
     }
   ]
 }
