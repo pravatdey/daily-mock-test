@@ -1,156 +1,169 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-04-25",
+  "date": "2026-04-26",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which is the largest river flowing through Odisha?",
+      "question": "Which district in Odisha is famous for the Chilika Lake, the largest coastal lagoon in India?",
       "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Mughal River",
-        "Subarnarekha"
+        "Ganjam",
+        "Puri",
+        "Khordha",
+        "Balasore"
       ],
-      "correct": 0,
-      "explanation": "The Mahanadi is the longest and most significant river flowing through Odisha, supporting agriculture and hydroelectric projects."
+      "correct": 2,
+      "explanation": "Khordha district encompasses the Chilika Lake, known for its migratory birds and aquatic life."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is primarily found in the Kandhamal district?",
+      "question": "Which tribal community is predominantly found in the Mayurbhanj district of Odisha?",
       "options": [
         "Santhal",
-        "Kondh",
-        "Gond",
-        "Bhue"
+        "Munda",
+        "Ho",
+        "Oraon"
       ],
-      "correct": 1,
-      "explanation": "The Kondh tribe is predominantly found in Kandhamal district and is one of the major tribal communities of Odisha."
+      "correct": 2,
+      "explanation": "The Ho tribe is mainly found in Mayurbhanj district and is known for its rich cultural heritage."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "Which is the famous festival celebrated in Odisha to mark the Odia New Year?",
+      "question": "Which festival is celebrated with grand processions in Odisha and is dedicated to Lord Jagannath?",
       "options": [
+        "Durga Puja",
+        "Diwali",
         "Rath Yatra",
-        "Chaiti Parba",
-        "Nuakhai",
-        "Durga Puja"
+        "Holi"
       ],
       "correct": 2,
-      "explanation": "Nuakhai is the harvest festival celebrated mainly in Odisha to welcome the new rice and mark the Odia New Year."
+      "explanation": "The Rath Yatra is a famous festival of Odisha, involving grand chariot processions honoring Lord Jagannath."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which ancient temple is located in Konark, Odisha?",
+      "question": "The famous Sun Temple is situated at which place in Odisha?",
       "options": [
-        "Lingaraj Temple",
-        "Sun Temple",
-        "Jagannath Temple",
-        "Mukteswara Temple"
+        "Puri",
+        "Konark",
+        "Bhubaneswar",
+        "Cuttack"
       ],
       "correct": 1,
-      "explanation": "The Sun Temple at Konark is a UNESCO World Heritage Site and renowned for its architectural brilliance."
+      "explanation": "The Sun Temple at Konark is an UNESCO World Heritage Site and a marvel of ancient Indian architecture."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Who was the famous Odia poet known for his works during the 16th century?",
+      "question": "Which river is considered the lifeline of Odisha, flowing across the state?",
       "options": [
-        "Kabi Samrat Upendra Bhanja",
-        "Kalidas",
-        "Valmiki",
-        "Tulsidas"
+        "Mahanadi",
+        "Godavari",
+        "Narmada",
+        "Ganga"
       ],
       "correct": 0,
-      "explanation": "Upendra Bhanja was a renowned Odia poet from the 16th century, celebrated for his literary contributions."
+      "explanation": "The Mahanadi River flows through Odisha and sustains agriculture and industry in the state."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which is the official language of Odisha?",
+      "question": "Which is the largest artificial dam in Odisha?",
       "options": [
-        "Hindi",
-        "Oriya (Odia)",
-        "Telugu",
-        "Bengali"
+        "Rengali Dam",
+        "Indravati Dam",
+        "Balimela Dam",
+        "Machhkund Dam"
       ],
-      "correct": 1,
-      "explanation": "Odia (formerly Oriya) is the official language of Odisha and is used in administration and education."
+      "correct": 0,
+      "explanation": "Rengali Dam is the largest earthen dam in Odisha, built on the Brahmani River."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "During which dynasty was the famous rock edicts inscribed at Dhauli in Odisha?",
+      "question": "Who was the founder of the Maurya Empire in ancient India?",
       "options": [
-        "Gupta Empire",
-        "Maurya Empire",
-        "Chola Dynasty",
-        "Mughal Empire"
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Harsha",
+        "Samudragupta"
       ],
       "correct": 1,
-      "explanation": "The Dhauli Edicts were inscribed during Emperor Ashoka’s reign of the Maurya Empire, promoting non-violence."
+      "explanation": "Chandragupta Maurya founded the Maurya Empire in 321 BCE, laying the foundation of a vast empire."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Who was the last Mughal emperor of India?",
+      "question": "The control of Taj Mahal is transferred to the Archaeological Survey of India in which year?",
       "options": [
-        "Bahadur Shah Zafar",
-        "Akbar",
-        "Jahangir",
-        "Aurangzeb"
+        "1920",
+        "1947",
+        "1959",
+        "1961"
       ],
-      "correct": 0,
-      "explanation": "Bahadur Shah Zafar was the last Mughal emperor, reigning during the 1857 uprising."
+      "correct": 3,
+      "explanation": "The Archaeological Survey of India took over the management of Taj Mahal in 1961 to preserve it."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "Which Indian freedom fighter was known as 'Lokmanya'?",
+      "question": "Which medieval Indian emperor built the Red Fort in Delhi?",
       "options": [
-        "Bal Gangadhar Tilak",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose"
+        "Babur",
+        "Akbar",
+        "Sher Shah Suri",
+        "Humayun"
       ],
-      "correct": 0,
-      "explanation": "Bal Gangadhar Tilak was known as 'Lokmanya' for his leadership in the independence movement."
+      "correct": 1,
+      "explanation": "Emperor Akbar commissioned the construction of the Red Fort in Delhi during his reign."
     },
     {
       "id": 10,
       "category": "Indian History & Culture",
-      "question": "Which UNESCO World Heritage site is a historic hill town in India?",
+      "question": "The 'Indus Valley Civilization' is primarily associated with which present-day country?",
       "options": [
-        "Jaipur",
-        "Varanasi",
-        "Khajuraho",
-        "Hampi"
+        "India",
+        "Pakistan",
+        "Iran",
+        "Afghanistan"
       ],
-      "correct": 3,
-      "explanation": "Hampi, in Karnataka, is a UNESCO World Heritage site known for its ruins of the Vijayanagara Empire."
+      "correct": 1,
+      "explanation": "The Indus Valley Civilization was primarily located in what is now Pakistan."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which is the highest peak in Odisha?",
+      "question": "Which mountain range forms the northern boundary of India?",
       "options": [
-        "Deomali",
-        "Satkosia",
-        "Daringbadi",
-        "Mahendragiri"
+        "Himalayas",
+        "Aravalli",
+        "Western Ghats",
+        "Eastern Ghats"
       ],
       "correct": 0,
-      "explanation": "Deomali peak in Odisha is the highest point, standing at about 1,672 meters above sea level."
+      "explanation": "The Himalayas form the northern boundary of India, acting as a natural barrier."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Which mineral is most abundant in Odisha?",
+      "question": "Odisha's climate is classified as which type?",
+      "options": [
+        "Tropical monsoon",
+        "Arid desert",
+        "Temperate",
+        "Tundra"
+      ],
+      "correct": 0,
+      "explanation": "Odisha has a tropical monsoon climate with heavy rainfall during the monsoon season."
+    },
+    {
+      "id": 13,
+      "category": "Geography",
+      "question": "Which mineral is most abundantly found in Odisha?",
       "options": [
         "Coal",
         "Bauxite",
@@ -158,241 +171,228 @@
         "Manganese"
       ],
       "correct": 2,
-      "explanation": "Odisha is rich in iron ore deposits, being one of India’s leading iron ore producing states."
-    },
-    {
-      "id": 13,
-      "category": "Geography",
-      "question": "What type of climate does Odisha predominantly have?",
-      "options": [
-        "Arid desert",
-        "Tropical monsoon",
-        "Temperate",
-        "Mountainous"
-      ],
-      "correct": 1,
-      "explanation": "Odisha experiences a tropical monsoon climate with heavy seasonal rains."
+      "explanation": "Odisha is rich in iron ore deposits, making it a major contributor to India’s iron industry."
     },
     {
       "id": 14,
       "category": "Geography",
-      "question": "Which soil type is mainly found in the coastal plains of Odisha?",
+      "question": "The Godavari river originates from which state?",
       "options": [
-        "Laterite",
-        "Alluvial",
-        "Black soil",
-        "Red soil"
+        "Odisha",
+        "Maharashtra",
+        "Telangana",
+        "Chhattisgarh"
       ],
       "correct": 1,
-      "explanation": "The coastal plains of Odisha mainly have alluvial soil suitable for agriculture."
+      "explanation": "The Godavari originates in Maharashtra and flows through several states including Odisha."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Which of the following is a Fundamental Right in India?",
+      "question": "Which fundamental right guarantees freedom of speech and expression?",
       "options": [
-        "Right to Property",
         "Right to Equality",
-        "Right to Vote",
-        "Right to Education"
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Right to Property"
       ],
       "correct": 1,
-      "explanation": "The Right to Equality is a Fundamental Right guaranteed by the Indian Constitution."
+      "explanation": "The Right to Freedom guarantees citizens the liberty of speech and expression."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "The Directive Principles of State Policy aim to:",
+      "question": "The Directive Principles of State Policy aim to establish which of the following?",
       "options": [
-        "Establish a theocratic rule",
-        "Guide the government in policy-making",
-        "Replace Fundamental Rights",
-        "Create independent judiciary"
+        "Fundamental Rights",
+        "Social and Economic Justice",
+        "Judicial Review",
+        "Funded Education"
       ],
       "correct": 1,
-      "explanation": "DPSPs serve as guiding principles for the government to establish social and economic justice."
+      "explanation": "DPSPs aim to promote social and economic justice, guiding the state’s policy decisions."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Who is the head of the Parliament of India?",
+      "question": "The Parliament of India is composed of which of the following houses?",
       "options": [
-        "Prime Minister",
-        "President",
-        "Lok Sabha Speaker",
-        "Rajya Sabha Chairman"
+        "Lok Sabha only",
+        "Rajya Sabha only",
+        "Lok Sabha and Rajya Sabha",
+        "Lok Sabha, Rajya Sabha, and President"
       ],
-      "correct": 1,
-      "explanation": "The President of India is the head of Parliament, but the Speaker of Lok Sabha is the presiding officer of the lower house."
+      "correct": 2,
+      "explanation": "The Indian Parliament has two houses: the Lok Sabha (House of the People) and the Rajya Sabha (Council of States)."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "Which article of the Indian Constitution deals with the Union List?",
+      "question": "Which article of the Indian Constitution deals with the election of the President?",
       "options": [
-        "Article 245",
-        "Article 246",
-        "Article 250",
-        "Article 252"
+        "Article 52",
+        "Article 54",
+        "Article 368",
+        "Article 356"
       ],
       "correct": 1,
-      "explanation": "Article 246 defines the Union List, State List, and Concurrent List in the Constitution."
+      "explanation": "Article 54 of the Indian Constitution details the election process of the President of India."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "What is the basic unit of the measurement of temperature?",
+      "question": "What is the primary function of chlorophyll in plants?",
       "options": [
-        "Celsius",
-        "Kelvin",
-        "Fahrenheit",
-        "Rankine"
+        "Absorbing sunlight",
+        "Respiration",
+        "Reproduction",
+        "Nutrient absorption"
       ],
-      "correct": 1,
-      "explanation": "Kelvin is the SI unit of temperature measurement."
+      "correct": 0,
+      "explanation": "Chlorophyll absorbs sunlight, enabling photosynthesis."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which gas is most abundant in the Earth's atmosphere?",
+      "question": "Which gas is most responsible for the greenhouse effect?",
       "options": [
         "Oxygen",
-        "Nitrogen",
         "Carbon dioxide",
-        "Argon"
+        "Nitrogen",
+        "Helium"
       ],
       "correct": 1,
-      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, making it the most abundant gas."
+      "explanation": "Carbon dioxide traps heat in the atmosphere, contributing to the greenhouse effect."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which vitamin is primarily obtained from sunlight?",
+      "question": "Vitamin C deficiency causes which disease?",
       "options": [
-        "Vitamin A",
-        "Vitamin B",
-        "Vitamin C",
-        "Vitamin D"
+        "Rickets",
+        "Scurvy",
+        "Anemia",
+        "Beriberi"
       ],
-      "correct": 3,
-      "explanation": "Vitamin D is synthesized in the skin through exposure to sunlight."
+      "correct": 1,
+      "explanation": "Lack of Vitamin C leads to scurvy, characterized by weakness and bleeding gums."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which disease is caused by deficiency of Vitamin C?",
+      "question": "Which biological process is responsible for maintaining the oxygen level in the atmosphere?",
       "options": [
-        "Beriberi",
-        "Scurvy",
-        "Rickets",
-        "Anemia"
+        "Respiration",
+        "Photosynthesis",
+        "Digestive process",
+        "Reproduction"
       ],
       "correct": 1,
-      "explanation": "Scurvy results from a deficiency of Vitamin C."
+      "explanation": "Photosynthesis by green plants produces oxygen, balancing atmospheric levels."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
-      "question": "What is the next number in the series: 2, 6, 12, 20, ?",
+      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
       "options": [
-        "30",
-        "28",
-        "40",
-        "36"
+        "24",
+        "32",
+        "64",
+        "18"
       ],
       "correct": 1,
-      "explanation": "The pattern adds successive even numbers: 4, 6, 8, so the next number is 20 + 8 = 28."
+      "explanation": "The series doubles each time; next is 16×2=32."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a certain code, APPLE is written as EPPAL, how is ORANGE written?",
+      "question": "If 'CAT' is coded as 'DBU', what is the code for 'DOG'?",
       "options": [
-        "GERANO",
-        "NAGORE",
-        "REANGO",
-        "ENGARO"
+        "EPE",
+        "EQS",
+        "EHP",
+        "EIQ"
       ],
-      "correct": 3,
-      "explanation": "The pattern reverses each pair of letters; applying to ORANGE yields ENGARO."
+      "correct": 0,
+      "explanation": "Each letter is shifted one step forward in the alphabet; D→E, O→P, G→H; 'DOG' becomes 'EHP'."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "Which of the following is an analogy?",
+      "question": "If in a certain code, 'WATER' is written as 'XBSFS', how is 'FISH' written?",
       "options": [
-        "Number series",
-        "Blood relations",
-        "Coding-decoding",
-        "Book : Author"
+        "GJTI",
+        "GJUI",
+        "GJSH",
+        "GJTI"
       ],
-      "correct": 3,
-      "explanation": "Book : Author is an analogy, showing a relationship between a book and its author."
+      "correct": 0,
+      "explanation": "Each letter is shifted one step forward; F→G, I→J, S→T, H→I."
     },
     {
       "id": 26,
       "category": "Mental Ability & Reasoning",
-      "question": "In which direction does the arrow point in the following diagram if it points north initially and turns 90° clockwise?",
+      "question": "Which of the following is the odd one out?",
       "options": [
-        "East",
-        "West",
-        "North",
-        "South"
+        "Lion",
+        "Tiger",
+        "Leopard",
+        "Cheetah"
       ],
-      "correct": 0,
-      "explanation": "A 90° clockwise turn from north points east."
+      "correct": 3,
+      "explanation": "Cheetah is the only animal that predominantly hunts during the day, unlike the others which are nocturnal predators."
     },
     {
       "id": 27,
       "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India to promote digital payments?",
+      "question": "Which state launched the 'KALIA' scheme for farmers recently?",
       "options": [
-        "Digital India",
-        "Make in India",
-        "Startup India",
-        "Skill India"
+        "Odisha",
+        "Punjab",
+        "Gujarat",
+        "Maharashtra"
       ],
       "correct": 0,
-      "explanation": "Digital India aims to promote digital infrastructure and digital payments across the country."
+      "explanation": "Odisha launched the KALIA scheme to provide financial assistance to farmers."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Who won the Padma Shri award in 2023 for contributions in sports?",
+      "question": "Which Indian athlete recently won gold in the Tokyo Olympics 2020 (held in 2021)?",
       "options": [
         "Neeraj Chopra",
-        "P.V. Sindhu",
-        "Abhinav Bindra",
-        "Mary Kom"
+        "Milind Soman",
+        "PV Sindhu",
+        "Abhinav Bindra"
       ],
       "correct": 0,
-      "explanation": "Neeraj Chopra was awarded the Padma Shri in 2023 for his achievements in athletics."
+      "explanation": "Neeraj Chopra won gold in javelin throw at the Tokyo Olympics."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Which state hosted the 2023 National Games?",
+      "question": "The 'Bharat Drone Mahotsav' was held to promote which sector?",
       "options": [
-        "Odisha",
-        "Haryana",
-        "Punjab",
-        "Tamil Nadu"
+        "Agriculture",
+        "Aerospace and Drones",
+        "Healthcare",
+        "Education"
       ],
-      "correct": 0,
-      "explanation": "Odisha hosted the 2023 National Games, showcasing sports talent from across India."
+      "correct": 1,
+      "explanation": "The Mahotsav aimed to promote drone technology for various applications in India."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "Which government scheme aims to provide free crop insurance to farmers?",
+      "question": "Which country recently hosted the G20 summit where India participated actively in 2023?",
       "options": [
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Rural Employment Guarantee Scheme",
-        "Swachh Bharat Abhiyan",
-        "Digital Saksharta Abhiyan"
+        "United States",
+        "India",
+        "Germany",
+        "Japan"
       ],
-      "correct": 0,
-      "explanation": "Pradhan Mantri Fasal Bima Yojana provides crop insurance coverage to farmers to protect against crop losses."
+      "correct": 2,
+      "explanation": "India hosted the G20 summit in 2023, emphasizing global economic cooperation."
     }
   ]
 }

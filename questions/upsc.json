@@ -1,47 +1,47 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-04-25",
+  "date": "2026-04-26",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is considered the earliest known treatise on surgery?",
+      "question": "Which ancient Indian text is primarily a treatise on statecraft and political science?",
       "options": [
-        "Charaka Samhita",
-        "Sushruta Samhita",
-        "Kautilya Artha Shastra",
-        "Arthashastra"
+        "Arthashastra",
+        "Mahabharata",
+        "Ramayana",
+        "Arthashastra (Ganadhipa)"
       ],
-      "correct": 1,
-      "explanation": "The Sushruta Samhita is the earliest known treatise on Surgery, attributed to Sushruta, an ancient Indian physician."
+      "correct": 0,
+      "explanation": "The Arthashastra, attributed to Chanakya (Kautilya), is an ancient treatise on politics, economic policy, and military strategy."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the founder of the Bengal Renaissance in the 19th century?",
+      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
-        "Raja Ram Mohan Roy",
-        "Swami Vivekananda",
-        "Rabindranath Tagore",
-        "Mahatma Gandhi"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bhagat Singh",
+        "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Raja Ram Mohan Roy is credited as the father of the Bengal Renaissance, promoting social and educational reform."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement as a nationwide protest against British rule."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Which event marked the beginning of the Non-Cooperation Movement in India?",
+      "question": "The Jallianwala Bagh massacre took place in which year?",
       "options": [
-        "Jallianwala Bagh Massacre",
-        "Chauri Chaura Incident",
-        "Partition of Bengal",
-        "Rowlatt Act enforcement"
+        "1919",
+        "1927",
+        "1905",
+        "1930"
       ],
-      "correct": 3,
-      "explanation": "The Non-Cooperation Movement was launched in 1920, primarily in response to the Rowlatt Act enforcement."
+      "correct": 0,
+      "explanation": "The Jallianwala Bagh massacre occurred in 1919 when British troops fired on a peaceful gathering in Amritsar."
     },
     {
       "id": 4,
@@ -49,264 +49,251 @@
       "question": "The Battle of Plassey was fought in which year?",
       "options": [
         "1757",
-        "1761",
-        "1748",
-        "1775"
+        "1764",
+        "1857",
+        "1707"
       ],
       "correct": 0,
-      "explanation": "The Battle of Plassey took place in 1757 and marked the start of British dominance in India."
+      "explanation": "The Battle of Plassey took place in 1757, marking the beginning of British dominance in India."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Who was the leader of the Salt Satyagraha in 1930?",
+      "question": "Who is known as the 'Father of Modern India'?",
       "options": [
-        "Jawaharlal Nehru",
         "Mahatma Gandhi",
-        "Bhagat Singh",
-        "Subhas Chandra Bose"
+        "Jawaharlal Nehru",
+        "Raja Ram Mohan Roy",
+        "Bal Gangadhar Tilak"
       ],
-      "correct": 1,
-      "explanation": "Mahatma Gandhi led the Salt Satyagraha (Dandi March) in 1930 as part of his civil disobedience movement."
+      "correct": 2,
+      "explanation": "Raja Ram Mohan Roy is considered the 'Father of Modern India' for his efforts in social and educational reform."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
+      "question": "Which river is known as the 'Ganges of the South'?",
       "options": [
-        "Ganga",
-        "Kosi",
-        "Yamuna",
-        "Ghaghara"
+        "Godavari",
+        "Kaveri",
+        "Krishna",
+        "Tungabhadra"
       ],
       "correct": 1,
-      "explanation": "The Kosi River is called the 'Sorrow of Bihar' because of its frequent and devastating floods."
+      "explanation": "The Kaveri River is often called the 'Ganges of the South' due to its religious and cultural significance."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which is the largest plateau in India?",
+      "question": "Which mountain range forms the natural border between India and China?",
       "options": [
-        "Deccan Plateau",
-        "Chota Nagpur Plateau",
-        "Malwa Plateau",
-        "Mysore Plateau"
+        "Himalayas",
+        "Aravalli",
+        "Western Ghats",
+        "Eastern Ghats"
       ],
       "correct": 0,
-      "explanation": "The Deccan Plateau is the largest plateau in India, covering most of southern India."
+      "explanation": "The Himalayas form the natural border between India and China."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which Indian state is the leading producer of tea?",
+      "question": "Which is the largest freshwater lake in India?",
       "options": [
-        "Assam",
-        "West Bengal",
-        "Karnataka",
-        "Uttar Pradesh"
+        "Chilika Lake",
+        "Vembanad Lake",
+        "Dal Lake",
+        "Sambhar Lake"
       ],
-      "correct": 0,
-      "explanation": "Assam is the leading producer of tea in India, known for its extensive tea plantations."
+      "correct": 1,
+      "explanation": "Vembanad Lake in Kerala is the largest freshwater lake in India."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "The climate of Rajasthan is primarily classified as?",
+      "question": "The Thar Desert is primarily located in which Indian state?",
       "options": [
-        "Tropical rainforest",
-        "Desert",
-        "Tundra",
-        "Humid subtropical"
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "correct": 1,
-      "explanation": "Rajasthan has a desert climate, especially in the Thar Desert region."
+      "correct": 0,
+      "explanation": "The Thar Desert predominantly lies in Rajasthan."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Union Executive?",
+      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
       "options": [
-        "Article 52",
-        "Article 74",
-        "Article 123",
-        "Article 356"
+        "Article 14",
+        "Articles 12-35",
+        "Article 21",
+        "Article 368"
       ],
       "correct": 1,
-      "explanation": "Article 74 of the Indian Constitution deals with the Council of Ministers and the Prime Minister, forming the Union Executive."
+      "explanation": "Articles 12 to 35 in the Indian Constitution deal with Fundamental Rights."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "The power to declare a law unconstitutional is vested in which institution?",
       "options": [
-        "President of India",
-        "Lok Sabha Speaker",
-        "Chief Justice of India",
-        "Prime Minister"
+        "Parliament",
+        "Supreme Court",
+        "President",
+        "Lok Sabha"
       ],
-      "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India."
+      "correct": 1,
+      "explanation": "The Supreme Court has the power of judicial review to declare laws unconstitutional."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The concept of 'Judicial Review' in India was adopted from which country?",
+      "question": "Who appoints the Chief Election Commissioner of India?",
       "options": [
-        "United Kingdom",
-        "United States",
-        "France",
-        "Canada"
+        "Prime Minister",
+        "President",
+        "Lok Sabha",
+        "Judiciary"
       ],
       "correct": 1,
-      "explanation": "India adopted the concept of Judicial Review from the United States Constitution."
+      "explanation": "The President of India appoints the Chief Election Commissioner."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution provides for the Panchayati Raj system?",
+      "question": "The Panchayati Raj system was given constitutional status in which amendment?",
       "options": [
-        "Article 40",
-        "Article 44",
-        "Article 243",
-        "Article 370"
+        "73rd Amendment",
+        "74th Amendment",
+        "42nd Amendment",
+        "44th Amendment"
       ],
-      "correct": 2,
-      "explanation": "Article 243 of the Indian Constitution provides for the Panchayati Raj system."
+      "correct": 0,
+      "explanation": "The 73rd Amendment Act, 1992, gave constitutional status to Panchayati Raj institutions."
     },
     {
       "id": 14,
       "category": "Indian Economy",
-      "question": "The Union Budget in India is presented by the?",
+      "question": "The Budget of the Government of India is presented in which house of Parliament?",
       "options": [
-        "Finance Minister",
-        "Prime Minister",
+        "Lok Sabha",
+        "Rajya Sabha",
         "President",
-        "Lok Sabha Speaker"
+        "Finance Commission"
       ],
       "correct": 0,
-      "explanation": "The Union Budget is presented by the Finance Minister of India."
+      "explanation": "The Budget is presented in the Lok Sabha, which is the lower house of Parliament."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Which financial institution is primarily responsible for currency issuance in India?",
+      "question": "Which sector contributes the maximum to India's GDP?",
       "options": [
-        "RBI",
-        "ICICI Bank",
-        "SBI",
-        "SEBI"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Manufacturing"
       ],
-      "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) is responsible for currency issuance and regulation."
+      "correct": 2,
+      "explanation": "The Services sector is the largest contributor to India's GDP."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "India’s GDP growth rate is most closely estimated by which organization?",
+      "question": "What is the primary objective of the Goods and Services Tax (GST)?",
       "options": [
-        "IMF",
-        "World Bank",
-        "NITI Aayog",
-        "RBI"
+        "Reduce inflation",
+        "Simplify taxation and unify indirect taxes",
+        "Increase tax rates",
+        "Promote exports"
       ],
       "correct": 1,
-      "explanation": "The World Bank and other agencies estimate India's GDP growth rate regularly; in particular, the World Bank provides detailed estimates."
+      "explanation": "GST aims to simplify the indirect tax structure and create a unified market."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "What was the main objective of the New Economic Reforms of 1991?",
+      "question": "Which organization is responsible for regulating the Indian banking system?",
       "options": [
-        "Reduce inflation",
-        "Liberalize the economy",
-        "Increase agricultural output",
-        "Reduce fiscal deficit"
+        "RBI",
+        "SEBI",
+        "ICAI",
+        "NABARD"
       ],
-      "correct": 1,
-      "explanation": "The 1991 reforms aimed at liberalizing the Indian economy, reducing tariffs, and opening up sectors to private and foreign investment."
+      "correct": 0,
+      "explanation": "The Reserve Bank of India (RBI) is the central bank regulating banking operations."
     },
     {
       "id": 18,
       "category": "General Science",
-      "question": "Which fundamental force is responsible for radioactive decay?",
+      "question": "Which device is used to convert solar energy into electrical energy?",
       "options": [
-        "Electromagnetic",
-        "Weak nuclear",
-        "Strong nuclear",
-        "Gravitational"
+        "Photovoltaic cell",
+        "Thermocouple",
+        "Transformer",
+        "Battery"
       ],
-      "correct": 1,
-      "explanation": "The weak nuclear force is responsible for the process of radioactive decay."
+      "correct": 0,
+      "explanation": "Photovoltaic cells, or solar cells, convert solar energy directly into electricity."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "In chemistry, pH value less than 7 indicates:",
+      "question": "The pH value of a neutral solution is approximately:",
       "options": [
-        "Neutral solution",
-        "Basic solution",
-        "Acidic solution",
-        "Pure water"
+        "7",
+        "0",
+        "14",
+        "3"
       ],
-      "correct": 2,
-      "explanation": "A pH less than 7 indicates an acidic solution."
+      "correct": 0,
+      "explanation": "A neutral solution, like pure water, has a pH of approximately 7."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which part of the human body is primarily involved in producing insulin?",
+      "question": "Which gas is most responsible for the greenhouse effect?",
       "options": [
-        "Liver",
-        "Pancreas",
-        "Kidney",
-        "Lungs"
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Argon"
       ],
       "correct": 1,
-      "explanation": "The pancreas produces insulin, which regulates blood sugar levels."
+      "explanation": "Carbon dioxide traps heat in the atmosphere, contributing significantly to the greenhouse effect."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which planet is known as the 'Red Planet'?",
+      "question": "Which part of the human eye is responsible for controlling the amount of light entering?",
       "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Retina"
       ],
       "correct": 1,
-      "explanation": "Mars is called the 'Red Planet' because of its reddish appearance due to iron oxide on its surface."
+      "explanation": "The iris regulates the size of the pupil, controlling light entry."
     },
     {
       "id": 22,
       "category": "Environment & Ecology",
-      "question": "The Convention on Biodiversity was adopted in which year?",
+      "question": "Which is the largest biodiversity hotspot in India?",
       "options": [
-        "1992",
-        "1982",
-        "2000",
-        "1972"
+        "Western Ghats",
+        "Himalayas",
+        "Sundaland",
+        "Indo-Burma region"
       ],
       "correct": 0,
-      "explanation": "The Convention on Biological Diversity was adopted at the Earth Summit in Rio de Janeiro in 1992."
+      "explanation": "Western Ghats is one of the world's eight 'hottest' biodiversity hotspots."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which Indian national park is a UNESCO World Heritage Site and known for the Bengal tiger?",
-      "options": [
-        "Kaziranga",
-        "Gir",
-        "Sundarbans",
-        "Jim Corbett"
-      ],
-      "correct": 2,
-      "explanation": "The Sundarbans mangrove forest is a UNESCO World Heritage Site and famous for the Bengal tiger."
-    },
-    {
-      "id": 24,
-      "category": "Environment & Ecology",
-      "question": "Which law was enacted to protect wildlife in India?",
+      "question": "Which environmental law aims to protect endangered species in India?",
       "options": [
         "Wildlife Protection Act, 1972",
         "Environment Protection Act, 1986",
@@ -314,85 +301,98 @@
         "Water Act, 1974"
       ],
       "correct": 0,
-      "explanation": "The Wildlife Protection Act, 1972, is the primary law for wildlife protection in India."
+      "explanation": "The Wildlife Protection Act, 1972, aims to protect endangered species and wildlife habitats."
+    },
+    {
+      "id": 24,
+      "category": "Environment & Ecology",
+      "question": "What is the main cause of acid rain?",
+      "options": [
+        "Carbon monoxide emissions",
+        "Sulfur dioxide and nitrogen oxides emissions",
+        "Ozone depletion",
+        "Particulate matter"
+      ],
+      "correct": 1,
+      "explanation": "Sulfur dioxide and nitrogen oxides react with water vapor in the atmosphere to form acid rain."
     },
     {
       "id": 25,
-      "category": "Environment & Ecology",
-      "question": "What is the primary purpose of the International Solar Alliance (ISA)?",
+      "category": "Current Affairs & GK",
+      "question": "Which country hosted the G20 summit in 2023?",
       "options": [
-        "Promote fossil fuels",
-        "Encourage solar energy use among tropical countries",
-        "Develop nuclear energy",
-        "Control pollution from vehicles"
+        "India",
+        "USA",
+        "Germany",
+        "Japan"
       ],
-      "correct": 1,
-      "explanation": "The ISA aims to promote solar energy utilization among countries lying between the Tropic of Cancer and Tropic of Capricorn."
+      "correct": 0,
+      "explanation": "India hosted the G20 summit in 2023 in New Delhi."
     },
     {
       "id": 26,
       "category": "Current Affairs & GK",
-      "question": "Which country hosted the 2023 G20 Summit?",
+      "question": "Who was awarded the Nobel Peace Prize in 2022?",
       "options": [
-        "India",
-        "Indonesia",
-        "France",
-        "Japan"
+        "Vladimir Putin",
+        "Maria Ressa",
+        "Abiy Ahmed",
+        "Malala Yousafzai"
       ],
-      "correct": 0,
-      "explanation": "India hosted the G20 Summit in 2023, with its presidency focusing on global economic cooperation."
+      "correct": 1,
+      "explanation": "Maria Ressa was awarded the Nobel Peace Prize in 2022 for her efforts in journalism and press freedom."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Which Indian athlete won the gold medal in men's singles at the Tokyo 2020 Olympic Games?",
+      "question": "Which Indian athlete won the gold medal in men's singles tennis at the 2024 Paris Olympics?",
       "options": [
-        "PV Sindhu",
-        "Neeraj Chopra",
-        "Abhinav Bindra",
-        "Sania Mirza"
+        "Leander Paes",
+        "Rohan Bopanna",
+        "Vishnu Vardhan",
+        "R. Prasad"
       ],
-      "correct": 1,
-      "explanation": "Neeraj Chopra won the gold medal in javelin throw at Tokyo 2020 Olympics."
+      "correct": 2,
+      "explanation": "Vishnu Vardhan represented India in tennis at the 2024 Paris Olympics and won a medal."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "The 'Start-Up India' scheme was launched in which year?",
+      "question": "Which scheme was launched by the Indian government in 2023 to promote EV adoption?",
       "options": [
-        "2015",
-        "2016",
-        "2017",
-        "2018"
+        "FAME III",
+        "Startup India",
+        "Make in India",
+        "Digital India"
       ],
-      "correct": 1,
-      "explanation": "The 'Start-Up India' scheme was launched in 2016 to promote entrepreneurship."
+      "correct": 0,
+      "explanation": "FAME III scheme focuses on promoting electric vehicle adoption across India."
     },
     {
       "id": 29,
-      "category": "Current Affairs & GK",
-      "question": "Which is the newest member of the United Nations Security Council as of 2023?",
+      "category": "Indian History",
+      "question": "Who led the Salt Satyagraha in 1930?",
       "options": [
-        "India",
-        "Ireland",
-        "Mexico",
-        "United Arab Emirates"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Bhagat Singh"
       ],
-      "correct": 3,
-      "explanation": "The United Arab Emirates became a non-permanent member of the UN Security Council in 2022 for the term starting 2023."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi led the Salt Satyagraha, a key event in the Indian independence movement."
     },
     {
       "id": 30,
-      "category": "Current Affairs & GK",
-      "question": "Which Indian state launched the 'Har Ghar Jal' scheme to provide tap water to households?",
+      "category": "Indian Geography",
+      "question": "Which resource is primarily found in the Gulf of Khambhat?",
       "options": [
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Delhi"
+        "Oil",
+        "Coal",
+        "Natural Gas",
+        "Iron Ore"
       ],
-      "correct": 1,
-      "explanation": "'Har Ghar Jal' scheme aims to provide piped water supply to every rural household, notably implemented in Madhya Pradesh."
+      "correct": 2,
+      "explanation": "The Gulf of Khambhat (Cambay) region is rich in natural gas deposits."
     }
   ]
 }
