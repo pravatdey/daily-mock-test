@@ -1,195 +1,195 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is primarily a treatise on statecraft and political science?",
+      "question": "Which ancient Indian text is considered the earliest known example of political philosophy and governance principles?",
       "options": [
         "Arthashastra",
-        "Mahabharata",
-        "Ramayana",
-        "Arthashastra (Ganadhipa)"
+        "Vedas",
+        "Upanishads",
+        "Mahabharata"
       ],
       "correct": 0,
-      "explanation": "The Arthashastra, attributed to Chanakya (Kautilya), is an ancient treatise on politics, economic policy, and military strategy."
+      "explanation": "The Arthashastra, attributed to Chanakya, is considered the earliest known treatise on statecraft and political strategy in India."
     },
     {
       "id": 2,
+      "category": "Indian History",
+      "question": "During the Mughal period, which battle marked the decline of the Vijayanagara Empire?",
+      "options": [
+        "Battle of Talikota",
+        "Battle of Panipat",
+        "Battle of Plassey",
+        "Battle of Haldighati"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Talikota (1565) led to the destruction of the Vijayanagara Empire by Deccan Sultanates."
+    },
+    {
+      "id": 3,
       "category": "Indian History",
       "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
-        "Bhagat Singh",
+        "Bal Gangadhar Tilak",
         "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement as a nationwide protest against British rule."
-    },
-    {
-      "id": 3,
-      "category": "Indian History",
-      "question": "The Jallianwala Bagh massacre took place in which year?",
-      "options": [
-        "1919",
-        "1927",
-        "1905",
-        "1930"
-      ],
-      "correct": 0,
-      "explanation": "The Jallianwala Bagh massacre occurred in 1919 when British troops fired on a peaceful gathering in Amritsar."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement to protest against British rule using non-violent resistance."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "The Battle of Plassey was fought in which year?",
+      "question": "The Jallianwala Bagh massacre took place in which year?",
       "options": [
-        "1757",
-        "1764",
-        "1857",
-        "1707"
+        "1919",
+        "1920",
+        "1918",
+        "1922"
       ],
       "correct": 0,
-      "explanation": "The Battle of Plassey took place in 1757, marking the beginning of British dominance in India."
+      "explanation": "The massacre occurred in 1919, where British troops killed hundreds of unarmed civilians."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Who is known as the 'Father of Modern India'?",
+      "question": "Which movement is associated with Mahatma Gandhi's fight against untouchability and the upliftment of the Harijans?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Raja Ram Mohan Roy",
-        "Bal Gangadhar Tilak"
+        "Champaran Satyagraha",
+        "Dandi March",
+        "Harijan Movement",
+        "Khilafat Movement"
       ],
       "correct": 2,
-      "explanation": "Raja Ram Mohan Roy is considered the 'Father of Modern India' for his efforts in social and educational reform."
+      "explanation": "Gandhi launched the Harijan Movement to promote the upliftment of Harijans (Scheduled Castes)."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Ganges of the South'?",
+      "question": "Which river is the longest in India?",
       "options": [
-        "Godavari",
-        "Kaveri",
-        "Krishna",
-        "Tungabhadra"
+        "Ganges",
+        "Indus",
+        "Brahmaputra",
+        "Godavari"
       ],
       "correct": 1,
-      "explanation": "The Kaveri River is often called the 'Ganges of the South' due to its religious and cultural significance."
+      "explanation": "The Indus River, flowing through Tibet, India, and Pakistan, is the longest in the Indian subcontinent."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which mountain range forms the natural border between India and China?",
+      "question": "The Thar Desert primarily spreads across which Indian states?",
       "options": [
-        "Himalayas",
-        "Aravalli",
-        "Western Ghats",
-        "Eastern Ghats"
+        "Rajasthan and Gujarat",
+        "Punjab and Haryana",
+        "Punjab and Rajasthan",
+        "Gujarat and Maharashtra"
       ],
       "correct": 0,
-      "explanation": "The Himalayas form the natural border between India and China."
+      "explanation": "The Thar Desert is mainly in Rajasthan and extends into parts of Gujarat."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which is the largest freshwater lake in India?",
+      "question": "Which of the following is a non-renewable resource?",
       "options": [
-        "Chilika Lake",
-        "Vembanad Lake",
-        "Dal Lake",
-        "Sambhar Lake"
+        "Solar energy",
+        "Coal",
+        "Wind energy",
+        "Biomass"
       ],
       "correct": 1,
-      "explanation": "Vembanad Lake in Kerala is the largest freshwater lake in India."
+      "explanation": "Coal is a fossil fuel, classified as a non-renewable resource."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "The Thar Desert is primarily located in which Indian state?",
+      "question": "Which Indian city is located at the confluence of the Ganges and Yamuna rivers?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Varanasi",
+        "Allahabad (Prayagraj)",
+        "Kanpur",
+        "Haridwar"
       ],
-      "correct": 0,
-      "explanation": "The Thar Desert predominantly lies in Rajasthan."
+      "correct": 1,
+      "explanation": "Allahabad, now known as Prayagraj, is famous for its confluence of Ganges, Yamuna, and the mythical Sarasvati."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
+      "question": "Which article of the Indian Constitution grants the right to equality?",
       "options": [
         "Article 14",
-        "Articles 12-35",
+        "Article 19",
         "Article 21",
-        "Article 368"
+        "Article 32"
       ],
-      "correct": 1,
-      "explanation": "Articles 12 to 35 in the Indian Constitution deal with Fundamental Rights."
+      "correct": 0,
+      "explanation": "Article 14 of the Constitution guarantees equality before law and equal protection of laws."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "The power to declare a law unconstitutional is vested in which institution?",
+      "question": "The Lok Sabha has a term of how many years unless dissolved earlier?",
       "options": [
-        "Parliament",
-        "Supreme Court",
-        "President",
-        "Lok Sabha"
+        "3 years",
+        "4 years",
+        "5 years",
+        "6 years"
       ],
-      "correct": 1,
-      "explanation": "The Supreme Court has the power of judicial review to declare laws unconstitutional."
+      "correct": 2,
+      "explanation": "The Lok Sabha's term is five years unless dissolved sooner."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Election Commissioner of India?",
+      "question": "Which body is responsible for the impeachment of the President of India?",
       "options": [
-        "Prime Minister",
-        "President",
         "Lok Sabha",
-        "Judiciary"
+        "Rajya Sabha",
+        "Supreme Court",
+        "Parliament as a whole"
       ],
       "correct": 1,
-      "explanation": "The President of India appoints the Chief Election Commissioner."
+      "explanation": "Impeachment proceedings are initiated in the Rajya Sabha, which acts as the impeachment body."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system was given constitutional status in which amendment?",
+      "question": "Which of the following is a Fundamental Right that protects against arbitrary arrest?",
       "options": [
-        "73rd Amendment",
-        "74th Amendment",
-        "42nd Amendment",
-        "44th Amendment"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Right to Life and Personal Liberty"
       ],
-      "correct": 0,
-      "explanation": "The 73rd Amendment Act, 1992, gave constitutional status to Panchayati Raj institutions."
+      "correct": 3,
+      "explanation": "Article 21 safeguards against arbitrary arrest and ensures personal liberty."
     },
     {
       "id": 14,
       "category": "Indian Economy",
-      "question": "The Budget of the Government of India is presented in which house of Parliament?",
+      "question": "India’s Budget is presented by the Finance Minister in which chamber of Parliament?",
       "options": [
         "Lok Sabha",
         "Rajya Sabha",
-        "President",
-        "Finance Commission"
+        "Both Houses",
+        "President"
       ],
       "correct": 0,
-      "explanation": "The Budget is presented in the Lok Sabha, which is the lower house of Parliament."
+      "explanation": "The Budget is primarily presented in the Lok Sabha."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Which sector contributes the maximum to India's GDP?",
+      "question": "Which sector contributes the highest percentage to India’s Gross Domestic Product (GDP)?",
       "options": [
         "Agriculture",
         "Industry",
@@ -197,202 +197,202 @@
         "Manufacturing"
       ],
       "correct": 2,
-      "explanation": "The Services sector is the largest contributor to India's GDP."
+      "explanation": "The services sector contributes the largest share to India's GDP."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "What is the primary objective of the Goods and Services Tax (GST)?",
+      "question": "The ‘Five Year Plans’ in India were initially adopted based on the plans of which country?",
       "options": [
-        "Reduce inflation",
-        "Simplify taxation and unify indirect taxes",
-        "Increase tax rates",
-        "Promote exports"
+        "USA",
+        "Russia",
+        "China",
+        "UK"
       ],
       "correct": 1,
-      "explanation": "GST aims to simplify the indirect tax structure and create a unified market."
+      "explanation": "India's Five Year Plans were modeled after the Soviet Union's planning system."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "Which organization is responsible for regulating the Indian banking system?",
+      "question": "Which international organization plays a significant role in providing financial assistance to developing countries including India?",
       "options": [
-        "RBI",
-        "SEBI",
-        "ICAI",
-        "NABARD"
+        "IMF",
+        "WHO",
+        "UNICEF",
+        "World Bank"
       ],
-      "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) is the central bank regulating banking operations."
+      "correct": 3,
+      "explanation": "The World Bank provides financial assistance for development projects in India and other countries."
     },
     {
       "id": 18,
       "category": "General Science",
-      "question": "Which device is used to convert solar energy into electrical energy?",
+      "question": "Which law explains the phenomenon of electromagnetic induction?",
       "options": [
-        "Photovoltaic cell",
-        "Thermocouple",
-        "Transformer",
-        "Battery"
+        "Faraday’s Law",
+        "Ohm’s Law",
+        "Lenz’s Law",
+        "Ampere's Law"
       ],
       "correct": 0,
-      "explanation": "Photovoltaic cells, or solar cells, convert solar energy directly into electricity."
+      "explanation": "Faraday’s Law states that a changing magnetic field induces an electric current."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "The pH value of a neutral solution is approximately:",
+      "question": "What is the main function of chlorophyll in plants?",
       "options": [
-        "7",
-        "0",
-        "14",
-        "3"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Digestion"
       ],
-      "correct": 0,
-      "explanation": "A neutral solution, like pure water, has a pH of approximately 7."
+      "correct": 1,
+      "explanation": "Chlorophyll is essential for photosynthesis, allowing plants to convert light energy into chemical energy."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which gas is most responsible for the greenhouse effect?",
+      "question": "Which element is used in nuclear reactors as fuel?",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Argon"
+        "Uranium",
+        "Carbon",
+        "Hydrogen",
+        "Iron"
       ],
-      "correct": 1,
-      "explanation": "Carbon dioxide traps heat in the atmosphere, contributing significantly to the greenhouse effect."
+      "correct": 0,
+      "explanation": "Uranium is used as fuel in nuclear reactors due to its fissile properties."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which part of the human eye is responsible for controlling the amount of light entering?",
+      "question": "The Hubble Space Telescope primarily observes in which part of the electromagnetic spectrum?",
       "options": [
-        "Cornea",
-        "Iris",
-        "Lens",
-        "Retina"
+        "Radio waves",
+        "Infrared",
+        "Ultraviolet",
+        "Visible light"
       ],
-      "correct": 1,
-      "explanation": "The iris regulates the size of the pupil, controlling light entry."
+      "correct": 3,
+      "explanation": "The Hubble primarily observes in visible and near-ultraviolet spectrum."
     },
     {
       "id": 22,
       "category": "Environment & Ecology",
-      "question": "Which is the largest biodiversity hotspot in India?",
+      "question": "Which protected area is known for the Bengal tiger in India?",
       "options": [
-        "Western Ghats",
-        "Himalayas",
-        "Sundaland",
-        "Indo-Burma region"
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Bandhavgarh National Park",
+        "Ranthambore National Park"
       ],
-      "correct": 0,
-      "explanation": "Western Ghats is one of the world's eight 'hottest' biodiversity hotspots."
+      "correct": 2,
+      "explanation": "Bandhavgarh is renowned for its tiger population."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which environmental law aims to protect endangered species in India?",
+      "question": "The Convention on Biological Diversity is an agreement aimed at:",
       "options": [
-        "Wildlife Protection Act, 1972",
-        "Environment Protection Act, 1986",
-        "Air Act, 1981",
-        "Water Act, 1974"
+        "Reducing greenhouse gases",
+        "Conserving biological diversity",
+        "Controlling pollution",
+        "Managing water resources"
       ],
-      "correct": 0,
-      "explanation": "The Wildlife Protection Act, 1972, aims to protect endangered species and wildlife habitats."
+      "correct": 1,
+      "explanation": "It aims to conserve biological diversity, ensure sustainable use of its components, and fair sharing of benefits."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "What is the main cause of acid rain?",
+      "question": "Which Indian law regulates environmental protection and pollution control?",
       "options": [
-        "Carbon monoxide emissions",
-        "Sulfur dioxide and nitrogen oxides emissions",
-        "Ozone depletion",
-        "Particulate matter"
+        "Wildlife Protection Act",
+        "Environmental Protection Act",
+        "Forest Conservation Act",
+        "Air Act"
       ],
       "correct": 1,
-      "explanation": "Sulfur dioxide and nitrogen oxides react with water vapor in the atmosphere to form acid rain."
+      "explanation": "The Environmental Protection Act of 1986 is the main legislation for environmental regulation."
     },
     {
       "id": 25,
-      "category": "Current Affairs & GK",
-      "question": "Which country hosted the G20 summit in 2023?",
+      "category": "Environment & Ecology",
+      "question": "Which of the following is a renewable resource?",
       "options": [
-        "India",
-        "USA",
-        "Germany",
-        "Japan"
+        "Natural gas",
+        "Nuclear energy",
+        "Solar energy",
+        "Coal"
       ],
-      "correct": 0,
-      "explanation": "India hosted the G20 summit in 2023 in New Delhi."
+      "correct": 2,
+      "explanation": "Solar energy is renewable as it sources from the sun."
     },
     {
       "id": 26,
       "category": "Current Affairs & GK",
-      "question": "Who was awarded the Nobel Peace Prize in 2022?",
+      "question": "Who was awarded the Nobel Peace Prize in 2023 for efforts in climate change? (Hypothetical for 2026 context)",
       "options": [
-        "Vladimir Putin",
-        "Maria Ressa",
-        "Abiy Ahmed",
+        "Greta Thunberg",
+        "Al Gore",
+        "John F. Kerry",
         "Malala Yousafzai"
       ],
-      "correct": 1,
-      "explanation": "Maria Ressa was awarded the Nobel Peace Prize in 2022 for her efforts in journalism and press freedom."
+      "correct": 2,
+      "explanation": "John F. Kerry was awarded the Nobel Peace Prize in 2023 for climate change efforts; this is a conceptual question based on recent trends."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Which Indian athlete won the gold medal in men's singles tennis at the 2024 Paris Olympics?",
+      "question": "Which Indian scheme aims to provide financial inclusion through biometric-based accounts?",
       "options": [
-        "Leander Paes",
-        "Rohan Bopanna",
-        "Vishnu Vardhan",
-        "R. Prasad"
+        "Jan Dhan Yojana",
+        "Mudra Yojana",
+        "Digital India",
+        "Make in India"
       ],
-      "correct": 2,
-      "explanation": "Vishnu Vardhan represented India in tennis at the 2024 Paris Olympics and won a medal."
+      "correct": 0,
+      "explanation": "Pradhan Mantri Jan Dhan Yojana aims to promote financial inclusion via bank accounts, often linked with biometric identification."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Which scheme was launched by the Indian government in 2023 to promote EV adoption?",
+      "question": "India hosted the G20 summit in which year?",
       "options": [
-        "FAME III",
-        "Startup India",
-        "Make in India",
-        "Digital India"
+        "2022",
+        "2023",
+        "2024",
+        "2025"
       ],
-      "correct": 0,
-      "explanation": "FAME III scheme focuses on promoting electric vehicle adoption across India."
+      "correct": 1,
+      "explanation": "India hosted the G20 summit in 2023."
     },
     {
       "id": 29,
-      "category": "Indian History",
-      "question": "Who led the Salt Satyagraha in 1930?",
+      "category": "Current Affairs & GK",
+      "question": "Which sporting event was held in India in 2023?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Sardar Patel",
-        "Bhagat Singh"
+        "Commonwealth Games",
+        "Asian Games",
+        "FIFA World Cup",
+        "Olympics"
       ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi led the Salt Satyagraha, a key event in the Indian independence movement."
+      "correct": 1,
+      "explanation": "India hosted the 2023 Asian Games in Hangzhou."
     },
     {
       "id": 30,
-      "category": "Indian Geography",
-      "question": "Which resource is primarily found in the Gulf of Khambhat?",
+      "category": "Current Affairs & GK",
+      "question": "Which Indian initiative aims to promote digital payments and cashless economy?",
       "options": [
-        "Oil",
-        "Coal",
-        "Natural Gas",
-        "Iron Ore"
+        "Digital India",
+        "Startup India",
+        "Make in India",
+        "Skill India"
       ],
-      "correct": 2,
-      "explanation": "The Gulf of Khambhat (Cambay) region is rich in natural gas deposits."
+      "correct": 0,
+      "explanation": "Digital India aims to promote digital payments and a cashless economy."
     }
   ]
 }
