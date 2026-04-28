@@ -1,73 +1,73 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is considered the earliest known example of political philosophy and governance principles?",
+      "question": "Which ancient Indian scripture is primarily a dialogue between Prince Arjuna and Lord Krishna?",
       "options": [
-        "Arthashastra",
+        "Ramayana",
         "Vedas",
-        "Upanishads",
+        "Bhagavad Gita",
         "Mahabharata"
       ],
-      "correct": 0,
-      "explanation": "The Arthashastra, attributed to Chanakya, is considered the earliest known treatise on statecraft and political strategy in India."
+      "correct": 2,
+      "explanation": "The Bhagavad Gita is a part of the Mahabharata and is a dialogue between Arjuna and Krishna."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "During the Mughal period, which battle marked the decline of the Vijayanagara Empire?",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Battle of Talikota",
-        "Battle of Panipat",
-        "Battle of Plassey",
-        "Battle of Haldighati"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
       "correct": 0,
-      "explanation": "The Battle of Talikota (1565) led to the destruction of the Vijayanagara Empire by Deccan Sultanates."
+      "explanation": "Babur founded the Mughal Empire in India in 1526 after the First Battle of Panipat."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
+      "question": "The Champaran Satyagraha of 1917 was related to which issue?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bal Gangadhar Tilak",
-        "Subhas Chandra Bose"
+        "Indigo farmers' rights",
+        "Salt tax",
+        "Flood relief",
+        "Education reform"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement to protest against British rule using non-violent resistance."
+      "explanation": "Champaran Satyagraha was a protest by indigo farmers against British planters' policies."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "The Jallianwala Bagh massacre took place in which year?",
+      "question": "Which Indian leader is associated with the Non-Cooperation Movement of 1920?",
       "options": [
-        "1919",
-        "1920",
-        "1918",
-        "1922"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "The massacre occurred in 1919, where British troops killed hundreds of unarmed civilians."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement as a mass protest against British rule."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Which movement is associated with Mahatma Gandhi's fight against untouchability and the upliftment of the Harijans?",
+      "question": "Which event marked the start of the Indian National Movement?",
       "options": [
-        "Champaran Satyagraha",
-        "Dandi March",
-        "Harijan Movement",
-        "Khilafat Movement"
+        "Partition of Bengal, 1905",
+        "Jallianwala Bagh Massacre, 1919",
+        "Formation of Indian National Congress, 1885",
+        "Salt March, 1930"
       ],
       "correct": 2,
-      "explanation": "Gandhi launched the Harijan Movement to promote the upliftment of Harijans (Scheduled Castes)."
+      "explanation": "The formation of the Indian National Congress in 1885 is often considered the starting point of the organized Indian nationalist movement."
     },
     {
       "id": 6,
@@ -75,324 +75,324 @@
       "question": "Which river is the longest in India?",
       "options": [
         "Ganges",
-        "Indus",
+        "Godavari",
         "Brahmaputra",
-        "Godavari"
+        "Narmada"
       ],
       "correct": 1,
-      "explanation": "The Indus River, flowing through Tibet, India, and Pakistan, is the longest in the Indian subcontinent."
+      "explanation": "The Godavari is the longest river in India, flowing over 1,800 km."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "The Thar Desert primarily spreads across which Indian states?",
+      "question": "Which mountain range forms the natural boundary between India and China?",
       "options": [
-        "Rajasthan and Gujarat",
-        "Punjab and Haryana",
-        "Punjab and Rajasthan",
-        "Gujarat and Maharashtra"
+        "Himalayas",
+        "Aravalli",
+        "Western Ghats",
+        "Satpura"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert is mainly in Rajasthan and extends into parts of Gujarat."
+      "explanation": "The Himalayan mountain range forms the natural border between India and China."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which of the following is a non-renewable resource?",
+      "question": "Which is the primary driver of the Indian monsoon season?",
       "options": [
-        "Solar energy",
-        "Coal",
-        "Wind energy",
-        "Biomass"
+        "Western Disturbances",
+        "Indian Ocean Dipole",
+        "Southwest Monsoon Winds",
+        "Jet Streams"
       ],
-      "correct": 1,
-      "explanation": "Coal is a fossil fuel, classified as a non-renewable resource."
+      "correct": 2,
+      "explanation": "The Southwest Monsoon winds bring seasonal rains to India, driven by differential heating of land and sea."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which Indian city is located at the confluence of the Ganges and Yamuna rivers?",
+      "question": "Which resource is most abundant in the state of Rajasthan?",
       "options": [
-        "Varanasi",
-        "Allahabad (Prayagraj)",
-        "Kanpur",
-        "Haridwar"
+        "Coal",
+        "Thorium",
+        "Petroleum",
+        "Bauxite"
       ],
       "correct": 1,
-      "explanation": "Allahabad, now known as Prayagraj, is famous for its confluence of Ganges, Yamuna, and the mythical Sarasvati."
+      "explanation": "Rajasthan has abundant reserves of thorium, contributing to India's nuclear energy program."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution grants the right to equality?",
+      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
       "options": [
         "Article 14",
-        "Article 19",
+        "Articles 12 to 35",
         "Article 21",
-        "Article 32"
+        "Article 368"
       ],
-      "correct": 0,
-      "explanation": "Article 14 of the Constitution guarantees equality before law and equal protection of laws."
+      "correct": 1,
+      "explanation": "Articles 12 to 35 in the Indian Constitution deal with Fundamental Rights."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "The Lok Sabha has a term of how many years unless dissolved earlier?",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "3 years",
-        "4 years",
-        "5 years",
-        "6 years"
+        "President",
+        "Prime Minister",
+        "Lok Sabha",
+        "Supreme Court Collegium"
       ],
-      "correct": 2,
-      "explanation": "The Lok Sabha's term is five years unless dissolved sooner."
+      "correct": 0,
+      "explanation": "The President of India appoints the Chief Justice of India."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Which body is responsible for the impeachment of the President of India?",
+      "question": "The 'Nineteenth Amendment' to the Indian Constitution primarily dealt with?",
       "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "Supreme Court",
-        "Parliament as a whole"
+        "Judicial Review",
+        "Center-State Relations",
+        " Panchayati Raj",
+        " Fundamental Rights"
       ],
       "correct": 1,
-      "explanation": "Impeachment proceedings are initiated in the Rajya Sabha, which acts as the impeachment body."
+      "explanation": "The 19th Amendment (1966) mainly increased the powers of the Centre over states, affecting Centre-State relations."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a Fundamental Right that protects against arbitrary arrest?",
+      "question": "Which body enforces the Fundamental Rights guaranteed by the Indian Constitution?",
       "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right against Exploitation",
-        "Right to Life and Personal Liberty"
+        "Parliament",
+        "Supreme Court",
+        "Lok Sabha",
+        "Election Commission"
       ],
-      "correct": 3,
-      "explanation": "Article 21 safeguards against arbitrary arrest and ensures personal liberty."
+      "correct": 1,
+      "explanation": "The Supreme Court is the guardian of Fundamental Rights and can strike down laws infringing them."
     },
     {
       "id": 14,
       "category": "Indian Economy",
-      "question": "India’s Budget is presented by the Finance Minister in which chamber of Parliament?",
+      "question": "India's Budget primarily refers to the budget of which institution?",
       "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "Both Houses",
-        "President"
+        "RBI",
+        "Ministry of Finance",
+        "Parliament",
+        "Reserve Bank of India"
       ],
-      "correct": 0,
-      "explanation": "The Budget is primarily presented in the Lok Sabha."
+      "correct": 2,
+      "explanation": "India's Budget is presented by the Ministry of Finance and approved by Parliament."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Which sector contributes the highest percentage to India’s Gross Domestic Product (GDP)?",
+      "question": "The term 'Gross Domestic Product' (GDP) refers to?",
       "options": [
-        "Agriculture",
-        "Industry",
-        "Services",
-        "Manufacturing"
+        "Total value of goods and services produced within a country",
+        "Total value of exports",
+        "Total foreign investment",
+        "Total government revenue"
       ],
-      "correct": 2,
-      "explanation": "The services sector contributes the largest share to India's GDP."
+      "correct": 0,
+      "explanation": "GDP measures the total monetary value of all finished goods and services produced within a country's borders in a specific period."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "The ‘Five Year Plans’ in India were initially adopted based on the plans of which country?",
+      "question": "Which Five Year Plan was India’s first attempt at planned economic development?",
       "options": [
-        "USA",
-        "Russia",
-        "China",
-        "UK"
+        "First Five Year Plan",
+        "Second Five Year Plan",
+        "Third Five Year Plan",
+        "Fourth Five Year Plan"
       ],
-      "correct": 1,
-      "explanation": "India's Five Year Plans were modeled after the Soviet Union's planning system."
+      "correct": 0,
+      "explanation": "India's First Five Year Plan (1951-1956) was the initial effort at planned economic development."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "Which international organization plays a significant role in providing financial assistance to developing countries including India?",
+      "question": "Reforms initiated in 1991 primarily aimed at?",
       "options": [
-        "IMF",
-        "WHO",
-        "UNICEF",
-        "World Bank"
+        "Reducing agricultural subsidies",
+        "Opening up the economy and liberalization",
+        "Increasing tariffs",
+        "Nationalization of banks"
       ],
-      "correct": 3,
-      "explanation": "The World Bank provides financial assistance for development projects in India and other countries."
+      "correct": 1,
+      "explanation": "The 1991 economic reforms focused on liberalization, privatization, and opening up the Indian economy."
     },
     {
       "id": 18,
       "category": "General Science",
-      "question": "Which law explains the phenomenon of electromagnetic induction?",
+      "question": "Which scientist is credited with the discovery of the law of gravity?",
       "options": [
-        "Faraday’s Law",
-        "Ohm’s Law",
-        "Lenz’s Law",
-        "Ampere's Law"
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Marie Curie"
       ],
-      "correct": 0,
-      "explanation": "Faraday’s Law states that a changing magnetic field induces an electric current."
+      "correct": 1,
+      "explanation": "Isaac Newton formulated the law of universal gravitation."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "What is the main function of chlorophyll in plants?",
+      "question": "Which element is the most abundant in the Earth's crust?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Digestion"
+        "Silicon",
+        "Oxygen",
+        "Aluminium",
+        "Iron"
       ],
       "correct": 1,
-      "explanation": "Chlorophyll is essential for photosynthesis, allowing plants to convert light energy into chemical energy."
+      "explanation": "Oxygen is the most abundant element in the Earth's crust, primarily in compound form as silicates."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element is used in nuclear reactors as fuel?",
+      "question": "The process of photosynthesis primarily occurs in which part of the plant?",
       "options": [
-        "Uranium",
-        "Carbon",
-        "Hydrogen",
-        "Iron"
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Flowers"
       ],
-      "correct": 0,
-      "explanation": "Uranium is used as fuel in nuclear reactors due to its fissile properties."
+      "correct": 2,
+      "explanation": "Photosynthesis mainly takes place in the leaves, where chloroplasts contain chlorophyll."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "The Hubble Space Telescope primarily observes in which part of the electromagnetic spectrum?",
+      "question": "Which technological advancement significantly contributed to the human exploration of space?",
       "options": [
-        "Radio waves",
-        "Infrared",
-        "Ultraviolet",
-        "Visible light"
+        "Hubble Space Telescope",
+        "Television",
+        "Internet",
+        "Nuclear Power"
       ],
-      "correct": 3,
-      "explanation": "The Hubble primarily observes in visible and near-ultraviolet spectrum."
+      "correct": 0,
+      "explanation": "The Hubble Space Telescope has advanced space observation and exploration significantly."
     },
     {
       "id": 22,
       "category": "Environment & Ecology",
-      "question": "Which protected area is known for the Bengal tiger in India?",
+      "question": "Which of the following is a flagship species used to represent biodiversity conservation efforts?",
       "options": [
-        "Kaziranga National Park",
-        "Sundarbans National Park",
-        "Bandhavgarh National Park",
-        "Ranthambore National Park"
+        "Indian Elephant",
+        "Royal Bengal Tiger",
+        "Indian Peacock",
+        "Ganges Dolphin"
       ],
-      "correct": 2,
-      "explanation": "Bandhavgarh is renowned for its tiger population."
+      "correct": 1,
+      "explanation": "The Royal Bengal Tiger is a flagship species for conservation in India."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity is an agreement aimed at:",
+      "question": "The Convention on Biological Diversity (CBD) was adopted in which city?",
       "options": [
-        "Reducing greenhouse gases",
-        "Conserving biological diversity",
-        "Controlling pollution",
-        "Managing water resources"
+        "Rio de Janeiro",
+        "Geneva",
+        "Nairobi",
+        "Paris"
       ],
-      "correct": 1,
-      "explanation": "It aims to conserve biological diversity, ensure sustainable use of its components, and fair sharing of benefits."
+      "correct": 0,
+      "explanation": "The CBD was adopted at the Earth Summit in Rio de Janeiro in 1992."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which Indian law regulates environmental protection and pollution control?",
+      "question": "Which law in India aims at protection of Environment and wildlife?",
       "options": [
-        "Wildlife Protection Act",
-        "Environmental Protection Act",
-        "Forest Conservation Act",
-        "Air Act"
+        "Wildlife Protection Act, 1972",
+        "Water Act, 1974",
+        "Air Act, 1981",
+        "Environment Protection Act, 1986"
       ],
-      "correct": 1,
-      "explanation": "The Environmental Protection Act of 1986 is the main legislation for environmental regulation."
+      "correct": 0,
+      "explanation": "The Wildlife Protection Act, 1972 provides legal framework for wildlife conservation."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a renewable resource?",
+      "question": "Which of the following is a renewable source of energy?",
       "options": [
-        "Natural gas",
-        "Nuclear energy",
-        "Solar energy",
-        "Coal"
+        "Coal",
+        "Natural Gas",
+        "Sunlight",
+        "Petroleum"
       ],
       "correct": 2,
-      "explanation": "Solar energy is renewable as it sources from the sun."
+      "explanation": "Sunlight is a renewable source of energy, unlike fossil fuels."
     },
     {
       "id": 26,
       "category": "Current Affairs & GK",
-      "question": "Who was awarded the Nobel Peace Prize in 2023 for efforts in climate change? (Hypothetical for 2026 context)",
+      "question": "Which Indian scheme aims to provide free LPG connections to women in rural areas?",
       "options": [
-        "Greta Thunberg",
-        "Al Gore",
-        "John F. Kerry",
-        "Malala Yousafzai"
+        "Swachh Bharat Abhiyan",
+        "Ujjwala Yojana",
+        "Digital India",
+        "Make in India"
       ],
-      "correct": 2,
-      "explanation": "John F. Kerry was awarded the Nobel Peace Prize in 2023 for climate change efforts; this is a conceptual question based on recent trends."
+      "correct": 1,
+      "explanation": "Ujjwala Yojana aims to promote clean cooking and provide LPG to rural women."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Which Indian scheme aims to provide financial inclusion through biometric-based accounts?",
+      "question": "Who was awarded the Nobel Peace Prize in 2023?",
       "options": [
-        "Jan Dhan Yojana",
-        "Mudra Yojana",
-        "Digital India",
-        "Make in India"
+        "Greta Thunberg",
+        "UN Peacekeeping Mission",
+        "Abiy Ahmed",
+        "International Campaign to Abolish Nuclear Weapons"
       ],
-      "correct": 0,
-      "explanation": "Pradhan Mantri Jan Dhan Yojana aims to promote financial inclusion via bank accounts, often linked with biometric identification."
+      "correct": 3,
+      "explanation": "The 2023 Nobel Peace Prize was awarded to the International Campaign to Abolish Nuclear Weapons (ICAN)."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "India hosted the G20 summit in which year?",
+      "question": "Which country hosted the G20 summit in 2023?",
       "options": [
-        "2022",
-        "2023",
-        "2024",
-        "2025"
+        "India",
+        "United States",
+        "Germany",
+        "Japan"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "India hosted the G20 summit in 2023."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Which sporting event was held in India in 2023?",
+      "question": "Which Indian sports personality was awarded the 'Padma Shri' in 2023?",
       "options": [
-        "Commonwealth Games",
-        "Asian Games",
-        "FIFA World Cup",
-        "Olympics"
+        "Neeraj Chopra",
+        "Virat Kohli",
+        "PV Sindhu",
+        "Rohit Sharma"
       ],
-      "correct": 1,
-      "explanation": "India hosted the 2023 Asian Games in Hangzhou."
+      "correct": 0,
+      "explanation": "Neeraj Chopra was awarded the Padma Shri in 2023 for his achievements in athletics."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Which Indian initiative aims to promote digital payments and cashless economy?",
+      "question": "Which Indian government scheme aims to promote startups and innovation?",
       "options": [
-        "Digital India",
-        "Startup India",
         "Make in India",
+        "Startup India",
+        "Digital India",
         "Skill India"
       ],
-      "correct": 0,
-      "explanation": "Digital India aims to promote digital payments and a cashless economy."
+      "correct": 1,
+      "explanation": "Startup India is a flagship initiative to promote startups and innovation."
     }
   ]
 }
