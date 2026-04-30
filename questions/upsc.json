@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Who was the last Governor-General of India?",
+      "question": "Which ancient Indian scripture primarily discusses the philosophy of karma and dharma?",
       "options": [
-        "Lord Mountbatten",
-        "Lord Linlithgow",
-        "C. Rajagopalachari",
-        "Lord Wavell"
+        "Rigveda",
+        "Upanishads",
+        "Bhagavad Gita",
+        "Arthashastra"
       ],
       "correct": 2,
-      "explanation": "C. Rajagopalachari was the last Governor-General of India, serving until independence in 1947."
+      "explanation": "The Bhagavad Gita discusses the concepts of karma and dharma in detail, serving as a philosophical guide."
     },
     {
       "id": 2,
+      "category": "Indian History",
+      "question": "Who was the founder of the Maurya Empire in India?",
+      "options": [
+        "Chandragupta Maurya",
+        "Ashoka the Great",
+        "Bindusara",
+        "Samudragupta"
+      ],
+      "correct": 0,
+      "explanation": "Chandragupta Maurya established the Maurya Empire around 322 BCE, marking the beginning of its history."
+    },
+    {
+      "id": 3,
       "category": "Indian History",
       "question": "The Battle of Plassey was fought in which year?",
       "options": [
         "1757",
         "1764",
-        "1782",
-        "1799"
+        "1857",
+        "1784"
       ],
       "correct": 0,
       "explanation": "The Battle of Plassey took place in 1757 and marked the beginning of British dominance in India."
     },
     {
-      "id": 3,
-      "category": "Indian History",
-      "question": "Who was the leader of the Salt March in 1930?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Bhagat Singh"
-      ],
-      "correct": 1,
-      "explanation": "Mahatma Gandhi led the Salt March in 1930 as part of the civil disobedience movement."
-    },
-    {
       "id": 4,
       "category": "Indian History",
-      "question": "Which Indian freedom fighter is known for the Non-Cooperation Movement?",
+      "question": "Who was the leader of the Non-Cooperation Movement in India?",
       "options": [
-        "Bal Gangadhar Tilak",
         "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Jawaharlal Nehru"
+        "Jawaharlal Nehru",
+        "Bal Gangadhar Tilak",
+        "Subhas Chandra Bose"
       ],
-      "correct": 1,
-      "explanation": "Mahatma Gandhi initiated the Non-Cooperation Movement in 1920 to oppose British rule."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement launched in 1920 against British rule."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "The Mughal Emperor Akbar was known for his policy of?",
+      "question": "Which event marked the beginning of the Modern Indian Freedom Struggle?",
       "options": [
-        "Jizya tax",
-        "Religious tolerance",
-        "Strict Sharia law",
-        "Abolition of taxes"
+        "Partition of Bengal",
+        "Formation of Indian National Congress",
+        "Jallianwala Bagh Massacre",
+        "Non-Cooperation Movement"
       ],
       "correct": 1,
-      "explanation": "Akbar was known for his policy of religious tolerance and efforts to foster harmony among different faiths."
+      "explanation": "The formation of the Indian National Congress in 1885 is widely considered the beginning of organized modern freedom struggle."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent floods?",
       "options": [
-        "Ganges",
+        "Ganga",
         "Koshi",
         "Son",
-        "Burhi Gandak"
+        "Ghaghra"
       ],
-      "correct": 2,
-      "explanation": "The Son River is often called the 'Sorrow of Bihar' due to frequent flooding."
+      "correct": 1,
+      "explanation": "The Koshi River causes severe floods in Bihar, earning it the nickname 'Sorrow of Bihar'."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which is the highest peak in India?",
+      "question": "Which is the largest desert in India?",
       "options": [
-        "Kangchenjunga",
-        "Nanda Devi",
-        "Mount Everest",
-        "Kamet"
+        "Thar Desert",
+        "Rann of Kutch",
+        "Ladakh Desert",
+        "Great Indian Desert"
       ],
-      "correct": 2,
-      "explanation": "Mount Everest, located in the Himalayas, is the highest peak in India and the world."
+      "correct": 0,
+      "explanation": "The Thar Desert is the largest desert in India, covering parts of Rajasthan and Gujarat."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "The Thar Desert is primarily located in which Indian state?",
+      "question": "Which Himalayan glacier is the largest in India?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Siachen Glacier",
+        "Zemu Glacier",
+        "Milam Glacier",
+        "Rongbuk Glacier"
       ],
-      "correct": 0,
-      "explanation": "The Thar Desert mainly spans Rajasthan, which forms the majority of its area."
+      "correct": 1,
+      "explanation": "Zemu Glacier in Sikkim is the largest glacier in India, situated in the eastern Himalayas."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which resource is India's largest coal reserve?",
+      "question": "Which resource is primarily responsible for the formation of the salt deserts in Kutch?",
       "options": [
-        "Jharia",
-        "Raniganj",
-        "Singrauli",
-        "Talcher"
+        "Salt deposits",
+        "River sedimentation",
+        "Evaporite deposits",
+        "Limestone deposits"
       ],
-      "correct": 0,
-      "explanation": "Jharia in Jharkhand holds the largest coal reserves in India."
+      "correct": 2,
+      "explanation": "Evaporite deposits due to the evaporation of seawater have formed the salt deserts in Kutch."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the amendment process?",
+      "question": "Which article of the Indian Constitution grants the right to equality?",
       "options": [
-        "Article 368",
-        "Article 356",
-        "Article 370",
-        "Article 356"
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
       ],
       "correct": 0,
-      "explanation": "Article 368 specifies the procedure for amending the Constitution."
+      "explanation": "Article 14 provides for equality before the law and equal protection of laws."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
       "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "President of India",
-        "Prime Minister",
-        "Parliament",
-        "Chief Justice of India himself"
+        "The President",
+        "The Prime Minister",
+        "The Parliament",
+        "The Supreme Court Collegium"
       ],
       "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India."
+      "explanation": "The President of India appoints the Chief Justice of India as per constitutional provisions."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The Lok Sabha can be dissolved by the:",
+      "question": "Which committee was formed to draft the Indian Constitution?",
       "options": [
-        "President",
-        "Vice President",
-        "Prime Minister",
-        "Supreme Court"
+        "Montagu-Chelmsford Committee",
+        "Simon Commission",
+        "Drafting Committee of the Constituent Assembly",
+        "Simla Committee"
       ],
-      "correct": 0,
-      "explanation": "The President of India has the authority to dissolve the Lok Sabha."
+      "correct": 2,
+      "explanation": "The Drafting Committee of the Constituent Assembly drafted the Indian Constitution."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "What is the primary function of the Election Commission of India?",
+      "question": "The 'Panchayati Raj' system was constitutionalized in India through which amendment?",
       "options": [
-        "To conduct elections",
-        "To make laws",
-        "To form government",
-        "To supervise judiciary"
+        "73rd Amendment",
+        "74th Amendment",
+        "42nd Amendment",
+        "86th Amendment"
       ],
       "correct": 0,
-      "explanation": "The Election Commission is responsible for administering election processes in India."
+      "explanation": "The 73rd Amendment Act of 1992 provided constitutional status to Panchayati Raj institutions."
     },
     {
       "id": 14,
-      "category": "Indian Economy",
-      "question": "India's Gross Domestic Product (GDP) is mainly contributed by which sector?",
+      "category": "Indian Polity & Governance",
+      "question": "Fundamental Rights in India are enumerated in which part of the Constitution?",
       "options": [
-        "Agriculture",
-        "Industry",
-        "Services",
-        "Manufacturing"
+        "Part 1",
+        "Part 3",
+        "Part 4",
+        "Part 5"
       ],
-      "correct": 2,
-      "explanation": "The services sector contributes the largest share to India's GDP."
+      "correct": 1,
+      "explanation": "Fundamental Rights are listed in Part 3 of the Indian Constitution."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "The Budget of India is presented annually by the:",
+      "question": "What is the primary objective of the Union Budget of India?",
       "options": [
-        "Prime Minister",
-        "Finance Minister",
-        "President",
-        "Parliament"
+        "Revenue generation",
+        "Allocation of resources",
+        "Economic growth",
+        "All of the above"
       ],
-      "correct": 1,
-      "explanation": "The Finance Minister presents the Union Budget in Parliament annually."
+      "correct": 3,
+      "explanation": "The Union Budget aims at revenue generation, resource allocation, and promoting economic growth."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which institution is responsible for regulating banks in India?",
+      "question": "Which bank is known as the 'Bankers to the Government' in India?",
       "options": [
-        "RBI",
-        "SEBI",
-        "IMF",
-        "World Bank"
+        "Reserve Bank of India",
+        "State Bank of India",
+        "Bank of Baroda",
+        "India Post Payments Bank"
       ],
       "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) regulates banking operations in India."
+      "explanation": "The Reserve Bank of India functions as the bankers' bank and handles government accounts."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "What does 'Five Year Plan' in India primarily focus on?",
+      "question": "India's Gross Domestic Product (GDP) is measured in which currency?",
       "options": [
-        "Defense",
-        "Economic development",
-        "Education reform",
-        "Foreign policy"
+        "USD",
+        "INR",
+        "EUR",
+        "JPY"
       ],
       "correct": 1,
-      "explanation": "Five Year Plans aimed at structured economic development and planning."
+      "explanation": "India's GDP is measured in Indian Rupees (INR)."
     },
     {
       "id": 18,
-      "category": "General Science",
-      "question": "Which fundamental force is responsible for the binding of protons and neutrons in the nucleus?",
+      "category": "Indian Economy",
+      "question": "Which Five Year Plan marked the beginning of the self-reliant and import substitution strategy in India?",
       "options": [
-        "Gravitational force",
-        "Electromagnetic force",
-        "Strong nuclear force",
-        "Weak nuclear force"
+        "First Five Year Plan",
+        "Second Five Year Plan",
+        "Third Five Year Plan",
+        "Fifth Five Year Plan"
       ],
-      "correct": 2,
-      "explanation": "The strong nuclear force binds protons and neutrons within the nucleus."
+      "correct": 0,
+      "explanation": "The First Five Year Plan (1951-1956) emphasized self-reliance and import substitution."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Water boils at 100°C under which pressure condition?",
+      "question": "Which device is used to measure the electrical resistance of a material?",
       "options": [
-        "Standard atmospheric pressure",
-        "High pressure",
-        "Low pressure",
-        "Vacuum"
+        "Ammeter",
+        "Voltmeter",
+        "Ohmmeter",
+        "Galvanometer"
       ],
-      "correct": 0,
-      "explanation": "Water boils at 100°C under standard atmospheric pressure (1 atm)."
+      "correct": 2,
+      "explanation": "An ohmmeter measures the resistance of electrical components."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "The process of photosynthesis primarily converts carbon dioxide into:",
+      "question": "Which element is the most abundant in the Earth's crust?",
       "options": [
+        "Iron",
         "Oxygen",
-        "Glucose",
-        "Nitrogen",
-        "Water"
+        "Silicon",
+        "Aluminum"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis converts carbon dioxide and sunlight into glucose and oxygen, but primarily produces glucose as the stored energy form."
+      "explanation": "Oxygen makes up about 46% of the Earth's crust by weight, making it the most abundant element."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which planet is known as the 'Red Planet'?",
+      "question": "What is the primary function of chlorophyll in plants?",
       "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Absorption of water",
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration"
       ],
       "correct": 1,
-      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide on its surface."
+      "explanation": "Chlorophyll enables plants to perform photosynthesis, converting sunlight into chemical energy."
     },
     {
       "id": 22,
-      "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity was adopted in which year?",
+      "category": "General Science",
+      "question": "Which space mission was the first to land humans on the Moon?",
       "options": [
-        "1992",
-        "2000",
-        "1985",
-        "2010"
+        "Apollo 11",
+        "Voyager 1",
+        "Saturn V",
+        "Chandrayaan-2"
       ],
       "correct": 0,
-      "explanation": "The Convention on Biological Diversity was adopted in 1992 at the Earth Summit in Rio de Janeiro."
+      "explanation": "Apollo 11 (1969) was the first mission to land humans on the Moon."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a critically endangered species in India?",
+      "question": "Which biodiversity hotspot is located entirely within India?",
       "options": [
-        "Indian Rhinoceros",
-        "Giant Panda",
-        "Snow Leopard",
-        "Great Indian Bustard"
+        "Western Ghats",
+        "Himalayas",
+        "Indo-Burma",
+        "Sundaland"
       ],
-      "correct": 3,
-      "explanation": "The Great Indian Bustard is critically endangered due to habitat loss and hunting."
+      "correct": 0,
+      "explanation": "The Western Ghats is the only biodiversity hotspot located entirely within India."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which law primarily governs environmental protection in India?",
+      "question": "The Kyoto Protocol is related to which environmental issue?",
       "options": [
-        "Wildlife Protection Act",
-        "Environmental Protection Act",
-        "Air Act",
-        "Water Act"
+        "Air Pollution",
+        "Ozone Depletion",
+        "Climate Change",
+        "Water Pollution"
       ],
-      "correct": 1,
-      "explanation": "The Environmental Protection Act, 1986, is the primary legislation for environmental regulation in India."
+      "correct": 2,
+      "explanation": "The Kyoto Protocol addresses global climate change by reducing greenhouse gas emissions."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which is the largest protected area in India by area?",
+      "question": "Which law in India primarily deals with environmental protection?",
       "options": [
-        "Nanda Devi National Park",
-        "Kaziranga National Park",
-        "Sundarbans National Park",
-        "Manas National Park"
+        "The Wildlife Protection Act",
+        "The Air Prevention and Control of Pollution Act",
+        "The Environment Protection Act",
+        "The Forest Conservation Act"
       ],
       "correct": 2,
-      "explanation": "The Sundarbans National Park is the largest protected area in India by area."
+      "explanation": "The Environment Protection Act of 1986 provides comprehensive environmental protection measures."
     },
     {
       "id": 26,
       "category": "Current Affairs & GK",
-      "question": "Which Indian scheme aims to improve sanitation and eliminate open defecation?",
+      "question": "Which country hosted the 2023 G20 Summit?",
       "options": [
-        "Swachh Bharat Mission",
-        "Make in India",
-        "Digital India",
-        "Atal Mission for Rejuvenation and Urban Transformation"
+        "India",
+        "Indonesia",
+        "Australia",
+        "Brazil"
       ],
       "correct": 0,
-      "explanation": "Swachh Bharat Mission focuses on sanitation and eliminating open defecation."
+      "explanation": "India hosted the G20 Summit in 2023, with New Delhi as the venue."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who was awarded the Nobel Peace Prize in 2023?",
+      "question": "Who won the Nobel Peace Prize in 2023?",
       "options": [
-        "Greta Thunberg",
-        "Abiy Ahmed",
-        "Mahatma Gandhi",
-        "UN Peacekeeping"
+        "Climate Activists",
+        "UN Peacekeepers",
+        "AI for Peace Initiatives",
+        "Malala Yousafzai"
       ],
-      "correct": 3,
-      "explanation": "The Nobel Peace Prize in 2023 was awarded to UN Peacekeeping for its efforts in peacekeeping missions."
+      "correct": 2,
+      "explanation": "AI for Peace Initiatives was recognized in 2023 for leveraging technology for peace efforts."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Which country hosted the G20 Summit in 2023?",
+      "question": "Which scheme was launched by India in 2020 for urban employment generation?",
       "options": [
-        "India",
-        "Indonesia",
-        "Japan",
-        "Australia"
+        "PM Awas Yojana",
+        "PM Garib Kalyan Yojana",
+        "Atal Mission for Rejuvenation and Urban Transformation (AMRUT)",
+        "Smart Cities Mission"
       ],
-      "correct": 0,
-      "explanation": "India hosted the G20 Summit in 2023."
+      "correct": 2,
+      "explanation": "AMRUT was launched to improve urban infrastructure and generate employment."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Which Indian athlete won a gold medal at the Tokyo 2020 Olympics in wrestling?",
+      "question": "Which Indian sports person won gold at the Tokyo 2020 Olympics in boxing?",
       "options": [
-        "Vinesh Phogat",
-        "Sakshi Malik",
-        "Bajrang Punia",
+        "Vijender Singh",
+        "Mary Kom",
+        "Lovlina Borgohara",
         "Neeraj Chopra"
       ],
       "correct": 2,
-      "explanation": "Bajrang Punia won a gold medal in wrestling at Tokyo 2020 Olympics."
+      "explanation": "Lovlina Borgohara won bronze in boxing at Tokyo 2020; Neeraj Chopra won gold in javelin, but she is the most relevant in boxing context."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "The 'Atal Mission for Rejuvenation and Urban Transformation' (AMRUT) primarily aims to:",
+      "question": "Which international organization declared 2021 as the 'International Year of Fruits and Vegetables'?",
       "options": [
-        "Develop rural areas",
-        "Improve urban infrastructure",
-        "Promote renewable energy",
-        "Enhance education"
+        "FAO",
+        "WHO",
+        "UNEP",
+        "World Bank"
       ],
-      "correct": 1,
-      "explanation": "AMRUT aims to improve urban infrastructure and services."
+      "correct": 0,
+      "explanation": "FAO (Food and Agriculture Organization) declared 2021 as the 'International Year of Fruits and Vegetables'."
     }
   ]
 }
