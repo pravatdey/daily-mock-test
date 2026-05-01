@@ -1,39 +1,39 @@
 {
   "exam": "oas",
   "name": "Odisha Civil Services",
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha History",
-      "question": "Who was the founder of the Bhoi dynasty in Odisha?",
+      "question": "Which dynasty was responsible for building the famous Konark Sun Temple in Odisha?",
       "options": [
-        "Chodaganga Deva",
-        "Anantavarman Chodaganga",
-        "Chhatrapati Bhoi",
-        "Maharaja Purushottama"
+        "Gajapati Dynasty",
+        "Eastern Ganga Dynasty",
+        "Bhoi Dynasty",
+        "Kalinga Dynasty"
       ],
-      "correct": 2,
-      "explanation": "Chhatrapati Bhoi established the Bhoi dynasty in Odisha after the decline of the East Ganga dynasty."
+      "correct": 1,
+      "explanation": "The Eastern Ganga Dynasty constructed the Konark Sun Temple in the 13th century, showcasing their patronage of art and architecture."
     },
     {
       "id": 2,
       "category": "Odisha History",
-      "question": "The Kalinga War, which led to the transformation of Emperor Ashoka, took place in which year?",
+      "question": "The Battle of Kalinga, which led to Emperor Ashoka's conversion to Buddhism, was fought in which year?",
       "options": [
         "261 BCE",
+        "238 BCE",
         "273 BCE",
-        "232 BCE",
-        "185 BCE"
+        "300 BCE"
       ],
       "correct": 0,
-      "explanation": "The Kalinga War occurred in 261 BCE, after which Ashoka embraced Buddhism and non-violence."
+      "explanation": "The Kalinga War was fought in 261 BCE, after which Ashoka embraced Buddhism and promoted peace."
     },
     {
       "id": 3,
       "category": "Odisha History",
-      "question": "Which prominent freedom fighter from Odisha led the Paika Rebellion against British rule?",
+      "question": "Who was the leader of the famous Paika Rebellion against British rule in Odisha?",
       "options": [
         "Surendra Sai",
         "Buxi Jagabandhu",
@@ -41,12 +41,12 @@
         "Laxman Naik"
       ],
       "correct": 1,
-      "explanation": "Buxi Jagabandhu was the leader of the Paika Rebellion in 1817 against British colonial rule."
+      "explanation": "Buxi Jagabandhu led the Paika Rebellion of 1817-1818 against the British in Odisha."
     },
     {
       "id": 4,
       "category": "Odisha History",
-      "question": "In which year was Odisha officially formed as a separate state?",
+      "question": "The formation of Odisha as a separate state was achieved in which year?",
       "options": [
         "1936",
         "1947",
@@ -54,225 +54,225 @@
         "1920"
       ],
       "correct": 0,
-      "explanation": "Odisha was formed as a separate state on April 1, 1936, separating from Bihar and Orissa Province."
+      "explanation": "Odisha was officially formed as a separate province on April 1, 1936."
     },
     {
       "id": 5,
       "category": "Odisha History",
-      "question": "Jayee Rajguru was associated with which historic rebellion?",
+      "question": "Which dynasty was predominantly ruling Odisha during the 14th century?",
       "options": [
-        "Chuar Rebellion",
-        "Paika Rebellion",
-        "Ulgulan",
-        "Chhamana Rebellion"
+        "Ganga Dynasty",
+        "Gajapati Dynasty",
+        "Bhoi Dynasty",
+        "Kalinga Dynasty"
       ],
       "correct": 1,
-      "explanation": "Jayee Rajguru was a prominent leader of the Paika Rebellion against the British in 1817."
+      "explanation": "The Gajapati dynasty ruled Odisha in the 14th century, known for their cultural and military achievements."
     },
     {
       "id": 6,
       "category": "Odisha Geography",
       "question": "Which river is the longest in Odisha?",
       "options": [
-        "Brahmani",
         "Mahanadi",
+        "Brahmani",
         "Baitarani",
-        "Godavari"
+        "Subarnarekha"
       ],
-      "correct": 1,
-      "explanation": "The Mahanadi is the longest river flowing through Odisha, covering about 850 km."
+      "correct": 0,
+      "explanation": "The Mahanadi River is the longest river flowing through Odisha."
     },
     {
       "id": 7,
       "category": "Odisha Geography",
-      "question": "Chilika Lake is famous for which of the following?",
+      "question": "Chilika Lake, the largest coastal lagoon in India, is located in which district of Odisha?",
       "options": [
-        "Salt production",
-        "Migratory birds and biodiversity",
-        "Ancient temples",
-        "Copper mining"
+        "Puri",
+        "Khordha",
+        "Ganjam",
+        "Balasore"
       ],
-      "correct": 1,
-      "explanation": "Chilika Lake is renowned for its rich biodiversity and as a habitat for migratory birds."
+      "correct": 2,
+      "explanation": "Chilika Lake is mainly situated in Ganjam district, though it spans multiple districts."
     },
     {
       "id": 8,
       "category": "Odisha Geography",
       "question": "Which mineral is most abundantly found in Odisha?",
       "options": [
-        "Gold",
+        "Coal",
         "Bauxite",
         "Iron ore",
-        "Diamond"
+        "Manganese"
       ],
       "correct": 2,
-      "explanation": "Odisha is rich in iron ore, which is a major contributor to India’s steel industry."
+      "explanation": "Odisha is rich in iron ore deposits, making it a major supplier for the steel industry."
     },
     {
       "id": 9,
       "category": "Odisha Geography",
-      "question": "The Eastern Ghats primarily traverse which part of Odisha?",
+      "question": "The Eastern Ghats primarily pass through which part of Odisha?",
       "options": [
         "Southern Odisha",
         "Northern Odisha",
         "Western Odisha",
-        "Eastern Odisha"
+        "Central Odisha"
       ],
       "correct": 0,
-      "explanation": "The Eastern Ghats extend across the southern part of Odisha."
+      "explanation": "The Eastern Ghats run through the southern part of Odisha."
     },
     {
       "id": 10,
       "category": "Odisha Geography",
-      "question": "Which port is the largest in Odisha?",
+      "question": "Which major port is located in Odisha?",
       "options": [
-        "Dhamra Port",
+        "Mumbai Port",
+        "Kolkata Port",
         "Paradip Port",
-        "Cuttack Port",
-        "Balasore Port"
+        "Chennai Port"
       ],
-      "correct": 1,
-      "explanation": "Paradip Port is the biggest and most important deep-water port in Odisha."
+      "correct": 2,
+      "explanation": "Paradip Port is one of the major ports located in Odisha, dedicated to handling bulk cargo."
     },
     {
       "id": 11,
       "category": "Odisha Culture & Heritage",
-      "question": "The Jagannath Temple in Puri is primarily dedicated to which deity?",
+      "question": "The famous Jagannath Temple is located in which Odisha city?",
       "options": [
-        "Lord Vishnu",
-        "Lord Shiva",
-        "Lord Jagannath",
-        "Goddess Durga"
+        "Bhubaneswar",
+        "Puri",
+        "Cuttack",
+        "Berhampur"
       ],
-      "correct": 2,
-      "explanation": "The Jagannath Temple is dedicated to Lord Jagannath, a form of Lord Vishnu."
+      "correct": 1,
+      "explanation": "The Jagannath Temple is situated in Puri, and is a major pilgrimage site."
     },
     {
       "id": 12,
       "category": "Odisha Culture & Heritage",
-      "question": "The famous Sun Temple at Konark is designed in the shape of what?",
+      "question": "The Sun Temple at Konark is dedicated to which deity?",
       "options": [
-        "Chariot",
-        "Palace",
-        "Temple Tree",
-        "Festival Hall"
+        "Lord Vishnu",
+        "Lord Surya",
+        "Goddess Durga",
+        "Lord Shiva"
       ],
-      "correct": 0,
-      "explanation": "The Sun Temple at Konark is constructed as a colossal chariot with stone wheels and horses."
+      "correct": 1,
+      "explanation": "The Sun Temple at Konark is dedicated to Lord Surya, the Sun God."
     },
     {
       "id": 13,
       "category": "Odisha Culture & Heritage",
-      "question": "Odissi dance originated from which region of Odisha?",
+      "question": "Odissi dance is believed to have originated from which region of Odisha?",
       "options": [
-        "Cuttack",
         "Puri",
+        "Cuttack",
         "Bhubaneswar",
-        "Sambalpur"
+        "Ganjam"
       ],
-      "correct": 1,
-      "explanation": "Odissi dance has its origins in the temples of Puri and nearby regions."
+      "correct": 0,
+      "explanation": "Odissi dance originated from the temples of Puri and its surrounding regions."
     },
     {
       "id": 14,
       "category": "Odisha Culture & Heritage",
-      "question": "Pattachitra art is traditional to which community in Odisha?",
+      "question": "Pattachitra art is primarily associated with which art form?",
       "options": [
-        "Weavers",
-        "Tribal communities",
-        "Khandayat artisans",
-        "Rajasthani migrants"
+        "Dance",
+        "Painting",
+        "Sculpture",
+        "Music"
       ],
-      "correct": 0,
-      "explanation": "Pattachitra is a traditional cloth-based scroll painting art mainly practiced by Raghurajpur artisans in Odisha."
+      "correct": 1,
+      "explanation": "Pattachitra is a traditional cloth-based scroll painting art form of Odisha."
     },
     {
       "id": 15,
       "category": "Odisha Culture & Heritage",
-      "question": "Which festival in Odisha marks the harvest season?",
+      "question": "Which festival is celebrated to mark the harvest in Odisha?",
       "options": [
         "Raja",
         "Nuakhai",
-        "Saraswati Puja",
-        "Durga Puja"
+        "Durga Puja",
+        "Diwali"
       ],
       "correct": 1,
-      "explanation": "Nuakhai is the harvest festival celebrated in Odisha to welcome new rice and harvest season."
+      "explanation": "Nuakhai is the harvest festival celebrated mainly in western Odisha."
     },
     {
       "id": 16,
       "category": "Odisha Economy & Development",
-      "question": "Which organization is a major producer of aluminum in Odisha?",
+      "question": "Which organization is a major player in aluminium production in Odisha?",
       "options": [
         "NALCO",
-        "TATA Steel",
-        "Vedanta",
+        "ONGC",
+        "Tata Steel",
         "Hindalco"
       ],
       "correct": 0,
-      "explanation": "NALCO (National Aluminium Company Limited) is a leading aluminum producer in Odisha."
+      "explanation": "National Aluminium Company Limited (NALCO) is a key aluminium producer in Odisha."
     },
     {
       "id": 17,
       "category": "Odisha Economy & Development",
-      "question": "The Paradip Port is primarily used for which type of cargo?",
+      "question": "Paradip Port is primarily used for which type of cargo?",
       "options": [
-        "Agricultural produce",
-        "Oil and Petroleum products",
-        "Textiles",
-        "Electronics"
+        "Passenger",
+        "Container and Bulk Cargo",
+        "Fish",
+        "Agricultural produce"
       ],
       "correct": 1,
-      "explanation": "Paradip Port is a major port for handling oil and petroleum products."
+      "explanation": "Paradip Port is a major port mainly used for container and bulk cargo handling."
     },
     {
       "id": 18,
       "category": "Odisha Economy & Development",
-      "question": "KALIA scheme in Odisha is aimed at supporting which sector?",
+      "question": "Which government scheme aims to improve livelihood of farmers in Odisha?",
       "options": [
-        "Industries",
-        "Agriculture and farmers",
-        "Tourism",
-        "Education"
+        "KALIA",
+        "Jagananna",
+        "PM-KISAN",
+        "NSopar"
       ],
-      "correct": 1,
-      "explanation": "KALIA (Krushak Assistance for Livelihood and Income Augmentation) scheme is for farmers' welfare."
+      "correct": 0,
+      "explanation": "KALIA scheme is launched specifically to support and improve farmers' income in Odisha."
     },
     {
       "id": 19,
       "category": "Odisha Economy & Development",
-      "question": "Which scheme provides health benefits to economically weaker sections in Odisha?",
+      "question": "The Odisha budget is presented in which legislative body?",
       "options": [
-        "Biju Swasthya Kalyan Yojana (BSKY)",
-        "Odisha Rural Housing Scheme",
-        "Odisha Skill Development Scheme",
-        "Odisha Education Guarantee Scheme"
+        "Lok Sabha",
+        "Odisha Legislative Assembly",
+        "Rajya Sabha",
+        "Odisha Gram Panchayat"
       ],
-      "correct": 0,
-      "explanation": "BSKY (Biju Swasthya Kalyan Yojana) offers health coverage to vulnerable populations in Odisha."
+      "correct": 1,
+      "explanation": "The Odisha Budget is presented in the Odisha Legislative Assembly."
     },
     {
       "id": 20,
       "category": "Indian Polity & Constitution",
-      "question": "Who is the current Governor of Odisha (as of 2026)?",
+      "question": "Who is the constitutional head of Odisha state government?",
       "options": [
-        "Ganeshi Lal",
-        "S.C. Jamir",
-        "Murlidhar Chandrakant Bhandare",
-        "Vishwanath Karad"
+        "Chief Minister",
+        "Governor",
+        "Chief Justice",
+        "State Speaker"
       ],
-      "correct": 0,
-      "explanation": "Ganeshi Lal is the Governor of Odisha as of 2026."
+      "correct": 1,
+      "explanation": "The Governor is the constitutional head of Odisha state."
     },
     {
       "id": 21,
       "category": "Indian Polity & Constitution",
-      "question": "The Odisha Legislative Assembly has how many elected members?",
+      "question": "The Odisha State Legislative Assembly has how many elected members?",
       "options": [
         "147",
-        "147",
+        "151",
         "150",
-        "160"
+        "145"
       ],
       "correct": 0,
       "explanation": "Odisha Legislative Assembly has 147 elected members."
@@ -280,119 +280,119 @@
     {
       "id": 22,
       "category": "Indian Polity & Constitution",
-      "question": "Panchayati Raj institutions in Odisha are governed under which act?",
+      "question": "Which local self-government system is most prominent in Odisha?",
       "options": [
-        "73rd Amendment Act",
-        "42nd Amendment Act",
-        "15th Amendment Act",
-        "61st Amendment Act"
+        "Municipal Corporation",
+        "Panchayati Raj",
+        "Urban Local Bodies",
+        "Zilla Parishad"
       ],
-      "correct": 0,
-      "explanation": "Panchayati Raj institutions in Odisha are governed by the 73rd Amendment Act."
+      "correct": 1,
+      "explanation": "Panchayati Raj is the most prominent form of local self-governance in rural Odisha."
     },
     {
       "id": 23,
       "category": "Indian Polity & Constitution",
-      "question": "Who appoints the Chief Minister of Odisha?",
+      "question": "The 73rd Amendment Act in India pertains to which aspect related to Odisha?",
       "options": [
-        "Governor",
-        "Legislature",
-        "Chief Justice of Odisha High Court",
-        "President of India"
+        "State Legislature",
+        "Local Self-Government (Panchayats)",
+        "Judiciary",
+        "Centre-State relations"
       ],
-      "correct": 0,
-      "explanation": "The Governor appoints the Chief Minister of Odisha based on majority support."
+      "correct": 1,
+      "explanation": "The 73rd Amendment pertains to strengthening Panchayati Raj institutions in Odisha and other states."
     },
     {
       "id": 24,
       "category": "General Science",
-      "question": "Which phenomenon explains the flow of rivers due to gravity?",
+      "question": "Which is the main component of the atmosphere in Odisha?",
       "options": [
-        "Capillarity",
-        "Hydraulic gradient",
-        "Refraction",
-        "Diffraction"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Argon"
       ],
       "correct": 1,
-      "explanation": "Hydraulic gradient due to gravity causes rivers to flow from higher to lower elevations."
+      "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere, including in Odisha."
     },
     {
       "id": 25,
       "category": "General Science",
-      "question": "Odisha is rich in which type of coal?",
+      "question": "Which gas is primarily responsible for the greenhouse effect, relevant to Odisha's climate?",
       "options": [
-        "Anthracite",
-        "Lignite",
-        "Peat",
-        "Bituminous"
+        "Oxygen",
+        "Methane",
+        "Carbon Dioxide",
+        "Nitrogen"
       ],
-      "correct": 1,
-      "explanation": "Lignite coal is abundantly found in Odisha."
+      "correct": 2,
+      "explanation": "Carbon dioxide is the main greenhouse gas contributing to global warming and climate change."
     },
     {
       "id": 26,
       "category": "General Science",
-      "question": "Which Odia scientist is known for his contributions to physics?",
+      "question": "Which type of soil is mostly found in the coastal regions of Odisha?",
       "options": [
-        "Swami Vivekananda",
-        "Dr. Harekrishna Mahatab",
-        "Dr. G.C. Das",
-        "Dr. Radhanath Rath"
+        "Black Cotton Soil",
+        "Alluvial Soil",
+        "Laterite Soil",
+        "Red Soil"
       ],
-      "correct": 2,
-      "explanation": "Dr. G.C. Das is recognized for his contributions to science in Odisha."
+      "correct": 1,
+      "explanation": "Alluvial soil is common in Odisha's coastal plains due to river deposits."
     },
     {
       "id": 27,
       "category": "General Science",
-      "question": "Which is the primary greenhouse gas responsible for climate change in Odisha?",
+      "question": "Which part of the human body is most affected by the deficiency of iodine in Odisha?",
       "options": [
-        "Carbon dioxide",
-        "Methane",
-        "Nitrous oxide",
-        "Ozone"
+        "Lungs",
+        "Thyroid gland",
+        "Liver",
+        "Kidneys"
       ],
-      "correct": 0,
-      "explanation": "Carbon dioxide is the primary greenhouse gas contributing to climate change."
+      "correct": 1,
+      "explanation": "Iodine deficiency leads to goiter, affecting the thyroid gland."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Which scheme was launched by Odisha government to improve rural sanitation in 2025?",
+      "question": "Which scheme was launched recently by Odisha government to provide free health insurance?",
       "options": [
-        "Mo Swaasthya",
-        "Swachh Odisha Mission",
-        "Odisha Swachh Bharat Abhiyan",
-        "Odisha Swachhata O Parivar"
+        "Biju Swasthya Kalyan Yojana",
+        "KALIA",
+        "Mo Sarkar",
+        "Biju Pakha Yojana"
       ],
-      "correct": 1,
-      "explanation": "Swachh Odisha Mission was launched to promote sanitation and open defecation free villages."
+      "correct": 0,
+      "explanation": "Biju Swasthya Kalyan Yojana was launched to provide free health insurance to Odisha residents."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Odisha’s KALIA scheme primarily aims to benefit which group?",
+      "question": "The KALIA scheme in Odisha primarily aims to support which group?",
       "options": [
-        "Urban entrepreneurs",
-        "Farmers and landless laborers",
-        "Youth in urban areas",
-        "Senior citizens"
+        "Urban workers",
+        "Farmers and farm workers",
+        "Students",
+        "Artisans"
       ],
       "correct": 1,
-      "explanation": "KALIA scheme is aimed at supporting farmers, sharecroppers, and landless laborers."
+      "explanation": "KALIA scheme is aimed at supporting farmers and farm workers in Odisha."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "In 2024, Odisha launched a new scheme called 'Mo Sarkar' to improve which sector?",
+      "question": "In the context of Odisha, 'Mo Sarkar' is a scheme related to:",
       "options": [
-        "Healthcare",
-        "Governance and public service delivery",
-        "Education",
-        "Transport"
+        "Agricultural subsidy",
+        "Governance and citizen feedback",
+        "Tourism promotion",
+        "Education reform"
       ],
       "correct": 1,
-      "explanation": "'Mo Sarkar' is a government initiative to improve governance and service delivery by direct feedback."
+      "explanation": "'Mo Sarkar' is a scheme for better governance through direct citizen feedback."
     }
   ]
 }

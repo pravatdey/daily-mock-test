@@ -1,86 +1,86 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian scripture primarily discusses the philosophy of karma and dharma?",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Rigveda",
-        "Upanishads",
-        "Bhagavad Gita",
-        "Arthashastra"
+        "Babur",
+        "Akbar",
+        "Sher Shah Suri",
+        "Humayun"
       ],
-      "correct": 2,
-      "explanation": "The Bhagavad Gita discusses the concepts of karma and dharma in detail, serving as a philosophical guide."
+      "correct": 0,
+      "explanation": "Babur, a Timurid prince, founded the Mughal Empire in India in 1526 after the Battle of Panipat."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the founder of the Maurya Empire in India?",
+      "question": "Which Indian freedom fighter is known for the non-cooperation movement?",
       "options": [
-        "Chandragupta Maurya",
-        "Ashoka the Great",
-        "Bindusara",
-        "Samudragupta"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bhagat Singh"
       ],
-      "correct": 0,
-      "explanation": "Chandragupta Maurya established the Maurya Empire around 322 BCE, marking the beginning of its history."
+      "correct": 1,
+      "explanation": "Mahatma Gandhi led the non-cooperation movement in 1920 to promote Indian independence through non-violent protests."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "The Battle of Plassey was fought in which year?",
+      "question": "The Indian National Congress was founded in which year?",
       "options": [
-        "1757",
-        "1764",
-        "1857",
-        "1784"
+        "1885",
+        "1905",
+        "1920",
+        "1857"
       ],
       "correct": 0,
-      "explanation": "The Battle of Plassey took place in 1757 and marked the beginning of British dominance in India."
+      "explanation": "The Indian National Congress was founded in 1885 as a platform for Indian political activism."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement in India?",
+      "question": "Who was the leader of the Salt March in 1930?",
       "options": [
-        "Mahatma Gandhi",
         "Jawaharlal Nehru",
-        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi",
+        "Sardar Patel",
         "Subhas Chandra Bose"
       ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement launched in 1920 against British rule."
+      "correct": 1,
+      "explanation": "Mahatma Gandhi led the Salt March in 1930 as part of his civil disobedience movement against salt taxes."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Which event marked the beginning of the Modern Indian Freedom Struggle?",
+      "question": "Which event marked the beginning of the Modern Indian history?",
       "options": [
-        "Partition of Bengal",
-        "Formation of Indian National Congress",
-        "Jallianwala Bagh Massacre",
-        "Non-Cooperation Movement"
+        "Battle of Plassey",
+        "First War of Independence 1857",
+        "Dandi March",
+        "Partition of India"
       ],
       "correct": 1,
-      "explanation": "The formation of the Indian National Congress in 1885 is widely considered the beginning of organized modern freedom struggle."
+      "explanation": "The First War of Independence in 1857 is considered a significant event marking the beginning of modern Indian history."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent floods?",
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
       "options": [
         "Ganga",
         "Koshi",
-        "Son",
-        "Ghaghra"
+        "Kosi",
+        "Yamuna"
       ],
-      "correct": 1,
-      "explanation": "The Koshi River causes severe floods in Bihar, earning it the nickname 'Sorrow of Bihar'."
+      "correct": 2,
+      "explanation": "The Kosi River is called the 'Sorrow of Bihar' due to frequent flooding and devastation."
     },
     {
       "id": 7,
@@ -88,311 +88,311 @@
       "question": "Which is the largest desert in India?",
       "options": [
         "Thar Desert",
-        "Rann of Kutch",
-        "Ladakh Desert",
+        "Kutch Desert",
+        "Rajasthan Desert",
         "Great Indian Desert"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert is the largest desert in India, covering parts of Rajasthan and Gujarat."
+      "explanation": "The Thar Desert, also known as the Great Indian Desert, is the largest desert in India."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which Himalayan glacier is the largest in India?",
+      "question": "Which Indian state is the leading producer of tea?",
       "options": [
-        "Siachen Glacier",
-        "Zemu Glacier",
-        "Milam Glacier",
-        "Rongbuk Glacier"
+        "Assam",
+        "West Bengal",
+        "Tamil Nadu",
+        "Kerala"
       ],
-      "correct": 1,
-      "explanation": "Zemu Glacier in Sikkim is the largest glacier in India, situated in the eastern Himalayas."
+      "correct": 0,
+      "explanation": "Assam is the leading producer of tea in India, known worldwide for its Assam tea."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which resource is primarily responsible for the formation of the salt deserts in Kutch?",
+      "question": "Which climatic factor primarily influences the monsoon pattern in India?",
       "options": [
-        "Salt deposits",
-        "River sedimentation",
-        "Evaporite deposits",
-        "Limestone deposits"
+        "Jet streams",
+        "Himalayan snow cover",
+        "Equatorial currents",
+        "Trade winds"
       ],
-      "correct": 2,
-      "explanation": "Evaporite deposits due to the evaporation of seawater have formed the salt deserts in Kutch."
+      "correct": 1,
+      "explanation": "Himalayan snow cover influences the monsoon pattern by creating a pressure difference that drives monsoon winds."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution grants the right to equality?",
+      "question": "The President of India is elected by:",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 32"
+        "Direct vote of people",
+        "Members of Parliament",
+        "Electors comprising elected members of Parliament and Legislative Assemblies",
+        "Prime Minister"
       ],
-      "correct": 0,
-      "explanation": "Article 14 provides for equality before the law and equal protection of laws."
+      "correct": 2,
+      "explanation": "The President is elected by an Electoral College consisting of elected members of Parliament and Legislative Assemblies."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
       "options": [
-        "The President",
-        "The Prime Minister",
-        "The Parliament",
-        "The Supreme Court Collegium"
+        "Article 14",
+        "Articles 12-35",
+        "Article 19",
+        "Article 21"
       ],
-      "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India as per constitutional provisions."
+      "correct": 1,
+      "explanation": "Articles 12-35 of the Indian Constitution collectively deal with Fundamental Rights."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Which committee was formed to draft the Indian Constitution?",
+      "question": "The Lok Sabha is composed of members directly elected by:",
       "options": [
-        "Montagu-Chelmsford Committee",
-        "Simon Commission",
-        "Drafting Committee of the Constituent Assembly",
-        "Simla Committee"
+        "The President",
+        "Electors",
+        "The people of India",
+        "Members of Legislative Assemblies"
       ],
       "correct": 2,
-      "explanation": "The Drafting Committee of the Constituent Assembly drafted the Indian Constitution."
+      "explanation": "Members of the Lok Sabha are directly elected by the adult citizens of India through general elections."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "The 'Panchayati Raj' system was constitutionalized in India through which amendment?",
+      "question": "Which body has the power to interpret the Constitution of India?",
       "options": [
-        "73rd Amendment",
-        "74th Amendment",
-        "42nd Amendment",
-        "86th Amendment"
+        "Lok Sabha",
+        "Supreme Court",
+        "Parliament",
+        "President"
       ],
-      "correct": 0,
-      "explanation": "The 73rd Amendment Act of 1992 provided constitutional status to Panchayati Raj institutions."
+      "correct": 1,
+      "explanation": "The Supreme Court of India has the power to interpret the Constitution."
     },
     {
       "id": 14,
       "category": "Indian Polity & Governance",
-      "question": "Fundamental Rights in India are enumerated in which part of the Constitution?",
+      "question": "Panchayati Raj institutions are mentioned in which part of the Indian Constitution?",
       "options": [
-        "Part 1",
-        "Part 3",
-        "Part 4",
-        "Part 5"
+        "Part V",
+        "Part IX",
+        "Part XII",
+        "Part IV"
       ],
       "correct": 1,
-      "explanation": "Fundamental Rights are listed in Part 3 of the Indian Constitution."
+      "explanation": "Part IX of the Indian Constitution deals with Panchayati Raj institutions."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "What is the primary objective of the Union Budget of India?",
+      "question": "India’s Gross Domestic Product (GDP) is primarily measured at:",
       "options": [
-        "Revenue generation",
-        "Allocation of resources",
-        "Economic growth",
-        "All of the above"
+        "Market prices",
+        "Factor cost",
+        "Nominal prices",
+        "Real prices"
       ],
-      "correct": 3,
-      "explanation": "The Union Budget aims at revenue generation, resource allocation, and promoting economic growth."
+      "correct": 0,
+      "explanation": "India’s GDP is primarily measured at market prices for comprehensive valuation."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which bank is known as the 'Bankers to the Government' in India?",
+      "question": "The Union Budget of India is prepared and presented by:",
       "options": [
-        "Reserve Bank of India",
-        "State Bank of India",
-        "Bank of Baroda",
-        "India Post Payments Bank"
+        "The Prime Minister",
+        "The Finance Minister",
+        "The Reserve Bank of India",
+        "The Parliament"
       ],
-      "correct": 0,
-      "explanation": "The Reserve Bank of India functions as the bankers' bank and handles government accounts."
+      "correct": 1,
+      "explanation": "The Finance Minister prepares and presents the Union Budget to the Parliament."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "India's Gross Domestic Product (GDP) is measured in which currency?",
+      "question": "Which sector contributes the maximum to India’s GDP?",
       "options": [
-        "USD",
-        "INR",
-        "EUR",
-        "JPY"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Mining"
       ],
-      "correct": 1,
-      "explanation": "India's GDP is measured in Indian Rupees (INR)."
+      "correct": 2,
+      "explanation": "The Services sector contributes the largest share to India’s GDP."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "Which Five Year Plan marked the beginning of the self-reliant and import substitution strategy in India?",
+      "question": "What is 'FPI' in the context of India’s economy?",
       "options": [
-        "First Five Year Plan",
-        "Second Five Year Plan",
-        "Third Five Year Plan",
-        "Fifth Five Year Plan"
+        "Foreign Portfolio Investment",
+        "Foreign Public Institutions",
+        "Fiscal Policy Instruments",
+        "Foreign Private Investment"
       ],
       "correct": 0,
-      "explanation": "The First Five Year Plan (1951-1956) emphasized self-reliance and import substitution."
+      "explanation": "FPI stands for Foreign Portfolio Investment, referring to investments in financial assets."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which device is used to measure the electrical resistance of a material?",
+      "question": "Which element has the highest melting point?",
       "options": [
-        "Ammeter",
-        "Voltmeter",
-        "Ohmmeter",
-        "Galvanometer"
+        "Tungsten",
+        "Carbon",
+        "Iron",
+        "Gold"
       ],
-      "correct": 2,
-      "explanation": "An ohmmeter measures the resistance of electrical components."
+      "correct": 0,
+      "explanation": "Tungsten has the highest melting point of all elements, at about 3422°C."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element is the most abundant in the Earth's crust?",
+      "question": "The process by which plants convert carbon dioxide into organic compounds using sunlight is called:",
       "options": [
-        "Iron",
-        "Oxygen",
-        "Silicon",
-        "Aluminum"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Germination"
       ],
       "correct": 1,
-      "explanation": "Oxygen makes up about 46% of the Earth's crust by weight, making it the most abundant element."
+      "explanation": "Photosynthesis is the process by which plants convert CO2 into organic compounds using sunlight."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "What is the primary function of chlorophyll in plants?",
+      "question": "Which planet is known as the 'Red Planet'?",
       "options": [
-        "Absorption of water",
-        "Photosynthesis",
-        "Respiration",
-        "Transpiration"
+        "Mars",
+        "Jupiter",
+        "Venus",
+        "Saturn"
       ],
-      "correct": 1,
-      "explanation": "Chlorophyll enables plants to perform photosynthesis, converting sunlight into chemical energy."
+      "correct": 0,
+      "explanation": "Mars is called the 'Red Planet' because of its reddish appearance due to iron oxide on its surface."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which space mission was the first to land humans on the Moon?",
+      "question": "Which device is used to measure temperature?",
       "options": [
-        "Apollo 11",
-        "Voyager 1",
-        "Saturn V",
-        "Chandrayaan-2"
+        "Barometer",
+        "Thermometer",
+        "Ammeter",
+        "Hygrometer"
       ],
-      "correct": 0,
-      "explanation": "Apollo 11 (1969) was the first mission to land humans on the Moon."
+      "correct": 1,
+      "explanation": "A thermometer is used to measure temperature."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which biodiversity hotspot is located entirely within India?",
+      "question": "Which of the following is a keystone species in Indian forests?",
       "options": [
-        "Western Ghats",
-        "Himalayas",
-        "Indo-Burma",
-        "Sundaland"
+        "Tiger",
+        "Elephant",
+        "Sal Tree",
+        "Lion"
       ],
       "correct": 0,
-      "explanation": "The Western Ghats is the only biodiversity hotspot located entirely within India."
+      "explanation": "Tigers are considered keystone species as their presence maintains the balance in forest ecosystems."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The Kyoto Protocol is related to which environmental issue?",
+      "question": "The Convention on Biological Diversity (CBD) was adopted in which year?",
       "options": [
-        "Air Pollution",
-        "Ozone Depletion",
-        "Climate Change",
-        "Water Pollution"
+        "1992",
+        "2000",
+        "1980",
+        "2010"
       ],
-      "correct": 2,
-      "explanation": "The Kyoto Protocol addresses global climate change by reducing greenhouse gas emissions."
+      "correct": 0,
+      "explanation": "The CBD was adopted in 1992 during the Earth Summit in Rio de Janeiro."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which law in India primarily deals with environmental protection?",
+      "question": "Which National Park in India is known for its population of the Bengal tiger?",
       "options": [
-        "The Wildlife Protection Act",
-        "The Air Prevention and Control of Pollution Act",
-        "The Environment Protection Act",
-        "The Forest Conservation Act"
+        "Jim Corbett National Park",
+        "Kanha National Park",
+        "Bandhavgarh National Park",
+        "Sundarbans National Park"
       ],
-      "correct": 2,
-      "explanation": "The Environment Protection Act of 1986 provides comprehensive environmental protection measures."
+      "correct": 0,
+      "explanation": "Jim Corbett National Park was the first national park in India and is renowned for its Bengal tiger population."
     },
     {
       "id": 26,
-      "category": "Current Affairs & GK",
-      "question": "Which country hosted the 2023 G20 Summit?",
+      "category": "Environment & Ecology",
+      "question": "What is the primary cause of acid rain?",
       "options": [
-        "India",
-        "Indonesia",
-        "Australia",
-        "Brazil"
+        "Carbon dioxide emission",
+        "Sulfur dioxide and nitrogen oxides emissions",
+        "Ozone depletion",
+        "Particulate matter"
       ],
-      "correct": 0,
-      "explanation": "India hosted the G20 Summit in 2023, with New Delhi as the venue."
+      "correct": 1,
+      "explanation": "Acid rain is primarily caused by sulfur dioxide (SO2) and nitrogen oxides (NOx) emissions reacting with water vapor."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who won the Nobel Peace Prize in 2023?",
+      "question": "Which country hosted the 2023 G20 Summit?",
       "options": [
-        "Climate Activists",
-        "UN Peacekeepers",
-        "AI for Peace Initiatives",
-        "Malala Yousafzai"
+        "India",
+        "Germany",
+        "Japan",
+        "Brazil"
       ],
-      "correct": 2,
-      "explanation": "AI for Peace Initiatives was recognized in 2023 for leveraging technology for peace efforts."
+      "correct": 0,
+      "explanation": "India hosted the 2023 G20 Summit, emphasizing its role in global economic leadership."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Which scheme was launched by India in 2020 for urban employment generation?",
+      "question": "Which Indian athlete won the gold medal in the 2024 Paris Olympics for shooting?",
       "options": [
-        "PM Awas Yojana",
-        "PM Garib Kalyan Yojana",
-        "Atal Mission for Rejuvenation and Urban Transformation (AMRUT)",
-        "Smart Cities Mission"
+        "Abhinav Bindra",
+        "Ajay Singh",
+        "Ravi Kumar",
+        "Deepak Kumar"
       ],
-      "correct": 2,
-      "explanation": "AMRUT was launched to improve urban infrastructure and generate employment."
+      "correct": 1,
+      "explanation": "Ajay Singh secured a gold medal in shooting at the 2024 Paris Olympics, marking a significant achievement."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Which Indian sports person won gold at the Tokyo 2020 Olympics in boxing?",
+      "question": "Which scheme was launched by the Indian government in 2022 to promote electric vehicles?",
       "options": [
-        "Vijender Singh",
-        "Mary Kom",
-        "Lovlina Borgohara",
-        "Neeraj Chopra"
+        "FAME II",
+        "Production Linked Incentive (PLI)",
+        "National Electric Mobility Mission",
+        "Startup India"
       ],
       "correct": 2,
-      "explanation": "Lovlina Borgohara won bronze in boxing at Tokyo 2020; Neeraj Chopra won gold in javelin, but she is the most relevant in boxing context."
+      "explanation": "The National Electric Mobility Mission was actively promoted, with PLI schemes supporting electric vehicle manufacturing."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Which international organization declared 2021 as the 'International Year of Fruits and Vegetables'?",
+      "question": "Which international organization declared 2021-2030 as the Decade on Ecosystem Restoration?",
       "options": [
-        "FAO",
-        "WHO",
         "UNEP",
-        "World Bank"
+        "UNDP",
+        "World Bank",
+        "UNEP and FAO joint initiative"
       ],
-      "correct": 0,
-      "explanation": "FAO (Food and Agriculture Organization) declared 2021 as the 'International Year of Fruits and Vegetables'."
+      "correct": 3,
+      "explanation": "UNEP and FAO jointly launched the Decade on Ecosystem Restoration for 2021-2030 to promote global ecological health."
     }
   ]
 }
