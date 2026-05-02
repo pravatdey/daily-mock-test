@@ -1,115 +1,102 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-04-29",
+  "date": "2026-05-02",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which district in Odisha is famous for the Chilika Lake, the largest coastal lagoon in India?",
+      "question": "Which district in Odisha is famous for the Konark Sun Temple?",
       "options": [
-        "Ganjam",
-        "Kendrapara",
         "Puri",
+        "Kalahandi",
+        "Sundergarh",
         "Khordha"
       ],
-      "correct": 1,
-      "explanation": "Kendrapara district shares a significant boundary with Chilika Lake, which is renowned for its biodiversity and is the largest brackish water lagoon in India."
+      "correct": 0,
+      "explanation": "The Konark Sun Temple is located in Puri district, renowned for its exquisite architecture and historical significance."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is predominantly found in the Mayurbhanj district of Odisha?",
+      "question": "Which river is the largest in Odisha?",
       "options": [
-        "Oraon",
-        "Santhal",
-        "Munda",
-        "Ho"
+        "Mahanadi",
+        "Brahmani",
+        "Subarnarekha",
+        "Baitarani"
       ],
-      "correct": 2,
-      "explanation": "The Munda tribe is mainly found in the Mayurbhanj district, which has a significant Munda population among other tribal communities."
+      "correct": 0,
+      "explanation": "The Mahanadi River is the largest river flowing through Odisha, supporting agriculture and hydroelectric projects."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "The Lingaraj Temple, a famous heritage site, is located in which Odisha city?",
+      "question": "Which festival is celebrated with the Rath Yatra in Odisha?",
       "options": [
-        "Bhubaneswar",
-        "Cuttack",
-        "Puri",
-        "Berhampur"
+        "Diwali",
+        "Durga Puja",
+        "Jagannath Rath Yatra",
+        "Holi"
       ],
-      "correct": 0,
-      "explanation": "Lingaraj Temple is a prominent Hindu temple situated in Bhubaneswar, the capital city of Odisha."
+      "correct": 2,
+      "explanation": "The Rath Yatra festival, dedicated to Lord Jagannath, is famed and held annually in Puri, Odisha."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated with great enthusiasm in Odisha, especially in Puri, attracting thousands of devotees?",
+      "question": "Which tribal community is primarily associated with the Niyamgiri hills?",
       "options": [
-        "Diwali",
-        "Rath Yatra",
-        "Holi",
-        "Durga Puja"
+        "Santhal",
+        "Dongria Kondh",
+        "Gonds",
+        "Bhils"
       ],
       "correct": 1,
-      "explanation": "The Rath Yatra in Puri is a famous festival dedicated to Lord Jagannath, attracting millions of devotees and tourists."
+      "explanation": "The Dongria Kondh tribe inhabits the Niyamgiri hills, known for their distinct culture and resistance against mining."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Which river is the longest in Odisha?",
+      "question": "Who was the famous Odia poet known for his contributions to Odia literature?",
       "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Odra",
-        "Subarnarekha"
+        "Kabi Samrat Upendra Bhanja",
+        "Kalidasa",
+        "Tulsidas",
+        "Rabindranath Tagore"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi is the longest river flowing through Odisha, flowing across several districts and supporting agriculture."
+      "explanation": "Upendra Bhanja is a renowned Odia poet known for his literary works in the 17th century."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which famous lake is situated in the district of Berhampur?",
+      "question": "Which is the main saltwater lake in Odisha?",
       "options": [
         "Chilika Lake",
-        "Kanjia Lake",
-        "Daringbadi Lake",
-        "Gopalpur Lake"
+        "Pulicat Lake",
+        "Loktak Lake",
+        "Sambhar Lake"
       ],
-      "correct": 1,
-      "explanation": "Kanjia Lake, located near Berhampur, is a notable freshwater lake in Odisha."
+      "correct": 0,
+      "explanation": "Chilika Lake is the largest coastal lagoon in India and a major saltwater lake in Odisha."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "Who was the founder of the Maurya Empire in India?",
+      "question": "Which ancient Indian university was located in Takshashila?",
       "options": [
-        "Chandragupta Maurya",
-        "Ashoka",
-        "Harsha",
-        "Samudragupta"
+        "Nalanda",
+        "Takshashila",
+        "Valabhi",
+        "Kanchi"
       ],
-      "correct": 0,
-      "explanation": "Chandragupta Maurya established the Maurya Empire in India in the 4th century BCE."
+      "correct": 1,
+      "explanation": "Takshashila was an ancient university in present-day Pakistan, known for its extensive education system."
     },
     {
       "id": 8,
-      "category": "Indian History & Culture",
-      "question": "The famous Kailash Temple at Ellora Caves is an example of which style of Indian architecture?",
-      "options": [
-        "Dravidian",
-        "Nagara",
-        "Bhilala",
-        "Rock-cut cave architecture"
-      ],
-      "correct": 3,
-      "explanation": "The Kailash Temple is a rock-cut cave temple, showcasing impressive sculptural work of Indian rock-cut architecture."
-    },
-    {
-      "id": 9,
       "category": "Indian History & Culture",
       "question": "Who was the leader of the Indian independence movement known for non-violent resistance?",
       "options": [
@@ -119,280 +106,293 @@
         "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi pioneered the philosophy of non-violent resistance in India’s freedom movement."
+      "explanation": "Mahatma Gandhi led the non-violent resistance movement against British rule, advocating Satyagraha."
+    },
+    {
+      "id": 9,
+      "category": "Indian History & Culture",
+      "question": "Which heritage site in India is inscribed as a UNESCO World Heritage Site?",
+      "options": [
+        "Qutub Minar",
+        "Hampi",
+        "Khajuraho Group of Monuments",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "All listed sites—Qutub Minar, Hampi, and Khajuraho—are UNESCO World Heritage Sites."
     },
     {
       "id": 10,
       "category": "Indian History & Culture",
-      "question": "Which UNESCO World Heritage site is located in Agra, India?",
+      "question": "During medieval India, the Vijayanagara Empire was based in which modern-day state?",
       "options": [
-        "Qutub Minar",
-        "Taj Mahal",
-        "Red Fort",
-        "Humayun’s Tomb"
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Kerala"
       ],
-      "correct": 1,
-      "explanation": "The Taj Mahal in Agra is a UNESCO World Heritage site and one of the most famous monuments in India."
+      "correct": 0,
+      "explanation": "The Vijayanagara Empire was centered in present-day Karnataka, known for its unique architecture and culture."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which physical feature is the most prominent in the Northern Himalayas of India?",
+      "question": "Which physical feature is most prominent in the northern part of India?",
       "options": [
-        "Plateau",
-        "Mountain ranges",
-        "Desert",
-        "River plains"
+        "Thar Desert",
+        "Himalayas",
+        "Western Ghats",
+        "Deccan Plateau"
       ],
       "correct": 1,
-      "explanation": "The Northern Himalayas are characterized by high mountain ranges, including the Himalayas themselves."
+      "explanation": "The Himalayas are the prominent mountain range in northern India, affecting climate and geography."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Odisha’s climate can be best described as:",
+      "question": "Which type of soil is most suitable for cotton cultivation in Odisha?",
       "options": [
-        "Arid desert climate",
-        "Tropical monsoon climate",
-        "Temperate climate",
-        "Arctic climate"
+        "Alluvial soil",
+        "Black soil",
+        "Red soil",
+        "Laterite soil"
       ],
       "correct": 1,
-      "explanation": "Odisha experiences a tropical monsoon climate with heavy rainfall during the monsoon season."
+      "explanation": "Black soil, rich in minerals, is suitable for cotton cultivation and is found in parts of Odisha."
     },
     {
       "id": 13,
       "category": "Geography",
-      "question": "Which mineral is most abundantly found in Odisha?",
+      "question": "The Mahanadi River originates from which mountain range?",
       "options": [
-        "Gold",
-        "Iron ore",
-        "Coal",
-        "Manganese"
+        "Aravalli",
+        "Himalayas",
+        "Eastern Ghats",
+        "Western Ghats"
       ],
       "correct": 1,
-      "explanation": "Odisha is rich in iron ore deposits, making it a leading mineral producer in India."
+      "explanation": "The Mahanadi originates in the Himalayas, specifically from the Sangrampur area of Chhattisgarh."
     },
     {
       "id": 14,
       "category": "Geography",
-      "question": "The Godavari River primarily flows through which Indian state?",
+      "question": "Which mineral is most abundantly found in Odisha?",
       "options": [
-        "Odisha",
-        "Maharashtra",
-        "Karnataka",
-        "Telangana"
+        "Coal",
+        "Bauxite",
+        "Iron ore",
+        "Manganese"
       ],
-      "correct": 3,
-      "explanation": "The Godavari River flows mainly through Telangana, Maharashtra, Chhattisgarh, and Andhra Pradesh."
+      "correct": 2,
+      "explanation": "Odisha is rich in iron ore, making it a leading producer in India."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Which fundamental right protects citizens from arbitrary arrest and detention?",
+      "question": "Which fundamental right protects the freedom of speech in India?",
       "options": [
         "Right to Equality",
         "Right to Freedom",
-        "Right against Exploitation",
-        "Right to Personal Liberty"
+        "Right Against Exploitation",
+        "Cultural and Educational Rights"
       ],
-      "correct": 3,
-      "explanation": "The Right to Personal Liberty safeguards individuals from arbitrary arrest and detention."
+      "correct": 1,
+      "explanation": "The Right to Freedom guarantees freedoms including speech, subject to reasonable restrictions."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "The Directive Principles of State Policy (DPSP) are:",
+      "question": "The Directive Principles of State Policy are inspired by which country's constitution?",
       "options": [
-        "Justiciable",
-        "Non-justiciable",
-        "Part of the Fundamental Rights",
-        "Part of the Fundamental Duties"
+        "United Kingdom",
+        "Ireland",
+        "Ireland",
+        "France"
       ],
       "correct": 1,
-      "explanation": "DPSP are non-justiciable principles guiding the State policies in India."
+      "explanation": "The DPSP are inspired by the Irish Constitution, aimed at promoting social and economic justice."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Who is the head of the Lok Sabha in India?",
+      "question": "Who is the head of the parliament in India?",
       "options": [
-        "President",
-        "Prime Minister",
-        "Speaker of Lok Sabha",
-        "Vice President"
+        "The President",
+        "The Prime Minister",
+        "The Speaker of Lok Sabha",
+        "The Vice President"
       ],
       "correct": 2,
-      "explanation": "The Speaker of the Lok Sabha is the head of the lower house of Parliament."
+      "explanation": "The Speaker of Lok Sabha presides over the parliamentary proceedings, although the President is the formal head."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "In local governance, Panchayats are administered at which level?",
+      "question": "Which article of the Indian Constitution deals with the Panchayati Raj system?",
       "options": [
-        "District",
-        "Village",
-        "State",
-        "Union"
+        "Article 40",
+        "Article 243",
+        "Article 370",
+        "Article 17"
       ],
       "correct": 1,
-      "explanation": "Panchayats are local self-government institutions at the village level."
+      "explanation": "Article 243 pertains to Panchayats, establishing local self-government at village levels."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which of the following is a chemical change?",
+      "question": "What is the SI unit of force?",
       "options": [
-        "Melting ice",
-        "Boiling water",
-        "Rusting of iron",
-        "Freezing water"
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
       ],
-      "correct": 2,
-      "explanation": "Rusting of iron is a chemical change because it involves a chemical reaction."
+      "correct": 0,
+      "explanation": "The Newton (N) is the SI unit of force."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "The process of photosynthesis occurs in which part of a plant?",
+      "question": "Which gas is primarily responsible for global warming?",
       "options": [
-        "Root",
-        "Stem",
-        "Leaves",
-        "Flowers"
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Helium"
       ],
-      "correct": 2,
-      "explanation": "Photosynthesis primarily occurs in the leaves of plants."
+      "correct": 1,
+      "explanation": "Carbon dioxide is a major greenhouse gas contributing to global warming."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which disease is caused due to deficiency of Vitamin D?",
+      "question": "Which vitamin deficiency causes rickets?",
       "options": [
-        "Scurvy",
-        "Rickets",
-        "Anemia",
-        "Beriberi"
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
       ],
-      "correct": 1,
-      "explanation": "Vitamin D deficiency leads to Rickets, which affects bone development."
+      "correct": 2,
+      "explanation": "Vitamin D deficiency leads to rickets, affecting bone development."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which organ in the human body is primarily responsible for filtering blood?",
+      "question": "Which disease is caused by the deficiency of iron?",
       "options": [
-        "Lungs",
-        "Kidneys",
-        "Liver",
-        "Heart"
+        "Scurvy",
+        "Anemia",
+        "Beriberi",
+        "Pellagra"
       ],
       "correct": 1,
-      "explanation": "The kidneys filter waste products from the blood and produce urine."
+      "explanation": "Iron deficiency leads to anemia, characterized by weak blood cells."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
-      "question": "What is the next number in the series: 2, 4, 8, 16, ___?",
+      "question": "What comes next in the series: 2, 4, 8, 16, ?",
       "options": [
+        "18",
         "24",
         "32",
-        "48",
         "64"
       ],
-      "correct": 1,
-      "explanation": "The series doubles each time; next is 16×2=32."
+      "correct": 2,
+      "explanation": "The pattern doubles each time; next is 16×2=32."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a code language, 'ODISHA' is written as 'SIHADO', how is 'INDIA' written?",
+      "question": "If in a coded language, ‘ODISHA’ is written as ‘PIETBD’, what is the code for ‘REWA’?",
       "options": [
-        "AIDIN",
-        "NADII",
-        "IAIND",
-        "IDAIN"
+        "SFXB",
+        "QDXB",
+        "SFXC",
+        "QFYC"
       ],
-      "correct": 3,
-      "explanation": "The pattern reverses the order of the letters in the word."
+      "correct": 0,
+      "explanation": "Pattern shows each letter shifted forward in the alphabet by 1."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "If 'Teacher' is related to 'School', then 'Doctor' is related to?",
+      "question": "Which word is the odd one out?",
       "options": [
-        "Hospital",
-        "Pharmacy",
-        "Clinic",
-        "Medicine"
+        "Apple",
+        "Banana",
+        "Carrot",
+        "Grapes"
       ],
-      "correct": 0,
-      "explanation": "A doctor is associated with a hospital, similar to how a teacher is associated with a school."
+      "correct": 2,
+      "explanation": "Carrot is a vegetable, others are fruits."
     },
     {
       "id": 26,
       "category": "Mental Ability & Reasoning",
-      "question": "In a clockwise direction, facing north, the person turns 90° to his right, then 45° to his left. Which direction is he facing now?",
+      "question": "If ‘LONDON’ is written as ‘MNPEFO’, how will ‘PARIS’ be written?",
       "options": [
-        "North-East",
-        "North-West",
-        "South-East",
-        "South-West"
+        "QBSJT",
+        "QBSKU",
+        "QBTJU",
+        "QBRJU"
       ],
       "correct": 0,
-      "explanation": "Turning right 90° from north faces east; turning 45° left from east faces north-east."
+      "explanation": "Pattern suggests shifting each letter forward by 1 or 2; pattern leads to first option."
     },
     {
       "id": 27,
       "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India in 2020 to promote digital payments?",
+      "question": "Which scheme was launched by the Government of India to provide free LPG connections to women below poverty line?",
       "options": [
+        "Swachh Bharat",
+        "Ujjwala Yojana",
         "Digital India",
-        "Payment Ease",
-        "Digital Pay",
-        "Cashless India"
+        "Make in India"
       ],
-      "correct": 0,
-      "explanation": "Digital India is a flagship program launched to promote digital connectivity and payments."
+      "correct": 1,
+      "explanation": "Ujjwala Yojana aims to reduce health hazards by providing free LPG to BPL families."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Who was awarded the Padma Bhushan in 2023 for contributions to literature and education?",
+      "question": "Who received the Padma Vibhushan award in 2023 in India?",
       "options": [
-        "Chitra Banerjee Divakaruni",
-        "Kiran Desai",
-        "Raghuram Rajan",
-        "Sachin Tendulkar"
+        "Sachin Tendulkar",
+        "Vishwanathan Anand",
+        "Nobel Laureate Kailash Satyarthi",
+        "Amitabh Bachchan"
       ],
-      "correct": 0,
-      "explanation": "Chitra Banerjee Divakaruni received the Padma Bhushan for her contributions to literature."
+      "correct": 2,
+      "explanation": "Kailash Satyarthi, Nobel laureate and social leader, was awarded the Padma Vibhushan in 2023."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Which sportsperson from Odisha won a gold medal at the Tokyo 2020 Olympics?",
+      "question": "Which sport was included in the Tokyo 2020 Olympics for the first time?",
       "options": [
-        "Dutee Chand",
-        "Sushil Kumar",
-        "Neeraj Chopra",
-        "PV Sindhu"
+        "Skateboarding",
+        "Basketball",
+        "Archery",
+        "Hockey"
       ],
-      "correct": 2,
-      "explanation": "Neeraj Chopra from India won a gold medal in Javelin Throw at Tokyo 2020."
+      "correct": 0,
+      "explanation": "Skateboarding was included for the first time in Tokyo 2020 Olympics."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "Which government scheme launched in 2021 aims to improve health infrastructure in Odisha?",
+      "question": "Which initiative was launched by the Government of India to promote electric vehicles?",
       "options": [
-        "Odisha Health Initiative",
-        "Mo Sarkar",
-        "Bhavishyotara",
-        "Ama Odisha Smruti"
+        "Faster Adoption and Manufacturing of Hybrid and Electric Vehicles (FAME)",
+        "Startup India",
+        "Make in India",
+        "Digital India"
       ],
       "correct": 0,
-      "explanation": "Odisha Health Initiative was launched to strengthen health infrastructure in Odisha."
+      "explanation": "FAME scheme promotes the adoption of electric vehicles through subsidies and incentives."
     }
   ]
 }
