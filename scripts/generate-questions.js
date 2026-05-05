@@ -69,9 +69,50 @@ Questions should be at intermediate difficulty - suitable for RI/Amin level exam
     }
 };
 
+// ===== Fetch Wikipedia content for current affairs facts =====
+async function fetchWikipediaSummary(title) {
+    try {
+        const url = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`;
+        const response = await fetch(url);
+        if (!response.ok) return null;
+        const data = await response.json();
+        return data.extract || null;
+    } catch (e) {
+        return null;
+    }
+}
+
+async function getCurrentAffairsContext() {
+    const topics = [
+        'Governor_of_Odisha',
+        'List_of_chief_ministers_of_Odisha',
+        'Government_of_Odisha',
+        'President_of_India',
+        'Vice_President_of_India',
+        'Prime_Minister_of_India',
+        'Chief_Justice_of_India',
+        'Cabinet_of_India'
+    ];
+
+    console.log(`  📚 Fetching current facts from Wikipedia...`);
+    const facts = [];
+    for (const topic of topics) {
+        const summary = await fetchWikipediaSummary(topic);
+        if (summary) {
+            // Trim to first 500 chars to keep prompt size manageable
+            facts.push(`[${topic.replace(/_/g, ' ')}]: ${summary.substring(0, 500)}`);
+        }
+    }
+    return facts.join('\n\n');
+}
+
 // ===== Build prompt =====
-function buildPrompt(examConfig, dateStr) {
-    return `${examConfig.prompt}
+function buildPrompt(examConfig, dateStr, currentFacts) {
+    const factsSection = currentFacts
+        ? `\n\nCURRENT VERIFIED FACTS (Use these for current affairs questions - DO NOT use outdated info):\n${currentFacts}\n`
+        : '';
+
+    return `${examConfig.prompt}${factsSection}
 
 IMPORTANT:
 - Date seed: ${dateStr} - ensure unique questions for today
@@ -208,7 +249,7 @@ async function callGroqBatch(batchPrompt) {
     return questions;
 }
 
-async function callGroq(examConfig, dateStr) {
+async function callGroq(examConfig, dateStr, currentFacts) {
     const batchSize = 10;
     const totalQuestions = examConfig.questionCount;
     const batches = Math.ceil(totalQuestions / batchSize);
@@ -222,7 +263,11 @@ async function callGroq(examConfig, dateStr) {
         const batchNum = batch + 1;
         const topic = topics[batch % topics.length] || 'General Knowledge';
 
-        const batchPrompt = `Generate ${count} unique MCQ for ${examConfig.name} exam. Topic: ${topic}. Date: ${dateStr}-b${batchNum}
+        // Include current facts only for current affairs topic batches
+        const isCurrentAffairs = topic.toLowerCase().includes('current affairs');
+        const factsContext = (isCurrentAffairs && currentFacts) ? `\n\nVERIFIED CURRENT FACTS:\n${currentFacts.substring(0, 1500)}\n` : '';
+
+        const batchPrompt = `Generate ${count} unique MCQ for ${examConfig.name} exam. Topic: ${topic}. Date: ${dateStr}-b${batchNum}${factsContext}
 
 Return JSON: {"questions":[{"id":1,"category":"Topic","question":"Q?","options":["A","B","C","D"],"correct":0,"explanation":"Why"}]}
 "correct" = 0-based index. EXACTLY ${count} questions.`;
@@ -248,8 +293,8 @@ Return JSON: {"questions":[{"id":1,"category":"Topic","question":"Q?","options":
 }
 
 // ===== Generate with fallback =====
-async function generateQuestions(examKey, examConfig, dateStr) {
-    const fullPrompt = buildPrompt(examConfig, dateStr);
+async function generateQuestions(examKey, examConfig, dateStr, currentFacts) {
+    const fullPrompt = buildPrompt(examConfig, dateStr, currentFacts);
 
     // Try GitHub Models first (fast, single call)
     if (GH_MODELS_TOKEN) {
@@ -266,7 +311,7 @@ async function generateQuestions(examKey, examConfig, dateStr) {
     if (GROQ_API_KEY) {
         try {
             console.log(`  → Trying Groq fallback...`);
-            const questions = await callGroq(examConfig, dateStr);
+            const questions = await callGroq(examConfig, dateStr, currentFacts);
             console.log(`  ✓ ${examConfig.name}: ${questions.length} questions (Groq)`);
             return questions;
         } catch (error) {
@@ -293,6 +338,10 @@ async function main() {
     console.log(`APIs: ${GH_MODELS_TOKEN ? 'GitHub Models ✓' : 'GitHub Models ✗'} | ${GROQ_API_KEY ? 'Groq ✓' : 'Groq ✗'}`);
     console.log(`Exams: ${Object.keys(EXAMS).join(', ')}\n`);
 
+    // Fetch current facts from Wikipedia (shared across all exams)
+    const currentFacts = await getCurrentAffairsContext();
+    console.log(`  ✓ Current affairs context loaded\n`);
+
     let successCount = 0;
     let failCount = 0;
 
@@ -300,7 +349,7 @@ async function main() {
         console.log(`Generating ${examConfig.name} questions...`);
 
         try {
-            const questions = await generateQuestions(examKey, examConfig, dateStr);
+            const questions = await generateQuestions(examKey, examConfig, dateStr, currentFacts);
 
             const filePath = path.join(questionsDir, `${examKey}.json`);
             const output = {
