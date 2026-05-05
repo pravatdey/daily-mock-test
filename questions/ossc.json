@@ -7,59 +7,7 @@
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which district in Odisha is famous for the Chilika Lake?",
-      "options": [
-        "Puri",
-        "Khordha",
-        "Ganjam",
-        "Jagatsinghpur"
-      ],
-      "correct": 1,
-      "explanation": "Khordha district is known for hosting Chilika Lake, the largest coastal lagoon in India and a famous bird sanctuary."
-    },
-    {
-      "id": 2,
-      "category": "Odisha General Knowledge",
-      "question": "Which tribal community is primarily found in the Koraput district of Odisha?",
-      "options": [
-        "Santhal",
-        "Gond",
-        "Koya",
-        "Bhumiya"
-      ],
-      "correct": 2,
-      "explanation": "The Koya tribe is predominantly found in Koraput district, known for their distinct culture and traditions."
-    },
-    {
-      "id": 3,
-      "category": "Odyssey General Knowledge",
-      "question": "Which famous festival is celebrated during the Rath Yatra in Puri?",
-      "options": [
-        "Diwali",
-        "Dussehra",
-        "Rath Yatra",
-        "Holi"
-      ],
-      "correct": 2,
-      "explanation": "The Rath Yatra is a famous festival in Puri where Lord Jagannath, Balabhadra, and Subhadra are taken out in chariots."
-    },
-    {
-      "id": 4,
-      "category": "Odisha General Knowledge",
-      "question": "Who was the eminent freedom fighter and the first Odia to become Governor of Odisha?",
-      "options": [
-        "Dr. Harekrushna Mahatab",
-        "Utkal Gaurav Madhusudan Das",
-        "Gopabandhu Das",
-        "Biju Patnaik"
-      ],
-      "correct": 1,
-      "explanation": "Madhusudan Das was a prominent freedom fighter and the first Odia to serve as Governor of Odisha."
-    },
-    {
-      "id": 5,
-      "category": "Odisha General Knowledge",
-      "question": "Which river is the largest in Odisha?",
+      "question": "Which river is the longest in Odisha?",
       "options": [
         "Mahanadi",
         "Brahmani",
@@ -67,332 +15,384 @@
         "Subarnarekha"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi River is the longest and most significant river flowing through Odisha."
+      "explanation": "The Mahanadi River is the longest river flowing through Odisha, originating from Chhattisgarh and flowing into the Bay of Bengal."
+    },
+    {
+      "id": 2,
+      "category": "Odisha General Knowledge",
+      "question": "Which is the famous festival celebrated in Odisha that marks the Rath Yatra?",
+      "options": [
+        "Diwali",
+        "Dussehra",
+        "Rath Yatra",
+        "Holi"
+      ],
+      "correct": 2,
+      "explanation": "The Rath Yatra is a famous festival in Odisha, especially in Puri, dedicated to Lord Jagannath."
+    },
+    {
+      "id": 3,
+      "category": "Odisha General Knowledge",
+      "question": "Which tribal community is known for their unique bamboo craft in Odisha?",
+      "options": [
+        "Khonds",
+        "Santhals",
+        "Bonda",
+        "Lohar"
+      ],
+      "correct": 0,
+      "explanation": "The Khond tribe is well known for their bamboo craft and traditional art in Odisha."
+    },
+    {
+      "id": 4,
+      "category": "Odisha General Knowledge",
+      "question": "Which is the capital city of Odisha?",
+      "options": [
+        "Cuttack",
+        "Bhubaneswar",
+        "Puri",
+        "Berhampur"
+      ],
+      "correct": 1,
+      "explanation": "Bhubaneswar is the capital city of Odisha, known as the 'Temple City of India'."
+    },
+    {
+      "id": 5,
+      "category": "Odisha General Knowledge",
+      "question": "Who was the famous freedom fighter from Odisha who played a key role in the Quit India Movement?",
+      "options": [
+        "Biju Patnaik",
+        "Utkal Gourav Madhusudan Das",
+        "Binayak Mohapatra",
+        "Laxmi Patnaik"
+      ],
+      "correct": 2,
+      "explanation": "Binayak Mohapatra was a prominent freedom fighter from Odisha who actively participated in the Quit India Movement."
     },
     {
       "id": 6,
-      "category": "Indian History & Culture",
-      "question": "The Ashoka Pillar at Sarnath is associated with which historical period?",
+      "category": "Odisha General Knowledge",
+      "question": "Which dam is built across the Mahanadi River in Odisha?",
       "options": [
-        "Mauryan Empire",
-        "Gupta Empire",
-        "Mughal Empire",
-        "Chola Dynasty"
+        "Hirakud Dam",
+        "Indravati Dam",
+        "Sardar Sarovar Dam",
+        "Nagarjuna Sagar Dam"
       ],
       "correct": 0,
-      "explanation": "The Ashoka Pillar at Sarnath dates back to the Mauryan Empire, erected by Emperor Ashoka."
+      "explanation": "Hirakud Dam, built across the Mahanadi River, is one of the largest and famous dams in Odisha."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "Which dance form is classical to Odisha?",
+      "question": "The Indus Valley Civilization is primarily known for which of the following?",
       "options": [
-        "Kathak",
-        "Odissi",
-        "Kathakali",
-        "Bharatanatyam"
+        "Temples",
+        "Urban planning and drainage systems",
+        "Rajput forts",
+        "Mughal architecture"
       ],
       "correct": 1,
-      "explanation": "Odissi is a classical dance form originating from Odisha, characterized by intricate movements and spiritual themes."
+      "explanation": "The Indus Valley Civilization is renowned for its advanced urban planning and drainage systems."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Who was the founder of the Indian National Congress?",
+      "question": "Who among the following was a famous ruler of the Mauryan Empire?",
       "options": [
-        "Bal Gangadhar Tilak",
-        "Dadabhai Naoroji",
-        "A.O. Hume",
-        "Mahatma Gandhi"
+        "Ashoka",
+        "Akbar",
+        "Chandragupta",
+        "Shivaji"
       ],
-      "correct": 2,
-      "explanation": "A.O. Hume founded the Indian National Congress in 1885 to promote political dialogue among Indians."
+      "correct": 0,
+      "explanation": "Emperor Ashoka was one of the most renowned rulers of the Mauryan Empire, known for spreading Buddhism."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "Which UNESCO World Heritage Site in India is an ancient Buddhist complex in Odisha?",
+      "question": "Which monument in India is a UNESCO World Heritage Site that symbolizes Mughal architecture?",
       "options": [
-        "Mahabalipuram",
-        "Kushinagar",
-        "Lingaraj Temple",
-        "Lingaraj Temple and Udayagiri Caves"
+        "Qutub Minar",
+        "Taj Mahal",
+        "Gateway of India",
+        "Hampi Ruins"
       ],
-      "correct": 3,
-      "explanation": "The Udayagiri and Khandagiri Caves near Bhubaneswar are ancient Buddhist monastic complexes recognized as UNESCO sites."
+      "correct": 1,
+      "explanation": "The Taj Mahal is a UNESCO World Heritage Site and an iconic example of Mughal architecture."
     },
     {
       "id": 10,
-      "category": "Geography",
-      "question": "Which is the highest mountain in India?",
+      "category": "Indian History & Culture",
+      "question": "Which ancient text is considered the oldest Veda?",
       "options": [
-        "Kangchenjunga",
-        "Mount Everest",
-        "K2",
-        "Nanda Devi"
+        "Rigveda",
+        "Samaveda",
+        "Yajurveda",
+        "Atharvaveda"
       ],
-      "correct": 1,
-      "explanation": "Mount Everest is the highest mountain in India and the world, with a height of 8,848 meters."
+      "correct": 0,
+      "explanation": "The Rigveda is the oldest of the four Vedas and forms the foundation of Vedic literature."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Odisha lies mostly in which geographical zone?",
+      "question": "Which mountain range forms the natural border between India and China?",
       "options": [
-        "Himalayan belt",
-        "Deccan Plateau",
-        "Eastern Coastal Plain",
-        "Thar Desert"
+        "Himalayas",
+        "Aravalli",
+        "Western Ghats",
+        "Eastern Ghats"
       ],
-      "correct": 2,
-      "explanation": "Odisha mainly lies in the Eastern Coastal Plain, characterized by fertile plains and coastal features."
+      "correct": 0,
+      "explanation": "The Himalayas form the northern boundary of India and the border with China."
     },
     {
       "id": 12,
+      "category": "Geography",
+      "question": "Odisha's climate is mainly classified as:",
+      "options": [
+        "Arid Desert",
+        "Tropical Coastal",
+        "Temperate",
+        "Mountainous"
+      ],
+      "correct": 1,
+      "explanation": "Odisha has a tropical coastal climate with high humidity and moderate temperatures."
+    },
+    {
+      "id": 13,
       "category": "Geography",
       "question": "Which mineral is most abundantly found in Odisha?",
       "options": [
         "Coal",
         "Bauxite",
-        "Iron ore",
-        "Mica"
+        "Chromite",
+        "Iron ore"
       ],
-      "correct": 2,
-      "explanation": "Odisha is rich in iron ore, making it a major contributor to India’s iron and steel industry."
-    },
-    {
-      "id": 13,
-      "category": "Geography",
-      "question": "What type of climate does Odisha generally have?",
-      "options": [
-        "Tropical, humid",
-        "Arid desert",
-        "Temperate",
-        "Cold polar"
-      ],
-      "correct": 0,
-      "explanation": "Odisha has a tropical, humid climate with substantial rainfall and warm temperatures."
+      "correct": 4,
+      "explanation": "Odisha is rich in mineral resources, especially iron ore, making it a leading producer."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Constitution",
-      "question": "Which Fundamental Right guarantees the right to equality?",
+      "category": "Geography",
+      "question": "Which soil type is predominant in the coastal plains of Odisha?",
       "options": [
-        "Right to freedom",
-        "Right to equality",
-        "Right against exploitation",
-        "Cultural and Educational Rights"
+        "Alluvial",
+        "Red soil",
+        "Black soil",
+        "Laterite"
       ],
-      "correct": 1,
-      "explanation": "The Right to Equality is guaranteed under Article 14-18 of the Indian Constitution."
+      "correct": 0,
+      "explanation": "Alluvial soil predominates in the coastal plains, suitable for rice cultivation."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "Which fundamental right ensures the right to equality before the law?",
       "options": [
-        "President of India",
-        "Prime Minister",
-        "Chief Justice of the Supreme Court",
-        "Parliament"
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Right to Equality",
+        "Cultural and Educational Rights"
       ],
-      "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India, based on the recommendation of the Collegium."
+      "correct": 2,
+      "explanation": "The Right to Equality guarantees that every person is equal before the law."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "The Lok Sabha is related to which branch of government?",
+      "question": "The Directive Principles of State Policy aim to establish:",
       "options": [
-        "Executive",
-        "Legislature",
-        "Judiciary",
-        "None"
+        "Fundamental Rights",
+        "Social justice and welfare",
+        "Legal procedures",
+        "Electoral reforms"
       ],
       "correct": 1,
-      "explanation": "The Lok Sabha is the lower house of Parliament, part of the legislature."
+      "explanation": "DPSPs aim to promote social and economic welfare and guide the state's policies."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Which article of the Indian Constitution deals with the Directive Principles of State Policy?",
+      "question": "Who is the head of the Parliament of India?",
       "options": [
-        "Article 12",
-        "Article 21",
-        "Article 36",
-        "Article 37"
+        "Lok Sabha Speaker",
+        "President of India",
+        "Prime Minister",
+        "Vice President"
       ],
-      "correct": 3,
-      "explanation": "Article 37 states that the Directive Principles shall guide the government in policy-making."
+      "correct": 0,
+      "explanation": "The Speaker of the Lok Sabha is the presiding officer and de facto head of the Parliament."
     },
     {
       "id": 18,
-      "category": "General Science",
-      "question": "What is the symbol of the element oxygen?",
+      "category": "Indian Polity & Constitution",
+      "question": "The Panchayati Raj system is a form of:",
       "options": [
-        "O",
-        "Ox",
-        "Om",
-        "Og"
+        "State Government",
+        "Local Self-Governance",
+        "Central Government",
+        "Judicial System"
       ],
-      "correct": 0,
-      "explanation": "The chemical symbol of oxygen is 'O'."
+      "correct": 1,
+      "explanation": "Panchayati Raj is a decentralized form of local self-governance in villages."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which organ in the human body is primarily responsible for digestion?",
+      "question": "What is the primary function of chlorophyll in plants?",
       "options": [
-        "Liver",
-        "Stomach",
-        "Kidney",
-        "Lungs"
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Germination"
       ],
-      "correct": 1,
-      "explanation": "The stomach is the main organ responsible for digestion in the human body."
+      "correct": 0,
+      "explanation": "Chlorophyll helps in photosynthesis, converting sunlight into chemical energy."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which vitamin is primarily obtained from sunlight?",
+      "question": "Which gas is most responsible for the greenhouse effect?",
       "options": [
-        "Vitamin A",
-        "Vitamin B12",
-        "Vitamin C",
-        "Vitamin D"
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Methane"
       ],
-      "correct": 3,
-      "explanation": "Vitamin D is synthesized in the skin upon exposure to sunlight."
+      "correct": 1,
+      "explanation": "Carbon dioxide significantly contributes to the greenhouse effect by trapping heat."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which disease is caused by deficiency of vitamin C?",
+      "question": "Which disease is caused by deficiency of Vitamin D?",
       "options": [
-        "Night blindness",
         "Scurvy",
         "Rickets",
-        "Pellagra"
+        "Beriberi",
+        "Anemia"
       ],
       "correct": 1,
-      "explanation": "Scurvy is caused due to deficiency of vitamin C."
+      "explanation": "Vitamin D deficiency causes rickets, leading to weak or deformed bones."
     },
     {
       "id": 22,
-      "category": "Mental Ability & Reasoning",
-      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
+      "category": "General Science",
+      "question": "Which of the following is an example of a chemical change?",
       "options": [
-        "24",
-        "32",
-        "48",
-        "64"
+        "Melting ice",
+        "Boiling water",
+        "Rusting iron",
+        "Freezing water"
       ],
-      "correct": 1,
-      "explanation": "The pattern doubles each time; next is 16×2=32."
+      "correct": 2,
+      "explanation": "Rusting of iron is a chemical change involving oxidation."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a code, 'ODISHA' is written as 'PIJTCB', what is the code for 'ODIA'?",
+      "question": "What comes next in the number series: 2, 4, 8, 16, ?",
       "options": [
-        "PIJT",
-        "PIJT",
-        "PJTC",
-        "PIJC"
+        "18",
+        "24",
+        "32",
+        "64"
       ],
-      "correct": 0,
-      "explanation": "Each letter shifts forward by one alphabet, so 'O'→'P', 'D'→'I', etc."
+      "correct": 2,
+      "explanation": "The pattern is doubling each time; thus, next is 32."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "In a certain code, 'BLOOD' is written as 'CMPPE'. How is 'BLOOD' coded?",
+      "question": "If in a certain code, 'ODISHA' is written as 'PTEJTB', how is 'INDIA' written?",
       "options": [
-        "CMPP E",
-        "CMPP E",
-        "BMNFE",
-        "DNNPE"
+        "JOFJB",
+        "JPECJ",
+        "JQFJB",
+        "JQCKB"
       ],
-      "correct": 1,
-      "explanation": "Each letter shifts forward by one in the alphabet."
+      "correct": 2,
+      "explanation": "Pattern analysis shows each letter shifts by +2 positions in the alphabet."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "If 'NORTH' is written as 'QWRVT', how is 'SOUTH' written?",
+      "question": "A clock showing 3:00 shows the time after 150 minutes. What is the current time?",
       "options": [
-        "VQWLK",
-        "VQWLM",
-        "VQWLX",
-        "VQWLT"
+        "5:30",
+        "6:30",
+        "8:30",
+        "9:00"
       ],
-      "correct": 0,
-      "explanation": "Pattern shows shifting of each letter by 3 positions in the alphabet."
+      "correct": 1,
+      "explanation": "150 minutes = 2 hours 30 minutes; thus, 3:00 + 2:30 = 5:30."
     },
     {
       "id": 26,
       "category": "Current Affairs",
-      "question": "Who is the current governor of Odisha?",
+      "question": "Who is the current Governor of Odisha as of 2026?",
       "options": [
         "Ganeshi Lal",
-        "Muralidharan Mathur",
         "Droupadi Murmu",
-        "Nandini Sundar"
+        "S.C. Jamir",
+        "Murlidhar Chandrakant Joshi"
       ],
-      "correct": 2,
-      "explanation": "Droupadi Murmu is the current governor of Odisha as of 2023."
+      "correct": 0,
+      "explanation": "Ganeshi Lal is the current Governor of Odisha, holding office since 2018."
     },
     {
       "id": 27,
       "category": "Current Affairs",
-      "question": "Which scheme was launched by the Odisha government to promote rural entrepreneurship?",
+      "question": "Which scheme launched by the Government of India aims to improve sanitation in rural areas?",
       "options": [
-        "Odisha Rural Development Scheme",
-        "Ama Gaon Ama Badi",
-        "Odisha Rural Employment Guarantee Scheme",
-        "Odisha Startup Policy"
+        "Swachh Bharat Abhiyan",
+        "Digital India",
+        "Make in India",
+        "Start-Up India"
       ],
-      "correct": 1,
-      "explanation": "‘Ama Gaon Ama Badi’ is a flagship scheme to promote rural entrepreneurship and development."
+      "correct": 0,
+      "explanation": "Swachh Bharat Abhiyan is a nationwide campaign for sanitation and waste management."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Who was awarded the Padma Shri in 2023 for contributions in arts?",
+      "question": "Which Indian sports personality won a gold medal at the Tokyo 2020 Olympics?",
       "options": [
-        "Padma Bhushan Awardee",
-        "Kalpana Dash",
-        "Aparajita Sethi",
-        "Sambit Patra"
+        "Neeraj Chopra",
+        "PV Sindhu",
+        "Abhinav Bindra",
+        "Sania Mirza"
       ],
-      "correct": 1,
-      "explanation": "Kalpana Dash, an Odia painter, was awarded the Padma Shri in 2023."
+      "correct": 0,
+      "explanation": "Neeraj Chopra won gold in javelin throw at the Tokyo 2020 Olympics."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Which sporting event was hosted by Odisha in 2023?",
+      "question": "Which state in India received the 'Best State for Investment' award in 2026?",
       "options": [
-        "FIFA U-17 World Cup",
-        "Commonwealth Games",
-        "Asian Games",
-        "South Asian Games"
+        "Odisha",
+        "Gujarat",
+        "Maharashtra",
+        "Karnataka"
       ],
       "correct": 0,
-      "explanation": "Odisha hosted the FIFA U-17 World Cup in 2023."
+      "explanation": "Odisha was recognized for its investor-friendly policies and infrastructure."
     },
     {
       "id": 30,
-      "category": "Current Affairs",
-      "question": "Which Odia singer was conferred the Padma Shri in 2023?",
+      "category": "Odisha General Knowledge",
+      "question": "Which lake is the largest in Odisha?",
       "options": [
-        "Sambit Patra",
-        "Usha Uthup",
-        "Bhupen Hazarika",
-        "Sareeta Jain"
+        "Chilika Lake",
+        "Paditirtha Lake",
+        "Kanjia Lake",
+        "Sukinda Lake"
       ],
-      "correct": 1,
-      "explanation": "Usha Uthup, though more associated with Mumbai, has Odia roots and was honored in 2023; (if focusing on Odisha-specific, consider a different personality)."
+      "correct": 0,
+      "explanation": "Chilika Lake is the largest coastal lagoon in India and the second largest in the world."
     }
   ]
 }

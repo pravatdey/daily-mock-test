@@ -7,59 +7,33 @@
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is considered the earliest known document of Indian civilization?",
+      "question": "Which ancient Indian text is primarily related to political science and statecraft?",
       "options": [
         "Rigveda",
         "Arthashastra",
         "Mahabharata",
         "Upanishads"
       ],
-      "correct": 0,
-      "explanation": "The Rigveda is the oldest of the Vedas and is considered one of the earliest records of Indian civilization."
+      "correct": 1,
+      "explanation": "The Arthashastra, attributed to Chanakya, is a treatise on statecraft, economic policy, and military strategy."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the leader of the Indian National Army (INA) during World War II?",
+      "question": "The Battle of Plassey (1757) marked the beginning of the dominance of which colonial power in India?",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bhagat Singh"
+        "French",
+        "Dutch",
+        "British",
+        "Portuguese"
       ],
-      "correct": 0,
-      "explanation": "Subhas Chandra Bose was the prominent leader of the INA, which aimed to overthrow British rule with Japanese assistance."
+      "correct": 2,
+      "explanation": "The Battle of Plassey was fought between the British East India Company and Siraj-ud-Daula, leading to British dominance in India."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "During the Mughal era, which emperor is known for establishing the Din-i-Ilahi?",
-      "options": [
-        "Akbar",
-        "Babur",
-        "Jahangir",
-        "Shah Jahan"
-      ],
-      "correct": 0,
-      "explanation": "Akbar founded the Din-i-Ilahi, a syncretic religious philosophy blending elements from various faiths."
-    },
-    {
-      "id": 4,
-      "category": "Indian History",
-      "question": "Which act marked the beginning of the Civil Disobedience Movement in India?",
-      "options": [
-        "Non-Cooperation Movement",
-        "Salt Satyagraha",
-        "Quit India Movement",
-        "Simla Conference"
-      ],
-      "correct": 1,
-      "explanation": "The Salt Satyagraha in 1930 initiated the Civil Disobedience Movement against British salt taxes."
-    },
-    {
-      "id": 5,
-      "category": "Indian History",
-      "question": "Who led the Quit India Movement launched in 1942?",
+      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
@@ -67,142 +41,168 @@
         "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi was the leader of the Quit India Movement calling for an end to British rule."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement, emphasizing non-violent resistance against British rule."
+    },
+    {
+      "id": 4,
+      "category": "Indian History",
+      "question": "The Partition of India occurred in which year?",
+      "options": [
+        "1947",
+        "1950",
+        "1935",
+        "1962"
+      ],
+      "correct": 0,
+      "explanation": "India was partitioned in 1947, leading to the creation of India and Pakistan."
+    },
+    {
+      "id": 5,
+      "category": "Indian History",
+      "question": "Who was the first President of India?",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Sardar Patel"
+      ],
+      "correct": 1,
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
       "options": [
-        "Ganges",
+        "Ganga",
         "Koshi",
-        "Son",
-        "Brahmaputra"
+        "Bhagirathi",
+        "Son"
       ],
       "correct": 1,
-      "explanation": "The Koshi River often causes devastating floods in Bihar, earning it the nickname 'Sorrow of Bihar.'"
+      "explanation": "The Koshi river is called the 'Sorrow of Bihar' due to frequent devastating floods."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which of the following resources is most abundant in the Indian Thar Desert?",
+      "question": "Which resource is most abundantly found in the Thar Desert?",
       "options": [
         "Coal",
         "Limestone",
-        "Uranium",
-        "Salt"
+        "Salt",
+        "Uranium"
       ],
-      "correct": 3,
-      "explanation": "The Thar Desert has significant salt deposits, and salt extraction is a major activity."
+      "correct": 2,
+      "explanation": "Salt deposits are abundant in the Thar Desert, making salt extraction economically significant."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which climate type is predominant in the Western Ghats?",
+      "question": "The Indo-Ganga-Brahmaputra basin primarily belongs to which physical geographic zone?",
       "options": [
-        "Tropical Rainforest",
-        "Desert",
-        "Alpine",
-        "Tundra"
+        "Deccan Plateau",
+        "Himalayan Mountain Region",
+        "Northern Plains",
+        "Western Ghats"
       ],
-      "correct": 0,
-      "explanation": "Western Ghats experience a tropical rainforest climate due to high rainfall and humidity."
+      "correct": 2,
+      "explanation": "The Indo-Ganga-Brahmaputra basin covers the fertile Northern Plains, formed by the river systems."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "The Brahmaputra River flows into which body of water?",
+      "question": "Which climatic factor primarily influences the monsoon pattern in India?",
       "options": [
-        "Arabian Sea",
-        "Bay of Bengal",
-        "Indian Ocean",
-        "Laccadive Sea"
+        "Western Disturbances",
+        "El Niño",
+        "Jet Streams",
+        "Trade Winds"
       ],
-      "correct": 1,
-      "explanation": "The Brahmaputra River joins the Ganges and flows into the Bay of Bengal."
+      "correct": 3,
+      "explanation": "Trade Winds and the ITCZ significantly influence monsoon patterns in India."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
+      "question": "Which article of the Indian Constitution deals with the union budget?",
       "options": [
-        "Article 14",
-        "Articles 12-35",
-        "Article 21",
-        "Article 370"
+        "Article 112",
+        "Article 75",
+        "Article 370",
+        "Article 356"
       ],
-      "correct": 1,
-      "explanation": "Articles 12 to 35 of the Indian Constitution cover the Fundamental Rights."
+      "correct": 0,
+      "explanation": "Article 112 of the Constitution deals with the Annual Financial Statement, i.e., the Union Budget."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "Who elects the Vice President of India?",
       "options": [
-        "President of India",
-        "Prime Minister",
-        "Lok Sabha Speaker",
-        "Chief Justice of India himself"
+        "Members of Lok Sabha",
+        "Members of Rajya Sabha only",
+        "Members of Parliament collectively",
+        "Electoral College of the Union"
       ],
-      "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice based on the recommendation of the outgoing CJI."
+      "correct": 2,
+      "explanation": "The Vice President is elected by an Electoral College consisting of members of both houses of Parliament."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "What is the main function of the Lok Sabha in Indian Parliament?",
+      "question": "The concept of 'Judicial Review' in India is derived from which country's legal system?",
       "options": [
-        "Pass legislation",
-        "Interpret laws",
-        "Manage state governments",
-        "Adjudicate disputes"
+        "United Kingdom",
+        "United States",
+        "Canada",
+        "Australia"
       ],
-      "correct": 0,
-      "explanation": "The Lok Sabha primarily passes legislation and controls finances."
+      "correct": 1,
+      "explanation": "Judicial Review in India is based on the American model, allowing courts to review and strike down laws inconsistent with the Constitution."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system in India is a part of which constitutional scheme?",
+      "question": "Which of the following is NOT a Fundamental Right in India?",
       "options": [
-        "Federal Structure",
-        "Decentralization",
-        "Emergency Provisions",
-        "Directive Principles"
+        "Right to Equality",
+        "Right to Property",
+        "Right to Freedom",
+        "Right against Exploitation"
       ],
       "correct": 1,
-      "explanation": "Panchayati Raj promotes decentralization and local self-governance in rural areas."
+      "explanation": "Right to Property was a Fundamental Right but was later made a Constitutional Right and later removed from Fundamental Rights via 44th Amendment."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "Which Fundamental Right guarantees the right to equality before the law?",
+      "category": "Indian Economy",
+      "question": "The 'Pay Commission' in India is primarily responsible for:",
       "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right against Exploitation",
-        "Right to Property"
+        "Fixing the price of goods",
+        "Determining salaries of government employees",
+        "Regulating banking interest rates",
+        "Managing foreign trade"
       ],
-      "correct": 0,
-      "explanation": "Article 14 guarantees equality before the law and equal protection of laws."
+      "correct": 1,
+      "explanation": "The Pay Commission recommends salary and pension structures for government employees."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "India’s Union Budget is presented in which house of Parliament?",
+      "question": "Which institution in India is responsible for controlling inflation and money supply?",
       "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "Lok Sabha and Rajya Sabha",
-        "President"
+        "SEBI",
+        "RBI",
+        "IMF",
+        "World Bank"
       ],
-      "correct": 0,
-      "explanation": "The Budget is presented first in the Lok Sabha, which exercises financial control."
+      "correct": 1,
+      "explanation": "The Reserve Bank of India (RBI) controls money supply and inflation through monetary policy instruments."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which sector contributed the maximum to India’s GDP as of 2023?",
+      "question": "Which sector contributes the highest percentage to India’s GDP as per recent data?",
       "options": [
         "Agriculture",
         "Industry",
@@ -210,189 +210,189 @@
         "Manufacturing"
       ],
       "correct": 2,
-      "explanation": "The service sector contributes the largest share to India's GDP, over 50%."
+      "explanation": "The services sector has the largest share in India’s GDP, accounting for over 50%."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "What does the term 'Fiscal Deficit' refer to?",
+      "question": "The ‘Five Year Plans’ in India were adopted primarily to:",
       "options": [
-        "Total revenue less total expenditure",
-        "Borrowings of the government",
-        "Total debt of the country",
-        "Income from exports"
+        "Promote industrialization",
+        "Achieve economic self-sufficiency",
+        "Reduce poverty and unemployment",
+        "Control inflation"
       ],
-      "correct": 0,
-      "explanation": "Fiscal deficit is the difference between the government’s total revenue and total expenditure."
+      "correct": 2,
+      "explanation": "Five Year Plans aimed at holistic development to reduce poverty and unemployment among other goals."
     },
     {
       "id": 18,
-      "category": "Indian Economy",
-      "question": "Which five-year plan marked the start of the Green Revolution in India?",
+      "category": "General Science",
+      "question": "Which phenomenon explains the red colour of the sunset?",
       "options": [
-        "First Five Year Plan",
-        "Third Five Year Plan",
-        "Fourth Five Year Plan",
-        "Fifth Five Year Plan"
+        "Refraction",
+        "Diffraction",
+        "Scattering",
+        "Reflection"
       ],
-      "correct": 1,
-      "explanation": "The Third Five Year Plan focused on agriculture and marked the beginning of the Green Revolution."
+      "correct": 2,
+      "explanation": "The scattering of shorter blue and green wavelengths leaves the longer red wavelengths, causing the sunset to appear red."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which particle is responsible for carrying the current in a metal conductor?",
+      "question": "In Chemistry, which element is most abundant in the Earth’s crust?",
       "options": [
-        "Electrons",
-        "Protons",
-        "Neutrons",
-        "Photons"
+        "Oxygen",
+        "Silicon",
+        "Aluminium",
+        "Iron"
       ],
       "correct": 0,
-      "explanation": "Electrons are responsible for electric conduction in metals."
+      "explanation": "Oxygen is the most abundant element in the Earth's crust, primarily found as part of oxides."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element is most abundant in the Earth's crust?",
+      "question": "Which biological process is responsible for the conversion of atmospheric nitrogen into usable forms?",
       "options": [
-        "Oxygen",
-        "Silicon",
-        "Aluminum",
-        "Iron"
+        "Photosynthesis",
+        "Nitrogen fixation",
+        "Respiration",
+        "Transpiration"
       ],
-      "correct": 0,
-      "explanation": "Oxygen is the most abundant element in the Earth's crust, mainly in compound form."
+      "correct": 1,
+      "explanation": "Nitrogen fixation by bacteria converts atmospheric nitrogen into ammonia, usable by plants."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which biological process is responsible for the production of energy in cells?",
+      "question": "The launch vehicle 'GSLV' is primarily used for which purpose?",
       "options": [
-        "Photosynthesis",
-        "Respiration",
-        "Transpiration",
-        "Germination"
+        "Weather observation",
+        "Space station supply",
+        "Launching satellites into geostationary orbit",
+        "Astronaut transport"
       ],
-      "correct": 1,
-      "explanation": "Respiration breaks down glucose to produce energy in cells."
+      "correct": 2,
+      "explanation": "GSLV is used by ISRO to launch satellites into geostationary transfer orbits."
     },
     {
       "id": 22,
-      "category": "General Science",
-      "question": "Which technology is used in satellites for communication purposes?",
+      "category": "Environment & Ecology",
+      "question": "The Convention on Biological Diversity was signed in which year?",
       "options": [
-        "Infrared communication",
-        "Radio frequency communication",
-        "Optical fiber",
-        "Bluetooth"
+        "1992",
+        "2000",
+        "1980",
+        "2010"
       ],
-      "correct": 1,
-      "explanation": "Satellites primarily use radio frequency communication for data transmission."
+      "correct": 0,
+      "explanation": "The Convention on Biological Diversity was adopted at the Earth Summit in Rio in 1992."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a UNESCO World Heritage Site in India known for its biodiversity?",
+      "question": "Which national park is known for the protection of the Bengal tiger?",
       "options": [
-        "Sundarbans National Park",
         "Kaziranga National Park",
-        "Gir Forest National Park",
-        "All of the above"
+        "Ranthambore National Park",
+        "Gir National Park",
+        "Sundarbans National Park"
       ],
       "correct": 3,
-      "explanation": "All listed sites are UNESCO World Heritage Sites known for biodiversity."
+      "explanation": "Sundarbans is renowned for the conservation of the Bengal tiger."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which international agreement aims to combat climate change by reducing greenhouse gas emissions?",
+      "question": "The term 'Carbon Footprint' refers to:",
       "options": [
-        "Paris Agreement",
-        "Kyoto Protocol",
-        "Montreal Protocol",
-        "Rio Convention"
+        "Total greenhouse gases emitted by an individual",
+        "The amount of carbon stored in forests",
+        "Total carbon content in the atmosphere",
+        "Carbon emissions from factories"
       ],
       "correct": 0,
-      "explanation": "The Paris Agreement is the latest global accord to curb climate change emissions."
+      "explanation": "A carbon footprint measures the total greenhouse gases emitted directly or indirectly by an individual or organization."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "What is the primary cause of acid rain?",
+      "question": "Which law primarily regulates environmental protection in India?",
       "options": [
-        "Carbon monoxide emissions",
-        "Sulfur dioxide and nitrogen oxides emissions",
-        "Ozone depletion",
-        "Particulate matter"
+        "The Water Act, 1974",
+        "The Air Act, 1981",
+        "The Environmental Protection Act, 1986",
+        "The Forest Conservation Act, 1980"
       ],
-      "correct": 1,
-      "explanation": "Sulfur dioxide and nitrogen oxides in emissions react with water vapor to form acid rain."
+      "correct": 2,
+      "explanation": "The Environment (Protection) Act, 1986 is the comprehensive legislation for environmental regulation and protection."
     },
     {
       "id": 26,
-      "category": "Environment & Ecology",
-      "question": "Which Indian law is primarily responsible for protecting endangered species and their habitats?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Governor of Odisha as of May 2026?",
       "options": [
-        "Wildlife Protection Act, 1972",
-        "Environment Protection Act, 1986",
-        "Forest Conservation Act, 1980",
-        "Air Act, 1981"
+        "Ganeshi Lal",
+        "Sushri Mishra",
+        "Murlidhar Chandrakant Joshi",
+        "Praksh Singh Badal"
       ],
-      "correct": 0,
-      "explanation": "The Wildlife Protection Act, 1972, aims to protect endangered species and their habitats."
+      "correct": 1,
+      "explanation": "As of May 2026, Sushri Mishra is the Governor of Odisha."
     },
     {
       "id": 27,
-      "category": "Current Affairs & G.K.",
-      "question": "Who is the current Governor of Odisha as of 2026?",
+      "category": "Current Affairs & GK",
+      "question": "Who was awarded the ‘Padma Vibhushan’ in 2026 for contributions in science and technology?",
       "options": [
-        "Ganeshi Lal",
-        "Droupadi Murmu",
-        "S.C. Jamir",
-        "Bimal Kumar Tripathi"
+        "Dr. A.P.J. Abdul Kalam",
+        "Dr. Raghunath Anant Mashelkar",
+        "Dr. Tessy Thomas",
+        "Dr. K. Sivan"
       ],
-      "correct": 0,
-      "explanation": "Ganeshi Lal is the current Governor of Odisha as of 2026."
+      "correct": 2,
+      "explanation": "In 2026, Dr. Tessy Thomas was awarded the Padma Vibhushan for her contributions in missile technology and science."
     },
     {
       "id": 28,
-      "category": "Current Affairs & G.K.",
-      "question": "Which country recently hosted the 2023 G20 Summit?",
+      "category": "Current Affairs & GK",
+      "question": "India recently signed a trade agreement with which country to enhance bilateral trade?",
       "options": [
-        "India",
+        "Australia",
         "Japan",
-        "Germany",
-        "Brazil"
+        "United Kingdom",
+        "United States"
       ],
       "correct": 0,
-      "explanation": "India hosted the G20 Summit in 2023."
+      "explanation": "India recently signed a comprehensive trade agreement with Australia to boost bilateral trade relations."
     },
     {
       "id": 29,
-      "category": "Current Affairs & G.K.",
-      "question": "Which scheme was launched in 2021 to promote electric vehicles in India?",
+      "category": "Current Affairs & GK",
+      "question": "Which sports event was hosted in India in 2026?",
       "options": [
-        "Faster Adoption and Manufacturing of Hybrid and Electric Vehicles (FAME) II",
-        "Make in India",
-        "Startup India",
-        "Digital India"
+        "Commonwealth Games",
+        "Asian Games",
+        "FIFA World Cup",
+        "World Chess Championship"
       ],
-      "correct": 0,
-      "explanation": "FAME II scheme aims to promote electric vehicles and reduce pollution."
+      "correct": 1,
+      "explanation": "India hosted the Asian Games in 2026, showcasing its capacity to organize major sporting events."
     },
     {
       "id": 30,
-      "category": "Current Affairs & G.K.",
-      "question": "Which Indian sportsperson won the gold medal in badminton at the Tokyo 2020 Olympics?",
+      "category": "Current Affairs & GK",
+      "question": "Which scheme launched by the Government of India aims to promote digital literacy?",
       "options": [
-        "PV Sindhu",
-        "Sania Mirza",
-        "Mary Kom",
-        "Neeraj Chopra"
+        "Digital India",
+        "Make in India",
+        "Startup India",
+        "Skill India"
       ],
       "correct": 0,
-      "explanation": "PV Sindhu won the silver medal in badminton at Tokyo 2020 Olympics."
+      "explanation": "Digital India is a campaign launched to promote digital literacy and e-governance."
     }
   ]
 }
