@@ -1,138 +1,138 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian university was known as the 'University of Nalanda' in the 5th century CE?",
+      "question": "Which ancient Indian text is considered the earliest known document of Indian civilization?",
       "options": [
-        "Takshashila",
-        "Nalanda",
-        "Taxila",
-        "Vikramashila"
+        "Rigveda",
+        "Arthashastra",
+        "Mahabharata",
+        "Upanishads"
       ],
-      "correct": 1,
-      "explanation": "Nalanda was one of the world's first residential universities located in present-day Bihar, flourishing around the 5th century CE."
+      "correct": 0,
+      "explanation": "The Rigveda is the oldest of the Vedas and is considered one of the earliest records of Indian civilization."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
+      "question": "Who was the leader of the Indian National Army (INA) during World War II?",
       "options": [
+        "Subhas Chandra Bose",
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bal Gangadhar Tilak"
+        "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement as part of the Indian independence struggle."
+      "explanation": "Subhas Chandra Bose was the prominent leader of the INA, which aimed to overthrow British rule with Japanese assistance."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Which treaty marked the beginning of the British dominance in India in 1757?",
+      "question": "During the Mughal era, which emperor is known for establishing the Din-i-Ilahi?",
       "options": [
-        "Treaty of Allahabad",
-        "Treaty of Srirangapatnam",
-        "Treaty of Pondicherry",
-        "Battle of Plassey"
+        "Akbar",
+        "Babur",
+        "Jahangir",
+        "Shah Jahan"
       ],
-      "correct": 3,
-      "explanation": "The Battle of Plassey in 1757 was a decisive victory for the British East India Company, leading to its dominance."
+      "correct": 0,
+      "explanation": "Akbar founded the Din-i-Ilahi, a syncretic religious philosophy blending elements from various faiths."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Who was the first Vice President of India who later became the President?",
+      "question": "Which act marked the beginning of the Civil Disobedience Movement in India?",
       "options": [
-        "Dr. S. Radhakrishnan",
-        "Jawaharlal Nehru",
-        "B. R. Ambedkar",
-        "Rajendra Prasad"
+        "Non-Cooperation Movement",
+        "Salt Satyagraha",
+        "Quit India Movement",
+        "Simla Conference"
       ],
-      "correct": 0,
-      "explanation": "Dr. S. Radhakrishnan was the first Vice President and later became the second President of India."
+      "correct": 1,
+      "explanation": "The Salt Satyagraha in 1930 initiated the Civil Disobedience Movement against British salt taxes."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Which movement is associated with the demand for 'Poorna Swaraj' or complete independence in 1929?",
+      "question": "Who led the Quit India Movement launched in 1942?",
       "options": [
-        "Champaran Satyagraha",
-        "Simon Commission protests",
-        "Harijan Movement",
-        "Mumbai Relief Movement"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
       ],
-      "correct": 1,
-      "explanation": "The Indian National Congress declared 'Poorna Swaraj' as its goal in 1929, demanding complete independence."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi was the leader of the Quit India Movement calling for an end to British rule."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is the longest in India?",
+      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
       "options": [
         "Ganges",
-        "Godavari",
-        "Brahmaputra",
-        "Indus"
+        "Koshi",
+        "Son",
+        "Brahmaputra"
       ],
       "correct": 1,
-      "explanation": "The Godavari River, approximately 1,465 km long, is the longest river in India."
+      "explanation": "The Koshi River often causes devastating floods in Bihar, earning it the nickname 'Sorrow of Bihar.'"
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "The Thar Desert is primarily situated in which Indian states?",
+      "question": "Which of the following resources is most abundant in the Indian Thar Desert?",
       "options": [
-        "Rajasthan and Gujarat",
-        "Punjab and Haryana",
-        "Rajasthan and Punjab",
-        "Gujarat and Maharashtra"
+        "Coal",
+        "Limestone",
+        "Uranium",
+        "Salt"
       ],
-      "correct": 0,
-      "explanation": "The Thar Desert spans Rajasthan and parts of Gujarat."
+      "correct": 3,
+      "explanation": "The Thar Desert has significant salt deposits, and salt extraction is a major activity."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which type of climate is predominant in the Western Himalayas?",
+      "question": "Which climate type is predominant in the Western Ghats?",
       "options": [
-        "Tropical",
-        "Arid",
+        "Tropical Rainforest",
+        "Desert",
         "Alpine",
-        "Equatorial"
+        "Tundra"
       ],
-      "correct": 2,
-      "explanation": "The Western Himalayas have an alpine climate characterized by cold temperatures and snow."
+      "correct": 0,
+      "explanation": "Western Ghats experience a tropical rainforest climate due to high rainfall and humidity."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "The Sundarbans mangrove forest is located in which delta?",
+      "question": "The Brahmaputra River flows into which body of water?",
       "options": [
-        "Godavari Delta",
-        "Mahanadi Delta",
-        "Ganges-Brahmaputra Delta",
-        "Krishna Delta"
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Indian Ocean",
+        "Laccadive Sea"
       ],
-      "correct": 2,
-      "explanation": "The Sundarbans are part of the Ganges-Brahmaputra Delta, extending over India and Bangladesh."
+      "correct": 1,
+      "explanation": "The Brahmaputra River joins the Ganges and flows into the Bay of Bengal."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
       "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
       "options": [
-        "Article 12",
-        "Articles 14-18",
-        "Articles 19-22",
-        "Articles 32-35"
+        "Article 14",
+        "Articles 12-35",
+        "Article 21",
+        "Article 370"
       ],
       "correct": 1,
-      "explanation": "Articles 14 to 18 of the Indian Constitution specify the Fundamental Rights."
+      "explanation": "Articles 12 to 35 of the Indian Constitution cover the Fundamental Rights."
     },
     {
       "id": 11,
@@ -142,114 +142,114 @@
         "President of India",
         "Prime Minister",
         "Lok Sabha Speaker",
-        "Law Minister"
+        "Chief Justice of India himself"
       ],
       "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India."
+      "explanation": "The President of India appoints the Chief Justice based on the recommendation of the outgoing CJI."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The 'Judicial Review' power of the Supreme Court is derived from which article?",
+      "question": "What is the main function of the Lok Sabha in Indian Parliament?",
       "options": [
-        "Article 13",
-        "Article 32",
-        "Article 124",
-        "Article 141"
+        "Pass legislation",
+        "Interpret laws",
+        "Manage state governments",
+        "Adjudicate disputes"
       ],
       "correct": 0,
-      "explanation": "Article 13 provides the Supreme Court with the power of judicial review."
+      "explanation": "The Lok Sabha primarily passes legislation and controls finances."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which body is responsible for amending the Indian Constitution?",
+      "question": "The Panchayati Raj system in India is a part of which constitutional scheme?",
       "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "Parliament",
-        "Supreme Court"
+        "Federal Structure",
+        "Decentralization",
+        "Emergency Provisions",
+        "Directive Principles"
       ],
-      "correct": 2,
-      "explanation": "The Indian Parliament, through a special procedure, amends the Constitution."
+      "correct": 1,
+      "explanation": "Panchayati Raj promotes decentralization and local self-governance in rural areas."
     },
     {
       "id": 14,
       "category": "Indian Polity & Governance",
-      "question": "Panchayati Raj institutions derive their powers from which part of the Constitution?",
+      "question": "Which Fundamental Right guarantees the right to equality before the law?",
       "options": [
-        "Part 6",
-        "Part 9",
-        "Part 10",
-        "Part 11"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Right to Property"
       ],
-      "correct": 1,
-      "explanation": "Part 9 of the Indian Constitution deals with Panchayati Raj institutions."
+      "correct": 0,
+      "explanation": "Article 14 guarantees equality before the law and equal protection of laws."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "The concept of 'Fiscal Deficit' refers to the difference between:",
+      "question": "India’s Union Budget is presented in which house of Parliament?",
       "options": [
-        "Total expenditure and revenue receipts",
-        "Total revenue and revenue expenditure",
-        "Total expenditure and revenue expenditure",
-        "Total revenue and capital receipts"
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Lok Sabha and Rajya Sabha",
+        "President"
       ],
       "correct": 0,
-      "explanation": "Fiscal deficit is the difference between total expenditure and total revenue (excluding borrowings)."
+      "explanation": "The Budget is presented first in the Lok Sabha, which exercises financial control."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "India’s first Five Year Plan was launched in which year?",
+      "question": "Which sector contributed the maximum to India’s GDP as of 2023?",
       "options": [
-        "1951",
-        "1947",
-        "1950",
-        "1955"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Manufacturing"
       ],
-      "correct": 0,
-      "explanation": "India launched its first Five Year Plan in 1951 to plan economic development."
+      "correct": 2,
+      "explanation": "The service sector contributes the largest share to India's GDP, over 50%."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "Which institution is responsible for regulating the banking sector in India?",
+      "question": "What does the term 'Fiscal Deficit' refer to?",
       "options": [
-        "SEBI",
-        "RBI",
-        "IRDAI",
-        "Finance Ministry"
+        "Total revenue less total expenditure",
+        "Borrowings of the government",
+        "Total debt of the country",
+        "Income from exports"
       ],
-      "correct": 1,
-      "explanation": "The Reserve Bank of India (RBI) regulates banking activities in India."
+      "correct": 0,
+      "explanation": "Fiscal deficit is the difference between the government’s total revenue and total expenditure."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "What is the primary aim of the Goods and Services Tax (GST) introduced in India?",
+      "question": "Which five-year plan marked the start of the Green Revolution in India?",
       "options": [
-        "Reduce inflation",
-        "Simplify taxation and unify indirect taxes",
-        "Increase government revenue",
-        "Promote exports"
+        "First Five Year Plan",
+        "Third Five Year Plan",
+        "Fourth Five Year Plan",
+        "Fifth Five Year Plan"
       ],
       "correct": 1,
-      "explanation": "GST aims to unify and simplify indirect taxation across the country."
+      "explanation": "The Third Five Year Plan focused on agriculture and marked the beginning of the Green Revolution."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which of the following is the SI unit of electric current?",
+      "question": "Which particle is responsible for carrying the current in a metal conductor?",
       "options": [
-        "Volt",
-        "Ohm",
-        "Ampere",
-        "Watt"
+        "Electrons",
+        "Protons",
+        "Neutrons",
+        "Photons"
       ],
-      "correct": 2,
-      "explanation": "Ampere is the SI unit of electric current."
+      "correct": 0,
+      "explanation": "Electrons are responsible for electric conduction in metals."
     },
     {
       "id": 20,
@@ -262,137 +262,137 @@
         "Iron"
       ],
       "correct": 0,
-      "explanation": "Oxygen is the most abundant element in Earth's crust, mainly found in compounds like silica."
+      "explanation": "Oxygen is the most abundant element in the Earth's crust, mainly in compound form."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "The process of photosynthesis in plants involves the conversion of:",
+      "question": "Which biological process is responsible for the production of energy in cells?",
       "options": [
-        "Carbon dioxide and water into glucose and oxygen",
-        "Oxygen into carbon dioxide",
-        "Glucose into starch",
-        "Nitrogen into nitrates"
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Germination"
       ],
-      "correct": 0,
-      "explanation": "Photosynthesis converts carbon dioxide and water into glucose and oxygen using sunlight."
+      "correct": 1,
+      "explanation": "Respiration breaks down glucose to produce energy in cells."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which satellite was launched by India in 2013 for earth observation?",
+      "question": "Which technology is used in satellites for communication purposes?",
       "options": [
-        "Cartosat-2",
-        "RISAT-1",
-        "RISAT-2",
-        "GSAT-6"
+        "Infrared communication",
+        "Radio frequency communication",
+        "Optical fiber",
+        "Bluetooth"
       ],
       "correct": 1,
-      "explanation": "RISAT-1, an advanced radar imaging satellite, was launched in 2013 for earth observation."
+      "explanation": "Satellites primarily use radio frequency communication for data transmission."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which is the largest biodiversity hotspot in India?",
+      "question": "Which of the following is a UNESCO World Heritage Site in India known for its biodiversity?",
       "options": [
-        "Western Ghats",
-        "Himalayas",
-        "Sundarbans",
-        "Western Himalayas"
+        "Sundarbans National Park",
+        "Kaziranga National Park",
+        "Gir Forest National Park",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The Western Ghats is a UNESCO World Heritage Site and one of the eight hottest biodiversity hotspots."
+      "correct": 3,
+      "explanation": "All listed sites are UNESCO World Heritage Sites known for biodiversity."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The Montreal Protocol aims to control the depletion of:",
+      "question": "Which international agreement aims to combat climate change by reducing greenhouse gas emissions?",
       "options": [
-        "Carbon dioxide",
-        "Ozone layer",
-        "Nitrogen oxides",
-        "Chlorofluorocarbons (CFCs)"
+        "Paris Agreement",
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Rio Convention"
       ],
-      "correct": 3,
-      "explanation": "Montreal Protocol controls substances like CFCs that deplete the ozone layer."
+      "correct": 0,
+      "explanation": "The Paris Agreement is the latest global accord to curb climate change emissions."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a major cause of acid rain?",
+      "question": "What is the primary cause of acid rain?",
       "options": [
         "Carbon monoxide emissions",
-        "Sulfur dioxide and nitrogen oxides",
-        "Methane emissions",
-        "Ozone layer depletion"
+        "Sulfur dioxide and nitrogen oxides emissions",
+        "Ozone depletion",
+        "Particulate matter"
       ],
       "correct": 1,
-      "explanation": "Sulfur dioxide and nitrogen oxides released into the atmosphere cause acid rain."
+      "explanation": "Sulfur dioxide and nitrogen oxides in emissions react with water vapor to form acid rain."
     },
     {
       "id": 26,
       "category": "Environment & Ecology",
-      "question": "Which national park is known for the conservation of the Bengal tiger in India?",
+      "question": "Which Indian law is primarily responsible for protecting endangered species and their habitats?",
       "options": [
-        "Jim Corbett National Park",
-        "Kaziranga National Park",
-        "Sundarbans National Park",
-        "Ranthambore National Park"
+        "Wildlife Protection Act, 1972",
+        "Environment Protection Act, 1986",
+        "Forest Conservation Act, 1980",
+        "Air Act, 1981"
       ],
-      "correct": 2,
-      "explanation": "Sundarbans is famous for its Bengal tiger population and mangrove ecosystem."
+      "correct": 0,
+      "explanation": "The Wildlife Protection Act, 1972, aims to protect endangered species and their habitats."
     },
     {
       "id": 27,
-      "category": "Current Affairs & GK",
-      "question": "Which scheme was launched by the Government of India in 2022 to promote electric vehicles?",
+      "category": "Current Affairs & G.K.",
+      "question": "Who is the current Governor of Odisha as of 2026?",
       "options": [
-        "FAME II",
-        "Startup India",
-        "Make in India",
-        "Digital India"
+        "Ganeshi Lal",
+        "Droupadi Murmu",
+        "S.C. Jamir",
+        "Bimal Kumar Tripathi"
       ],
       "correct": 0,
-      "explanation": "FAME II (Faster Adoption and Manufacturing of Hybrid and Electric Vehicles) was launched to promote electric mobility."
+      "explanation": "Ganeshi Lal is the current Governor of Odisha as of 2026."
     },
     {
       "id": 28,
-      "category": "Current Affairs & GK",
-      "question": "Who was awarded the Nobel Peace Prize in 2022?",
+      "category": "Current Affairs & G.K.",
+      "question": "Which country recently hosted the 2023 G20 Summit?",
       "options": [
-        "Maria Ressa and Dmitry Muratov",
-        "Abiy Ahmed",
-        "Malala Yousafzai",
-        "Greta Thunberg"
+        "India",
+        "Japan",
+        "Germany",
+        "Brazil"
       ],
       "correct": 0,
-      "explanation": "Maria Ressa and Dmitry Muratov received the Nobel Peace Prize in 2022 for their efforts to safeguard freedom of expression."
+      "explanation": "India hosted the G20 Summit in 2023."
     },
     {
       "id": 29,
-      "category": "Current Affairs & GK",
-      "question": "The 'Khelo India' scheme is associated with which field?",
+      "category": "Current Affairs & G.K.",
+      "question": "Which scheme was launched in 2021 to promote electric vehicles in India?",
       "options": [
-        "Education",
-        "Sports",
-        "Health",
-        "Rural Development"
+        "Faster Adoption and Manufacturing of Hybrid and Electric Vehicles (FAME) II",
+        "Make in India",
+        "Startup India",
+        "Digital India"
       ],
-      "correct": 1,
-      "explanation": "'Khelo India' aims to promote sports at the grassroots level in India."
+      "correct": 0,
+      "explanation": "FAME II scheme aims to promote electric vehicles and reduce pollution."
     },
     {
       "id": 30,
-      "category": "Current Affairs & GK",
-      "question": "Which international organization recently launched the 'Global Biodiversity Outlook 2024' report?",
+      "category": "Current Affairs & G.K.",
+      "question": "Which Indian sportsperson won the gold medal in badminton at the Tokyo 2020 Olympics?",
       "options": [
-        "UNEP",
-        "WWF",
-        "CBD (Convention on Biological Diversity)",
-        "UNEP and CBD collaborate"
+        "PV Sindhu",
+        "Sania Mirza",
+        "Mary Kom",
+        "Neeraj Chopra"
       ],
-      "correct": 2,
-      "explanation": "The CBD regularly releases updates like the 'Global Biodiversity Outlook' to monitor biodiversity targets."
+      "correct": 0,
+      "explanation": "PV Sindhu won the silver medal in badminton at Tokyo 2020 Olympics."
     }
   ]
 }
