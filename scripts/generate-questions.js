@@ -69,47 +69,72 @@ Questions should be at intermediate difficulty - suitable for RI/Amin level exam
     }
 };
 
-// ===== Fetch Wikipedia content for current affairs facts =====
-async function fetchWikipediaSummary(title) {
+// ===== Fetch Wikipedia infobox to get current officeholders =====
+async function fetchWikipediaInfobox(title) {
     try {
-        const url = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`;
+        const url = `https://en.wikipedia.org/w/api.php?action=query&format=json&titles=${encodeURIComponent(title)}&prop=revisions&rvprop=content&rvslots=main&rvsection=0`;
         const response = await fetch(url);
         if (!response.ok) return null;
         const data = await response.json();
-        return data.extract || null;
+        const pages = data?.query?.pages;
+        if (!pages) return null;
+        const pageId = Object.keys(pages)[0];
+        const content = pages[pageId]?.revisions?.[0]?.slots?.main?.['*'];
+        if (!content) return null;
+
+        // Extract key infobox fields: incumbent, since, holder, name
+        const fields = {};
+        const patterns = {
+            incumbent: /\|\s*incumbent\s*=\s*\[\[([^\]|]+)/i,
+            incumbentsince: /\|\s*incumbentsince\s*=\s*([^\n|]+)/i,
+            holder: /\|\s*current_holder\s*=\s*\[\[([^\]|]+)/i,
+            office: /\|\s*office\s*=\s*([^\n|]+)/i
+        };
+        for (const [key, regex] of Object.entries(patterns)) {
+            const match = content.match(regex);
+            if (match) fields[key] = match[1].trim();
+        }
+        return fields;
     } catch (e) {
         return null;
     }
 }
 
 async function getCurrentAffairsContext() {
-    const topics = [
-        'Governor_of_Odisha',
-        'List_of_chief_ministers_of_Odisha',
-        'Government_of_Odisha',
-        'President_of_India',
-        'Vice_President_of_India',
-        'Prime_Minister_of_India',
-        'Chief_Justice_of_India',
-        'Cabinet_of_India'
-    ];
+    // Map of position -> Wikipedia article title
+    const positions = {
+        'Chief Minister of Odisha': 'Chief_Minister_of_Odisha',
+        'Governor of Odisha': 'Governor_of_Odisha',
+        'President of India': 'President_of_India',
+        'Vice President of India': 'Vice_President_of_India',
+        'Prime Minister of India': 'Prime_Minister_of_India',
+        'Chief Justice of India': 'Chief_Justice_of_India',
+        'Speaker of the Lok Sabha': 'Speaker_of_the_Lok_Sabha',
+        'Finance Minister of India': 'Minister_of_Finance_(India)',
+        'Home Minister of India': 'Ministry_of_Home_Affairs_(India)',
+        'External Affairs Minister of India': 'Minister_of_External_Affairs_(India)',
+        'Defence Minister of India': 'Minister_of_Defence_(India)',
+        'Chief Election Commissioner of India': 'Chief_Election_Commissioner_of_India',
+        'RBI Governor': 'Governor_of_the_Reserve_Bank_of_India'
+    };
 
-    console.log(`  📚 Fetching current facts from Wikipedia...`);
+    console.log(`  📚 Fetching current officeholders from Wikipedia...`);
     const facts = [];
-    for (const topic of topics) {
-        const summary = await fetchWikipediaSummary(topic);
-        if (summary) {
-            // Trim to first 500 chars to keep prompt size manageable
-            facts.push(`[${topic.replace(/_/g, ' ')}]: ${summary.substring(0, 500)}`);
+    for (const [position, title] of Object.entries(positions)) {
+        const info = await fetchWikipediaInfobox(title);
+        if (info && info.incumbent) {
+            const since = info.incumbentsince ? ` (since ${info.incumbentsince})` : '';
+            facts.push(`Current ${position}: ${info.incumbent}${since}`);
+            console.log(`    • ${position}: ${info.incumbent}`);
         }
     }
-    return facts.join('\n\n');
+    return facts.join('\n');
 }
 
 // ===== Build prompt =====
 function buildPrompt(examConfig, dateStr, currentFacts) {
     const factsSection = currentFacts
-        ? `\n\nCURRENT VERIFIED FACTS (Use these for current affairs questions - DO NOT use outdated info):\n${currentFacts}\n`
+        ? `\n\n⚠️ MANDATORY CURRENT OFFICEHOLDERS (as of today - YOU MUST use these exact names, NEVER use older/outdated names from your training data):\n${currentFacts}\n\nIf any question asks about the current Governor, CM, PM, President, etc., use ONLY the names listed above. Do NOT use older names like "Naveen Patnaik" for CM (he is no longer CM). Do NOT use "Shri Ganeshi Lal" for Governor (he is no longer Governor).\n`
         : '';
 
     return `${examConfig.prompt}${factsSection}
