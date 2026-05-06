@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-05",
+  "date": "2026-05-06",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is primarily related to political science and statecraft?",
+      "question": "Which ancient Indian text is considered the earliest known work of Indian philosophy and spirituality?",
       "options": [
-        "Rigveda",
-        "Arthashastra",
+        "Vedas",
+        "Upanishads",
         "Mahabharata",
-        "Upanishads"
+        "Ramayana"
       ],
-      "correct": 1,
-      "explanation": "The Arthashastra, attributed to Chanakya, is a treatise on statecraft, economic policy, and military strategy."
+      "correct": 0,
+      "explanation": "The Vedas are the oldest texts in Indian history, dating back to around 1500 BCE, and are fundamental to Indian philosophy and spirituality."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "The Battle of Plassey (1757) marked the beginning of the dominance of which colonial power in India?",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "French",
-        "Dutch",
-        "British",
-        "Portuguese"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Humayun"
       ],
-      "correct": 2,
-      "explanation": "The Battle of Plassey was fought between the British East India Company and Siraj-ud-Daula, leading to British dominance in India."
+      "correct": 0,
+      "explanation": "Babur founded the Mughal Empire in India in 1526 after his victory at the Battle of Panipat."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
+      "question": "Which movement is associated with the Non-Cooperation Movement in India?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bhagat Singh"
+        "Civil Disobedience Movement",
+        "Swadeshi Movement",
+        "Non-Cooperation Movement",
+        "Quit India Movement"
       ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement, emphasizing non-violent resistance against British rule."
+      "correct": 2,
+      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920 as a mass protest against British rule, emphasizing non-cooperation with colonial authorities."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "The Partition of India occurred in which year?",
+      "question": "The Jallianwala Bagh massacre occurred in which year?",
       "options": [
-        "1947",
-        "1950",
-        "1935",
-        "1962"
+        "1919",
+        "1920",
+        "1918",
+        "1921"
       ],
       "correct": 0,
-      "explanation": "India was partitioned in 1947, leading to the creation of India and Pakistan."
+      "explanation": "The Jallianwala Bagh massacre took place in 1919 when British troops killed hundreds of unarmed civilians protesting colonial policies."
     },
     {
       "id": 5,
       "category": "Indian History",
       "question": "Who was the first President of India?",
       "options": [
-        "Dr. B.R. Ambedkar",
         "Dr. Rajendra Prasad",
+        "Dr. B.R. Ambedkar",
         "Jawaharlal Nehru",
-        "Sardar Patel"
+        "Sardar Vallabhbhai Patel"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "question": "Which is the longest river in India?",
       "options": [
-        "Ganga",
-        "Koshi",
-        "Bhagirathi",
-        "Son"
+        "Ganges",
+        "Godavari",
+        "Indus",
+        "Brahmaputra"
       ],
       "correct": 1,
-      "explanation": "The Koshi river is called the 'Sorrow of Bihar' due to frequent devastating floods."
+      "explanation": "The Godavari is the longest river in India, flowing about 1,465 km across central India."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which resource is most abundantly found in the Thar Desert?",
+      "question": "The Thar Desert is located primarily in which Indian state?",
       "options": [
-        "Coal",
-        "Limestone",
-        "Salt",
-        "Uranium"
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "correct": 2,
-      "explanation": "Salt deposits are abundant in the Thar Desert, making salt extraction economically significant."
+      "correct": 0,
+      "explanation": "The Thar Desert is primarily located in Rajasthan, covering a significant part of the state."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "The Indo-Ganga-Brahmaputra basin primarily belongs to which physical geographic zone?",
+      "question": "Which resource is India most dependent on importation?",
       "options": [
-        "Deccan Plateau",
-        "Himalayan Mountain Region",
-        "Northern Plains",
-        "Western Ghats"
+        "Coal",
+        "Crude oil",
+        "Iron ore",
+        "Gold"
       ],
-      "correct": 2,
-      "explanation": "The Indo-Ganga-Brahmaputra basin covers the fertile Northern Plains, formed by the river systems."
+      "correct": 1,
+      "explanation": "India heavily relies on imported crude oil to meet its energy needs."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which climatic factor primarily influences the monsoon pattern in India?",
+      "question": "Which Himalayan river is known for creating the Ganga-Brahmaputra delta?",
       "options": [
-        "Western Disturbances",
-        "El Niño",
-        "Jet Streams",
-        "Trade Winds"
+        "Indus",
+        "Ganges",
+        "Brahmaputra",
+        "Yamuna"
       ],
-      "correct": 3,
-      "explanation": "Trade Winds and the ITCZ significantly influence monsoon patterns in India."
+      "correct": 2,
+      "explanation": "The Brahmaputra River, along with the Ganges, forms the world's largest delta in the Bengal basin."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the union budget?",
+      "question": "Who is the current Chief Justice of India as of 2026?",
       "options": [
-        "Article 112",
-        "Article 75",
-        "Article 370",
-        "Article 356"
+        "Dhananjaya Y. Chandrachud",
+        "Surya Kant",
+        "N.Venkata Ramana",
+        "Ranjan Gogoi"
       ],
-      "correct": 0,
-      "explanation": "Article 112 of the Constitution deals with the Annual Financial Statement, i.e., the Union Budget."
+      "correct": 1,
+      "explanation": "As of 2026, Surya Kant is serving as the Chief Justice of India."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Who elects the Vice President of India?",
+      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
       "options": [
-        "Members of Lok Sabha",
-        "Members of Rajya Sabha only",
-        "Members of Parliament collectively",
-        "Electoral College of the Union"
+        "Article 12 to 35",
+        "Article 370",
+        "Article 21",
+        "Article 76"
       ],
-      "correct": 2,
-      "explanation": "The Vice President is elected by an Electoral College consisting of members of both houses of Parliament."
+      "correct": 0,
+      "explanation": "Articles 12 to 35 of the Indian Constitution deal with Fundamental Rights."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The concept of 'Judicial Review' in India is derived from which country's legal system?",
+      "question": "Who appoints the Chief Election Commissioner of India?",
       "options": [
-        "United Kingdom",
-        "United States",
-        "Canada",
-        "Australia"
+        "Prime Minister",
+        "President",
+        "Lok Sabha",
+        "Supreme Court"
       ],
       "correct": 1,
-      "explanation": "Judicial Review in India is based on the American model, allowing courts to review and strike down laws inconsistent with the Constitution."
+      "explanation": "The President of India appoints the Chief Election Commissioner."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is NOT a Fundamental Right in India?",
+      "question": "Which Panchayati Raj institution is directly elected by villagers?",
       "options": [
-        "Right to Equality",
-        "Right to Property",
-        "Right to Freedom",
-        "Right against Exploitation"
+        "Gram Sabha",
+        "Zilla Parishad",
+        "Panchayat Samiti",
+        "State Legislature"
       ],
-      "correct": 1,
-      "explanation": "Right to Property was a Fundamental Right but was later made a Constitutional Right and later removed from Fundamental Rights via 44th Amendment."
+      "correct": 0,
+      "explanation": "The Gram Sabha, comprising villagers, is directly elected and functions as the primary unit of local governance."
     },
     {
       "id": 14,
-      "category": "Indian Economy",
-      "question": "The 'Pay Commission' in India is primarily responsible for:",
+      "category": "Indian Polity & Governance",
+      "question": "The power to declare a state of emergency in India is vested in which authority?",
       "options": [
-        "Fixing the price of goods",
-        "Determining salaries of government employees",
-        "Regulating banking interest rates",
-        "Managing foreign trade"
+        "Lok Sabha",
+        "Supreme Court",
+        "President",
+        "Parliament"
       ],
-      "correct": 1,
-      "explanation": "The Pay Commission recommends salary and pension structures for government employees."
+      "correct": 2,
+      "explanation": "The President, on the advice of the Union Cabinet, can declare a national or state emergency."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Which institution in India is responsible for controlling inflation and money supply?",
+      "question": "India's GDP is primarily contributed by which sector?",
       "options": [
-        "SEBI",
-        "RBI",
-        "IMF",
-        "World Bank"
+        "Agriculture",
+        "Manufacturing",
+        "Services",
+        "Mining"
       ],
-      "correct": 1,
-      "explanation": "The Reserve Bank of India (RBI) controls money supply and inflation through monetary policy instruments."
+      "correct": 2,
+      "explanation": "The Services sector contributes the largest share to India's GDP among all sectors."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which sector contributes the highest percentage to India’s GDP as per recent data?",
+      "question": "The 'Make in India' initiative was launched in which year?",
       "options": [
-        "Agriculture",
-        "Industry",
-        "Services",
-        "Manufacturing"
+        "2014",
+        "2015",
+        "2016",
+        "2017"
       ],
-      "correct": 2,
-      "explanation": "The services sector has the largest share in India’s GDP, accounting for over 50%."
+      "correct": 0,
+      "explanation": "'Make in India' was launched by the Government of India in 2014 to promote manufacturing."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "The ‘Five Year Plans’ in India were adopted primarily to:",
+      "question": "Which institution is responsible for framing India’s monetary policy?",
       "options": [
-        "Promote industrialization",
-        "Achieve economic self-sufficiency",
-        "Reduce poverty and unemployment",
-        "Control inflation"
+        "Reserve Bank of India",
+        "Ministry of Finance",
+        "SEBI",
+        "Niti Aayog"
       ],
-      "correct": 2,
-      "explanation": "Five Year Plans aimed at holistic development to reduce poverty and unemployment among other goals."
+      "correct": 0,
+      "explanation": "The Reserve Bank of India (RBI) formulates and implements India’s monetary policy."
     },
     {
       "id": 18,
-      "category": "General Science",
-      "question": "Which phenomenon explains the red colour of the sunset?",
+      "category": "Indian Economy",
+      "question": "What is the primary objective of the Goods and Services Tax (GST)?",
       "options": [
-        "Refraction",
-        "Diffraction",
-        "Scattering",
-        "Reflection"
+        "Increase direct taxes",
+        "Simplify indirect taxation",
+        "Reduce government revenue",
+        "Encourage exports"
       ],
-      "correct": 2,
-      "explanation": "The scattering of shorter blue and green wavelengths leaves the longer red wavelengths, causing the sunset to appear red."
+      "correct": 1,
+      "explanation": "GST aims to unify and simplify indirect taxation across India to create a single national market."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "In Chemistry, which element is most abundant in the Earth’s crust?",
+      "question": "Which law explains the phenomenon of refraction of light?",
       "options": [
-        "Oxygen",
-        "Silicon",
-        "Aluminium",
-        "Iron"
+        "Snell's Law",
+        "Newton's Law",
+        "Ohm's Law",
+        "Faraday's Law"
       ],
       "correct": 0,
-      "explanation": "Oxygen is the most abundant element in the Earth's crust, primarily found as part of oxides."
+      "explanation": "Snell's Law explains how light bends when passing from one medium to another."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which biological process is responsible for the conversion of atmospheric nitrogen into usable forms?",
+      "question": "Which element is used as a moderator in nuclear reactors?",
       "options": [
-        "Photosynthesis",
-        "Nitrogen fixation",
-        "Respiration",
-        "Transpiration"
+        "Uranium",
+        "Graphite",
+        "Cobalt",
+        "Radon"
       ],
       "correct": 1,
-      "explanation": "Nitrogen fixation by bacteria converts atmospheric nitrogen into ammonia, usable by plants."
+      "explanation": "Graphite is commonly used as a moderator in nuclear reactors to slow down neutrons."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "The launch vehicle 'GSLV' is primarily used for which purpose?",
+      "question": "The process of photosynthesis produces which of the following?",
       "options": [
-        "Weather observation",
-        "Space station supply",
-        "Launching satellites into geostationary orbit",
-        "Astronaut transport"
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Methane"
       ],
-      "correct": 2,
-      "explanation": "GSLV is used by ISRO to launch satellites into geostationary transfer orbits."
+      "correct": 0,
+      "explanation": "Photosynthesis converts carbon dioxide and water into oxygen and glucose, releasing oxygen."
     },
     {
       "id": 22,
-      "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity was signed in which year?",
+      "category": "General Science",
+      "question": "Which space agency launched the Mars Orbiter Mission (Mangalyaan)?",
       "options": [
-        "1992",
-        "2000",
-        "1980",
-        "2010"
+        "NASA",
+        "Roscosmos",
+        "ISRO",
+        "ESA"
       ],
-      "correct": 0,
-      "explanation": "The Convention on Biological Diversity was adopted at the Earth Summit in Rio in 1992."
+      "correct": 2,
+      "explanation": "ISRO (Indian Space Research Organisation) launched Mangalyaan in 2013."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which national park is known for the protection of the Bengal tiger?",
+      "question": "Which of the following is a UNESCO World Heritage Site in India?",
       "options": [
         "Kaziranga National Park",
-        "Ranthambore National Park",
-        "Gir National Park",
-        "Sundarbans National Park"
+        "Sundarbans",
+        "Nilgiri Hills",
+        "Gir Forest"
       ],
-      "correct": 3,
-      "explanation": "Sundarbans is renowned for the conservation of the Bengal tiger."
+      "correct": 0,
+      "explanation": "Kaziranga National Park is designated as a UNESCO World Heritage Site for its biodiversity."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The term 'Carbon Footprint' refers to:",
+      "question": "The Kyoto Protocol deals with which environmental issue?",
       "options": [
-        "Total greenhouse gases emitted by an individual",
-        "The amount of carbon stored in forests",
-        "Total carbon content in the atmosphere",
-        "Carbon emissions from factories"
+        "Deforestation",
+        "Climate change",
+        "Water pollution",
+        "Ozone layer depletion"
       ],
-      "correct": 0,
-      "explanation": "A carbon footprint measures the total greenhouse gases emitted directly or indirectly by an individual or organization."
+      "correct": 1,
+      "explanation": "The Kyoto Protocol is an international treaty aimed at reducing greenhouse gas emissions."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which law primarily regulates environmental protection in India?",
+      "question": "Which national park is famous for the Bengal tiger in India?",
       "options": [
-        "The Water Act, 1974",
-        "The Air Act, 1981",
-        "The Environmental Protection Act, 1986",
-        "The Forest Conservation Act, 1980"
+        "Jim Corbett National Park",
+        "Sundarbans",
+        "Kanha National Park",
+        "Bandipur National Park"
       ],
-      "correct": 2,
-      "explanation": "The Environment (Protection) Act, 1986 is the comprehensive legislation for environmental regulation and protection."
+      "correct": 1,
+      "explanation": "The Sundarbans is renowned for the Bengal tiger and is a UNESCO World Heritage Site."
     },
     {
       "id": 26,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current Governor of Odisha as of May 2026?",
+      "category": "Environment & Ecology",
+      "question": "Which law in India regulates environmental protection?",
       "options": [
-        "Ganeshi Lal",
-        "Sushri Mishra",
-        "Murlidhar Chandrakant Joshi",
-        "Praksh Singh Badal"
+        "Air Act",
+        "Water Act",
+        "Environmental Protection Act",
+        "Wildlife Protection Act"
       ],
-      "correct": 1,
-      "explanation": "As of May 2026, Sushri Mishra is the Governor of Odisha."
+      "correct": 2,
+      "explanation": "The Environment (Protection) Act, 1986, provides a comprehensive framework for environmental regulation."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who was awarded the ‘Padma Vibhushan’ in 2026 for contributions in science and technology?",
+      "question": "Who is the current President of India as of 2026?",
       "options": [
-        "Dr. A.P.J. Abdul Kalam",
-        "Dr. Raghunath Anant Mashelkar",
-        "Dr. Tessy Thomas",
-        "Dr. K. Sivan"
+        "Droupadi Murmu",
+        "Pranab Mukherjee",
+        "Ram Nath Kovind",
+        "Shankar Dayal Sharma"
       ],
-      "correct": 2,
-      "explanation": "In 2026, Dr. Tessy Thomas was awarded the Padma Vibhushan for her contributions in missile technology and science."
+      "correct": 0,
+      "explanation": "Droupadi Murmu has been serving as the President of India since 25 July 2022."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "India recently signed a trade agreement with which country to enhance bilateral trade?",
+      "question": "Who is the current Prime Minister of India as of 2026?",
       "options": [
-        "Australia",
-        "Japan",
-        "United Kingdom",
-        "United States"
+        "Narendra Modi",
+        "Manmohan Singh",
+        "Amit Shah",
+        "P. V. Narasimha Rao"
       ],
       "correct": 0,
-      "explanation": "India recently signed a comprehensive trade agreement with Australia to boost bilateral trade relations."
+      "explanation": "Narendra Modi has been serving as Prime Minister since 26 May 2014."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Which sports event was hosted in India in 2026?",
+      "question": "Which international organization was awarded the Nobel Peace Prize in 2025?",
       "options": [
-        "Commonwealth Games",
-        "Asian Games",
-        "FIFA World Cup",
-        "World Chess Championship"
+        "UNHCR",
+        "World Food Programme",
+        "IPCC",
+        "UNICEF"
       ],
-      "correct": 1,
-      "explanation": "India hosted the Asian Games in 2026, showcasing its capacity to organize major sporting events."
+      "correct": 2,
+      "explanation": "The Intergovernmental Panel on Climate Change (IPCC) received the Nobel Peace Prize in 2025 for its work on climate change."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Which scheme launched by the Government of India aims to promote digital literacy?",
+      "question": "Which national scheme aims to improve sanitation and eradicate open defecation?",
       "options": [
+        "Swachh Bharat Abhiyan",
         "Digital India",
         "Make in India",
-        "Startup India",
-        "Skill India"
+        "Start-Up India"
       ],
       "correct": 0,
-      "explanation": "Digital India is a campaign launched to promote digital literacy and e-governance."
+      "explanation": "Swachh Bharat Abhiyan was launched to improve sanitation and eliminate open defecation in India."
     }
   ]
 }
