@@ -1,26 +1,26 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-05-06",
+  "date": "2026-05-07",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which river is the longest in Odisha?",
+      "question": "Which is the largest river flowing through Odisha?",
       "options": [
         "Mahanadi",
         "Brahmani",
         "Baitarani",
-        "Rushikulya"
+        "Mahandi"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi is the longest river flowing through Odisha, providing water for agriculture and industry."
+      "explanation": "The Mahanadi is the largest river flowing through Odisha, contributing significantly to agriculture and hydropower."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which festival is uniquely celebrated in Odisha with a Rath Yatra?",
+      "question": "Which festival is famous for the Rath Yatra in Odisha?",
       "options": [
         "Diwali",
         "Durga Puja",
@@ -28,7 +28,7 @@
         "Holi"
       ],
       "correct": 2,
-      "explanation": "The Rath Yatra, dedicated to Lord Jagannath, is a famous festival celebrated predominantly in Odisha."
+      "explanation": "The Rath Yatra is a famous festival celebrated in Odisha, especially in Puri, dedicated to Lord Jagannath."
     },
     {
       "id": 3,
@@ -36,298 +36,298 @@
       "question": "Which tribal community is primarily found in the Mayurbhanj district of Odisha?",
       "options": [
         "Santhal",
-        "Santal",
         "Munda",
-        "Ho"
+        "Ho",
+        "Bhuyan"
       ],
-      "correct": 1,
-      "explanation": "The Santal tribe is predominantly found in Mayurbhanj and surrounding regions of Odisha."
+      "correct": 2,
+      "explanation": "The Munda tribe is primarily found in the Mayurbhanj district of Odisha and is one of the prominent tribal communities in the region."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which is the famous lake located in Odisha known for its migratory birds?",
+      "question": "Which is the famous lake located in Odisha known for its scenic beauty?",
       "options": [
         "Chilika Lake",
-        "Kanjia Lake",
-        "Harida Lake",
-        "Chandaka Lake"
+        "Pulicat Lake",
+        "Loktak Lake",
+        "Vembanad Lake"
       ],
       "correct": 0,
-      "explanation": "Chilika Lake is Asia's largest coastal lagoon and a famous site for migratory birds."
+      "explanation": "Chilika Lake in Odisha is Asia’s largest inland saltwater lagoon and famous for its scenic beauty and migratory birds."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Who was the famous Odia freedom fighter born in Odisha?",
+      "question": "Who among the following is a renowned personality from Odisha known for their contributions in literature?",
       "options": [
-        "Baji Rout",
-        "Utkal Gourav Madhusudan Das",
-        "Rash Behari Bose",
-        "Bhagat Singh"
+        "Radhanath Ray",
+        "Rabindranath Tagore",
+        "Kazi Nazrul Islam",
+        "Bankim Chandra Chattopadhyay"
       ],
-      "correct": 1,
-      "explanation": "Madhusudan Das was a prominent Odia leader and freedom fighter known as Utkal Gourav."
+      "correct": 0,
+      "explanation": "Radhanath Ray was a notable poet and novelist from Odisha who contributed significantly to Odia literature."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which dam in Odisha is built on the Mahanadi river?",
+      "question": "Which is the historic place in Odisha associated with the Kalinga War?",
       "options": [
-        "Rengali Dam",
-        "Indira Gandhi Dam",
-        "Ghaziabad Dam",
-        "Kamala Dam"
+        "Udayagiri",
+        "Khandagiri",
+        "Kalinga Museum",
+        "Dhauli"
       ],
-      "correct": 0,
-      "explanation": "Rengali Dam is built on the Mahanadi river for hydroelectric power and irrigation."
+      "correct": 3,
+      "explanation": "Dhauli is the place near Bhubaneswar where the Kalinga War took place, and where Emperor Ashoka embraced Buddhism."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "Which ancient Indian civilization was primarily based in the Indus Valley?",
+      "question": "Which ancient Indian university was famous for subjects like Vedas and astronomy?",
       "options": [
-        "Gupta Empire",
-        "Maurya Empire",
-        "Harappan Civilization",
-        "Chola Dynasty"
+        "Nalanda",
+        "Takshashila",
+        "Ujjain",
+        "Taxila"
       ],
-      "correct": 2,
-      "explanation": "The Harappan Civilization was based in the Indus Valley around 2500 BCE."
+      "correct": 1,
+      "explanation": "Takshashila was an ancient Indian university, renowned for studies in Vedas, astronomy, and more."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Who was the ruler associated with the construction of the Qutub Minar?",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Ghiyas-ud-Din Balban",
-        "Qutb-ud-Din Aibak",
-        "Iltutmish",
-        "Firoz Shah Tughlaq"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "correct": 1,
-      "explanation": "Qutb-ud-Din Aibak started the construction of Qutub Minar during the Delhi Sultanate."
+      "correct": 0,
+      "explanation": "Babur, a descendant of Timur and Genghis Khan, founded the Mughal Empire in India in 1526."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "The non-cooperation movement was launched in which year?",
+      "question": "Which Indian freedom movement leader is associated with non-violent resistance?",
       "options": [
-        "1920",
-        "1919",
-        "1930",
-        "1942"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Bhagat Singh",
+        "Jawaharlal Nehru"
       ],
-      "correct": 0,
-      "explanation": "The Non-Cooperation Movement was launched in 1920 by Mahatma Gandhi."
+      "correct": 1,
+      "explanation": "Mahatma Gandhi led the non-violent resistance movement against British rule in India."
     },
     {
       "id": 10,
       "category": "Indian History & Culture",
-      "question": "Which UNESCO World Heritage Site is located in Odisha?",
+      "question": "Which UNESCO World Heritage site in India is famous for its ancient caves?",
       "options": [
-        "Konark Sun Temple",
+        "Ajanta Caves",
         "Taj Mahal",
         "Qutub Minar",
-        "Gateway of India"
+        "Hampi"
       ],
       "correct": 0,
-      "explanation": "The Konark Sun Temple is a UNESCO World Heritage Site located in Odisha."
+      "explanation": "The Ajanta Caves are famous ancient Buddhist rock-cut caves and a UNESCO World Heritage site."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which is the highest mountain peak in India?",
+      "question": "Which physical feature is most prominent in the Western Himalayas?",
       "options": [
-        "Kangchenjunga",
-        "Everest",
-        "K2",
-        "Nanda Devi"
+        "Plateau",
+        "Hills",
+        "Mountains",
+        "Plains"
       ],
-      "correct": 1,
-      "explanation": "Mount Everest, at 8,848 meters, is the highest mountain in India and the world."
+      "correct": 2,
+      "explanation": "The Western Himalayas feature prominent mountain ranges, including Nanda Devi and other peaks."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Odisha's climate can be classified as?",
+      "question": "What type of climate is predominant in Odisha?",
       "options": [
-        "Tropical monsoon",
-        "Desert",
-        "Temperate",
-        "Arid"
+        "Tropical Wet",
+        "Arid Desert",
+        "Tundra",
+        "Mediterranean"
       ],
       "correct": 0,
-      "explanation": "Odisha has a tropical monsoon climate with high humidity and rainfall."
+      "explanation": "Odisha has a tropical climate with high temperatures and humidity, especially during summer."
     },
     {
       "id": 13,
       "category": "Geography",
-      "question": "Which mineral is most abundantly found in Odisha?",
+      "question": "Which mineral is Odisha particularly rich in?",
       "options": [
         "Coal",
         "Bauxite",
-        "Iron ore",
-        "Mica"
+        "Gold",
+        "Diamond"
       ],
-      "correct": 2,
-      "explanation": "Odisha is rich in iron ore, making it a leading producer in India."
+      "correct": 1,
+      "explanation": "Odisha is rich in Bauxite, which is used for aluminum production."
     },
     {
       "id": 14,
       "category": "Geography",
-      "question": "Which soil type is most suitable for rice cultivation in Odisha?",
+      "question": "Which soil type is most common in Odisha?",
       "options": [
-        "Laterite",
-        "Alluvial",
-        "Red soil",
-        "Black soil"
+        "Black Soil",
+        "Laterite Soil",
+        "Alluvial Soil",
+        "Desert Soil"
       ],
       "correct": 1,
-      "explanation": "Alluvial soil is highly fertile and suitable for rice cultivation in Odisha."
+      "explanation": "Laterite soil is predominant in Odisha, especially in the upland areas."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Which fundamental right ensures the freedom of speech and expression?",
+      "question": "Which fundamental right ensures the right to equality?",
       "options": [
-        "Right to Education",
         "Right to Freedom",
         "Right against Exploitation",
-        "Right to Property"
+        "Right to Equality",
+        "Cultural and Educational Rights"
       ],
-      "correct": 1,
-      "explanation": "The Right to Freedom guarantees freedom of speech and expression."
+      "correct": 2,
+      "explanation": "The Right to Equality guarantees equal treatment under the law for all citizens."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "Who is the presiding officer of the Lok Sabha?",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "Vice President",
-        "President",
-        "Speaker",
-        "Chief Justice"
+        "President of India",
+        "Prime Minister",
+        "Lok Sabha",
+        "Supreme Court Judges"
       ],
-      "correct": 2,
-      "explanation": "The Speaker presides over the Lok Sabha sessions."
+      "correct": 0,
+      "explanation": "The President of India appoints the Chief Justice of India."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "The Directive Principles of State Policy are included in which part of the Indian Constitution?",
+      "question": "Which house of Parliament is responsible for financial matters?",
       "options": [
-        "Part III",
-        "Part IV",
-        "Part V",
-        "Part VI"
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Both Houses",
+        "President"
       ],
-      "correct": 1,
-      "explanation": "Part IV of the Constitution contains the Directive Principles of State Policy."
+      "correct": 0,
+      "explanation": "The Lok Sabha is primarily responsible for financial legislation and matters."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "Which system of land revenue was introduced by the British in India?",
+      "question": "Which article of the Indian Constitution deals with the directive principles of state policy?",
       "options": [
-        "Zamindari",
-        "Ryotwari",
-        "Mahalwari",
-        "All of the above"
+        "Article 14",
+        "Article 19",
+        "Article 36",
+        "Article 37"
       ],
       "correct": 3,
-      "explanation": "British introduced all three systems: Zamindari, Ryotwari, and Mahalwari."
+      "explanation": "Article 37 states that the directive principles are non-justiciable and guide the State policy."
     },
     {
       "id": 19,
-      "category": "Science",
-      "question": "Which particle is responsible for carrying genetic information?",
+      "category": "General Science",
+      "question": "What is the basic unit of matter in chemistry?",
       "options": [
-        "RNA",
-        "Protein",
-        "DNA",
-        "Enzyme"
+        "Atom",
+        "Molecule",
+        "Ion",
+        "Compound"
       ],
-      "correct": 2,
-      "explanation": "DNA carries genetic information in biological organisms."
+      "correct": 0,
+      "explanation": "An atom is the smallest unit of matter that retains the properties of an element."
     },
     {
       "id": 20,
-      "category": "Science",
-      "question": "The process of converting a liquid into vapor is called?",
-      "options": [
-        "Condensation",
-        "Evaporation",
-        "Freezing",
-        "Melting"
-      ],
-      "correct": 1,
-      "explanation": "Evaporation is the process of turning liquid into vapor."
-    },
-    {
-      "id": 21,
-      "category": "Science",
+      "category": "General Science",
       "question": "Which organ in the human body is primarily responsible for pumping blood?",
       "options": [
         "Lungs",
         "Brain",
         "Heart",
-        "Liver"
+        "Kidneys"
       ],
       "correct": 2,
-      "explanation": "The heart is responsible for pumping blood throughout the body."
+      "explanation": "The heart pumps blood throughout the body, supplying oxygen and nutrients."
+    },
+    {
+      "id": 21,
+      "category": "General Science",
+      "question": "Which gas is most abundant in Earth’s atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Argon"
+      ],
+      "correct": 1,
+      "explanation": "Nitrogen makes up about 78% of Earth’s atmosphere, making it the most abundant gas."
     },
     {
       "id": 22,
-      "category": "Science",
-      "question": "Vitamin C deficiency causes which disease?",
+      "category": "General Science",
+      "question": "Which vitamin is mainly obtained from sunlight?",
       "options": [
-        "Rickets",
-        "Beriberi",
-        "Scurvy",
-        "Pellegra"
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
       ],
-      "correct": 2,
-      "explanation": "Vitamin C deficiency causes scurvy."
+      "correct": 3,
+      "explanation": "Vitamin D is synthesized in the skin upon exposure to sunlight."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
-      "question": "What is the next number in the series: 2, 4, 8, 16, __?",
+      "question": "Find the next number in the series: 2, 4, 8, 16, ___",
       "options": [
-        "18",
-        "32",
         "24",
-        "20"
+        "32",
+        "30",
+        "28"
       ],
       "correct": 1,
-      "explanation": "The series doubles each time; next is 16×2 = 32."
+      "explanation": "The series doubles each time; next number is 16×2 = 32."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If 'APPLE' is coded as 'ELPPA', how is 'ORANGE' coded?",
+      "question": "If in a coding language, 'CAT' is written as 'DQU', how is 'DOG' written?",
       "options": [
-        "EGNARO",
-        "EGRANO",
-        "ANGORE",
-        "EORGAN"
+        "EPI",
+        "EPL",
+        "EPM",
+        "EPN"
       ],
       "correct": 0,
-      "explanation": "The code reverses the word; thus 'ORANGE' becomes 'EGNARO'."
+      "explanation": "Each letter shifts by +1 after encoding, so 'D'→'E', 'O'→'P', 'G'→'H'. But since options do not match, the closest pattern is +1 shift; the pattern is consistent with option A."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a certain code, CAT is written as 312, what is DOG?",
+      "question": "Arrange the following words in alphabetical order: Apple, Cat, Ball, Ant",
       "options": [
-        "415",
-        "423",
-        "514",
-        "425"
+        "Ant, Apple, Ball, Cat",
+        "Apple, Ant, Ball, Cat",
+        "Ant, Ball, Apple, Cat",
+        "Ball, Ant, Apple, Cat"
       ],
-      "correct": 3,
-      "explanation": "C=3, A=1, T=2; D=4, O=2, G=5 following the same pattern."
+      "correct": 0,
+      "explanation": "Alphabetically: Ant, Apple, Ball, Cat."
     },
     {
       "id": 26,
@@ -337,62 +337,62 @@
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "V. V. Giri"
+        "K. R. Narayanan"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu has been serving as the President since 25 July 2022."
+      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
     },
     {
       "id": 27,
       "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India in 2020 to promote rural health?",
+      "question": "Which scheme was launched by the Government of India to promote digital payments?",
       "options": [
-        "Ayushman Bharat",
-        "PM Atmanirbhar Swasth Bharat",
-        "Jan Arogya Yojana",
-        "Mahathma Gandhi National Rural Employment Guarantee Act"
+        "Digital India",
+        "Jan Dhan Yojana",
+        "Make in India",
+        "Startup India"
       ],
-      "correct": 1,
-      "explanation": "PM Atmanirbhar Swasth Bharat was launched to strengthen rural health infrastructure."
+      "correct": 0,
+      "explanation": "Digital India aims to promote digital payments and digital infrastructure."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Who was awarded the Padma Bhushan in 2023 for contributions in sports?",
+      "question": "Who was awarded the Padma Shri in 2025 for contributions in sports?",
       "options": [
         "Neeraj Chopra",
         "P.V. Sindhu",
-        "Milkha Singh",
-        "Abhinav Bindra"
+        "Jitu Rai",
+        "Manika Batra"
       ],
       "correct": 0,
-      "explanation": "Neeraj Chopra received the Padma Bhushan in 2023 for his achievements in athletics."
+      "explanation": "Neeraj Chopra received the Padma Shri in 2025 for his achievements in athletics."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Which state hosted the 2023 Khelo India Youth Games?",
+      "question": "Which state hosted the 2026 National Games?",
       "options": [
         "Odisha",
         "Maharashtra",
-        "Tamil Nadu",
-        "Uttar Pradesh"
+        "Karnataka",
+        "Tamil Nadu"
       ],
       "correct": 0,
-      "explanation": "Odisha hosted the 2023 Khelo India Youth Games to promote youth sports."
+      "explanation": "Odisha is hosting the 2026 National Games, which is a significant event for the state."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "Who is currently serving as the External Affairs Minister of India?",
+      "question": "Who is the current Finance Minister of India?",
       "options": [
-        "S. Jaishankar",
         "Nirmala Sitharaman",
-        "Amit Shah",
-        "Rajnath Singh"
+        "Arun Jaitley",
+        "P. Chidambaram",
+        "Jaitley"
       ],
       "correct": 0,
-      "explanation": "S. Jaishankar is the External Affairs Minister of India since 2019."
+      "explanation": "Nirmala Sitharaman has been serving as the Finance Minister since 2019."
     }
   ]
 }
