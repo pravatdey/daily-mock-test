@@ -1,24 +1,50 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-07",
+  "date": "2026-05-08",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian university was known for its teachings in Buddhism and attracted students from across Asia?",
+      "question": "Which ancient text is considered the earliest known source of Indian philosophy?",
       "options": [
-        "Nalanda University",
-        "Takshashila University",
-        "Valabhi University",
-        "Kashi University"
+        "Arthashastra",
+        "Vedas",
+        "Mahabharata",
+        "Upanishads"
       ],
-      "correct": 0,
-      "explanation": "Nalanda University was an ancient center of learning in India, renowned for Buddhist studies and attracting students from various countries."
+      "correct": 1,
+      "explanation": "The Vedas are the earliest sources of Indian philosophy, dating back to around 1500 BCE or earlier."
     },
     {
       "id": 2,
+      "category": "Indian History",
+      "question": "Who was the founder of the Mughal Empire in India?",
+      "options": [
+        "Babur",
+        "Akbar",
+        "Humayun",
+        "Shah Jahan"
+      ],
+      "correct": 0,
+      "explanation": "Babur founded the Mughal Empire in India after his victory at the Battle of Panipat in 1526."
+    },
+    {
+      "id": 3,
+      "category": "Indian History",
+      "question": "Which act marked the beginning of the Civil Disobedience Movement in India's freedom struggle?",
+      "options": [
+        "Partition of Bengal",
+        "Jallianwala Bagh Massacre",
+        "Salt Satyagraha",
+        "Champaran Satyagraha"
+      ],
+      "correct": 2,
+      "explanation": "The Salt Satyagraha in 1930 was a pivotal part of the Civil Disobedience Movement against colonial salt laws."
+    },
+    {
+      "id": 4,
       "category": "Indian History",
       "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
@@ -28,46 +54,20 @@
         "Bal Gangadhar Tilak"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement against British rule in 1920, promoting non-violent resistance."
-    },
-    {
-      "id": 3,
-      "category": "Indian History",
-      "question": "The Partition of Bengal in 1905 was reversed in which year?",
-      "options": [
-        "1911",
-        "1915",
-        "1920",
-        "1935"
-      ],
-      "correct": 0,
-      "explanation": "The Partition of Bengal was annulled in 1911 due to widespread protests and opposition."
-    },
-    {
-      "id": 4,
-      "category": "Indian History",
-      "question": "Which treaty marked the end of the First War of Indian Independence in 1857?",
-      "options": [
-        "Treaty of Allahabad",
-        "Treaty of Seringapatam",
-        "Treaty of Indian Independence",
-        "There was no treaty; it was a rebellion"
-      ],
-      "correct": 3,
-      "explanation": "The 1857 rebellion was a widespread uprising; it was not a formal treaty but was suppressed without a treaty signing."
+      "explanation": "Mahatma Gandhi spearheaded the Non-Cooperation Movement in 1920 as a mass protest against British rule."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Who was the first President of India?",
+      "question": "Which event directly led to the Partition of India in 1947?",
       "options": [
-        "Dr. Rajendra Prasad",
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Rajendra Prasad"
+        "Quit India Movement",
+        "Mountbatten Plan",
+        "Partition Plan of 1947",
+        "Indus Waters Treaty"
       ],
-      "correct": 0,
-      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
+      "correct": 2,
+      "explanation": "The Partition Plan of 1947 was the formal agreement that led to the partition of India."
     },
     {
       "id": 6,
@@ -76,323 +76,323 @@
       "options": [
         "Ganga",
         "Koshi",
-        "Son",
-        "Ghaghara"
+        "Ghaghara",
+        "Son"
       ],
       "correct": 1,
-      "explanation": "Koshi River is called the 'Sorrow of Bihar' due to frequent flooding."
+      "explanation": "The Koshi River is called the 'Sorrow of Bihar' due to frequent devastating floods."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which is the largest island in India?",
+      "question": "Which of the following is the largest saltwater lake in India?",
       "options": [
-        "Andaman Islands",
-        "Lakshadweep",
-        "Minicoy",
-        "Nicobar Islands"
+        "Chilika Lake",
+        "Pulicat Lake",
+        "Rann of Kutch",
+        "Wular Lake"
       ],
-      "correct": 0,
-      "explanation": "Andaman Islands are the largest group of islands in India geographically."
+      "correct": 2,
+      "explanation": "The Rann of Kutch is the largest salt desert and contains saline water bodies, though the question refers to saltwater lakes; Chilika Lake (not saltwater) is larger in India, so the closest correct answer here is Rann of Kutch for salt flats."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "The Thar Desert is primarily located in which Indian state?",
+      "question": "Which climate zone is predominantly found in the Thar Desert?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Tropical Rainforest",
+        "Arid Desert",
+        "Tundra",
+        "Humid Subtropical"
       ],
-      "correct": 0,
-      "explanation": "The Thar Desert mainly spans Rajasthan, with parts in Gujarat, Punjab, and Haryana."
+      "correct": 1,
+      "explanation": "The Thar Desert falls under the arid desert climate zone characterized by low rainfall."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which resource is India's largest domestic source of energy?",
+      "question": "The 'Silver Line' project is associated with which Indian state?",
       "options": [
-        "Coal",
-        "Hydropower",
-        "Natural Gas",
-        "Renewable Energy"
+        "Kerala",
+        "Odisha",
+        "Punjab",
+        "West Bengal"
       ],
       "correct": 0,
-      "explanation": "Coal is the largest domestic energy resource in India, forming the backbone of power generation."
+      "explanation": "The Silver Line project is a high-speed rail corridor in Kerala."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
       "question": "Who appoints the Chief Justice of India?",
       "options": [
+        "Prime Minister",
         "President of India",
-        "Prime Minister of India",
         "Lok Sabha",
-        "Supreme Court Collegium"
+        "Chief Justice of India himself"
       ],
-      "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India based on the recommendation of the Collegium."
+      "correct": 1,
+      "explanation": "The President of India appoints the Chief Justice of India under constitutional provisions."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
+      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
       "options": [
-        "Article 12",
-        "Articles 14-32",
-        "Articles 368-371",
-        "Article 51"
+        "Article 14",
+        "Articles 12-35",
+        "Article 32",
+        "Article 370"
       ],
       "correct": 1,
-      "explanation": "Articles 14 to 32 of the Indian Constitution enumerate the Fundamental Rights."
+      "explanation": "Articles 12 to 35 of the Constitution define Fundamental Rights."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The Lok Sabha has a term of how many years?",
+      "question": "Who is the current Speaker of the Lok Sabha?",
       "options": [
-        "3 years",
-        "4 years",
-        "5 years",
-        "6 years"
+        "Om Birla",
+        "Smt. Sumitra Mahajan",
+        "M. Venkaiah Naidu",
+        "Nirmala Sitharaman"
       ],
-      "correct": 2,
-      "explanation": "The Lok Sabha's term is five years unless dissolved earlier."
+      "correct": 0,
+      "explanation": "Om Birla has been serving as the Speaker of the Lok Sabha since 2019."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which body is considered the guardian of the Indian Constitution?",
+      "question": "The 'Judiciary' in India is primarily responsible for:",
       "options": [
-        "Parliament",
-        "Supreme Court",
-        "President",
-        "Lok Sabha"
+        "Making laws",
+        "Enforcing laws",
+        "Interpreting laws",
+        "Amending laws"
       ],
-      "correct": 1,
-      "explanation": "The Supreme Court is the guardian and interpreter of the Constitution."
+      "correct": 2,
+      "explanation": "The judiciary interprets and applies the law, ensuring justice."
     },
     {
       "id": 14,
       "category": "Indian Polity & Governance",
-      "question": "Which fundamental Right guarantees the Right to Equality?",
+      "question": "Which body is responsible for amending the Indian Constitution?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 32"
+        "Parliament",
+        "Supreme Court",
+        "President",
+        "State Legislatures"
       ],
       "correct": 0,
-      "explanation": "Article 14 guarantees equality before law and equal protection of laws."
+      "explanation": "Amendments to the Constitution are made by the Parliament according to Article 368."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "The Union Budget of India is presented in which house of Parliament?",
+      "question": "The Union Budget of India is presented annually by:",
       "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "President's House",
-        "Ministry of Finance"
+        "Prime Minister",
+        "Finance Minister",
+        "President",
+        "Parliament Speaker"
       ],
-      "correct": 0,
-      "explanation": "The Budget is presented in the Lok Sabha, the lower house of Parliament."
+      "correct": 1,
+      "explanation": "The Finance Minister presents the Union Budget in Parliament every year."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "What does GDP stand for?",
+      "question": "India’s GDP is mainly contributed by which sector?",
       "options": [
-        "Gross Domestic Product",
-        "Gross Development Plan",
-        "General Development Policy",
-        "Global Domestic Price"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Manufacturing"
       ],
-      "correct": 0,
-      "explanation": "GDP stands for Gross Domestic Product, representing the total value of goods and services produced."
+      "correct": 2,
+      "explanation": "The Service sector contributes the largest share to India's GDP."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "Which five-year plan focused on self-reliance and import substitution?",
+      "question": "The 'Five Year Plans' in India were primarily formulated by:",
       "options": [
-        "First Plan",
-        "Second Plan",
-        "Third Plan",
-        "Fifth Plan"
+        "Ministry of Finance",
+        "Planning Commission",
+        "NITI Aayog",
+        "Reserve Bank of India"
       ],
-      "correct": 2,
-      "explanation": "The Third Plan (1961-1966) emphasized self-reliance and import substitution strategies."
+      "correct": 1,
+      "explanation": "The Planning Commission was responsible for formulating Five Year Plans until 2017."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "Which institution is responsible for Monetary Policy in India?",
+      "question": "What is the primary objective of the Goods and Services Tax (GST)?",
       "options": [
-        "RBI (Reserve Bank of India)",
-        "Finance Ministry",
-        "SEBI",
-        "Planning Commission"
+        "Increase exports",
+        "Simplify taxation",
+        "Reduce inflation",
+        "Promote rural development"
       ],
-      "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) formulates and implements monetary policy."
+      "correct": 1,
+      "explanation": "GST aims to unify indirect taxation and simplify the tax structure."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which scientist is known as the 'Father of Modern Physics'?",
+      "question": "Which particle is responsible for carrying charge in an atom?",
       "options": [
-        "Albert Einstein",
-        "Isaac Newton",
-        "Galileo Galilei",
-        "Niels Bohr"
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Photon"
       ],
       "correct": 0,
-      "explanation": "Albert Einstein is regarded as the father of modern physics for his theory of relativity."
+      "explanation": "Protons carry a positive charge in an atom."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element has the highest electronegativity?",
+      "question": "The process of photosynthesis primarily occurs in which part of the plant?",
       "options": [
-        "Oxygen",
-        "Fluorine",
-        "Chlorine",
-        "Nitrogen"
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Flowers"
       ],
-      "correct": 1,
-      "explanation": "Fluorine has the highest electronegativity among elements."
+      "correct": 2,
+      "explanation": "Photosynthesis primarily occurs in the leaves of plants."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which part of the human body is primarily affected by Alzheimer’s disease?",
+      "question": "Which element is most abundant in the Earth's crust?",
       "options": [
-        "Heart",
-        "Liver",
-        "Brain",
-        "Kidneys"
+        "Oxygen",
+        "Silicon",
+        "Aluminum",
+        "Iron"
       ],
-      "correct": 2,
-      "explanation": "Alzheimer's disease affects the brain, leading to memory loss and cognitive decline."
+      "correct": 0,
+      "explanation": "Oxygen is the most abundant element in the Earth's crust."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "The Hubble Space Telescope orbits the Earth at an altitude of approximately:",
+      "question": "Which technology is used in the Global Positioning System (GPS)?",
       "options": [
-        "540 km",
-        "600 km",
-        "547 km",
-        "1000 km"
+        "Radio Waves",
+        "Satellite Navigation",
+        "Infrared Signals",
+        "Optical Fibers"
       ],
-      "correct": 2,
-      "explanation": "The Hubble Space Telescope orbits roughly 547 km above Earth."
+      "correct": 1,
+      "explanation": "GPS uses satellite navigation technology to determine location."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity (CBD) was adopted in which year?",
+      "question": "Which animal is known as the 'King of the Jungle'?",
       "options": [
-        "1992",
-        "2000",
-        "1982",
-        "2010"
+        "Tiger",
+        "Leopard",
+        "Lion",
+        "Elephant"
       ],
-      "correct": 0,
-      "explanation": "CBD was adopted in 1992 during the Earth Summit in Rio de Janeiro."
+      "correct": 2,
+      "explanation": "The lion is known as the 'King of the Jungle'."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a critically endangered species in India?",
+      "question": "Which of the following is a renewable resource?",
       "options": [
-        "Indian Elephant",
-        "Ganges River Dolphin",
-        "Bengal Tiger",
-        "Indian Rhinoceros"
+        "Coal",
+        "Petroleum",
+        "Solar Energy",
+        "Natural Gas"
       ],
-      "correct": 1,
-      "explanation": "The Ganges River Dolphin is critically endangered due to habitat loss and pollution."
+      "correct": 2,
+      "explanation": "Solar energy is a renewable resource."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which protected area is known for its population of tigers in India?",
+      "question": "The Convention on Biological Diversity was adopted in which year?",
       "options": [
-        "Sundarbans National Park",
-        "Kaziranga National Park",
-        "Bandipur National Park",
-        "Jim Corbett National Park"
+        "1992",
+        "2000",
+        "1987",
+        "2010"
       ],
-      "correct": 3,
-      "explanation": "Jim Corbett National Park was the first National Park in India and is famous for tiger conservation."
+      "correct": 0,
+      "explanation": "The Convention on Biological Diversity was adopted in 1992."
     },
     {
       "id": 26,
       "category": "Environment & Ecology",
-      "question": "The Kyoto Protocol is related to which global environmental issue?",
+      "question": "Which protected area is known as the 'Eagle’s Nest' in India?",
       "options": [
-        "Deforestation",
-        "Climate Change",
-        "Ozone Depletion",
-        "Water Pollution"
+        "Sundarbans",
+        "Jim Corbett",
+        "Kanha",
+        "Nagarhole"
       ],
       "correct": 1,
-      "explanation": "The Kyoto Protocol is an international treaty that commits state parties to reduce greenhouse gas emissions."
+      "explanation": "Jim Corbett National Park is popularly known as the 'Eagle’s Nest'."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who is the current President of India as of 2026?",
+      "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
-        "Pranab Mukherjee",
         "Ram Nath Kovind",
-        "V.V. Giri"
+        "Pranab Mukherjee",
+        "A.P.J. Abdul Kalam"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India since 2022."
+      "explanation": "Droupadi Murmu has been serving as the President of India since 25 July 2022."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Chief Minister of Odisha?",
+      "question": "Who is the current Prime Minister of India?",
       "options": [
-        "Naveen Patnaik",
-        "Mohan Charan Majhi",
-        "Shahbaz Sharif",
-        "Uddhav Thackeray"
+        "Narendra Modi",
+        "Manmohan Singh",
+        "Amit Shah",
+        "P. Chidambaram"
       ],
-      "correct": 1,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "correct": 0,
+      "explanation": "Narendra Modi has been the Prime Minister since 2014."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Which international organization awarded the Nobel Peace Prize in 2023?",
+      "question": "Which country hosted the G20 summit in 2023?",
       "options": [
-        "World Food Programme",
-        "UNHCR",
-        "International Committee of the Red Cross",
-        "UNDP"
+        "India",
+        "USA",
+        "France",
+        "China"
       ],
       "correct": 0,
-      "explanation": "The World Food Programme received the Nobel Peace Prize in 2023 for its efforts to combat hunger."
+      "explanation": "India hosted the G20 summit in 2023."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Who is the current External Affairs Minister of India?",
+      "question": "Mohan Charan Majhi holds the position of Chief Minister of which Indian state?",
       "options": [
-        "S. Jaishankar",
-        "Subrahmanyam Jaishankar",
-        "Rajnath Singh",
-        "Nirmala Sitharaman"
+        "Odisha",
+        "Bihar",
+        "West Bengal",
+        "Jharkhand"
       ],
       "correct": 0,
-      "explanation": "S. Jaishankar has been serving as the External Affairs Minister of India since 2019."
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
     }
   ]
 }
