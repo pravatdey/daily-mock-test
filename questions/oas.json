@@ -1,398 +1,398 @@
 {
   "exam": "oas",
   "name": "Odisha Civil Services",
-  "date": "2026-05-10",
+  "date": "2026-05-11",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha History",
-      "question": "Who was the renowned king of Odisha associated with the Kalinga War that led to Ashoka's conversion to Buddhism?",
+      "question": "Which empire was responsible for the conquest of Kalinga in the 3rd century BCE?",
       "options": [
-        "Kharavela",
-        "Kalinga Raja",
-        "Udyana",
-        "Ashoka"
+        "Mauryan Empire",
+        "Gupta Empire",
+        "Mughal Empire",
+        "Chola Dynasty"
       ],
-      "correct": 3,
-      "explanation": "The Kalinga War was fought between Mauryan Emperor Ashoka and the king of Kalinga. The war's devastation led Ashoka to embrace Buddhism and propagate non-violence."
+      "correct": 0,
+      "explanation": "The Mauryan Empire, under Emperor Ashoka, conquered Kalinga around 261 BCE, leading to the famous Kalinga War."
     },
     {
       "id": 2,
       "category": "Odisha History",
-      "question": "The Gajapati dynasty was established in Odisha during which century?",
+      "question": "The Gajapati dynasty is known for its rule over which region in Odisha?",
       "options": [
-        "9th century",
-        "12th century",
-        "15th century",
-        "17th century"
+        "Southern Odisha",
+        "Western Odisha",
+        "Kalinga region",
+        "Northern Odisha"
       ],
-      "correct": 1,
-      "explanation": "The Gajapati dynasty was founded in the late 12th century and played a pivotal role in Odisha's history."
+      "correct": 2,
+      "explanation": "The Gajapati dynasty ruled over the Kalinga region, playing a significant role in Odishan history."
     },
     {
       "id": 3,
       "category": "Odisha History",
-      "question": "Which Odisha ruler led the Bhoi dynasty after the fall of the Gajapati dynasty?",
+      "question": "Who led the Buxi Jagabandhu-led uprising against the British in Odisha?",
       "options": [
-        "Basanta Gautama",
-        "Hemanta Gajapati",
-        "Vishwanath Gajapati",
-        "Raghunath Gajapati"
+        "Surendra Sai",
+        "Jayee Rajguru",
+        "Buxi Jagabandhu",
+        "Laxman Naik"
       ],
-      "correct": 1,
-      "explanation": "Hemanta Gajapati established the Bhoi dynasty, succeeding the Gajapati rulers in Odisha."
+      "correct": 2,
+      "explanation": "Buxi Jagabandhu was the leader of the Paika Rebellion in 1817 against British rule."
     },
     {
       "id": 4,
       "category": "Odisha History",
-      "question": "Buxi Jagabandhu is famous for leading which movement in Odisha?",
-      "options": [
-        "Freedom Movement against British",
-        "Paika Rebellion",
-        "Indigo Protest",
-        "Salt Satyagraha"
-      ],
-      "correct": 1,
-      "explanation": "Buxi Jagabandhu led the Paika Rebellion in 1817 against the British colonial rule in Odisha."
-    },
-    {
-      "id": 5,
-      "category": "Odisha History",
-      "question": "In which year was the modern state of Odisha officially formed?",
+      "question": "In which year was the formation of Odisha as a separate state?",
       "options": [
         "1936",
         "1947",
         "1950",
-        "1960"
+        "1956"
       ],
       "correct": 0,
-      "explanation": "Odisha was officially formed as a separate state on April 1, 1936, carved out of the Bengal Presidency."
+      "explanation": "Odisha was formed as a separate state on April 1, 1936."
+    },
+    {
+      "id": 5,
+      "category": "Odisha History",
+      "question": "Which prominent Odia freedom fighter was known for his role in the Quit India Movement?",
+      "options": [
+        "Surendra Sai",
+        "Buxi Jagabandhu",
+        "Laxman Naik",
+        "Jayee Rajguru"
+      ],
+      "correct": 2,
+      "explanation": "Laxman Naik was a notable freedom fighter from Odisha involved in various independence activities, including Quit India."
     },
     {
       "id": 6,
       "category": "Odisha Geography",
-      "question": "Which river is the primary water resource flowing through Odisha and forming the delta?",
+      "question": "Which is the longest river flowing through Odisha?",
       "options": [
-        "Brahmani",
         "Mahanadi",
+        "Brahmani",
         "Baitarani",
-        "Subarnarekha"
+        "Rushikulya"
       ],
-      "correct": 1,
-      "explanation": "The Mahanadi River is the major river flowing through Odisha, creating a large delta before draining into the Bay of Bengal."
+      "correct": 0,
+      "explanation": "The Mahanadi is the longest river flowing through Odisha, vital for agriculture and water resources."
     },
     {
       "id": 7,
       "category": "Odisha Geography",
-      "question": "Chilika Lake, the largest coastal lagoon in India, is situated in which part of Odisha?",
+      "question": "Chilika Lake, the largest coastal lagoon in India, is situated in which district of Odisha?",
       "options": [
-        "Northern Odisha",
-        "Southern Odisha",
-        "Eastern Odisha",
-        "Western Odisha"
+        "Puri",
+        "Khordha",
+        "Ganjam",
+        "Jagatsinghpur"
       ],
-      "correct": 2,
-      "explanation": "Chilika Lake is located on the eastern coast of Odisha, along the Bay of Bengal."
+      "correct": 1,
+      "explanation": "Chilika Lake spans across Khordha, Ganjam, and Puri districts but is primarily associated with Khordha district."
     },
     {
       "id": 8,
       "category": "Odisha Geography",
-      "question": "Which mineral is most abundantly found in Odisha?",
+      "question": "The mineral bauxite is primarily used in the production of which metal?",
       "options": [
-        "Coal",
-        "Bauxite",
-        "Iron ore",
-        "Manganese"
+        "Copper",
+        "Aluminum",
+        "Iron",
+        "Zinc"
       ],
-      "correct": 2,
-      "explanation": "Odisha is rich in iron ore deposits, making it one of the leading iron ore producing states in India."
+      "correct": 1,
+      "explanation": "Bauxite ore is the primary raw material for aluminum production."
     },
     {
       "id": 9,
       "category": "Odisha Geography",
-      "question": "The Eastern Ghats pass through which part of Odisha?",
+      "question": "Which port is the main exporting port in Odisha?",
       "options": [
-        "Northern Odisha",
-        "Southern Odisha",
-        "Western Odisha",
-        "Eastern Odisha"
+        "Kolkata Port",
+        "Paradip Port",
+        "Visakhapatnam Port",
+        "Mumbai Port"
       ],
       "correct": 1,
-      "explanation": "The Eastern Ghats run through the southern part of Odisha, especially in the districts near the Andhra Pradesh border."
+      "explanation": "Paradip Port is the main deep-water port in Odisha, handling significant exports."
     },
     {
       "id": 10,
       "category": "Odisha Geography",
-      "question": "Which port in Odisha is known as the ‘Gateway of Odisha’? ",
+      "question": "Odisha's climate can be classified as primarily:",
       "options": [
-        "Paradip Port",
-        "Kolkata Port",
-        "Visakhapatnam Port",
-        "Cochin Port"
+        "Tropical monsoon",
+        "Desert",
+        "Temperate",
+        "Arctic"
       ],
       "correct": 0,
-      "explanation": "Paradip Port is the main seaport of Odisha, serving as the gateway for trade and commerce."
+      "explanation": "Odisha experiences a tropical monsoon climate, with heavy rains during monsoon season."
     },
     {
       "id": 11,
       "category": "Odisha Culture & Heritage",
-      "question": "The famous Sun Temple located at Konark was built during which dynasty’s rule?",
+      "question": "The famous Sun Temple at Konark was built in which century?",
       "options": [
-        "Gajapati",
-        "Chola",
-        "Eastern Ganga",
-        "Mughal"
+        "12th century",
+        "10th century",
+        "14th century",
+        "15th century"
       ],
-      "correct": 2,
-      "explanation": "The Sun Temple at Konark was constructed by King Narasimhadeva I of the Eastern Ganga dynasty in the 13th century."
+      "correct": 0,
+      "explanation": "The Konark Sun Temple was constructed in the 13th century, around the 1200s (13th century)."
     },
     {
       "id": 12,
       "category": "Odisha Culture & Heritage",
-      "question": "Odissi, a classical dance form of Odisha, is traditionally performed to which type of music?",
+      "question": "Odissi dance is attributed to which region in Odisha?",
       "options": [
-        "Khayal",
-        "Dhrupad",
-        "Odissi music",
-        "Bhajan"
+        "Sambalpur",
+        "Puri",
+        "Bhubaneswar",
+        "Cuttack"
       ],
-      "correct": 2,
-      "explanation": "Odissi dance is closely associated with Odissi music, which encompasses classical Odishan musical traditions."
+      "correct": 1,
+      "explanation": "Odissi is a classical dance form originating from the temples of Puri and surrounding regions."
     },
     {
       "id": 13,
       "category": "Odisha Culture & Heritage",
-      "question": "Pattachitra art, famous in Odisha, is mainly related to which medium?",
+      "question": "Which craft form is Pattachitra known for?",
       "options": [
-        "Stone",
-        "Cloth and natural colors",
-        "Wood",
-        "Metal"
+        "Wood carving",
+        "Textile weaving",
+        "Fresco painting",
+        "Clay pottery"
       ],
-      "correct": 1,
-      "explanation": "Pattachitra is a traditional cloth-based painting art of Odisha, painted with natural colors depicting mythological themes."
+      "correct": 2,
+      "explanation": "Pattachitra is famous for its intricate and colorful fresco paintings on cloth or dried palm leaves."
     },
     {
       "id": 14,
       "category": "Odisha Culture & Heritage",
-      "question": "Which festival in Odisha is known as the 'Raja' festival, celebrating womanhood and the monsoon?",
+      "question": "The Raja festival in Odisha celebrates which deity?",
       "options": [
-        "Diwali",
-        "Nuakhai",
-        "Raja",
-        "Durga Puja"
+        "Jagannath",
+        "Ganesha",
+        "Shiva",
+        "Vishnu"
       ],
-      "correct": 2,
-      "explanation": "Raja is a festival dedicated to women and the onset of monsoon, celebrated with special rituals in Odisha."
+      "correct": 0,
+      "explanation": "The Raja festival celebrates the goddess Parvati as Raja, in Odisha."
     },
     {
       "id": 15,
       "category": "Odisha Culture & Heritage",
-      "question": "Which tribal dance form is popular in the remote districts of Odisha?",
+      "question": "Nuakhai is a festival primarily celebrated in which part of Odisha?",
       "options": [
-        "Garba",
-        "Chhau",
-        "Dalkhai",
-        "Bihu"
+        "Southern Odisha",
+        "Western Odisha",
+        "Western Odisha",
+        "Northern Odisha"
       ],
       "correct": 2,
-      "explanation": "Dalkhai is a well-known tribal dance from western Odisha, performed during festivals by local tribes."
+      "explanation": "Nuakhai is predominantly celebrated in Western Odisha, marking the harvest festival."
     },
     {
       "id": 16,
-      "category": "Odisha Economy & Development",
-      "question": "NALCO, a major company in Odisha, primarily deals with which industry?",
+      "category": "Odisha Culture & Heritage",
+      "question": "The tribal dance ‘Sambalpuri’ is associated with which district in Odisha?",
       "options": [
-        "Textile",
-        "Aluminium & Bauxite",
-        "Information Technology",
-        "Pharmaceuticals"
+        "Sambalpur",
+        "Mayurbhanj",
+        "Koraput",
+        "Malkangiri"
       ],
-      "correct": 1,
-      "explanation": "National Aluminium Company Limited (NALCO) is a leading producer of aluminium and bauxite in Odisha."
+      "correct": 0,
+      "explanation": "Sambalpuri dance is a traditional dance of the Sambalpur region, reflecting tribal culture."
     },
     {
       "id": 17,
       "category": "Odisha Economy & Development",
-      "question": "The Paradip Port is mainly used for exporting which commodity?",
+      "question": "NALCO, a major public sector enterprise, primarily deals with which industry?",
       "options": [
-        "Tea",
         "Steel",
-        "Minerals and ores",
-        "Electronics"
+        "Aluminium",
+        "Mining & Minerals",
+        "Information Technology"
       ],
       "correct": 2,
-      "explanation": "Paradip Port primarily handles the export of minerals, ores, and bulk commodities from Odisha."
+      "explanation": "NALCO is involved in the mining and processing of bauxite and aluminum production."
     },
     {
       "id": 18,
       "category": "Odisha Economy & Development",
-      "question": "Which major agricultural product is Odisha known for?",
+      "question": "Which is the flagship agricultural scheme of Odisha government?",
       "options": [
-        "Rice",
-        "Wheat",
-        "Tea",
-        "Coffee"
+        "KALIA",
+        "Rashtriya Krishi Vikas Yojana",
+        "PM-Kisan",
+        "MGNREGA"
       ],
       "correct": 0,
-      "explanation": "Odisha is a major rice-producing state, with rice being the staple crop of the region."
+      "explanation": "KALIA scheme aims to support small and marginal farmers in Odisha."
     },
     {
       "id": 19,
       "category": "Odisha Economy & Development",
-      "question": "KALIA scheme launched by Odisha government aims to support which segment?",
+      "question": "The Odisha Budget is presented in which legislative body?",
       "options": [
-        "Students",
-        "Farmers",
-        "Industry",
-        "Tourists"
+        "Odisha Legislative Assembly",
+        "Odisha Legislative Council",
+        "Parliament of India",
+        "Odisha State Council"
       ],
-      "correct": 1,
-      "explanation": "KALIA scheme is aimed at providing financial support to farmers and promote agricultural development."
+      "correct": 0,
+      "explanation": "The Odisha Budget is presented and approved in the Odisha Legislative Assembly."
     },
     {
       "id": 20,
       "category": "Odisha Economy & Development",
-      "question": "The Odisha Budget is presented annually by whom?",
+      "question": "Which welfare scheme was launched in Odisha to provide health coverage to BPL families?",
       "options": [
-        "Chief Minister",
-        "Finance Minister",
-        "Governor",
-        "Chief Secretary"
+        "Biju Swasthya Kalyan Yojana",
+        "Ayushman Bharat",
+        "Rogi Kalyan Yojana",
+        "Indira Awas Yojana"
       ],
-      "correct": 1,
-      "explanation": "The Finance Minister presents the annual budget of Odisha in the State Assembly."
+      "correct": 0,
+      "explanation": "Biju Swasthya Kalyan Yojana is Odisha's flagship health scheme for BPL families."
     },
     {
       "id": 21,
       "category": "Indian Polity & Constitution",
-      "question": "Who is the Governor of Odisha as of 2026?",
+      "question": "Who is the current Governor of Odisha?",
       "options": [
         "Ganeshi Lal",
-        "Murlidhar Chandrakanta",
-        "Sanjay Kumar",
-        "Vishwajit Rane"
+        "Droupadi Murmu",
+        "Mohan Charan Majhi",
+        "Satyadeo Narain Arya"
       ],
-      "correct": 0,
-      "explanation": "Ganeshi Lal is the Governor of Odisha since 2018, continuing through 2026."
+      "correct": 2,
+      "explanation": "The current Governor of Odisha is Mohan Charan Majhi, appointed since 2024."
     },
     {
       "id": 22,
       "category": "Indian Polity & Constitution",
-      "question": "Odisha's legislative assembly has how many seats?",
+      "question": "The Odisha Legislative Assembly has how many elected members?",
       "options": [
         "147",
-        "175",
-        "200",
-        "190"
+        "152",
+        "143",
+        "150"
       ],
-      "correct": 1,
-      "explanation": "Odisha Legislative Assembly has 147 elected members as per the latest delimitation."
+      "correct": 0,
+      "explanation": "The Odisha Legislative Assembly comprises 147 elected members."
     },
     {
       "id": 23,
       "category": "Indian Polity & Constitution",
-      "question": "Which institution in Odisha is responsible for local self-governance?",
+      "question": "The Panchayati Raj system in Odisha was constitutionalized in which year?",
       "options": [
-        "State Legislative Council",
-        "Zilla Parishad",
-        "Lok Sabha",
-        "Supreme Court"
+        "1992",
+        "2000",
+        "1973",
+        "1986"
       ],
-      "correct": 1,
-      "explanation": "Zilla Parishads govern at the district level under the Panchayati Raj system in Odisha."
+      "correct": 0,
+      "explanation": "The 73rd Amendment Act of 1992 provided constitutional status to Panchayati Raj systems."
     },
     {
       "id": 24,
       "category": "Indian Polity & Constitution",
-      "question": "The Panchayati Raj system in Odisha was established in accordance with which constitutional amendment?",
+      "question": "Who administers the oath to the Chief Minister of Odisha?",
       "options": [
-        "73rd Amendment",
-        "74th Amendment",
-        "42nd Amendment",
-        "52nd Amendment"
+        "Governor",
+        "President of India",
+        "Chief Justice of Odisha High Court",
+        "Lok Sabha Speaker"
       ],
       "correct": 0,
-      "explanation": "The 73rd Amendment Act, 1992, institutionalized Panchayati Raj in Odisha and all over India."
+      "explanation": "The Governor of Odisha administers the oath to the Chief Minister."
     },
     {
       "id": 25,
       "category": "General Science",
-      "question": "In Odisha, the Chandrapur Mineral Springs are famous for which mineral?",
+      "question": "Which is the most abundant gas in the Earth's atmosphere present in Odisha?",
       "options": [
-        "Sulfur",
-        "Lithium",
-        "Salt",
-        "Magnesium"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Argon"
       ],
-      "correct": 2,
-      "explanation": "Chandrapur mineral springs are known for their mineral-rich saline water, mainly salt."
+      "correct": 1,
+      "explanation": "Nitrogen constitutes about 78% of Earth's atmosphere, including in Odisha."
     },
     {
       "id": 26,
       "category": "General Science",
-      "question": "Which gas is primarily responsible for air pollution in Odisha’s industrial areas?",
+      "question": "Which Odisha-based mineral is used in the manufacturing of cement?",
       "options": [
-        "Ozone",
-        "Sulfur Dioxide",
-        "Methane",
-        "Nitrogen"
+        "Limestone",
+        "Bauxite",
+        "Iron ore",
+        "Dolomite"
       ],
-      "correct": 1,
-      "explanation": "Sulfur Dioxide (SO2) emissions from industries contribute significantly to air pollution in Odisha."
+      "correct": 0,
+      "explanation": "Limestone is used mainly in cement manufacturing and is found abundantly in Odisha."
     },
     {
       "id": 27,
       "category": "General Science",
-      "question": "Which of the following is a common tribal medicinal plant found in Odisha?",
+      "question": "Which biological process is primarily responsible for producing oxygen in Odisha’s forests?",
       "options": [
-        "Neem",
-        "Ashwagandha",
-        "Tulsi",
-        "Mango"
+        "Respiration",
+        "Photosynthesis",
+        "Germination",
+        "Pollination"
       ],
-      "correct": 0,
-      "explanation": "Neem trees are widely used by tribal communities in Odisha for medicinal purposes."
+      "correct": 1,
+      "explanation": "Photosynthesis in plants and trees in Odisha’s forests produces oxygen."
     },
     {
       "id": 28,
-      "category": "Current Affairs",
-      "question": "Which scheme launched in Odisha aims to provide free healthcare to BPL families?",
+      "category": "General Science",
+      "question": "The pesticide DDT is composed mainly of which element?",
       "options": [
-        "Biju Swasthya Kalyan Yojana",
-        "Rs. KALIA",
-        "Mo Sarkar",
-        "BSKY"
+        "Chlorine",
+        "Nitrogen",
+        "Oxygen",
+        "Sulfur"
       ],
       "correct": 0,
-      "explanation": "Biju Swasthya Kalyan Yojana is a health scheme providing free treatment to BPL families in Odisha."
+      "explanation": "DDT contains chlorinated hydrocarbons, mainly chlorine."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "The 'Mo Sarkar' initiative in Odisha primarily focuses on:",
+      "question": "Who is the current Chief Minister of Odisha as of 2026?",
       "options": [
-        "Educational reforms",
-        "Healthcare services",
-        "Governance and citizen feedback",
-        "Industrial development"
+        "Naveen Patnaik",
+        "Mohan Charan Majhi",
+        "Nirmala Sitharaman",
+        "Ganeshi Lal"
       ],
-      "correct": 2,
-      "explanation": "'Mo Sarkar' emphasizes direct citizen feedback to improve governance and public service delivery."
+      "correct": 1,
+      "explanation": "Mohan Charan Majhi became the Chief Minister of Odisha on 12 June 2024."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "The Biju-KALIA scheme is mainly designed to support which group?",
+      "question": "Which health scheme was recently launched by the Odisha government for free treatment?",
       "options": [
-        "Students",
-        "Farmers",
-        "Artisans",
-        "Urban poor"
+        "BSKY (Biju Swasthya Kalyan Yojana)",
+        "PM-JAY",
+        "Rogi Kalyan Yojana",
+        "Ayushman Bharat"
       ],
-      "correct": 1,
-      "explanation": "KALIA scheme targets financial support and welfare for farmers in Odisha."
+      "correct": 0,
+      "explanation": "BSKY is Odisha’s flagship health scheme providing free treatment to eligible families."
     }
   ]
 }
