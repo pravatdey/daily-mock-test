@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Indian History",
-      "question": "Which ancient university is known as the 'Oxford of the East'?",
+      "category": "Ancient Indian History",
+      "question": "Which ancient Indian text is primarily a collection of hymns dedicated to various deities?",
       "options": [
-        "Nalanda University",
-        "Takshashila",
-        "Valabhi University",
-        "Sarnath University"
+        "Arthashastra",
+        "Vedas",
+        "Mahabharata",
+        "Upanishads"
       ],
-      "correct": 0,
-      "explanation": "Nalanda University was one of the world's first residential universities and is often called the 'Oxford of the East' due to its historical significance and educational prominence."
+      "correct": 1,
+      "explanation": "The Vedas are ancient Indian texts consisting mainly of hymns and are foundational to Indian spirituality and religion."
     },
     {
       "id": 2,
-      "category": "Indian History",
-      "question": "Who was the founder of the Mughal Empire in India?",
+      "category": "Medieval Indian History",
+      "question": "The construction of the Qutub Minar was commissioned by which ruler?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Sher Shah Suri",
-        "Humayun"
+        "Muhammad bin Qasim",
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Firoz Shah Tughlaq"
       ],
-      "correct": 0,
-      "explanation": "Babur founded the Mughal Empire in India after his victory at Panipat in 1526."
+      "correct": 1,
+      "explanation": "Qutb-ud-din Aibak initiated the construction of Qutub Minar in Delhi, which was completed by his successor Iltutmish."
     },
     {
       "id": 3,
-      "category": "Indian History",
-      "question": "Which movement is associated with Mahatma Gandhi’s call for non-violent resistance?",
+      "category": "Modern Indian History",
+      "question": "The Non-Cooperation Movement was launched in which year?",
       "options": [
-        "Non-Cooperation Movement",
-        "Civil Disobedience Movement",
-        "Khilafat Movement",
-        "Swadeshi Movement"
+        "1920",
+        "1919",
+        "1930",
+        "1918"
       ],
       "correct": 1,
-      "explanation": "The Civil Disobedience Movement, launched by Gandhi in 1930, emphasized non-violent resistance against British rule."
+      "explanation": "The Non-Cooperation Movement was launched in 1920 under Mahatma Gandhi’s leadership to resist British rule through non-violent means."
     },
     {
       "id": 4,
-      "category": "Indian History",
-      "question": "The Indian National Congress was founded in which year?",
+      "category": "Freedom Struggle",
+      "question": "Who among the following leaders played a key role in the Champaran Satyagraha?",
       "options": [
-        "1885",
-        "1905",
-        "1857",
-        "1920"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "B.R. Ambedkar"
       ],
-      "correct": 0,
-      "explanation": "The Indian National Congress was founded in 1885 as a platform for Indian political activism against British rule."
+      "correct": 1,
+      "explanation": "Mahatma Gandhi led the Champaran Satyagraha in 1917 to protest against indigo farmers' exploitation."
     },
     {
       "id": 5,
-      "category": "Indian History",
-      "question": "Which treaty marked the end of the First War of Indian Independence in 1857?",
+      "category": "Indian Geography",
+      "question": "Which is the longest river in India?",
       "options": [
-        "Treaty of Allahabad",
-        "Treaty of Seringapatam",
-        "Treaty of Kanpur",
-        "Treaty of Jaipur"
+        "Ganges",
+        "Godavari",
+        "Indus",
+        "Brahmaputra"
       ],
-      "correct": 2,
-      "explanation": "The Treaty of Kanpur marked the suppression of the 1857 uprising and the reorganization of colonial control."
+      "correct": 0,
+      "explanation": "The Ganges River is the longest river in India, flowing through northern India and Bangladesh."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is the longest in India?",
+      "question": "The Thar Desert is primarily located in which Indian state?",
       "options": [
-        "Ganges",
-        "Godavari",
-        "Brahmaputra",
-        "Indus"
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "correct": 1,
-      "explanation": "The Godavari is the longest river in India, flowing for over 1,400 km."
+      "correct": 0,
+      "explanation": "The Thar Desert is mainly situated in Rajasthan, covering a significant part of the state."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "The Thar Desert is mainly located in which Indian states?",
-      "options": [
-        "Rajasthan and Gujarat",
-        "Punjab and Haryana",
-        "Uttar Pradesh and Bihar",
-        "Maharashtra and Karnataka"
-      ],
-      "correct": 0,
-      "explanation": "The Thar Desert extends primarily into Rajasthan and parts of Gujarat."
-    },
-    {
-      "id": 8,
-      "category": "Indian Geography",
-      "question": "Which is the primary driver of the monsoon in India?",
-      "options": [
-        "Intertropical Convergence Zone",
-        "Western Disturbances",
-        "South-West Monsoon Trough",
-        "Jet Streams"
-      ],
-      "correct": 2,
-      "explanation": "The South-West Monsoon Trough is the main atmospheric feature that influences the Indian monsoon."
-    },
-    {
-      "id": 9,
-      "category": "Indian Geography",
-      "question": "Which resource is most abundant in the Indian state of Jharkhand?",
+      "question": "Which resource is most abundant in the state of Jharkhand?",
       "options": [
         "Coal",
         "Petroleum",
-        "Bauxite",
-        "Manganese"
+        "Gold",
+        "Uranium"
       ],
       "correct": 0,
       "explanation": "Jharkhand is rich in coal deposits, making it a major coal-producing state."
     },
     {
+      "id": 8,
+      "category": "Indian Geography",
+      "question": "Which climate zone is predominant in the western parts of India?",
+      "options": [
+        "Tropical Monsoon",
+        "Arid Desert",
+        "Humid Subtropical",
+        "Mountain Climate"
+      ],
+      "correct": 1,
+      "explanation": "The western parts of India, such as Rajasthan, feature an arid desert climate."
+    },
+    {
+      "id": 9,
+      "category": "Indian Polity & Governance",
+      "question": "Who is the current President of India?",
+      "options": [
+        "Ram Nath Kovind",
+        "Droupadi Murmu",
+        "Pranab Mukherjee",
+        "K. R. Narayanan"
+      ],
+      "correct": 1,
+      "explanation": "Droupadi Murmu is the current President of India, since 25 July 2022."
+    },
+    {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "The total number of members in the Lok Sabha is:",
       "options": [
-        "President of India",
-        "Prime Minister of India",
-        "Lok Sabha Speaker",
-        "Chief Justice of India"
+        "545",
+        "550",
+        "545",
+        "552"
       ],
-      "correct": 0,
-      "explanation": "The Chief Justice of India is appointed by the President of India."
+      "correct": 2,
+      "explanation": "The Lok Sabha has 545 members, including 543 elected and 2 nominated members."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Union List?",
+      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
       "options": [
-        "Article 246",
-        "Article 250",
-        "Article 257",
-        "Article 292"
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Articles 12-35"
       ],
-      "correct": 0,
-      "explanation": "Article 246 of the Indian Constitution specifies the subjects in the Union List."
+      "correct": 3,
+      "explanation": "Articles 12 to 35 of the Indian Constitution collectively deal with Fundamental Rights."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system is specified under which part of the Indian Constitution?",
-      "options": [
-        "Part IX",
-        "Part VIII",
-        "Part XI",
-        "Part XII"
-      ],
-      "correct": 0,
-      "explanation": "Part IX of the Indian Constitution deals with Panchayats."
-    },
-    {
-      "id": 13,
-      "category": "Indian Polity & Governance",
-      "question": "Which fundamental right protects the right to equality?",
-      "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right against Exploitation",
-        "Cultural and Educational Rights"
-      ],
-      "correct": 0,
-      "explanation": "The Right to Equality is enshrined in Article 14-18 of the Constitution."
-    },
-    {
-      "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "Who is the constitutional head of the State in India?",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
         "President of India",
         "Prime Minister",
-        "Chief Justice of India",
-        "Vice President"
+        "Lok Sabha",
+        "Chief Justice of India"
       ],
       "correct": 0,
-      "explanation": "The President of India is the constitutional head of the State."
+      "explanation": "The President of India appoints the Chief Justice of India."
+    },
+    {
+      "id": 13,
+      "category": "Indian Economy",
+      "question": "India’s GDP is classified as which type of economy?",
+      "options": [
+        "Mixed Economy",
+        "Command Economy",
+        "Traditional Economy",
+        "Market Economy"
+      ],
+      "correct": 0,
+      "explanation": "India has a mixed economy with both private and public sector participation."
+    },
+    {
+      "id": 14,
+      "category": "Indian Economy",
+      "question": "The Union Budget of India is presented by the:",
+      "options": [
+        "President",
+        "Finance Minister",
+        "Prime Minister",
+        "Lok Sabha Speaker"
+      ],
+      "correct": 1,
+      "explanation": "The Finance Minister presents the Union Budget in Parliament."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "India's Gross Domestic Product (GDP) growth rate for 2024-25 is approximately?",
+      "question": "Which sector contributes the most to India's GDP?",
       "options": [
-        "6.5%",
-        "7.2%",
-        "8.1%",
-        "5.8%"
+        "Agriculture",
+        "Manufacturing",
+        "Services",
+        "Mining"
       ],
-      "correct": 1,
-      "explanation": "India's estimated GDP growth rate for 2024-25 is around 7.2%, reflecting recent economic growth trends."
+      "correct": 2,
+      "explanation": "The services sector contributes the largest share to India’s GDP."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which institution manages the Monetary Policy in India?",
+      "question": "The 'Make in India' initiative was launched in which year?",
       "options": [
-        "Reserve Bank of India",
-        "Ministry of Finance",
-        "Securities and Exchange Board of India",
-        "India Development Fund"
+        "2014",
+        "2015",
+        "2016",
+        "2018"
       ],
       "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) is responsible for managing monetary policy."
+      "explanation": "Make in India was launched in 2014 to promote manufacturing."
     },
     {
       "id": 17,
-      "category": "Indian Economy",
-      "question": "What is the primary aim of the Make in India campaign?",
+      "category": "General Science",
+      "question": "Which of the following is a noble gas?",
       "options": [
-        "Promote manufacturing and industry",
-        "Increase agricultural exports",
-        "Develop IT infrastructure",
-        "Expand rural economy"
+        "Oxygen",
+        "Nitrogen",
+        "Argon",
+        "Carbon Dioxide"
       ],
-      "correct": 0,
-      "explanation": "Make in India aims to promote manufacturing, attract investments, and boost industrial growth."
+      "correct": 2,
+      "explanation": "Argon is a noble gas belonging to Group 18 of the periodic table."
     },
     {
       "id": 18,
-      "category": "Indian Economy",
-      "question": "The 'Goods and Services Tax' (GST) was implemented in which year?",
+      "category": "General Science",
+      "question": "The process of photosynthesis primarily occurs in which part of the plant?",
       "options": [
-        "2016",
-        "2014",
-        "2018",
-        "2012"
+        "Root",
+        "Stem",
+        "Leaves",
+        "Flowers"
       ],
-      "correct": 0,
-      "explanation": "GST was implemented in India on July 1, 2017, but the legislative process started in 2016, making 2016 the key year for its rollout."
+      "correct": 2,
+      "explanation": "Photosynthesis mainly occurs in the leaves, which contain chlorophyll."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which law explains the phenomenon of electromagnetic induction?",
+      "question": "Which technology is used in satellites for communication?",
       "options": [
-        "Faraday's Law",
-        "Ohm's Law",
-        "Lenz's Law",
-        "Newton's Law"
+        "RFID",
+        "Infrared",
+        "Radio Frequency",
+        "Wi-Fi"
       ],
-      "correct": 0,
-      "explanation": "Faraday's Law of electromagnetic induction explains how a changing magnetic field induces an electric current."
+      "correct": 2,
+      "explanation": "Satellites use Radio Frequency (RF) technology for communication."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "The element with atomic number 6 is?",
+      "question": "The unit of electric resistance is called:",
       "options": [
-        "Carbon",
-        "Oxygen",
-        "Nitrogen",
-        "Helium"
+        "Ohm",
+        "Tesla",
+        "Farad",
+        "Henry"
       ],
       "correct": 0,
-      "explanation": "Carbon, with atomic number 6, is fundamental to organic chemistry."
+      "explanation": "Ohm (Ω) is the SI unit of electrical resistance."
     },
     {
       "id": 21,
-      "category": "General Science",
-      "question": "Which organ in the human body is primarily responsible for detoxification?",
+      "category": "Environment & Ecology",
+      "question": "Which of the following is a biodiversity hotspot in India?",
       "options": [
-        "Liver",
-        "Kidneys",
-        "Lungs",
-        "Heart"
+        "Western Ghats",
+        "Thar Desert",
+        "Gulf of Mannar",
+        "Indus-Ganga Plain"
       ],
       "correct": 0,
-      "explanation": "The liver detoxifies various metabolites and harmful substances in the body."
+      "explanation": "Western Ghats is a recognized biodiversity hotspot in India."
     },
     {
       "id": 22,
-      "category": "General Science",
-      "question": "Which technology is used in the Global Positioning System (GPS)?",
+      "category": "Environment & Ecology",
+      "question": "The Convention on Biological Diversity was signed in which year?",
       "options": [
-        "Satellite-based navigation",
-        "Infrared signals",
-        "Ultrasound waves",
-        "Radioactive markers"
+        "1992",
+        "2000",
+        "1980",
+        "2010"
       ],
       "correct": 0,
-      "explanation": "GPS uses satellite signals to provide location data worldwide."
+      "explanation": "The Convention on Biological Diversity was signed at the Earth Summit in Rio de Janeiro in 1992."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which is the largest biodiversity hotspot in India?",
+      "question": "Which protected area is famous for the Bengal tiger?",
       "options": [
-        "The Western Ghats",
-        "The Himalayas",
-        "The Indo-Burma region",
-        "The Sundaland"
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Gir Forest",
+        "Periyar Wildlife Sanctuary"
       ],
-      "correct": 0,
-      "explanation": "The Western Ghats is recognized as one of the eight hottest biodiversity hotspots in the world."
+      "correct": 1,
+      "explanation": "The Sundarbans is famous for its Bengal tigers."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which law is primarily aimed at protecting the environment in India?",
+      "question": "Which law is primarily responsible for environmental protection in India?",
       "options": [
-        "Environment Protection Act, 1986",
-        "Wildlife Protection Act, 1972",
-        "Air Act, 1981",
-        "Water Act, 1974"
+        "Wildlife Protection Act",
+        "Air Act",
+        "Environment Protection Act",
+        "Water Act"
       ],
-      "correct": 0,
-      "explanation": "The Environment Protection Act, 1986, is the comprehensive law for environmental protection."
+      "correct": 2,
+      "explanation": "The Environment Protection Act, 1986, is the overarching legislation for environmental protection."
     },
     {
       "id": 25,
-      "category": "Environment & Ecology",
-      "question": "Which of the following are UNESCO World Heritage Sites in India?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Chief Minister of Odisha?",
       "options": [
-        "Taj Mahal",
-        "Kanchipuram Temples",
-        "Sundarbans National Park",
-        "All of the above"
+        "Naveen Patnaik",
+        "Mohan Charan Majhi",
+        "Pinarayi Vijayan",
+        "Hemant Soren"
       ],
-      "correct": 3,
-      "explanation": "All listed sites are UNESCO World Heritage Sites in India."
+      "correct": 1,
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
     },
     {
       "id": 26,
-      "category": "Environment & Ecology",
-      "question": "Climate change impacts include all EXCEPT:",
-      "options": [
-        "Rising sea levels",
-        "Decreased frequency of extreme weather events",
-        "Melting glaciers",
-        "Increased frequency of droughts"
-      ],
-      "correct": 1,
-      "explanation": "Climate change has increased, not decreased, the frequency of extreme weather events."
-    },
-    {
-      "id": 27,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current President of India?",
-      "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "A.P.J. Abdul Kalam"
-      ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs & General Knowledge",
+      "category": "Current Affairs & GK",
       "question": "Who is the current External Affairs Minister of India?",
       "options": [
         "S. Jaishankar",
         "Nirmala Sitharaman",
-        "Piyush Goyal",
-        "Amit Shah"
+        "Subrahmanyam Jaishankar",
+        "A. K. Antony"
       ],
       "correct": 0,
-      "explanation": "S. Jaishankar has been serving as the External Affairs Minister since 2019."
+      "explanation": "S. Jaishankar is the current External Affairs Minister of India."
+    },
+    {
+      "id": 27,
+      "category": "Current Affairs & GK",
+      "question": "Which international organization awarded the Nobel Peace Prize in 2022?",
+      "options": [
+        "World Food Programme",
+        "United Nations",
+        "WHO",
+        "UNICEF"
+      ],
+      "correct": 0,
+      "explanation": "The World Food Programme received the Nobel Peace Prize in 2022."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs & GK",
+      "question": "Which scheme was launched by the Government of India to promote digital payments?",
+      "options": [
+        "Digital India",
+        "Cashless India",
+        "Digital Payments Initiative",
+        "e-RUPI"
+      ],
+      "correct": 1,
+      "explanation": "Cashless India promotes digital transactions and cashless payments."
     },
     {
       "id": 29,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Mohan Charan Majhi is the Chief Minister of which Indian state?",
+      "category": "Current Affairs & GK",
+      "question": "Which sports event did India co-host in 2023?",
       "options": [
-        "Odisha",
-        "West Bengal",
-        "Bihar",
-        "Jharkhand"
+        "FIFA World Cup",
+        "Asian Games",
+        "Commonwealth Games",
+        "ICC Cricket World Cup"
       ],
-      "correct": 0,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "correct": 1,
+      "explanation": "India co-hosted the Asian Games in 2023."
     },
     {
       "id": 30,
-      "category": "Current Affairs & General Knowledge",
+      "category": "Current Affairs & GK",
       "question": "Who is the current Vice President of India?",
       "options": [
+        "Venkaiah Naidu",
         "C. P. Radhakrishnan",
         "Jagdeep Dhankhar",
-        "Venkaiah Naidu",
-        "Hamid Ansari"
+        "M. Venkaiah Naidu"
       ],
-      "correct": 0,
-      "explanation": "C. P. Radhakrishnan is the Vice President of India since 12 September 2025."
+      "correct": 1,
+      "explanation": "C. P. Radhakrishnan has been the Vice President of India since 12 September 2025."
     }
   ]
 }
