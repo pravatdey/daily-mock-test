@@ -1,78 +1,91 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Ancient Indian History",
-      "question": "Which ancient Indian text is primarily a collection of hymns dedicated to various deities?",
+      "category": "Indian History",
+      "question": "Which ancient university was located in Taxila, one of the earliest centers of higher learning in India?",
       "options": [
-        "Arthashastra",
-        "Vedas",
-        "Mahabharata",
-        "Upanishads"
+        "Nalanda",
+        "Takshashila",
+        "Valabhi",
+        "Kanchi"
       ],
       "correct": 1,
-      "explanation": "The Vedas are ancient Indian texts consisting mainly of hymns and are foundational to Indian spirituality and religion."
+      "explanation": "Takshashila (Taxila) was an ancient university renowned for higher education in ancient India, especially during the Mauryan and Gupta periods."
     },
     {
       "id": 2,
-      "category": "Medieval Indian History",
-      "question": "The construction of the Qutub Minar was commissioned by which ruler?",
+      "category": "Indian History",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Muhammad bin Qasim",
-        "Qutb-ud-din Aibak",
-        "Iltutmish",
-        "Firoz Shah Tughlaq"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "correct": 1,
-      "explanation": "Qutb-ud-din Aibak initiated the construction of Qutub Minar in Delhi, which was completed by his successor Iltutmish."
+      "correct": 0,
+      "explanation": "Babur founded the Mughal Empire in India after his victory at Panipat in 1526."
     },
     {
       "id": 3,
-      "category": "Modern Indian History",
+      "category": "Indian History",
       "question": "The Non-Cooperation Movement was launched in which year?",
       "options": [
         "1920",
         "1919",
         "1930",
-        "1918"
+        "1942"
       ],
       "correct": 1,
-      "explanation": "The Non-Cooperation Movement was launched in 1920 under Mahatma Gandhi’s leadership to resist British rule through non-violent means."
+      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920 as a mass protest against British rule."
     },
     {
       "id": 4,
-      "category": "Freedom Struggle",
-      "question": "Who among the following leaders played a key role in the Champaran Satyagraha?",
+      "category": "Indian History",
+      "question": "Who was the leader of the Salt Satyagraha in 1930?",
       "options": [
-        "Jawaharlal Nehru",
         "Mahatma Gandhi",
+        "Jawaharlal Nehru",
         "Subhas Chandra Bose",
-        "B.R. Ambedkar"
+        "Bhagat Singh"
       ],
-      "correct": 1,
-      "explanation": "Mahatma Gandhi led the Champaran Satyagraha in 1917 to protest against indigo farmers' exploitation."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi led the Salt Satyagraha as part of his civil disobedience movement against salt taxes."
     },
     {
       "id": 5,
-      "category": "Indian Geography",
-      "question": "Which is the longest river in India?",
+      "category": "Indian History",
+      "question": "Which event marked the end of the Indian freedom struggle and India's independence?",
       "options": [
-        "Ganges",
-        "Godavari",
-        "Indus",
-        "Brahmaputra"
+        "Partition of India",
+        "Qutub Minar Inscription",
+        "Transfer of Power Act 1947",
+        "Independence Day 1947"
       ],
-      "correct": 0,
-      "explanation": "The Ganges River is the longest river in India, flowing through northern India and Bangladesh."
+      "correct": 3,
+      "explanation": "India gained independence on August 15, 1947, marking the end of British colonial rule."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "The Thar Desert is primarily located in which Indian state?",
+      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
+      "options": [
+        "Ganges",
+        "Kosi",
+        "Yamuna",
+        "Ghaghara"
+      ],
+      "correct": 1,
+      "explanation": "The Kosi River is called the 'Sorrow of Bihar' because of recurrent floods affecting the region."
+    },
+    {
+      "id": 7,
+      "category": "Indian Geography",
+      "question": "The Indian Desert is mainly found in which state?",
       "options": [
         "Rajasthan",
         "Gujarat",
@@ -80,103 +93,103 @@
         "Haryana"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert is mainly situated in Rajasthan, covering a significant part of the state."
-    },
-    {
-      "id": 7,
-      "category": "Indian Geography",
-      "question": "Which resource is most abundant in the state of Jharkhand?",
-      "options": [
-        "Coal",
-        "Petroleum",
-        "Gold",
-        "Uranium"
-      ],
-      "correct": 0,
-      "explanation": "Jharkhand is rich in coal deposits, making it a major coal-producing state."
+      "explanation": "The Thar Desert, also known as the Indian Desert, is primarily located in Rajasthan."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which climate zone is predominant in the western parts of India?",
+      "question": "Which is the largest freshwater lake in India?",
       "options": [
-        "Tropical Monsoon",
-        "Arid Desert",
-        "Humid Subtropical",
-        "Mountain Climate"
+        "Vembanad Lake",
+        "Pulicat Lake",
+        "Dal Lake",
+        "Chilika Lake"
       ],
-      "correct": 1,
-      "explanation": "The western parts of India, such as Rajasthan, feature an arid desert climate."
+      "correct": 0,
+      "explanation": "Vembanad Lake in Kerala is the largest freshwater lake in India."
     },
     {
       "id": 9,
-      "category": "Indian Polity & Governance",
-      "question": "Who is the current President of India?",
+      "category": "Indian Geography",
+      "question": "Which Indian state is the leading producer of tea?",
       "options": [
-        "Ram Nath Kovind",
-        "Droupadi Murmu",
-        "Pranab Mukherjee",
-        "K. R. Narayanan"
+        "Assam",
+        "West Bengal",
+        "Tamil Nadu",
+        "Karnataka"
       ],
-      "correct": 1,
-      "explanation": "Droupadi Murmu is the current President of India, since 25 July 2022."
+      "correct": 0,
+      "explanation": "Assam is the largest producer of tea in India, known worldwide for its Assam tea."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "The total number of members in the Lok Sabha is:",
+      "question": "Who is the current President of India (as of 2026-05-13)?",
       "options": [
-        "545",
-        "550",
-        "545",
-        "552"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pratibha Patil",
+        "Shankar Dayal Sharma"
       ],
-      "correct": 2,
-      "explanation": "The Lok Sabha has 545 members, including 543 elected and 2 nominated members."
+      "correct": 0,
+      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
+      "question": "The Lok Sabha is composed of members directly elected by whom?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Articles 12-35"
+        "Members of legislative assemblies",
+        "Members of electoral college",
+        "Citizens of India",
+        "Members of Rajya Sabha"
       ],
-      "correct": 3,
-      "explanation": "Articles 12 to 35 of the Indian Constitution collectively deal with Fundamental Rights."
+      "correct": 2,
+      "explanation": "Members of the Lok Sabha are directly elected by Indian citizens aged 18 and above through general elections."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
+      "question": "Which article of the Indian Constitution guarantees Fundamental Rights?",
+      "options": [
+        "Article 14",
+        "Articles 12-35",
+        "Article 19",
+        "Article 370"
+      ],
+      "correct": 1,
+      "explanation": "Articles 12-35 of the Indian Constitution collectively guarantee Fundamental Rights to citizens."
+    },
+    {
+      "id": 13,
+      "category": "Indian Polity & Governance",
       "question": "Who appoints the Chief Justice of India?",
       "options": [
         "President of India",
-        "Prime Minister",
-        "Lok Sabha",
-        "Chief Justice of India"
+        "Prime Minister of India",
+        "Lok Sabha Speaker",
+        "Chief Minister"
       ],
       "correct": 0,
       "explanation": "The President of India appoints the Chief Justice of India."
     },
     {
-      "id": 13,
-      "category": "Indian Economy",
-      "question": "India’s GDP is classified as which type of economy?",
+      "id": 14,
+      "category": "Indian Polity & Governance",
+      "question": "The Panchayati Raj system was constitutionalized in which amendment?",
       "options": [
-        "Mixed Economy",
-        "Command Economy",
-        "Traditional Economy",
-        "Market Economy"
+        "73rd Amendment",
+        "42nd Amendment",
+        "44th Amendment",
+        "86th Amendment"
       ],
       "correct": 0,
-      "explanation": "India has a mixed economy with both private and public sector participation."
+      "explanation": "The 73rd Amendment Act, 1992, constitutionalized the Panchayati Raj system."
     },
     {
-      "id": 14,
+      "id": 15,
       "category": "Indian Economy",
-      "question": "The Union Budget of India is presented by the:",
+      "question": "The Budget of the Government of India is presented by whom?",
       "options": [
         "President",
         "Finance Minister",
@@ -187,100 +200,113 @@
       "explanation": "The Finance Minister presents the Union Budget in Parliament."
     },
     {
-      "id": 15,
-      "category": "Indian Economy",
-      "question": "Which sector contributes the most to India's GDP?",
-      "options": [
-        "Agriculture",
-        "Manufacturing",
-        "Services",
-        "Mining"
-      ],
-      "correct": 2,
-      "explanation": "The services sector contributes the largest share to India’s GDP."
-    },
-    {
       "id": 16,
       "category": "Indian Economy",
-      "question": "The 'Make in India' initiative was launched in which year?",
+      "question": "Which organization is responsible for controlling inflation and monetary policy in India?",
       "options": [
-        "2014",
-        "2015",
-        "2016",
-        "2018"
+        "Reserve Bank of India",
+        "Ministry of Finance",
+        "SEBI",
+        "NITI Aayog"
       ],
       "correct": 0,
-      "explanation": "Make in India was launched in 2014 to promote manufacturing."
+      "explanation": "The Reserve Bank of India (RBI) controls monetary policy and inflation in India."
     },
     {
       "id": 17,
-      "category": "General Science",
-      "question": "Which of the following is a noble gas?",
+      "category": "Indian Economy",
+      "question": "GDP stands for?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Argon",
-        "Carbon Dioxide"
+        "Gross Domestic Product",
+        "Gross Development Program",
+        "General Domestic Production",
+        "Gross Domestic Price"
       ],
-      "correct": 2,
-      "explanation": "Argon is a noble gas belonging to Group 18 of the periodic table."
+      "correct": 0,
+      "explanation": "GDP stands for Gross Domestic Product, measuring the total value of goods and services produced in a country."
     },
     {
       "id": 18,
-      "category": "General Science",
-      "question": "The process of photosynthesis primarily occurs in which part of the plant?",
+      "category": "Indian Economy",
+      "question": "Which Five Year Plan emphasized 'Self-Reliance'?",
       "options": [
-        "Root",
-        "Stem",
-        "Leaves",
-        "Flowers"
+        "First Five Year Plan",
+        "Second Five Year Plan",
+        "Third Five Year Plan",
+        "Fifth Five Year Plan"
       ],
-      "correct": 2,
-      "explanation": "Photosynthesis mainly occurs in the leaves, which contain chlorophyll."
+      "correct": 3,
+      "explanation": "The Fifth Five Year Plan (1974-1979) emphasized 'Self-Reliance'."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which technology is used in satellites for communication?",
+      "question": "Which planet is known as the 'Red Planet'?",
       "options": [
-        "RFID",
-        "Infrared",
-        "Radio Frequency",
-        "Wi-Fi"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
-      "correct": 2,
-      "explanation": "Satellites use Radio Frequency (RF) technology for communication."
+      "correct": 1,
+      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide on its surface."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "The unit of electric resistance is called:",
+      "question": "The process of photosynthesis occurs in which part of a plant?",
       "options": [
-        "Ohm",
-        "Tesla",
-        "Farad",
-        "Henry"
+        "Root",
+        "Stem",
+        "Leaf",
+        "Flower"
       ],
-      "correct": 0,
-      "explanation": "Ohm (Ω) is the SI unit of electrical resistance."
+      "correct": 2,
+      "explanation": "Photosynthesis primarily occurs in the leaves of plants, where chlorophyll captures sunlight."
     },
     {
       "id": 21,
-      "category": "Environment & Ecology",
-      "question": "Which of the following is a biodiversity hotspot in India?",
+      "category": "General Science",
+      "question": "Which gas is most abundant in Earth's atmosphere?",
       "options": [
-        "Western Ghats",
-        "Thar Desert",
-        "Gulf of Mannar",
-        "Indus-Ganga Plain"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Argon"
       ],
-      "correct": 0,
-      "explanation": "Western Ghats is a recognized biodiversity hotspot in India."
+      "correct": 1,
+      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, making it the most abundant gas."
     },
     {
       "id": 22,
+      "category": "General Science",
+      "question": "The Hubble Space Telescope is primarily used to observe?",
+      "options": [
+        "Ground-based phenomena",
+        "Deep space objects",
+        "Oceanic activities",
+        "Earth's atmosphere"
+      ],
+      "correct": 1,
+      "explanation": "Hubble Space Telescope observes deep space, galaxies, stars, and cosmic phenomena beyond Earth's atmosphere."
+    },
+    {
+      "id": 23,
       "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity was signed in which year?",
+      "question": "Which of the following is a biodiversity hotspot in India?",
+      "options": [
+        "Sundaland",
+        "Western Ghats",
+        "Great Barrier Reef",
+        "Amazon Rainforest"
+      ],
+      "correct": 1,
+      "explanation": "Western Ghats is a recognized biodiversity hotspot in India due to its rich endemic species and ecological significance."
+    },
+    {
+      "id": 24,
+      "category": "Environment & Ecology",
+      "question": "The Convention on Biological Diversity was adopted in which year?",
       "options": [
         "1992",
         "2000",
@@ -288,111 +314,85 @@
         "2010"
       ],
       "correct": 0,
-      "explanation": "The Convention on Biological Diversity was signed at the Earth Summit in Rio de Janeiro in 1992."
-    },
-    {
-      "id": 23,
-      "category": "Environment & Ecology",
-      "question": "Which protected area is famous for the Bengal tiger?",
-      "options": [
-        "Kaziranga National Park",
-        "Sundarbans National Park",
-        "Gir Forest",
-        "Periyar Wildlife Sanctuary"
-      ],
-      "correct": 1,
-      "explanation": "The Sundarbans is famous for its Bengal tigers."
-    },
-    {
-      "id": 24,
-      "category": "Environment & Ecology",
-      "question": "Which law is primarily responsible for environmental protection in India?",
-      "options": [
-        "Wildlife Protection Act",
-        "Air Act",
-        "Environment Protection Act",
-        "Water Act"
-      ],
-      "correct": 2,
-      "explanation": "The Environment Protection Act, 1986, is the overarching legislation for environmental protection."
+      "explanation": "The Convention on Biological Diversity was adopted in 1992 during the Earth Summit in Rio de Janeiro."
     },
     {
       "id": 25,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current Chief Minister of Odisha?",
+      "category": "Environment & Ecology",
+      "question": "Which international agreement aims to combat climate change?",
       "options": [
-        "Naveen Patnaik",
-        "Mohan Charan Majhi",
-        "Pinarayi Vijayan",
-        "Hemant Soren"
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Basel Convention",
+        "Paris Agreement"
       ],
-      "correct": 1,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "correct": 3,
+      "explanation": "The Paris Agreement is a global treaty to limit global warming and combat climate change."
     },
     {
       "id": 26,
+      "category": "Environment & Ecology",
+      "question": "Which Indian law regulates environmental protection?",
+      "options": [
+        "Wildlife Protection Act",
+        "Environment Protection Act",
+        "Forests Act",
+        "Water Act"
+      ],
+      "correct": 1,
+      "explanation": "The Environment Protection Act, 1986, is a comprehensive law for environmental regulation in India."
+    },
+    {
+      "id": 27,
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Chief Minister of Odisha?",
+      "options": [
+        "Mohan Charan Majhi",
+        "Naveen Patnaik",
+        "Basanta Kumar Panda",
+        "Pritiranjan Ghadai"
+      ],
+      "correct": 0,
+      "explanation": "Mohan Charan Majhi has been the Chief Minister of Odisha since 12 June 2024."
+    },
+    {
+      "id": 28,
       "category": "Current Affairs & GK",
       "question": "Who is the current External Affairs Minister of India?",
       "options": [
         "S. Jaishankar",
         "Nirmala Sitharaman",
         "Subrahmanyam Jaishankar",
-        "A. K. Antony"
+        "Rajiv Mehrishi"
       ],
       "correct": 0,
-      "explanation": "S. Jaishankar is the current External Affairs Minister of India."
-    },
-    {
-      "id": 27,
-      "category": "Current Affairs & GK",
-      "question": "Which international organization awarded the Nobel Peace Prize in 2022?",
-      "options": [
-        "World Food Programme",
-        "United Nations",
-        "WHO",
-        "UNICEF"
-      ],
-      "correct": 0,
-      "explanation": "The World Food Programme received the Nobel Peace Prize in 2022."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs & GK",
-      "question": "Which scheme was launched by the Government of India to promote digital payments?",
-      "options": [
-        "Digital India",
-        "Cashless India",
-        "Digital Payments Initiative",
-        "e-RUPI"
-      ],
-      "correct": 1,
-      "explanation": "Cashless India promotes digital transactions and cashless payments."
+      "explanation": "S. Jaishankar has been serving as the External Affairs Minister since 2019."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Which sports event did India co-host in 2023?",
+      "question": "Which prestigious award was recently conferred upon Indian athlete Neeraj Chopra?",
       "options": [
-        "FIFA World Cup",
-        "Asian Games",
-        "Commonwealth Games",
-        "ICC Cricket World Cup"
+        "Padma Bhushan",
+        "Rajiv Gandhi Khel Ratna",
+        "Padma Shri",
+        "Arjuna Award"
       ],
       "correct": 1,
-      "explanation": "India co-hosted the Asian Games in 2023."
+      "explanation": "Neeraj Chopra received the Rajiv Gandhi Khel Ratna, India's highest sporting honor."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Vice President of India?",
+      "question": "The 'Startup India' scheme was launched in which year?",
       "options": [
-        "Venkaiah Naidu",
-        "C. P. Radhakrishnan",
-        "Jagdeep Dhankhar",
-        "M. Venkaiah Naidu"
+        "2016",
+        "2015",
+        "2018",
+        "2020"
       ],
-      "correct": 1,
-      "explanation": "C. P. Radhakrishnan has been the Vice President of India since 12 September 2025."
+      "correct": 0,
+      "explanation": "Startup India was launched in 2016 to promote entrepreneurship and innovation."
     }
   ]
 }
