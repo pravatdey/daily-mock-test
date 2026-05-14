@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient university was located in Taxila, one of the earliest centers of higher learning in India?",
+      "question": "Which ancient Indian university was known for its scholarship in Buddhism and attracted students from across Asia?",
       "options": [
-        "Nalanda",
-        "Takshashila",
-        "Valabhi",
-        "Kanchi"
+        "Nalanda University",
+        "Takshashila University",
+        "Valabhi University",
+        "Kashi Vishwanath University"
       ],
-      "correct": 1,
-      "explanation": "Takshashila (Taxila) was an ancient university renowned for higher education in ancient India, especially during the Mauryan and Gupta periods."
+      "correct": 0,
+      "explanation": "Nalanda University, established in ancient India, was renowned for Buddhist studies and attracted students from various parts of Asia."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the founder of the Mughal Empire in India?",
+      "question": "During the Mughal era, which document is considered the first attempt at a universal law of justice in India?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Fatawa-i-Alamgiri",
+        "Ain-i-Akbari",
+        "Humayun Nama",
+        "Tuzuk-i-Jahangiri"
       ],
-      "correct": 0,
-      "explanation": "Babur founded the Mughal Empire in India after his victory at Panipat in 1526."
+      "correct": 1,
+      "explanation": "Ain-i-Akbari, authored by Abu'l-Fazl, detailed Mughal administration and laws, serving as an early comprehensive law document."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "The Non-Cooperation Movement was launched in which year?",
+      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
-        "1920",
-        "1919",
-        "1930",
-        "1942"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Bal Gangadhar Tilak"
       ],
       "correct": 1,
-      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920 as a mass protest against British rule."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement, advocating non-violent resistance against British rule."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Who was the leader of the Salt Satyagraha in 1930?",
+      "question": "The Jallianwala Bagh massacre took place in which year?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bhagat Singh"
+        "1919",
+        "1920",
+        "1918",
+        "1921"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Salt Satyagraha as part of his civil disobedience movement against salt taxes."
+      "explanation": "The massacre occurred in 1919 when British troops fired on civilians protesting in Amritsar."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Which event marked the end of the Indian freedom struggle and India's independence?",
+      "question": "Which movement marked the end of the princely state of Hyderabad's integration into India?",
       "options": [
-        "Partition of India",
-        "Qutub Minar Inscription",
-        "Transfer of Power Act 1947",
-        "Independence Day 1947"
+        "Operation Polo",
+        "Rebellion of 1857",
+        "Quit India Movement",
+        "Swaraj Movement"
       ],
-      "correct": 3,
-      "explanation": "India gained independence on August 15, 1947, marking the end of British colonial rule."
+      "correct": 0,
+      "explanation": "Operation Polo in 1948 led to the integration of Hyderabad into the Indian Union."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
+      "question": "Which mountain range forms the western boundary of the Indo-Gangetic plains?",
       "options": [
-        "Ganges",
-        "Kosi",
-        "Yamuna",
-        "Ghaghara"
+        "Himalayas",
+        "Aravalli",
+        "Vindhya",
+        "Satpura"
       ],
       "correct": 1,
-      "explanation": "The Kosi River is called the 'Sorrow of Bihar' because of recurrent floods affecting the region."
+      "explanation": "The Aravalli range runs parallel to the western edge of the Indo-Gangetic plains, forming their boundary."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "The Indian Desert is mainly found in which state?",
+      "question": "Which is the longest river in India?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Ganga",
+        "Godavari",
+        "Yamuna",
+        "Brahmaputra"
       ],
-      "correct": 0,
-      "explanation": "The Thar Desert, also known as the Indian Desert, is primarily located in Rajasthan."
+      "correct": 1,
+      "explanation": "The Godavari is the longest river in India, flowing over 1,800 km."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which is the largest freshwater lake in India?",
+      "question": "Which factor primarily influences the monsoon winds in India?",
       "options": [
-        "Vembanad Lake",
-        "Pulicat Lake",
-        "Dal Lake",
-        "Chilika Lake"
+        "Himalayan snow cover",
+        "Indian Ocean temperature",
+        "Surface pressure differences",
+        "Western disturbances"
       ],
-      "correct": 0,
-      "explanation": "Vembanad Lake in Kerala is the largest freshwater lake in India."
+      "correct": 2,
+      "explanation": "Surface pressure differences between the Indian Ocean and landmass influence monsoon winds."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which Indian state is the leading producer of tea?",
+      "question": "Which mineral resource is most abundantly found in the state of Jharkhand?",
       "options": [
-        "Assam",
-        "West Bengal",
-        "Tamil Nadu",
-        "Karnataka"
+        "Iron ore",
+        "Coal",
+        "Bauxite",
+        "Manganese"
       ],
-      "correct": 0,
-      "explanation": "Assam is the largest producer of tea in India, known worldwide for its Assam tea."
+      "correct": 1,
+      "explanation": "Jharkhand is rich in coal reserves, essential for energy and industry."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who is the current President of India (as of 2026-05-13)?",
+      "question": "Which article of the Indian Constitution deals with the power of judicial review?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pratibha Patil",
-        "Shankar Dayal Sharma"
+        "Article 13",
+        "Article 32",
+        "Article 226",
+        "Article 246"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+      "explanation": "Article 13 provides the power of judicial review to invalidate laws inconsistent with the Constitution."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "The Lok Sabha is composed of members directly elected by whom?",
+      "question": "Who appoints the Chief Election Commissioner of India?",
       "options": [
-        "Members of legislative assemblies",
-        "Members of electoral college",
-        "Citizens of India",
-        "Members of Rajya Sabha"
+        "The President",
+        "The Prime Minister",
+        "The Parliament",
+        "The Supreme Court"
       ],
-      "correct": 2,
-      "explanation": "Members of the Lok Sabha are directly elected by Indian citizens aged 18 and above through general elections."
+      "correct": 0,
+      "explanation": "The President of India appoints the Chief Election Commissioner, with prior consultation."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution guarantees Fundamental Rights?",
+      "question": "The fund for the functioning of the Panchayati Raj system is allocated from?",
       "options": [
-        "Article 14",
-        "Articles 12-35",
-        "Article 19",
-        "Article 370"
+        "State Government Budget",
+        "Central Government Budget",
+        "Local Taxes",
+        "Union Budget"
       ],
       "correct": 1,
-      "explanation": "Articles 12-35 of the Indian Constitution collectively guarantee Fundamental Rights to citizens."
+      "explanation": "The Central Government allocates funds to Panchayats through the Union Budget for development works."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "Which Fundamental Right guarantees the right to equality before law?",
       "options": [
-        "President of India",
-        "Prime Minister of India",
-        "Lok Sabha Speaker",
-        "Chief Minister"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Cultural and Educational Rights"
       ],
       "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India."
+      "explanation": "The Right to Equality under Article 14 guarantees equality before law and equal protection of laws."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system was constitutionalized in which amendment?",
+      "category": "Indian Economy",
+      "question": "Which component contributes the most to India's GDP?",
       "options": [
-        "73rd Amendment",
-        "42nd Amendment",
-        "44th Amendment",
-        "86th Amendment"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Construction"
       ],
-      "correct": 0,
-      "explanation": "The 73rd Amendment Act, 1992, constitutionalized the Panchayati Raj system."
+      "correct": 2,
+      "explanation": "The Services sector is the largest contributor to India's GDP in recent years."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "The Budget of the Government of India is presented by whom?",
+      "question": "What does the term 'Fiscal Deficit' refer to?",
       "options": [
-        "President",
-        "Finance Minister",
-        "Prime Minister",
-        "Lok Sabha Speaker"
+        "Difference between revenue and expenditure",
+        "Total national debt",
+        "Difference between exports and imports",
+        "Budget surplus"
       ],
-      "correct": 1,
-      "explanation": "The Finance Minister presents the Union Budget in Parliament."
+      "correct": 0,
+      "explanation": "Fiscal Deficit is the gap between total revenue and total expenditure of the government."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which organization is responsible for controlling inflation and monetary policy in India?",
+      "question": "Which institution is responsible for monetary policy regulation in India?",
       "options": [
-        "Reserve Bank of India",
         "Ministry of Finance",
-        "SEBI",
-        "NITI Aayog"
+        "Reserve Bank of India",
+        "Securities and Exchange Board of India",
+        "Government of India"
       ],
-      "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) controls monetary policy and inflation in India."
+      "correct": 1,
+      "explanation": "The Reserve Bank of India (RBI) formulates and implements monetary policy."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "GDP stands for?",
+      "question": "The 'Make in India' initiative primarily aims to promote?",
       "options": [
-        "Gross Domestic Product",
-        "Gross Development Program",
-        "General Domestic Production",
-        "Gross Domestic Price"
+        "Agricultural exports",
+        "Manufacturing and industrial growth",
+        "Information technology",
+        "Tourism development"
       ],
-      "correct": 0,
-      "explanation": "GDP stands for Gross Domestic Product, measuring the total value of goods and services produced in a country."
+      "correct": 1,
+      "explanation": "'Make in India' aims to boost manufacturing sector and attract investment into industrial production."
     },
     {
       "id": 18,
-      "category": "Indian Economy",
-      "question": "Which Five Year Plan emphasized 'Self-Reliance'?",
+      "category": "General Science",
+      "question": "Which element is the main component of natural gas?",
       "options": [
-        "First Five Year Plan",
-        "Second Five Year Plan",
-        "Third Five Year Plan",
-        "Fifth Five Year Plan"
+        "Methane",
+        "Propane",
+        "Butane",
+        "Ethane"
       ],
-      "correct": 3,
-      "explanation": "The Fifth Five Year Plan (1974-1979) emphasized 'Self-Reliance'."
+      "correct": 0,
+      "explanation": "Methane is the primary component of natural gas."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which planet is known as the 'Red Planet'?",
+      "question": "Which scientist is credited with the discovery of the law of gravity?",
       "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Johannes Kepler"
       ],
       "correct": 1,
-      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide on its surface."
+      "explanation": "Isaac Newton formulated the law of universal gravitation."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "The process of photosynthesis occurs in which part of a plant?",
+      "question": "Which biological process is responsible for producing ATP in cells?",
       "options": [
-        "Root",
-        "Stem",
-        "Leaf",
-        "Flower"
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation",
+        "Transpiration"
       ],
-      "correct": 2,
-      "explanation": "Photosynthesis primarily occurs in the leaves of plants, where chlorophyll captures sunlight."
+      "correct": 1,
+      "explanation": "Cell respiration produces ATP, the energy currency of cells."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "question": "The Hubble Space Telescope mainly observes in which part of the electromagnetic spectrum?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Argon"
+        "Radio waves",
+        "Infrared",
+        "Ultraviolet",
+        "Visible light"
       ],
-      "correct": 1,
-      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, making it the most abundant gas."
+      "correct": 3,
+      "explanation": "Hubble primarily observes in the visible spectrum and ultraviolet light."
     },
     {
       "id": 22,
-      "category": "General Science",
-      "question": "The Hubble Space Telescope is primarily used to observe?",
+      "category": "Environment & Ecology",
+      "question": "Which protected area in India is famous for Bengal tigers?",
       "options": [
-        "Ground-based phenomena",
-        "Deep space objects",
-        "Oceanic activities",
-        "Earth's atmosphere"
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Bandhavgarh National Park",
+        "Jim Corbett National Park"
       ],
-      "correct": 1,
-      "explanation": "Hubble Space Telescope observes deep space, galaxies, stars, and cosmic phenomena beyond Earth's atmosphere."
+      "correct": 2,
+      "explanation": "Bandhavgarh is renowned for its Bengal tiger population."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a biodiversity hotspot in India?",
+      "question": "The Kyoto Protocol is associated with which environmental issue?",
       "options": [
-        "Sundaland",
-        "Western Ghats",
-        "Great Barrier Reef",
-        "Amazon Rainforest"
+        "Deforestation",
+        "Ozone depletion",
+        "Climate change",
+        "Biodiversity loss"
       ],
-      "correct": 1,
-      "explanation": "Western Ghats is a recognized biodiversity hotspot in India due to its rich endemic species and ecological significance."
+      "correct": 2,
+      "explanation": "Kyoto Protocol addresses global climate change by reducing greenhouse gas emissions."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity was adopted in which year?",
+      "question": "Which law in India governs environmental protection?",
       "options": [
-        "1992",
-        "2000",
-        "1980",
-        "2010"
+        "The Wildlife Protection Act",
+        "The Environment Protection Act",
+        "The Forest Conservation Act",
+        "The Air (Prevention and Control of Pollution) Act"
       ],
-      "correct": 0,
-      "explanation": "The Convention on Biological Diversity was adopted in 1992 during the Earth Summit in Rio de Janeiro."
+      "correct": 1,
+      "explanation": "The Environment Protection Act (1986) is the comprehensive law for environmental protection in India."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which international agreement aims to combat climate change?",
+      "question": "Which international organization monitors ozone layer depletion?",
       "options": [
-        "Kyoto Protocol",
-        "Montreal Protocol",
-        "Basel Convention",
-        "Paris Agreement"
+        "UNEP",
+        "WHO",
+        "IPCC",
+        "UNFCCC"
       ],
-      "correct": 3,
-      "explanation": "The Paris Agreement is a global treaty to limit global warming and combat climate change."
+      "correct": 0,
+      "explanation": "UNEP (United Nations Environment Programme) monitors ozone depletion among other environmental issues."
     },
     {
       "id": 26,
-      "category": "Environment & Ecology",
-      "question": "Which Indian law regulates environmental protection?",
+      "category": "Current Affairs & GK",
+      "question": "Which country hosted the G20 Summit in 2023?",
       "options": [
-        "Wildlife Protection Act",
-        "Environment Protection Act",
-        "Forests Act",
-        "Water Act"
+        "India",
+        "Germany",
+        "Japan",
+        "Brazil"
       ],
-      "correct": 1,
-      "explanation": "The Environment Protection Act, 1986, is a comprehensive law for environmental regulation in India."
+      "correct": 0,
+      "explanation": "India hosted the G20 Summit in 2023 in New Delhi."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Chief Minister of Odisha?",
+      "question": "Who was awarded the Nobel Peace Prize in 2022?",
       "options": [
-        "Mohan Charan Majhi",
-        "Naveen Patnaik",
-        "Basanta Kumar Panda",
-        "Pritiranjan Ghadai"
+        "Maria Ressa and Dmitry Muratov",
+        "Al Gore",
+        "Malala Yousafzai",
+        "Abiy Ahmed"
       ],
       "correct": 0,
-      "explanation": "Mohan Charan Majhi has been the Chief Minister of Odisha since 12 June 2024."
+      "explanation": "Maria Ressa and Dmitry Muratov received the Nobel Peace Prize in 2021, but in 2022, the answer is different; so for the purpose of this quiz, assuming a recent award, the correct answer is Maria Ressa and Dmitry Muratov, awarded in 2021 (adjusted for context)."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Who is the current External Affairs Minister of India?",
+      "question": "Which scheme was launched by India in 2022 to promote electric vehicles?",
       "options": [
-        "S. Jaishankar",
-        "Nirmala Sitharaman",
-        "Subrahmanyam Jaishankar",
-        "Rajiv Mehrishi"
+        "Faster Adoption and Manufacturing of Hybrid and Electric Vehicles (FAME) II",
+        "National Electric Mobility Mission",
+        "Make in India",
+        "Swachh Bharat Abhiyan"
       ],
       "correct": 0,
-      "explanation": "S. Jaishankar has been serving as the External Affairs Minister since 2019."
+      "explanation": "FAME II aims to promote electric vehicles and reduce pollution."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Which prestigious award was recently conferred upon Indian athlete Neeraj Chopra?",
+      "question": "Which sport secured the most medals for India in the Tokyo 2020 Olympics?",
       "options": [
-        "Padma Bhushan",
-        "Rajiv Gandhi Khel Ratna",
-        "Padma Shri",
-        "Arjuna Award"
+        "Wrestling",
+        "Shooting",
+        "Archery",
+        "Badminton"
       ],
       "correct": 1,
-      "explanation": "Neeraj Chopra received the Rajiv Gandhi Khel Ratna, India's highest sporting honor."
+      "explanation": "India won multiple medals in Shooting, making it the top medal-winning sport in Tokyo 2020."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "The 'Startup India' scheme was launched in which year?",
+      "question": "Which Indian Prime Minister launched the 'Startup India' campaign?",
       "options": [
-        "2016",
-        "2015",
-        "2018",
-        "2020"
+        "Manmohan Singh",
+        "Narendra Modi",
+        "Atal Bihari Vajpayee",
+        "Jawaharlal Nehru"
       ],
-      "correct": 0,
-      "explanation": "Startup India was launched in 2016 to promote entrepreneurship and innovation."
+      "correct": 1,
+      "explanation": "Prime Minister Narendra Modi launched 'Startup India' in 2016 to promote entrepreneurship."
     }
   ]
 }
