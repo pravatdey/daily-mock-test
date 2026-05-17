@@ -1,141 +1,154 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is primarily a philosophical treatise composed around 1500 BCE?",
+      "question": "Which dynasty was founded by Chandragupta Maurya?",
       "options": [
-        "Arthashastra",
-        "Vedas",
-        "Upanishads",
-        "Mahabharata"
+        "Gupta Dynasty",
+        "Maurya Dynasty",
+        "Chola Dynasty",
+        "Satavahana Dynasty"
       ],
-      "correct": 2,
-      "explanation": "The Upanishads are philosophical texts that explore metaphysical concepts and were composed around 1500 BCE, marking a significant development in Indian spiritual thought."
+      "correct": 1,
+      "explanation": "Chandragupta Maurya founded the Maurya Dynasty, one of the largest empires in Indian history."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "The Battle of Plassey in 1757 was a pivotal event in Indian history because it led to?",
+      "question": "The Battle of Plassey was fought in which year?",
       "options": [
-        "End of Mughal Empire",
-        "Start of British dominance in India",
-        "Indian independence",
-        "Decline of Maratha power"
+        "1757",
+        "1764",
+        "1775",
+        "1782"
       ],
-      "correct": 1,
-      "explanation": "The Battle of Plassey marked the beginning of British political dominance in India, establishing British East India Company's control."
+      "correct": 0,
+      "explanation": "The Battle of Plassey was fought in 1757 and marked the beginning of British dominance in India."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Who was the leader of the Indian National Army (INA) during the fight for independence?",
+      "question": "Who was the leader of the Non-Cooperation Movement?",
       "options": [
         "Mahatma Gandhi",
-        "Subhas Chandra Bose",
         "Jawaharlal Nehru",
-        "Bhagat Singh"
+        "Subhas Chandra Bose",
+        "Bal Gangadhar Tilak"
       ],
-      "correct": 1,
-      "explanation": "Subhas Chandra Bose was the prominent leader of the INA, which aimed to fight for Indian independence from British rule."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920 against British rule."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Which movement was launched in 1942 demanding an end to British rule in India?",
+      "question": "When did the Indian National Congress first meet?",
       "options": [
-        "Non-Cooperation Movement",
-        "Civil Disobedience Movement",
-        "Quit India Movement",
-        "Swadeshi Movement"
+        "1885",
+        "1857",
+        "1905",
+        "1920"
       ],
-      "correct": 2,
-      "explanation": "The Quit India Movement was launched in 1942 demanding an immediate end to British rule."
+      "correct": 0,
+      "explanation": "The Indian National Congress was founded in 1885."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "The 'Renaissance' in India during the 19th century was characterized by?",
+      "question": "Who was the first President of India?",
       "options": [
-        "Revival of traditional arts",
-        "Introduction of Western education and ideas",
-        "Opening of new trade routes",
-        "Revolution in agriculture"
+        "Dr. B.R. Ambedkar",
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
       ],
       "correct": 1,
-      "explanation": "The Indian Renaissance involved the revival and modernization of Indian society through Western education, ideas, and reform movements."
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is the longest in India?",
+      "question": "Which river is known as the ‘Sorrow of Bihar’?",
       "options": [
         "Ganges",
-        "Godavari",
-        "Indus",
-        "Brahmaputra"
+        "Kosi",
+        "Yamuna",
+        "Godavari"
       ],
-      "correct": 2,
-      "explanation": "The Indus River, originating in Tibet and flowing through India and Pakistan, is the longest river in India."
+      "correct": 1,
+      "explanation": "The Kosi River is called the ‘Sorrow of Bihar’ due to frequent flooding."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "The Monsoon withdrawal period in India typically occurs in which month?",
+      "question": "Which mountain range forms the border between India and China?",
       "options": [
-        "June",
-        "September",
-        "December",
-        "March"
+        "Himalayas",
+        "Aravalli",
+        "Western Ghats",
+        "Vindhya"
       ],
-      "correct": 1,
-      "explanation": "Monsoon withdrawal usually begins in September, marking the end of the monsoon season."
+      "correct": 0,
+      "explanation": "The Himalayas form the natural border between India and China."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which resource is primarily responsible for the formation of the Deccan Trap?",
+      "question": "Which is the largest tidal port in India?",
       "options": [
-        "Sedimentary deposits",
-        "Flood basalts",
-        "Lignite deposits",
-        "Alluvial soil"
+        "Kandla",
+        "Chennai",
+        "Kochi",
+        "Visakhapatnam"
       ],
-      "correct": 1,
-      "explanation": "The Deccan Traps are vast flood basalt formations resulting from volcanic eruptions during the late Cretaceous period."
+      "correct": 0,
+      "explanation": "Kandla port in Gujarat is the largest tidal port in India."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which Indian state is the largest producer of tea?",
+      "question": "Which resource is primarily associated with the Malwa Plateau?",
       "options": [
-        "Assam",
-        "West Bengal",
-        "Tamil Nadu",
-        "Kerala"
+        "Coal",
+        "Bauxite",
+        "Magnesite",
+        "Limestone"
       ],
-      "correct": 0,
-      "explanation": "Assam is the largest producer of tea in India, known for its expansive tea gardens."
+      "correct": 3,
+      "explanation": "The Malwa Plateau is rich in limestone deposits."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "The Constitution of India was adopted on?",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "26th November 1947",
-        "26th January 1950",
-        "15th August 1947",
-        "26th November 1950"
+        "Prime Minister",
+        "President of India",
+        "Chief Justice of India",
+        "Judicial Appointments Committee"
       ],
       "correct": 1,
-      "explanation": "The Constitution of India was adopted on November 26, 1949, and came into effect on January 26, 1950."
+      "explanation": "The President of India appoints the Chief Justice of India."
     },
     {
       "id": 11,
+      "category": "Indian Polity & Governance",
+      "question": "What is the main function of the Lok Sabha?",
+      "options": [
+        "Judicial Review",
+        "Legislation",
+        "Amendment of Constitution",
+        "Supervision of State Governments"
+      ],
+      "correct": 1,
+      "explanation": "The Lok Sabha is primarily responsible for making laws (legislation)."
+    },
+    {
+      "id": 12,
       "category": "Indian Polity & Governance",
       "question": "Which part of the Indian Constitution deals with Fundamental Rights?",
       "options": [
@@ -145,181 +158,155 @@
         "Part V"
       ],
       "correct": 1,
-      "explanation": "Part III of the Indian Constitution enumerates the Fundamental Rights."
-    },
-    {
-      "id": 12,
-      "category": "Indian Polity & Governance",
-      "question": "The President of India is elected by?",
-      "options": [
-        "Members of Parliament",
-        "Members of Parliament and Legislative Assemblies",
-        "Members of State Legislative Assemblies",
-        "Electors representing the Union and States"
-      ],
-      "correct": 3,
-      "explanation": "The President is elected by an Electoral College consisting of elected members of both Houses of Parliament and Legislative Assemblies."
+      "explanation": "Part III of the Indian Constitution deals with Fundamental Rights."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which body in India has the power to amend the Constitution?",
+      "question": "The 'Directive Principles of State Policy' are incorporated in which part of the Constitution?",
       "options": [
-        "Supreme Court",
-        "Parliament of India",
-        "President of India",
-        "Constituent Assembly"
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part V"
       ],
-      "correct": 1,
-      "explanation": "Amendments to the Constitution are made by the Parliament of India as per the procedure specified in Article 368."
+      "correct": 2,
+      "explanation": "Part IV of the Indian Constitution contains the Directive Principles of State Policy."
     },
     {
       "id": 14,
       "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system was constitutionalized in India through?",
+      "question": "Who among the following is the current Speaker of the Lok Sabha?",
       "options": [
-        "73rd Amendment Act",
-        "42nd Amendment Act",
-        "61st Amendment Act",
-        "86th Amendment Act"
+        "M. Venkaiah Naidu",
+        "Om Birla",
+        "Smt. Sumitra Mahajan",
+        "L. K. Advani"
       ],
-      "correct": 0,
-      "explanation": "The 73rd Amendment Act, enacted in 1992, constitutionalized the Panchayati Raj system."
+      "correct": 1,
+      "explanation": "Om Birla is the current Speaker of the Lok Sabha since 2019."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "India's Gross Domestic Product (GDP) is primarily calculated based on?",
+      "question": "What does the term 'Gross Domestic Product' (GDP) denote?",
       "options": [
-        "Total exports",
-        "Total income of households",
-        "Value of all goods and services produced",
-        "Government revenue"
+        "Total value of goods and services produced within a country in a year",
+        "Total exports of a country",
+        "Total government spending",
+        "Total income of a country’s citizens"
       ],
-      "correct": 2,
-      "explanation": "GDP measures the total value of all goods and services produced within a country over a period."
+      "correct": 0,
+      "explanation": "GDP measures the total value of goods and services produced within a country in a given year."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "India's Union Budget is presented annually by the?",
+      "question": "Which institution is responsible for issuing currency notes in India?",
       "options": [
-        "Finance Minister",
-        "Prime Minister",
-        "President",
-        "Reserve Bank of India"
+        "Reserve Bank of India",
+        "State Bank of India",
+        "Union Ministry of Finance",
+        "National Bank of India"
       ],
       "correct": 0,
-      "explanation": "The Union Budget is presented annually by the Finance Minister of India."
+      "explanation": "The Reserve Bank of India (RBI) is the issuer of currency notes in India."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "Which financial institution in India is responsible for regulating monetary policy?",
+      "question": "The 'Five Year Plans' in India were inspired by which concept?",
       "options": [
-        "Reserve Bank of India",
-        "Securities and Exchange Board of India",
-        "Ministry of Finance",
-        "Public Sector Banks"
+        "Market economy",
+        "Socialist planning",
+        "Mixed economy",
+        "Capitalist economy"
       ],
-      "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) manages monetary policy and regulates banking in India."
+      "correct": 1,
+      "explanation": "India's Five Year Plans were inspired by socialist planning principles, emphasizing development goals."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "Which was the first Five Year Plan of India?",
+      "question": "Which sector contributes the most to India's GDP?",
       "options": [
-        "1951-56",
-        "1956-61",
-        "1961-66",
-        "1952-57"
+        "Agriculture",
+        "Manufacturing",
+        "Services",
+        "Mining"
       ],
-      "correct": 0,
-      "explanation": "India's first Five Year Plan was launched in 1951-56, focusing on agriculture and industry."
+      "correct": 2,
+      "explanation": "The services sector contributes the largest share to India's GDP."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "What is the chemical formula of ozone?",
+      "question": "Which law explains the phenomenon of reflection of light?",
       "options": [
-        "O2",
-        "O3",
-        "CO2",
-        "N2"
+        "Snell’s Law",
+        "Law of Reflection",
+        "Newton’s Laws",
+        "Ohm’s Law"
       ],
       "correct": 1,
-      "explanation": "Ozone's chemical formula is O3, a triatomic molecule of oxygen."
+      "explanation": "The Law of Reflection states that the angle of incidence equals the angle of reflection."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which part of the human body is primarily affected by the deficiency of Vitamin D?",
+      "question": "What is the primary constituent of natural gas?",
       "options": [
-        "Bones",
-        "Eyes",
-        "Skin",
-        "Lungs"
+        "Methane",
+        "Propane",
+        "Butane",
+        "Ethanol"
       ],
       "correct": 0,
-      "explanation": "Vitamin D deficiency leads to weakened bones and disorders like rickets."
+      "explanation": "Methane is the main component of natural gas."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which technological invention is most associated with Tim Berners-Lee?",
+      "question": "Which biological process is responsible for producing oxygen in the atmosphere?",
       "options": [
-        "Artificial Intelligence",
-        "The World Wide Web",
-        "Mobile Phone",
-        "Quantum Computing"
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Transpiration"
       ],
       "correct": 1,
-      "explanation": "Tim Berners-Lee is credited with inventing the World Wide Web."
+      "explanation": "Photosynthesis by plants produces oxygen in the atmosphere."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "The principle of conservation of energy states that energy?",
+      "question": "The Hubble Space Telescope primarily observes objects in which wavelength?",
       "options": [
-        "Can be created but not destroyed",
-        "Can be destroyed",
-        "Can neither be created nor destroyed",
-        "None of the above"
+        "Radio waves",
+        "Infrared",
+        "Ultraviolet",
+        "Visible light"
       ],
-      "correct": 2,
-      "explanation": "The law of conservation of energy states that energy cannot be created or destroyed, only transformed."
+      "correct": 3,
+      "explanation": "Hubble primarily observes visible and ultraviolet wavelengths."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a flagship project for conserving biodiversity in India?",
+      "question": "Which of the following is a UNESCO World Heritage Site in India?",
       "options": [
-        "Project Tiger",
-        "Project Green Earth",
-        "Project Water",
-        "Project Air"
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Taj Mahal",
+        "Bandipur National Park"
       ],
-      "correct": 0,
-      "explanation": "Project Tiger aims to protect Bengal tigers and conserve biodiversity."
+      "correct": 2,
+      "explanation": "The Taj Mahal is a UNESCO World Heritage Site in India."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The term 'Carbon Footprint' refers to?",
-      "options": [
-        "Amount of carbon utilized in industry",
-        "Total greenhouse gases caused by an individual or organization",
-        "Carbon stored in forests",
-        "Carbon absorbed by oceans"
-      ],
-      "correct": 1,
-      "explanation": "Carbon footprint measures the total greenhouse gases caused directly or indirectly by an individual or organization."
-    },
-    {
-      "id": 25,
-      "category": "Environment & Ecology",
-      "question": "Which international agreement aims to reduce global greenhouse gas emissions?",
+      "question": "Which international agreement aims to reduce global carbon emissions?",
       "options": [
         "Kyoto Protocol",
         "Montreal Protocol",
@@ -327,72 +314,85 @@
         "Basel Convention"
       ],
       "correct": 2,
-      "explanation": "The Paris Agreement is a global pact to limit greenhouse gas emissions to combat climate change."
+      "explanation": "The Paris Agreement aims to limit global temperature rise by reducing carbon emissions."
+    },
+    {
+      "id": 25,
+      "category": "Environment & Ecology",
+      "question": "Which animal is considered a flagship species for the conservation of the Western Ghats?",
+      "options": [
+        "Indian Elephant",
+        "Nilgiri Tahr",
+        "Bengal Tiger",
+        "Indian Cobra"
+      ],
+      "correct": 1,
+      "explanation": "Nilgiri Tahr is a flagship species for Western Ghats conservation efforts."
     },
     {
       "id": 26,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a protected area in India recognized as a UNESCO World Heritage Site?",
+      "question": "The 'Bio-diversity Act' was enacted in which year in India?",
       "options": [
-        "Sundarbans National Park",
-        "Kaziranga National Park",
-        "Jim Corbett National Park",
-        "Gir Forest"
+        "2000",
+        "2002",
+        "2004",
+        "2006"
       ],
       "correct": 1,
-      "explanation": "Kaziranga National Park is a UNESCO World Heritage Site known for its rhinoceros population."
+      "explanation": "India enacted the Biological Diversity Act in 2002."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Which Indian scheme aims to improve sanitation facilities in rural areas?",
+      "question": "Who is the current President of India?",
       "options": [
-        "Swachh Bharat Abhiyan",
-        "Make in India",
-        "Digital India",
-        "Smart Cities Mission"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "A.P.J. Abdul Kalam"
       ],
       "correct": 0,
-      "explanation": "Swachh Bharat Abhiyan is a nationwide campaign for sanitation and waste management."
+      "explanation": "Droupadi Murmu has been the President of India since July 2022."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Secretary-General of the United Nations (as of May 2026)?",
+      "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
       "options": [
-        "Antonio Guterres",
-        "Ban Ki-moon",
-        "Kofi Annan",
-        "António Guterres"
+        "Odisha",
+        "West Bengal",
+        "Jharkhand",
+        "Chhattisgarh"
       ],
-      "correct": 3,
-      "explanation": "As of 2026, António Guterres is serving as the Secretary-General of the United Nations."
+      "correct": 0,
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Which Indian athlete won gold in the Tokyo 2020 Olympics in Men's Javelin Throw?",
+      "question": "Who is the current External Affairs Minister of India?",
       "options": [
-        "Neeraj Chopra",
-        "Abhinav Bindra",
-        "P.V. Sindhu",
-        "Sakshi Malik"
+        "S. Jaishankar",
+        "Nirmala Sitharaman",
+        "Amit Shah",
+        "Subrahmanyam Jaishankar"
       ],
       "correct": 0,
-      "explanation": "Neeraj Chopra won the gold medal in Men's Javelin Throw at Tokyo 2020 Olympics."
+      "explanation": "S. Jaishankar has been the External Affairs Minister since 2019."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "India recently launched which satellite to improve national telecommunications?",
+      "question": "Who is the current Vice President of India?",
       "options": [
-        "GSAT-24",
-        "NavIC",
-        "INSAT-3DR",
-        "Cartosat-3"
+        "Venkaiah Naidu",
+        "C. P. Radhakrishnan",
+        "Jagdeep Dhankhar",
+        "Hamid Ansari"
       ],
-      "correct": 0,
-      "explanation": "GSAT-24 is part of India's satellite communication program to enhance telecommunication services."
+      "correct": 1,
+      "explanation": "C. P. Radhakrishnan is the current Vice President since September 2025."
     }
   ]
 }
