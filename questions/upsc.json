@@ -1,39 +1,39 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which dynasty was founded by Chandragupta Maurya?",
+      "question": "Which ancient Indian university was known for its emphasis on Buddhist studies and was located in present-day Bihar?",
       "options": [
-        "Gupta Dynasty",
-        "Maurya Dynasty",
-        "Chola Dynasty",
-        "Satavahana Dynasty"
+        "Nalanda University",
+        "Takshashila",
+        "Vikramashila University",
+        "Odisha University"
       ],
-      "correct": 1,
-      "explanation": "Chandragupta Maurya founded the Maurya Dynasty, one of the largest empires in Indian history."
+      "correct": 0,
+      "explanation": "Nalanda University, located in present-day Bihar, was one of the ancient world's most renowned Buddhist universities."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "The Battle of Plassey was fought in which year?",
+      "question": "During the Mughal era, which emperor is credited with constructing the Taj Mahal?",
       "options": [
-        "1757",
-        "1764",
-        "1775",
-        "1782"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "correct": 0,
-      "explanation": "The Battle of Plassey was fought in 1757 and marked the beginning of British dominance in India."
+      "correct": 2,
+      "explanation": "Shah Jahan commissioned the Taj Mahal in memory of his wife Mumtaz Mahal during his reign."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement?",
+      "question": "Who was the leader of the Non-Cooperation Movement in India?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
@@ -41,311 +41,298 @@
         "Bal Gangadhar Tilak"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920 against British rule."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920 to protest against British rule."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "When did the Indian National Congress first meet?",
+      "question": "The Indian National Army (INA) was led by which prominent leader during the Indian independence movement?",
       "options": [
-        "1885",
-        "1857",
-        "1905",
-        "1920"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "V. D. Savarkar"
       ],
       "correct": 0,
-      "explanation": "The Indian National Congress was founded in 1885."
+      "explanation": "Subhas Chandra Bose was the leader of the INA, which aimed to overthrow British rule with Japanese support."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Who was the first President of India?",
+      "question": "Which event marked the beginning of India's modern history?",
       "options": [
-        "Dr. B.R. Ambedkar",
-        "Dr. Rajendra Prasad",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
+        "The Battle of Plassey",
+        "The First War of Independence",
+        "The Establishment of British East India Company",
+        "The Montagu-Chelmsford Reforms"
       ],
-      "correct": 1,
-      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
+      "correct": 0,
+      "explanation": "The Battle of Plassey in 1757 marked the beginning of British dominance in India, initiating modern colonial rule."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the ‘Sorrow of Bihar’?",
+      "question": "Which river is the longest in India?",
       "options": [
         "Ganges",
-        "Kosi",
-        "Yamuna",
-        "Godavari"
+        "Godavari",
+        "Indus",
+        "Brahmaputra"
       ],
       "correct": 1,
-      "explanation": "The Kosi River is called the ‘Sorrow of Bihar’ due to frequent flooding."
+      "explanation": "The Godavari is the longest river in India, flowing approximately 1,465 km."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which mountain range forms the border between India and China?",
+      "question": "Which mountain range forms the northern boundary of India?",
       "options": [
         "Himalayas",
         "Aravalli",
         "Western Ghats",
-        "Vindhya"
+        "Satpura"
       ],
       "correct": 0,
-      "explanation": "The Himalayas form the natural border between India and China."
+      "explanation": "The Himalayas form the northern boundary of India, acting as a natural border with Tibet and China."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which is the largest tidal port in India?",
+      "question": "Which resource is most abundantly found in the state of Jharkhand?",
       "options": [
-        "Kandla",
-        "Chennai",
-        "Kochi",
-        "Visakhapatnam"
+        "Coal",
+        "Petroleum",
+        "Bauxite",
+        "Manganese"
       ],
       "correct": 0,
-      "explanation": "Kandla port in Gujarat is the largest tidal port in India."
+      "explanation": "Jharkhand is rich in coal deposits, making it a major coal-producing state."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which resource is primarily associated with the Malwa Plateau?",
+      "question": "The monsoon season in India is primarily caused by which of the following?",
       "options": [
-        "Coal",
-        "Bauxite",
-        "Magnesite",
-        "Limestone"
+        "Western Disturbances",
+        "Southwest Monsoon Winds",
+        "North-East Monsoon Winds",
+        "Jet Streams"
       ],
-      "correct": 3,
-      "explanation": "The Malwa Plateau is rich in limestone deposits."
+      "correct": 1,
+      "explanation": "Southwest Monsoon Winds bring heavy rainfall to India during the summer months."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "Who is the current Chief Justice of India as of 2025?",
       "options": [
-        "Prime Minister",
-        "President of India",
-        "Chief Justice of India",
-        "Judicial Appointments Committee"
+        "Droupadi Murmu",
+        "Surya Kant",
+        "Ranjan Gogoi",
+        "N. Venkata Ramana"
       ],
       "correct": 1,
-      "explanation": "The President of India appoints the Chief Justice of India."
+      "explanation": "Surya Kant is the current Chief Justice of India since 24 November 2025."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "What is the main function of the Lok Sabha?",
+      "question": "The 'Directive Principles of State Policy' are enshrined in which part of the Indian Constitution?",
       "options": [
-        "Judicial Review",
-        "Legislation",
-        "Amendment of Constitution",
-        "Supervision of State Governments"
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part VI"
       ],
       "correct": 1,
-      "explanation": "The Lok Sabha is primarily responsible for making laws (legislation)."
+      "explanation": "Part IV of the Indian Constitution contains the Directive Principles of State Policy."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Which part of the Indian Constitution deals with Fundamental Rights?",
+      "question": "Who has the authority to dissolve the Lok Sabha?",
       "options": [
-        "Part I",
-        "Part III",
-        "Part IV",
-        "Part V"
+        "The President",
+        "The Prime Minister",
+        "The Chief Justice",
+        "The Vice President"
       ],
-      "correct": 1,
-      "explanation": "Part III of the Indian Constitution deals with Fundamental Rights."
+      "correct": 0,
+      "explanation": "The President of India has the power to dissolve the Lok Sabha as per constitutional provisions."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "The 'Directive Principles of State Policy' are incorporated in which part of the Constitution?",
+      "question": "Which of the following is a Fundamental Right relating to the freedom of speech and expression?",
       "options": [
-        "Part II",
-        "Part III",
-        "Part IV",
-        "Part V"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Right to Education"
       ],
-      "correct": 2,
-      "explanation": "Part IV of the Indian Constitution contains the Directive Principles of State Policy."
+      "correct": 1,
+      "explanation": "The Right to Freedom guarantees the freedom of speech and expression."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "Who among the following is the current Speaker of the Lok Sabha?",
+      "category": "Indian Economy",
+      "question": "The Union Budget of India is presented by the:",
       "options": [
-        "M. Venkaiah Naidu",
-        "Om Birla",
-        "Smt. Sumitra Mahajan",
-        "L. K. Advani"
+        "Prime Minister",
+        "Finance Minister",
+        "Reserve Bank Governor",
+        "President"
       ],
       "correct": 1,
-      "explanation": "Om Birla is the current Speaker of the Lok Sabha since 2019."
+      "explanation": "The Finance Minister presents the Union Budget in Parliament annually."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "What does the term 'Gross Domestic Product' (GDP) denote?",
+      "question": "India's GDP growth rate is primarily measured by which national agency?",
       "options": [
-        "Total value of goods and services produced within a country in a year",
-        "Total exports of a country",
-        "Total government spending",
-        "Total income of a country’s citizens"
+        "NITI Aayog",
+        "Ministry of Statistics and Programme Implementation",
+        "RBI",
+        "World Bank"
       ],
-      "correct": 0,
-      "explanation": "GDP measures the total value of goods and services produced within a country in a given year."
+      "correct": 1,
+      "explanation": "The Ministry of Statistics and Programme Implementation regularly publishes India's GDP growth figures."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which institution is responsible for issuing currency notes in India?",
+      "question": "Which sector contributes the largest share to India’s GDP as of 2025?",
       "options": [
-        "Reserve Bank of India",
-        "State Bank of India",
-        "Union Ministry of Finance",
-        "National Bank of India"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Manufacturing"
       ],
-      "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) is the issuer of currency notes in India."
+      "correct": 2,
+      "explanation": "The services sector contributes the largest share to India's GDP, exceeding agriculture and industry."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "The 'Five Year Plans' in India were inspired by which concept?",
+      "question": "The 'Make in India' initiative primarily aims to promote:",
       "options": [
-        "Market economy",
-        "Socialist planning",
-        "Mixed economy",
-        "Capitalist economy"
+        "Export of services",
+        "Foreign direct investment in agriculture",
+        "Manufacturing sector",
+        "Digital economy"
       ],
-      "correct": 1,
-      "explanation": "India's Five Year Plans were inspired by socialist planning principles, emphasizing development goals."
+      "correct": 2,
+      "explanation": "'Make in India' promotes manufacturing and aims to make India a global manufacturing hub."
     },
     {
       "id": 18,
-      "category": "Indian Economy",
-      "question": "Which sector contributes the most to India's GDP?",
+      "category": "General Science",
+      "question": "Which particle has the highest charge in the atom?",
       "options": [
-        "Agriculture",
-        "Manufacturing",
-        "Services",
-        "Mining"
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Positron"
       ],
-      "correct": 2,
-      "explanation": "The services sector contributes the largest share to India's GDP."
+      "correct": 0,
+      "explanation": "Protons carry a positive charge and have the highest charge among subatomic particles within an atom."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which law explains the phenomenon of reflection of light?",
+      "question": "The chemical formula of common salt is:",
       "options": [
-        "Snell’s Law",
-        "Law of Reflection",
-        "Newton’s Laws",
-        "Ohm’s Law"
+        "NaCl",
+        "KCl",
+        "CaCO3",
+        "H2SO4"
       ],
-      "correct": 1,
-      "explanation": "The Law of Reflection states that the angle of incidence equals the angle of reflection."
+      "correct": 0,
+      "explanation": "NaCl is the chemical formula for sodium chloride, common table salt."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "What is the primary constituent of natural gas?",
+      "question": "Which part of the human body is primarily responsible for the production of insulin?",
       "options": [
-        "Methane",
-        "Propane",
-        "Butane",
-        "Ethanol"
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Lungs"
       ],
-      "correct": 0,
-      "explanation": "Methane is the main component of natural gas."
+      "correct": 1,
+      "explanation": "The pancreas produces insulin, which regulates blood sugar levels."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which biological process is responsible for producing oxygen in the atmosphere?",
+      "question": "The Hubble Space Telescope is most closely associated with which field?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Fermentation",
-        "Transpiration"
+        "Earth Observation",
+        "Astronomy",
+        "Meteorology",
+        "Geology"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis by plants produces oxygen in the atmosphere."
+      "explanation": "Hubble Space Telescope is used for astronomical observations and studying celestial objects."
     },
     {
       "id": 22,
-      "category": "General Science",
-      "question": "The Hubble Space Telescope primarily observes objects in which wavelength?",
+      "category": "Environment & Ecology",
+      "question": "Which is the world's largest biodiversity hotspot located in India?",
       "options": [
-        "Radio waves",
-        "Infrared",
-        "Ultraviolet",
-        "Visible light"
+        "Western Ghats",
+        "Sundaland",
+        "Himalayas",
+        "Western Himalayas"
       ],
-      "correct": 3,
-      "explanation": "Hubble primarily observes visible and ultraviolet wavelengths."
+      "correct": 0,
+      "explanation": "The Western Ghats are recognized as a major biodiversity hotspot in India."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a UNESCO World Heritage Site in India?",
+      "question": "What is the primary cause of climate change globally?",
       "options": [
-        "Kaziranga National Park",
-        "Sundarbans National Park",
-        "Taj Mahal",
-        "Bandipur National Park"
+        "Deforestation",
+        "Industrialization and Greenhouse Gas Emissions",
+        "Overfishing",
+        "Urbanization"
       ],
-      "correct": 2,
-      "explanation": "The Taj Mahal is a UNESCO World Heritage Site in India."
+      "correct": 1,
+      "explanation": "Industrialization leads to increased greenhouse gases, which are the main cause of climate change."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which international agreement aims to reduce global carbon emissions?",
+      "question": "Which international treaty aims to protect endangered species and their habitats?",
       "options": [
         "Kyoto Protocol",
-        "Montreal Protocol",
+        "CITES",
         "Paris Agreement",
-        "Basel Convention"
+        "Montreal Protocol"
       ],
-      "correct": 2,
-      "explanation": "The Paris Agreement aims to limit global temperature rise by reducing carbon emissions."
+      "correct": 1,
+      "explanation": "CITES (Convention on International Trade in Endangered Species) aims to protect endangered species."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which animal is considered a flagship species for the conservation of the Western Ghats?",
+      "question": "The National Green Tribunal (NGT) was established primarily to deal with issues related to:",
       "options": [
-        "Indian Elephant",
-        "Nilgiri Tahr",
-        "Bengal Tiger",
-        "Indian Cobra"
+        "Wildlife conservation",
+        "Environmental protection",
+        "Climate change",
+        "Air pollution"
       ],
       "correct": 1,
-      "explanation": "Nilgiri Tahr is a flagship species for Western Ghats conservation efforts."
+      "explanation": "The NGT is a specialized tribunal for environmental protection and conservation of forests and other natural resources."
     },
     {
       "id": 26,
-      "category": "Environment & Ecology",
-      "question": "The 'Bio-diversity Act' was enacted in which year in India?",
-      "options": [
-        "2000",
-        "2002",
-        "2004",
-        "2006"
-      ],
-      "correct": 1,
-      "explanation": "India enacted the Biological Diversity Act in 2002."
-    },
-    {
-      "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who is the current President of India?",
+      "question": "Who is the current President of India as of 2025?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
@@ -353,46 +340,59 @@
         "A.P.J. Abdul Kalam"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu has been the President of India since July 2022."
+      "explanation": "Droupadi Murmu has been serving as the President of India since 25 July 2022."
+    },
+    {
+      "id": 27,
+      "category": "Current Affairs & GK",
+      "question": "Which country is the host of the 2026 FIFA World Cup?",
+      "options": [
+        "Qatar",
+        "United States",
+        "Canada and Mexico",
+        "Russia"
+      ],
+      "correct": 2,
+      "explanation": "The 2026 FIFA World Cup will be jointly hosted by the United States, Canada, and Mexico."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
+      "question": "The 'Startup India' scheme was launched in which year?",
       "options": [
-        "Odisha",
-        "West Bengal",
-        "Jharkhand",
-        "Chhattisgarh"
+        "2015",
+        "2016",
+        "2017",
+        "2018"
       ],
-      "correct": 0,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "correct": 1,
+      "explanation": "Startup India was launched in 2016 to promote entrepreneurship and innovation."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Who is the current External Affairs Minister of India?",
+      "question": "Who was awarded the Nobel Peace Prize in 2024?",
       "options": [
-        "S. Jaishankar",
-        "Nirmala Sitharaman",
-        "Amit Shah",
-        "Subrahmanyam Jaishankar"
+        "World Food Programme",
+        "Greta Thunberg",
+        "UNHCR",
+        "Maria Ressa"
       ],
       "correct": 0,
-      "explanation": "S. Jaishankar has been the External Affairs Minister since 2019."
+      "explanation": "The World Food Programme was awarded the Nobel Peace Prize in 2024 for its efforts to combat hunger."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Vice President of India?",
+      "question": "Which Indian sports person was conferred the Rajiv Gandhi Khel Ratna award in 2024?",
       "options": [
-        "Venkaiah Naidu",
-        "C. P. Radhakrishnan",
-        "Jagdeep Dhankhar",
-        "Hamid Ansari"
+        "Neeraj Chopra",
+        "PV Sindhu",
+        "Hima Das",
+        "Abhinav Bindra"
       ],
-      "correct": 1,
-      "explanation": "C. P. Radhakrishnan is the current Vice President since September 2025."
+      "correct": 0,
+      "explanation": "Neeraj Chopra received the Rajiv Gandhi Khel Ratna award in 2024 for his achievements in athletics."
     }
   ]
 }
