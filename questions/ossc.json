@@ -1,337 +1,207 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which district of Odisha is famous for the Chilika Lake, the largest coastal lagoon in India?",
+      "question": "Which is the largest river flowing through Odisha?",
       "options": [
-        "Puri",
-        "Khordha",
-        "Ganjam",
-        "Vishakhapatnam"
+        "Mahanadi",
+        "Brahmani",
+        "Godavari",
+        "Baitarani"
       ],
-      "correct": 1,
-      "explanation": "Khordha district encompasses Chilika Lake, the largest coastal lagoon in India, renowned for migratory birds and fishing."
+      "correct": 0,
+      "explanation": "The Mahanadi is the largest river flowing through Odisha, crucial for agriculture and hydroelectric projects in the state."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated with great enthusiasm in Odisha and marks the Rath Yatra?",
+      "question": "Which tribal community is primarily found in the Keonjhar district of Odisha?",
       "options": [
-        "Diwali",
-        "Durga Puja",
-        "Rath Yatra",
-        "Holi"
+        "Santhal",
+        "Oraon",
+        "Ho",
+        "Bonda"
       ],
-      "correct": 2,
-      "explanation": "The Rath Yatra festival, dedicated to Lord Jagannath, is celebrated with elaborate chariots in Puri, Odisha."
+      "correct": 3,
+      "explanation": "The Bonda tribe is mainly found in the remote hilly regions of Keonjhar district."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "The Mahanadi River flows through which major city in Odisha?",
+      "question": "Which festival is celebrated as the main festival of the Odia people?",
       "options": [
-        "Cuttack",
-        "Bhubaneswar",
-        "Balasore",
-        "Sambalpur"
+        "Rath Yatra",
+        "Diwali",
+        "Holi",
+        "Lohri"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi River flows through Cuttack, a major city in Odisha, before joining the Bay of Bengal."
+      "explanation": "Rath Yatra is a major festival celebrated with grandeur in Odisha, especially in Puri."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is primarily found in the Kalahandi and Koraput districts of Odisha?",
+      "question": "Which is a famous ancient archaeological site in Odisha?",
       "options": [
-        "Santhal",
-        "Gond",
-        "Koya",
-        "Konda Dora"
+        "Khandagiri Caves",
+        "Ajanta Caves",
+        "Ellora Caves",
+        "Sanchi Stupa"
       ],
-      "correct": 3,
-      "explanation": "The Konda Dora tribe predominantly resides in Kalahandi and Koraput districts of Odisha."
+      "correct": 0,
+      "explanation": "Khandagiri Caves are ancient rock-cut caves in Odisha, associated with Jain monks."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Who was the first Odia ruler to establish the Kalinga Empire in ancient India?",
+      "question": "Who was the famous Odia king known for his patronage of art and architecture?",
       "options": [
         "Kharavela",
         "Ashoka",
-        "Chandra Gupta Maurya",
-        "Harsha"
+        "Harsha",
+        "Chandragupta"
       ],
       "correct": 0,
-      "explanation": "Kharavela was a prominent ruler of the Kalinga region in ancient Odisha, known for his empire's expansion."
+      "explanation": "King Kharavela was an ancient Odia ruler known for his contributions to art, architecture, and Jainism."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which is the famous hill station in Odisha known for its scenic beauty?",
+      "question": "Which is the largest freshwater lake in Odisha?",
       "options": [
-        "Daringbadi",
-        "Lonavala",
-        "Manali",
-        "Shimla"
+        "Chilika Lake",
+        "Bhitarkanika Lake",
+        "Kanjia Lake",
+        "Anshupa Lake"
       ],
       "correct": 0,
-      "explanation": "Daringbadi, often called the Kashmir of Odisha, is known for its cool climate and scenic hills."
+      "explanation": "Chilika Lake is the largest brackish water lagoon in Asia and is famous for migratory birds."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "The Indus Valley Civilization is primarily known for which type of urban planning?",
+      "question": "Who was the prominent ruler of the Mauryan Empire in ancient India?",
       "options": [
-        "Fortified city walls",
-        "Grid-like layout",
-        "Pyramid structures",
-        "Mausoleums"
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Kautilya"
       ],
       "correct": 1,
-      "explanation": "The Indus Valley Civilization is famous for its well-planned grid layout of cities like Mohenjo-Daro and Harappa."
+      "explanation": "Chandragupta Maurya was the founder of the Mauryan Empire, which became one of the largest ancient Indian empires."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "During medieval India, which Mughal emperor built the Taj Mahal?",
+      "question": "Which medieval Indian festival is associated with the Mughal era?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Diwali",
+        "Holi",
+        "Eid-ul-Fitr",
+        "Pongal"
       ],
       "correct": 2,
-      "explanation": "Shah Jahan commissioned the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
+      "explanation": "Eid-ul-Fitr was celebrated during Mughal rule as a prominent Islamic festival."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "Who was the leader of the Indian independence movement during the Non-Cooperation Movement in 1920?",
+      "question": "The Ajanta Caves are famous for their:",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bal Gangadhar Tilak"
+        "Paintings and sculptures",
+        "Religious texts",
+        "Royal palaces",
+        "Market places"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement against British rule in 1920."
+      "explanation": "Ajanta Caves are renowned for their ancient Buddhist paintings and sculptures."
     },
     {
       "id": 10,
       "category": "Indian History & Culture",
-      "question": "Which UNESCO World Heritage Site in India is famous for its ancient cave paintings?",
+      "question": "Who was the founder of the Indian National Congress?",
       "options": [
-        "Ajanta Caves",
-        "Ellora Caves",
-        "Sanchi Stupa",
-        "Khajuraho Temples"
+        "Dadabhai Naoroji",
+        "Allen Octavian Hume",
+        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi"
       ],
-      "correct": 0,
-      "explanation": "The Ajanta Caves are renowned for their ancient Buddhist cave paintings and sculptures."
+      "correct": 1,
+      "explanation": "Allen Octavian Hume was instrumental in founding the Indian National Congress in 1885."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "The Himalayas are primarily formed due to the collision of which two tectonic plates?",
+      "question": "Which mineral is most abundantly found in Odisha?",
       "options": [
-        "Indian Plate and Eurasian Plate",
-        "Pacific Plate and North American Plate",
-        "African Plate and South American Plate",
-        "Australian Plate and Antarctic Plate"
+        "Coal",
+        "Bauxite",
+        "Iron ore",
+        "Manganese"
       ],
-      "correct": 0,
-      "explanation": "The Himalayas were formed by the collision of the Indian Plate with the Eurasian Plate."
+      "correct": 2,
+      "explanation": "Odisha is rich in iron ore deposits, making it a major center for iron and steel industries."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Odisha's main mineral resource is?",
+      "question": "Which type of climate is predominant in Odisha?",
       "options": [
-        "Coal",
-        "Bauxite",
-        "Iron Ore",
-        "Uranium"
+        "Tropical monsoon",
+        "Arid desert",
+        "Temperate",
+        "Tundra"
       ],
-      "correct": 2,
-      "explanation": "Odisha is rich in iron ore, making it one of the leading iron ore-producing states in India."
+      "correct": 0,
+      "explanation": "Odisha experiences a tropical monsoon climate with heavy rainfall during the monsoon season."
     },
     {
       "id": 13,
       "category": "Geography",
-      "question": "Which climate zone does most of Odisha fall under?",
+      "question": "What is the main agricultural crop of Odisha?",
       "options": [
-        "Tropical wet",
-        "Arid desert",
-        "Temperate",
-        "Mountainous"
+        "Rice",
+        "Wheat",
+        "Maize",
+        "Sugarcane"
       ],
       "correct": 0,
-      "explanation": "Most parts of Odisha have a tropical wet climate, with high humidity and monsoon rainfall."
+      "explanation": "Rice is the staple food and main crop cultivated extensively in Odisha."
     },
     {
       "id": 14,
       "category": "Geography",
-      "question": "The Godavari River flows through which Indian state before reaching Odisha?",
+      "question": "The Chilika Lake is located near which of the following districts?",
       "options": [
-        "Maharashtra",
-        "Telangana",
-        "Chhattisgarh",
-        "Andhra Pradesh"
+        "Puri",
+        "Cuttack",
+        "Khordha",
+        "Ganjam"
       ],
-      "correct": 3,
-      "explanation": "The Godavari flows through Andhra Pradesh before entering Odisha."
+      "correct": 0,
+      "explanation": "Chilika Lake is situated near Puri district, famous for bird watching and biodiversity."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Which article of the Indian Constitution provides for the Fundamental Rights?",
+      "question": "Which article of the Indian Constitution grants Fundamental Rights?",
       "options": [
-        "Articles 1-4",
         "Articles 12-35",
         "Articles 36-51",
-        "Articles 52-151"
+        "Articles 19-22",
+        "Articles 1-4"
       ],
-      "correct": 1,
-      "explanation": "Articles 12 to 35 of the Indian Constitution deal with Fundamental Rights."
+      "correct": 0,
+      "explanation": "Articles 12 to 35 of the Indian Constitution cover Fundamental Rights."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "Which body is responsible for amending the Indian Constitution?",
-      "options": [
-        "Rajya Sabha",
-        "Lok Sabha",
-        "Parliament",
-        "Supreme Court"
-      ],
-      "correct": 2,
-      "explanation": "The Parliament of India has the power to amend the Constitution as per Article 368."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Constitution",
-      "question": "Who is the current Speaker of the Lok Sabha?",
-      "options": [
-        "M. Venkaiah Naidu",
-        "Om Birla",
-        "Sushil Kumar Modi",
-        "Nirmala Sitharaman"
-      ],
-      "correct": 1,
-      "explanation": "Om Birla has been serving as the Speaker of the Lok Sabha since 2019."
-    },
-    {
-      "id": 18,
-      "category": "Indian Polity & Constitution",
-      "question": "Which level of government is responsible for local self-governance in India?",
-      "options": [
-        "Union Government",
-        "State Government",
-        "Municipalities and Panchayats",
-        "Judiciary"
-      ],
-      "correct": 2,
-      "explanation": "Municipalities and Panchayats are responsible for local governance in India."
-    },
-    {
-      "id": 19,
-      "category": "General Science",
-      "question": "Which of the following is an example of a chemical change?",
-      "options": [
-        "Melting ice",
-        "Rusting of iron",
-        "Boiling water",
-        "Breaking glass"
-      ],
-      "correct": 1,
-      "explanation": "Rusting of iron involves a chemical reaction, forming iron oxide."
-    },
-    {
-      "id": 20,
-      "category": "General Science",
-      "question": "Vitamin A deficiency primarily affects which part of the human body?",
-      "options": [
-        "Skin",
-        "Eyes",
-        "Bones",
-        "Liver"
-      ],
-      "correct": 1,
-      "explanation": "Vitamin A deficiency can cause night blindness and other eye-related issues."
-    },
-    {
-      "id": 21,
-      "category": "General Science",
-      "question": "Which gas is most abundant in the Earth's atmosphere?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Argon"
-      ],
-      "correct": 1,
-      "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere."
-    },
-    {
-      "id": 22,
-      "category": "General Science",
-      "question": "Which disease is caused by a deficiency of insulin?",
-      "options": [
-        "Malaria",
-        "Diabetes",
-        "Typhoid",
-        "Tuberculosis"
-      ],
-      "correct": 1,
-      "explanation": "Diabetes mellitus results from the body's inability to produce or respond to insulin."
-    },
-    {
-      "id": 23,
-      "category": "Mental Ability & Reasoning",
-      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
-      "options": [
-        "18",
-        "24",
-        "32",
-        "34"
-      ],
-      "correct": 2,
-      "explanation": "The series doubles each time; next is 16×2=32."
-    },
-    {
-      "id": 24,
-      "category": "Mental Ability & Reasoning",
-      "question": "If in a certain language, 'ODISHA' is coded as 'KQKHSMD', what is the code for 'ODIA'?",
-      "options": [
-        "KQIH",
-        "KQKH",
-        "KQIS",
-        "KQHA"
-      ],
-      "correct": 0,
-      "explanation": "Pattern suggests letter shifts; ODIA is coded as KQIH."
-    },
-    {
-      "id": 25,
-      "category": "Mental Ability & Reasoning",
-      "question": "If 'CAT' is coded as 'DBU', then how is 'DOG' coded?",
-      "options": [
-        "EPH",
-        "EPI",
-        "EPL",
-        "EPM"
-      ],
-      "correct": 0,
-      "explanation": "Each letter shifts forward by one; D→E, O→P, G→H."
-    },
-    {
-      "id": 26,
-      "category": "Current Affairs",
       "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
@@ -340,59 +210,189 @@
         "A.P.J. Abdul Kalam"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+      "explanation": "Droupadi Murmu is the current President of India since July 2022."
+    },
+    {
+      "id": 17,
+      "category": "Indian Polity & Constitution",
+      "question": "Which legislative body is responsible for passing the budget in Odisha?",
+      "options": [
+        "Odisha Legislative Assembly",
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Odisha Legislative Council"
+      ],
+      "correct": 0,
+      "explanation": "The Odisha Legislative Assembly is responsible for passing the state budget."
+    },
+    {
+      "id": 18,
+      "category": "Indian Polity & Constitution",
+      "question": "The Panchayati Raj system is an example of:",
+      "options": [
+        "Local self-government",
+        "Central government",
+        "State judiciary",
+        "Union executive"
+      ],
+      "correct": 0,
+      "explanation": "Panchayati Raj is a decentralized form of local self-government in villages."
+    },
+    {
+      "id": 19,
+      "category": "General Science",
+      "question": "Which gas is most responsible for the greenhouse effect?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
+      ],
+      "correct": 0,
+      "explanation": "Carbon dioxide traps heat in the atmosphere, contributing to the greenhouse effect."
+    },
+    {
+      "id": 20,
+      "category": "General Science",
+      "question": "What is the basic unit of life?",
+      "options": [
+        "Cell",
+        "Tissue",
+        "Organ",
+        "Organ system"
+      ],
+      "correct": 0,
+      "explanation": "The cell is the fundamental unit of life in biology."
+    },
+    {
+      "id": 21,
+      "category": "General Science",
+      "question": "Which element is essential for the process of photosynthesis?",
+      "options": [
+        "Chlorine",
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correct": 2,
+      "explanation": "Carbon dioxide is essential for photosynthesis, where plants produce oxygen."
+    },
+    {
+      "id": 22,
+      "category": "General Science",
+      "question": "Which disease is caused by deficiency of Vitamin D?",
+      "options": [
+        "Scurvy",
+        "Rickets",
+        "Anemia",
+        "Beriberi"
+      ],
+      "correct": 1,
+      "explanation": "Vitamin D deficiency causes rickets, leading to weak bones."
+    },
+    {
+      "id": 23,
+      "category": "Mental Ability & Reasoning",
+      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
+      "options": [
+        "20",
+        "24",
+        "32",
+        "18"
+      ],
+      "correct": 2,
+      "explanation": "The series doubles each time; next is 16×2 = 32."
+    },
+    {
+      "id": 24,
+      "category": "Mental Ability & Reasoning",
+      "question": "If ‘CAT’ is coded as ‘DBU’, how is ‘DOG’ coded?",
+      "options": [
+        "EPH",
+        "EPI",
+        "EQR",
+        "EPM"
+      ],
+      "correct": 0,
+      "explanation": "Each letter shifts one step forward in the alphabet; thus, D→E, O→P, G→H."
+    },
+    {
+      "id": 25,
+      "category": "Mental Ability & Reasoning",
+      "question": "Which of the following is the analogy: Book : Reading :: Pen : ?",
+      "options": [
+        "Writing",
+        "Drawing",
+        "Scribbling",
+        "Holding"
+      ],
+      "correct": 0,
+      "explanation": "A pen is used for writing, similar to how a book is used for reading."
+    },
+    {
+      "id": 26,
+      "category": "Mental Ability & Reasoning",
+      "question": "In a certain code, if ORANGE is written as QSPBOF, how is APPLE written?",
+      "options": [
+        "BQMMF",
+        "BQQMF",
+        "APPQM",
+        "AQQMF"
+      ],
+      "correct": 1,
+      "explanation": "Each letter is shifted one alphabet forward; A→B, P→Q, P→Q, L→M, E→F."
     },
     {
       "id": 27,
       "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India to promote digital payments?",
+      "question": "Who is the current Prime Minister of India?",
       "options": [
-        "Swachh Bharat",
-        "Digital India",
-        "Make in India",
-        "Skill India"
+        "Narendra Modi",
+        "Mohan Charan Majhi",
+        "Ram Nath Kovind",
+        "Amit Shah"
       ],
-      "correct": 1,
-      "explanation": "Digital India aims to promote digital payments and empower citizens with digital services."
+      "correct": 0,
+      "explanation": "Narendra Modi has been the Prime Minister since 2014."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Who was awarded the Padma Bhushan in 2025 for contributions in Literature?",
+      "question": "Which of the following is a recent initiative by the Government of Odisha?",
       "options": [
-        "Arundhati Roy",
-        "Kiran Desai",
-        "Chitra Banerjee Divakaruni",
-        "Sudha Murty"
+        "Odisha Rural Development Scheme",
+        "KALIA Scheme",
+        "Make in India",
+        "Digital India"
       ],
-      "correct": 0,
-      "explanation": "Arundhati Roy was awarded the Padma Bhushan in 2025 for her contributions to literature."
+      "correct": 1,
+      "explanation": "KALIA Scheme is a recent Odisha government initiative for farmers' welfare."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Which major sporting event did India host in 2023?",
+      "question": "Who has been awarded the Padma Shri in 2025 for sports?",
       "options": [
-        "Commonwealth Games",
-        "Asian Games",
-        "FIFA World Cup",
-        "International Cricket Council World Test Championship"
+        "Deepa Karmakar",
+        "Saurabh Saha",
+        "Neeraj Chopra",
+        "PV Sindhu"
       ],
-      "correct": 1,
-      "explanation": "India hosted the 2023 Asian Games, featuring multiple sports and nations."
+      "correct": 2,
+      "explanation": "Neeraj Chopra, an Olympic gold medalist, was awarded the Padma Shri in 2025."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "Who is the current Chief Minister of Odisha as of 2026?",
+      "question": "Which scheme was launched by the Central Government for formalization of micro food processing units?",
       "options": [
-        "Mohan Charan Majhi",
-        "Naveen Patnaik",
-        "Biju Patnaik",
-        "Nishank"
+        "PM Matsya Sampada Yojana",
+        "Pradhan Mantri Formalisation of Micro Food Processing Enterprises",
+        "Swachh Bharat Abhiyan",
+        "Atal Mission for Rejuvenation and Urban Transformation"
       ],
-      "correct": 0,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "correct": 1,
+      "explanation": "The scheme is aimed at supporting small food processing units to formalize and grow."
     }
   ]
 }

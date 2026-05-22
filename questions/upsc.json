@@ -1,50 +1,37 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Who was the founder of the Mughal Empire in India?",
+      "question": "Who was the last Governor-General of independent India before the establishment of the President's office?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Shah Jahan",
-        "Humayun"
+        "C. Rajagopalachari",
+        "Lord Mountbatten",
+        "Rajendra Prasad",
+        "John Mathai"
       ],
       "correct": 0,
-      "explanation": "Babur founded the Mughal Empire in India in 1526 after the Battle of Panipat."
+      "explanation": "C. Rajagopalachari was the last Governor-General of India, serving until 1950 when India became a republic and the office was abolished."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Which Indian freedom fighter is known for the slogan 'Inquilab Zindabad'?",
+      "question": "Which monument is associated with the medieval Mughal era in India?",
       "options": [
-        "Subhas Chandra Bose",
-        "Bhagat Singh",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru"
+        "Qutub Minar",
+        "Taj Mahal",
+        "Fatehpur Sikri",
+        "All of the above"
       ],
-      "correct": 1,
-      "explanation": "'Inquilab Zindabad' was popularized by Bhagat Singh and his associates during the freedom struggle."
+      "correct": 3,
+      "explanation": "All listed monuments—Qutub Minar, Taj Mahal, and Fatehpur Sikri—are prominent Mughal era structures."
     },
     {
       "id": 3,
-      "category": "Indian History",
-      "question": "During which period did the Battle of Plassey take place?",
-      "options": [
-        "1757",
-        "1857",
-        "1600",
-        "1707"
-      ],
-      "correct": 0,
-      "explanation": "The Battle of Plassey was fought in 1757 and marked the beginning of British colonial dominance in India."
-    },
-    {
-      "id": 4,
       "category": "Indian History",
       "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
@@ -54,20 +41,33 @@
         "Bal Gangadhar Tilak"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920 as a mass protest against British rule."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920 against British rule."
+    },
+    {
+      "id": 4,
+      "category": "Indian History",
+      "question": "Which event marked the beginning of the Indian independence movement?",
+      "options": [
+        "Partition of Bengal (1905)",
+        "Jallianwala Bagh Massacre (1919)",
+        "Champaran Satyagraha (1917)",
+        "Formation of Indian National Congress (1885)"
+      ],
+      "correct": 3,
+      "explanation": "The formation of the Indian National Congress in 1885 is considered a significant starting point of organized independence movement."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Which document marked the beginning of modern Indian history in 1858?",
+      "question": "Who was the founder of the Indian National Army (INA)?",
       "options": [
-        "Indian Independence Act",
-        "Government of India Act 1858",
-        "Indian Penal Code",
-        "Charter Act of 1833"
+        "Subhas Chandra Bose",
+        "Bhagat Singh",
+        "Lala Lajpat Rai",
+        "Vallabhbhai Patel"
       ],
-      "correct": 1,
-      "explanation": "The Government of India Act 1858 marked the transfer of power from East India Company to the British Crown."
+      "correct": 0,
+      "explanation": "Subhas Chandra Bose founded the Indian National Army (INA) to fight against British rule."
     },
     {
       "id": 6,
@@ -79,47 +79,47 @@
         "Brahmaputra",
         "Godavari"
       ],
-      "correct": 1,
-      "explanation": "The Indus River is considered the longest river flowing through India and Pakistan."
+      "correct": 0,
+      "explanation": "The Ganges is the longest river in India, flowing approximately 2,525 km."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which resource is primarily extracted from the Bhilai Steel Plant?",
+      "question": "Which Indian state has the highest percentage of forest cover?",
       "options": [
-        "Iron ore",
-        "Coal",
-        "Coking coal",
-        "Steel"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Arunachal Pradesh",
+        "Odisha"
       ],
-      "correct": 3,
-      "explanation": "Bhilai Steel Plant primarily produces steel, utilizing iron ore and coking coal."
+      "correct": 2,
+      "explanation": "Arunachal Pradesh has the highest percentage of forest cover among Indian states."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+      "question": "Which climate zone is primarily found in the Thar Desert?",
       "options": [
-        "Bangalore",
-        "Hyderabad",
-        "Pune",
-        "Chennai"
+        "Tropical humid",
+        "Arid",
+        "Montane",
+        "Mediterranean"
       ],
-      "correct": 0,
-      "explanation": "Bangalore is popularly called the 'Silicon Valley of India' due to its thriving IT industry."
+      "correct": 1,
+      "explanation": "The Thar Desert predominantly has an arid climate zone, characterized by low rainfall."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which climate zone is predominant in Rajasthan?",
+      "question": "Which resource is most abundantly found in the Brahmaputra Valley?",
       "options": [
-        "Tropical moist",
-        "Arid/Desert",
-        "Humid subtropical",
-        "Mountain"
+        "Coal",
+        "Petroleum",
+        "Tea",
+        "Iron ore"
       ],
-      "correct": 1,
-      "explanation": "Rajasthan mainly has an arid or desert climate, characterized by extreme temperatures and low rainfall."
+      "correct": 2,
+      "explanation": "The Brahmaputra Valley is famous for its tea cultivation, being one of the world's largest tea-producing regions."
     },
     {
       "id": 10,
@@ -129,218 +129,218 @@
         "The President of India",
         "The Prime Minister",
         "The Parliament",
-        "The Chief Justice of India himself"
+        "The Law Minister"
       ],
       "correct": 0,
-      "explanation": "The Chief Justice of India is appointed by the President of India."
+      "explanation": "The President of India appoints the Chief Justice of India as per constitutional provisions."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
+      "question": "The 'Zero Hour' in the Indian Parliament begins at:",
       "options": [
-        "Article 14",
-        "Articles 12-35",
-        "Article 368",
-        "Article 51"
+        "11:00 AM",
+        "12:00 PM",
+        "11:00 AM to 12:00 PM",
+        "Immediately after question hour"
       ],
-      "correct": 1,
-      "explanation": "Articles 12 to 35 of the Indian Constitution elaborate on Fundamental Rights."
+      "correct": 2,
+      "explanation": "'Zero Hour' in the Indian Parliament typically starts immediately after Question Hour, around 11:00 AM, but its duration can vary; it's a period for important issues without prior notice."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Who is the current Speaker of the Lok Sabha?",
+      "question": "Which article of the Indian Constitution provides for the establishment of Panchayats?",
       "options": [
-        "Om Birla",
-        "M Venkaiah Naidu",
-        "Nirmala Sitharaman",
-        "Droupadi Murmu"
+        "Article 243",
+        "Article 370",
+        "Article 295",
+        "Article 82"
       ],
       "correct": 0,
-      "explanation": "Om Birla is the current Speaker of the Lok Sabha since 2019."
+      "explanation": "Article 243 of the Indian Constitution provides for the constitution and powers of Panchayats."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which committee is responsible for the financial budget of the Union Government?",
+      "question": "The Fundamental Rights are protected and enforced by the:",
       "options": [
-        "Parliamentary Committee",
-        "Public Accounts Committee",
-        "Finance Committee",
-        "Appropriation Committee"
+        "Supreme Court",
+        "Parliament",
+        "State Legislatures",
+        "President"
       ],
-      "correct": 2,
-      "explanation": "The Finance Committee scrutinizes the budget estimates and expenditure of the Government."
+      "correct": 0,
+      "explanation": "The Supreme Court of India protects and enforces Fundamental Rights."
     },
     {
       "id": 14,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a fundamental duty of Indian citizens as per the Constitution?",
+      "question": "Who among the following is the current Speaker of the Lok Sabha?",
       "options": [
-        "To vote",
-        "To respect the National Flag",
-        "To pay taxes",
-        "To serve in the armed forces"
+        "M. Venkaiah Naidu",
+        "Om Birla",
+        "Nirmala Sitharaman",
+        "S. Jaishankar"
       ],
       "correct": 1,
-      "explanation": "Respect for the National Flag is a Fundamental Duty listed in Article 51A of the Constitution."
+      "explanation": "Om Birla has been serving as the Speaker of the Lok Sabha since 2019."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Who is the current Finance Minister of India?",
+      "question": "The Union Budget of India is presented by the:",
       "options": [
-        "Nirmala Sitharaman",
-        "S. Jaishankar",
-        "M. Venkiah Naidu",
-        "Piyush Goyal"
+        "Prime Minister",
+        "Finance Minister",
+        "President",
+        "Lok Sabha Speaker"
       ],
-      "correct": 0,
-      "explanation": "Nirmala Sitharaman is the current Finance Minister of India since 2019."
+      "correct": 1,
+      "explanation": "The Finance Minister presents the Union Budget in Parliament."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which plan marked the beginning of the Five Year Plans in India?",
+      "question": "Which organization is responsible for regulating the Indian banking sector?",
       "options": [
-        "First Five Year Plan",
-        "Second Five Year Plan",
-        "Third Five Year Plan",
-        "Zero-based Plan"
+        "RBI",
+        "SEBI",
+        "IRDA",
+        "CAIIB"
       ],
       "correct": 0,
-      "explanation": "India’s First Five Year Plan started in 1951, focusing on agriculture and industry."
+      "explanation": "The Reserve Bank of India (RBI) regulates the Indian banking sector."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "Which sector contributes the maximum to India’s GDP?",
+      "question": "India's GDP growth rate in recent years has been primarily driven by:",
       "options": [
         "Agriculture",
-        "Industry",
-        "Services",
-        "Manufacturing"
+        "Manufacturing and Services",
+        "Mining",
+        "Construction"
       ],
-      "correct": 2,
-      "explanation": "The services sector contributes the largest share to India’s GDP."
+      "correct": 1,
+      "explanation": "The growth of India's GDP has been mainly driven by manufacturing and services sectors."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "What does the term 'Budget Deficit' refer to?",
+      "question": "Which plan marked the beginning of the Five-Year Plans in India?",
       "options": [
-        "When revenue exceeds expenditure",
-        "When expenditure exceeds revenue",
-        "Balanced budget",
-        "Surplus budget"
+        "First Five Year Plan",
+        "Second Five Year Plan",
+        "Third Five Year Plan",
+        "Mahatma Gandhi Plan"
       ],
-      "correct": 1,
-      "explanation": "Budget deficit occurs when the government’s expenditure exceeds its revenue."
+      "correct": 0,
+      "explanation": "The First Five Year Plan (1951-1956) marked the start of India's planned economic development."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which fundamental force is responsible for the binding of protons and neutrons in the nucleus?",
+      "question": "Which element is the primary constituent of the ozone layer?",
       "options": [
-        "Gravitational force",
-        "Electromagnetic force",
-        "Strong nuclear force",
-        "Weak nuclear force"
+        "Oxygen",
+        "Nitrogen",
+        "Chlorine",
+        "Argon"
       ],
-      "correct": 2,
-      "explanation": "The strong nuclear force binds protons and neutrons within the nucleus."
+      "correct": 0,
+      "explanation": "Ozone is a form of oxygen (O₃), and the primary constituent of the ozone layer is oxygen molecules."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element is used in the manufacturing of nuclear fuel pellets?",
+      "question": "The process of photosynthesis occurs in which part of the plant?",
       "options": [
-        "Uranium",
-        "Thorium",
-        "Plutonium",
-        "Radon"
+        "Root",
+        "Stem",
+        "Leaves",
+        "Flowers"
       ],
-      "correct": 0,
-      "explanation": "Uranium is commonly used in nuclear fuel pellets for reactors."
+      "correct": 2,
+      "explanation": "Photosynthesis primarily occurs in the leaves of plants where chlorophyll is present."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which biological process is responsible for the conversion of glucose into energy?",
+      "question": "Which technology is used in the manufacturing of smart phones?",
       "options": [
-        "Photosynthesis",
-        "Respiration",
-        "Transpiration",
-        "Digestion"
+        "Semiconductors",
+        "Hydraulics",
+        "Bioinformatics",
+        "Nanotechnology"
       ],
-      "correct": 1,
-      "explanation": "Cellular respiration converts glucose to energy in biological systems."
+      "correct": 0,
+      "explanation": "Semiconductors are essential for manufacturing microprocessors in smartphones."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which technology is used in the Global Positioning System (GPS)?",
+      "question": "Which planet is known as the 'Red Planet'?",
       "options": [
-        "Radio waves",
-        "Infrared signals",
-        "Satellites",
-        "Optical fibers"
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
       ],
-      "correct": 2,
-      "explanation": "GPS relies on satellites to provide location data globally."
+      "correct": 0,
+      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which is the world's largest biodiversity hotspot?",
+      "question": "Which biodiversity hotspot is located in India?",
       "options": [
+        "Sundaland",
         "Western Ghats",
-        "Himalayas",
-        "Indo-Burma",
-        "Sundaland"
+        "Amazon",
+        "Indo-Burma"
       ],
-      "correct": 2,
-      "explanation": "The Indo-Burma region is recognized as the world's largest biodiversity hotspot."
+      "correct": 1,
+      "explanation": "The Western Ghats is a recognized biodiversity hotspot in India."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which environmental law aims to protect wildlife and biodiversity in India?",
+      "question": "The Convention on Biological Diversity was adopted in which year?",
       "options": [
-        "Wildlife Protection Act, 1972",
-        "Environment Protection Act, 1986",
-        "Air Act, 1981",
-        "Water Act, 1974"
+        "1992",
+        "2000",
+        "1982",
+        "2010"
       ],
       "correct": 0,
-      "explanation": "The Wildlife Protection Act of 1972 is designed to protect wildlife and biodiversity."
+      "explanation": "The Convention on Biological Diversity was adopted during the Earth Summit in Rio de Janeiro in 1992."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which international agreement aims to reduce global greenhouse gas emissions?",
+      "question": "Which law in India seeks to protect the environment and biodiversity?",
       "options": [
-        "Kyoto Protocol",
-        "Montreal Protocol",
-        "Paris Agreement",
-        "Copenhagen Summit"
+        "Wildlife Protection Act",
+        "Forest Conservation Act",
+        "Environment Protection Act",
+        "Air Act"
       ],
       "correct": 2,
-      "explanation": "The Paris Agreement (2015) aims to limit global warming by reducing emissions."
+      "explanation": "The Environment Protection Act, 1986, is a comprehensive law aimed at protecting the environment in India."
     },
     {
       "id": 26,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a renewable energy source?",
+      "question": "Which is the largest protected area in India in terms of area?",
       "options": [
-        "Coal",
-        "Natural Gas",
-        "Solar Power",
-        "Petroleum"
+        "Sundarbans National Park",
+        "Nanda Devi National Park",
+        "Kaziranga National Park",
+        "Ranthambore National Park"
       ],
-      "correct": 2,
-      "explanation": "Solar power harnesses energy from the sun, making it a renewable source."
+      "correct": 0,
+      "explanation": "The Sundarbans National Park is the largest protected area in India by area."
     },
     {
       "id": 27,
@@ -350,7 +350,7 @@
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "Raman Singh"
+        "Shankar Dayal Sharma"
       ],
       "correct": 0,
       "explanation": "Droupadi Murmu is the current President of India since 2022."
@@ -358,15 +358,15 @@
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Prime Minister of India?",
+      "question": "Which country won the FIFA World Cup 2022?",
       "options": [
-        "Narendra Modi",
-        "Manmohan Singh",
-        "Amit Shah",
-        "Rajnath Singh"
+        "Brazil",
+        "France",
+        "Argentina",
+        "Germany"
       ],
-      "correct": 0,
-      "explanation": "Narendra Modi has been the Prime Minister since 2014."
+      "correct": 2,
+      "explanation": "Argentina won the FIFA World Cup in 2022 held in Qatar."
     },
     {
       "id": 29,
@@ -374,25 +374,25 @@
       "question": "Which scheme was launched by the Government of India to promote digital payments?",
       "options": [
         "Digital India",
+        "Startup India",
         "Make in India",
-        "Start-up India",
         "Skill India"
       ],
       "correct": 0,
-      "explanation": "Digital India aims to promote digital payments, digital infrastructure, and digital literacy."
+      "explanation": "Digital India aims to promote digital payments and digital infrastructure."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Which international sports event is scheduled to be hosted by India in 2026?",
+      "question": "Who among the following is the current Chief Minister of Odisha?",
       "options": [
-        "Commonwealth Games",
-        "Asian Games",
-        "FIFA World Cup",
-        "Hockey World Cup"
+        "Naveen Patnaik",
+        "Mohan Charan Majhi",
+        "Nitish Kumar",
+        "Mamata Banerjee"
       ],
       "correct": 1,
-      "explanation": "India is scheduled to host the Asian Games in 2026."
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
     }
   ]
 }
