@@ -1,82 +1,82 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Indian History",
-      "question": "Who was the last Governor-General of independent India before the establishment of the President's office?",
+      "category": "Indian History - Ancient",
+      "question": "Which of the following ancient texts is primarily associated with the early Vedic period?",
       "options": [
-        "C. Rajagopalachari",
-        "Lord Mountbatten",
-        "Rajendra Prasad",
-        "John Mathai"
+        "Arthashastra",
+        "Rigveda",
+        "Mahabharata",
+        "Ashvamedha"
       ],
-      "correct": 0,
-      "explanation": "C. Rajagopalachari was the last Governor-General of India, serving until 1950 when India became a republic and the office was abolished."
+      "correct": 1,
+      "explanation": "The Rigveda is one of the oldest texts associated with the early Vedic period in India."
     },
     {
       "id": 2,
-      "category": "Indian History",
-      "question": "Which monument is associated with the medieval Mughal era in India?",
+      "category": "Indian History - Medieval",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Qutub Minar",
-        "Taj Mahal",
-        "Fatehpur Sikri",
-        "All of the above"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Humayun"
       ],
-      "correct": 3,
-      "explanation": "All listed monuments—Qutub Minar, Taj Mahal, and Fatehpur Sikri—are prominent Mughal era structures."
+      "correct": 0,
+      "explanation": "Babur founded the Mughal Empire in India in 1526 after the Battle of Panipat."
     },
     {
       "id": 3,
-      "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
+      "category": "Indian History - Modern",
+      "question": "Who was the leader of the Salt Satyagraha in 1930?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
         "Subhas Chandra Bose",
-        "Bal Gangadhar Tilak"
+        "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920 against British rule."
+      "explanation": "Mahatma Gandhi led the Salt Satyagraha, a major nonviolent protest against British salt laws."
     },
     {
       "id": 4,
-      "category": "Indian History",
-      "question": "Which event marked the beginning of the Indian independence movement?",
+      "category": "Indian History - Freedom Struggle",
+      "question": "The Non-Cooperation Movement was launched in which year?",
       "options": [
-        "Partition of Bengal (1905)",
-        "Jallianwala Bagh Massacre (1919)",
-        "Champaran Satyagraha (1917)",
-        "Formation of Indian National Congress (1885)"
+        "1920",
+        "1922",
+        "1930",
+        "1919"
       ],
-      "correct": 3,
-      "explanation": "The formation of the Indian National Congress in 1885 is considered a significant starting point of organized independence movement."
+      "correct": 0,
+      "explanation": "The Non-Cooperation Movement was launched in 1920 as a mass protest against British rule."
     },
     {
       "id": 5,
-      "category": "Indian History",
-      "question": "Who was the founder of the Indian National Army (INA)?",
+      "category": "Indian History - Freedom Struggle",
+      "question": "Who was the first President of Indian National Congress?",
       "options": [
-        "Subhas Chandra Bose",
-        "Bhagat Singh",
-        "Lala Lajpat Rai",
-        "Vallabhbhai Patel"
+        "Dadabhai Naoroji",
+        "Womesh Chunder Bonnerjee",
+        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi"
       ],
-      "correct": 0,
-      "explanation": "Subhas Chandra Bose founded the Indian National Army (INA) to fight against British rule."
+      "correct": 1,
+      "explanation": "Womesh Chunder Bonnerjee was the first President of the Indian National Congress in 1885."
     },
     {
       "id": 6,
-      "category": "Indian Geography",
+      "category": "Indian Geography - Physical",
       "question": "Which is the longest river in India?",
       "options": [
         "Ganges",
-        "Indus",
         "Brahmaputra",
+        "Indus",
         "Godavari"
       ],
       "correct": 0,
@@ -84,315 +84,315 @@
     },
     {
       "id": 7,
-      "category": "Indian Geography",
-      "question": "Which Indian state has the highest percentage of forest cover?",
+      "category": "Indian Geography - Climate",
+      "question": "The monsoon season in India is primarily caused by:",
       "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Arunachal Pradesh",
-        "Odisha"
+        "Western Disturbances",
+        "Southwest Monsoon Winds",
+        "Tropical Cyclones",
+        "Jet Streams"
       ],
-      "correct": 2,
-      "explanation": "Arunachal Pradesh has the highest percentage of forest cover among Indian states."
+      "correct": 1,
+      "explanation": "The southwest monsoon winds bring heavy rainfall to India between June and September."
     },
     {
       "id": 8,
-      "category": "Indian Geography",
-      "question": "Which climate zone is primarily found in the Thar Desert?",
+      "category": "Indian Geography - Resources",
+      "question": "Which state is the largest producer of coal in India?",
       "options": [
-        "Tropical humid",
-        "Arid",
-        "Montane",
-        "Mediterranean"
+        "Jharkhand",
+        "Odisha",
+        "Chhattisgarh",
+        "West Bengal"
       ],
-      "correct": 1,
-      "explanation": "The Thar Desert predominantly has an arid climate zone, characterized by low rainfall."
+      "correct": 2,
+      "explanation": "Chhattisgarh is the largest coal-producing state in India."
     },
     {
       "id": 9,
-      "category": "Indian Geography",
-      "question": "Which resource is most abundantly found in the Brahmaputra Valley?",
+      "category": "Indian Geography - Economic",
+      "question": "Which sector contributes the highest to India’s GDP?",
       "options": [
-        "Coal",
-        "Petroleum",
-        "Tea",
-        "Iron ore"
+        "Agriculture",
+        "Manufacturing",
+        "Services",
+        "Mining"
       ],
       "correct": 2,
-      "explanation": "The Brahmaputra Valley is famous for its tea cultivation, being one of the world's largest tea-producing regions."
+      "explanation": "The services sector contributes the highest share to India’s GDP."
     },
     {
       "id": 10,
-      "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "category": "Indian Polity & Governance - Constitution",
+      "question": "Who is the chief architect of the Indian Constitution?",
       "options": [
-        "The President of India",
-        "The Prime Minister",
-        "The Parliament",
-        "The Law Minister"
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel"
       ],
       "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India as per constitutional provisions."
+      "explanation": "Dr. B.R. Ambedkar is known as the chief architect of the Indian Constitution."
     },
     {
       "id": 11,
-      "category": "Indian Polity & Governance",
-      "question": "The 'Zero Hour' in the Indian Parliament begins at:",
+      "category": "Indian Polity & Governance - Parliament",
+      "question": "The Lok Sabha is constituted for a term of:",
       "options": [
-        "11:00 AM",
-        "12:00 PM",
-        "11:00 AM to 12:00 PM",
-        "Immediately after question hour"
+        "3 years",
+        "5 years",
+        "6 years",
+        "4 years"
       ],
-      "correct": 2,
-      "explanation": "'Zero Hour' in the Indian Parliament typically starts immediately after Question Hour, around 11:00 AM, but its duration can vary; it's a period for important issues without prior notice."
+      "correct": 1,
+      "explanation": "The Lok Sabha has a tenure of 5 years unless dissolved sooner."
     },
     {
       "id": 12,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution provides for the establishment of Panchayats?",
+      "category": "Indian Polity & Governance - Judiciary",
+      "question": "The Supreme Court of India was established in which year?",
       "options": [
-        "Article 243",
-        "Article 370",
-        "Article 295",
-        "Article 82"
+        "1947",
+        "1950",
+        "1952",
+        "1956"
       ],
-      "correct": 0,
-      "explanation": "Article 243 of the Indian Constitution provides for the constitution and powers of Panchayats."
+      "correct": 1,
+      "explanation": "The Supreme Court of India was established in 1950."
     },
     {
       "id": 13,
-      "category": "Indian Polity & Governance",
-      "question": "The Fundamental Rights are protected and enforced by the:",
+      "category": "Indian Polity & Governance - Panchayati Raj",
+      "question": "The 73rd Amendment Act, 1992, is related to:",
       "options": [
-        "Supreme Court",
-        "Parliament",
-        "State Legislatures",
-        "President"
+        "Urban Local Bodies",
+        "Rural Local Bodies",
+        "Fundamental Rights",
+        "Judicial Reforms"
       ],
-      "correct": 0,
-      "explanation": "The Supreme Court of India protects and enforces Fundamental Rights."
+      "correct": 1,
+      "explanation": "The 73rd Amendment Act relates to Rural Local Bodies (Panchayats)."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "Who among the following is the current Speaker of the Lok Sabha?",
+      "category": "Indian Polity & Governance - Fundamental Rights",
+      "question": "Which Fundamental Right provides freedom of speech and expression?",
       "options": [
-        "M. Venkaiah Naidu",
-        "Om Birla",
-        "Nirmala Sitharaman",
-        "S. Jaishankar"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Right to Religion"
       ],
       "correct": 1,
-      "explanation": "Om Birla has been serving as the Speaker of the Lok Sabha since 2019."
+      "explanation": "The Right to Freedom guarantees freedom of speech and expression."
     },
     {
       "id": 15,
-      "category": "Indian Economy",
-      "question": "The Union Budget of India is presented by the:",
+      "category": "Indian Economy - Budget & Reforms",
+      "question": "The introduction of Goods and Services Tax (GST) in India was implemented in which year?",
       "options": [
-        "Prime Minister",
-        "Finance Minister",
-        "President",
-        "Lok Sabha Speaker"
+        "2015",
+        "2016",
+        "2017",
+        "2018"
       ],
-      "correct": 1,
-      "explanation": "The Finance Minister presents the Union Budget in Parliament."
+      "correct": 2,
+      "explanation": "GST was implemented in India on July 1, 2017."
     },
     {
       "id": 16,
-      "category": "Indian Economy",
-      "question": "Which organization is responsible for regulating the Indian banking sector?",
+      "category": "Indian Economy - Banking & GDP",
+      "question": "Which organization publishes the 'Financial Stability Report' in India?",
       "options": [
         "RBI",
         "SEBI",
-        "IRDA",
-        "CAIIB"
+        "Ministry of Finance",
+        "NITI Aayog"
       ],
       "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) regulates the Indian banking sector."
+      "explanation": "The Reserve Bank of India (RBI) publishes the Financial Stability Report."
     },
     {
       "id": 17,
-      "category": "Indian Economy",
-      "question": "India's GDP growth rate in recent years has been primarily driven by:",
+      "category": "Indian Economy - Five Year Plans & Trade",
+      "question": "India’s first Five Year Plan was launched in which year?",
       "options": [
-        "Agriculture",
-        "Manufacturing and Services",
-        "Mining",
-        "Construction"
+        "1951-1956",
+        "1947-1952",
+        "1961-1966",
+        "1971-1976"
       ],
-      "correct": 1,
-      "explanation": "The growth of India's GDP has been mainly driven by manufacturing and services sectors."
+      "correct": 0,
+      "explanation": "India’s first Five Year Plan began in 1951."
     },
     {
       "id": 18,
-      "category": "Indian Economy",
-      "question": "Which plan marked the beginning of the Five-Year Plans in India?",
-      "options": [
-        "First Five Year Plan",
-        "Second Five Year Plan",
-        "Third Five Year Plan",
-        "Mahatma Gandhi Plan"
-      ],
-      "correct": 0,
-      "explanation": "The First Five Year Plan (1951-1956) marked the start of India's planned economic development."
-    },
-    {
-      "id": 19,
-      "category": "General Science",
-      "question": "Which element is the primary constituent of the ozone layer?",
+      "category": "General Science - Physics & Chemistry",
+      "question": "Which of the following is a noble gas?",
       "options": [
         "Oxygen",
         "Nitrogen",
-        "Chlorine",
-        "Argon"
+        "Helium",
+        "Carbon Dioxide"
+      ],
+      "correct": 2,
+      "explanation": "Helium is a noble gas and inert in nature."
+    },
+    {
+      "id": 19,
+      "category": "General Science - Biology & Space",
+      "question": "The element responsible for carrying oxygen in blood is:",
+      "options": [
+        "Iron",
+        "Copper",
+        "Calcium",
+        "Magnesium"
       ],
       "correct": 0,
-      "explanation": "Ozone is a form of oxygen (O₃), and the primary constituent of the ozone layer is oxygen molecules."
+      "explanation": "Iron in hemoglobin binds oxygen to carry it in blood."
     },
     {
       "id": 20,
-      "category": "General Science",
-      "question": "The process of photosynthesis occurs in which part of the plant?",
+      "category": "General Science - Technology & Space",
+      "question": "Which India’s space mission was the first to reach Mars orbit?",
       "options": [
-        "Root",
-        "Stem",
-        "Leaves",
-        "Flowers"
+        "Chandrayaan-2",
+        "Mangalyaan",
+        "Rohini",
+        "ISRO Satellite Launch Vehicle"
       ],
-      "correct": 2,
-      "explanation": "Photosynthesis primarily occurs in the leaves of plants where chlorophyll is present."
+      "correct": 1,
+      "explanation": "Mangalyaan, launched in 2013, was India’s first interplanetary mission reaching Mars orbit."
     },
     {
       "id": 21,
-      "category": "General Science",
-      "question": "Which technology is used in the manufacturing of smart phones?",
+      "category": "Environment & Ecology - Biodiversity & Conservation",
+      "question": "Which of the following is a UNESCO World Heritage Site in India?",
       "options": [
-        "Semiconductors",
-        "Hydraulics",
-        "Bioinformatics",
-        "Nanotechnology"
+        "Sundarbans",
+        "Nilgiri Hills",
+        "Ranthambore National Park",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "Semiconductors are essential for manufacturing microprocessors in smartphones."
+      "correct": 3,
+      "explanation": "All listed sites are UNESCO World Heritage Sites in India."
     },
     {
       "id": 22,
-      "category": "General Science",
-      "question": "Which planet is known as the 'Red Planet'?",
+      "category": "Environment & Ecology - Climate Change & Laws",
+      "question": "The Kyoto Protocol is related to:",
       "options": [
-        "Mars",
-        "Venus",
-        "Jupiter",
-        "Saturn"
+        "Biodiversity Conservation",
+        "Climate Change",
+        "Ozone Depletion",
+        "Marine Pollution"
       ],
-      "correct": 0,
-      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide."
+      "correct": 1,
+      "explanation": "Kyoto Protocol is an international treaty for addressing climate change."
     },
     {
       "id": 23,
-      "category": "Environment & Ecology",
-      "question": "Which biodiversity hotspot is located in India?",
+      "category": "Environment & Ecology - Protected Areas",
+      "question": "Which of the following is the largest national park in India?",
       "options": [
-        "Sundaland",
-        "Western Ghats",
-        "Amazon",
-        "Indo-Burma"
+        "Jim Corbett",
+        "Kanha",
+        "Kaziranga",
+        "Gulf of Mannar Marine National Park"
       ],
-      "correct": 1,
-      "explanation": "The Western Ghats is a recognized biodiversity hotspot in India."
+      "correct": 2,
+      "explanation": "Kaziranga National Park is the largest in India, known for its one-horned rhinoceros."
     },
     {
       "id": 24,
-      "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity was adopted in which year?",
+      "category": "Environment & Ecology - Laws & Biodiversity",
+      "question": "The Biological Diversity Act, 2002, aims to:",
       "options": [
-        "1992",
-        "2000",
-        "1982",
-        "2010"
+        "Protect Endangered Species",
+        "Conserve Ecosystems",
+        "Regulate Bioprospecting",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The Convention on Biological Diversity was adopted during the Earth Summit in Rio de Janeiro in 1992."
+      "correct": 3,
+      "explanation": "The act covers conservation, sustainable use, and fair sharing of benefits from bioprospecting."
     },
     {
       "id": 25,
-      "category": "Environment & Ecology",
-      "question": "Which law in India seeks to protect the environment and biodiversity?",
-      "options": [
-        "Wildlife Protection Act",
-        "Forest Conservation Act",
-        "Environment Protection Act",
-        "Air Act"
-      ],
-      "correct": 2,
-      "explanation": "The Environment Protection Act, 1986, is a comprehensive law aimed at protecting the environment in India."
-    },
-    {
-      "id": 26,
-      "category": "Environment & Ecology",
-      "question": "Which is the largest protected area in India in terms of area?",
-      "options": [
-        "Sundarbans National Park",
-        "Nanda Devi National Park",
-        "Kaziranga National Park",
-        "Ranthambore National Park"
-      ],
-      "correct": 0,
-      "explanation": "The Sundarbans National Park is the largest protected area in India by area."
-    },
-    {
-      "id": 27,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current President of India as of 2026?",
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "Shankar Dayal Sharma"
+        "A.P.J. Abdul Kalam"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India since 2022."
+      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+    },
+    {
+      "id": 26,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current Prime Minister of India?",
+      "options": [
+        "Narendra Modi",
+        "Manmohan Singh",
+        "Rajiv Gandhi",
+        "Atal B. Vajpayee"
+      ],
+      "correct": 0,
+      "explanation": "Narendra Modi has been the Prime Minister since 26 May 2014."
+    },
+    {
+      "id": 27,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
+      "options": [
+        "Odisha",
+        "West Bengal",
+        "Bihar",
+        "Jharkhand"
+      ],
+      "correct": 0,
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
     },
     {
       "id": 28,
-      "category": "Current Affairs & GK",
-      "question": "Which country won the FIFA World Cup 2022?",
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current External Affairs Minister of India?",
       "options": [
-        "Brazil",
-        "France",
-        "Argentina",
-        "Germany"
+        "S. Jaishankar",
+        "Nirmala Sitharaman",
+        "Subrahmanyam Jaishankar",
+        "P. Chidambaram"
       ],
-      "correct": 2,
-      "explanation": "Argentina won the FIFA World Cup in 2022 held in Qatar."
+      "correct": 0,
+      "explanation": "S. Jaishankar is the current External Affairs Minister of India."
     },
     {
       "id": 29,
-      "category": "Current Affairs & GK",
-      "question": "Which scheme was launched by the Government of India to promote digital payments?",
+      "category": "Indian Science & Space",
+      "question": "Which is the fastest land animal in India?",
       "options": [
-        "Digital India",
-        "Startup India",
-        "Make in India",
-        "Skill India"
+        "Lion",
+        "Cheetah",
+        "Tiger",
+        "Leopard"
       ],
-      "correct": 0,
-      "explanation": "Digital India aims to promote digital payments and digital infrastructure."
+      "correct": 1,
+      "explanation": "The cheetah is the fastest land animal, capable of speeds up to 100 km/h."
     },
     {
       "id": 30,
-      "category": "Current Affairs & GK",
-      "question": "Who among the following is the current Chief Minister of Odisha?",
+      "category": "Indian Environment & Ecology",
+      "question": "Which legislation aims to protect the ozone layer in India?",
       "options": [
-        "Naveen Patnaik",
-        "Mohan Charan Majhi",
-        "Nitish Kumar",
-        "Mamata Banerjee"
+        "Wildlife Protection Act",
+        "Ozone Depletion Prevention Act",
+        "Environmental Protection Act",
+        "The Ozone Cell under MoEFCC"
       ],
-      "correct": 1,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "correct": 3,
+      "explanation": "India’s Ozone Cell under the Ministry of Environment, Forest and Climate Change oversees ozone protection laws."
     }
   ]
 }
