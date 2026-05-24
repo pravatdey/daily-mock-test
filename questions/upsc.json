@@ -1,130 +1,65 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Indian History - Ancient",
-      "question": "Which of the following ancient texts is primarily associated with the early Vedic period?",
+      "category": "Indian History",
+      "question": "Who was the last Mughal Emperor of India before the fall of Mughal rule in 1857?",
       "options": [
-        "Arthashastra",
-        "Rigveda",
-        "Mahabharata",
-        "Ashvamedha"
+        "Bahadur Shah II",
+        "Akbar II",
+        "Jahan Shah",
+        "Aurangzeb"
       ],
-      "correct": 1,
-      "explanation": "The Rigveda is one of the oldest texts associated with the early Vedic period in India."
+      "correct": 0,
+      "explanation": "Bahadur Shah II, also known as Bahadur Shah Zafar, was the last Mughal emperor, defeated and exiled after the 1857 revolt."
     },
     {
       "id": 2,
-      "category": "Indian History - Medieval",
-      "question": "Who was the founder of the Mughal Empire in India?",
+      "category": "Indian History",
+      "question": "Which event marked the beginning of the Non-Cooperation Movement in India?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Shah Jahan",
-        "Humayun"
+        "Chauri Chaura Incident",
+        "Jallianwala Bagh Massacre",
+        "Partition of Bengal",
+        "Simon Commission Protest"
       ],
-      "correct": 0,
-      "explanation": "Babur founded the Mughal Empire in India in 1526 after the Battle of Panipat."
+      "correct": 2,
+      "explanation": "The Non-Cooperation Movement officially started after the boycott of councils and educational institutions following the Partition of Bengal in 1905."
     },
     {
       "id": 3,
-      "category": "Indian History - Modern",
+      "category": "Indian History",
       "question": "Who was the leader of the Salt Satyagraha in 1930?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
+        "Sardar Vallabhbhai Patel",
         "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Salt Satyagraha, a major nonviolent protest against British salt laws."
+      "explanation": "Mahatma Gandhi led the Salt Satyagraha, also known as Dandi March, as part of his civil disobedience campaign."
     },
     {
       "id": 4,
-      "category": "Indian History - Freedom Struggle",
-      "question": "The Non-Cooperation Movement was launched in which year?",
+      "category": "Indian History",
+      "question": "The Indian National Congress was founded in which year?",
       "options": [
-        "1920",
-        "1922",
-        "1930",
-        "1919"
+        "1885",
+        "1905",
+        "1857",
+        "1920"
       ],
       "correct": 0,
-      "explanation": "The Non-Cooperation Movement was launched in 1920 as a mass protest against British rule."
+      "explanation": "The Indian National Congress was founded in 1885, marking the start of organized political activity for independence."
     },
     {
       "id": 5,
-      "category": "Indian History - Freedom Struggle",
-      "question": "Who was the first President of Indian National Congress?",
-      "options": [
-        "Dadabhai Naoroji",
-        "Womesh Chunder Bonnerjee",
-        "Bal Gangadhar Tilak",
-        "Mahatma Gandhi"
-      ],
-      "correct": 1,
-      "explanation": "Womesh Chunder Bonnerjee was the first President of the Indian National Congress in 1885."
-    },
-    {
-      "id": 6,
-      "category": "Indian Geography - Physical",
-      "question": "Which is the longest river in India?",
-      "options": [
-        "Ganges",
-        "Brahmaputra",
-        "Indus",
-        "Godavari"
-      ],
-      "correct": 0,
-      "explanation": "The Ganges is the longest river in India, flowing approximately 2,525 km."
-    },
-    {
-      "id": 7,
-      "category": "Indian Geography - Climate",
-      "question": "The monsoon season in India is primarily caused by:",
-      "options": [
-        "Western Disturbances",
-        "Southwest Monsoon Winds",
-        "Tropical Cyclones",
-        "Jet Streams"
-      ],
-      "correct": 1,
-      "explanation": "The southwest monsoon winds bring heavy rainfall to India between June and September."
-    },
-    {
-      "id": 8,
-      "category": "Indian Geography - Resources",
-      "question": "Which state is the largest producer of coal in India?",
-      "options": [
-        "Jharkhand",
-        "Odisha",
-        "Chhattisgarh",
-        "West Bengal"
-      ],
-      "correct": 2,
-      "explanation": "Chhattisgarh is the largest coal-producing state in India."
-    },
-    {
-      "id": 9,
-      "category": "Indian Geography - Economic",
-      "question": "Which sector contributes the highest to India’s GDP?",
-      "options": [
-        "Agriculture",
-        "Manufacturing",
-        "Services",
-        "Mining"
-      ],
-      "correct": 2,
-      "explanation": "The services sector contributes the highest share to India’s GDP."
-    },
-    {
-      "id": 10,
-      "category": "Indian Polity & Governance - Constitution",
-      "question": "Who is the chief architect of the Indian Constitution?",
+      "category": "Indian History",
+      "question": "Who was the chief architect of the Indian Constitution?",
       "options": [
         "Dr. B.R. Ambedkar",
         "Jawaharlal Nehru",
@@ -132,193 +67,258 @@
         "Sardar Vallabhbhai Patel"
       ],
       "correct": 0,
-      "explanation": "Dr. B.R. Ambedkar is known as the chief architect of the Indian Constitution."
+      "explanation": "Dr. B.R. Ambedkar is recognized as the chief architect of the Indian Constitution."
+    },
+    {
+      "id": 6,
+      "category": "Indian Geography",
+      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent floods?",
+      "options": [
+        "Ganga",
+        "Kosi",
+        "Yamuna",
+        "Ghaghara"
+      ],
+      "correct": 1,
+      "explanation": "The Kosi River is called the 'Sorrow of Bihar' because of its frequent and destructive floods."
+    },
+    {
+      "id": 7,
+      "category": "Indian Geography",
+      "question": "Which is the largest desert in India?",
+      "options": [
+        "Thar Desert",
+        "Rajasthan Desert",
+        "Kutch Desert",
+        "Gobi Desert"
+      ],
+      "correct": 0,
+      "explanation": "The Thar Desert is the largest desert in India, located in Rajasthan."
+    },
+    {
+      "id": 8,
+      "category": "Indian Geography",
+      "question": "Which of the following is a renewable resource?",
+      "options": [
+        "Coal",
+        "Oil",
+        "Sunlight",
+        "Natural Gas"
+      ],
+      "correct": 2,
+      "explanation": "Sunlight is a renewable resource, unlike fossil fuels like coal and oil."
+    },
+    {
+      "id": 9,
+      "category": "Indian Geography",
+      "question": "Which Indian mountain range is known as the 'Backbone of India'?",
+      "options": [
+        "Himalayas",
+        "Western Ghats",
+        "Aravalli",
+        "Vindhya"
+      ],
+      "correct": 0,
+      "explanation": "The Himalayas are often called the 'Backbone of India' due to their extensive presence along northern India."
+    },
+    {
+      "id": 10,
+      "category": "Indian Polity & Governance",
+      "question": "Who appoints the Chief Justice of India?",
+      "options": [
+        "President of India",
+        "Prime Minister of India",
+        "Lok Sabha Speaker",
+        "Chief Justice of India"
+      ],
+      "correct": 0,
+      "explanation": "The President of India appoints the Chief Justice of India."
     },
     {
       "id": 11,
-      "category": "Indian Polity & Governance - Parliament",
-      "question": "The Lok Sabha is constituted for a term of:",
+      "category": "Indian Polity & Governance",
+      "question": "Which article of the Indian Constitution deals with the Directive Principles of State Policy?",
       "options": [
-        "3 years",
-        "5 years",
-        "6 years",
-        "4 years"
+        "Article 14",
+        "Article 19",
+        "Article 36",
+        "Article 40"
       ],
-      "correct": 1,
-      "explanation": "The Lok Sabha has a tenure of 5 years unless dissolved sooner."
+      "correct": 3,
+      "explanation": "Article 40 deals with the Directive Principles of State Policy, emphasizing the state’s duty to organize agriculture and rural development."
     },
     {
       "id": 12,
-      "category": "Indian Polity & Governance - Judiciary",
-      "question": "The Supreme Court of India was established in which year?",
+      "category": "Indian Polity & Governance",
+      "question": "Who has the power to dissolve the Lok Sabha?",
       "options": [
-        "1947",
-        "1950",
-        "1952",
-        "1956"
+        "President of India",
+        "Prime Minister of India",
+        "Speaker of Lok Sabha",
+        "Chief Justice of India"
       ],
-      "correct": 1,
-      "explanation": "The Supreme Court of India was established in 1950."
+      "correct": 0,
+      "explanation": "The President of India has the power to dissolve the Lok Sabha on the advice of the Prime Minister."
     },
     {
       "id": 13,
-      "category": "Indian Polity & Governance - Panchayati Raj",
-      "question": "The 73rd Amendment Act, 1992, is related to:",
+      "category": "Indian Polity & Governance",
+      "question": "Which body is responsible for amending the Indian Constitution?",
       "options": [
-        "Urban Local Bodies",
-        "Rural Local Bodies",
-        "Fundamental Rights",
-        "Judicial Reforms"
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Parliament",
+        "Supreme Court"
       ],
-      "correct": 1,
-      "explanation": "The 73rd Amendment Act relates to Rural Local Bodies (Panchayats)."
+      "correct": 2,
+      "explanation": "Amendments to the Indian Constitution are made by the Parliament."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Governance - Fundamental Rights",
-      "question": "Which Fundamental Right provides freedom of speech and expression?",
+      "category": "Indian Economy",
+      "question": "Which Five Year Plan was called the 'Garibi Hatao' plan?",
       "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right against Exploitation",
-        "Right to Religion"
+        "Fifth Five Year Plan",
+        "Sixth Five Year Plan",
+        "Seventh Five Year Plan",
+        "Eighth Five Year Plan"
       ],
-      "correct": 1,
-      "explanation": "The Right to Freedom guarantees freedom of speech and expression."
+      "correct": 2,
+      "explanation": "The Seventh Five Year Plan (1985-1990) was called the 'Garibi Hatao' plan, focusing on poverty alleviation."
     },
     {
       "id": 15,
-      "category": "Indian Economy - Budget & Reforms",
-      "question": "The introduction of Goods and Services Tax (GST) in India was implemented in which year?",
+      "category": "Indian Economy",
+      "question": "Which institution is responsible for controlling inflation in India?",
       "options": [
-        "2015",
-        "2016",
-        "2017",
-        "2018"
-      ],
-      "correct": 2,
-      "explanation": "GST was implemented in India on July 1, 2017."
-    },
-    {
-      "id": 16,
-      "category": "Indian Economy - Banking & GDP",
-      "question": "Which organization publishes the 'Financial Stability Report' in India?",
-      "options": [
-        "RBI",
-        "SEBI",
+        "Reserve Bank of India",
         "Ministry of Finance",
+        "SEBI",
         "NITI Aayog"
       ],
       "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) publishes the Financial Stability Report."
+      "explanation": "The Reserve Bank of India (RBI) controls inflation primarily through monetary policy measures."
+    },
+    {
+      "id": 16,
+      "category": "Indian Economy",
+      "question": "What is the primary source of revenue for the Indian government?",
+      "options": [
+        "Income Tax",
+        "Customs Duty",
+        "GST",
+        "GST and Income Tax"
+      ],
+      "correct": 3,
+      "explanation": "GST and Income Tax are the primary sources of revenue for the Indian government."
     },
     {
       "id": 17,
-      "category": "Indian Economy - Five Year Plans & Trade",
-      "question": "India’s first Five Year Plan was launched in which year?",
+      "category": "Indian Economy",
+      "question": "Which regulator oversees the stock exchanges in India?",
       "options": [
-        "1951-1956",
-        "1947-1952",
-        "1961-1966",
-        "1971-1976"
+        "SEBI",
+        "RBI",
+        "CBI",
+        "IRDAI"
       ],
       "correct": 0,
-      "explanation": "India’s first Five Year Plan began in 1951."
+      "explanation": "SEBI (Securities and Exchange Board of India) oversees and regulates stock exchanges."
     },
     {
       "id": 18,
-      "category": "General Science - Physics & Chemistry",
-      "question": "Which of the following is a noble gas?",
+      "category": "General Science",
+      "question": "Which of the following is an example of a chemical change?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Helium",
-        "Carbon Dioxide"
+        "Melting of ice",
+        "Boiling of water",
+        "Rusting of iron",
+        "Freezing of water"
       ],
       "correct": 2,
-      "explanation": "Helium is a noble gas and inert in nature."
+      "explanation": "Rusting of iron involves a chemical change, forming iron oxide."
     },
     {
       "id": 19,
-      "category": "General Science - Biology & Space",
-      "question": "The element responsible for carrying oxygen in blood is:",
+      "category": "General Science",
+      "question": "The term 'bit' in computer science refers to:",
       "options": [
-        "Iron",
-        "Copper",
-        "Calcium",
-        "Magnesium"
+        "A byte",
+        "A binary digit",
+        "A processor",
+        "Memory"
       ],
-      "correct": 0,
-      "explanation": "Iron in hemoglobin binds oxygen to carry it in blood."
+      "correct": 1,
+      "explanation": "A 'bit' is the smallest unit of data in computing, representing a binary digit (0 or 1)."
     },
     {
       "id": 20,
-      "category": "General Science - Technology & Space",
-      "question": "Which India’s space mission was the first to reach Mars orbit?",
+      "category": "General Science",
+      "question": "Which planet is known as the 'Red Planet'?",
       "options": [
-        "Chandrayaan-2",
-        "Mangalyaan",
-        "Rohini",
-        "ISRO Satellite Launch Vehicle"
+        "Mars",
+        "Jupiter",
+        "Venus",
+        "Saturn"
       ],
-      "correct": 1,
-      "explanation": "Mangalyaan, launched in 2013, was India’s first interplanetary mission reaching Mars orbit."
+      "correct": 0,
+      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide on its surface."
     },
     {
       "id": 21,
-      "category": "Environment & Ecology - Biodiversity & Conservation",
-      "question": "Which of the following is a UNESCO World Heritage Site in India?",
+      "category": "General Science",
+      "question": "What is the primary function of chlorophyll in plants?",
       "options": [
-        "Sundarbans",
-        "Nilgiri Hills",
-        "Ranthambore National Park",
-        "All of the above"
+        "Absorbing water",
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration"
       ],
-      "correct": 3,
-      "explanation": "All listed sites are UNESCO World Heritage Sites in India."
+      "correct": 1,
+      "explanation": "Chlorophyll is essential for photosynthesis, allowing plants to convert sunlight into chemical energy."
     },
     {
       "id": 22,
-      "category": "Environment & Ecology - Climate Change & Laws",
-      "question": "The Kyoto Protocol is related to:",
+      "category": "Environment & Ecology",
+      "question": "Which international agreement aims to reduce greenhouse gas emissions to combat climate change?",
       "options": [
-        "Biodiversity Conservation",
-        "Climate Change",
-        "Ozone Depletion",
-        "Marine Pollution"
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Paris Agreement",
+        "Geneva Convention"
       ],
-      "correct": 1,
-      "explanation": "Kyoto Protocol is an international treaty for addressing climate change."
+      "correct": 2,
+      "explanation": "The Paris Agreement commits countries to limit global warming by reducing greenhouse gas emissions."
     },
     {
       "id": 23,
-      "category": "Environment & Ecology - Protected Areas",
-      "question": "Which of the following is the largest national park in India?",
+      "category": "Environment & Ecology",
+      "question": "Which of the following is a UNESCO World Heritage Site in India?",
       "options": [
-        "Jim Corbett",
-        "Kanha",
-        "Kaziranga",
-        "Gulf of Mannar Marine National Park"
-      ],
-      "correct": 2,
-      "explanation": "Kaziranga National Park is the largest in India, known for its one-horned rhinoceros."
-    },
-    {
-      "id": 24,
-      "category": "Environment & Ecology - Laws & Biodiversity",
-      "question": "The Biological Diversity Act, 2002, aims to:",
-      "options": [
-        "Protect Endangered Species",
-        "Conserve Ecosystems",
-        "Regulate Bioprospecting",
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Taj Mahal",
         "All of the above"
       ],
       "correct": 3,
-      "explanation": "The act covers conservation, sustainable use, and fair sharing of benefits from bioprospecting."
+      "explanation": "Kaziranga, Sundarbans, and the Taj Mahal are all UNESCO World Heritage Sites in India."
+    },
+    {
+      "id": 24,
+      "category": "Environment & Ecology",
+      "question": "Which law regulates environmental protection in India?",
+      "options": [
+        "Wildlife Protection Act",
+        "Environment Protection Act, 1986",
+        "Air Act",
+        "Water Act"
+      ],
+      "correct": 1,
+      "explanation": "The Environment Protection Act, 1986, is the comprehensive legislation for environmental protection in India."
     },
     {
       "id": 25,
-      "category": "Current Affairs & General Knowledge",
+      "category": "Current Affairs & GK",
       "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
@@ -327,72 +327,72 @@
         "A.P.J. Abdul Kalam"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
     },
     {
       "id": 26,
-      "category": "Current Affairs & General Knowledge",
+      "category": "Current Affairs & GK",
       "question": "Who is the current Prime Minister of India?",
       "options": [
         "Narendra Modi",
         "Manmohan Singh",
-        "Rajiv Gandhi",
-        "Atal B. Vajpayee"
+        "Amit Shah",
+        "Rajnath Singh"
       ],
       "correct": 0,
       "explanation": "Narendra Modi has been the Prime Minister since 26 May 2014."
     },
     {
       "id": 27,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Chief Justice of India?",
       "options": [
-        "Odisha",
-        "West Bengal",
-        "Bihar",
-        "Jharkhand"
+        "Surya Kant",
+        "D.Y. Chandrachud",
+        "John Roberts",
+        "N.V. Ramana"
       ],
       "correct": 0,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "explanation": "Surya Kant is the current judge serving as the Chief Justice of India since 24 November 2025."
     },
     {
       "id": 28,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current External Affairs Minister of India?",
+      "category": "Current Affairs & GK",
+      "question": "Which scheme was launched by the Government of India to promote digital payments?",
       "options": [
-        "S. Jaishankar",
-        "Nirmala Sitharaman",
-        "Subrahmanyam Jaishankar",
-        "P. Chidambaram"
+        "Digital India",
+        "Make in India",
+        "Skill India",
+        "Startup India"
       ],
       "correct": 0,
-      "explanation": "S. Jaishankar is the current External Affairs Minister of India."
+      "explanation": "Digital India is the scheme aimed at promoting digital payments and digital infrastructure."
     },
     {
       "id": 29,
-      "category": "Indian Science & Space",
-      "question": "Which is the fastest land animal in India?",
+      "category": "Indian History",
+      "question": "The Partition of Bengal was carried out in which year?",
       "options": [
-        "Lion",
-        "Cheetah",
-        "Tiger",
-        "Leopard"
+        "1905",
+        "1947",
+        "1857",
+        "1911"
       ],
-      "correct": 1,
-      "explanation": "The cheetah is the fastest land animal, capable of speeds up to 100 km/h."
+      "correct": 0,
+      "explanation": "The Partition of Bengal took place in 1905, leading to widespread protests and eventual reversal."
     },
     {
       "id": 30,
-      "category": "Indian Environment & Ecology",
-      "question": "Which legislation aims to protect the ozone layer in India?",
+      "category": "Indian Geography",
+      "question": "Which is the smallest state in India by area?",
       "options": [
-        "Wildlife Protection Act",
-        "Ozone Depletion Prevention Act",
-        "Environmental Protection Act",
-        "The Ozone Cell under MoEFCC"
+        "Goa",
+        "Sikkim",
+        "Tripura",
+        "Nagaland"
       ],
-      "correct": 3,
-      "explanation": "India’s Ozone Cell under the Ministry of Environment, Forest and Climate Change oversees ozone protection laws."
+      "correct": 0,
+      "explanation": "Goa is the smallest state in India by area."
     }
   ]
 }
