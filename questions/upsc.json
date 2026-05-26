@@ -1,148 +1,148 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is considered the earliest known work of Indian philosophy and was composed around 1500 BCE?",
+      "question": "The Mauryan Empire reached its greatest territorial extent during the reign of which emperor?",
       "options": [
-        "Vedas",
-        "Upanishads",
-        "Mahabharata",
-        "Ramayana"
+        "Ashoka the Great",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Kautilya"
       ],
       "correct": 0,
-      "explanation": "The Vedas are the oldest sacred scriptures of India, composed around 1500 BCE, and form the foundation of Indian philosophical thought."
+      "explanation": "Ashoka the Great expanded the Mauryan Empire to its maximum extent, covering most of the Indian subcontinent."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the founder of the Mughal Empire in India?",
+      "question": "Which medieval Indian ruler is known for commissioning the construction of the Qutub Minar?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Aurangzeb",
-        "Shah Jahan"
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Firoz Shah Tughlaq",
+        "Muhammad bin Tughlaq"
       ],
       "correct": 0,
-      "explanation": "Babur founded the Mughal Empire in India in 1526 after the Battle of Panipat."
+      "explanation": "Qutb-ud-din Aibak initiated the construction of the Qutub Minar, which was completed by Iltutmish."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "The Partition of India in 1947 was based primarily on which criterion?",
+      "question": "The Non-Cooperation Movement was launched in response to which incident?",
       "options": [
-        "Language",
-        "Religion",
-        "Region",
-        "Economic status"
+        "Jallianwala Bagh Massacre",
+        "Chauri Chaura incident",
+        "Simon Commission report",
+        "Rowlatt Act"
       ],
       "correct": 1,
-      "explanation": "The Partition was primarily based on religious lines, leading to the creation of India and Pakistan as separate states."
+      "explanation": "The Chauri Chaura incident, where protesters burned a police station, led Gandhi to call off the Non-Cooperation Movement."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Who led the Non-Cooperation Movement launched in 1920?",
+      "question": "Who was the leader of the Salt Satyagraha in 1930?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bal Gangadhar Tilak"
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement as a non-violent protest against British rule."
+      "explanation": "Mahatma Gandhi led the Salt Satyagraha, also known as Dandi March, against salt taxes."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Which act marked the beginning of the Civil Disobedience Movement in India?",
+      "question": "Which treaty marked the end of the First Anglo-Maratha War?",
       "options": [
-        "Salt March",
-        "Quit India Movement",
-        "Rowlatt Act",
-        "Chauri Chaura Incident"
+        "Treaty of Salbai",
+        "Treaty of Bassein",
+        "Treaty of Allahabad",
+        "Treaty of Seringapatam"
       ],
       "correct": 0,
-      "explanation": "The Salt March in 1930 was a significant act of civil disobedience initiated by Gandhi against salt taxes."
+      "explanation": "The Treaty of Salbai (1782) marked the end of the First Anglo-Maratha War."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is the longest in India?",
+      "question": "Which river is known as 'Dakshina Ganga' in India?",
       "options": [
-        "Ganges",
         "Godavari",
+        "Brahmaputra",
         "Yamuna",
-        "Indus"
+        "Narmada"
       ],
-      "correct": 1,
-      "explanation": "The Godavari River, approximately 1,465 km long, is the longest river in India."
+      "correct": 0,
+      "explanation": "The Godavari is called 'Dakshina Ganga' because of its size and religious significance in South India."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "The Thar Desert is primarily located in which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Punjab",
-        "Gujarat",
-        "Haryana"
-      ],
-      "correct": 0,
-      "explanation": "The Thar Desert is mostly situated in Rajasthan."
-    },
-    {
-      "id": 8,
-      "category": "Indian Geography",
-      "question": "Which is the most abundant mineral resource found in India?",
+      "question": "Which of the following resources is predominantly found in Jharia valley?",
       "options": [
         "Coal",
         "Iron ore",
         "Bauxite",
-        "Manganese"
+        "Mica"
       ],
       "correct": 0,
-      "explanation": "India has large reserves of coal, making it the most abundant mineral resource."
+      "explanation": "Jharia valley is famous for its vast coal reserves."
+    },
+    {
+      "id": 8,
+      "category": "Indian Geography",
+      "question": "The Thar Desert is mainly located in which Indian states?",
+      "options": [
+        "Rajasthan and Gujarat",
+        "Punjab and Haryana",
+        "Uttar Pradesh and Bihar",
+        "Maharashtra and Gujarat"
+      ],
+      "correct": 0,
+      "explanation": "The Thar Desert primarily spans Rajasthan and parts of Gujarat."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "The monsoon season in India is primarily caused by which atmospheric phenomenon?",
+      "question": "Which climate zone is characterized by high temperatures and scarce rainfall in India?",
       "options": [
-        "Western Disturbance",
-        "South-West Monsoon Winds",
-        "North-East Monsoon Winds",
-        "Jet Stream"
+        "Tropical Wet",
+        "Arid",
+        "Subtropical Humid",
+        "Mountain"
       ],
       "correct": 1,
-      "explanation": "The South-West Monsoon Winds bring heavy rains to India from June to September."
+      "explanation": "The Arid climate zone in India is characterized by high temperatures and low rainfall, typical of deserts."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "The Constitution of India was adopted in which year?",
+      "question": "Which Article of the Indian Constitution deals with the Directive Principles of State Policy?",
       "options": [
-        "1947",
-        "1950",
-        "1949",
-        "1952"
+        "Article 14",
+        "Article 19",
+        "Article 36",
+        "Article 43"
       ],
-      "correct": 1,
-      "explanation": "The Constitution was adopted on November 26, 1949, and came into effect on January 26, 1950."
+      "correct": 3,
+      "explanation": "Article 43 discusses the Directive Principles of State Policy aimed at establishing social and economic democracy."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
       "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "The President",
-        "The Prime Minister",
-        "The Lok Sabha",
-        "The Chief Justice of a High Court"
+        "President",
+        "Prime Minister",
+        "Lok Sabha Speaker",
+        "Chief Justice of the Supreme Court"
       ],
       "correct": 0,
       "explanation": "The President of India appoints the Chief Justice of India."
@@ -150,20 +150,20 @@
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution guarantees Fundamental Rights?",
+      "question": "Which of the following is NOT a Fundamental Right guaranteed by the Indian Constitution?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Articles 12-35",
-        "Article 21"
+        "Right to Equality",
+        "Right to Property",
+        "Right to Freedom of Speech",
+        "Right against Exploitation"
       ],
-      "correct": 2,
-      "explanation": "Articles 12 to 35 of the Indian Constitution guarantee Fundamental Rights."
+      "correct": 1,
+      "explanation": "Right to Property was a Fundamental Right but has been replaced by a legal right; it was removed from the list of Fundamental Rights after 1978."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system in India was constitutionalized by which amendment?",
+      "question": "The Panchayati Raj system in India is based on which Constitutional Amendment?",
       "options": [
         "73rd Amendment",
         "74th Amendment",
@@ -171,228 +171,228 @@
         "44th Amendment"
       ],
       "correct": 0,
-      "explanation": "The 73rd Amendment Act in 1992 institutionalized Panchayati Raj."
+      "explanation": "The 73rd Amendment Act of 1992 established Panchayati Raj institutions."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "Which body has the power to interpret the Constitution of India?",
+      "category": "Indian Economy",
+      "question": "India’s Gross Domestic Product (GDP) is measured mainly by which approach?",
       "options": [
-        "Lok Sabha",
-        "Judiciary",
-        "President",
-        "Parliament"
+        "Production approach",
+        "Income approach",
+        "Expenditure approach",
+        "Both B and C"
       ],
-      "correct": 1,
-      "explanation": "The judiciary, particularly the Supreme Court, has the power to interpret the Constitution."
+      "correct": 3,
+      "explanation": "India’s GDP is calculated using both the Income and Expenditure approaches."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "The Union Budget of India is presented by the Finance Minister in which month?",
+      "question": "The 'Jan Dhan Yojana' scheme primarily aims to promote:",
       "options": [
-        "January",
-        "February",
-        "March",
-        "April"
+        "Digital payments",
+        "Financial inclusion",
+        "Rural electrification",
+        "Urban infrastructure"
       ],
       "correct": 1,
-      "explanation": "The Union Budget is usually presented in February each year."
+      "explanation": "'Jan Dhan Yojana' is aimed at promoting financial inclusion by providing banking facilities to the unbanked."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which sector contributes the highest share to India’s GDP?",
+      "question": "Which financial institution is responsible for regulating the Indian banking sector?",
       "options": [
-        "Agriculture",
-        "Industry",
-        "Services",
-        "Manufacturing"
+        "SEBI",
+        "RBI",
+        "IRDAI",
+        "Ministry of Finance"
       ],
-      "correct": 2,
-      "explanation": "The Services sector contributes the largest share to India’s GDP."
+      "correct": 1,
+      "explanation": "The Reserve Bank of India (RBI) is the regulator of banking in India."
     },
     {
       "id": 17,
-      "category": "Indian Economy",
-      "question": "What does the term 'Fiscal Deficit' refer to?",
-      "options": [
-        "Difference between revenue and expenditure",
-        "Total national debt",
-        "Difference between exports and imports",
-        "Total subsidies given by the government"
-      ],
-      "correct": 0,
-      "explanation": "Fiscal Deficit is the difference between the government's total revenue and total expenditure."
-    },
-    {
-      "id": 18,
-      "category": "Indian Economy",
-      "question": "The 'Make in India' initiative primarily aims to promote:",
-      "options": [
-        "Agriculture",
-        "Manufacturing",
-        "IT sector",
-        "Tourism"
-      ],
-      "correct": 1,
-      "explanation": "'Make in India' aims to promote manufacturing and boost domestic production."
-    },
-    {
-      "id": 19,
-      "category": "General Science",
-      "question": "Which law explains the relationship between the voltage, current, and resistance in an electric circuit?",
-      "options": [
-        "Ohm’s Law",
-        "Faraday’s Law",
-        "Lenz’s Law",
-        "Newton’s Law"
-      ],
-      "correct": 0,
-      "explanation": "Ohm’s Law states that Voltage = Current × Resistance."
-    },
-    {
-      "id": 20,
-      "category": "General Science",
-      "question": "Which element is essential for the process of photosynthesis?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Hydrogen"
-      ],
-      "correct": 2,
-      "explanation": "Carbon Dioxide is vital for photosynthesis to produce glucose in plants."
-    },
-    {
-      "id": 21,
-      "category": "General Science",
-      "question": "The process of nuclear fusion occurs in which part of the Sun?",
+      "category": "Indian Science",
+      "question": "The phenomenon of nuclear fusion occurs in which part of the Sun?",
       "options": [
         "Core",
-        "Corona",
-        "Chromosphere",
+        "Radiative Zone",
+        "Convective Zone",
         "Photosphere"
       ],
       "correct": 0,
-      "explanation": "Nuclear fusion occurs in the Sun's core, where temperatures and pressures are extremely high."
+      "explanation": "Nuclear fusion takes place in the Sun’s core, where conditions are extremely hot and dense."
+    },
+    {
+      "id": 18,
+      "category": "Indian Science",
+      "question": "Which element is used as a moderator in a nuclear reactor?",
+      "options": [
+        "Uranium",
+        "Graphite",
+        "Lead",
+        "Cobalt"
+      ],
+      "correct": 1,
+      "explanation": "Graphite is commonly used as a moderator in nuclear reactors to slow down neutrons."
+    },
+    {
+      "id": 19,
+      "category": "Indian Science",
+      "question": "Who is known as the 'Father of Indian Space Program'?",
+      "options": [
+        "Dr. Vikram Sarabhai",
+        "Dr. A.P.J. Abdul Kalam",
+        "Satish Dhawan",
+        "C.V. Raman"
+      ],
+      "correct": 0,
+      "explanation": "Dr. Vikram Sarabhai is regarded as the father of the Indian space program."
+    },
+    {
+      "id": 20,
+      "category": "Indian Science",
+      "question": "The process of photosynthesis in plants converts:",
+      "options": [
+        "Oxygen into glucose",
+        "Carbon dioxide into oxygen",
+        "Sunlight into chemical energy",
+        "Water into oxygen"
+      ],
+      "correct": 2,
+      "explanation": "Photosynthesis converts sunlight into chemical energy, producing glucose and oxygen."
+    },
+    {
+      "id": 21,
+      "category": "Environment & Ecology",
+      "question": "Which of the following is a UNESCO World Heritage Site in India?",
+      "options": [
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Khajuraho Group of Monuments",
+        "Gir National Park"
+      ],
+      "correct": 2,
+      "explanation": "Khajuraho Group of Monuments is a UNESCO World Heritage Site recognized for its architectural and cultural significance."
     },
     {
       "id": 22,
-      "category": "General Science",
-      "question": "Which technology is used in satellites for GPS navigation?",
+      "category": "Environment & Ecology",
+      "question": "The Convention on Biological Diversity aims to:",
       "options": [
-        "Infrared technology",
-        "Radar technology",
-        "Radio Frequency technology",
-        "Satellite-based atomic clocks"
+        "Protect genetic resources",
+        "Conserve biodiversity",
+        "Ensure sustainable use of ecosystems",
+        "All of the above"
       ],
       "correct": 3,
-      "explanation": "Atomic clocks on satellites provide precise timing essential for GPS navigation."
+      "explanation": "The CBD aims to protect genetic resources, conserve biodiversity, and promote sustainable use."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which is the largest biodiversity hotspot in India?",
+      "question": "Which law in India primarily deals with environmental protection?",
       "options": [
-        "Western Ghats",
-        "Himalayas",
-        "Sundaland",
-        "Indo-Burma Region"
+        "Wildlife Protection Act",
+        "Environmental Protection Act",
+        "Air Act",
+        "Water Act"
       ],
-      "correct": 0,
-      "explanation": "The Western Ghats is one of the eight global biodiversity hotspots, rich in endemic species."
+      "correct": 1,
+      "explanation": "The Environment Protection Act of 1986 is the umbrella legislation for environmental matters."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity is primarily concerned with:",
+      "question": "Which of the following is a major cause of climate change?",
       "options": [
-        "Climate Change",
-        "Wildlife Conservation",
-        "Genetic Diversity",
-        "Environmental Pollution"
-      ],
-      "correct": 2,
-      "explanation": "It focuses on the conservation of genetic diversity, species, and ecosystems."
-    },
-    {
-      "id": 25,
-      "category": "Environment & Ecology",
-      "question": "Which law in India enforces the prevention of pollution?",
-      "options": [
-        "Environmental Protection Act, 1986",
-        "Air Act, 1981",
-        "Water Act, 1974",
-        "Wildlife Protection Act, 1972"
-      ],
-      "correct": 0,
-      "explanation": "The Environmental Protection Act of 1986 is the overarching law for pollution control and environmental protection."
-    },
-    {
-      "id": 26,
-      "category": "Environment & Ecology",
-      "question": "Which renewable energy source has the highest potential in India?",
-      "options": [
-        "Wind power",
-        "Solar power",
-        "Hydropower",
-        "Biomass"
-      ],
-      "correct": 1,
-      "explanation": "India has vast solar energy potential due to its high solar insolation levels."
-    },
-    {
-      "id": 27,
-      "category": "Current Affairs & GK",
-      "question": "Who was awarded the Bharat Ratna in 2022?",
-      "options": [
-        "Sachin Tendulkar",
-        "K. K. Birla",
-        "Ilaiyaraaja",
-        "K. M. Cariappa"
-      ],
-      "correct": 2,
-      "explanation": "Ilaiyaraaja was awarded the Bharat Ratna in 2022 for his contributions to music."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs & GK",
-      "question": "Which international organization launched the 'Global Seed Vault' located in Svalbard, Norway?",
-      "options": [
-        "FAO",
-        "UNEP",
-        "World Bank",
-        "Royal Norwegian Ministry of Agriculture"
-      ],
-      "correct": 3,
-      "explanation": "The Global Seed Vault was established by Norway, with support from various organizations, to preserve seed diversity."
-    },
-    {
-      "id": 29,
-      "category": "Current Affairs & GK",
-      "question": "India's first successful mission to Mars is called:",
-      "options": [
-        "Chandrayaan-2",
-        "Mangalyaan",
-        "Aryabhata",
-        "Rohini Satellite"
-      ],
-      "correct": 1,
-      "explanation": "Mangalyaan is India’s first interplanetary mission to Mars, launched in 2013."
-    },
-    {
-      "id": 30,
-      "category": "Current Affairs & GK",
-      "question": "Which sport was included in the Olympics for the first time in Tokyo 2020?",
-      "options": [
-        "Skateboarding",
-        "Surfing",
-        "Sport Climbing",
+        "Deforestation",
+        "Greenhouse gas emissions",
+        "Industrialization",
         "All of the above"
       ],
       "correct": 3,
-      "explanation": "All three sports—skateboarding, surfing, and sport climbing—made their debut at Tokyo 2020 Olympics."
+      "explanation": "All listed factors contribute significantly to climate change."
+    },
+    {
+      "id": 25,
+      "category": "Current Affairs & G.K.",
+      "question": "Which country hosted the G20 Summit in 2023?",
+      "options": [
+        "India",
+        "United States",
+        "Germany",
+        "China"
+      ],
+      "correct": 0,
+      "explanation": "India hosted the G20 Summit in 2023, with New Delhi as the venue."
+    },
+    {
+      "id": 26,
+      "category": "Current Affairs & G.K.",
+      "question": "The 'Ayushman Bharat' scheme is primarily aimed at:",
+      "options": [
+        "Providing universal education",
+        "Healthcare coverage for the poor",
+        "Rural electrification",
+        "Farmer welfare"
+      ],
+      "correct": 1,
+      "explanation": "Ayushman Bharat provides health insurance coverage for vulnerable populations."
+    },
+    {
+      "id": 27,
+      "category": "Current Affairs & G.K.",
+      "question": "Which Indian athlete won a gold medal in the Tokyo 2020 Olympics?",
+      "options": [
+        "Neeraj Chopra",
+        "P.V. Sindhu",
+        "Vinoo Kumar",
+        "Sania Mirza"
+      ],
+      "correct": 0,
+      "explanation": "Neeraj Chopra won gold in javelin throw at Tokyo 2020 Olympics."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs & G.K.",
+      "question": "The 'Make in India' initiative launched in 2014 aims to:",
+      "options": [
+        "Promote manufacturing sector",
+        "Increase IT exports",
+        "Boost agriculture",
+        "Expand tourism"
+      ],
+      "correct": 0,
+      "explanation": "The 'Make in India' initiative promotes manufacturing and industrial growth."
+    },
+    {
+      "id": 29,
+      "category": "Indian Science",
+      "question": "Which technology is used in the Indian Mars Orbiter Mission (Mangalyaan)?",
+      "options": [
+        "Ion thrusters",
+        "Chemical rockets",
+        "Electric propulsion",
+        "All of the above"
+      ],
+      "correct": 0,
+      "explanation": "Mangalyaan utilized ion thrusters for propulsion, which are efficient for space missions."
+    },
+    {
+      "id": 30,
+      "category": "Indian Environment & Ecology",
+      "question": "What is the main purpose of the National Biodiversity Action Plan (NBAP)?",
+      "options": [
+        "Conserve biodiversity",
+        "Promote eco-tourism",
+        "Control pollution",
+        "All of the above"
+      ],
+      "correct": 0,
+      "explanation": "The NBAP primarily focuses on conserving biodiversity and related ecological goals."
     }
   ]
 }
