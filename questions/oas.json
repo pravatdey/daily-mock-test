@@ -1,13 +1,39 @@
 {
   "exam": "oas",
   "name": "Odisha Civil Services",
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha History",
-      "question": "Who led the Paika rebellion against the British East India Company in 1817?",
+      "question": "Who was the famous king of the Gajapati dynasty who expanded Odishan territory in the 15th century?",
+      "options": [
+        "Kapilendra Gajapati",
+        "Anantavarman Chodaganga",
+        "Rajaraja Dev",
+        "Bhubaneswar Gajapati"
+      ],
+      "correct": 0,
+      "explanation": "Kapilendra Gajapati was a prominent Gajapati king who expanded the Odishan kingdom in the 15th century."
+    },
+    {
+      "id": 2,
+      "category": "Odisha History",
+      "question": "The Kalinga War, which led to the spread of Buddhism in Odisha, was fought during which emperor's reign?",
+      "options": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Samudragupta",
+        "Harsha"
+      ],
+      "correct": 0,
+      "explanation": "The Kalinga War was fought by Emperor Ashoka of the Mauryan Empire, leading to his conversion to Buddhism."
+    },
+    {
+      "id": 3,
+      "category": "Odisha History",
+      "question": "Which Odishan freedom fighter is known for leading the Paika Rebellion of 1817?",
       "options": [
         "Buxi Jagabandhu",
         "Surendra Sai",
@@ -15,384 +41,358 @@
         "Laxman Naik"
       ],
       "correct": 0,
-      "explanation": "Buxi Jagabandhu led the Paika rebellion against the British East India Company in 1817."
-    },
-    {
-      "id": 2,
-      "category": "Odisha History",
-      "question": "The Kalinga War was fought between which ancient Indian kingdom and the Mauryan Empire?",
-      "options": [
-        "Kalinga and Magadha",
-        "Kalinga and Mauryan",
-        "Koshala and Magadha",
-        "Pundra and Mauryan"
-      ],
-      "correct": 1,
-      "explanation": "The Kalinga War was fought between the kingdom of Kalinga and the Mauryan Empire."
-    },
-    {
-      "id": 3,
-      "category": "Odisha History",
-      "question": "Which dynasty ruled Odisha from the 12th to the 16th century?",
-      "options": [
-        "Gajapati dynasty",
-        "Ganga dynasty",
-        "Bhoi dynasty",
-        "Suryavanshi dynasty"
-      ],
-      "correct": 0,
-      "explanation": "The Gajapati dynasty ruled Odisha from the 12th to the 16th century."
+      "explanation": "Buxi Jagabandhu led the Paika Rebellion against British rule in Odisha in 1817."
     },
     {
       "id": 4,
       "category": "Odisha History",
-      "question": "Who was a prominent freedom fighter from Odisha known for fighting against the British in the Sambalpur region?",
+      "question": "In which year was the separate Odisha state officially formed?",
       "options": [
-        "Surendra Sai",
-        "Jayee Rajguru",
-        "Laxman Naik",
-        "Madhusudan Das"
+        "1936",
+        "1947",
+        "1950",
+        "1960"
       ],
       "correct": 0,
-      "explanation": "Surendra Sai was a prominent freedom fighter from Odisha known for fighting against the British in the Sambalpur region."
+      "explanation": "Odisha was officially formed as a separate state in 1936 based on linguistic identity."
     },
     {
       "id": 5,
       "category": "Odisha History",
-      "question": "In which year was the state of Odisha formed?",
+      "question": "Who was the last independent ruler of Odisha before British annexation?",
       "options": [
-        "1912",
-        "1936",
-        "1947",
-        "1950"
+        "Gajapati Prataprudra",
+        "Raja of Puri",
+        "King of Khurda",
+        "Raja of Baudh"
       ],
-      "correct": 1,
-      "explanation": "The state of Odisha was formed in 1936."
+      "correct": 2,
+      "explanation": "The King of Khurda was among the last rulers of Odisha before British annexation."
     },
     {
       "id": 6,
-      "category": "Odisha History",
-      "question": "Who was the king of Odisha that fought against the Mughal Empire?",
+      "category": "Odisha Geography",
+      "question": "Mahanadi River flows into which Bay of Bengal port?",
       "options": [
-        "Pratap Rudra Dev",
-        "Kapilendra Dev",
-        "Purushottama Dev",
-        "Rama Chandra Dev"
+        "Chilika",
+        "Paradeep",
+        "Kolkata",
+        "Digha"
       ],
       "correct": 1,
-      "explanation": "Kapilendra Dev was the king of Odisha that fought against the Mughal Empire."
+      "explanation": "Mahanadi River flows into the Bay of Bengal near Paradeep port in Odisha."
     },
     {
       "id": 7,
-      "category": "Odisha History",
-      "question": "The Bhoi dynasty ruled Odisha during which period?",
+      "category": "Odisha Geography",
+      "question": "Which district is known for hosting the famous Chilika Lake, Asia's largest coastal lagoon?",
       "options": [
-        "1541-1560",
-        "1560-1568",
-        "1568-1600",
-        "1600-1700"
+        "Puri",
+        "Khordha",
+        "Ganjam",
+        "Kendrapara"
       ],
-      "correct": 0,
-      "explanation": "The Bhoi dynasty ruled Odisha from 1541 to 1560."
+      "correct": 3,
+      "explanation": "Kendrapara district is known for its part of Chilika Lake, Asia's largest coastal lagoon."
     },
     {
       "id": 8,
-      "category": "Odisha History",
-      "question": "What was the name of the rebellion led by Jayee Rajguru against the British?",
+      "category": "Odisha Geography",
+      "question": "The Eastern Ghats in Odisha primarily run through which part of the state?",
       "options": [
-        "Paika rebellion",
-        "Sambalpur rebellion",
-        "Angul rebellion",
-        "Bheden rebellion"
+        "Western Odisha",
+        "Southern Odisha",
+        "Northern Odisha",
+        "Eastern Odisha"
       ],
-      "correct": 1,
-      "explanation": "Jayee Rajguru led the Sambalpur rebellion against the British."
+      "correct": 3,
+      "explanation": "The Eastern Ghats extend through the eastern part of Odisha, especially in southern regions."
     },
     {
       "id": 9,
-      "category": "Odisha History",
-      "question": "Who was the leader of the Dhenkanal rebellion against the British?",
+      "category": "Odisha Geography",
+      "question": "Which mineral is predominantly mined in Odisha?",
       "options": [
-        "Laxman Naik",
-        "Madhusudan Das",
-        "Goura Chandra Panda",
-        "Baishnab Pani"
+        "Coal",
+        "Bauxite",
+        "Mica",
+        "Limestone"
       ],
-      "correct": 0,
-      "explanation": "Laxman Naik was the leader of the Dhenkanal rebellion against the British."
+      "correct": 1,
+      "explanation": "Odisha is a major bauxite producing state in India."
     },
     {
       "id": 10,
-      "category": "Odisha History",
-      "question": "Which of the following dynasties ruled Odisha after the Gajapati dynasty?",
+      "category": "Odisha Geography",
+      "question": "Which port is the primary gateway for Odisha's international trade?",
       "options": [
-        "Ganga dynasty",
-        "Bhoi dynasty",
-        "Suryavanshi dynasty",
-        "Chalukya dynasty"
+        "Visakhapatnam",
+        "Kolkata",
+        "Paradip",
+        "Mumbai"
       ],
-      "correct": 0,
-      "explanation": "The Ganga dynasty ruled Odisha after the decline of the Gajapati dynasty."
+      "correct": 2,
+      "explanation": "Paradip Port is Odisha’s main port for international trade."
     },
     {
       "id": 11,
-      "category": "Odisha Geography",
-      "question": "Which of the following rivers is the longest in Odisha?",
+      "category": "Odisha Culture & Heritage",
+      "question": "The famous Sun Temple at Konark is dedicated to which deity?",
       "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Baitarani",
-        "Subarnarekha"
+        "Lord Shiva",
+        "Lord Vishnu",
+        "Surya (Sun God)",
+        "Goddess Lakshmi"
       ],
-      "correct": 0,
-      "explanation": "The Mahanadi is the longest river in Odisha, stretching over 860 kilometers."
+      "correct": 2,
+      "explanation": "The Konark Sun Temple is dedicated to Surya, the Sun God."
     },
     {
       "id": 12,
-      "category": "Odisha Geography",
-      "question": "What is the largest district in Odisha by area?",
+      "category": "Odisha Culture & Heritage",
+      "question": "Odissi dance is traditionally associated with which temple town?",
       "options": [
-        "Mayurbhanj",
-        "Keonjhar",
-        "Sundargarh",
-        "Koraput"
+        "Puri",
+        "Konark",
+        "Bhubaneswar",
+        "Jagannathpuri"
       ],
       "correct": 0,
-      "explanation": "Mayurbhanj is the largest district in Odisha, covering an area of 10,418 square kilometers."
+      "explanation": "Odissi is closely associated with Odishan temples, especially Puri."
     },
     {
       "id": 13,
-      "category": "Odisha Geography",
-      "question": "Which of the following ports is a major port in Odisha?",
+      "category": "Odisha Culture & Heritage",
+      "question": "Which art form is characterized by intricate mythological paintings on cloth, native to Odisha?",
       "options": [
-        "Paradip Port",
-        "Visakhapatnam Port",
-        "Haldia Port",
-        "Ennore Port"
+        "Tanjore painting",
+        "Pattachitra",
+        "Madhubani",
+        "Warli"
       ],
-      "correct": 0,
-      "explanation": "Paradip Port is a major port in Odisha, handling a significant amount of cargo traffic."
+      "correct": 1,
+      "explanation": "Pattachitra is a traditional Odishan art form involving mythological themes on cloth."
     },
     {
       "id": 14,
-      "category": "Odisha Geography",
-      "question": "What is the name of the largest lake in Odisha?",
+      "category": "Odisha Culture & Heritage",
+      "question": "The festival 'Nuakhai' celebrates the harvest in Odisha and is dedicated to which deity?",
       "options": [
-        "Chilika Lake",
-        "Ansupa Lake",
-        "Hirakud Reservoir",
-        "Indira Gandhi Park"
+        "Goddess Lakshmi",
+        "Goddess Durga",
+        "Goddess Sakthi",
+        "Goddess Laxmi"
       ],
       "correct": 0,
-      "explanation": "Chilika Lake is the largest lake in Odisha, covering an area of over 1,100 square kilometers."
+      "explanation": "Nuakhai is dedicated to Goddess Laxmi, celebrating the new rice harvest."
     },
     {
       "id": 15,
-      "category": "Odisha Geography",
-      "question": "Which of the following minerals is abundantly found in Odisha?",
+      "category": "Odisha Economy & Development",
+      "question": "Which government scheme in Odisha aims to provide free health coverage to below-poverty-line families?",
       "options": [
-        "Iron ore",
-        "Coal",
-        "Bauxite",
-        "Chromium"
+        "KALIA Scheme",
+        "BSKY",
+        "Bishesh Swasthya Bima Yojana",
+        "Ama Odisha"
       ],
-      "correct": 0,
-      "explanation": "Odisha has significant deposits of iron ore, with major mining activities in the Keonjhar and Sundargarh districts."
+      "correct": 2,
+      "explanation": "Bishesh Swasthya Bima Yojana offers free health insurance for BPL families."
     },
     {
       "id": 16,
-      "category": "Odisha Geography",
-      "question": "What is the name of the mountain range that runs along the eastern edge of Odisha?",
+      "category": "Odisha Economy & Development",
+      "question": "Which company is a major national aluminum producer headquartered in Odisha?",
       "options": [
-        "Eastern Ghats",
-        "Western Ghats",
-        "Satpura Range",
-        "Vindhya Range"
+        "NALCO",
+        "Hindalco",
+        "Vedanta",
+        "National Steel Plant"
       ],
       "correct": 0,
-      "explanation": "The Eastern Ghats mountain range runs along the eastern edge of Odisha, stretching from the northeastern to the southeastern part of the state."
+      "explanation": "NALCO (National Aluminium Company Limited) is based in Odisha and is a major producer."
     },
     {
       "id": 17,
-      "category": "Odisha Geography",
-      "question": "Which of the following rivers flows through the city of Cuttack?",
+      "category": "Odisha Economy & Development",
+      "question": "The Port of Paradip was developed primarily to boost which sector?",
       "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Baitarani",
-        "Kathajodi"
+        "Agriculture",
+        "Mining",
+        "Trade and Industry",
+        "Fishing"
       ],
-      "correct": 0,
-      "explanation": "The Mahanadi river flows through the city of Cuttack, which is an important urban center in Odisha."
+      "correct": 2,
+      "explanation": "Paradip Port was developed to facilitate trade and industry, especially export-import activities."
     },
     {
       "id": 18,
-      "category": "Odisha Geography",
-      "question": "What is the climate type of Odisha?",
+      "category": "Odisha Economy & Development",
+      "question": "Which is a prominent crop cultivated extensively in Odisha's fertile plains?",
       "options": [
-        "Tropical wet and dry climate",
-        "Tropical rainforest climate",
-        "Subtropical climate",
-        "Temperate climate"
+        "Wheat",
+        "Rice",
+        "Maize",
+        "Cotton"
       ],
-      "correct": 0,
-      "explanation": "Odisha has a tropical wet and dry climate, characterized by high temperatures and high humidity during the summer months."
+      "correct": 1,
+      "explanation": "Rice is the main crop cultivated extensively in Odisha's fertile delta regions."
     },
     {
       "id": 19,
-      "category": "Odisha Geography",
-      "question": "Which of the following districts is known for its rich mineral deposits, particularly iron ore and manganese?",
+      "category": "Indian Polity & Constitution",
+      "question": "Who is the current Governor of Odisha as of 2026?",
       "options": [
-        "Keonjhar",
-        "Sundargarh",
-        "Mayurbhanj",
-        "Koraput"
+        "Ganeshi Lal",
+        "Droupadi Murmu",
+        "Mohan Charan Majhi",
+        "Satyapal Malik"
       ],
-      "correct": 0,
-      "explanation": "Keonjhar district is known for its rich mineral deposits, particularly iron ore and manganese, which are mined extensively in the region."
+      "correct": 2,
+      "explanation": "Mohan Charan Majhi is the current Governor of Odisha since 2024."
     },
     {
       "id": 20,
-      "category": "Odisha Geography",
-      "question": "What is the name of the river that forms the boundary between Odisha and Chhattisgarh?",
+      "category": "Indian Polity & Constitution",
+      "question": "Who is the current Speaker of the Odisha Legislative Assembly?",
       "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Baitarani",
-        "Ib"
+        "Surya Kant",
+        "Pradip Kumar Amat",
+        "Prasanna Acharya",
+        "Naveen Patnaik"
       ],
-      "correct": 0,
-      "explanation": "The Mahanadi river forms the boundary between Odisha and Chhattisgarh, stretching for over 150 kilometers."
+      "correct": 1,
+      "explanation": "Pradip Kumar Amat is the Speaker of Odisha Legislative Assembly."
     },
     {
       "id": 21,
-      "category": "Odisha Culture & Heritage",
-      "question": "Which of the following Odia festivals is dedicated to the worship of Goddess Earth?",
+      "category": "Indian Polity & Constitution",
+      "question": "What is the term length of the Odisha Legislative Assembly?",
       "options": [
-        "Raja festival",
-        "Nuakhai",
-        "Dussehra",
-        "Diwali"
+        "3 years",
+        "4 years",
+        "5 years",
+        "6 years"
       ],
-      "correct": 0,
-      "explanation": "Raja festival is a three-day celebration dedicated to the worship of Goddess Earth"
+      "correct": 2,
+      "explanation": "The Odisha Legislative Assembly has a term of 5 years."
     },
     {
       "id": 22,
-      "category": "Odisha Culture & Heritage",
-      "question": "What is the name of the traditional cloth painting of Odisha?",
+      "category": "Indian Polity & Constitution",
+      "question": "Which Odisha institution is responsible for rural local self-governance?",
       "options": [
-        "Pattachitra",
-        "Madhubani",
-        "Warli",
-        "Phad painting"
+        "Municipal Corporation",
+        "Zilla Parishad",
+        "Panchayat Samiti",
+        "State Assembly"
       ],
-      "correct": 0,
-      "explanation": "Pattachitra is a traditional cloth painting of Odisha"
+      "correct": 2,
+      "explanation": "Panchayat Samiti functions as the rural local self-government body."
     },
     {
       "id": 23,
-      "category": "Odisha Culture & Heritage",
-      "question": "Which of the following dance forms is originated in Odisha?",
+      "category": "General Science",
+      "question": "Which simple machine is used in Odisha's traditional water lifting devices like 'Bara'?",
       "options": [
-        "Bharatanatyam",
-        "Kathakali",
-        "Odissi",
-        "Kathak"
+        "Lever",
+        "Pulley",
+        "Inclined Plane",
+        "Wheel and Axle"
       ],
-      "correct": 2,
-      "explanation": "Odissi is a classical dance form originated in Odisha"
+      "correct": 1,
+      "explanation": "Pulley systems are used in traditional water lifting devices like 'Bara'."
     },
     {
       "id": 24,
-      "category": "Odisha Culture & Heritage",
-      "question": "What is the significance of Sabai grass craft in Odisha?",
+      "category": "General Science",
+      "question": "Which element is most abundantly found in Odisha's bauxite deposits?",
       "options": [
-        "Used for making furniture",
-        "Used for making decorative items",
-        "Used for making musical instruments",
-        "Used for making jewelry"
+        "Aluminum",
+        "Iron",
+        "Copper",
+        "Zinc"
       ],
-      "correct": 1,
-      "explanation": "Sabai grass craft is used for making decorative items in Odisha"
+      "correct": 0,
+      "explanation": "Bauxite is the primary ore for aluminum, abundantly found in Odisha."
     },
     {
       "id": 25,
-      "category": "Odisha Culture & Heritage",
-      "question": "Which of the following temples is famous for its Sun God idol?",
+      "category": "General Science",
+      "question": "Odisha's traditional 'Sabai' grass is primarily used for:",
       "options": [
-        "Jagannath Temple",
-        "Konark Sun Temple",
-        "Lingaraj Temple",
-        "Mukteswar Temple"
+        "Cloth making",
+        "Sculpture",
+        "Cooking",
+        "Fencing"
       ],
-      "correct": 1,
-      "explanation": "Konark Sun Temple is famous for its Sun God idol"
+      "correct": 0,
+      "explanation": "'Sabai' grass is used for making mats, ropes, and other cloth-based products."
     },
     {
       "id": 26,
-      "category": "Odisha Culture & Heritage",
-      "question": "What is the name of the festival celebrated by the tribal communities of Odisha to welcome the new crop?",
+      "category": "General Science",
+      "question": "Which is the main cause of disease outbreak in Odisha’s coastal areas during monsoon?",
       "options": [
-        "Nuakhai",
-        "Raja festival",
-        "Sohrai",
-        "Bhai duj"
+        "Malaria",
+        "Dengue",
+        "Cholera",
+        "Filaria"
       ],
       "correct": 0,
-      "explanation": "Nuakhai is a festival celebrated by the tribal communities of Odisha to welcome the new crop"
+      "explanation": "Malaria outbreaks are common in coastal Odisha during monsoon seasons."
     },
     {
       "id": 27,
-      "category": "Odisha Culture & Heritage",
-      "question": "Which of the following authors is known for his contribution to Odia literature?",
+      "category": "Current Affairs",
+      "question": "Who is the current Chief Minister of Odisha as of 2026?",
       "options": [
-        "Sarala Das",
-        "Kuntala Kumari Sabat",
-        "Kanhu Charan Mohanty",
-        "Gopabandhu Das"
+        "Naveen Patnaik",
+        "Mohan Charan Majhi",
+        "Nirmala Sitharaman",
+        "BJD leader"
       ],
-      "correct": 0,
-      "explanation": "Sarala Das is known for his contribution to Odia literature"
+      "correct": 1,
+      "explanation": "Mohan Charan Majhi is the current Chief Minister since June 2024."
     },
     {
       "id": 28,
-      "category": "Odisha Culture & Heritage",
-      "question": "What is the name of the traditional tribal festival celebrated in Odisha?",
+      "category": "Current Affairs",
+      "question": "Which Odisha scheme aims to provide financial assistance to farmers under the 'KALIA' initiative?",
       "options": [
-        "Sohrai",
-        "Bhai duj",
-        "Raja festival",
-        "Nuakhai"
+        "Agriculture subsidy",
+        "Farmers' credit scheme",
+        "KALIA Scheme",
+        "Rural employment"
       ],
-      "correct": 0,
-      "explanation": "Sohrai is a traditional tribal festival celebrated in Odisha"
+      "correct": 2,
+      "explanation": "The KALIA Scheme provides direct financial aid and support to Odisha farmers."
     },
     {
       "id": 29,
-      "category": "Odisha Culture & Heritage",
-      "question": "Which of the following is a unique feature of the Jagannath Temple?",
+      "category": "Current Affairs",
+      "question": "The 'Biju Swasthya Kalyan Yojana' (BSKY) is a health scheme launched by Odisha for which purpose?",
       "options": [
-        "Its height",
-        "Its architecture",
-        "Its flag always flaps in the opposite direction of the wind",
-        "Its idol is made of gold"
+        "Free education",
+        "Free health insurance",
+        "Rural employment",
+        "Road development"
       ],
-      "correct": 2,
-      "explanation": "The flag of the Jagannath Temple always flaps in the opposite direction of the wind"
+      "correct": 1,
+      "explanation": "BSKY aims to provide free health insurance to Odisha residents."
     },
     {
       "id": 30,
-      "category": "Odisha Culture & Heritage",
-      "question": "What is the name of the traditional Odia craft that involves painting on palm leaves?",
+      "category": "Current Affairs",
+      "question": "The 'Mo Sarkar' initiative launched by Odisha government is primarily aimed at:",
       "options": [
-        "Pattachitra",
-        "Tussar painting",
-        "Palm leaf engraving",
-        "Palm leaf painting"
+        "Enhancing education",
+        "Improving health services",
+        "Government accountability and service quality",
+        "Agricultural development"
       ],
-      "correct": 0,
-      "explanation": "Pattachitra is a traditional Odia craft that involves painting on palm leaves or cloth"
+      "correct": 2,
+      "explanation": "'Mo Sarkar' focuses on improving government service delivery and accountability."
     }
   ]
 }
