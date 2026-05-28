@@ -1,208 +1,208 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is considered the earliest known work of Indian philosophy?",
+      "question": "Who was the founder of the Mauryan Empire in India?",
       "options": [
-        "Arthashastra",
-        "Vedas",
-        "Mahabharata",
-        "Upanishads"
+        "Chandragupta Maurya",
+        "Ashoka the Great",
+        "Samudragupta",
+        "Harsha"
       ],
-      "correct": 1,
-      "explanation": "The Vedas are the oldest Indian scriptures, dating back to around 1500 BCE, and form the foundation of Indian philosophy."
+      "correct": 0,
+      "explanation": "Chandragupta Maurya founded the Mauryan Empire around 322 BCE, establishing one of the largest empires in Indian history."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
+      "question": "Which event marked the beginning of the Modern Indian National Movement?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bal Gangadhar Tilak",
-        "Bhagwan Singh"
+        "Swadeshi Movement",
+        "Partition of Bengal",
+        "Formation of Indian National Congress",
+        "Jallianwala Bagh Massacre"
       ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement, advocating non-violent resistance against British rule."
+      "correct": 2,
+      "explanation": "The Indian National Congress was founded in 1885, marking the formal beginning of the organized modern national movement."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "The Jallianwala Bagh massacre took place in which city?",
+      "question": "Who led the Salt Satyagraha in 1930?",
       "options": [
-        "Lahore",
-        "Amritsar",
-        "Delhi",
-        "Kolkata"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
       ],
-      "correct": 1,
-      "explanation": "The massacre occurred in Amritsar on April 13, 1919, when British troops fired on a peaceful gathering."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi led the Salt Satyagraha as a nonviolent protest against the British salt monopoly in 1930."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "During the Mughal period, which ruler built the Taj Mahal?",
+      "question": "The Treaty of Purandar was signed between Shivaji and which Mughal governor?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Shaista Khan",
+        "Aurangzeb",
+        "Jahangir",
+        "Akbar"
       ],
-      "correct": 2,
-      "explanation": "Shah Jahan commissioned the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
+      "correct": 0,
+      "explanation": "The Treaty of Purandar was signed in 1665 between Shivaji and Mughal general Shaista Khan."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "The Partition of India was announced in which year?",
+      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
-        "1945",
-        "1947",
-        "1950",
-        "1952"
+        "Mahatma Gandhi",
+        "Lala Lajpat Rai",
+        "Bal Gangadhar Tilak",
+        "Jawaharlal Nehru"
       ],
-      "correct": 1,
-      "explanation": "India was partitioned and independence was granted in 1947, leading to the creation of India and Pakistan."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement, emphasizing non-violent resistance against British rule."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bengal'?",
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
       "options": [
-        "Ganges",
+        "Ganga",
+        "Koshi",
         "Brahmaputra",
-        "Padma",
-        "Hooghly"
+        "Ghaghara"
       ],
-      "correct": 2,
-      "explanation": "The Brahmaputra is often called the 'Sorrow of Bengal' due to its frequent flooding."
+      "correct": 1,
+      "explanation": "The Koshi River is often called the 'Sorrow of Bihar' due to frequent devastating floods."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "What is the primary cause of the monsoon season in India?",
+      "question": "Which is the largest coastal plain in India?",
       "options": [
-        "Himalayan barrier",
-        "Indian Ocean warming",
-        "Western disturbance",
-        "Southern ocean currents"
+        "Kutch Desert",
+        "Coromandel Coast",
+        "Eastern Coastal Plain",
+        "Western Coastal Plain"
       ],
-      "correct": 1,
-      "explanation": "The warming of the Indian Ocean creates low-pressure systems that drive the monsoon winds."
+      "correct": 2,
+      "explanation": "The Eastern Coastal Plain is the largest among the Indian coastal plains."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which mineral is most abundantly found in Jharkhand?",
+      "question": "Which monsoon wind brings rainfall to most parts of India during the summer?",
       "options": [
-        "Bauxite",
-        "Iron ore",
-        "Coal",
-        "Mica"
+        "Retreating Monsoon",
+        "South-West Monsoon",
+        "North-East Monsoon",
+        "North-West Monsoon"
       ],
-      "correct": 2,
-      "explanation": "Jharkhand is rich in coal deposits, making it a major coal-producing state."
+      "correct": 1,
+      "explanation": "The South-West Monsoon winds bring heavy rainfall to most parts of India during summer."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "The Deccan Plateau is primarily drained by which river system?",
+      "question": "Which resource is India the largest producer of in the world?",
       "options": [
-        "Ganges-Brahmaputra",
-        "Narmada-Tapti",
-        "Godavari",
-        "Mahi"
+        "Coal",
+        "Mica",
+        "Diamonds",
+        "Bauxite"
       ],
-      "correct": 2,
-      "explanation": "The Godavari River is the largest in the Deccan Plateau region."
+      "correct": 1,
+      "explanation": "India is the largest producer of mica globally."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "Who is the current President of India?",
       "options": [
-        "The President of India",
-        "The Prime Minister",
-        "The Chief Justice of India",
-        "The Parliament"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pratibha Patil",
+        "A.P.J. Abdul Kalam"
       ],
       "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India."
+      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
       "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
       "options": [
-        "Article 12",
-        "Articles 14-32",
-        "Articles 360-367",
-        "Articles 370-378"
+        "Article 14",
+        "Articles 12-35",
+        "Article 21",
+        "Article 370"
       ],
       "correct": 1,
-      "explanation": "Articles 14 to 32 of the Indian Constitution guarantee Fundamental Rights."
+      "explanation": "Articles 12 to 35 of the Indian Constitution specify the Fundamental Rights."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The power of Judicial Review in India is vested in:",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "The President",
-        "The Parliament",
-        "The Supreme Court",
-        "The Lok Sabha"
+        "President of India",
+        "Prime Minister",
+        "Lok Sabha",
+        "Chief Justice of India"
       ],
-      "correct": 2,
-      "explanation": "The Supreme Court has the power of Judicial Review as per the Indian Constitution."
+      "correct": 0,
+      "explanation": "The President of India appoints the Chief Justice of India under constitutional provisions."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system was constitutionalized in India in which year?",
+      "question": "The Panchayati Raj system is based on which amendment to the Indian Constitution?",
       "options": [
-        "1950",
-        "1973",
-        "1992",
-        "2000"
+        "73rd Amendment",
+        "74th Amendment",
+        "42nd Amendment",
+        "44th Amendment"
       ],
-      "correct": 2,
-      "explanation": "The 73rd Amendment Act, 1992, constitutionalized the Panchayati Raj system."
+      "correct": 0,
+      "explanation": "The 73rd Amendment Act, 1992, provides constitutional status to Panchayati Raj institutions."
     },
     {
       "id": 14,
       "category": "Indian Polity & Governance",
-      "question": "How many Fundamental Rights are guaranteed by the Indian Constitution?",
+      "question": "Which of the following is a fundamental duty of Indian citizens?",
       "options": [
-        "Five",
-        "Six",
-        "Seven",
-        "Eight"
+        "Right to Freedom",
+        "Right to Education",
+        "To abide by the Constitution",
+        "Right to Vote"
       ],
-      "correct": 1,
-      "explanation": "The Indian Constitution guarantees six Fundamental Rights."
+      "correct": 2,
+      "explanation": "Article 51A of the Constitution lists the fundamental duties, including to abide by the Constitution."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "India's Union Budget for 2026-27 is presented by:",
+      "question": "The Union Budget of India is presented by which government official?",
       "options": [
-        "The President of India",
-        "The Finance Minister",
-        "The Prime Minister",
-        "The Speaker of Lok Sabha"
+        "Finance Minister",
+        "Prime Minister",
+        "President of India",
+        "Deputy Chairman of the Planning Commission"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "The Finance Minister presents the Union Budget in Parliament."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which sector contributes the highest to India's GDP?",
+      "question": "Which sector contributes the maximum share to India’s GDP?",
       "options": [
         "Agriculture",
         "Manufacturing",
@@ -210,189 +210,189 @@
         "Mining"
       ],
       "correct": 2,
-      "explanation": "The services sector is the largest contributor to India's GDP."
+      "explanation": "The Services sector contributes the largest share to India’s GDP."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "The term 'Fiscal Deficit' refers to:",
+      "question": "The term 'Fisc' in economics refers to:",
       "options": [
-        "Difference between revenue and expenditure",
-        "Total borrowings of the government",
-        "The gap between the revenue and the plan expenditure",
-        "The excess of non-debt creating receipts over non-debt creating payments"
+        "Tax revenue",
+        "Public revenue and expenditure",
+        "Fiscal deficit",
+        "Banking system"
       ],
-      "correct": 2,
-      "explanation": "Fiscal deficit is the gap between the government's total revenue and total expenditure."
+      "correct": 1,
+      "explanation": "Fisc refers to government revenue and expenditure policies."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "Which organization is responsible for regulating the banking sector in India?",
+      "question": "Which Five Year Plan emphasized on 'Boosting Agricultural Production'?",
       "options": [
-        "SEBI",
-        "RBI",
-        "IRDAI",
-        "SIDBI"
+        "First Five Year Plan",
+        "Second Five Year Plan",
+        "Third Five Year Plan",
+        "Eleventh Five Year Plan"
       ],
-      "correct": 1,
-      "explanation": "The Reserve Bank of India (RBI) regulates the banking sector in India."
+      "correct": 0,
+      "explanation": "The First Five Year Plan (1951-1956) emphasized on agriculture and rural development."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which law explains the phenomenon of electromagnetic induction?",
+      "question": "What is the primary component of the Sun’s energy?",
       "options": [
-        "Ohm's Law",
-        "Faraday's Law",
-        "Lenz's Law",
-        "Henry's Law"
+        "Nuclear fusion",
+        "Electricity",
+        "Radioactive decay",
+        "Gravitational energy"
       ],
-      "correct": 1,
-      "explanation": "Faraday's Law of Induction describes how a changing magnetic field induces an electric current."
+      "correct": 0,
+      "explanation": "The Sun's energy is primarily produced by nuclear fusion occurring in its core."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element is most abundant in the Earth's crust?",
+      "question": "Which element is used as a coolant in nuclear reactors?",
       "options": [
-        "Oxygen",
-        "Silicon",
-        "Aluminium",
-        "Iron"
+        "Radon",
+        "Helium",
+        "Carbon Dioxide",
+        "Water"
       ],
-      "correct": 0,
-      "explanation": "Oxygen is the most abundant element in the Earth's crust."
+      "correct": 1,
+      "explanation": "Helium is used as a coolant in some nuclear reactors due to its inert properties."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which biological process is primarily responsible for the conversion of atmospheric nitrogen into ammonia?",
+      "question": "Which biological process is responsible for converting atmospheric nitrogen into a form usable by plants?",
       "options": [
         "Photosynthesis",
         "Nitrogen fixation",
         "Respiration",
-        "Transpiration"
+        "Decay"
       ],
       "correct": 1,
-      "explanation": "Nitrogen fixation, carried out by certain bacteria, converts atmospheric nitrogen into ammonia."
+      "explanation": "Nitrogen fixation is the process by which atmospheric nitrogen is converted into ammonia or related compounds."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which satellite was launched by India in 2021 as part of its space program?",
+      "question": "The Indian Satellite 'Cartosat-2' is primarily used for:",
       "options": [
-        "Chandrayaan-2",
-        "Mangalyaan",
-        "GISAT-1",
-        "Cartosat-3"
+        "Navigation",
+        "Weather forecasting",
+        "Earth observation and Cartography",
+        "Communication"
       ],
       "correct": 2,
-      "explanation": "India launched GISAT-1 in 2021 as part of its space initiative."
+      "explanation": "Cartosat-2 is an earth observation satellite used mainly for cartography and imaging purposes."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which national park is famous for Bengal tigers in India?",
+      "question": "Which biodiversity hotspot is located entirely within India?",
       "options": [
-        "Jim Corbett",
-        "Sundarbans",
-        "Bandipur",
-        "Ranthambore"
+        "Western Ghats",
+        "Himalayas",
+        "Sundaland",
+        "Indo-Burma"
       ],
-      "correct": 1,
-      "explanation": "Sundarbans is renowned for its Bengal tiger population."
+      "correct": 0,
+      "explanation": "The Western Ghats is a UNESCO World Heritage site and a biodiversity hotspot located entirely within India."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The Kyoto Protocol aims to tackle which global issue?",
+      "question": "The Paris Agreement primarily aims to address which global issue?",
       "options": [
         "Deforestation",
         "Climate Change",
-        "Biodiversity Loss",
-        "Ozone Depletion"
+        "Loss of Biodiversity",
+        "Pollution Control"
       ],
       "correct": 1,
-      "explanation": "Kyoto Protocol is an international treaty to reduce greenhouse gas emissions and combat climate change."
+      "explanation": "The Paris Agreement focuses on limiting global temperature rise and addressing climate change."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a renewable resource?",
+      "question": "Which protected area is the largest national park in India?",
       "options": [
-        "Coal",
-        "Petroleum",
-        "Natural Gas",
-        "Solar Energy"
+        "Gir Forest National Park",
+        "Kanha National Park",
+        "Ranthambore National Park",
+        "Hemced National Park"
       ],
       "correct": 3,
-      "explanation": "Solar energy is renewable, unlike fossil fuels which are finite."
+      "explanation": "Hemced National Park in Madhya Pradesh is the largest national park in India."
     },
     {
       "id": 26,
       "category": "Environment & Ecology",
-      "question": "The Environmental Protection Act was enacted in which year?",
+      "question": "The Biodiversity Act, 2002, aims to:",
       "options": [
-        "1986",
-        "1976",
-        "1992",
-        "2000"
+        "Promote logging",
+        "Conserve biological diversity",
+        "Increase use of pesticides",
+        "Promote monoculture farming"
       ],
-      "correct": 0,
-      "explanation": "The Environment Protection Act was enacted in 1986 to protect the environment."
+      "correct": 1,
+      "explanation": "The Biodiversity Act, 2002, aims to conserve biological diversity, sustainable use, and fair sharing of benefits."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who is the current President of India?",
+      "question": "Who is the current Chief Minister of Odisha?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "Ram Nath Singh"
+        "Mohan Charan Majhi",
+        "Naveen Patnaik",
+        "Bhubaneshwar Patnaik",
+        "Arvind Kejriwal"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu has been serving as the President of India since 25 July 2022."
+      "explanation": "Mohan Charan Majhi has been the Chief Minister of Odisha since 12 June 2024."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Prime Minister of India?",
+      "question": "Who is the current Vice President of India?",
       "options": [
-        "Narendra Modi",
-        "Manmohan Singh",
-        "Amit Shah",
-        "Amit Shah"
+        "C. P. Radhakrishnan",
+        "Venkaiah Naidu",
+        "Jagdeep Dhankhar",
+        "Hamid Ansari"
       ],
       "correct": 0,
-      "explanation": "Narendra Modi has been the Prime Minister since 26 May 2014."
+      "explanation": "C. P. Radhakrishnan has been the Vice President since 12 September 2025."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Chief Justice of India (judge)?",
+      "question": "Which international organization awarded the Nobel Peace Prize in 2022?",
       "options": [
-        "Surya Kant",
-        "Dhananjaya Y. Chandrachud",
-        "John Roberts",
-        "Uday Umesh Lalit"
+        "World Food Programme",
+        "United Nations",
+        "International Court of Justice",
+        "WHO"
       ],
       "correct": 0,
-      "explanation": "Surya Kant is the current Chief Justice of India as of November 2025."
+      "explanation": "The World Food Programme received the Nobel Peace Prize in 2022 for its efforts against hunger."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Who is the current External Affairs Minister of India?",
+      "question": "Which sports event did India win gold in at the Tokyo 2020 Olympics?",
       "options": [
-        "S. Jaishankar",
-        "Subrahmanyam Jaishankar",
-        "S. S. Jaishankar",
-        "S. Ashok"
+        "Badminton Mixed Doubles",
+        "Javelin Throw",
+        "Weightlifting",
+        "Golf"
       ],
-      "correct": 0,
-      "explanation": "S. Jaishankar is the current External Affairs Minister of India."
+      "correct": 1,
+      "explanation": "Neeraj Chopra won gold in Javelin Throw at the Tokyo 2020 Olympics."
     }
   ]
 }
