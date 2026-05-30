@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which of the following inscriptions is associated with the Mauryan Emperor Ashoka and is considered one of the earliest examples of Indian script?",
+      "question": "Who was the founder of the Maurya Empire in India?",
       "options": [
-        "Kharosthi inscriptions",
-        "Brahmi inscriptions",
-        "Edicts of Ashoka",
-        "Prakrit inscriptions"
+        "Chandragupta Maurya",
+        "Ashoka the Great",
+        "Bindu",
+        "Chola"
       ],
-      "correct": 2,
-      "explanation": "The Edicts of Ashoka are engraved on pillars and rocks and are among the earliest deciphered inscriptions in Indian history, written in Brahmi script."
+      "correct": 0,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire around 322 BCE, establishing one of the largest empires in Indian history."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "The Battle of Plassey (1757) marked the beginning of which period in Indian history?",
+      "question": "During the Mughal period, which emperor built the Taj Mahal?",
       "options": [
-        "Mughal Empire",
-        "British East India Company's dominance",
-        "Maratha Empire",
-        "Indian National Movement"
+        "Aurangzeb",
+        "Jahangir",
+        "Shah Jahan",
+        "Akbar"
       ],
-      "correct": 1,
-      "explanation": "The Battle of Plassey was a decisive victory for the British East India Company, leading to its dominance over Bengal and eventually control of India."
+      "correct": 2,
+      "explanation": "Shah Jahan commissioned the construction of the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
+      "question": "The Indian National Congress was founded in which year?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bhagat Singh"
+        "1885",
+        "1905",
+        "1857",
+        "1920"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement aimed at resisting British rule through non-violent means."
+      "explanation": "The Indian National Congress was founded in 1885, marking the beginning of organized political nationalism in India."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Which modern Indian freedom fighter is popularly known as 'Mashal-e-Hind'?",
+      "question": "Who was the leader of the Salt Satyagraha in 1930?",
       "options": [
-        "Bal Gangadhar Tilak",
-        "Mahatma Gandhi",
         "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Patel",
         "Subhas Chandra Bose"
       ],
-      "correct": 0,
-      "explanation": "Bal Gangadhar Tilak was called 'Mashal-e-Hind' (Torch of India) for his leadership in the freedom movement."
+      "correct": 1,
+      "explanation": "Mahatma Gandhi led the Salt Satyagraha, a pivotal movement against salt laws in 1930."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "During which period did the Mughal Empire reach its greatest territorial extent under Akbar?",
+      "question": "When did India gain independence from British rule?",
       "options": [
-        "16th century",
-        "17th century",
-        "18th century",
-        "15th century"
+        "August 15, 1947",
+        "January 26, 1950",
+        "August 15, 1930",
+        "October 2, 1947"
       ],
-      "correct": 1,
-      "explanation": "Under Akbar's rule (1556-1605), the Mughal Empire expanded to its greatest territorial extent in the 17th century."
+      "correct": 0,
+      "explanation": "India gained independence from British rule on August 15, 1947."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
+      "question": "Which is the longest river in India?",
       "options": [
         "Ganges",
-        "Koshi",
-        "Son",
-        "Ghaghara"
+        "Godavari",
+        "Indus",
+        "Brahmaputra"
       ],
       "correct": 1,
-      "explanation": "The Koshi River causes frequent floods in Bihar, earning it the nickname 'Sorrow of Bihar.'"
+      "explanation": "The Godavari is the longest river in India, flowing approximately 1,465 km."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which is the largest mineral resource deposit in India?",
+      "question": "Which desert is located in western India?",
       "options": [
-        "Coal",
-        "Bauxite",
-        "Iron Ore",
-        "Manganese"
+        "Thar Desert",
+        "Kalahari Desert",
+        "Great Victoria Desert",
+        "Sonoran Desert"
       ],
       "correct": 0,
-      "explanation": "India has the world's fifth-largest coal reserves, making it the largest mineral resource deposit."
+      "explanation": "The Thar Desert lies in western India and southeastern Pakistan."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which climate zone is characterized by heavy rainfall and high humidity in India?",
+      "question": "Which Indian state has the highest rainfall?",
       "options": [
-        "Desert climate",
-        "Tropical rainforest",
-        "Semi-arid",
-        "Montane"
+        "Kerala",
+        "Maharashtra",
+        "Goa",
+        "Assam"
       ],
-      "correct": 1,
-      "explanation": "The tropical rainforest climate, found in parts of the Western Ghats and Northeast, experiences heavy rainfall and high humidity."
+      "correct": 0,
+      "explanation": "Kerala receives the highest rainfall among Indian states due to the southwest monsoon."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which major river basin is associated with the city of Kolkata?",
+      "question": "Which resource is most abundantly found in the Rajasthan state?",
       "options": [
-        "Ganges",
-        "Godavari",
-        "Mahanadi",
-        "Indus"
+        "Coal",
+        "Uranium",
+        "Limestone",
+        "Gypsum"
       ],
-      "correct": 0,
-      "explanation": "Kolkata is situated on the Ganges River basin, which is one of the most significant river systems in India."
+      "correct": 2,
+      "explanation": "Rajasthan is rich in limestone deposits, essential for cement production."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who is the head of the Union Executive in India according to the Constitution?",
-      "options": [
-        "Prime Minister",
-        "President",
-        "Chief Justice",
-        "Lok Sabha Speaker"
-      ],
-      "correct": 1,
-      "explanation": "The President of India is the head of the Union Executive, as per the Constitution."
-    },
-    {
-      "id": 11,
-      "category": "Indian Polity & Governance",
-      "question": "The 'Right to Vote' is a fundamental right under which article of the Indian Constitution?",
-      "options": [
-        "Article 14",
-        "Article 15",
-        "Article 19",
-        "Article 326"
-      ],
-      "correct": 3,
-      "explanation": "Article 326 of the Constitution grants the right to vote in elections to the citizens of India."
-    },
-    {
-      "id": 12,
-      "category": "Indian Polity & Governance",
-      "question": "Which institution is responsible for interpreting the Constitution of India?",
-      "options": [
-        "Lok Sabha",
-        "Supreme Court",
-        "Election Commission",
-        "Parliament"
-      ],
-      "correct": 1,
-      "explanation": "The Supreme Court of India is the highest judicial authority responsible for interpreting the Constitution."
-    },
-    {
-      "id": 13,
-      "category": "Indian Polity & Governance",
-      "question": "Which of the following is NOT a fundamental right in India?",
-      "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right to Property",
-        "Right to Education"
-      ],
-      "correct": 3,
-      "explanation": "The Right to Property was a fundamental right but was removed by 44th Amendment Act, 1978; however, it is now a legal right in specific contexts."
-    },
-    {
-      "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system in India was introduced through which constitutional amendment?",
-      "options": [
-        "73rd Amendment",
-        "42nd Amendment",
-        "86th Amendment",
-        "44th Amendment"
-      ],
-      "correct": 0,
-      "explanation": "The 73rd Constitution Amendment Act, 1992, institutionalized Panchayati Raj in India."
-    },
-    {
-      "id": 15,
-      "category": "Indian Economy",
-      "question": "India's GDP is primarily classified under which sector?",
-      "options": [
-        "Agriculture",
-        "Industry",
-        "Services",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "India's GDP comprises contributions from agriculture, industry, and services sectors."
-    },
-    {
-      "id": 16,
-      "category": "Indian Economy",
-      "question": "The Union Budget of India is presented annually by which Ministry?",
-      "options": [
-        "Ministry of Finance",
-        "Ministry of Commerce",
-        "Ministry of Planning",
-        "Ministry of Economic Development"
-      ],
-      "correct": 0,
-      "explanation": "The Union Budget is presented by the Ministry of Finance."
-    },
-    {
-      "id": 17,
-      "category": "Indian Economy",
-      "question": "Which institution is responsible for regulating the banking sector in India?",
-      "options": [
-        "SEBI",
-        "RBI",
-        "ICAI",
-        "NITI Aayog"
-      ],
-      "correct": 1,
-      "explanation": "The Reserve Bank of India (RBI) regulates the banking and monetary system in India."
-    },
-    {
-      "id": 18,
-      "category": "Indian Economy",
-      "question": "Which five-year plan was called the 'Gandhian Plan' due to its emphasis on self-sufficiency?",
-      "options": [
-        "First Five Year Plan",
-        "Second Five Year Plan",
-        "Third Five Year Plan",
-        "Fourth Five Year Plan"
-      ],
-      "correct": 0,
-      "explanation": "The First Five-Year Plan focused on agriculture and self-sufficiency, earning it the nickname 'Gandhian Plan.'"
-    },
-    {
-      "id": 19,
-      "category": "General Science",
-      "question": "Which of the following is a chemical element?",
-      "options": [
-        "Water",
-        "Oxygen",
-        "Salt",
-        "Vinegar"
-      ],
-      "correct": 1,
-      "explanation": "Oxygen is a chemical element with the symbol O and atomic number 8."
-    },
-    {
-      "id": 20,
-      "category": "General Science",
-      "question": "Which planet is known as the 'Red Planet'?",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "correct": 1,
-      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide on its surface."
-    },
-    {
-      "id": 21,
-      "category": "General Science",
-      "question": "The process of photosynthesis in plants primarily involves the absorption of which gas?",
-      "options": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Methane"
-      ],
-      "correct": 1,
-      "explanation": "Photosynthesis involves the absorption of carbon dioxide and the release of oxygen."
-    },
-    {
-      "id": 22,
-      "category": "General Science",
-      "question": "Which technology is used in solar panels to convert sunlight directly into electricity?",
-      "options": [
-        "Thermal energy",
-        "Photovoltaic effect",
-        "Nuclear fusion",
-        "Electrolysis"
-      ],
-      "correct": 1,
-      "explanation": "Photovoltaic cells in solar panels convert sunlight directly into electricity via the photovoltaic effect."
-    },
-    {
-      "id": 23,
-      "category": "Environment & Ecology",
-      "question": "Which international agreement aims to reduce greenhouse gas emissions globally?",
-      "options": [
-        "Montreal Protocol",
-        "Kyoto Protocol",
-        "Paris Agreement",
-        "Copenhagen Accord"
-      ],
-      "correct": 2,
-      "explanation": "The Paris Agreement (2015) aims to limit global temperature rise by reducing emissions."
-    },
-    {
-      "id": 24,
-      "category": "Environment & Ecology",
-      "question": "Which Indian national park is a UNESCO World Heritage Site and known for tigers?",
-      "options": [
-        "Gir Forest",
-        "Sundarbans",
-        "Jim Corbett",
-        "Bandipur"
-      ],
-      "correct": 1,
-      "explanation": "The Sundarbans estuarine mangrove forest is a UNESCO World Heritage Site and a critical habitat for Bengal tigers."
-    },
-    {
-      "id": 25,
-      "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity was adopted in which city?",
-      "options": [
-        "Rio de Janeiro",
-        "Stockholm",
-        "Geneva",
-        "Copenhagen"
-      ],
-      "correct": 0,
-      "explanation": "The Convention on Biological Diversity was adopted during the Earth Summit in Rio de Janeiro in 1992."
-    },
-    {
-      "id": 26,
-      "category": "Environment & Ecology",
-      "question": "Which law in India governs environmental protection and pollution control?",
-      "options": [
-        "Wildlife Protection Act",
-        "Environment Protection Act",
-        "Air Act",
-        "Water Act"
-      ],
-      "correct": 1,
-      "explanation": "The Environment Protection Act, 1986, provides comprehensive legislation for environmental protection."
-    },
-    {
-      "id": 27,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current President of India as of 2026?",
+      "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "Smt. Pratibha Patil"
+        "APJ Abdul Kalam",
+        "Pratibha Patil"
       ],
       "correct": 0,
       "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
     },
     {
+      "id": 11,
+      "category": "Indian Polity & Governance",
+      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
+      "options": [
+        "Article 12-35",
+        "Article 53",
+        "Article 368",
+        "Article 356"
+      ],
+      "correct": 0,
+      "explanation": "Articles 12 to 35 of the Indian Constitution define and protect Fundamental Rights."
+    },
+    {
+      "id": 12,
+      "category": "Indian Polity & Governance",
+      "question": "Who is the current Speaker of the Lok Sabha?",
+      "options": [
+        "Om Birla",
+        "M. Venkaiah Naidu",
+        "Sonia Gandhi",
+        "Narendra Modi"
+      ],
+      "correct": 0,
+      "explanation": "Om Birla has been serving as the Speaker of the Lok Sabha since 19 June 2019."
+    },
+    {
+      "id": 13,
+      "category": "Indian Polity & Governance",
+      "question": "Which part of the Indian Constitution deals with the Parliament?",
+      "options": [
+        "Part I",
+        "Part IV",
+        "Part V",
+        "Part IX"
+      ],
+      "correct": 2,
+      "explanation": "Part V of the Indian Constitution deals with the Union and Parliament."
+    },
+    {
+      "id": 14,
+      "category": "Indian Polity & Governance",
+      "question": "Which of the following is a fundamental duty of Indian citizens?",
+      "options": [
+        "To promote harmony",
+        "To vote in elections",
+        "To pay taxes",
+        "To serve in the army"
+      ],
+      "correct": 0,
+      "explanation": "Promoting harmony of the spirit of common brotherhood among all people is a fundamental duty."
+    },
+    {
+      "id": 15,
+      "category": "Indian Economy",
+      "question": "As of 2026, who is the current Finance Minister of India?",
+      "options": [
+        "Nirmala Sitharaman",
+        "P. Chidambaram",
+        "Arun Jaitley",
+        "Shankar Acharya"
+      ],
+      "correct": 0,
+      "explanation": "Nirmala Sitharaman is the current Finance Minister since 30 May 2019."
+    },
+    {
+      "id": 16,
+      "category": "Indian Economy",
+      "question": "What does GDP stand for?",
+      "options": [
+        "Gross Domestic Product",
+        "Gross Development Progress",
+        "General Domestic Price",
+        "Government Debt Profile"
+      ],
+      "correct": 0,
+      "explanation": "GDP stands for Gross Domestic Product, a key indicator of economic activity."
+    },
+    {
+      "id": 17,
+      "category": "Indian Economy",
+      "question": "India's five-year plans were originally adopted from which country's planning model?",
+      "options": [
+        "USSR",
+        "USA",
+        "UK",
+        "France"
+      ],
+      "correct": 0,
+      "explanation": "India adopted its Five Year Plans based on the Soviet Union's planning model."
+    },
+    {
+      "id": 18,
+      "category": "Indian Economy",
+      "question": "Which sector contributes the largest share to India's GDP?",
+      "options": [
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Manufacturing"
+      ],
+      "correct": 2,
+      "explanation": "The services sector contributes the largest share to India’s GDP."
+    },
+    {
+      "id": 19,
+      "category": "General Science",
+      "question": "Which element is primarily responsible for the green color in plants?",
+      "options": [
+        "Chlorophyll",
+        "Carotene",
+        "Xanthophyll",
+        "Hemoglobin"
+      ],
+      "correct": 0,
+      "explanation": "Chlorophyll is responsible for the green color of plants and plays a vital role in photosynthesis."
+    },
+    {
+      "id": 20,
+      "category": "General Science",
+      "question": "The law of conservation of mass was proposed by:",
+      "options": [
+        "Dmitri Mendeleev",
+        "Antoine Lavoisier",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "correct": 1,
+      "explanation": "Antoine Lavoisier proposed the law of conservation of mass."
+    },
+    {
+      "id": 21,
+      "category": "General Science",
+      "question": "Which satellite was launched by India in 2019 for navigation purposes?",
+      "options": [
+        "GSAT-7",
+        "IRNSS-1H",
+        "NavIC",
+        "Gaganyaan"
+      ],
+      "correct": 2,
+      "explanation": "NavIC (Navigation with Indian Constellation) is India's satellite navigation system launched for accurate positioning."
+    },
+    {
+      "id": 22,
+      "category": "General Science",
+      "question": "Which biological process is responsible for the exchange of gases in the human lungs?",
+      "options": [
+        "Photosynthesis",
+        "Diffusion",
+        "Respiration",
+        "Transpiration"
+      ],
+      "correct": 1,
+      "explanation": "Diffusion allows gases like oxygen and carbon dioxide to exchange in the lungs."
+    },
+    {
+      "id": 23,
+      "category": "Environment & Ecology",
+      "question": "Which is the world's largest biodiversity hotspot?",
+      "options": [
+        "Sundaland",
+        "Western Ghats",
+        "Himalayas",
+        "Indo-Burma"
+      ],
+      "correct": 3,
+      "explanation": "The Indo-Burma region is considered the world's largest biodiversity hotspot."
+    },
+    {
+      "id": 24,
+      "category": "Environment & Ecology",
+      "question": "The Kyoto Protocol is related to which environmental issue?",
+      "options": [
+        "Ozone depletion",
+        "Climate change",
+        "Water pollution",
+        "Deforestation"
+      ],
+      "correct": 1,
+      "explanation": "The Kyoto Protocol is an international treaty aimed at reducing greenhouse gas emissions to combat climate change."
+    },
+    {
+      "id": 25,
+      "category": "Environment & Ecology",
+      "question": "Which of the following are protected areas designated for the conservation of biodiversity?",
+      "options": [
+        "National Parks",
+        "Wildlife Sanctuaries",
+        "Both A and B",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "Both National Parks and Wildlife Sanctuaries are protected areas for conserving biodiversity."
+    },
+    {
+      "id": 26,
+      "category": "Current Affairs & G.K.",
+      "question": "Who is the current Chief Minister of Odisha as of 2026?",
+      "options": [
+        "Naveen Patnaik",
+        "Mohan Charan Majhi",
+        "Nitish Kumar",
+        "Hemant Soren"
+      ],
+      "correct": 1,
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+    },
+    {
+      "id": 27,
+      "category": "Current Affairs & G.K.",
+      "question": "Who is the current Vice President of India as of 2026?",
+      "options": [
+        "Venkaiah Naidu",
+        "C. P. Radhakrishnan",
+        "Jagdeep Dhankhar",
+        "Hamid Ansari"
+      ],
+      "correct": 1,
+      "explanation": "C. P. Radhakrishnan has been serving as Vice President since 12 September 2025."
+    },
+    {
       "id": 28,
-      "category": "Current Affairs & GK",
+      "category": "Current Affairs & G.K.",
       "question": "Who is the current Prime Minister of India?",
       "options": [
         "Narendra Modi",
         "Manmohan Singh",
-        "Amit Shah",
-        "Rajnath Singh"
+        "Rajiv Gandhi",
+        "A. B. Vajpayee"
       ],
       "correct": 0,
       "explanation": "Narendra Modi has been the Prime Minister since 26 May 2014."
     },
     {
       "id": 29,
-      "category": "Current Affairs & GK",
-      "question": "Which of the following schemes was launched by the Government of India to promote digital payments?",
+      "category": "Current Affairs & G.K.",
+      "question": "Which scheme was launched by the Government of India to promote digital payments?",
       "options": [
-        "Jan Dhan Yojana",
         "Digital India",
-        "Swachh Bharat",
-        "Make in India"
+        "Make in India",
+        "Startup India",
+        "Skill India"
       ],
-      "correct": 1,
-      "explanation": "Digital India aims to enhance digital infrastructure and promote digital payments."
+      "correct": 0,
+      "explanation": "Digital India is a flagship initiative to promote digital payments and digital infrastructure."
     },
     {
       "id": 30,
-      "category": "Current Affairs & GK",
-      "question": "Which sports event did Neeraj Chopra win a gold medal in 2024?",
+      "category": "Current Affairs & G.K.",
+      "question": "Which global sports event was hosted by India in 2023?",
       "options": [
-        "Olympics",
-        "Commonwealth Games",
+        "FIFA World Cup",
+        "Cricket World Cup",
         "Asian Games",
-        "World Athletics Championships"
+        "Commonwealth Games"
       ],
       "correct": 2,
-      "explanation": "Neeraj Chopra won a gold medal at the 2024 Asian Games in javelin throw."
+      "explanation": "India hosted the 19th Asian Games in 2023 in Hangzhou, China, with significant participation."
     }
   ]
 }
