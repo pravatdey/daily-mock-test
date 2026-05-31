@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Who was the founder of the Maurya Empire in India?",
+      "question": "Which ancient Indian text is primarily a collection of hymns dedicated to various deities?",
       "options": [
-        "Chandragupta Maurya",
-        "Ashoka the Great",
-        "Bindu",
-        "Chola"
+        "Arthashastra",
+        "Vedas",
+        "Puranas",
+        "Upanishads"
       ],
-      "correct": 0,
-      "explanation": "Chandragupta Maurya founded the Maurya Empire around 322 BCE, establishing one of the largest empires in Indian history."
+      "correct": 1,
+      "explanation": "The Vedas are the oldest and most sacred Hindu scriptures, consisting of hymns dedicated to various deities."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "During the Mughal period, which emperor built the Taj Mahal?",
+      "question": "During the Medieval period, the construction of Qutub Minar was commissioned by which ruler?",
       "options": [
-        "Aurangzeb",
-        "Jahangir",
-        "Shah Jahan",
-        "Akbar"
+        "Alauddin Khilji",
+        "Qutb-ud-din Aibak",
+        "Firoz Shah Tughlaq",
+        "Muhammad bin Tughlaq"
       ],
-      "correct": 2,
-      "explanation": "Shah Jahan commissioned the construction of the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
+      "correct": 1,
+      "explanation": "Qutub Minar was constructed by Qutb-ud-din Aibak and later completed by Iltutmish; it is a masterpiece of early Muslim architecture in India."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "The Indian National Congress was founded in which year?",
+      "question": "Which movement was primarily led by Bal Gangadhar Tilak in the early 20th century?",
       "options": [
-        "1885",
-        "1905",
-        "1857",
-        "1920"
+        "Non-Cooperation Movement",
+        "Swadeshi Movement",
+        "Khilafat Movement",
+        "Quit India Movement"
       ],
-      "correct": 0,
-      "explanation": "The Indian National Congress was founded in 1885, marking the beginning of organized political nationalism in India."
+      "correct": 1,
+      "explanation": "Bal Gangadhar Tilak was a prominent leader of the Swadeshi Movement, advocating for Indian self-reliance and boycott of British goods."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Who was the leader of the Salt Satyagraha in 1930?",
+      "question": "The Champaran Satyagraha of 1917 was associated with the protest against which British policy?",
       "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Sardar Patel",
-        "Subhas Chandra Bose"
+        "Indentured labor system",
+        "Tobacco tax",
+        "Indigo plantation system",
+        "Salt tax"
       ],
-      "correct": 1,
-      "explanation": "Mahatma Gandhi led the Salt Satyagraha, a pivotal movement against salt laws in 1930."
+      "correct": 2,
+      "explanation": "The Champaran Satyagraha was a protest against the exploitation of indigo farmers by British planters."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "When did India gain independence from British rule?",
+      "question": "Who was the leader of the Quit India Movement initiated in 1942?",
       "options": [
-        "August 15, 1947",
-        "January 26, 1950",
-        "August 15, 1930",
-        "October 2, 1947"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Sardar Patel"
       ],
       "correct": 0,
-      "explanation": "India gained independence from British rule on August 15, 1947."
+      "explanation": "Mahatma Gandhi led the Quit India Movement in 1942, demanding an end to British rule."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which is the longest river in India?",
+      "question": "Which is the largest river basin in India by area?",
       "options": [
-        "Ganges",
-        "Godavari",
-        "Indus",
-        "Brahmaputra"
+        "Ganges Basin",
+        "Godavari Basin",
+        "Mahanadi Basin",
+        "Indus Basin"
       ],
       "correct": 1,
-      "explanation": "The Godavari is the longest river in India, flowing approximately 1,465 km."
+      "explanation": "The Godavari Basin is the largest in India by area, covering parts of central and eastern India."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which desert is located in western India?",
+      "question": "The Thar Desert is primarily located in which Indian state?",
       "options": [
-        "Thar Desert",
-        "Kalahari Desert",
-        "Great Victoria Desert",
-        "Sonoran Desert"
+        "Rajasthan",
+        "Punjab",
+        "Gujarat",
+        "Haryana"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert lies in western India and southeastern Pakistan."
+      "explanation": "The Thar Desert is mainly situated in Rajasthan, extending into some parts of Punjab and Gujarat."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which Indian state has the highest rainfall?",
+      "question": "Which oceanic current significantly influences the climate of the western coast of India?",
       "options": [
-        "Kerala",
-        "Maharashtra",
-        "Goa",
-        "Assam"
+        "Kuroshio Current",
+        "Indian Ocean Monsoon",
+        "Brazil Current",
+        "Western Australian Current"
       ],
-      "correct": 0,
-      "explanation": "Kerala receives the highest rainfall among Indian states due to the southwest monsoon."
+      "correct": 1,
+      "explanation": "The Indian Ocean Monsoon impacts the climate and weather patterns along India's western coast."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which resource is most abundantly found in the Rajasthan state?",
+      "question": "Which mineral resource is most abundantly found in Jharkhand?",
       "options": [
+        "Bauxite",
         "Coal",
-        "Uranium",
-        "Limestone",
-        "Gypsum"
+        "Iron Ore",
+        "Manganese"
       ],
-      "correct": 2,
-      "explanation": "Rajasthan is rich in limestone deposits, essential for cement production."
+      "correct": 1,
+      "explanation": "Jharkhand is rich in coal deposits, making it a major coal-producing state."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who is the current President of India?",
+      "question": "The President of India is elected by:",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "APJ Abdul Kalam",
-        "Pratibha Patil"
+        "Direct vote by citizens",
+        "Members of Parliament and state legislatures",
+        "Members of Lok Sabha",
+        "Members of Rajya Sabha"
       ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+      "correct": 1,
+      "explanation": "The President is elected by an electoral college comprising MPs and MLAs from states."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
+      "question": "Which article of the Indian Constitution deals with the Directive Principles of State Policy?",
       "options": [
-        "Article 12-35",
-        "Article 53",
-        "Article 368",
-        "Article 356"
+        "Article 14",
+        "Article 39",
+        "Article 21",
+        "Article 44"
       ],
-      "correct": 0,
-      "explanation": "Articles 12 to 35 of the Indian Constitution define and protect Fundamental Rights."
+      "correct": 3,
+      "explanation": "Article 44 of the Indian Constitution deals with the Directive Principles of State Policy."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Who is the current Speaker of the Lok Sabha?",
+      "question": "The power to amend the Indian Constitution is vested in:",
       "options": [
-        "Om Birla",
-        "M. Venkaiah Naidu",
-        "Sonia Gandhi",
-        "Narendra Modi"
+        "Lok Sabha alone",
+        "Rajya Sabha alone",
+        "Parliament",
+        "Supreme Court"
       ],
-      "correct": 0,
-      "explanation": "Om Birla has been serving as the Speaker of the Lok Sabha since 19 June 2019."
+      "correct": 2,
+      "explanation": "Amendments to the Constitution are made by Parliament as per Article 368."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which part of the Indian Constitution deals with the Parliament?",
+      "question": "Which of the following is NOT a Fundamental Right in India?",
       "options": [
-        "Part I",
-        "Part IV",
-        "Part V",
-        "Part IX"
+        "Right to Equality",
+        "Right to Property",
+        "Right to Freedom of Religion",
+        "Right to Education"
       ],
-      "correct": 2,
-      "explanation": "Part V of the Indian Constitution deals with the Union and Parliament."
+      "correct": 1,
+      "explanation": "Right to Property was a Fundamental Right earlier but was removed by the 44th Amendment; now, it is a legal right."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "Which of the following is a fundamental duty of Indian citizens?",
+      "category": "Indian Economy",
+      "question": "The budget of the Government of India is presented annually by the:",
       "options": [
-        "To promote harmony",
-        "To vote in elections",
-        "To pay taxes",
-        "To serve in the army"
+        "Prime Minister",
+        "Finance Minister",
+        "President",
+        "Lok Sabha Speaker"
       ],
-      "correct": 0,
-      "explanation": "Promoting harmony of the spirit of common brotherhood among all people is a fundamental duty."
+      "correct": 1,
+      "explanation": "The Finance Minister presents the Union Budget in Parliament annually."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "As of 2026, who is the current Finance Minister of India?",
+      "question": "Which sector contributes the maximum to India's GDP?",
       "options": [
-        "Nirmala Sitharaman",
-        "P. Chidambaram",
-        "Arun Jaitley",
-        "Shankar Acharya"
+        "Agriculture",
+        "Manufacturing",
+        "Services",
+        "Mining"
       ],
-      "correct": 0,
-      "explanation": "Nirmala Sitharaman is the current Finance Minister since 30 May 2019."
+      "correct": 2,
+      "explanation": "The Services sector contributes the largest share to India’s GDP."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "What does GDP stand for?",
+      "question": "The term 'GDP' stands for:",
       "options": [
         "Gross Domestic Product",
-        "Gross Development Progress",
-        "General Domestic Price",
-        "Government Debt Profile"
+        "Gross Development Plan",
+        "General Development Percentage",
+        "Global Domestic Price"
       ],
       "correct": 0,
-      "explanation": "GDP stands for Gross Domestic Product, a key indicator of economic activity."
+      "explanation": "GDP stands for Gross Domestic Product, representing the total value of goods and services produced."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "India's five-year plans were originally adopted from which country's planning model?",
+      "question": "The New Economic Policy (1991) primarily aimed at:",
       "options": [
-        "USSR",
-        "USA",
-        "UK",
-        "France"
+        "Increasing tariffs",
+        "Liberalization, Privatization, Globalization",
+        "Reducing foreign investment",
+        "Increasing government control"
       ],
-      "correct": 0,
-      "explanation": "India adopted its Five Year Plans based on the Soviet Union's planning model."
+      "correct": 1,
+      "explanation": "The 1991 reforms aimed at liberalizing the economy, promoting privatization and globalization."
     },
     {
       "id": 18,
-      "category": "Indian Economy",
-      "question": "Which sector contributes the largest share to India's GDP?",
+      "category": "General Science",
+      "question": "Which scientist is credited with the discovery of the principles of electromagnetic induction?",
       "options": [
-        "Agriculture",
-        "Industry",
-        "Services",
-        "Manufacturing"
+        "Michael Faraday",
+        "Isaac Newton",
+        "James Watt",
+        "Albert Einstein"
       ],
-      "correct": 2,
-      "explanation": "The services sector contributes the largest share to India’s GDP."
+      "correct": 0,
+      "explanation": "Michael Faraday discovered electromagnetic induction which led to the development of many electrical devices."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which element is primarily responsible for the green color in plants?",
+      "question": "The primary function of chlorophyll in plants is to:",
       "options": [
-        "Chlorophyll",
-        "Carotene",
-        "Xanthophyll",
-        "Hemoglobin"
+        "Absorb water",
+        "Absorb sunlight for photosynthesis",
+        "Produce oxygen",
+        "Transport nutrients"
       ],
-      "correct": 0,
-      "explanation": "Chlorophyll is responsible for the green color of plants and plays a vital role in photosynthesis."
+      "correct": 1,
+      "explanation": "Chlorophyll absorbs sunlight, facilitating photosynthesis."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "The law of conservation of mass was proposed by:",
+      "question": "Which element is most abundant in the Earth's crust?",
       "options": [
-        "Dmitri Mendeleev",
-        "Antoine Lavoisier",
-        "Albert Einstein",
-        "Isaac Newton"
+        "Oxygen",
+        "Silicon",
+        "Aluminum",
+        "Iron"
       ],
-      "correct": 1,
-      "explanation": "Antoine Lavoisier proposed the law of conservation of mass."
+      "correct": 0,
+      "explanation": "Oxygen is the most abundant element in the Earth's crust."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which satellite was launched by India in 2019 for navigation purposes?",
+      "question": "The satellite 'Chandrayaan-3' was launched by India for which purpose?",
       "options": [
-        "GSAT-7",
-        "IRNSS-1H",
-        "NavIC",
-        "Gaganyaan"
+        "Earth observation",
+        "Mars exploration",
+        "Lunar exploration",
+        "Space station module"
       ],
       "correct": 2,
-      "explanation": "NavIC (Navigation with Indian Constellation) is India's satellite navigation system launched for accurate positioning."
+      "explanation": "Chandrayaan-3 is India's mission for lunar exploration."
     },
     {
       "id": 22,
-      "category": "General Science",
-      "question": "Which biological process is responsible for the exchange of gases in the human lungs?",
+      "category": "Environment & Ecology",
+      "question": "Which of the following is a UNESCO World Heritage Site in India?",
       "options": [
-        "Photosynthesis",
-        "Diffusion",
-        "Respiration",
-        "Transpiration"
+        "Sundarbans",
+        "Kanha National Park",
+        "Ranthambore Fort",
+        "Hampi"
       ],
-      "correct": 1,
-      "explanation": "Diffusion allows gases like oxygen and carbon dioxide to exchange in the lungs."
+      "correct": 3,
+      "explanation": "Hampi is designated as a UNESCO World Heritage Site."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which is the world's largest biodiversity hotspot?",
+      "question": "The term 'biodiversity hotspots' refers to areas that:",
       "options": [
-        "Sundaland",
-        "Western Ghats",
-        "Himalayas",
-        "Indo-Burma"
+        "Have high species diversity and endemism",
+        "Are deserts with low species",
+        "Are urbanized regions",
+        "Contain only aquatic species"
       ],
-      "correct": 3,
-      "explanation": "The Indo-Burma region is considered the world's largest biodiversity hotspot."
+      "correct": 0,
+      "explanation": "Biodiversity hotspots are regions with high species richness and endemism threatened by habitat loss."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The Kyoto Protocol is related to which environmental issue?",
+      "question": "Which environmental law in India aims to protect wildlife and their habitats?",
       "options": [
-        "Ozone depletion",
-        "Climate change",
-        "Water pollution",
-        "Deforestation"
+        "Air Act",
+        "Wildlife Protection Act",
+        "Water Act",
+        "Environment Protection Act"
       ],
       "correct": 1,
-      "explanation": "The Kyoto Protocol is an international treaty aimed at reducing greenhouse gas emissions to combat climate change."
+      "explanation": "The Wildlife Protection Act, 1972, is aimed at protecting wildlife and their habitats."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which of the following are protected areas designated for the conservation of biodiversity?",
+      "question": "Climate change primarily affects which of the following?",
       "options": [
-        "National Parks",
-        "Wildlife Sanctuaries",
-        "Both A and B",
-        "None of the above"
+        "Only polar regions",
+        "Global weather patterns and sea levels",
+        "Only tropical rainforests",
+        "Only urban areas"
       ],
-      "correct": 2,
-      "explanation": "Both National Parks and Wildlife Sanctuaries are protected areas for conserving biodiversity."
+      "correct": 1,
+      "explanation": "Climate change impacts global weather, sea levels, and ecosystems worldwide."
     },
     {
       "id": 26,
-      "category": "Current Affairs & G.K.",
-      "question": "Who is the current Chief Minister of Odisha as of 2026?",
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current President of India (as of May 2026)?",
       "options": [
-        "Naveen Patnaik",
-        "Mohan Charan Majhi",
-        "Nitish Kumar",
-        "Hemant Soren"
+        "Ram Nath Kovind",
+        "Droupadi Murmu",
+        "Pranab Mukherjee",
+        "Mamta Banerjee"
       ],
       "correct": 1,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
     },
     {
       "id": 27,
-      "category": "Current Affairs & G.K.",
-      "question": "Who is the current Vice President of India as of 2026?",
+      "category": "Current Affairs & General Knowledge",
+      "question": "Which country won the FIFA World Cup 2022?",
       "options": [
-        "Venkaiah Naidu",
-        "C. P. Radhakrishnan",
-        "Jagdeep Dhankhar",
-        "Hamid Ansari"
+        "Brazil",
+        "France",
+        "Argentina",
+        "Germany"
       ],
-      "correct": 1,
-      "explanation": "C. P. Radhakrishnan has been serving as Vice President since 12 September 2025."
+      "correct": 2,
+      "explanation": "Argentina won the FIFA World Cup 2022 held in Qatar."
     },
     {
       "id": 28,
-      "category": "Current Affairs & G.K.",
-      "question": "Who is the current Prime Minister of India?",
+      "category": "Current Affairs & General Knowledge",
+      "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
       "options": [
-        "Narendra Modi",
-        "Manmohan Singh",
-        "Rajiv Gandhi",
-        "A. B. Vajpayee"
+        "Odisha",
+        "Bihar",
+        "Chhattisgarh",
+        "West Bengal"
       ],
       "correct": 0,
-      "explanation": "Narendra Modi has been the Prime Minister since 26 May 2014."
+      "explanation": "Mohan Charan Majhi became the Chief Minister of Odisha on 12 June 2024."
     },
     {
       "id": 29,
-      "category": "Current Affairs & G.K.",
-      "question": "Which scheme was launched by the Government of India to promote digital payments?",
+      "category": "Current Affairs & General Knowledge",
+      "question": "Which scheme launched by the Government of India aims to improve sanitation and eliminate open defecation?",
       "options": [
-        "Digital India",
+        "Swachh Bharat Abhiyan",
         "Make in India",
-        "Startup India",
-        "Skill India"
+        "Digital India",
+        "Startup India"
       ],
       "correct": 0,
-      "explanation": "Digital India is a flagship initiative to promote digital payments and digital infrastructure."
+      "explanation": "Swachh Bharat Abhiyan is aimed at sanitation and open defecation free India."
     },
     {
       "id": 30,
-      "category": "Current Affairs & G.K.",
-      "question": "Which global sports event was hosted by India in 2023?",
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current External Affairs Minister of India as of 2026?",
       "options": [
-        "FIFA World Cup",
-        "Cricket World Cup",
-        "Asian Games",
-        "Commonwealth Games"
+        "S. Jaishankar",
+        "Subrahmanyam Jaishankar",
+        "Sushma Swaraj",
+        "Rajiv Gandhi"
       ],
-      "correct": 2,
-      "explanation": "India hosted the 19th Asian Games in 2023 in Hangzhou, China, with significant participation."
+      "correct": 0,
+      "explanation": "S. Jaishankar has been serving as India's External Affairs Minister since 2019."
     }
   ]
 }
