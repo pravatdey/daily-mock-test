@@ -1,86 +1,86 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is primarily a collection of hymns dedicated to various deities?",
+      "question": "Who was the founder of the Mauryan Empire in ancient India?",
       "options": [
-        "Arthashastra",
-        "Vedas",
-        "Puranas",
-        "Upanishads"
+        "Chandragupta Maurya",
+        "Ashoka the Great",
+        "Bindusara",
+        "Megasthenes"
       ],
-      "correct": 1,
-      "explanation": "The Vedas are the oldest and most sacred Hindu scriptures, consisting of hymns dedicated to various deities."
+      "correct": 0,
+      "explanation": "Chandragupta Maurya founded the Mauryan Empire around 322 BCE, establishing one of the largest empires in Indian history."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "During the Medieval period, the construction of Qutub Minar was commissioned by which ruler?",
+      "question": "During the Mughal period, which emperor is known for initiating the construction of the Red Fort in Delhi?",
       "options": [
-        "Alauddin Khilji",
-        "Qutb-ud-din Aibak",
-        "Firoz Shah Tughlaq",
-        "Muhammad bin Tughlaq"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "correct": 1,
-      "explanation": "Qutub Minar was constructed by Qutb-ud-din Aibak and later completed by Iltutmish; it is a masterpiece of early Muslim architecture in India."
+      "correct": 2,
+      "explanation": "Shah Jahan commissioned the construction of the Red Fort in Delhi in 1638, symbolizing Mughal power."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Which movement was primarily led by Bal Gangadhar Tilak in the early 20th century?",
+      "question": "The Non-Cooperation Movement was launched in which year?",
       "options": [
-        "Non-Cooperation Movement",
-        "Swadeshi Movement",
-        "Khilafat Movement",
-        "Quit India Movement"
+        "1919",
+        "1920",
+        "1922",
+        "1930"
       ],
       "correct": 1,
-      "explanation": "Bal Gangadhar Tilak was a prominent leader of the Swadeshi Movement, advocating for Indian self-reliance and boycott of British goods."
+      "explanation": "The Non-Cooperation Movement was initiated by Mahatma Gandhi in 1920 as a mass protest against British rule."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "The Champaran Satyagraha of 1917 was associated with the protest against which British policy?",
+      "question": "Who was the leader of the Indian National Army (INA) during the struggle for independence?",
       "options": [
-        "Indentured labor system",
-        "Tobacco tax",
-        "Indigo plantation system",
-        "Salt tax"
+        "Subhas Chandra Bose",
+        "V. D. Savarkar",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru"
       ],
-      "correct": 2,
-      "explanation": "The Champaran Satyagraha was a protest against the exploitation of indigo farmers by British planters."
+      "correct": 0,
+      "explanation": "Subhas Chandra Bose led the Indian National Army (INA) during World War II in its efforts to fight British rule."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Who was the leader of the Quit India Movement initiated in 1942?",
+      "question": "Which treaty marked the beginning of British dominance in India by establishing their control over Bengal?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Sardar Patel"
+        "Treaty of Allahabad",
+        "Treaty of Purandar",
+        "Treaty of Bassein",
+        "Treaty of Allahabad (1765)"
       ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi led the Quit India Movement in 1942, demanding an end to British rule."
+      "correct": 3,
+      "explanation": "The Treaty of Allahabad (1765) marked the beginning of British dominance in India, granting them diwani rights over Bengal."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which is the largest river basin in India by area?",
+      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
       "options": [
-        "Ganges Basin",
-        "Godavari Basin",
-        "Mahanadi Basin",
-        "Indus Basin"
+        "Ganga",
+        "Kosi",
+        "Son",
+        "Yamuna"
       ],
       "correct": 1,
-      "explanation": "The Godavari Basin is the largest in India by area, covering parts of central and eastern India."
+      "explanation": "The Kosi River is called the 'Sorrow of Bihar' because of its frequent flooding and devastating floods."
     },
     {
       "id": 7,
@@ -88,311 +88,311 @@
       "question": "The Thar Desert is primarily located in which Indian state?",
       "options": [
         "Rajasthan",
-        "Punjab",
         "Gujarat",
+        "Punjab",
         "Haryana"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert is mainly situated in Rajasthan, extending into some parts of Punjab and Gujarat."
+      "explanation": "The Thar Desert mainly spans Rajasthan, covering a significant part of the state."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which oceanic current significantly influences the climate of the western coast of India?",
+      "question": "Which of the following is a mineral resource found in the Singhbhum district of Jharkhand?",
       "options": [
-        "Kuroshio Current",
-        "Indian Ocean Monsoon",
-        "Brazil Current",
-        "Western Australian Current"
+        "Bauxite",
+        "Manganese",
+        "Copper",
+        "Coal"
       ],
       "correct": 1,
-      "explanation": "The Indian Ocean Monsoon impacts the climate and weather patterns along India's western coast."
+      "explanation": "Singhbhum district is famous for its manganese deposits, a vital mineral resource."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which mineral resource is most abundantly found in Jharkhand?",
+      "question": "The Western Ghats are recognized as a UNESCO World Heritage Site mainly because of:",
       "options": [
-        "Bauxite",
-        "Coal",
-        "Iron Ore",
-        "Manganese"
+        "Their biodiversity",
+        "Their height",
+        "Their cultural significance",
+        "Their mineral resources"
       ],
-      "correct": 1,
-      "explanation": "Jharkhand is rich in coal deposits, making it a major coal-producing state."
+      "correct": 0,
+      "explanation": "The Western Ghats are renowned for their rich biodiversity and are designated as a UNESCO World Heritage Site."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "The President of India is elected by:",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "Direct vote by citizens",
-        "Members of Parliament and state legislatures",
-        "Members of Lok Sabha",
-        "Members of Rajya Sabha"
+        "The President",
+        "The Prime Minister",
+        "The Chief Justice of India",
+        "The Parliament"
       ],
-      "correct": 1,
-      "explanation": "The President is elected by an electoral college comprising MPs and MLAs from states."
+      "correct": 0,
+      "explanation": "The President of India appoints the Chief Justice of India under Article 124 of the Constitution."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Directive Principles of State Policy?",
+      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
       "options": [
         "Article 14",
-        "Article 39",
+        "Articles 12-35",
         "Article 21",
-        "Article 44"
+        "Article 368"
       ],
-      "correct": 3,
-      "explanation": "Article 44 of the Indian Constitution deals with the Directive Principles of State Policy."
+      "correct": 1,
+      "explanation": "Articles 12 to 35 of the Indian Constitution cover Fundamental Rights."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The power to amend the Indian Constitution is vested in:",
+      "question": "The 'Emergency provisions' of the Indian Constitution are contained in which part?",
       "options": [
-        "Lok Sabha alone",
-        "Rajya Sabha alone",
-        "Parliament",
-        "Supreme Court"
+        "Part XVIII",
+        "Part XIX",
+        "Part XXI",
+        "Part XX"
       ],
-      "correct": 2,
-      "explanation": "Amendments to the Constitution are made by Parliament as per Article 368."
+      "correct": 0,
+      "explanation": "Part XVIII of the Indian Constitution contains provisions related to the Emergency."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is NOT a Fundamental Right in India?",
+      "question": "The power to declare a law unconstitutional lies with the:",
       "options": [
-        "Right to Equality",
-        "Right to Property",
-        "Right to Freedom of Religion",
-        "Right to Education"
+        "Parliament",
+        "Supreme Court",
+        "President",
+        "Lok Sabha"
       ],
       "correct": 1,
-      "explanation": "Right to Property was a Fundamental Right earlier but was removed by the 44th Amendment; now, it is a legal right."
+      "explanation": "The Supreme Court of India has the power of judicial review to declare laws unconstitutional."
     },
     {
       "id": 14,
-      "category": "Indian Economy",
-      "question": "The budget of the Government of India is presented annually by the:",
+      "category": "Indian Polity & Governance",
+      "question": "The Panchayati Raj system was constitutionalized in India by which amendment?",
       "options": [
-        "Prime Minister",
-        "Finance Minister",
-        "President",
-        "Lok Sabha Speaker"
+        "73rd Amendment",
+        "74th Amendment",
+        "42nd Amendment",
+        "44th Amendment"
       ],
-      "correct": 1,
-      "explanation": "The Finance Minister presents the Union Budget in Parliament annually."
+      "correct": 0,
+      "explanation": "The 73rd Amendment Act, 1992, constitutionalized the Panchayati Raj system."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Which sector contributes the maximum to India's GDP?",
+      "question": "The Union Budget is presented in India by the:",
       "options": [
-        "Agriculture",
-        "Manufacturing",
-        "Services",
-        "Mining"
+        "President",
+        "Finance Minister",
+        "Prime Minister",
+        "Parliament"
       ],
-      "correct": 2,
-      "explanation": "The Services sector contributes the largest share to India’s GDP."
+      "correct": 1,
+      "explanation": "The Finance Minister of India presents the Union Budget in Parliament."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "The term 'GDP' stands for:",
+      "question": "Which of the following measures is used to measure the overall economic output of a country?",
       "options": [
-        "Gross Domestic Product",
-        "Gross Development Plan",
-        "General Development Percentage",
-        "Global Domestic Price"
+        "Inflation rate",
+        "GDP",
+        "Unemployment rate",
+        "Balance of payments"
       ],
-      "correct": 0,
-      "explanation": "GDP stands for Gross Domestic Product, representing the total value of goods and services produced."
+      "correct": 1,
+      "explanation": "Gross Domestic Product (GDP) measures the total value of goods and services produced in a country."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "The New Economic Policy (1991) primarily aimed at:",
+      "question": "Which sector contributes the maximum to India's Gross Domestic Product (GDP)?",
       "options": [
-        "Increasing tariffs",
-        "Liberalization, Privatization, Globalization",
-        "Reducing foreign investment",
-        "Increasing government control"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Manufacturing"
       ],
-      "correct": 1,
-      "explanation": "The 1991 reforms aimed at liberalizing the economy, promoting privatization and globalization."
+      "correct": 2,
+      "explanation": "The services sector contributes the largest share to India's GDP, followed by industry and agriculture."
     },
     {
       "id": 18,
-      "category": "General Science",
-      "question": "Which scientist is credited with the discovery of the principles of electromagnetic induction?",
+      "category": "Indian Economy",
+      "question": "The 'Make in India' initiative primarily aims to promote:",
       "options": [
-        "Michael Faraday",
-        "Isaac Newton",
-        "James Watt",
-        "Albert Einstein"
+        "Agriculture",
+        "Manufacturing",
+        "Information Technology",
+        "Education"
       ],
-      "correct": 0,
-      "explanation": "Michael Faraday discovered electromagnetic induction which led to the development of many electrical devices."
+      "correct": 1,
+      "explanation": "The 'Make in India' initiative encourages manufacturing and industrial growth."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "The primary function of chlorophyll in plants is to:",
+      "question": "Which phenomenon explains the bending of light when it passes from one medium to another?",
       "options": [
-        "Absorb water",
-        "Absorb sunlight for photosynthesis",
-        "Produce oxygen",
-        "Transport nutrients"
+        "Refraction",
+        "Reflection",
+        "Dispersion",
+        "Diffraction"
       ],
-      "correct": 1,
-      "explanation": "Chlorophyll absorbs sunlight, facilitating photosynthesis."
+      "correct": 0,
+      "explanation": "Refraction is the bending of light as it passes from one medium to another with different densities."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element is most abundant in the Earth's crust?",
+      "question": "The primary component of natural gas is:",
       "options": [
-        "Oxygen",
-        "Silicon",
-        "Aluminum",
-        "Iron"
+        "Methane",
+        "Propane",
+        "Butane",
+        "Ethane"
       ],
       "correct": 0,
-      "explanation": "Oxygen is the most abundant element in the Earth's crust."
+      "explanation": "Natural gas is primarily composed of methane (CH4)."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "The satellite 'Chandrayaan-3' was launched by India for which purpose?",
+      "question": "Which vitamin is primarily synthesized in the human skin by exposure to sunlight?",
       "options": [
-        "Earth observation",
-        "Mars exploration",
-        "Lunar exploration",
-        "Space station module"
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
       ],
-      "correct": 2,
-      "explanation": "Chandrayaan-3 is India's mission for lunar exploration."
+      "correct": 3,
+      "explanation": "Vitamin D is synthesized in the skin when exposed to sunlight."
     },
     {
       "id": 22,
-      "category": "Environment & Ecology",
-      "question": "Which of the following is a UNESCO World Heritage Site in India?",
+      "category": "General Science",
+      "question": "The concept of 'photovoltaic effect' is most closely associated with which device?",
       "options": [
-        "Sundarbans",
-        "Kanha National Park",
-        "Ranthambore Fort",
-        "Hampi"
+        "Solar cell",
+        "Battery",
+        "Thermocouple",
+        "Dynamo"
       ],
-      "correct": 3,
-      "explanation": "Hampi is designated as a UNESCO World Heritage Site."
+      "correct": 0,
+      "explanation": "The photovoltaic effect is the basis of solar cells converting sunlight into electricity."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "The term 'biodiversity hotspots' refers to areas that:",
+      "question": "Which biodiversity hotspot is located in India?",
       "options": [
-        "Have high species diversity and endemism",
-        "Are deserts with low species",
-        "Are urbanized regions",
-        "Contain only aquatic species"
+        "Amazon",
+        "Sundaland",
+        "Western Ghats",
+        "Madagascar"
       ],
-      "correct": 0,
-      "explanation": "Biodiversity hotspots are regions with high species richness and endemism threatened by habitat loss."
+      "correct": 2,
+      "explanation": "The Western Ghats is one of the world's eight biodiversity hotspots located in India."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which environmental law in India aims to protect wildlife and their habitats?",
+      "question": "Which law was enacted to protect endangered species in India?",
       "options": [
-        "Air Act",
-        "Wildlife Protection Act",
-        "Water Act",
-        "Environment Protection Act"
+        "Wildlife Protection Act, 1972",
+        "Environment Protection Act, 1986",
+        "Air Act, 1981",
+        "Water (Prevention and Control of Pollution) Act, 1974"
       ],
-      "correct": 1,
-      "explanation": "The Wildlife Protection Act, 1972, is aimed at protecting wildlife and their habitats."
+      "correct": 0,
+      "explanation": "The Wildlife Protection Act of 1972 provides legal protection to endangered species."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Climate change primarily affects which of the following?",
+      "question": "The 'Green Belt movement' was initiated in which country?",
       "options": [
-        "Only polar regions",
-        "Global weather patterns and sea levels",
-        "Only tropical rainforests",
-        "Only urban areas"
+        "India",
+        "Kenya",
+        "Brazil",
+        "Australia"
       ],
       "correct": 1,
-      "explanation": "Climate change impacts global weather, sea levels, and ecosystems worldwide."
+      "explanation": "The Green Belt Movement was initiated in Kenya by Wangari Maathai to combat deforestation."
     },
     {
       "id": 26,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current President of India (as of May 2026)?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current President of India as of 2026?",
       "options": [
         "Ram Nath Kovind",
         "Droupadi Murmu",
         "Pranab Mukherjee",
-        "Mamta Banerjee"
+        "K. R. Narayanan"
       ],
       "correct": 1,
-      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
+      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
     },
     {
       "id": 27,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Which country won the FIFA World Cup 2022?",
+      "category": "Current Affairs & GK",
+      "question": "Which country hosted the 2023 G20 Summit?",
       "options": [
-        "Brazil",
-        "France",
-        "Argentina",
-        "Germany"
+        "India",
+        "China",
+        "Germany",
+        "Japan"
       ],
-      "correct": 2,
-      "explanation": "Argentina won the FIFA World Cup 2022 held in Qatar."
+      "correct": 0,
+      "explanation": "India hosted the G20 Summit in 2023, with Narendra Modi as the host."
     },
     {
       "id": 28,
-      "category": "Current Affairs & General Knowledge",
+      "category": "Current Affairs & GK",
       "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
       "options": [
         "Odisha",
         "Bihar",
-        "Chhattisgarh",
-        "West Bengal"
+        "West Bengal",
+        "Chhattisgarh"
       ],
       "correct": 0,
-      "explanation": "Mohan Charan Majhi became the Chief Minister of Odisha on 12 June 2024."
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
     },
     {
       "id": 29,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Which scheme launched by the Government of India aims to improve sanitation and eliminate open defecation?",
+      "category": "Current Affairs & GK",
+      "question": "Which of the following is a recent space mission launched by ISRO?",
       "options": [
-        "Swachh Bharat Abhiyan",
-        "Make in India",
-        "Digital India",
-        "Startup India"
+        "Chandrayaan-2",
+        "Mars Orbiter Mission",
+        "Chandrayaan-3",
+        "PSLV-C51"
       ],
-      "correct": 0,
-      "explanation": "Swachh Bharat Abhiyan is aimed at sanitation and open defecation free India."
+      "correct": 2,
+      "explanation": "Chandrayaan-3 was launched recently by ISRO to explore the Moon."
     },
     {
       "id": 30,
-      "category": "Current Affairs & General Knowledge",
+      "category": "Current Affairs & GK",
       "question": "Who is the current External Affairs Minister of India as of 2026?",
       "options": [
         "S. Jaishankar",
         "Subrahmanyam Jaishankar",
-        "Sushma Swaraj",
-        "Rajiv Gandhi"
+        "Hardeep Singh Puri",
+        "Rajnath Singh"
       ],
       "correct": 0,
-      "explanation": "S. Jaishankar has been serving as India's External Affairs Minister since 2019."
+      "explanation": "S. Jaishankar is the current External Affairs Minister of India."
     }
   ]
 }
