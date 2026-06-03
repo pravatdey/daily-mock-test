@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is considered the earliest known work of Indian literature?",
+      "question": "Who was the founder of the Mauryan Empire in ancient India?",
       "options": [
-        "Ramayana",
-        "Mahabharata",
-        "Rigveda",
-        "Arthashastra"
+        "Chandragupta Maurya",
+        "Ashoka the Great",
+        "Bindusara",
+        "Kautilya"
       ],
-      "correct": 2,
-      "explanation": "The Rigveda is the oldest of the Vedas and is considered one of the earliest texts in Indian literature, dating back to around 1500 BCE."
+      "correct": 0,
+      "explanation": "Chandragupta Maurya founded the Mauryan Empire around 322 BCE, establishing one of the largest empires in Indian history."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the prominent leader of the Non-Cooperation Movement launched in 1920?",
+      "question": "Which treaty marked the end of the First Anglo-Mysore War?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bal Gangadhar Tilak"
+        "Treaty of Seringapatam",
+        "Treaty of Mangalore",
+        "Treaty of Allahabad",
+        "Treaty of Bassein"
       ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement as part of the Indian independence struggle in 1920."
+      "correct": 1,
+      "explanation": "The Treaty of Mangalore in 1799 ended the First Anglo-Mysore War between the British East India Company and Tipu Sultan."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "The Battle of Plassey in 1757 was fought between the British East India Company and which Indian ruler?",
+      "question": "Who led the Quit India Movement in 1942?",
       "options": [
-        "Nawab Siraj-ud-Daula",
-        "Shah Alam II",
-        "Mir Jafar",
-        "Mughal Emperor Akbar"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "B.R. Ambedkar"
       ],
-      "correct": 0,
-      "explanation": "The Battle of Plassey was fought between the British East India Company and Nawab Siraj-ud-Daula of Bengal; Mir Jafar was allied with the British."
+      "correct": 1,
+      "explanation": "Mahatma Gandhi led the Quit India Movement in 1942, demanding an end to British rule."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Which movement marked the beginning of the modern Indian freedom struggle in 1857?",
+      "question": "During the Indian Freedom Struggle, the Jallianwala Bagh massacre took place in which year?",
       "options": [
-        "Non-Cooperation Movement",
-        "Simla Convention",
-        "Revolt of 1857 (Sepoy Mutiny)",
-        "Partition of Bengal"
+        "1919",
+        "1921",
+        "1930",
+        "1942"
       ],
-      "correct": 2,
-      "explanation": "The Revolt of 1857, also known as the Sepoy Mutiny, is considered the first major challenge to British rule, marking the beginning of the modern freedom struggle."
+      "correct": 0,
+      "explanation": "The Jallianwala Bagh massacre occurred in 1919, where hundreds of Indians were killed by British troops."
     },
     {
       "id": 5,
-      "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
+      "category": "Indian History",
+      "question": "Who was the first President of India?",
       "options": [
-        "Ganga",
-        "Kosi",
-        "Yamuna",
-        "Son"
+        "Dr. B.R. Ambedkar",
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
       ],
       "correct": 1,
-      "explanation": "The Kosi River is notorious for flooding Bihar, causing widespread destruction, earning it the nickname 'Sorrow of Bihar.'"
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which is the largest coastal state of India by length?",
+      "question": "Which river is known as the 'Ganges of the South'?",
       "options": [
-        "Gujarat",
-        "Andhra Pradesh",
-        "Tamil Nadu",
-        "Odisha"
+        "Godavari",
+        "Kaveri",
+        "Krishna",
+        "Tungabhadra"
       ],
-      "correct": 0,
-      "explanation": "Gujarat has the longest coastline among Indian states, approximately 1600 km long."
+      "correct": 1,
+      "explanation": "The Kaveri River is often called the 'Ganges of the South' due to its religious significance and flow."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "The Thar Desert primarily covers which Indian state?",
+      "question": "Which mountain range forms the natural boundary between India and China?",
       "options": [
-        "Rajasthan",
-        "Punjab",
-        "Gujarat",
-        "Haryana"
+        "Himalayas",
+        "Western Ghats",
+        "Aravalli",
+        "Eastern Ghats"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert is mainly located in Rajasthan."
+      "explanation": "The Himalayas form the northern boundary between India and China."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which mountain range forms the northern boundary of India?",
+      "question": "Which is the largest saltwater lake in India?",
       "options": [
-        "Himalayas",
-        "Western Ghats",
-        "Aravalli Hills",
-        "Eastern Ghats"
+        "Chilika Lake",
+        "Sambhar Salt Lake",
+        "Loktak Lake",
+        "Padma Lake"
       ],
-      "correct": 0,
-      "explanation": "The Himalayas form the northern boundary of India, acting as a natural barrier."
+      "correct": 1,
+      "explanation": "Sambhar Salt Lake in Rajasthan is the largest inland saltwater lake in India."
     },
     {
       "id": 9,
-      "category": "Indian Polity & Governance",
-      "question": "Who is the current President of India as of 2026?",
+      "category": "Indian Geography",
+      "question": "Which resource is primarily found in the Deccan Plateau?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pratibha Patil",
-        "Shankar Dayal Sharma"
+        "Coal",
+        "Bauxite",
+        "Mica",
+        "Petroleum"
       ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+      "correct": 2,
+      "explanation": "The Deccan Plateau is rich in Mica deposits."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
+      "question": "Who is the current President of India?",
       "options": [
-        "Article 12-35",
-        "Article 19-22",
-        "Article 44-51",
-        "Article 1-10"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "K.R. Narayanan"
       ],
       "correct": 0,
-      "explanation": "Articles 12 to 35 of the Indian Constitution deal with Fundamental Rights."
+      "explanation": "Droupadi Murmu is the current President of India, in office since 25 July 2022."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Who has the authority to declare a constitutional emergency in India?",
+      "question": "Which article of the Indian Constitution guarantees Fundamental Rights?",
       "options": [
-        "Prime Minister",
-        "Lok Sabha",
-        "President of India",
-        "Supreme Court"
+        "Article 14",
+        "Articles 12-35",
+        "Article 356",
+        "Article 370"
       ],
-      "correct": 2,
-      "explanation": "The President of India has the authority to declare a constitutional emergency under Article 352."
+      "correct": 1,
+      "explanation": "Articles 12-35 of the Indian Constitution contain provisions related to Fundamental Rights."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The Lok Sabha is composed of members elected directly by the people for a term of how many years?",
+      "question": "Who is the current Speaker of the Lok Sabha?",
       "options": [
-        "4 years",
-        "5 years",
-        "6 years",
-        "3 years"
+        "Om Birla",
+        "Sumitra Mahajan",
+        "Meira Kumar",
+        "Balram Jakhar"
       ],
-      "correct": 1,
-      "explanation": "Members of the Lok Sabha are directly elected for a period of 5 years."
+      "correct": 0,
+      "explanation": "Om Birla has been serving as the Speaker of the Lok Sabha since 19 June 2019."
     },
     {
       "id": 13,
-      "category": "Indian Economy",
-      "question": "The term 'Gross Domestic Product' (GDP) refers to the",
+      "category": "Indian Polity & Governance",
+      "question": "Which institution has the power to declare an order of President's Rule in a state?",
       "options": [
-        "Total value of goods and services produced within a country",
-        "Total exports of a country",
-        "Total income of a country",
-        "Total government expenditure"
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Supreme Court",
+        "Parliament"
       ],
-      "correct": 0,
-      "explanation": "GDP measures the total value of goods and services produced within a country's borders."
+      "correct": 3,
+      "explanation": "The Parliament, through a resolution, has the power to declare President’s Rule in a state."
     },
     {
       "id": 14,
-      "category": "Indian Economy",
-      "question": "The 'Gross Budgetary Support' in the Indian Budget primarily refers to funds allocated for",
+      "category": "Indian Polity & Governance",
+      "question": "Which schedule of the Indian Constitution deals with the Panchayati Raj institutions?",
       "options": [
-        "Defense expenditure",
-        "Subsidies and welfare schemes",
-        "Developmental projects and subsidies",
-        "Interest payments"
+        "Fifth Schedule",
+        "Eleventh Schedule",
+        "Twelfth Schedule",
+        "Thirteenth Schedule"
       ],
-      "correct": 2,
-      "explanation": "Gross Budgetary Support includes funds allocated for developmental projects and subsidies."
+      "correct": 1,
+      "explanation": "The Eleventh Schedule deals with Panchayati Raj institutions."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Which financial institution is responsible for regulating the banking sector in India?",
+      "question": "The Union Budget of India is presented by the:",
       "options": [
-        "Reserve Bank of India",
-        "State Bank of India",
-        "Finance Ministry",
-        "SEBI"
+        "President of India",
+        "Finance Minister",
+        "Prime Minister",
+        "Governor of RBI"
       ],
-      "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) is the regulator of banking in India."
+      "correct": 1,
+      "explanation": "The Finance Minister presents the Union Budget of India in Parliament."
     },
     {
       "id": 16,
-      "category": "Indian Science & Technology",
-      "question": "Which planet is known as the 'Red Planet'?",
+      "category": "Indian Economy",
+      "question": "Which sector contributes the maximum to India's GDP?",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Venus",
-        "Saturn"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Construction"
       ],
-      "correct": 0,
-      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide on its surface."
+      "correct": 2,
+      "explanation": "The Services sector contributes the largest portion to India's GDP."
     },
     {
       "id": 17,
-      "category": "Indian Science & Technology",
-      "question": "The process of photosynthesis in plants primarily involves which pigment?",
+      "category": "Indian Economy",
+      "question": "Which is the primary aim of the five-year plans in India?",
       "options": [
-        "Chlorophyll",
-        "Carotene",
-        "Xanthophyll",
-        "Anthocyanin"
+        "Market liberalization",
+        "Economic development",
+        "Foreign trade expansion",
+        "Reducing inflation"
       ],
-      "correct": 0,
-      "explanation": "Chlorophyll is the main pigment involved in photosynthesis, capturing light energy."
+      "correct": 1,
+      "explanation": "The five-year plans aim at overall economic development of the country."
     },
     {
       "id": 18,
-      "category": "Indian Science & Technology",
-      "question": "Who is known as the 'Father of the Indian Space Programme'?",
+      "category": "Indian Economy",
+      "question": "What is the main role of the Reserve Bank of India (RBI)?",
       "options": [
-        "Vikram Sarabhai",
-        "Kalpana Chawla",
-        "Satish Dhawan",
-        "Homi Bhabha"
+        "Control inflation",
+        "Manage foreign exchange",
+        "Regulate banking system",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "Vikram Sarabhai is regarded as the father of the Indian space program."
+      "correct": 3,
+      "explanation": "The RBI performs multiple functions including controlling inflation, managing foreign exchange, and regulating the banking system."
     },
     {
       "id": 19,
-      "category": "Indian Science & Technology",
-      "question": "Which device is used to measure the intensity of electric current?",
+      "category": "General Science",
+      "question": "Which phenomenon explains the bending of light when it passes from one medium to another?",
       "options": [
-        "Ammeter",
-        "Voltmeter",
-        "Thermometer",
-        "Oscilloscope"
+        "Refraction",
+        "Reflection",
+        "Diffraction",
+        "Dispersion"
       ],
       "correct": 0,
-      "explanation": "An ammeter is used to measure electric current."
+      "explanation": "Refraction is the bending of light as it passes from one medium to another."
     },
     {
       "id": 20,
-      "category": "Environment & Ecology",
-      "question": "Which of the following is a non-renewable resource?",
+      "category": "General Science",
+      "question": "Which element is commonly used in the manufacturing of smartphones' batteries?",
       "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Biomass"
+        "Lithium",
+        "Carbon",
+        "Copper",
+        "Nickel"
       ],
-      "correct": 2,
-      "explanation": "Coal is a non-renewable resource because it takes millions of years to form."
+      "correct": 0,
+      "explanation": "Lithium is used in rechargeable batteries for smartphones and other portable devices."
     },
     {
       "id": 21,
-      "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity (CBD) was held in which year?",
+      "category": "General Science",
+      "question": "The hormone insulin is produced in which organ?",
       "options": [
-        "1992",
-        "2000",
-        "1982",
-        "2010"
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Intestine"
       ],
-      "correct": 0,
-      "explanation": "The CBD was held in 1992 in Rio de Janeiro, focusing on conservation of biodiversity."
+      "correct": 1,
+      "explanation": "Insulin is produced in the pancreas."
     },
     {
       "id": 22,
-      "category": "Environment & Ecology",
-      "question": "Which national park is known for having the largest population of Bengal tigers in India?",
+      "category": "General Science",
+      "question": "Which scientific invention is Louis Pasteur famous for?",
       "options": [
-        "Jim Corbett National Park",
-        "Bandhavgarh National Park",
-        "Sundarbans National Park",
-        "Kanha National Park"
+        "Telephone",
+        "Pasteurization",
+        "Penicillin",
+        "Electric bulb"
       ],
-      "correct": 2,
-      "explanation": "Sundarbans is famous for its large Bengal tiger population."
+      "correct": 1,
+      "explanation": "Louis Pasteur is renowned for discovering the process of pasteurization."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "What is the primary cause of acid rain?",
+      "question": "Which national park is known as the 'Eagle Capital of India'?",
       "options": [
-        "Emission of sulfur dioxide and nitrogen oxides",
-        "Deforestation",
-        "Greenhouse gases",
-        "Water pollution"
+        "Corbett National Park",
+        "Ranthambore National Park",
+        "Kanha National Park",
+        "Rajasthan's Keoladeo Ghana National Park"
       ],
       "correct": 0,
-      "explanation": "Acid rain is primarily caused by sulfur dioxide and nitrogen oxides released into the atmosphere."
+      "explanation": "Corbett National Park is called the 'Eagle Capital of India' due to its large bird population."
     },
     {
       "id": 24,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current Chief Minister of Odisha as of 2026?",
+      "category": "Environment & Ecology",
+      "question": "Which international agreement aims to limit global temperature rise?",
       "options": [
-        "Naveen Patnaik",
-        "Mohan Charan Majhi",
-        "Hemant Soren",
-        "Biswa Bhusan Harichandan"
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "Montreal Protocol",
+        "Rio Declaration"
       ],
       "correct": 1,
-      "explanation": "Mohan Charan Majhi has been serving as the Chief Minister of Odisha since 12 June 2024."
+      "explanation": "The Paris Agreement aims to limit global temperature rise and combat climate change."
     },
     {
       "id": 25,
+      "category": "Environment & Ecology",
+      "question": "Which law in India addresses the conservation of wildlife?",
+      "options": [
+        "Environmental Protection Act",
+        "Wildlife Protection Act",
+        "Air Act",
+        "Water Act"
+      ],
+      "correct": 1,
+      "explanation": "The Wildlife Protection Act, 1972, addresses wildlife conservation in India."
+    },
+    {
+      "id": 26,
+      "category": "Environment & Ecology",
+      "question": "Which is a major cause of acid rain?",
+      "options": [
+        "Carbon dioxide emissions",
+        "Sulfur dioxide and nitrogen oxides emissions",
+        "Methane emissions",
+        "Ozone depletion"
+      ],
+      "correct": 1,
+      "explanation": "Sulfur dioxide and nitrogen oxides emissions cause acid rain when they react with water vapour in the atmosphere."
+    },
+    {
+      "id": 27,
       "category": "Current Affairs & GK",
       "question": "Who is the current External Affairs Minister of India?",
       "options": [
         "S. Jaishankar",
-        "Subrahmanyam Jaishankar",
         "Nirmala Sitharaman",
-        "Amit Shah"
+        "Amit Shah",
+        "Rajiv Gandhi"
       ],
       "correct": 0,
       "explanation": "S. Jaishankar is the current External Affairs Minister of India."
     },
     {
-      "id": 26,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current Vice President of India as of 2026?",
-      "options": [
-        "M Venkaiah Naidu",
-        "C. P. Radhakrishnan",
-        "Jagdeep Dhankhar",
-        "Hamid Ansari"
-      ],
-      "correct": 1,
-      "explanation": "C. P. Radhakrishnan is the Vice President since 12 September 2025."
-    },
-    {
-      "id": 27,
-      "category": "Current Affairs & GK",
-      "question": "Which international organization launched the 'Green Climate Fund' to assist developing countries?",
-      "options": [
-        "UNDP",
-        "UNFCCC",
-        "World Bank",
-        "IMF"
-      ],
-      "correct": 1,
-      "explanation": "The UNFCCC established the Green Climate Fund to support climate change mitigation in developing countries."
-    },
-    {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Which sports event is scheduled to be hosted by India in 2023?",
+      "question": "Which Indian athlete recently won the gold medal in the men's 10m air pistol event at the Asian Games 2023?",
       "options": [
-        "FIFA World Cup",
-        "Asian Games",
-        "Commonwealth Games",
-        "ICC Cricket World Cup"
+        "Gagan Narang",
+        "Abhishek Verma",
+        "Saurabh Chaudhary",
+        "Jitu Rai"
       ],
-      "correct": 1,
-      "explanation": "India is scheduled to host the Asian Games in 2023."
+      "correct": 2,
+      "explanation": "Saurabh Chaudhary won gold in the men's 10m air pistol event at the Asian Games 2023."
     },
     {
       "id": 29,
-      "category": "Indian History",
-      "question": "Who founded the Indian National Congress?",
+      "category": "Current Affairs & GK",
+      "question": "Who was awarded the Nobel Peace Prize in 2022?",
       "options": [
-        "Dadabhai Naoroji",
-        "Bal Gangadhar Tilak",
-        "A.O. Hume",
-        "Mahatma Gandhi"
+        "Maria Ressa and Dmitry Muratov",
+        "Abiy Ahmed",
+        "Malala Yousafzai",
+        "Abhijit Banerjee"
       ],
-      "correct": 2,
-      "explanation": "The Indian National Congress was founded by Allan Octavian Hume in 1885."
+      "correct": 0,
+      "explanation": "Maria Ressa and Dmitry Muratov were awarded the Nobel Peace Prize in 2022 for their efforts to safeguard freedom of expression."
     },
     {
       "id": 30,
-      "category": "Indian Geography",
-      "question": "Which resource is primarily found in the Raniganj coalfield?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Chief Minister of Odisha?",
       "options": [
-        "Iron ore",
-        "Limestone",
-        "Coal",
-        "Bauxite"
+        "Mohan Charan Majhi",
+        "Naveen Patnaik",
+        "Droupadi Murmu",
+        "Basavaraj Bommai"
       ],
-      "correct": 2,
-      "explanation": "The Raniganj coalfield is famous for its extensive coal deposits."
+      "correct": 0,
+      "explanation": "Mohan Charan Majhi has been the Chief Minister of Odisha since 12 June 2024."
     }
   ]
 }
