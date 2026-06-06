@@ -1,234 +1,195 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Who was the founder of the Maurya Empire in ancient India?",
+      "question": "Which ancient Indian text is considered the earliest known work of Indian philosophy and discusses the nature of reality and existence?",
       "options": [
-        "Chanakya",
-        "Chandragupta Maurya",
-        "Ashoka the Great",
-        "Bindusara"
+        "Rigveda",
+        "Upanishads",
+        "Mahabharata",
+        "Arthashastra"
       ],
       "correct": 1,
-      "explanation": "Chandragupta Maurya, with the guidance of Chanakya, founded the Maurya Empire around 322 BCE, marking one of the largest empires in Indian history."
+      "explanation": "The Upanishads are among the earliest Indian philosophical texts that explore the nature of reality and existence, forming the basis of Vedantic thought."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "During the Mughal period, which ruler is known for the construction of the Taj Mahal?",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
         "Babur",
         "Akbar",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Humayun",
+        "Shah Jahan"
       ],
-      "correct": 2,
-      "explanation": "Shah Jahan commissioned the construction of the Taj Mahal as a mausoleum for his wife Mumtaz Mahal in the 17th century."
+      "correct": 0,
+      "explanation": "Babur founded the Mughal Empire in India after his victory at the Battle of Panipat in 1526."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "The Indian National Congress was founded in which year?",
+      "question": "Which Indian leader is associated with the Non-Cooperation Movement of 1920?",
       "options": [
-        "1885",
-        "1895",
-        "1905",
-        "1915"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
       ],
-      "correct": 0,
-      "explanation": "The Indian National Congress was founded in 1885, playing a key role in India's independence movement."
+      "correct": 1,
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920 as part of the Indian independence struggle."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Who led the Salt Satyagraha in 1930?",
+      "question": "During the Indian freedom movement, which incident marked the beginning of widespread protests against the Rowlatt Act?",
       "options": [
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "B.R. Ambedkar"
+        "Jallianwala Bagh Massacre",
+        "Chauri Chaura Incident",
+        "Satyagraha Movement",
+        "Khilafat Movement"
       ],
-      "correct": 2,
-      "explanation": "Mahatma Gandhi led the Salt Satyagraha in 1930, a pivotal movement against salt taxes and British rule."
+      "correct": 0,
+      "explanation": "The Jallianwala Bagh Massacre in 1919 intensified protests against repressive laws like the Rowlatt Act."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Which event marked the end of the Indian Freedom Struggle and India's independence?",
+      "question": "The Partition of Bengal in 1905 was reversed in which year?",
       "options": [
-        "Partition of India",
-        "Jallianwala Bagh Massacre",
-        "Indian Independence Act 1947",
-        "Lahore Resolution"
+        "1911",
+        "1920",
+        "1935",
+        "1947"
       ],
-      "correct": 2,
-      "explanation": "India gained independence on August 15, 1947, through the Indian Independence Act passed by the British Parliament."
+      "correct": 0,
+      "explanation": "The Partition of Bengal was annulled in 1911 due to widespread opposition and protests."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is the longest in India?",
+      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
       "options": [
-        "Ganges",
-        "Indus",
-        "Brahmaputra",
-        "Godavari"
+        "Ganga",
+        "Son",
+        "Koshi",
+        "Ghaghara"
       ],
       "correct": 1,
-      "explanation": "The Indus River is the longest in India, flowing through Tibet, India, and Pakistan."
+      "explanation": "The Son River often causes flooding in Bihar, earning the nickname 'Sorrow of Bihar.'"
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "The Thar Desert is primarily located in which Indian state?",
+      "question": "Which Indian state is the largest producer of coal?",
       "options": [
-        "Rajasthan",
-        "Punjab",
-        " Gujarat",
-        "Haryana"
+        "Jharkhand",
+        "Odisha",
+        "Chhattisgarh",
+        "Madhya Pradesh"
       ],
-      "correct": 0,
-      "explanation": "The Thar Desert is mainly in Rajasthan, covering a significant part of the state."
+      "correct": 2,
+      "explanation": "Chhattisgarh is the largest producer of coal in India, followed by Jharkhand."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which of the following resources is most abundant in the Deccan Plateau?",
+      "question": "The Thar Desert primarily lies in which Indian state?",
       "options": [
-        "Coal",
-        "Petroleum",
-        "Bauxite",
-        "Iron ore"
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "correct": 4,
-      "explanation": "The Deccan Plateau is rich in iron ore deposits, making it a significant resource zone."
+      "correct": 0,
+      "explanation": "The Thar Desert mainly extends across Rajasthan, with parts in Gujarat and Punjab."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which climate zone is characterized by heavy rainfall and high humidity in India?",
+      "question": "Which mountain range forms the natural border between India and China?",
       "options": [
-        "Desert climate",
-        "Tropical monsoon climate",
-        "Temperate climate",
-        "Mountain climate"
+        "Himalayas",
+        "Aravalli",
+        "Western Ghats",
+        "Vindhya"
       ],
-      "correct": 1,
-      "explanation": "The tropical monsoon climate brings heavy rainfall and high humidity to many parts of India during monsoon season."
+      "correct": 0,
+      "explanation": "The Himalayas serve as the natural boundary between India and China."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "Who is the current President of India?",
       "options": [
-        "President of India",
-        "Prime Minister",
-        "Lok Sabha Speaker",
-        "Chief Justice of India"
+        "Ram Nath Kovind",
+        "Droupadi Murmu",
+        "Pranab Mukherjee",
+        "A.P.J. Abdul Kalam"
       ],
-      "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India under the Constitution."
+      "correct": 1,
+      "explanation": "Droupadi Murmu has been serving as the President of India since 25 July 2022."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
       "question": "The Lok Sabha is composed of members directly elected by:",
       "options": [
-        "People of India",
-        "States and Union Territories",
-        "Members of Legislative Assemblies",
-        "Members of Rajya Sabha"
+        "Members of State Legislatures",
+        "The President",
+        "The Prime Minister",
+        "The People"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Members of the Lok Sabha are directly elected by the people of India through general elections."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The Fundamental Rights are enshrined in which part of the Indian Constitution?",
+      "question": "Which article of the Indian Constitution guarantees Fundamental Rights?",
       "options": [
-        "Part I",
-        "Part III",
-        "Part IV",
-        "Part V"
+        "Article 14",
+        "Articles 12-35",
+        "Article 370",
+        "Article 356"
       ],
       "correct": 1,
-      "explanation": "Part III of the Indian Constitution enshrines Fundamental Rights."
+      "explanation": "Articles 12 to 35 of the Indian Constitution guarantee Fundamental Rights."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Who among the following is the head of the Rajya Sabha?",
+      "question": "The power to amend the Constitution is vested in the:",
       "options": [
-        "President of India",
-        "Vice President of India",
-        "Speaker of the Lok Sabha",
-        "Chairman of Rajya Sabha"
+        "Lok Sabha",
+        "Supreme Court",
+        "Parliament",
+        "President"
       ],
-      "correct": 3,
-      "explanation": "The Chairman of Rajya Sabha is the Vice President of India, who presides over its sessions."
+      "correct": 2,
+      "explanation": "Amendments to the Constitution are made by the Parliament, specifically through a special majority."
     },
     {
       "id": 14,
       "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system in India is based on:",
+      "question": "Which of the following is NOT a Fundamental Right?",
       "options": [
-        "Central legislation",
-        "State legislation",
-        "Local tradition",
-        "Constitutional provision"
+        "Right to Equality",
+        "Right to Education",
+        "Right to Property",
+        "Right to Freedom"
       ],
-      "correct": 3,
-      "explanation": "The Panchayati Raj system is established through constitutional provisions under Part IX of the Indian Constitution."
+      "correct": 2,
+      "explanation": "The Right to Property is a constitutional right but was made a legal right and later removed from Fundamental Rights via 44th Amendment."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "The Union Budget of India is presented by the:",
-      "options": [
-        "President of India",
-        "Finance Minister",
-        "Prime Minister",
-        "Deputy Speaker of Lok Sabha"
-      ],
-      "correct": 1,
-      "explanation": "The Finance Minister of India presents the Union Budget in Parliament."
-    },
-    {
-      "id": 16,
-      "category": "Indian Economy",
-      "question": "GDP stands for:",
-      "options": [
-        "Gross Domestic Product",
-        "Gross Development Plan",
-        "General Domestic Plan",
-        "Gross Derived Product"
-      ],
-      "correct": 0,
-      "explanation": "GDP stands for Gross Domestic Product, indicating the total value of goods and services produced within a country."
-    },
-    {
-      "id": 17,
-      "category": "Indian Economy",
-      "question": "Which Five Year Plan emphasized the 'self-reliance' of India?",
-      "options": [
-        "First Five Year Plan",
-        "Second Five Year Plan",
-        "Third Five Year Plan",
-        "Fifth Five Year Plan"
-      ],
-      "correct": 0,
-      "explanation": "The First Five Year Plan (1951-1956) emphasized establishing a self-reliant economy."
-    },
-    {
-      "id": 18,
-      "category": "Indian Economy",
-      "question": "Which sector contributes the maximum to India’s GDP?",
+      "question": "Which is the largest component of India’s Gross Domestic Product (GDP)?",
       "options": [
         "Agriculture",
         "Industry",
@@ -236,7 +197,46 @@
         "Manufacturing"
       ],
       "correct": 2,
-      "explanation": "The services sector accounts for the largest share of India’s GDP, followed by industry and agriculture."
+      "explanation": "The services sector is the largest contributor to India’s GDP among all sectors."
+    },
+    {
+      "id": 16,
+      "category": "Indian Economy",
+      "question": "The 'Digital India' scheme primarily aims to:",
+      "options": [
+        "Increase agricultural productivity",
+        "Promote digital infrastructure and services",
+        "Reduce inflation",
+        "Enhance manufacturing output"
+      ],
+      "correct": 1,
+      "explanation": "'Digital India' aims to promote digital infrastructure, digital literacy, and digital services."
+    },
+    {
+      "id": 17,
+      "category": "Indian Economy",
+      "question": "The Fiscal Responsibility and Budget Management (FRBM) Act was enacted to:",
+      "options": [
+        "Control inflation",
+        "Reduce fiscal deficit",
+        "Increase public spending",
+        "Simplify taxation"
+      ],
+      "correct": 1,
+      "explanation": "The FRBM Act aims to reduce fiscal deficit and promote fiscal discipline."
+    },
+    {
+      "id": 18,
+      "category": "Indian Economy",
+      "question": "What does the term ‘GDP’ stand for?",
+      "options": [
+        "Gross Domestic Product",
+        "Gross Development Procedure",
+        "General Domestic Policy",
+        "Gross Data Product"
+      ],
+      "correct": 0,
+      "explanation": "GDP stands for Gross Domestic Product, which measures the total value of goods and services produced within a country."
     },
     {
       "id": 19,
@@ -245,154 +245,154 @@
       "options": [
         "Faraday's Law",
         "Ohm's Law",
-        "Newton's Law",
-        "Lenz's Law"
+        "Lenz's Law",
+        "Newton's Law"
       ],
       "correct": 0,
-      "explanation": "Faraday's Law describes electromagnetic induction, where a changing magnetic field induces voltage."
+      "explanation": "Faraday's Law explains electromagnetic induction, i.e., the generation of electric current by changing magnetic fields."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "The pH value of a neutral solution is:",
+      "question": "The pH value of a neutral solution is approximately:",
       "options": [
-        "Less than 7",
-        "Exactly 7",
-        "More than 7",
-        "Zero"
+        "7",
+        "0",
+        "14",
+        "3"
       ],
-      "correct": 1,
-      "explanation": "A neutral solution has a pH value of exactly 7."
+      "correct": 0,
+      "explanation": "A pH value of 7 indicates a neutral solution, such as pure water."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which organ in the human body is primarily responsible for the production of insulin?",
+      "question": "Which part of the cell is primarily responsible for energy production?",
       "options": [
-        "Liver",
-        "Pancreas",
-        "Kidneys",
-        "Lungs"
+        "Nucleus",
+        "Mitochondria",
+        "Ribosomes",
+        "Golgi apparatus"
       ],
       "correct": 1,
-      "explanation": "The pancreas produces insulin, which regulates blood sugar levels."
+      "explanation": "Mitochondria are known as the powerhouse of the cell, responsible for energy production."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which space mission was the first to land humans on the Moon?",
+      "question": "The term 'Geostationary Orbit' refers to a satellite orbit that:",
       "options": [
-        "Apollo 11",
-        "Sputnik 1",
-        "Chandrayaan-2",
-        "Mars Pathfinder"
+        "Lies in low Earth orbit",
+        "Remains stationary relative to a fixed point on Earth",
+        "Is highly elliptical",
+        "Goes into deep space"
       ],
-      "correct": 0,
-      "explanation": "Apollo 11 in 1969 was the first space mission to land humans on the Moon."
+      "correct": 1,
+      "explanation": "A geostationary orbit allows a satellite to stay fixed over one point on Earth's surface."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a UNESCO World Heritage Site in India?",
+      "question": "Which of the following is a major cause of deforestation in India?",
       "options": [
-        "Sundarbans National Park",
-        "Kaziranga National Park",
-        "Hill Forts of Rajasthan",
+        "Urbanization",
+        "Agriculture expansion",
+        "Mining activities",
         "All of the above"
       ],
       "correct": 3,
-      "explanation": "All listed sites are UNESCO World Heritage Sites in India."
+      "explanation": "All listed factors contribute to deforestation in India."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The term 'biodiversity hotspot' refers to areas with:",
+      "question": "The Convention on Biological Diversity aims to:",
       "options": [
-        "High species diversity and threat",
-        "Low species diversity",
-        "Urban areas with parks",
-        "Desert regions"
+        "Control pollution",
+        "Conserve biodiversity",
+        "Promote nuclear energy",
+        "Reduce greenhouse gases"
       ],
-      "correct": 0,
-      "explanation": "Biodiversity hotspots are regions rich in endemic species that are threatened by habitat loss."
+      "correct": 1,
+      "explanation": "The Convention on Biological Diversity focuses on conserving biological diversity, sustainable use, and fair sharing of benefits."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which environmental law in India regulates the conservation of forests and wildlife?",
+      "question": "Which is the largest national park in India by area?",
       "options": [
-        "Wildlife Protection Act",
-        "Environmental Protection Act",
-        "Air Act",
-        "Water Act"
+        "Jim Corbett National Park",
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Hemis National Park"
       ],
-      "correct": 0,
-      "explanation": "The Wildlife Protection Act, 1972, is the primary law for conserving forests and wildlife."
+      "correct": 2,
+      "explanation": "The Sundarbans National Park is the largest in India by area, famous for its mangrove forests."
     },
     {
       "id": 26,
       "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity is an international treaty aimed at:",
+      "question": "The 'Montreux Protocol' is related to:",
       "options": [
-        "Climate Change mitigation",
-        "Conservation of biological diversity",
-        "Protection of endangered species",
-        "All of the above"
+        "Protection of ozone layer",
+        "Trade in endangered species",
+        "Management of hazardous wastes",
+        "Protection of wetlands"
       ],
-      "correct": 1,
-      "explanation": "The Convention focuses on the conservation of biological diversity globally."
+      "correct": 2,
+      "explanation": "The Montreux Protocol deals with transboundary movement and disposal of hazardous wastes."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who is the current President of India?",
-      "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "A.P.J. Abdul Kalam"
-      ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs & GK",
-      "question": "The current Chief Minister of Odisha is:",
+      "question": "Who is the current Chief Minister of Odisha?",
       "options": [
         "Naveen Patnaik",
         "Mohan Charan Majhi",
-        "BJD",
-        "Raghubar Das"
+        "Nitish Kumar",
+        "Mamata Banerjee"
       ],
       "correct": 1,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "explanation": "Mohan Charan Majhi has been the Chief Minister of Odisha since 12 June 2024."
     },
     {
-      "id": 29,
+      "id": 28,
       "category": "Current Affairs & GK",
       "question": "Who is the current External Affairs Minister of India?",
       "options": [
         "S. Jaishankar",
         "Nirmala Sitharaman",
-        "Subrahmanyam Jaishankar",
-        "Prakash Javadekar"
+        "Amit Shah",
+        "Pralhad Joshi"
       ],
       "correct": 0,
-      "explanation": "S. Jaishankar has been serving as India’s External Affairs Minister since 2019."
+      "explanation": "S. Jaishankar has been serving as the External Affairs Minister since 2019."
+    },
+    {
+      "id": 29,
+      "category": "Current Affairs & GK",
+      "question": "Which Indian sports personality recently won a gold medal at the Asian Games 2026?",
+      "options": [
+        "Neeraj Chopra",
+        "PV Sindhu",
+        "Gagan Narang",
+        "M.C. Mary Kom"
+      ],
+      "correct": 0,
+      "explanation": "Neeraj Chopra won a gold medal in athletics at the Asian Games 2026."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Vice President of India?",
+      "question": "The 'Ujjwala Yojana' scheme is associated with:",
       "options": [
-        "Venkaiah Naidu",
-        "C. P. Radhakrishnan",
-        "Jagdeep Dhankhar",
-        "M Venkaiah Naidu"
+        "Rural electrification",
+        "LPG distribution and clean cooking fuel",
+        "Housing for the poor",
+        "Water supply in villages"
       ],
       "correct": 1,
-      "explanation": "C. P. Radhakrishnan is the vice president of India since 12 September 2025."
+      "explanation": "'Ujjwala Yojana' aims to promote LPG connections for clean cooking in rural households."
     }
   ]
 }

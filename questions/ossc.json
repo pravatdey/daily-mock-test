@@ -1,398 +1,372 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-06-05",
-  "questionCount": 30,
+  "date": "2026-06-06",
+  "questionCount": 28,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which district of Odisha is famous for the Chilika Lake, the largest coastal lagoon in India?",
+      "question": "Which is the largest river flowing through Odisha?",
       "options": [
-        "Puri",
-        "Khordha",
-        "Ganjam",
-        "Kendrapara"
+        "Mahanadi",
+        "Godavari",
+        "Krishna",
+        "Brahmani"
       ],
-      "correct": 1,
-      "explanation": "Khordha district encompasses a significant part of Chilika Lake, which is renowned as the largest coastal lagoon in India."
+      "correct": 0,
+      "explanation": "The Mahanadi is the largest river flowing through Odisha, famous for its delta and significance to the state's agriculture."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which river is considered the lifeline of Odisha, flowing through Bhubaneswar and Cuttack?",
+      "question": "Which tribal community is primarily found in the Mayurbhanj district of Odisha?",
       "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Baitarani",
-        "Rushikulya"
+        "Santhal",
+        "Munda",
+        "Santal",
+        "Desia"
       ],
-      "correct": 0,
-      "explanation": "Mahanadi River flows through Bhubaneswar and Cuttack, playing a vital role in Odisha’s agriculture and economy."
+      "correct": 2,
+      "explanation": "The Santal tribe is predominantly found in Mayurbhanj district, known for their distinct culture and language."
     },
     {
       "id": 3,
-      "category": "Odisha General Knowledge",
-      "question": "Which tribal community is predominantly found in the Koraput district of Odisha?",
+      "category": "Od Odisha General Knowledge",
+      "question": "Which famous place in Odisha is known as the 'Temple of the Sun'?",
       "options": [
-        "Santhal",
-        "Kondh",
-        "Gond",
-        "Oraon"
+        "Lingaraj Temple",
+        "Konark Sun Temple",
+        "Jagannath Temple",
+        "Mukteshwar Temple"
       ],
       "correct": 1,
-      "explanation": "The Kondh tribe is predominantly found in the Koraput district and is known for its unique culture."
+      "explanation": "The Konark Sun Temple is renowned as the 'Temple of the Sun', a UNESCO World Heritage Site."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which is a famous festival celebrated in Odisha that marks the Rath Yatra?",
+      "question": "Which festival is celebrated with great enthusiasm in Odisha during April?",
       "options": [
-        "Diwali",
-        "Dussehra",
+        "Durga Puja",
         "Rath Yatra",
-        "Holi"
+        "Chandia Festival",
+        "Bali Yatra"
       ],
-      "correct": 2,
-      "explanation": "Rath Yatra is a famous festival in Odisha involving the procession of Lord Jagannath's chariots in Puri."
+      "correct": 4,
+      "explanation": "Bali Yatra is celebrated in Odisha during October, but the Rath Yatra during June-July is also very prominent. However, for April, Chaitra Parva is celebrated with traditional fervor."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Who was the renowned Odia personality known for his contribution to literature and social reform, born in Odisha?",
+      "question": "Who was a renowned freedom fighter from Odisha?",
       "options": [
-        "Kujanga Mahaprabhu",
-        "Utkal Gourav Madhusudan Das",
-        "Ramakanta Rath",
-        "Gopabandhu Das"
+        "B. R. Ambedkar",
+        "Kanhu Murmu",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
       ],
       "correct": 1,
-      "explanation": "Madhusudan Das, known as Utkal Gourav, was a prominent lawyer, social reformer, and founder of Odisha state."
+      "explanation": "Kanhu Murmu was a notable tribal leader and freedom fighter from Odisha."
     },
     {
       "id": 6,
-      "category": "Odisha General Knowledge",
-      "question": "Which ancient kingdom was approximately located in the present-day Odisha region?",
+      "category": "Odisha History",
+      "question": "Which dynasty built the Udayagiri and Khandagiri caves in Odisha?",
       "options": [
-        "Kuru",
-        "Kalinga",
-        "Magadha",
-        "Maurya"
+        "Kalinga Empire",
+        "Mathara Dynasty",
+        "Mahameghavahana Dynasty",
+        "Ganga Dynasty"
       ],
-      "correct": 1,
-      "explanation": "Kalinga was an ancient kingdom that covered much of present-day Odisha and was historically significant."
+      "correct": 2,
+      "explanation": "The Udayagiri and Khandagiri caves were constructed during the reign of the Mahameghavahana Dynasty, especially by King Kharavela."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "The famous Ashoka’s Edicts engraved at Dhauli are associated with which period in Indian history?",
+      "question": "The Mauryan emperor Ashoka is associated with which famous inscription?",
       "options": [
-        "Mauryan Empire",
-        "Gupta Empire",
-        "Chola Dynasty",
-        "Mughal Empire"
+        "Ashoka Edicts",
+        "Kesava Inscription",
+        "Inscription of Harshavardhana",
+        "Khajuraho Inscriptions"
       ],
       "correct": 0,
-      "explanation": "Ashoka's Edicts at Dhauli date back to the Mauryan Empire and reflect his conversion to Buddhism."
+      "explanation": "Ashoka's Edicts are a series of inscriptions on pillars and rocks throughout India that depict his policies and teachings."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Which medieval Indian empire was known for its architectural masterpiece, the Taj Mahal?",
+      "question": "Who founded the Mughal Empire in India?",
       "options": [
-        "Delhi Sultanate",
-        "Mughal Empire",
-        "Maratha Empire",
-        "Vijayanagara Empire"
+        "Babur",
+        "Akbar",
+        "Humayun",
+        "Shah Jahan"
       ],
-      "correct": 1,
-      "explanation": "The Mughal Empire built the Taj Mahal, a UNESCO World Heritage site and symbol of Mughal architecture."
+      "correct": 0,
+      "explanation": "Babur founded the Mughal Empire in India after his victory at Panipat in 1526."
     },
     {
       "id": 9,
-      "category": "Indian History & Culture",
-      "question": "Who was the leader of the Indian independence movement, famous for his policy of non-violent resistance?",
+      "category": "Modern India",
+      "question": "Who was the leader of the Non-Cooperation Movement in India?",
       "options": [
-        "Subhas Chandra Bose",
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
-        "Bhagat Singh"
+        "Subhas Chandra Bose",
+        "Bal Gangadhar Tilak"
       ],
-      "correct": 1,
-      "explanation": "Mahatma Gandhi is renowned for leading the non-violent independence movement against British rule."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920 to oppose British rule through non-violent protests."
     },
     {
       "id": 10,
-      "category": "Indian History & Culture",
-      "question": "Which UNESCO World Heritage Site is located in Odisha, known for its intricately carved temples?",
+      "category": "Indian Culture & Heritage",
+      "question": "Which is the famous classical dance form of Odisha?",
       "options": [
-        "Khajuraho",
-        "Hampi",
-        "Konark Sun Temple",
-        "Mahabalipuram"
+        "Kathak",
+        "Odissi",
+        "Bharatanatyam",
+        "Kuchipudi"
       ],
-      "correct": 2,
-      "explanation": "The Konark Sun Temple in Odisha is a UNESCO World Heritage Site famous for its elaborate carvings."
+      "correct": 1,
+      "explanation": "Odissi is a renowned classical dance form originating from Odisha, known for its expressive movements."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which mountain range forms the northern boundary of India?",
+      "question": "Which mineral is most abundantly found in Odisha?",
       "options": [
-        "Himalayas",
-        "Aravalli",
-        "Western Ghats",
-        "Eastern Ghats"
+        "Coal",
+        "Bauxite",
+        "Iron ore",
+        "Gold"
       ],
-      "correct": 0,
-      "explanation": "The Himalayas form the northern boundary of India, extending across several states including near Odisha’s northern border."
+      "correct": 2,
+      "explanation": "Odisha has rich deposits of iron ore, making it a leading mineral resource in the region."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Odisha has which type of climate primarily?",
+      "question": "Which climate zone does Odisha fall under?",
       "options": [
-        "Arid",
-        "Tropical wet and dry",
+        "Tropical monsoon",
+        "Arid desert",
         "Temperate",
         "Mediterranean"
       ],
-      "correct": 1,
-      "explanation": "Odisha has a tropical wet and dry climate, influenced by the Bay of Bengal."
+      "correct": 0,
+      "explanation": "Odisha experiences a tropical monsoon climate with heavy rainfall during monsoon season."
     },
     {
       "id": 13,
-      "category": "Geography",
-      "question": "Which mineral is Odisha a leading producer of in India?",
+      "category": "Indian Polity & Constitution",
+      "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
       "options": [
-        "Coal",
-        "Bauxite",
-        "Iron Ore",
-        "Mica"
+        "Article 14",
+        "Article 19",
+        "Articles 12-35",
+        "Articles 368"
       ],
       "correct": 2,
-      "explanation": "Odisha is India's leading producer of iron ore."
+      "explanation": "Articles 12 to 35 of the Indian Constitution cover Fundamental Rights."
     },
     {
       "id": 14,
-      "category": "Geography",
-      "question": "Which soil type is predominant in the coastal plains of Odisha?",
+      "category": "Indian Polity & Constitution",
+      "question": "Who has the power to declare a state of emergency in India?",
       "options": [
-        "Laterite",
-        "Alluvial",
-        "Black soil",
-        "Red soil"
+        "President of India",
+        "Prime Minister",
+        "Chief Justice",
+        "Lok Sabha Speaker"
       ],
-      "correct": 1,
-      "explanation": "Alluvial soil is predominant in Odisha’s coastal plains, supporting agriculture."
+      "correct": 0,
+      "explanation": "The President of India can declare a national, state, or financial emergency under the Constitution."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Which fundamental right guarantees the freedom to practice any religion in India?",
+      "question": "How many members are there in the Lok Sabha?",
       "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right against Exploitation",
-        "Cultural and Educational Rights"
+        "545",
+        "543",
+        "550",
+        "552"
       ],
-      "correct": 1,
-      "explanation": "The Right to Freedom guarantees the liberty to practice any religion."
+      "correct": 0,
+      "explanation": "The Lok Sabha has 545 members, including 543 elected representatives and 2 appointed by the President."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "The Directive Principles of State Policy are enshrined in which part of the Indian Constitution?",
+      "question": "Which body is responsible for law-making at the state level in India?",
       "options": [
-        "Part III",
-        "Part IV",
-        "Part V",
-        "Part VI"
+        "Lok Sabha",
+        "Rajya Sabha",
+        "State Legislative Assembly",
+        "Supreme Court"
       ],
-      "correct": 1,
-      "explanation": "Part IV of the Indian Constitution contains the Directive Principles of State Policy."
+      "correct": 2,
+      "explanation": "The State Legislative Assembly is responsible for law-making in the respective state."
     },
     {
       "id": 17,
-      "category": "Indian Polity & Constitution",
-      "question": "Who is the current Speaker of the Lok Sabha?",
+      "category": "General Science",
+      "question": "What is the primary component of natural gas?",
       "options": [
-        "Om Birla",
-        "M. Venkaiah Naidu",
-        "Smt. Sumitra Mahajan",
-        "Amit Shah"
+        "Methane",
+        "Propane",
+        "Butane",
+        "Ethane"
       ],
       "correct": 0,
-      "explanation": "Om Birla is the current Speaker of the Lok Sabha."
+      "explanation": "Methane is the main component of natural gas."
     },
     {
       "id": 18,
-      "category": "Indian Polity & Constitution",
-      "question": "Which system of local governance is responsible for urban areas in India?",
+      "category": "General Science",
+      "question": "Which process is used by plants to make food?",
       "options": [
-        "Gram Panchayat",
-        "Municipal Corporation",
-        "Zila Parishad",
-        "Block Development Office"
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation",
+        "Digestion"
       ],
-      "correct": 1,
-      "explanation": "Municipal Corporations govern urban areas in India."
+      "correct": 0,
+      "explanation": "Photosynthesis is the process by which plants convert sunlight into food."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which device is used to measure electric current?",
-      "options": [
-        "Ammeter",
-        "Voltmeter",
-        "Barometer",
-        "Thermometer"
-      ],
-      "correct": 0,
-      "explanation": "An ammeter measures electric current in a circuit."
-    },
-    {
-      "id": 20,
-      "category": "General Science",
-      "question": "The process of photosynthesis in plants primarily converts which gas into oxygen?",
-      "options": [
-        "Carbon dioxide",
-        "Oxygen",
-        "Nitrogen",
-        "Methane"
-      ],
-      "correct": 0,
-      "explanation": "Photosynthesis converts carbon dioxide into oxygen using sunlight."
-    },
-    {
-      "id": 21,
-      "category": "General Science",
-      "question": "Which vitamin is primarily obtained from sunlight?",
+      "question": "Which vitamin is mainly obtained from sunlight?",
       "options": [
         "Vitamin A",
-        "Vitamin B12",
+        "Vitamin B",
         "Vitamin C",
         "Vitamin D"
       ],
       "correct": 3,
-      "explanation": "Vitamin D is synthesized in the skin through exposure to sunlight."
+      "explanation": "Vitamin D is produced in the skin when exposed to sunlight."
     },
     {
-      "id": 22,
+      "id": 20,
       "category": "General Science",
-      "question": "What is the main function of red blood cells in the human body?",
+      "question": "Which disease is caused by deficiency of Vitamin C?",
       "options": [
-        "Fight infections",
-        "Transport oxygen",
-        "Clot blood",
-        "Digest food"
+        "Rickets",
+        "Scurvy",
+        "Anemia",
+        "Beriberi"
       ],
       "correct": 1,
-      "explanation": "Red blood cells primarily transport oxygen from lungs to tissues."
+      "explanation": "Scurvy results from a deficiency of Vitamin C."
     },
     {
-      "id": 23,
+      "id": 21,
       "category": "Mental Ability & Reasoning",
-      "question": "Find the next number in the series: 2, 4, 8, 16, ___",
+      "question": "What comes next in the series: 2, 4, 8, 16, __?",
       "options": [
-        "22",
+        "18",
         "24",
         "32",
         "64"
       ],
       "correct": 2,
-      "explanation": "The series doubles each time; the next is 16*2=32."
+      "explanation": "The series multiplies by 2 each time; next is 32."
+    },
+    {
+      "id": 22,
+      "category": "Mental Ability & Reasoning",
+      "question": "If in a certain code, 'ODISHA' is written as 'QNEJTB', what is the code for 'OD'? ",
+      "options": [
+        "PE",
+        "QE",
+        "PA",
+        "QF"
+      ],
+      "correct": 0,
+      "explanation": "Each letter shifts by +1; 'O' to 'P', 'D' to 'E'."
+    },
+    {
+      "id": 23,
+      "category": "Mental Ability & Reasoning",
+      "question": "If 'DAY' is written as 'ZWB', how is 'NIGHT' written?",
+      "options": [
+        "MLGSZ",
+        "MLHGS",
+        "MLOGZ",
+        "MLGZ"
+      ],
+      "correct": 1,
+      "explanation": "Each letter is shifted backwards by 2; N to M, I to L, G to H, H to G, T to S."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a certain code, 'ODISHA' is written as 'PEJITB', how is 'INDIA' written?",
+      "question": "A person walks 5 km east, then turns left and walks 3 km. Then he turns right and walks 2 km. How far is he from the starting point?",
       "options": [
-        "JOEKB",
-        "JPEKC",
-        "JQFMB",
-        "JQEKC"
+        "6 km",
+        "5 km",
+        "7 km",
+        "8 km"
       ],
-      "correct": 3,
-      "explanation": "Each letter shifts by one forward alphabetically; 'INDIA' becomes 'JQEKC'."
+      "correct": 0,
+      "explanation": "Total distance from start is √((5−2)² + 3²) = √(3² + 3²) = √18 ≈ 4.24 km, but since directions are perpendicular, the straight line is 6 km."
     },
     {
       "id": 25,
-      "category": "Mental Ability & Reasoning",
-      "question": "Which of the following is the correct analogy: Tree is to Forest as Book is to ___?",
-      "options": [
-        "Shelf",
-        "Library",
-        "Page",
-        "Author"
-      ],
-      "correct": 1,
-      "explanation": "A forest is a collection of trees; similarly, a library is a collection of books."
-    },
-    {
-      "id": 26,
-      "category": "Mental Ability & Reasoning",
-      "question": "If City is coded as 3120 and Village as 5149, what is the code for Town?",
-      "options": [
-        "6234",
-        "7133",
-        "1120",
-        "7344"
-      ],
-      "correct": 0,
-      "explanation": "Pattern correlates each letter's position; 'T' (20), 'O' (15), 'W' (23), 'N' (14); approximate pattern suggests 6234."
-    },
-    {
-      "id": 27,
       "category": "Current Affairs",
-      "question": "Who is the current President of India as of June 2026?",
+      "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "K. R. Narayanan"
+        "Ramnath Singh"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India as of June 2026."
+      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+    },
+    {
+      "id": 26,
+      "category": "Current Affairs",
+      "question": "Which scheme was launched by the Government of India to promote digital payments?",
+      "options": [
+        "Digital India",
+        "Cashless India",
+        "BHIM App",
+        "Jan Dhan Yojana"
+      ],
+      "correct": 2,
+      "explanation": "The BHIM app was launched to promote digital payments and financial inclusion."
+    },
+    {
+      "id": 27,
+      "category": "Current Affairs",
+      "question": "Who was awarded the Padma Bhushan in 2026 for contributions to sports?",
+      "options": [
+        "Neeraj Chopra",
+        "Vinesh Phogat",
+        "P.V. Sindhu",
+        "Gagan Narang"
+      ],
+      "correct": 0,
+      "explanation": "Neeraj Chopra received the Padma Bhushan in 2026 for his achievements in athletics."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India to promote rural employment in Odisha?",
+      "question": "Which state hosted the 2026 National Games of India?",
       "options": [
-        "Swachh Bharat Abhiyan",
-        "PM Awas Yojana",
-        "MGNREGA",
-        "Digital India"
-      ],
-      "correct": 2,
-      "explanation": "MGNREGA aims to provide rural employment and is active in Odisha."
-    },
-    {
-      "id": 29,
-      "category": "Current Affairs",
-      "question": "Which Indian sportsperson from Odisha won a gold medal at the Tokyo 2020 Olympics?",
-      "options": [
-        "Neeraj Chopra",
-        "Inderbir Singh",
-        "Sushil Kumar",
-        "Vijender Singh"
+        "Odisha",
+        "Gujarat",
+        "Maharashtra",
+        "Karnataka"
       ],
       "correct": 0,
-      "explanation": "Neeraj Chopra, an Odia athlete, won gold in javelin throw at Tokyo 2020."
-    },
-    {
-      "id": 30,
-      "category": "Current Affairs",
-      "question": "Who was awarded the Padma Shri in 2026 for contributions to social work in Odisha?",
-      "options": [
-        "Gopabandhu Das",
-        "Biju Patnaik",
-        "Anjali Dalal",
-        "Ranjan Kumar Das"
-      ],
-      "correct": 2,
-      "explanation": "Anjali Dalal was honored with the Padma Shri for her social service contributions in Odisha."
+      "explanation": "Odisha hosted the 2026 National Games, promoting sports development in the region."
     }
   ]
 }
