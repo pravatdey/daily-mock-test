@@ -1,39 +1,286 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which is the largest district in Odisha by area?",
+      "question": "Which of the following districts is known as the 'Granary of Odisha'?",
       "options": [
-        "Kandhamal",
-        "Kalahandi",
-        "Ganjam",
-        "Sonepur"
+        "Cuttack",
+        "Sambalpur",
+        "Bolangir",
+        "Ganjam"
       ],
       "correct": 2,
-      "explanation": "Ganjam is the largest district in Odisha in terms of area."
+      "explanation": "Bolangir is known as the 'Granary of Odisha' due to its fertile soil and rich agricultural produce."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "The famous Konark Sun Temple is located in which district?",
+      "question": "Which river is the longest in Odisha?",
       "options": [
-        "Puri",
-        "Khurda",
-        "Ganjam",
-        "Jagatsinghpur"
+        "Mahanadi",
+        "Godavari",
+        "Brahmani",
+        "Subarnarekha"
       ],
-      "correct": 1,
-      "explanation": "The Konark Sun Temple is located in Khurda district, near Puri."
+      "correct": 0,
+      "explanation": "The Mahanadi is the longest river in Odisha, stretching approximately 760 km."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "Which river is known as the lifeline of Odisha?",
+      "question": "What is the name of the famous lake in Odisha known for its natural beauty and migratory birds?",
+      "options": [
+        "Chilika Lake",
+        "Ansupa Lake",
+        "Hirakud Reservoir",
+        "Indravati Reservoir"
+      ],
+      "correct": 0,
+      "explanation": "Chilika Lake is the largest brackish water lake in Asia and a popular tourist destination in Odisha."
+    },
+    {
+      "id": 4,
+      "category": "Odisha General Knowledge",
+      "question": "Who is the founder of the Biju Janata Dal party in Odisha?",
+      "options": [
+        "Biju Patnaik",
+        "Naveen Patnaik",
+        "Jayaram Pangi",
+        "P. V. Narasimha Rao"
+      ],
+      "correct": 1,
+      "explanation": "Naveen Patnaik is the founder of the Biju Janata Dal party in Odisha, named after his father Biju Patnaik."
+    },
+    {
+      "id": 5,
+      "category": "Odisha General Knowledge",
+      "question": "Which tribal community is predominantly found in the Mayurbhanj district of Odisha?",
+      "options": [
+        "Santhal",
+        "Munda",
+        "Oraon",
+        "Khond"
+      ],
+      "correct": 0,
+      "explanation": "The Santhal tribal community is predominantly found in the Mayurbhanj district of Odisha."
+    },
+    {
+      "id": 6,
+      "category": "Odisha General Knowledge",
+      "question": "What is the name of the famous festival celebrated in Odisha to welcome the monsoon season?",
+      "options": [
+        "Ratha Yatra",
+        "Dussehra",
+        "Raja Parba",
+        "Basant Panchami"
+      ],
+      "correct": 2,
+      "explanation": "Raja Parba is a four-day celebration in Odisha to welcome the monsoon season and is also known as the 'festival of swings'."
+    },
+    {
+      "id": 7,
+      "category": "Odisha General Knowledge",
+      "question": "Who was the ruler of Kalinga during the Kalinga War with Ashoka in 261 BCE?",
+      "options": [
+        "Kharavela",
+        "Anantha Padmanabhan",
+        "Rajendra Chola",
+        "Kalinga Raja"
+      ],
+      "correct": 0,
+      "explanation": "Kharavela was the ruler of Kalinga during the Kalinga War with Ashoka in 261 BCE."
+    },
+    {
+      "id": 8,
+      "category": "Odisha General Knowledge",
+      "question": "What is the name of the dam built across the Mahanadi River in Odisha?",
+      "options": [
+        "Hirakud Dam",
+        "Mandira Dam",
+        "Rengali Dam",
+        "Jonk River Dam"
+      ],
+      "correct": 0,
+      "explanation": "Hirakud Dam is one of the longest earthen dams in the world, built across the Mahanadi River in Odisha."
+    },
+    {
+      "id": 9,
+      "category": "Odisha General Knowledge",
+      "question": "Who is the famous Odia poet and writer, also known as the 'Vyasa of Odisha'?",
+      "options": [
+        "Sarala Das",
+        "Upendra Bhanja",
+        "Gangadhar Meher",
+        "Radhanath Ray"
+      ],
+      "correct": 0,
+      "explanation": "Sarala Das is considered the 'Vyasa of Odisha' for his contributions to Odia literature, particularly his epic poem 'Mahabharata'."
+    },
+    {
+      "id": 10,
+      "category": "Odisha General Knowledge",
+      "question": "Which of the following cities is known as the 'Silver City' of Odisha?",
+      "options": [
+        "Cuttack",
+        "Bhubaneswar",
+        "Puri",
+        "Rourkela"
+      ],
+      "correct": 0,
+      "explanation": "Cuttack is known as the 'Silver City' of Odisha due to its historical significance and the thriving silver filigree industry."
+    },
+    {
+      "id": 11,
+      "category": "Ancient India",
+      "question": "Which ancient Indian dynasty built the city of Pataliputra?",
+      "options": [
+        "Mauryan",
+        "Gupta",
+        "Kushan",
+        "Mughal"
+      ],
+      "correct": 0,
+      "explanation": "The Mauryan dynasty built the city of Pataliputra, which was the capital of the empire."
+    },
+    {
+      "id": 12,
+      "category": "Medieval India",
+      "question": "Who was the founder of the Vijayanagara Empire?",
+      "options": [
+        "Harihara and Bukka Raya",
+        "Krishnadeva Raya",
+        "Akbar",
+        "Shivaji"
+      ],
+      "correct": 0,
+      "explanation": "Harihara and Bukka Raya were the founders of the Vijayanagara Empire."
+    },
+    {
+      "id": 13,
+      "category": "Modern India",
+      "question": "Which movement was led by Mahatma Gandhi in 1942 to demand independence from British rule?",
+      "options": [
+        "Non-Cooperation Movement",
+        "Salt March",
+        "Quit India Movement",
+        "Civil Disobedience Movement"
+      ],
+      "correct": 2,
+      "explanation": "The Quit India Movement was led by Mahatma Gandhi in 1942 to demand independence from British rule."
+    },
+    {
+      "id": 14,
+      "category": "Indian Culture",
+      "question": "What is the name of the ancient Indian text that deals with the principles of architecture and sculpture?",
+      "options": [
+        "Rigveda",
+        "Mahabharata",
+        "Shilpa Shastra",
+        "Bhagavad Gita"
+      ],
+      "correct": 2,
+      "explanation": "The Shilpa Shastra is an ancient Indian text that deals with the principles of architecture and sculpture."
+    },
+    {
+      "id": 15,
+      "category": "Heritage Sites",
+      "question": "Which UNESCO World Heritage Site is located in the state of Madhya Pradesh?",
+      "options": [
+        "Taj Mahal",
+        "Red Fort",
+        "Khajuraho Group of Monuments",
+        "Hampi"
+      ],
+      "correct": 2,
+      "explanation": "The Khajuraho Group of Monuments is a UNESCO World Heritage Site located in the state of Madhya Pradesh."
+    },
+    {
+      "id": 16,
+      "category": "Ancient India",
+      "question": "Who was the author of the ancient Indian epic, the Ramayana?",
+      "options": [
+        "Valmiki",
+        "Vyasa",
+        "Kalidasa",
+        "Tulsidas"
+      ],
+      "correct": 0,
+      "explanation": "Valmiki was the author of the ancient Indian epic, the Ramayana."
+    },
+    {
+      "id": 17,
+      "category": "Medieval India",
+      "question": "Which medieval Indian ruler built the Buland Darwaza in Fatehpur Sikri?",
+      "options": [
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Babur"
+      ],
+      "correct": 0,
+      "explanation": "Akbar built the Buland Darwaza in Fatehpur Sikri."
+    },
+    {
+      "id": 18,
+      "category": "Modern India",
+      "question": "Who was the first Governor-General of India under the British East India Company?",
+      "options": [
+        "Warren Hastings",
+        "Lord Cornwallis",
+        "Lord Curzon",
+        "William Bentinck"
+      ],
+      "correct": 0,
+      "explanation": "Warren Hastings was the first Governor-General of India under the British East India Company."
+    },
+    {
+      "id": 19,
+      "category": "Indian Culture",
+      "question": "What is the name of the traditional Indian festival of lights?",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Navratri",
+        "Dussehra"
+      ],
+      "correct": 0,
+      "explanation": "Diwali is the traditional Indian festival of lights."
+    },
+    {
+      "id": 20,
+      "category": "Heritage Sites",
+      "question": "Which ancient Indian monument is located on the banks of the river Yamuna?",
+      "options": [
+        "Taj Mahal",
+        "Red Fort",
+        "Qutub Minar",
+        "Konark Sun Temple"
+      ],
+      "correct": 0,
+      "explanation": "The Taj Mahal is located on the banks of the river Yamuna."
+    },
+    {
+      "id": 21,
+      "category": "Geography",
+      "question": "Which mountain range runs along the eastern coast of India?",
+      "options": [
+        "The Western Ghats",
+        "The Eastern Ghats",
+        "The Himalayas",
+        "The Aravallis"
+      ],
+      "correct": 1,
+      "explanation": "The Eastern Ghats is a mountain range that runs along the eastern coast of India."
+    },
+    {
+      "id": 22,
+      "category": "Geography",
+      "question": "What is the name of the largest river in Odisha?",
       "options": [
         "Mahanadi",
         "Godavari",
@@ -41,358 +288,111 @@
         "Brahmani"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi river is called the lifeline of Odisha as it sustains agriculture and water needs."
-    },
-    {
-      "id": 4,
-      "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated as the Rath Yatra in Odisha?",
-      "options": [
-        "Diwali",
-        "Dussehra",
-        "Rath Yatra",
-        "Holi"
-      ],
-      "correct": 2,
-      "explanation": "The Rath Yatra festival, dedicated to Lord Jagannath, is celebrated in Odisha."
-    },
-    {
-      "id": 5,
-      "category": "Odisha General Knowledge",
-      "question": "Which tribal community is primarily found in the Mayurbhanj district?",
-      "options": [
-        "Santhal",
-        "Munda",
-        "Ho",
-        "Kandha"
-      ],
-      "correct": 3,
-      "explanation": "The Kandha tribe is predominantly found in Mayurbhanj district, known for their rich culture."
-    },
-    {
-      "id": 6,
-      "category": "Odisha General Knowledge",
-      "question": "Which is considered the historical capital of Odisha during the Kalinga period?",
-      "options": [
-        "Puri",
-        "Kalinga",
-        "Dhauli",
-        "Uraiyur"
-      ],
-      "correct": 1,
-      "explanation": "Kalinga was the ancient kingdom, and Dhauli is famous for the Kalinga War site, making it historically significant."
-    },
-    {
-      "id": 7,
-      "category": "Indian History & Culture",
-      "question": "Who was the founder of the Maurya Empire in India?",
-      "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Samudragupta"
-      ],
-      "correct": 1,
-      "explanation": "Chandragupta Maurya founded the Maurya Empire in India around 322 BCE."
-    },
-    {
-      "id": 8,
-      "category": "Indian History & Culture",
-      "question": "The Ajanta Caves are famous for their ancient...",
-      "options": [
-        "Paintings and sculptures",
-        "Architectural marvels",
-        "Religious scriptures",
-        "Trade relics"
-      ],
-      "correct": 0,
-      "explanation": "Ajanta Caves are renowned for their exquisite ancient paintings and sculptures."
-    },
-    {
-      "id": 9,
-      "category": "Indian History & Culture",
-      "question": "Who was the first Prime Minister of India?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Dr. B.R. Ambedkar"
-      ],
-      "correct": 0,
-      "explanation": "Jawaharlal Nehru was the first Prime Minister of independent India."
-    },
-    {
-      "id": 10,
-      "category": "Indian History & Culture",
-      "question": "Which is a UNESCO World Heritage Site in India known for its ancient forts and caves?",
-      "options": [
-        "Mahabalipuram",
-        "Ellora Caves",
-        "Hampi",
-        "Khajuraho"
-      ],
-      "correct": 1,
-      "explanation": "Ellora Caves are UNESCO World Heritage Sites known for their rock-cut temples and monasteries."
-    },
-    {
-      "id": 11,
-      "category": "Geography",
-      "question": "Which mountain range forms the northern boundary of India?",
-      "options": [
-        "Himalayas",
-        "Western Ghats",
-        "Aravalli",
-        "Eastern Ghats"
-      ],
-      "correct": 0,
-      "explanation": "The Himalayas form the northern boundary of India, acting as a natural border."
-    },
-    {
-      "id": 12,
-      "category": "Geography",
-      "question": "Which soil type is most suitable for tea cultivation in Odisha?",
-      "options": [
-        "Alluvial",
-        "Laterite",
-        "Red sandy",
-        "Limestone"
-      ],
-      "correct": 1,
-      "explanation": "Laterite soil, found in Odisha, is suitable for tea cultivation."
-    },
-    {
-      "id": 13,
-      "category": "Geography",
-      "question": "Which mineral is most abundantly found in Odisha?",
-      "options": [
-        "Iron ore",
-        "Coal",
-        "Bauxite",
-        "Manganese"
-      ],
-      "correct": 0,
-      "explanation": "Odisha is rich in iron ore deposits."
-    },
-    {
-      "id": 14,
-      "category": "Geography",
-      "question": "Which dam in Odisha is built across the Mahanadi River?",
-      "options": [
-        "Hirakud Dam",
-        "Indira Gandhi Dam",
-        "Rengali Dam",
-        "Balimela Dam"
-      ],
-      "correct": 0,
-      "explanation": "Hirakud Dam is built across the Mahanadi River and is one of the world's longest dams."
-    },
-    {
-      "id": 15,
-      "category": "Indian Polity & Constitution",
-      "question": "Who appoints the Chief Justice of India?",
-      "options": [
-        "President of India",
-        "Prime Minister",
-        "Lok Sabha",
-        "Supreme Court Judges"
-      ],
-      "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India."
-    },
-    {
-      "id": 16,
-      "category": "Indian Polity & Constitution",
-      "question": "The Directive Principles of State Policy are enumerated in which part of the Indian Constitution?",
-      "options": [
-        "Part III",
-        "Part IV",
-        "Part V",
-        "Part VI"
-      ],
-      "correct": 1,
-      "explanation": "Part IV of the Indian Constitution contains the Directive Principles of State Policy."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Constitution",
-      "question": "How many members are there in the Lok Sabha of India?",
-      "options": [
-        "545",
-        "552",
-        "543",
-        "550"
-      ],
-      "correct": 2,
-      "explanation": "The Lok Sabha has 543 elected members, plus 2 nominated members, totaling 545."
-    },
-    {
-      "id": 18,
-      "category": "Indian Polity & Constitution",
-      "question": "Which level of government is responsible for urban local governance in India?",
-      "options": [
-        "Municipal Corporation",
-        "State Government",
-        "Central Government",
-        "Gram Panchayat"
-      ],
-      "correct": 0,
-      "explanation": "Municipal Corporations are responsible for urban local governance."
-    },
-    {
-      "id": 19,
-      "category": "General Science",
-      "question": "What is the primary function of chlorophyll in plants?",
-      "options": [
-        "Absorbs sunlight for photosynthesis",
-        "Stores water",
-        "Absorbs oxygen",
-        "Provides nutrients"
-      ],
-      "correct": 0,
-      "explanation": "Chlorophyll absorbs sunlight, enabling photosynthesis in plants."
-    },
-    {
-      "id": 20,
-      "category": "General Science",
-      "question": "Which gas is most responsible for the greenhouse effect?",
-      "options": [
-        "Oxygen",
-        "Carbon dioxide",
-        "Nitrogen",
-        "Argon"
-      ],
-      "correct": 1,
-      "explanation": "Carbon dioxide is the primary greenhouse gas contributing to the greenhouse effect."
-    },
-    {
-      "id": 21,
-      "category": "General Science",
-      "question": "Which part of the human body produces insulin?",
-      "options": [
-        "Liver",
-        "Pancreas",
-        "Kidney",
-        "Stomach"
-      ],
-      "correct": 1,
-      "explanation": "The pancreas produces insulin, regulating blood sugar levels."
-    },
-    {
-      "id": 22,
-      "category": "General Science",
-      "question": "Vitamin D is mainly synthesized in the human body through exposure to:",
-      "options": [
-        "UV Rays from Sun",
-        "Infrared rays",
-        "Radio waves",
-        "X-rays"
-      ],
-      "correct": 0,
-      "explanation": "Vitamin D is synthesized when the skin is exposed to UV rays from sunlight."
+      "explanation": "The Mahanadi is the largest river in Odisha."
     },
     {
       "id": 23,
-      "category": "Mental Ability & Reasoning",
-      "question": "If 2, 4, 8, 16, ?, then what is the next number?",
+      "category": "Geography",
+      "question": "Which type of soil is predominantly found in the coastal regions of Odisha?",
       "options": [
-        "24",
-        "32",
-        "20",
-        "30"
+        "Alluvial soil",
+        "Black soil",
+        "Red soil",
+        "Laterite soil"
       ],
-      "correct": 1,
-      "explanation": "The pattern is doubling each time, so the next number is 32."
+      "correct": 0,
+      "explanation": "Alluvial soil is predominantly found in the coastal regions of Odisha."
     },
     {
       "id": 24,
-      "category": "Mental Ability & Reasoning",
-      "question": "Find the odd one out: Apple, Banana, Carrot, Mango",
+      "category": "Geography",
+      "question": "What is the main crop grown in the winter season in Odisha?",
       "options": [
-        "Apple",
-        "Banana",
-        "Carrot",
-        "Mango"
+        "Paddy",
+        "Wheat",
+        "Pulses",
+        "Oilseeds"
       ],
-      "correct": 2,
-      "explanation": "Carrot is a vegetable, while others are fruits."
+      "correct": 1,
+      "explanation": "Wheat is the main crop grown in the winter season in Odisha."
     },
     {
       "id": 25,
-      "category": "Mental Ability & Reasoning",
-      "question": "If in a certain code, APPLE is written as EPPAL, how is ORANGE written?",
+      "category": "Geography",
+      "question": "Which mineral is abundantly found in the state of Odisha?",
       "options": [
-        "ENGOR",
-        "REGOA",
-        "AOREG",
-        "GREAO"
+        "Iron ore",
+        "Coal",
+        "Chromite",
+        "Bauxite"
       ],
-      "correct": 3,
-      "explanation": "The pattern reverses the order of the word, so ORANGE becomes GREAO."
+      "correct": 0,
+      "explanation": "Iron ore is abundantly found in the state of Odisha."
     },
     {
       "id": 26,
-      "category": "Mental Ability & Reasoning",
-      "question": "A man walks 3 km north, then turns to the right and walks 4 km. How far is he from the starting point?",
+      "category": "Geography",
+      "question": "What is the name of the plateau that covers a significant part of central India?",
       "options": [
-        "5 km",
-        "7 km",
-        "6 km",
-        "8 km"
+        "Deccan Plateau",
+        "Chota Nagpur Plateau",
+        "Malwa Plateau",
+        "Bundelkhand Plateau"
       ],
       "correct": 0,
-      "explanation": "Using Pythagoras theorem, distance is √(3²+4²)=5 km."
+      "explanation": "The Deccan Plateau covers a significant part of central India."
     },
     {
       "id": 27,
-      "category": "Current Affairs",
-      "question": "Who is the current President of India as of 2026-06-08?",
+      "category": "Geography",
+      "question": "Which of the following rivers flows through the state of Odisha and empties into the Bay of Bengal?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "V.V. Giri"
+        "Subarnarekha",
+        "Brahmani",
+        "Mahanadi",
+        "All the above"
       ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India."
+      "correct": 3,
+      "explanation": "All the above rivers flow through the state of Odisha and empty into the Bay of Bengal."
     },
     {
       "id": 28,
-      "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India in 2023 to promote green energy?",
+      "category": "Geography",
+      "question": "What is the climate type of Odisha?",
       "options": [
-        "PM-Gati Shakti",
-        "PM-KISAN",
-        "India Green Initiative",
-        "National Hydrogen Mission"
+        "Tropical wet and dry",
+        "Humid subtropical",
+        "Semi-arid",
+        "Desert"
       ],
-      "correct": 3,
-      "explanation": "The National Hydrogen Mission was launched to promote hydrogen-based green energy."
+      "correct": 0,
+      "explanation": "The climate type of Odisha is tropical wet and dry."
     },
     {
       "id": 29,
-      "category": "Current Affairs",
-      "question": "In which sport did Odisha win a gold medal at the 2024 Asian Games?",
+      "category": "Geography",
+      "question": "Which of the following districts in Odisha is known for its rich mineral deposits?",
       "options": [
-        "Hockey",
-        "Archery",
-        "Kabaddi",
-        "Athletics"
+        "Keonjhar",
+        "Sundargarh",
+        "Koraput",
+        "All the above"
       ],
-      "correct": 2,
-      "explanation": "Odisha athletes secured gold in archery at the 2024 Asian Games."
+      "correct": 3,
+      "explanation": "All the above districts in Odisha are known for their rich mineral deposits."
     },
     {
       "id": 30,
-      "category": "Current Affairs",
-      "question": "Who is the current Chief Minister of Odisha as of June 2024?",
+      "category": "Geography",
+      "question": "What is the name of the coastal plain that runs along the eastern coast of India?",
       "options": [
-        "Mohan Charan Majhi",
-        "Naveen Patnaik",
-        "Pramila Mallik",
-        "Laxmipriya Sahu"
+        "Eastern Coastal Plain",
+        "Western Coastal Plain",
+        "Gangetic Plain",
+        "Deccan Plateau"
       ],
       "correct": 0,
-      "explanation": "Mohan Charan Majhi has been the current Chief Minister of Odisha since 12 June 2024."
+      "explanation": "The Eastern Coastal Plain runs along the eastern coast of India."
     }
   ]
 }
