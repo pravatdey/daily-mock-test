@@ -1,76 +1,89 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is primarily a philosophical discourse on duties and righteousness?",
+      "question": "Which ancient Indian text is considered the earliest known treatise on political science and statecraft?",
       "options": [
-        "Rigveda",
-        "Bhagavad Gita",
         "Arthashastra",
-        "Ramayana"
+        "Manusmriti",
+        "Mahabharata",
+        "Rigveda"
       ],
-      "correct": 1,
-      "explanation": "The Bhagavad Gita is a philosophical discourse on duties and righteousness delivered during the Kurukshetra war, part of the Indian epic Mahabharata."
+      "correct": 0,
+      "explanation": "The Arthashastra, attributed to Chanakya, is the earliest known treatise on political science and statecraft from ancient India."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the ruler responsible for the establishment of the Mughal Empire in India?",
+      "question": "Who was the main leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
       ],
-      "correct": 0,
-      "explanation": "Babur established the Mughal Empire in India after his victory at Panipat in 1526."
+      "correct": 1,
+      "explanation": "Mahatma Gandhi was the main leader of the Non-Cooperation Movement, advocating non-violent resistance against British rule."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Which movement marked the beginning of the Modern Indian National Movement?",
+      "question": "The Battle of Plassey in 1757 was fought between the British East India Company and which ruler?",
       "options": [
-        "Champaran Satyagraha",
-        "Partition of Bengal",
-        "Swadeshi Movement",
-        "Indian National Congress formation"
+        "Nadir Shah",
+        "Siraj-ud-Daula",
+        "Mir Jafar",
+        "Robert Clive"
       ],
-      "correct": 2,
-      "explanation": "The Swadeshi Movement, started in 1905 as a response to Partition of Bengal, is considered a significant beginning of the modern Indian national movement."
+      "correct": 1,
+      "explanation": "The Battle of Plassey was fought between the British East India Company and Siraj-ud-Daula, leading to British dominance in Bengal."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement in India?",
+      "question": "Who was the last Governor-General of independent India?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bal Gangadhar Tilak",
-        "Subhas Chandra Bose"
+        "C. Rajagopalachari",
+        "Lord Mountbatten",
+        "Rajendra Prasad",
+        "John Hancock"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement launched in 1920 to oppose British rule through non-violent protests."
+      "explanation": "C. Rajagopalachari was the last Governor-General of India, serving until the position was abolished in 1950."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Which event marked the culmination of the Indian independence movement?",
+      "question": "Which movement marked the end of the Mughal Empire and the rise of British power in India?",
       "options": [
-        "Partition of India",
-        "Quit India Movement",
-        "Independence Act of 1947",
-        "Jallianwala Bagh Massacre"
+        "First Battle of Panipat",
+        "Battle of Plassey",
+        "Maratha Expansion",
+        "Sikh Wars"
       ],
-      "correct": 2,
-      "explanation": "India gained independence from British rule on August 15, 1947, through the culmination of various movements and negotiations."
+      "correct": 1,
+      "explanation": "The Battle of Plassey marked a turning point, leading to British dominance and the decline of Mughal power."
     },
     {
       "id": 6,
+      "category": "Indian Geography",
+      "question": "The Thar Desert is primarily situated in which Indian states?",
+      "options": [
+        "Punjab and Haryana",
+        "Rajasthan and Gujarat",
+        "Uttar Pradesh and Bihar",
+        "Punjab and Himachal Pradesh"
+      ],
+      "correct": 1,
+      "explanation": "The Thar Desert is mainly in Rajasthan and parts of Gujarat."
+    },
+    {
+      "id": 7,
       "category": "Indian Geography",
       "question": "Which is the longest river in India?",
       "options": [
@@ -79,91 +92,91 @@
         "Indus",
         "Brahmaputra"
       ],
-      "correct": 1,
-      "explanation": "The Godavari is the longest river in India, flowing approximately 1,465 km."
-    },
-    {
-      "id": 7,
-      "category": "Indian Geography",
-      "question": "Which mountain range forms the northern boundary of the Indo-Gangetic Plain?",
-      "options": [
-        "Himalayas",
-        "Western Ghats",
-        "Eastern Ghats",
-        "Aravalli Hills"
-      ],
       "correct": 0,
-      "explanation": "The Himalayas form the northern boundary of the Indo-Gangetic Plain, separating India from Tibet and China."
+      "explanation": "The Ganges is the longest river in India, flowing approximately 2525 km."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which resource is predominantly found in the Deccan Plateau?",
+      "question": "Which ocean borders India to the south?",
       "options": [
-        "Petroleum",
-        "Gold",
-        "Magnesium minerals",
-        "Coal"
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
       ],
-      "correct": 2,
-      "explanation": "The Deccan Plateau is rich in magnesium minerals and basalt rocks."
+      "correct": 0,
+      "explanation": "India is bordered by the Indian Ocean to the south."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which climatic phenomenon influences the Indian monsoon?",
+      "question": "Which resource is most abundantly found in the region of the Deccan Plateau?",
       "options": [
-        "El Niño",
-        "Lunar eclipse",
-        "Aurora Borealis",
-        "Tornado"
+        "Coal",
+        "Iron Ore",
+        "Bauxite",
+        "Mica"
       ],
-      "correct": 0,
-      "explanation": "El Niño influences the Indian monsoon, often causing droughts or floods depending on its strength."
+      "correct": 1,
+      "explanation": "The Deccan Plateau is rich in iron ore deposits."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "Which article of the Indian Constitution deals with the Directive Principles of State Policy?",
       "options": [
-        "President of India",
-        "Prime Minister",
-        "Chief Justice of India",
-        "Parliament"
+        "Article 14",
+        "Article 19",
+        "Article 39",
+        "Article 21"
       ],
-      "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India under Article 124 of the Constitution."
+      "correct": 2,
+      "explanation": "Article 39 deals with the Directive Principles of State Policy."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "How many members are there in the Rajya Sabha from Odisha?",
+      "question": "The Parliament of India is composed of which parts?",
       "options": [
-        "10",
-        "11",
-        "12",
-        "13"
+        "Lok Sabha only",
+        "Rajya Sabha only",
+        "Lok Sabha and Rajya Sabha",
+        "Lok Sabha, Rajya Sabha, and President"
       ],
       "correct": 2,
-      "explanation": "Odisha has 10 members in the Rajya Sabha, but since the question asks for a typical number, the correct fixed number is 10. However, this is a trick; the actual number is 10. To keep clarity, the options should be adjusted accordingly, so let's fix the options: [10, 11, 12, 13]. Correct answer remains 0."
+      "explanation": "The Indian Parliament consists of two houses: Lok Sabha and Rajya Sabha."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "All of the above"
+        "President of India",
+        "Prime Minister of India",
+        "Lok Sabha",
+        "Supreme Court Collegium"
       ],
-      "correct": 3,
-      "explanation": "Articles 14, 19, and 21 are among the articles that guarantee Fundamental Rights; overall, Article 32 and 226 also protect them, but specifically, 'All of the above' is correct."
+      "correct": 0,
+      "explanation": "The President of India appoints the Chief Justice in consultation with other judges."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj System was constitutionalized through which amendment?",
+      "question": "Which of the following is a Fundamental Duty under the Indian Constitution?",
+      "options": [
+        "Right to Equality",
+        "Promotion of Harmony, Tolerance",
+        "Freedom of Speech",
+        "Right to Property"
+      ],
+      "correct": 1,
+      "explanation": "Promoting harmony and tolerance is a Fundamental Duty listed under Article 51A."
+    },
+    {
+      "id": 14,
+      "category": "Indian Polity & Governance",
+      "question": "The Panchayati Raj system was constitutionalized in India through which amendment?",
       "options": [
         "73rd Amendment",
         "74th Amendment",
@@ -171,228 +184,215 @@
         "44th Amendment"
       ],
       "correct": 0,
-      "explanation": "The 73rd Amendment Act, 1992, provided constitutional status to Panchayati Raj institutions."
-    },
-    {
-      "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "The Lok Sabha is a directly elected house, but the Rajya Sabha is elected by:",
-      "options": [
-        "Members of Parliament",
-        "State Legislative Assemblies",
-        "State Governors",
-        "People"
-      ],
-      "correct": 1,
-      "explanation": "Members of the Rajya Sabha are elected by the elected members of the Legislative Assemblies of the States."
+      "explanation": "The 73rd Amendment Act of 1992 constitutionalized the Panchayati Raj system."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Which is the current fiscal year for India as per the Budget 2026?",
+      "question": "India's Gross Domestic Product (GDP) is primarily calculated by summing:",
       "options": [
-        "April 1, 2026 - March 31, 2027",
-        "January 1, 2026 - December 31, 2026",
-        "July 1, 2026 - June 30, 2027",
-        "June 1, 2026 - May 31, 2027"
+        "Production, Consumption, Investment",
+        "Exports and Imports",
+        "Agriculture, Industry, Services",
+        "Government Spending and Private Investment"
       ],
-      "correct": 0,
-      "explanation": "India’s fiscal year runs from April 1 to March 31 of the following year."
+      "correct": 2,
+      "explanation": "GDP is calculated by summing the value added in Agriculture, Industry, and Services sectors."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which banking institute is responsible for regulating the monetary policy in India?",
+      "question": "Which banking institution is primarily responsible for regulating the monetary policy in India?",
       "options": [
-        "Reserve Bank of India",
-        "Bank of India",
+        "ICICI Bank",
         "State Bank of India",
-        "Indian Bank"
+        "Reserve Bank of India",
+        "Bank of India"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "The Reserve Bank of India (RBI) is responsible for regulating monetary policy."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "What is the primary objective of the Goods and Services Tax (GST) introduced in India?",
+      "question": "What is the main purpose of the 'Make in India' initiative?",
       "options": [
-        "Increase taxation revenue",
-        "Simplify indirect taxation",
-        "Reduce fiscal deficit",
-        "Promote exports"
+        "Increase exports",
+        "Promote manufacturing sector",
+        "Enhance agricultural productivity",
+        "Improve digital literacy"
       ],
       "correct": 1,
-      "explanation": "GST aimed to unify and simplify indirect taxation across states, reducing tax cascading and making compliance easier."
+      "explanation": "'Make in India' aims to promote manufacturing and boost the domestic industry."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "Which component of the GDP measures the total value of goods and services produced within a country during a specific period?",
+      "question": "India's Fiscal Year begins on:",
       "options": [
-        "GDP at market prices",
-        "National Income",
-        "Per Capita Income",
-        "GNP"
+        "January 1",
+        "April 1",
+        "July 1",
+        "October 1"
       ],
-      "correct": 0,
-      "explanation": "GDP at market prices measures the total value of goods and services produced within a country during a specific period."
+      "correct": 1,
+      "explanation": "India's fiscal year begins on April 1 and ends on March 31."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which particle is responsible for carrying the force of electromagnetic interactions?",
+      "question": "Which particle is responsible for the charge in an atom?",
       "options": [
-        "Photon",
         "Electron",
         "Proton",
-        "Neutron"
+        "Neutron",
+        "Photon"
       ],
-      "correct": 0,
-      "explanation": "Photons are the force carriers (gauge bosons) of electromagnetic interactions."
+      "correct": 1,
+      "explanation": "Protons carry a positive charge and reside in the nucleus of an atom."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element is primarily used in the production of nuclear fuel?",
+      "question": "The process of photosynthesis primarily involves which gas?",
       "options": [
-        "Uranium",
-        "Platinum",
-        "Gold",
-        "Copper"
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Methane"
       ],
-      "correct": 0,
-      "explanation": "Uranium is used as fuel in nuclear reactors due to its fissile properties."
+      "correct": 1,
+      "explanation": "Photosynthesis involves the absorption of carbon dioxide and release of oxygen."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which biological process is primarily responsible for conversion of atmospheric nitrogen into a usable form for plants?",
+      "question": "Which planet is known as the 'Red Planet'?",
       "options": [
-        "Photosynthesis",
-        "Nitrogen fixation",
-        "Respiration",
-        "Transpiration"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "Nitrogen fixation converts atmospheric nitrogen into ammonia, making it accessible for plants."
+      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which machine is used to measure the temperature of a star?",
+      "question": "Which scientific principle explains the working of a hydraulic lift?",
       "options": [
-        "Spectrometer",
-        "Thermometer",
-        "Photometer",
-        "Seismograph"
+        "Bernoulli's principle",
+        "Pascal's law",
+        "Archimedes' principle",
+        "Boyle's law"
       ],
-      "correct": 0,
-      "explanation": "Spectrometers analyze the light from stars to determine their properties, including temperature."
+      "correct": 1,
+      "explanation": "Pascal's law states that pressure applied to a confined fluid is transmitted undiminished, forming the basis of hydraulic lifts."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a flagship biodiversity conservation program of India?",
+      "question": "Which of the following is a biosphere reserve in India?",
       "options": [
-        "Project Tiger",
-        "Mahatma Gandhi National Rural Employment Guarantee Act",
-        "National River Conservation Plan",
-        "Biosphere Reserves"
+        "Sundarbans",
+        "Gir Forest",
+        "Kaziranga",
+        "Nanda Devi"
       ],
       "correct": 0,
-      "explanation": "Project Tiger is a flagship program aimed at conserving tigers and their habitats."
+      "explanation": "Sundarbans is designated as a biosphere reserve for its rich mangrove ecosystem."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which international agreement addresses climate change and aims to reduce global greenhouse gas emissions?",
+      "question": "What is the main cause of acid rain?",
       "options": [
-        "Kyoto Protocol",
-        "Montreal Protocol",
-        "Paris Agreement",
-        "Geneva Convention"
+        "Carbon monoxide emissions",
+        "Sulfur dioxide and nitrogen oxides",
+        "Ozone depletion",
+        "Particulate matter"
       ],
-      "correct": 2,
-      "explanation": "The Paris Agreement seeks to limit global temperature rise and reduce emissions."
+      "correct": 1,
+      "explanation": "Acid rain is primarily caused by sulfur dioxide and nitrogen oxides released into the atmosphere."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a critically endangered species listed under the IUCN Red List?",
+      "question": "Which international agreement is aimed at reducing greenhouse gas emissions?",
       "options": [
-        "Indian Elephant",
-        "Giant Panda",
-        "Siberian Tiger",
-        "Himalayan Quail"
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Paris Agreement",
+        "Copenhagen Accord"
       ],
-      "correct": 3,
-      "explanation": "The Himalayan Quail is critically endangered and believed to be extinct or very rare."
+      "correct": 2,
+      "explanation": "The Paris Agreement focuses on reducing global greenhouse gas emissions."
     },
     {
       "id": 26,
       "category": "Environment & Ecology",
-      "question": "Which law was enacted to address environmental protection in India?",
+      "question": "Which Indian law governs the conservation of wildlife in India?",
       "options": [
-        "The Wildlife Protection Act, 1972",
-        "The Environment Protection Act, 1986",
-        "The Forest Conservation Act, 1980",
-        "All of the above"
+        "Wildlife Protection Act, 1972",
+        "Environment Protection Act, 1986",
+        "Forest Conservation Act, 1980",
+        "Air Act, 1981"
       ],
-      "correct": 3,
-      "explanation": "All three laws collectively address various aspects of environmental protection."
+      "correct": 0,
+      "explanation": "The Wildlife Protection Act, 1972, is the primary legislation for wildlife conservation in India."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who is the current President of India as of 2026?",
+      "question": "Which country hosted the G20 Summit in 2023?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pratibha Patil",
-        "APJ Abdul Kalam"
+        "India",
+        "United States",
+        "Germany",
+        "Japan"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu has been serving as President since 2022."
+      "explanation": "India hosted the G20 Summit in 2023 in New Delhi."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
+      "question": "Which Indian film won the Oscar for Best International Feature Film in 2023?",
       "options": [
-        "Odisha",
-        "West Bengal",
-        "Bihar",
-        "Chhattisgarh"
+        "RRR",
+        "The Elephant Whisperers",
+        "Bhonsle",
+        "Lagaan"
       ],
-      "correct": 0,
-      "explanation": "Mohan Charan Majhi is the current CM of Odisha since 12 June 2024."
+      "correct": 1,
+      "explanation": "'The Elephant Whisperers' won the Oscar for Best Documentary Feature in 2023."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Which country hosted the G20 summit in 2023?",
+      "question": "Which scheme was launched by the Government of India to promote digital payments?",
       "options": [
-        "India",
-        "United States",
-        "Brazil",
-        "Germany"
+        "Digital India",
+        "Jan Dhan Yojana",
+        "Startup India",
+        "Make in India"
       ],
       "correct": 0,
-      "explanation": "India hosted the G20 summit in 2023, marking an important international event."
+      "explanation": "'Digital India' aims to promote digital payments and digital infrastructure."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Who is serving as the current Vice President of India as of 2026?",
+      "question": "Who was awarded the Nobel Peace Prize in 2023?",
       "options": [
-        "C. P. Radhakrishnan",
-        "Venkaiah Naidu",
-        "Jagdeep Dhankhar",
-        "Hamid Ansari"
+        "Greta Thunberg",
+        "UNHCR",
+        "Alok Sharma",
+        "Maria Ressa"
       ],
-      "correct": 0,
-      "explanation": "C. P. Radhakrishnan is serving as Vice President since 2025."
+      "correct": 2,
+      "explanation": "Alok Sharma was recognized for his role in climate change initiatives and efforts to raise awareness."
     }
   ]
 }
