@@ -1,91 +1,91 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-06-13",
-  "questionCount": 30,
+  "date": "2026-06-14",
+  "questionCount": 29,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is primarily associated with the martial arts tradition of Kalaripayattu?",
+      "question": "Which ancient Indian text is primarily a treatise on political science and statecraft?",
       "options": [
-        "Mahabharata",
         "Arthashastra",
         "Vedas",
-        "Ayurveda"
+        "Mahabharata",
+        "Upanishads"
       ],
       "correct": 0,
-      "explanation": "The Mahabharata contains references to martial arts and combat techniques, and Kalaripayattu is an ancient martial art form originating from Kerala mentioned in various texts associated with this epic."
+      "explanation": "The Arthashastra, attributed to Chanakya, is an ancient Indian treatise on governance, economics, and military strategy."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the founder of the Mughal Empire in India?",
+      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Shah Jahan",
-        "Humayun"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bal Gangadhar Tilak"
       ],
       "correct": 0,
-      "explanation": "Babur, a descendant of Timur and Genghis Khan, founded the Mughal Empire in India after his victory at Panipat in 1526."
+      "explanation": "Mahatma Gandhi called for non-cooperation with the British regime in 1920, marking a significant step in India's freedom struggle."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Which movement is associated with the Non-Cooperation Movement in India?",
+      "question": "The 'Partition of Bengal' was annulled in which year?",
       "options": [
-        "Champaran Satyagraha",
-        "Kheda Satyagraha",
-        "Khilafat Movement",
-        "Non-Cooperation Movement"
+        "1911",
+        "1920",
+        "1935",
+        "1947"
       ],
-      "correct": 3,
-      "explanation": "The Non-Cooperation Movement was a mass protest led by Mahatma Gandhi in 1920 demanding Indians to withdraw from British institutions."
+      "correct": 0,
+      "explanation": "Partition of Bengal was annulled in 1911 due to widespread protests and political opposition."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "The 'Partition of Bengal' in 1905 was primarily aimed at:",
+      "question": "Who was the first President of the Indian National Congress?",
       "options": [
-        "Reducing administrative costs",
-        "Creating a Muslim majority region",
-        "Dividing Hindu and Muslim communities",
-        "Countering Russian expansion"
+        "Dadabhai Naoroji",
+        "Womesh Chunder Bonnerjee",
+        "Bal Gangadhar Tilak",
+        "Annie Besant"
       ],
-      "correct": 0,
-      "explanation": "The partition aimed at dividing Bengal administratively for easier governance, but it was also perceived as an attempt to divide Hindus and Muslims, leading to protests."
+      "correct": 1,
+      "explanation": "Womesh Chunder Bonnerjee was the first President of the Indian National Congress in 1885."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Who was the Chairman of the Indian National Congress when India gained independence in 1947?",
+      "question": "Which movement marked the beginning of the Indian Independence struggle?",
       "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Sardar Patel",
-        "C. Rajagopalachari"
+        "Champaran Satyagraha",
+        "Non-Cooperation Movement",
+        "Partition of Bengal",
+        "Swadeshi Movement"
       ],
       "correct": 0,
-      "explanation": "Jawaharlal Nehru was elected as the President of the Indian National Congress just before independence, and he became the first Prime Minister."
+      "explanation": "The Champaran Satyagraha of 1917 was among the first mass protests against British policies, marking the beginning of organized resistance."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which is the longest river in India?",
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
       "options": [
-        "Ganges",
-        "Godavari",
-        "Brahmaputra",
-        "Narmada"
+        "Ganga",
+        "Ghaghara",
+        "Koshi",
+        "Son"
       ],
-      "correct": 1,
-      "explanation": "The Godavari River, approximately 1,465 km long, is the longest river in India."
+      "correct": 3,
+      "explanation": "The Son River is called the 'Sorrow of Bihar' due to frequent flooding and associated problems."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "The Thar Desert primarily covers which Indian state?",
+      "question": "The Thar Desert lies primarily in which Indian state?",
       "options": [
         "Rajasthan",
         "Punjab",
@@ -93,142 +93,155 @@
         "Haryana"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert is mainly located in Rajasthan, covering a large part of the state's western region."
+      "explanation": "The Thar Desert is mainly situated in Rajasthan."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which of the following is a non-renewable resource in India?",
+      "question": "Which is the most abundant mineral resource in India?",
       "options": [
-        "Solar energy",
-        "Wind energy",
         "Coal",
-        "Biomass"
+        "Iron Ore",
+        "Bauxite",
+        "Mica"
       ],
-      "correct": 2,
-      "explanation": "Coal is a fossil fuel and hence non-renewable, whereas solar, wind, and biomass are renewable resources."
+      "correct": 0,
+      "explanation": "Coal is the most abundant mineral resource in India and a primary energy source."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "The monsoon winds that bring rainfall to India are primarily driven by:",
+      "question": "The monsoon season in India is primarily driven by which atmospheric phenomenon?",
       "options": [
-        "Jet streams",
-        "Earth’s rotation",
-        "Differential heating of land and water",
-        "Tropical cyclones"
+        "Southwest monsoon",
+        "Northeast monsoon",
+        "Western Disturbance",
+        "Jet Stream"
       ],
-      "correct": 2,
-      "explanation": "The differential heating of land and water creates pressure differences that drive the monsoon winds."
+      "correct": 0,
+      "explanation": "The Southwest monsoon is the main monsoon season that affects India, driven by the Indian Ocean's thermal low-pressure system."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "The Directive Principles of State Policy in the Indian Constitution aim to:",
+      "question": "Which article of the Indian Constitution deals with the Directive Principles of State Policy?",
       "options": [
-        "Establish the supremacy of Parliament",
-        "Guide the policy of the government",
-        "Limit judicial powers",
-        "Define the powers of the President"
+        "Article 36-51",
+        "Article 32",
+        "Article 368",
+        "Article 124"
       ],
-      "correct": 1,
-      "explanation": "Directive Principles serve as guiding principles for framing laws and policies, aiming to establish a just society."
+      "correct": 0,
+      "explanation": "Articles 36 to 51 in the Indian Constitution elaborate on Directive Principles of State Policy."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "The concept of 'Judicial Review' in India was borrowed from:",
+      "question": "Who appoints the Chief Election Commissioner of India?",
       "options": [
-        "The British Constitution",
-        "The US Constitution",
-        "The Irish Constitution",
-        "The French Constitution"
+        "The President",
+        "The Prime Minister",
+        "The Parliament",
+        "The Supreme Court"
       ],
-      "correct": 1,
-      "explanation": "Judicial review in India is based on the US model, allowing courts to declare laws unconstitutional if they violate the Constitution."
+      "correct": 0,
+      "explanation": "The President appoints the Chief Election Commissioner of India."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
+      "question": "The 'Judicial Review' as a power of the judiciary was established by which Supreme Court case?",
       "options": [
-        "Article 14",
-        "Articles 12-35",
-        "Article 19",
-        "Article 370"
+        "Kesavananda Bharati case",
+        "Minerva Mills case",
+        "Marbury v. Madison",
+        "Raj Narain v. Lal Krishna Advani"
       ],
-      "correct": 1,
-      "explanation": "Articles 12 to 35 in the Indian Constitution collectively deal with Fundamental Rights."
+      "correct": 2,
+      "explanation": "Marbury v. Madison (US case) established the principle of judicial review. In India, the Supreme Court affirmed this in various judgments, including Minerva Mills."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "The 'Panchayati Raj' system in India is based on:",
+      "question": "Which Panchayati Raj institution is directly elected by the people?",
       "options": [
-        "Direct election by all citizens",
-        "Representation through local bodies",
-        "Nomination by state government",
-        "Appointment by Central Government"
+        "Gram Panchayat",
+        "Gram Sabha",
+        "Zila Parishad",
+        "Panchayat Samiti"
       ],
-      "correct": 1,
-      "explanation": "Panchayati Raj emphasizes local self-governance through elected bodies at the village level."
+      "correct": 0,
+      "explanation": "The Gram Panchayat is directly elected by the local people."
     },
     {
       "id": 14,
-      "category": "Indian Economy",
-      "question": "The Budget of India is presented in Parliament during which session?",
+      "category": "Indian Polity & Governance",
+      "question": "Which Fundamental Right guarantees the freedom of speech and expression?",
       "options": [
-        "Summer Session",
-        "Winter Session",
-        "Budget Session",
-        "Monsoon Session"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Cultural and Educational Rights"
       ],
-      "correct": 2,
-      "explanation": "The Union Budget is presented in the Budget Session, usually starting in February."
+      "correct": 1,
+      "explanation": "The Right to Freedom (Article 19) guarantees the freedom of speech and expression."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Which financial institution primarily provides long-term loans for development projects in India?",
+      "question": "India's Gross Domestic Product (GDP) is primarily calculated based on which approach?",
       "options": [
-        "Reserve Bank of India",
-        "National Bank for Agriculture and Rural Development (NABARD)",
-        "State Bank of India",
-        "World Bank"
+        "Production approach",
+        "Income approach",
+        "Expenditure approach",
+        "All of the above"
       ],
-      "correct": 1,
-      "explanation": "NABARD mainly provides financial support for rural development and long-term projects in agriculture."
+      "correct": 3,
+      "explanation": "India's GDP is calculated using all three approaches: production, income, and expenditure."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "India's GDP is classified as which type of economy?",
+      "question": "The 'Banking Regulation Act' was enacted in which year?",
       "options": [
-        "Traditional",
-        "Market economy",
-        "Mixed economy",
-        "Command economy"
+        "1949",
+        "1950",
+        "1934",
+        "1969"
       ],
-      "correct": 2,
-      "explanation": "India has a mixed economy with both private and public sector participation."
+      "correct": 0,
+      "explanation": "The Banking Regulation Act was enacted in 1949 to regulate banking firms in India."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "The Five Year Plans in India were inspired by which economic model?",
+      "question": "What does 'FPI' stand for in the context of Indian economy?",
       "options": [
-        "Capitalist",
-        "Socialist",
-        "Mixed",
-        "Plan of Development"
+        "Foreign Portfolio Investment",
+        "Foreign Public Inquiry",
+        "Federal Public Initiative",
+        "Foreign Private Investment"
       ],
-      "correct": 1,
-      "explanation": "India's Five Year Plans were based on a socialist-inspired model focusing on planned development."
+      "correct": 0,
+      "explanation": "'FPI' refers to Foreign Portfolio Investment, representing investment in financial assets from foreign investors."
     },
     {
       "id": 18,
+      "category": "Indian Economy",
+      "question": "Which Five Year Plan emphasized 'Self-Reliance' in India?",
+      "options": [
+        "First Five Year Plan",
+        "Second Five Year Plan",
+        "Third Five Year Plan",
+        "Fourth Five Year Plan"
+      ],
+      "correct": 1,
+      "explanation": "The Second Five Year Plan (1956-1961) emphasized 'Self-Reliance' and rapid industrialization."
+    },
+    {
+      "id": 19,
       "category": "General Science",
-      "question": "Which particle is responsible for carrying the force of electromagnetic radiation?",
+      "question": "Which particle is responsible for carrying the force of electromagnetic interaction?",
       "options": [
         "Photon",
         "Electron",
@@ -236,163 +249,137 @@
         "Neutron"
       ],
       "correct": 0,
-      "explanation": "Photons are quanta of electromagnetic radiation responsible for carrying light and other electromagnetic waves."
-    },
-    {
-      "id": 19,
-      "category": "General Science",
-      "question": "The process of photosynthesis in plants primarily converts:",
-      "options": [
-        "Oxygen into carbon dioxide",
-        "Solar energy into chemical energy",
-        "Water into glucose",
-        "Nitrogen into amino acids"
-      ],
-      "correct": 1,
-      "explanation": "Photosynthesis converts solar energy into chemical energy stored in glucose molecules."
+      "explanation": "Photons are the force carriers for electromagnetic interactions."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element is most abundant in the Earth's crust?",
+      "question": "The process of photosynthesis primarily occurs in which part of the plant?",
       "options": [
-        "Iron",
-        "Oxygen",
-        "Silicon",
-        "Aluminum"
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Flowers"
       ],
-      "correct": 1,
-      "explanation": "Oxygen, combined with other elements, is the most abundant element in the Earth's crust."
+      "correct": 2,
+      "explanation": "Photosynthesis mainly takes place in the leaves of plants."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "The rotating space station concept primarily aims to simulate:",
+      "question": "Which gas is the most abundant in Earth's atmosphere?",
       "options": [
-        "Gravitational pull",
-        "Magnetic fields",
-        "Artificial gravity",
-        "Electromagnetic waves"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Argon"
       ],
-      "correct": 2,
-      "explanation": "A rotating space station is designed to simulate gravity through centrifugal force."
+      "correct": 1,
+      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, making it the most abundant gas."
     },
     {
       "id": 22,
-      "category": "Environment & Ecology",
-      "question": "Biodiversity hotspots are regions that:",
+      "category": "General Science",
+      "question": "Which scientist is credited with the discovery of the law of gravity?",
       "options": [
-        "Have high species richness and endemism",
-        "Are free from human activity",
-        "Have very few species",
-        "Are only found in the ocean"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Johannes Kepler"
       ],
       "correct": 0,
-      "explanation": "Biodiversity hotspots are regions with high endemism and significant biodiversity, often under threat."
+      "explanation": "Isaac Newton formulated the law of universal gravitation."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which international agreement aims to reduce the emission of greenhouse gases?",
+      "question": "The 'Kyoto Protocol' is primarily related to which global issue?",
       "options": [
-        "Paris Agreement",
-        "Montreal Protocol",
-        "Kyoto Protocol",
-        "Copenhagen Accord"
+        "Ozone depletion",
+        "Climate change",
+        "Deforestation",
+        "Loss of biodiversity"
       ],
-      "correct": 0,
-      "explanation": "The Paris Agreement focuses on global efforts to reduce greenhouse gas emissions."
+      "correct": 1,
+      "explanation": "The Kyoto Protocol is an international treaty focused on reducing global greenhouse gas emissions and combating climate change."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a protected area in India known for tiger conservation?",
+      "question": "Which is the largest biodiversity hotspot in India?",
       "options": [
-        "Sundarbans",
-        "Gir National Park",
-        "Kaziranga",
-        "Simlipal"
+        "Western Ghats",
+        "Sundaland",
+        "Himalayas",
+        "Indo-Burma"
       ],
       "correct": 0,
-      "explanation": "Sundarbans is a UNESCO World Heritage Site and a famous tiger habitat."
+      "explanation": "The Western Ghats is one of the eight biodiversity hotspots and the largest in India."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "The Environmental Protection Act in India was enacted in:",
+      "question": "What is the primary purpose of the 'Environment Protection Act, 1986' in India?",
       "options": [
-        "1986",
-        "1972",
-        "1990",
-        "2000"
+        "To regulate air and water pollution",
+        "To protect biodiversity",
+        "To control hazardous waste",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The Environmental Protection Act was enacted in 1986 to protect the environment."
+      "correct": 3,
+      "explanation": "The Environment Protection Act, 1986, provides a comprehensive framework to protect the environment, including air, water, waste, and biodiversity."
     },
     {
       "id": 26,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current Secretary-General of the United Nations as of 2026?",
+      "category": "Current Affairs & GK",
+      "question": "Which Indian scheme aims to improve rural sanitation and open defecation free status?",
       "options": [
-        "António Guterres",
-        "Ban Ki-moon",
-        "Kofi Annan",
-        "Antonio Guterres"
-      ],
-      "correct": 0,
-      "explanation": "António Guterres has been serving as the Secretary-General since 2017."
-    },
-    {
-      "id": 27,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Which scheme was launched by the Government of India to promote digital payments?",
-      "options": [
+        "Swachh Bharat Abhiyan",
         "Digital India",
         "Make in India",
-        "Start-Up India",
         "Skill India"
       ],
       "correct": 0,
-      "explanation": "Digital India aims to promote digital payments and digital infrastructure."
+      "explanation": "Swachh Bharat Abhiyan is a nationwide campaign aimed at improving sanitation and eliminating open defecation."
+    },
+    {
+      "id": 27,
+      "category": "Current Affairs & GK",
+      "question": "Which country hosted the G20 Summit in 2023?",
+      "options": [
+        "India",
+        "Germany",
+        "Japan",
+        "Brazil"
+      ],
+      "correct": 0,
+      "explanation": "India hosted the G20 Summit in 2023."
     },
     {
       "id": 28,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Which Indian athlete won the gold medal in the Tokyo 2020 Olympics in men's wrestling?",
+      "category": "Current Affairs & GK",
+      "question": "Who was awarded the Nobel Peace Prize in 2022?",
       "options": [
-        "Vinesh Phogat",
-        "Sushil Kumar",
-        "Neeraj Chopra",
-        "Ravi Kumar Dahiya"
+        "Ales Bialiatski",
+        "Maria Ressa",
+        "Dmitry Muratov",
+        "Abiy Ahmed"
       ],
-      "correct": 3,
-      "explanation": "Ravi Kumar Dahiya won the silver in wrestling, but Neeraj Chopra won gold in javelin; however, in the context of wrestling, Ravi Kumar Dahiya was notable. (Note: Based on real data, Ravi Kumar Dahiya won silver, so for a more accurate question, swap options or rephrase. For now, assuming the question is about notable wrestling medals.)"
+      "correct": 0,
+      "explanation": "Ales Bialiatski, from Belarus, was awarded the Nobel Peace Prize in 2022 for his efforts to represent civil society in Belarus."
     },
     {
       "id": 29,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Which country hosted the COP28 climate summit in 2023?",
+      "category": "Current Affairs & GK",
+      "question": "Which Indian sports personality won the gold medal in badminton at the Tokyo 2020 Olympics?",
       "options": [
-        "United Arab Emirates",
-        "France",
-        "India",
-        "Germany"
+        "P.V. Sindhu",
+        "Sania Mirza",
+        "Deepika Kumari",
+        "Mary Kom"
       ],
       "correct": 0,
-      "explanation": "COP28 was hosted by the United Arab Emirates in 2023."
-    },
-    {
-      "id": 30,
-      "category": "Current Affairs & General Knowledge",
-      "question": "The 'Ayushman Bharat' scheme is primarily aimed at:",
-      "options": [
-        "Providing financial aid to farmers",
-        "Universal health coverage",
-        "Free education for children",
-        "Rural electrification"
-      ],
-      "correct": 1,
-      "explanation": "Ayushman Bharat aims to provide free health coverage to vulnerable sections of society."
+      "explanation": "P.V. Sindhu won the gold medal in badminton women's singles at Tokyo 2020 Olympics."
     }
   ]
 }
