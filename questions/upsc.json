@@ -1,385 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-06-14",
-  "questionCount": 29,
+  "date": "2026-06-15",
+  "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is primarily a treatise on political science and statecraft?",
+      "question": "Who was the last Governor-General of independent India before it became a republic?",
       "options": [
-        "Arthashastra",
-        "Vedas",
-        "Mahabharata",
-        "Upanishads"
+        "C. Rajagopalachari",
+        "Lord Mountbatten",
+        "Rajendra Prasad",
+        "Lord Wavell"
       ],
       "correct": 0,
-      "explanation": "The Arthashastra, attributed to Chanakya, is an ancient Indian treatise on governance, economics, and military strategy."
+      "explanation": "C. Rajagopalachari was the last Governor-General of India, serving until 1950 when India became a republic."
     },
     {
       "id": 2,
+      "category": "Indian History",
+      "question": "Which ancient Indian text is considered the oldest among the following?",
+      "options": [
+        "Arthashastra",
+        "Rigveda",
+        "Mahabharata",
+        "Upanishads"
+      ],
+      "correct": 1,
+      "explanation": "Rigveda is considered the oldest among the Vedas and Indian texts, dating back to around 1500 BCE."
+    },
+    {
+      "id": 3,
       "category": "Indian History",
       "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bal Gangadhar Tilak"
+        "Bal Gangadhar Tilak",
+        "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi called for non-cooperation with the British regime in 1920, marking a significant step in India's freedom struggle."
-    },
-    {
-      "id": 3,
-      "category": "Indian History",
-      "question": "The 'Partition of Bengal' was annulled in which year?",
-      "options": [
-        "1911",
-        "1920",
-        "1935",
-        "1947"
-      ],
-      "correct": 0,
-      "explanation": "Partition of Bengal was annulled in 1911 due to widespread protests and political opposition."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement against British rule in 1920."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Who was the first President of the Indian National Congress?",
+      "question": "Which event marked the beginning of the modern Indian freedom movement?",
       "options": [
-        "Dadabhai Naoroji",
-        "Womesh Chunder Bonnerjee",
-        "Bal Gangadhar Tilak",
-        "Annie Besant"
+        "Partition of Bengal",
+        "Champaran Satyagraha",
+        "Jallianwala Bagh Massacre",
+        "Salt Satyagraha"
       ],
-      "correct": 1,
-      "explanation": "Womesh Chunder Bonnerjee was the first President of the Indian National Congress in 1885."
+      "correct": 2,
+      "explanation": "The Jallianwala Bagh massacre in 1919 was a turning point that intensified the freedom movement."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Which movement marked the beginning of the Indian Independence struggle?",
+      "question": "Who was the first Prime Minister of India?",
       "options": [
-        "Champaran Satyagraha",
-        "Non-Cooperation Movement",
-        "Partition of Bengal",
-        "Swadeshi Movement"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Lal Bahadur Shastri"
       ],
       "correct": 0,
-      "explanation": "The Champaran Satyagraha of 1917 was among the first mass protests against British policies, marking the beginning of organized resistance."
+      "explanation": "Jawaharlal Nehru was the first Prime Minister of India, serving from 1947 to 1964."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "question": "Which is the longest river in India?",
       "options": [
-        "Ganga",
-        "Ghaghara",
-        "Koshi",
-        "Son"
+        "Ganges",
+        "Godavari",
+        "Brahmaputra",
+        "Indus"
       ],
-      "correct": 3,
-      "explanation": "The Son River is called the 'Sorrow of Bihar' due to frequent flooding and associated problems."
+      "correct": 1,
+      "explanation": "The Godavari is the longest river in India, approximately 1,465 km long."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "The Thar Desert lies primarily in which Indian state?",
+      "question": "Which desert is the largest in India?",
       "options": [
-        "Rajasthan",
-        "Punjab",
-        "Gujarat",
-        "Haryana"
+        "Thar Desert",
+        "Rann of Kutch",
+        " desert of Ladakh",
+        "Kutch Desert"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert is mainly situated in Rajasthan."
+      "explanation": "The Thar Desert is the largest desert in India, covering parts of Rajasthan and Gujarat."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which is the most abundant mineral resource in India?",
+      "question": "Which climate zone is predominant in the Western Ghats?",
       "options": [
-        "Coal",
-        "Iron Ore",
-        "Bauxite",
-        "Mica"
+        "Tropical Rainforest",
+        "Desert",
+        "Tundra",
+        "Alpine"
       ],
       "correct": 0,
-      "explanation": "Coal is the most abundant mineral resource in India and a primary energy source."
+      "explanation": "The Western Ghats largely have a Tropical Rainforest climate due to high rainfall."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "The monsoon season in India is primarily driven by which atmospheric phenomenon?",
+      "question": "Which resource is most abundantly found in the Deccan Plateau?",
       "options": [
-        "Southwest monsoon",
-        "Northeast monsoon",
-        "Western Disturbance",
-        "Jet Stream"
+        "Coal",
+        "Iron Ore",
+        "Bauxite",
+        "Gold"
       ],
-      "correct": 0,
-      "explanation": "The Southwest monsoon is the main monsoon season that affects India, driven by the Indian Ocean's thermal low-pressure system."
+      "correct": 1,
+      "explanation": "The Deccan Plateau is rich in iron ore deposits."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Directive Principles of State Policy?",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "Article 36-51",
-        "Article 32",
-        "Article 368",
-        "Article 124"
+        "President of India",
+        "Prime Minister",
+        "Chief Justice of India",
+        "Parliament"
       ],
       "correct": 0,
-      "explanation": "Articles 36 to 51 in the Indian Constitution elaborate on Directive Principles of State Policy."
+      "explanation": "The President of India appoints the Chief Justice of India."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Election Commissioner of India?",
+      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
       "options": [
-        "The President",
-        "The Prime Minister",
-        "The Parliament",
-        "The Supreme Court"
+        "Articles 12-35",
+        "Articles 14-18",
+        "Articles 19-22",
+        "Articles 21-30"
       ],
       "correct": 0,
-      "explanation": "The President appoints the Chief Election Commissioner of India."
+      "explanation": "Articles 12 to 35 of the Indian Constitution define Fundamental Rights."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The 'Judicial Review' as a power of the judiciary was established by which Supreme Court case?",
+      "question": "Who is the current Speaker of the Lok Sabha?",
       "options": [
-        "Kesavananda Bharati case",
-        "Minerva Mills case",
-        "Marbury v. Madison",
-        "Raj Narain v. Lal Krishna Advani"
+        "Om Birla",
+        "M. Venkaiah Naidu",
+        "Smt. Sumitra Mahajan",
+        "P. D. T. Achary"
       ],
-      "correct": 2,
-      "explanation": "Marbury v. Madison (US case) established the principle of judicial review. In India, the Supreme Court affirmed this in various judgments, including Minerva Mills."
+      "correct": 0,
+      "explanation": "Om Birla has been the Speaker of the Lok Sabha since 2019."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which Panchayati Raj institution is directly elected by the people?",
+      "question": "Which body has the power to declare a law unconstitutional in India?",
       "options": [
-        "Gram Panchayat",
-        "Gram Sabha",
-        "Zila Parishad",
-        "Panchayat Samiti"
+        "Supreme Court",
+        "Parliament",
+        "President",
+        "Lok Sabha"
       ],
       "correct": 0,
-      "explanation": "The Gram Panchayat is directly elected by the local people."
+      "explanation": "The Supreme Court has the power of judicial review to declare laws unconstitutional."
     },
     {
       "id": 14,
       "category": "Indian Polity & Governance",
-      "question": "Which Fundamental Right guarantees the freedom of speech and expression?",
+      "question": "Which of the following is NOT a Fundamental Right in India?",
       "options": [
         "Right to Equality",
-        "Right to Freedom",
-        "Right against Exploitation",
-        "Cultural and Educational Rights"
+        "Right to Property",
+        "Right to Education",
+        "Right against Exploitation"
       ],
-      "correct": 1,
-      "explanation": "The Right to Freedom (Article 19) guarantees the freedom of speech and expression."
+      "correct": 2,
+      "explanation": "Right to Property was a Fundamental Right but was abolished as such by the 44th Amendment in 1978; now it's a legal right."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "India's Gross Domestic Product (GDP) is primarily calculated based on which approach?",
+      "question": "The Union Budget of India is presented by the:",
       "options": [
-        "Production approach",
-        "Income approach",
-        "Expenditure approach",
-        "All of the above"
+        "Finance Minister",
+        "Prime Minister",
+        "President",
+        "Chief Economic Adviser"
       ],
-      "correct": 3,
-      "explanation": "India's GDP is calculated using all three approaches: production, income, and expenditure."
+      "correct": 0,
+      "explanation": "The Finance Minister presents the Union Budget in Parliament."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "The 'Banking Regulation Act' was enacted in which year?",
+      "question": "Which sector contributes the most to India's GDP?",
       "options": [
-        "1949",
-        "1950",
-        "1934",
-        "1969"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Manufacturing"
       ],
-      "correct": 0,
-      "explanation": "The Banking Regulation Act was enacted in 1949 to regulate banking firms in India."
+      "correct": 2,
+      "explanation": "The services sector contributes the largest share to India's GDP."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "What does 'FPI' stand for in the context of Indian economy?",
+      "question": "Which organization is responsible for regulating the Indian banking system?",
       "options": [
-        "Foreign Portfolio Investment",
-        "Foreign Public Inquiry",
-        "Federal Public Initiative",
-        "Foreign Private Investment"
+        "Reserve Bank of India",
+        "Securities and Exchange Board of India",
+        "Ministry of Finance",
+        "Niti Aayog"
       ],
       "correct": 0,
-      "explanation": "'FPI' refers to Foreign Portfolio Investment, representing investment in financial assets from foreign investors."
+      "explanation": "The Reserve Bank of India (RBI) regulates banking and monetary policy."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "Which Five Year Plan emphasized 'Self-Reliance' in India?",
+      "question": "The term 'GDP' stands for:",
       "options": [
-        "First Five Year Plan",
-        "Second Five Year Plan",
-        "Third Five Year Plan",
-        "Fourth Five Year Plan"
+        "Gross Domestic Product",
+        "Gross Development Product",
+        "Growth Domestic Product",
+        "Gross Distributive Product"
       ],
-      "correct": 1,
-      "explanation": "The Second Five Year Plan (1956-1961) emphasized 'Self-Reliance' and rapid industrialization."
+      "correct": 0,
+      "explanation": "GDP stands for Gross Domestic Product, representing the total economic output."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which particle is responsible for carrying the force of electromagnetic interaction?",
+      "question": "Which fundamental force is responsible for binding protons and neutrons in the nucleus?",
       "options": [
-        "Photon",
-        "Electron",
-        "Proton",
-        "Neutron"
+        "Electromagnetic force",
+        "Strong nuclear force",
+        "Weak nuclear force",
+        "Gravitational force"
       ],
-      "correct": 0,
-      "explanation": "Photons are the force carriers for electromagnetic interactions."
+      "correct": 1,
+      "explanation": "The strong nuclear force binds protons and neutrons within the nucleus."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "The process of photosynthesis primarily occurs in which part of the plant?",
+      "question": "What is the primary chemical component of natural gas?",
       "options": [
-        "Roots",
-        "Stem",
-        "Leaves",
-        "Flowers"
+        "Methane",
+        "Ethane",
+        "Propane",
+        "Butane"
       ],
-      "correct": 2,
-      "explanation": "Photosynthesis mainly takes place in the leaves of plants."
+      "correct": 0,
+      "explanation": "Natural gas mostly consists of methane (CH4)."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which gas is the most abundant in Earth's atmosphere?",
+      "question": "Which biological process is responsible for the conversion of solar energy into chemical energy?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon Dioxide",
-        "Argon"
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Digestion"
       ],
       "correct": 1,
-      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, making it the most abundant gas."
+      "explanation": "Photosynthesis converts solar energy into chemical energy in plants."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which scientist is credited with the discovery of the law of gravity?",
+      "question": "Which technology is used in satellite communication?",
       "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Galileo Galilei",
-        "Johannes Kepler"
+        "Optical fiber",
+        "Radiofrequency transmission",
+        "Wi-Fi",
+        "Bluetooth"
       ],
-      "correct": 0,
-      "explanation": "Isaac Newton formulated the law of universal gravitation."
+      "correct": 1,
+      "explanation": "Radiofrequency transmission is used for satellite communication."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "The 'Kyoto Protocol' is primarily related to which global issue?",
+      "question": "Which Indian national park is known for the Bengal tiger?",
       "options": [
-        "Ozone depletion",
-        "Climate change",
-        "Deforestation",
-        "Loss of biodiversity"
+        "Jim Corbett National Park",
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Ranthambore National Park"
       ],
-      "correct": 1,
-      "explanation": "The Kyoto Protocol is an international treaty focused on reducing global greenhouse gas emissions and combating climate change."
+      "correct": 3,
+      "explanation": "Ranthambore National Park is famous for its Bengal tiger population."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which is the largest biodiversity hotspot in India?",
+      "question": "Which international agreement aims to combat climate change?",
       "options": [
-        "Western Ghats",
-        "Sundaland",
-        "Himalayas",
-        "Indo-Burma"
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Paris Agreement",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The Western Ghats is one of the eight biodiversity hotspots and the largest in India."
+      "correct": 3,
+      "explanation": "All listed protocols are international agreements addressing environmental issues."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "What is the primary purpose of the 'Environment Protection Act, 1986' in India?",
+      "question": "Which of the following is a critical habitat for the conservation of the Great Indian Bustard?",
       "options": [
-        "To regulate air and water pollution",
-        "To protect biodiversity",
-        "To control hazardous waste",
-        "All of the above"
+        "Thar Desert",
+        "Rann of Kutch",
+        "Deccan Plateau",
+        "Indo-Gangetic Plain"
       ],
-      "correct": 3,
-      "explanation": "The Environment Protection Act, 1986, provides a comprehensive framework to protect the environment, including air, water, waste, and biodiversity."
+      "correct": 0,
+      "explanation": "The Thar Desert hosts critical habitats for the Great Indian Bustard."
     },
     {
       "id": 26,
-      "category": "Current Affairs & GK",
-      "question": "Which Indian scheme aims to improve rural sanitation and open defecation free status?",
+      "category": "Environment & Ecology",
+      "question": "The Biodiversity Act of India was enacted in which year?",
       "options": [
-        "Swachh Bharat Abhiyan",
-        "Digital India",
-        "Make in India",
-        "Skill India"
+        "2000",
+        "2002",
+        "2006",
+        "2010"
       ],
-      "correct": 0,
-      "explanation": "Swachh Bharat Abhiyan is a nationwide campaign aimed at improving sanitation and eliminating open defecation."
+      "correct": 1,
+      "explanation": "India enacted the Biological Diversity Act in 2002 to protect biodiversity."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Which country hosted the G20 Summit in 2023?",
+      "question": "Who is the current President of India?",
       "options": [
-        "India",
-        "Germany",
-        "Japan",
-        "Brazil"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pratibha Patil",
+        "A.P.J. Abdul Kalam"
       ],
       "correct": 0,
-      "explanation": "India hosted the G20 Summit in 2023."
+      "explanation": "Droupadi Murmu has been President since 25 July 2022."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Who was awarded the Nobel Peace Prize in 2022?",
+      "question": "Who is serving as the current External Affairs Minister of India?",
       "options": [
-        "Ales Bialiatski",
-        "Maria Ressa",
-        "Dmitry Muratov",
-        "Abiy Ahmed"
+        "S. Jaishankar",
+        "Nirmala Sitharaman",
+        "Amit Shah",
+        "Rajnath Singh"
       ],
       "correct": 0,
-      "explanation": "Ales Bialiatski, from Belarus, was awarded the Nobel Peace Prize in 2022 for his efforts to represent civil society in Belarus."
+      "explanation": "S. Jaishankar is the current External Affairs Minister of India."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Which Indian sports personality won the gold medal in badminton at the Tokyo 2020 Olympics?",
+      "question": "Which sports personality won the 'Padma Bhushan' award in 2023?",
       "options": [
-        "P.V. Sindhu",
-        "Sania Mirza",
-        "Deepika Kumari",
-        "Mary Kom"
+        "Neeraj Chopra",
+        "Sachin Tendulkar",
+        "Virat Kohli",
+        "P.V. Sindhu"
       ],
       "correct": 0,
-      "explanation": "P.V. Sindhu won the gold medal in badminton women's singles at Tokyo 2020 Olympics."
+      "explanation": "Neeraj Chopra received the Padma Bhushan award in 2023."
+    },
+    {
+      "id": 30,
+      "category": "Current Affairs & GK",
+      "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
+      "options": [
+        "Odisha",
+        "West Bengal",
+        "Bihar",
+        "Chhattisgarh"
+      ],
+      "correct": 0,
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
     }
   ]
 }
