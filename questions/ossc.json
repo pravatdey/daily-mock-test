@@ -1,182 +1,156 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which is the largest river flowing through Odisha?",
+      "question": "Which river is considered the longest in Odisha?",
       "options": [
-        "Godavari",
         "Mahanadi",
-        "Krishna",
-        "Brahmani"
+        "Brahmani",
+        "Baitarani",
+        "Godavari"
       ],
-      "correct": 1,
-      "explanation": "The Mahanadi is the largest river flowing through Odisha, originating from Chhattisgarh and flowing into the Bay of Bengal."
+      "correct": 0,
+      "explanation": "Mahanadi is the longest river flowing entirely within Odisha, flowing through several districts before draining into the Bay of Bengal."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is primarily found in the Kandhamal district of Odisha?",
+      "question": "Which is the famous lake located in Puri district known for its religious significance?",
       "options": [
-        "Santal",
-        "Konds",
-        "Gonds",
-        "Oraons"
+        "Chilika Lake",
+        "Ramatirtha Lake",
+        "Tampara Lake",
+        "Kalijai Lake"
       ],
       "correct": 1,
-      "explanation": "The Konds are prominently found in Kandhamal district and are known for their distinct culture and traditions."
+      "explanation": "Ramatirtha Lake in Puri is famous for its religious significance and spiritual retreats."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "Which lake in Odisha is famous for its migratory birds and is located near Baripada?",
+      "question": "Which tribal community is predominantly found in the Mayurbhanj district of Odisha?",
       "options": [
-        "Chilika Lake",
-        "Bhitarkanika Lake",
-        "Kanjia Lake",
-        "Debadatta Lake"
+        "Santhal",
+        "Ho",
+        "Munda",
+        "Bhumij"
       ],
-      "correct": 2,
-      "explanation": "Kanjia Lake, near Baripada, is known for its rich biodiversity and migratory birds, especially during winter."
+      "correct": 3,
+      "explanation": "The Bhumij tribe is predominantly found in Mayurbhanj district, known for their distinct culture and traditions."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated to mark the Rath Yatra in Odisha?",
+      "question": "Which festival is celebrated with great enthusiasm in Odisha during the month of October?",
       "options": [
-        "Diwali",
-        "Durga Puja",
         "Rath Yatra",
-        "Holi"
+        "Durga Puja",
+        "Bali Jatra",
+        "Diwali"
       ],
-      "correct": 2,
-      "explanation": "The Rath Yatra is a famous festival in Odisha, especially in Puri, celebrating Lord Jagannath's chariot procession."
+      "correct": 0,
+      "explanation": "Rath Yatra, dedicated to Lord Jagannath, is celebrated with grand processions during July or October in Odisha."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Who among the following was a renowned Odia poet and philosopher?",
+      "question": "Who was the famous Odia freedom fighter and social reformer known for his contributions in the early 20th century?",
       "options": [
-        "Kabi Samrat Upendra Bhanja",
-        "Rabindranath Tagore",
-        "Bankim Chandra Chattopadhyay",
-        "Ram Kumar Ray"
+        "Utkal Gourav Madhusudan Das",
+        "Laxmi Prasad Devi",
+        "Gopabandhu Das",
+        "Biju Patnaik"
       ],
-      "correct": 0,
-      "explanation": "Kabi Samrat Upendra Bhanja was a celebrated Odia poet and philosopher from Odisha."
+      "correct": 2,
+      "explanation": "Gopabandhu Das was a prominent freedom fighter and social reformer from Odisha, known for his efforts in social upliftment."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which fort in Odisha is famous for its archaeological importance and is located in Bhubaneswar?",
+      "question": "Which UNESCO World Heritage Site is located in Odisha?",
       "options": [
-        "Udayagiri Fort",
-        "Barabati Fort",
-        "Rajarani Fort",
-        "Khandagiri Caves"
+        "Sun Temple, Konark",
+        "Khajuraho Temples",
+        "Hampi Monuments",
+        "Ajanta Caves"
       ],
-      "correct": 3,
-      "explanation": "The Khandagiri Caves are renowned archaeological sites in Bhubaneswar, with historical significance dating back to Jain monks."
+      "correct": 0,
+      "explanation": "The Sun Temple at Konark is a UNESCO World Heritage Site and an architectural marvel of Odisha."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "Which ancient Indian university was situated in Odisha?",
+      "question": "During which empire was the Ashoka Pillar erected in Odisha?",
       "options": [
-        "Takshashila",
-        "Nalanda",
-        "Ujjain",
-        "Kalinga University (Ancient)"
+        "Mauryan Empire",
+        "Gupta Empire",
+        "Mughal Empire",
+        "Chola Empire"
       ],
-      "correct": 3,
-      "explanation": "Kalinga University (Ancient) in Odisha was an important center of education in ancient India."
+      "correct": 0,
+      "explanation": "The Ashoka Pillar at Dhauli was erected during the Mauryan Empire, commemorating Emperor Ashoka's victory and conversion to Buddhism."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Who was the leader of the Revolt of 1857 from Odisha?",
+      "question": "Which medieval Indian king is associated with the construction of the Brihadeeswarar Temple?",
       "options": [
-        "Utkal Gourav Madhusudhan Das",
-        "Baji Rout",
-        "Jagabandhu Bidyadhar",
-        "Utkal Gourav Madhusudhan Das"
+        "Raja Raja Chola I",
+        "Chandragupta Maurya",
+        "Akbar",
+        "Harsha"
       ],
-      "correct": 2,
-      "explanation": "Jagabandhu Bidyadhar led the Paika Rebellion in Odisha during the 1857 revolt against British rule."
+      "correct": 0,
+      "explanation": "Raja Raja Chola I, of the Chola dynasty, built the Brihadeeswarar Temple in Tamil Nadu during the 11th century."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "Which heritage site in Odisha is a UNESCO World Heritage Site?",
+      "question": "Who was the leader of the Indian independence movement known for his 'Non-Cooperation Movement' in 1920?",
       "options": [
-        "Konark Sun Temple",
-        "Lingaraj Temple",
-        "Jagannath Temple",
-        "Udayagiri Caves"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bal Gangadhar Tilak",
+        "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "The Konark Sun Temple is a UNESCO World Heritage Site known for its architectural grandeur."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement aimed at resisting British rule through nonviolent protest."
     },
     {
       "id": 10,
       "category": "Indian History & Culture",
-      "question": "Which movement was associated with Mahatma Gandhi?",
+      "question": "Which heritage site in India is famous for its ancient rock-cut caves and Buddhist stupas?",
       "options": [
-        "Non-Cooperation Movement",
-        "Swadeshi Movement",
-        "Champaran Satyagraha",
-        "All of the above"
+        "Ellora Caves",
+        "Ajanta Caves",
+        "Sanchi Stupa",
+        "Khajuraho Temples"
       ],
-      "correct": 3,
-      "explanation": "All listed movements were part of Mahatma Gandhi’s efforts during India’s struggle for independence."
+      "correct": 1,
+      "explanation": "Ajanta Caves are renowned for their rock-cut Buddhist monasteries, chaityas, and exquisite paintings."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which is the highest mountain peak in India?",
+      "question": "Which mineral is most abundantly found in the Odisha region?",
       "options": [
-        "Kangchenjunga",
-        "Mount Everest",
-        "Nanda Devi",
-        "Dhaulagiri"
+        "Coal",
+        "Bauxite",
+        "Iron ore",
+        "Mica"
       ],
-      "correct": 1,
-      "explanation": "Mount Everest, located in the Himalayas, is the highest peak in India and the world."
+      "correct": 2,
+      "explanation": "Odisha is rich in iron ore deposits, making it a significant mineral resource for India."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Odisha has an industry-rich soil type known as?",
-      "options": [
-        "Alluvial Soil",
-        "Black Soil",
-        "Laterite Soil",
-        "Desert Soil"
-      ],
-      "correct": 2,
-      "explanation": "Odisha predominantly has Laterite soil, suitable for certain crops and mineral deposits."
-    },
-    {
-      "id": 13,
-      "category": "Geography",
-      "question": "Which mineral is most abundantly found in Odisha?",
-      "options": [
-        "Coal",
-        "Bauxite",
-        "Chromite",
-        "Iron Ore"
-      ],
-      "correct": 4,
-      "explanation": "Odisha is rich in Iron Ore deposits, making it a leading producer in India."
-    },
-    {
-      "id": 14,
-      "category": "Geography",
-      "question": "Which climate zone does Odisha primarily fall under?",
+      "question": "Which climate zone is prevalent in Odisha?",
       "options": [
         "Tropical monsoon",
         "Desert",
@@ -184,215 +158,241 @@
         "Tundra"
       ],
       "correct": 0,
-      "explanation": "Odisha experiences a Tropical monsoon climate with heavy seasonal rainfall."
+      "explanation": "Odisha predominantly has a tropical monsoon climate with heavy rainfall during the monsoon season."
+    },
+    {
+      "id": 13,
+      "category": "Geography",
+      "question": "The Godavari River flows into which body of water?",
+      "options": [
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Indian Ocean",
+        "Persian Gulf"
+      ],
+      "correct": 1,
+      "explanation": "The Godavari River flows eastward into the Bay of Bengal after traversing several states."
+    },
+    {
+      "id": 14,
+      "category": "Geography",
+      "question": "Which soil type is most suitable for rice cultivation in Odisha?",
+      "options": [
+        "Alluvial soil",
+        "Laterite soil",
+        "Black soil",
+        "Red soil"
+      ],
+      "correct": 0,
+      "explanation": "Alluvial soil, found in the river valleys of Odisha, is highly fertile and ideal for rice cultivation."
     },
     {
       "id": 15,
-      "category": "Indian Polity & Constitution",
-      "question": "Which article of the Indian Constitution guarantees Fundamental Rights?",
-      "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "Articles 14, 19, 21 and others collectively guarantee Fundamental Rights under the Constitution."
-    },
-    {
-      "id": 16,
       "category": "Indian Polity & Constitution",
       "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "A.P.J. Abdul Kalam"
+        "Ram Nath Reddy"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+      "explanation": "Droupadi Murmu has been serving as the President of India since 25 July 2022."
+    },
+    {
+      "id": 16,
+      "category": "Indian Polity & Constitution",
+      "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Articles 12-35",
+        "Article 368"
+      ],
+      "correct": 2,
+      "explanation": "Articles 12-35 of the Indian Constitution specifically deal with Fundamental Rights."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Which part of the Indian Constitution deals with the Directive Principles of State Policy?",
+      "question": "Who has the power to dissolve the Lok Sabha in India?",
       "options": [
-        "Part III",
-        "Part IV",
-        "Part V",
-        "Part VI"
+        "President",
+        "Prime Minister",
+        "Chief Justice of India",
+        "Lok Sabha Speaker"
       ],
-      "correct": 1,
-      "explanation": "Part IV of the Indian Constitution deals with Directive Principles of State Policy."
+      "correct": 0,
+      "explanation": "The President of India has the authority to dissolve the Lok Sabha on the advice of the Prime Minister."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "How many members are there in the Lok Sabha?",
+      "question": "Which body is responsible for the preparation of the Delimitation of constituencies in India?",
       "options": [
-        "545",
-        "545 plus nominated members",
-        "552",
-        "530"
+        "Election Commission",
+        "Delimitation Commission",
+        "Supreme Court",
+        "Parliament"
       ],
       "correct": 1,
-      "explanation": "The Lok Sabha has 545 elected members plus some nominated members, totaling 545+."
+      "explanation": "The Delimitation Commission is responsible for redrawing the boundaries of various assembly and Lok Sabha constituencies."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "What is the basic unit of life in biology?",
+      "question": "Which gas is most commonly used in the process of photosynthesis?",
       "options": [
-        "Atom",
-        "Cell",
-        "Molecule",
-        "Tissue"
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Hydrogen"
       ],
       "correct": 1,
-      "explanation": "The cell is the basic structural and functional unit of all living organisms."
+      "explanation": "Carbon dioxide is essential for photosynthesis, where plants convert it into oxygen and glucose."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which gas is most responsible for the greenhouse effect?",
+      "question": "What is the primary function of red blood cells?",
       "options": [
-        "Oxygen",
-        "Carbon dioxide",
-        "Nitrogen",
-        "Argon"
+        "Fight infections",
+        "Transport oxygen",
+        "Clot blood",
+        "Transmit nerve signals"
       ],
       "correct": 1,
-      "explanation": "Carbon dioxide is the primary greenhouse gas responsible for global warming."
+      "explanation": "Red blood cells primarily transport oxygen from lungs to body tissues."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which vitamin is mainly produced when the skin is exposed to sunlight?",
+      "question": "Which element is a major component of the air we breathe?",
       "options": [
-        "Vitamin A",
-        "Vitamin B",
-        "Vitamin C",
-        "Vitamin D"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon",
+        "Helium"
       ],
-      "correct": 3,
-      "explanation": "Vitamin D is synthesized in the skin upon exposure to sunlight."
+      "correct": 1,
+      "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere, making it the most abundant component."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which disease is caused by deficiency of Vitamin C?",
+      "question": "Which vitamin is primarily synthesized in the human skin upon exposure to sunlight?",
       "options": [
-        "Rickets",
-        "Scurvy",
-        "Anemia",
-        "Night blindness"
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin D",
+        "Vitamin C"
       ],
-      "correct": 1,
-      "explanation": "Vitamin C deficiency causes Scurvy, characterized by weakness and bleeding gums."
+      "correct": 2,
+      "explanation": "Vitamin D is synthesized in the skin when exposed to sunlight, aiding calcium absorption."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
-      "question": "What comes next in the series: 2, 4, 8, 16, ?",
+      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
       "options": [
-        "32",
         "24",
-        "30",
-        "28"
+        "32",
+        "18",
+        "20"
       ],
-      "correct": 0,
-      "explanation": "The series doubles each time; next is 32."
+      "correct": 1,
+      "explanation": "The series doubles each time (2×2=4, 4×2=8, 8×2=16), so next is 16×2=32."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a certain code, 'ODISHA' is written as 'PJEITB', what is the code for 'RAJ?'",
+      "question": "If in a certain code, 'ODISHA' is written as 'RGLVKB', how is 'REPUBLIC' written?",
       "options": [
-        "QBL",
-        "QCK",
-        "QAL",
-        "QDM"
+        "TGVJOMC",
+        "TGVJKMC",
+        "SGVJOMC",
+        "TGVKJMC"
       ],
-      "correct": 2,
-      "explanation": "The pattern involves shifting letters; 'R' to 'Q' (-1), 'A' to 'B' (+1), 'J' to 'L' (+2). Applying similar logic yields 'QAL'."
+      "correct": 0,
+      "explanation": "Pattern involves shifting letters; applying the same shift gives 'TGVJOMC' for 'REPUBLIC'."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "If 'Mother' is coded as 'Npqstg', what is the code for 'Father'?",
+      "question": "In a certain language, 'BLOOD' is written as 'CMPPJ'. How is 'BLOOD' written?",
       "options": [
-        "Gbtg",
-        "Gvsg",
-        "Gthu",
-        "Gstg"
+        "CMPQK",
+        "CMPPL",
+        "CMPJ",
+        "DNNQE"
       ],
-      "correct": 1,
-      "explanation": "Pattern involves shifting each letter; 'F' (+1) gives 'G,' 'a' (+1) gives 'v', etc., resulting in 'Gvsg'."
+      "correct": 2,
+      "explanation": "Each letter is shifted forward by one position, so 'BLOOD' becomes 'CMPJ'."
     },
     {
       "id": 26,
-      "category": "Current Affairs",
-      "question": "Who is the current Chief Minister of Odisha?",
+      "category": "Mental Ability & Reasoning",
+      "question": "If the day after tomorrow is Saturday, what day was yesterday?",
       "options": [
-        "Naveen Patnaik",
-        "Mohan Charan Majhi",
-        "Nirmala Sitharaman",
-        "Biplab Kumar Deb"
+        "Monday",
+        "Sunday",
+        "Tuesday",
+        "Wednesday"
       ],
       "correct": 1,
-      "explanation": "Mohan Charan Majhi has been the Chief Minister of Odisha since 12 June 2024."
+      "explanation": "Day after tomorrow is Saturday; so today is Thursday, meaning yesterday was Wednesday."
     },
     {
       "id": 27,
       "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India for financial inclusion in rural areas?",
+      "question": "Who is the current Chief Minister of Odisha as of June 2026?",
       "options": [
-        "Pradhan Mantri Jan Dhan Yojana",
-        "Swachh Bharat Abhiyan",
-        "Make in India",
-        "Digital India"
+        "Naveen Patnaik",
+        "Mohan Charan Majhi",
+        "Nirmala Sitharaman",
+        "Pinarayi Vijayan"
       ],
-      "correct": 0,
-      "explanation": "Pradhan Mantri Jan Dhan Yojana aims at increasing financial inclusion by opening bank accounts for the unbanked."
+      "correct": 1,
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha as of June 2026."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Who won the prestigious Arjuna Award in 2025?",
+      "question": "Who is the current President of India?",
       "options": [
-        "Neeraj Chopra",
-        "PV Sindhu",
-        "Mary Kom",
-        "Rohit Sharma"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "Shankar Dayal Sharma"
       ],
       "correct": 0,
-      "explanation": "Neeraj Chopra, the Olympic medalist, was awarded the Arjuna Award in 2025 for his excellence in athletics."
+      "explanation": "Droupadi Murmu has been serving as the President of India since 25 July 2022."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Which recent event was held in Odisha in 2025 to promote tourism?",
+      "question": "Which scheme was launched by the Government of India in 2023 to promote digital payments?",
       "options": [
-        "Odisha State Tourism Campaign",
-        "Odisha International Sports Meet",
-        "Odisha Cultural Fest",
-        "Odisha Wildlife Festival"
+        "Digital India Scheme",
+        "PM Awas Yojana",
+        "Startup India",
+        "Make in India"
       ],
-      "correct": 2,
-      "explanation": "The Odisha Cultural Fest was organized in 2025 to showcase Odisha's rich cultural heritage and promote tourism."
+      "correct": 0,
+      "explanation": "The Digital India Scheme aims to promote digital infrastructure and payments across India."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "Which Indian athlete qualified for the 2024 Paris Olympics from Odisha?",
+      "question": "Which recent award was conferred upon Indian athlete Neeraj Chopra in 2024?",
       "options": [
-        "Dutee Chand",
-        "Pravasi Das",
-        "Sudarshan Patnaik",
-        "Anju Devi"
+        "Padma Shri",
+        "Rajiv Gandhi Khel Ratna",
+        "Arjuna Award",
+        "Dronacharya Award"
       ],
-      "correct": 0,
-      "explanation": "Dutee Chand, an acclaimed sprinter from Odisha, qualified for the 2024 Paris Olympics."
+      "correct": 1,
+      "explanation": "Neeraj Chopra received the Rajiv Gandhi Khel Ratna, India's highest sporting honor, in 2024."
     }
   ]
 }
