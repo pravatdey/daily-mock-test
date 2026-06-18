@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Indian History",
-      "question": "Who was the founder of the Maurya Empire in India?",
+      "category": "Indian History (Ancient)",
+      "question": "Which ancient Indian university was renowned for its library and teachings during the Gupta period?",
       "options": [
-        "Chandragupta Maurya",
-        "Ashoka the Great",
-        "Bindusara",
-        "Bimbisara"
+        "Takshashila",
+        "Nalanda",
+        "Vikramashila",
+        "Valabhi"
       ],
-      "correct": 0,
-      "explanation": "Chandragupta Maurya founded the Maurya Empire around 322 BCE, establishing one of the largest empires in Indian history."
+      "correct": 1,
+      "explanation": "Nalanda was one of the world's first residential universities and was famous during the Gupta era for its extensive library and scholarly activities."
     },
     {
       "id": 2,
-      "category": "Indian History",
-      "question": "The Battle of Plassey was fought in which year?",
+      "category": "Indian History (Medieval)",
+      "question": "Who founded the Mughal Empire in India?",
       "options": [
-        "1757",
-        "1761",
-        "1748",
-        "1775"
+        "Babur",
+        "Akbar",
+        "Humayun",
+        "Shah Jahan"
       ],
       "correct": 0,
-      "explanation": "The Battle of Plassey was fought in 1757, marking the beginning of British political dominance in India."
+      "explanation": "Babur, a descendant of Timur and Genghis Khan, founded the Mughal Empire in 1526 after the Battle of Panipat."
     },
     {
       "id": 3,
-      "category": "Indian History",
-      "question": "Who was the main architect of the Indian Constitution?",
+      "category": "Indian History (Modern)",
+      "question": "The Non-Cooperation Movement was launched in India in which year?",
       "options": [
-        "Jawaharlal Nehru",
-        "Dr. B.R. Ambedkar",
-        "Mahatma Gandhi",
-        "Sardar Patel"
+        "1920",
+        "1919",
+        "1930",
+        "1925"
       ],
-      "correct": 1,
-      "explanation": "Dr. B.R. Ambedkar is considered the chief architect of the Indian Constitution due to his leading role in drafting it."
+      "correct": 0,
+      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920 as a protest against British policies."
     },
     {
       "id": 4,
-      "category": "Indian History",
-      "question": "Which movement was launched by Mahatma Gandhi in 1930?",
+      "category": "Indian History (Freedom Struggle)",
+      "question": "Who was the leader of the Salt Satyagraha in 1930?",
       "options": [
-        "Non-Cooperation Movement",
-        "Salt Satyagraha",
-        "Quit India Movement",
-        "Champaran Satyagraha"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
       ],
       "correct": 1,
-      "explanation": "The Salt Satyagraha, also known as Dandi March, was launched in 1930 as a protest against salt taxes."
+      "explanation": "Mahatma Gandhi led the Salt Satyagraha, also known as Dandi March, in 1930 to protest against salt taxes."
     },
     {
       "id": 5,
-      "category": "Indian History",
-      "question": "When did India gain independence from British rule?",
+      "category": "Indian Geography (Physical & Resources)",
+      "question": "Which river is known as the 'Sorrow of Bengal' due to frequent flooding?",
       "options": [
-        "15 August 1947",
-        "26 January 1950",
-        "26 November 1947",
-        "15 August 1950"
+        "Ganges",
+        "Brahmaputra",
+        "Godavari",
+        "Indus"
       ],
-      "correct": 0,
-      "explanation": "India gained independence from British rule on 15 August 1947."
+      "correct": 1,
+      "explanation": "The Brahmaputra River causes extensive flooding in Assam and Bangladesh, earning it the name 'Sorrow of Bengal'."
     },
     {
       "id": 6,
-      "category": "Indian Geography",
-      "question": "Which river is the longest in India?",
+      "category": "Indian Geography (Climate & Rivers)",
+      "question": "Which of the following is primarily responsible for the monsoon winds in India?",
       "options": [
-        "Ganges",
-        "Indus",
-        "Brahmaputra",
-        "Godavari"
+        "Western Disturbances",
+        "Trade Winds",
+        "Southwest Monsoon",
+        "Jet Streams"
       ],
-      "correct": 1,
-      "explanation": "The Indus River, primarily flowing through Pakistan, originates in Tibet but its main tributary within India is the Shyok, making the Indus system the longest; however, the Ganges is often considered the longest river entirely in India. The correct answer here is Indus as per the primary question context."
+      "correct": 2,
+      "explanation": "The Southwest Monsoon winds, originating from the Indian Ocean, bring heavy rainfall to India from June to September."
     },
     {
       "id": 7,
-      "category": "Indian Geography",
-      "question": "Which is the most mineral-rich state in India?",
+      "category": "Indian Geography (Economy & Resources)",
+      "question": "Which Indian state is the largest producer of Coal?",
       "options": [
         "Jharkhand",
-        "Rajasthan",
         "Odisha",
-        "Chhattisgarh"
+        "Chhattisgarh",
+        "West Bengal"
       ],
-      "correct": 2,
-      "explanation": "Odisha is rich in minerals like bauxite, iron ore, and chromite, making it one of the mineral-rich states."
+      "correct": 1,
+      "explanation": "Odisha is the largest producer of coal in India, contributing significantly to the country's coal output."
     },
     {
       "id": 8,
-      "category": "Indian Geography",
-      "question": "The Thar Desert is primarily located in which Indian state?",
+      "category": "Indian Geography (Physical features & Resources)",
+      "question": "Which is the longest river in India?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Ganges",
+        "Godavari",
+        "Yamuna",
+        "Brahmaputra"
       ],
-      "correct": 0,
-      "explanation": "The Thar Desert is mainly located in Rajasthan, covering parts of Gujarat, Punjab, and Haryana."
+      "correct": 1,
+      "explanation": "The Godavari River, about 1,465 km long, is the longest river flowing entirely within India."
     },
     {
       "id": 9,
-      "category": "Indian Geography",
-      "question": "Which monsoon winds are responsible for most of the rainfall in India?",
+      "category": "Indian Polity & Governance",
+      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
       "options": [
-        "North-East monsoon",
-        "South-West monsoon",
-        "North-West monsoon",
-        "East-West monsoon"
+        "The President of India",
+        "The Vice President of India",
+        "The Prime Minister",
+        "The Speaker of Lok Sabha"
       ],
       "correct": 1,
-      "explanation": "The South-West monsoon winds bring the majority of the rainfall to India during the monsoon season."
+      "explanation": "The Vice President of India is the ex-officio Chairman of the Rajya Sabha as per the Indian Constitution."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "What is the maximum number of members in the Lok Sabha?",
+      "question": "The concept of 'Judicial Review' in India was established by which Supreme Court case?",
       "options": [
-        "552",
-        "545",
-        "550",
-        "570"
+        "Kesavananda Bharati v. State of Kerala",
+        "Minerva Mills Ltd. v. Union of India",
+        "S.P. Gupta v. Union of India",
+        "Marbury v. Madison"
       ],
-      "correct": 1,
-      "explanation": "The maximum strength of the Lok Sabha is 552, including seats for appointed members and the President's seat."
+      "correct": 2,
+      "explanation": "In Minerva Mills Ltd. v. Union of India (1980), the Supreme Court reaffirmed the power of Judicial Review."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Right to Equality?",
+      "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 32"
+        "Article 12",
+        "Articles 14 to 18",
+        "Articles 19 to 22",
+        "Articles 32"
       ],
-      "correct": 0,
-      "explanation": "Article 14 guarantees equality before the law and equal protection of laws within the territory of India."
+      "correct": 1,
+      "explanation": "Articles 14 to 18 of the Indian Constitution deal with the Fundamental Rights regarding equality and freedom."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "Who appoints the Chief Election Commissioner of India?",
       "options": [
         "The President of India",
+        "The Parliament",
         "The Prime Minister",
-        "The Supreme Court Collegium",
-        "The Parliament"
+        "The Supreme Court"
       ],
       "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India based on the Collegium’s recommendation."
+      "explanation": "The Chief Election Commissioner is appointed by the President of India."
     },
     {
       "id": 13,
-      "category": "Indian Polity & Governance",
-      "question": "Which body is responsible for the financial control of the Union Government?",
+      "category": "Indian Economy",
+      "question": "What is the main objective of the Fiscal Responsibility and Budget Management (FRBM) Act, 2003?",
       "options": [
-        "Parliament",
-        "Comptroller and Auditor-General",
-        "Finance Ministry",
-        "Reserve Bank of India"
+        "Control inflation",
+        "Reduce fiscal deficit",
+        "Promote foreign investment",
+        "Enhance GDP growth"
       ],
       "correct": 1,
-      "explanation": "The Comptroller and Auditor-General (CAG) audits the accounts of the Union Government and its agencies."
+      "explanation": "FRBM Act aims to reduce fiscal deficit and ensure fiscal discipline among the government."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "What is the main function of Panchayati Raj institutions?",
+      "category": "Indian Economy",
+      "question": "Which organization publishes the 'Financial Stability Report' in India?",
       "options": [
-        "Legislative authority",
-        "Implementing local governance in rural areas",
-        "Judicial authority",
-        "Military organization"
+        "RBI",
+        "SEBI",
+        "Ministry of Finance",
+        "NITI Aayog"
       ],
-      "correct": 1,
-      "explanation": "Panchayati Raj institutions are responsible for local self-governance in rural areas."
+      "correct": 0,
+      "explanation": "The Reserve Bank of India (RBI) publishes the 'Financial Stability Report' biannually."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "India's Gross Domestic Product (GDP) is measured by which of the following?",
+      "question": "India's GDP is primarily contributed by which sector?",
       "options": [
-        "Net National Income",
-        "Total value of goods and services produced",
-        "Per Capita Income",
-        "Gross National Happiness"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Manufacturing"
       ],
-      "correct": 1,
-      "explanation": "GDP measures the total value of goods and services produced within a country in a specific period."
+      "correct": 2,
+      "explanation": "The services sector contributes the largest share to India’s GDP, followed by industry and agriculture."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "The 'Pradhan Mantri Jan Dhan Yojana' primarily aims to promote:",
+      "question": "The 'Make in India' initiative was launched in which year?",
       "options": [
-        "Digital payments",
-        "Financial inclusion",
-        "Agricultural development",
-        "Skill development"
+        "2014",
+        "2015",
+        "2016",
+        "2017"
       ],
-      "correct": 1,
-      "explanation": "Jan Dhan Yojana aims to promote financial inclusion by providing banking services to the unbanked population."
+      "correct": 0,
+      "explanation": "'Make in India' was launched by the Government of India in 2014 to promote manufacturing."
     },
     {
       "id": 17,
-      "category": "Indian Economy",
-      "question": "What is the primary purpose of the Goods and Services Tax (GST) in India?",
+      "category": "General Science (Physics & Chemistry)",
+      "question": "Which law explains the phenomenon of electromagnetic induction?",
       "options": [
-        "Reduce inflation",
-        "Simplify indirect taxation",
-        "Control fiscal deficit",
-        "Promote exports"
+        "Faraday's Law",
+        "Ohm's Law",
+        "Lenz's Law",
+        "Newton's Law"
       ],
-      "correct": 1,
-      "explanation": "GST replaces multiple indirect taxes with a single tax, simplifying the tax structure."
+      "correct": 0,
+      "explanation": "Faraday's Law of Electromagnetic Induction states that a changing magnetic flux induces an electromotive force."
     },
     {
       "id": 18,
-      "category": "Indian Economy",
-      "question": "Which organization is responsible for controlling inflation and monetary policy in India?",
+      "category": "General Science (Biology & Space)",
+      "question": "Which part of the human cell is responsible for energy production?",
       "options": [
-        "Ministry of Finance",
-        "Reserve Bank of India",
-        "Planning Commission",
-        "NITI Aayog"
+        "Nucleus",
+        "Mitochondria",
+        "Ribosomes",
+        "Golgi Apparatus"
       ],
       "correct": 1,
-      "explanation": "The Reserve Bank of India (RBI) manages monetary policy and controls inflation."
+      "explanation": "Mitochondria are known as the powerhouse of the cell because they produce energy (ATP)."
     },
     {
       "id": 19,
-      "category": "General Science",
-      "question": "Which law explains the relationship between pressure and volume of a gas at constant temperature?",
+      "category": "General Science (Physics & Technology)",
+      "question": "The principle of laser is based on which phenomena?",
       "options": [
-        "Boyle’s Law",
-        "Charles’s Law",
-        "Avogadro’s Law",
-        "Newton’s Law"
+        "Spontaneous emission",
+        "Stimulated emission",
+        "Reflection",
+        "Diffraction"
       ],
-      "correct": 0,
-      "explanation": "Boyle’s Law states that pressure and volume are inversely proportional at constant temperature."
+      "correct": 1,
+      "explanation": "Laser operates on the principle of stimulated emission of photons."
     },
     {
       "id": 20,
-      "category": "General Science",
-      "question": "What is the main chemical component of natural gas?",
+      "category": "General Science (Chemistry & Space)",
+      "question": "Which planet is known as the 'Red Planet'?",
       "options": [
-        "Methane",
-        "Ethane",
-        "Propane",
-        "Butane"
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 0,
-      "explanation": "Natural gas primarily consists of methane."
+      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide on its surface."
     },
     {
       "id": 21,
-      "category": "General Science",
-      "question": "Which part of the human body is primarily responsible for the production of insulin?",
-      "options": [
-        "Liver",
-        "Pancreas",
-        "Kidney",
-        "Stomach"
-      ],
-      "correct": 1,
-      "explanation": "The pancreas produces insulin, which regulates blood sugar levels."
-    },
-    {
-      "id": 22,
-      "category": "General Science",
-      "question": "Which satellite was launched by India in 2013 for navigation purposes?",
-      "options": [
-        "Cartosat-2",
-        "RISAT-1",
-        "IRNSS-1",
-        "GSAT-7"
-      ],
-      "correct": 2,
-      "explanation": "IRNSS-1 (Indian Regional Navigation Satellite System) was launched to provide regional navigation services."
-    },
-    {
-      "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which is the most biodiverse country in the world?",
-      "options": [
-        "Brazil",
-        "India",
-        "Indonesia",
-        "Democratic Republic of Congo"
-      ],
-      "correct": 0,
-      "explanation": "Brazil is considered the most biodiverse country due to its extensive rainforests and ecosystems."
-    },
-    {
-      "id": 24,
-      "category": "Environment & Ecology",
-      "question": "The Kyoto Protocol is an international agreement related to which issue?",
-      "options": [
-        "Ozone depletion",
-        "Climate change and greenhouse gases",
-        "Marine pollution",
-        "Desertification"
-      ],
-      "correct": 1,
-      "explanation": "The Kyoto Protocol aims to reduce greenhouse gas emissions and combat climate change."
-    },
-    {
-      "id": 25,
-      "category": "Environment & Ecology",
-      "question": "Which national park is known for the Bengal tiger?",
+      "question": "Which national park is famous for Bengal tiger conservation in India?",
       "options": [
         "Jim Corbett National Park",
         "Sundarbans National Park",
         "Kaziranga National Park",
-        "Gir National Park"
+        "Ranthambore National Park"
       ],
       "correct": 1,
-      "explanation": "Sundarbans National Park is famous for its Royal Bengal tigers and mangrove forests."
+      "explanation": "Sundarbans National Park is renowned for its Bengal tiger population and mangrove ecosystem."
+    },
+    {
+      "id": 22,
+      "category": "Environment & Ecology",
+      "question": "Which treaty aims to protect biodiversity and combat illegal trade in wildlife?",
+      "options": [
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Montreal Protocol"
+      ],
+      "correct": 0,
+      "explanation": "CITES (Convention on International Trade in Endangered Species) regulates and prohibits illegal wildlife trade."
+    },
+    {
+      "id": 23,
+      "category": "Environment & Ecology",
+      "question": "Which of the following is a non-renewable resource?",
+      "options": [
+        "Wind energy",
+        "Solar energy",
+        "Coal",
+        "Biomass"
+      ],
+      "correct": 2,
+      "explanation": "Coal is a non-renewable resource formed over millions of years and limited in quantity."
+    },
+    {
+      "id": 24,
+      "category": "Environment & Ecology",
+      "question": "The Kyoto Protocol is associated with which environmental issue?",
+      "options": [
+        "Ozone depletion",
+        "Global warming",
+        "Deforestation",
+        "Pollution control"
+      ],
+      "correct": 1,
+      "explanation": "The Kyoto Protocol addresses global warming by reducing greenhouse gas emissions."
+    },
+    {
+      "id": 25,
+      "category": "Current Affairs & GK",
+      "question": "Who is the current President of India as of June 2026?",
+      "options": [
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "Ramnath Kovind"
+      ],
+      "correct": 0,
+      "explanation": "Droupadi Murmu has been serving as the President of India since 25 July 2022."
     },
     {
       "id": 26,
-      "category": "Environment & Ecology",
-      "question": "Which environmental law prohibits the use of chlorofluorocarbons (CFCs)?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Prime Minister of India?",
       "options": [
-        "Wildlife Protection Act",
-        "Environment Protection Act",
-        "Montreal Protocol",
-        "Air Act"
+        "Narendra Modi",
+        "Manmohan Singh",
+        "Amit Shah",
+        "Rahul Gandhi"
       ],
-      "correct": 2,
-      "explanation": "The Montreal Protocol aims to phase out substances like CFCs that deplete the ozone layer."
+      "correct": 0,
+      "explanation": "Narendra Modi has been the Prime Minister of India since 26 May 2014."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Which country hosted the G20 summit in 2023?",
+      "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
       "options": [
-        "India",
-        "Japan",
-        "France",
-        "Germany"
+        "Odisha",
+        "West Bengal",
+        "Bihar",
+        "Chhattisgarh"
       ],
       "correct": 0,
-      "explanation": "India hosted the G20 summit in 2023, highlighting its global economic role."
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Which award is given for the best debut film at the National Film Awards?",
+      "question": "Who is the current External Affairs Minister of India?",
       "options": [
-        "Best Actor",
-        "Best Debut Film",
-        "Best Direction",
-        "Best Music"
+        "S. Jaishankar",
+        "Nirmala Sitharaman",
+        "Amit Shah",
+        "Subrahmanyam Jaishankar"
       ],
-      "correct": 1,
-      "explanation": "The Best Debut Film award recognizes the best first film by a director."
+      "correct": 0,
+      "explanation": "S. Jaishankar is the current External Affairs Minister of India since 2019."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Who is the current President of the International Olympic Committee (IOC) as of 2026?",
+      "question": "Who is the current Chief Justice of India (judge) as of June 2026?",
       "options": [
-        "Thomas Bach",
-        "Sepp Blatter",
-        "Jacques Rogge",
-        "John Coates"
+        "Surya Kant",
+        "D. Y. Chandrachud",
+        "John Roberts",
+        "Ranjan Gogoi"
       ],
       "correct": 0,
-      "explanation": "Thomas Bach is the President of the IOC since 2013."
+      "explanation": "Surya Kant is serving as the Chief Justice of India since 24 November 2025."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Which scheme launched by India in 2022 aims to promote digital literacy?",
+      "question": "Who is the current Vice President of India?",
       "options": [
-        "Digital India",
-        "BharatNet",
-        "PMGDISHA",
-        "Startup India"
+        "C. P. Radhakrishnan",
+        "V. Venkiah Naidu",
+        "Hamid Ansari",
+        "M. Venkaiah Naidu"
       ],
-      "correct": 2,
-      "explanation": "PMGDISHA (Pradhan Mantri Gramin Digital Saksharta Abhiyan) aims to make rural India digitally literate."
+      "correct": 0,
+      "explanation": "C. P. Radhakrishnan has been serving as the Vice President since 12 September 2025."
     }
   ]
 }
