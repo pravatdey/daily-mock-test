@@ -1,26 +1,26 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Indian History (Ancient)",
-      "question": "Which ancient Indian university was renowned for its library and teachings during the Gupta period?",
+      "category": "Indian History",
+      "question": "Which ancient Indian text is primarily a collection of hymns dedicated to various deities?",
       "options": [
-        "Takshashila",
-        "Nalanda",
-        "Vikramashila",
-        "Valabhi"
+        "Arthashastra",
+        "Vedas",
+        "Upanishads",
+        "Puranas"
       ],
       "correct": 1,
-      "explanation": "Nalanda was one of the world's first residential universities and was famous during the Gupta era for its extensive library and scholarly activities."
+      "explanation": "The Vedas are a collection of hymns and mantras dedicated to deities, making them the primary ancient texts of hymns in India."
     },
     {
       "id": 2,
-      "category": "Indian History (Medieval)",
-      "question": "Who founded the Mughal Empire in India?",
+      "category": "Indian History",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
         "Babur",
         "Akbar",
@@ -28,168 +28,181 @@
         "Shah Jahan"
       ],
       "correct": 0,
-      "explanation": "Babur, a descendant of Timur and Genghis Khan, founded the Mughal Empire in 1526 after the Battle of Panipat."
+      "explanation": "Babur founded the Mughal Empire in India after his victory at Panipat in 1526."
     },
     {
       "id": 3,
-      "category": "Indian History (Modern)",
-      "question": "The Non-Cooperation Movement was launched in India in which year?",
+      "category": "Indian History",
+      "question": "The Indian National Congress was founded in which year?",
       "options": [
+        "1885",
+        "1905",
         "1920",
-        "1919",
-        "1930",
-        "1925"
+        "1857"
       ],
       "correct": 0,
-      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920 as a protest against British policies."
+      "explanation": "The Indian National Congress was founded in 1885, marking the beginning of organized political activity against British rule."
     },
     {
       "id": 4,
-      "category": "Indian History (Freedom Struggle)",
-      "question": "Who was the leader of the Salt Satyagraha in 1930?",
+      "category": "Indian History",
+      "question": "Which movement is associated with Mahatma Gandhi's call for non-cooperation by Indians?",
       "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Bhagat Singh"
+        "Civil Disobedience Movement",
+        "Non-Cooperation Movement",
+        "Quit India Movement",
+        "Champaran Satyagraha"
       ],
       "correct": 1,
-      "explanation": "Mahatma Gandhi led the Salt Satyagraha, also known as Dandi March, in 1930 to protest against salt taxes."
+      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920 to resist British rule through non-violent means."
     },
     {
       "id": 5,
-      "category": "Indian Geography (Physical & Resources)",
-      "question": "Which river is known as the 'Sorrow of Bengal' due to frequent flooding?",
+      "category": "Indian History",
+      "question": "The Rowlatt Act of 1919 led to which of the following?",
       "options": [
-        "Ganges",
-        "Brahmaputra",
-        "Godavari",
-        "Indus"
+        "Jallianwala Bagh massacre",
+        "Mass protests and unrest",
+        "Partition of Bengal",
+        "Formation of Indian Constitution"
       ],
       "correct": 1,
-      "explanation": "The Brahmaputra River causes extensive flooding in Assam and Bangladesh, earning it the name 'Sorrow of Bengal'."
+      "explanation": "The Rowlatt Act allowed imprisonment without trial, leading to widespread protests and unrest, including the Jallianwala Bagh massacre."
     },
     {
       "id": 6,
-      "category": "Indian Geography (Climate & Rivers)",
-      "question": "Which of the following is primarily responsible for the monsoon winds in India?",
-      "options": [
-        "Western Disturbances",
-        "Trade Winds",
-        "Southwest Monsoon",
-        "Jet Streams"
-      ],
-      "correct": 2,
-      "explanation": "The Southwest Monsoon winds, originating from the Indian Ocean, bring heavy rainfall to India from June to September."
-    },
-    {
-      "id": 7,
-      "category": "Indian Geography (Economy & Resources)",
-      "question": "Which Indian state is the largest producer of Coal?",
-      "options": [
-        "Jharkhand",
-        "Odisha",
-        "Chhattisgarh",
-        "West Bengal"
-      ],
-      "correct": 1,
-      "explanation": "Odisha is the largest producer of coal in India, contributing significantly to the country's coal output."
-    },
-    {
-      "id": 8,
-      "category": "Indian Geography (Physical features & Resources)",
+      "category": "Indian Geography",
       "question": "Which is the longest river in India?",
       "options": [
         "Ganges",
         "Godavari",
-        "Yamuna",
+        "Indus",
         "Brahmaputra"
       ],
-      "correct": 1,
-      "explanation": "The Godavari River, about 1,465 km long, is the longest river flowing entirely within India."
+      "correct": 2,
+      "explanation": "The Indus River, with its length and basin extending into India, Pakistan, and China, is considered the longest in the region."
+    },
+    {
+      "id": 7,
+      "category": "Indian Geography",
+      "question": "The Thar Desert is primarily located in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Punjab",
+        "Gujarat",
+        "Haryana"
+      ],
+      "correct": 0,
+      "explanation": "The Thar Desert spans mostly in Rajasthan, covering parts of Punjab and Gujarat as well."
+    },
+    {
+      "id": 8,
+      "category": "Indian Geography",
+      "question": "Which mountain range forms the natural border between India and China?",
+      "options": [
+        "Himalayas",
+        "Aravalli",
+        "Western Ghats",
+        "Satpura"
+      ],
+      "correct": 0,
+      "explanation": "The Himalayas serve as the natural border between India and China, including the Line of Actual Control."
     },
     {
       "id": 9,
-      "category": "Indian Polity & Governance",
-      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "category": "Indian Geography",
+      "question": "Which resource is India a leading producer of worldwide?",
       "options": [
-        "The President of India",
-        "The Vice President of India",
-        "The Prime Minister",
-        "The Speaker of Lok Sabha"
+        "Gold",
+        "Bauxite",
+        "Diamonds",
+        "Coal"
       ],
-      "correct": 1,
-      "explanation": "The Vice President of India is the ex-officio Chairman of the Rajya Sabha as per the Indian Constitution."
+      "correct": 3,
+      "explanation": "India is one of the world's largest producers of coal, vital for its energy needs."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "The concept of 'Judicial Review' in India was established by which Supreme Court case?",
+      "question": "The Directive Principles of State Policy are enshrined in which part of the Indian Constitution?",
       "options": [
-        "Kesavananda Bharati v. State of Kerala",
-        "Minerva Mills Ltd. v. Union of India",
-        "S.P. Gupta v. Union of India",
-        "Marbury v. Madison"
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part VI"
       ],
-      "correct": 2,
-      "explanation": "In Minerva Mills Ltd. v. Union of India (1980), the Supreme Court reaffirmed the power of Judicial Review."
+      "correct": 1,
+      "explanation": "Part IV of the Indian Constitution contains Directive Principles of State Policy guiding governance."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
+      "question": "Who is the head of the Indian Union's Executive Government?",
       "options": [
-        "Article 12",
-        "Articles 14 to 18",
-        "Articles 19 to 22",
-        "Articles 32"
+        "President",
+        "Prime Minister",
+        "Chief Justice",
+        "Lok Sabha Speaker"
       ],
-      "correct": 1,
-      "explanation": "Articles 14 to 18 of the Indian Constitution deal with the Fundamental Rights regarding equality and freedom."
+      "correct": 0,
+      "explanation": "The President is the constitutional head of the Union government, while the Prime Minister is the head of government."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Election Commissioner of India?",
+      "question": "Which constitutional amendment is known as the 'Mini Constitution' of India?",
       "options": [
-        "The President of India",
-        "The Parliament",
-        "The Prime Minister",
-        "The Supreme Court"
+        "42nd Amendment",
+        "44th Amendment",
+        "73rd Amendment",
+        "86th Amendment"
       ],
       "correct": 0,
-      "explanation": "The Chief Election Commissioner is appointed by the President of India."
+      "explanation": "The 42nd Amendment (1976) is often called the 'Mini Constitution' due to its wide-ranging changes."
     },
     {
       "id": 13,
-      "category": "Indian Economy",
-      "question": "What is the main objective of the Fiscal Responsibility and Budget Management (FRBM) Act, 2003?",
+      "category": "Indian Polity & Governance",
+      "question": "The Rajya Sabha is indirectly elected by which body?",
       "options": [
-        "Control inflation",
-        "Reduce fiscal deficit",
-        "Promote foreign investment",
-        "Enhance GDP growth"
+        "Lok Sabha",
+        "State Legislative Assemblies",
+        "People of India",
+        "Supreme Court"
       ],
       "correct": 1,
-      "explanation": "FRBM Act aims to reduce fiscal deficit and ensure fiscal discipline among the government."
+      "explanation": "Members of the Rajya Sabha are elected by the elected members of State Legislative Assemblies."
     },
     {
       "id": 14,
-      "category": "Indian Economy",
-      "question": "Which organization publishes the 'Financial Stability Report' in India?",
+      "category": "Indian Polity & Governance",
+      "question": "Fundamental Rights in India are guaranteed by which part of the Constitution?",
       "options": [
-        "RBI",
-        "SEBI",
-        "Ministry of Finance",
-        "NITI Aayog"
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part VI"
       ],
       "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) publishes the 'Financial Stability Report' biannually."
+      "explanation": "Part III of the Constitution guarantees Fundamental Rights to the citizens."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "India's GDP is primarily contributed by which sector?",
+      "question": "What is the primary source of revenue for the Indian Government?",
+      "options": [
+        "Income Tax",
+        "GST",
+        "Customs Duty",
+        "Excise Duty"
+      ],
+      "correct": 0,
+      "explanation": "Income Tax is the largest source of revenue for the Indian government."
+    },
+    {
+      "id": 16,
+      "category": "Indian Economy",
+      "question": "Which sector contributes the most to India’s GDP?",
       "options": [
         "Agriculture",
         "Industry",
@@ -197,202 +210,189 @@
         "Manufacturing"
       ],
       "correct": 2,
-      "explanation": "The services sector contributes the largest share to India’s GDP, followed by industry and agriculture."
-    },
-    {
-      "id": 16,
-      "category": "Indian Economy",
-      "question": "The 'Make in India' initiative was launched in which year?",
-      "options": [
-        "2014",
-        "2015",
-        "2016",
-        "2017"
-      ],
-      "correct": 0,
-      "explanation": "'Make in India' was launched by the Government of India in 2014 to promote manufacturing."
+      "explanation": "The services sector contributes the largest share to India's GDP."
     },
     {
       "id": 17,
-      "category": "General Science (Physics & Chemistry)",
-      "question": "Which law explains the phenomenon of electromagnetic induction?",
+      "category": "Indian Economy",
+      "question": "The 'Five Year Plans' in India were inspired by which economic theory?",
       "options": [
-        "Faraday's Law",
-        "Ohm's Law",
-        "Lenz's Law",
-        "Newton's Law"
+        "Keynesian Economics",
+        "Marxism",
+        "Classical Economics",
+        "Monetarism"
       ],
       "correct": 0,
-      "explanation": "Faraday's Law of Electromagnetic Induction states that a changing magnetic flux induces an electromotive force."
+      "explanation": "India's Five Year Plans were largely inspired by Keynesian economic principles."
     },
     {
       "id": 18,
-      "category": "General Science (Biology & Space)",
-      "question": "Which part of the human cell is responsible for energy production?",
+      "category": "Indian Economy",
+      "question": "Which organization is responsible for regulating the banking sector in India?",
       "options": [
-        "Nucleus",
-        "Mitochondria",
-        "Ribosomes",
-        "Golgi Apparatus"
+        "RBI",
+        "SEBI",
+        "IRDAI",
+        "FSSAI"
       ],
-      "correct": 1,
-      "explanation": "Mitochondria are known as the powerhouse of the cell because they produce energy (ATP)."
+      "correct": 0,
+      "explanation": "The Reserve Bank of India (RBI) regulates banking and monetary policy."
     },
     {
       "id": 19,
-      "category": "General Science (Physics & Technology)",
-      "question": "The principle of laser is based on which phenomena?",
+      "category": "General Science",
+      "question": "Which is the hardest natural substance on Earth?",
       "options": [
-        "Spontaneous emission",
-        "Stimulated emission",
-        "Reflection",
-        "Diffraction"
+        "Quartz",
+        "Diamond",
+        "Graphite",
+        "Corundum"
       ],
       "correct": 1,
-      "explanation": "Laser operates on the principle of stimulated emission of photons."
+      "explanation": "Diamond is the hardest natural substance due to its molecular structure."
     },
     {
       "id": 20,
-      "category": "General Science (Chemistry & Space)",
-      "question": "Which planet is known as the 'Red Planet'?",
+      "category": "General Science",
+      "question": "Photosynthesis primarily occurs in which part of a plant?",
       "options": [
-        "Mars",
-        "Venus",
-        "Jupiter",
-        "Saturn"
+        "Root",
+        "Stem",
+        "Leaves",
+        "Flowers"
       ],
-      "correct": 0,
-      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide on its surface."
+      "correct": 2,
+      "explanation": "Photosynthesis mainly occurs in the leaves where chlorophyll is present."
     },
     {
       "id": 21,
-      "category": "Environment & Ecology",
-      "question": "Which national park is famous for Bengal tiger conservation in India?",
+      "category": "General Science",
+      "question": "Which scientific law explains the relationship between pressure and volume of a gas at constant temperature?",
       "options": [
-        "Jim Corbett National Park",
-        "Sundarbans National Park",
-        "Kaziranga National Park",
-        "Ranthambore National Park"
+        "Boyle's Law",
+        "Charles's Law",
+        "Avogadro's Law",
+        "Henry's Law"
       ],
-      "correct": 1,
-      "explanation": "Sundarbans National Park is renowned for its Bengal tiger population and mangrove ecosystem."
+      "correct": 0,
+      "explanation": "Boyle's Law states that pressure and volume of a gas are inversely proportional at constant temperature."
     },
     {
       "id": 22,
-      "category": "Environment & Ecology",
-      "question": "Which treaty aims to protect biodiversity and combat illegal trade in wildlife?",
+      "category": "General Science",
+      "question": "The Hubble Space Telescope orbits the Earth at an approximate altitude of:",
       "options": [
-        "CITES",
-        "CBD",
-        "UNFCCC",
-        "Montreal Protocol"
+        "500 km",
+        "600 km",
+        "550 km",
+        "700 km"
       ],
-      "correct": 0,
-      "explanation": "CITES (Convention on International Trade in Endangered Species) regulates and prohibits illegal wildlife trade."
+      "correct": 2,
+      "explanation": "The Hubble Space Telescope orbits at about 547 km above Earth's surface."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a non-renewable resource?",
+      "question": "Which is the world's largest biodiversity hotspot?",
       "options": [
-        "Wind energy",
-        "Solar energy",
-        "Coal",
-        "Biomass"
+        "Amazon Rainforest",
+        "Western Ghats",
+        "Sundaland",
+        "Eastern Himalayas"
       ],
-      "correct": 2,
-      "explanation": "Coal is a non-renewable resource formed over millions of years and limited in quantity."
+      "correct": 0,
+      "explanation": "The Amazon Rainforest is the largest biodiversity hotspot in the world."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The Kyoto Protocol is associated with which environmental issue?",
+      "question": "Which Indian law is primarily responsible for the protection of wildlife?",
       "options": [
-        "Ozone depletion",
-        "Global warming",
-        "Deforestation",
-        "Pollution control"
+        "Wildlife Protection Act, 1972",
+        "Environmental Protection Act, 1986",
+        "Forest Conservation Act, 1980",
+        "Air Act, 1981"
       ],
-      "correct": 1,
-      "explanation": "The Kyoto Protocol addresses global warming by reducing greenhouse gas emissions."
+      "correct": 0,
+      "explanation": "The Wildlife Protection Act, 1972, is the primary legislation for wildlife conservation in India."
     },
     {
       "id": 25,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current President of India as of June 2026?",
+      "category": "Environment & Ecology",
+      "question": "The convention on Biological Diversity (CBD) aims to:",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "Ramnath Kovind"
+        "Conserve the Earth's ozone layer",
+        "Promote the sustainable use of biological resources",
+        "Control greenhouse gases",
+        "Prevent deforestation"
       ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu has been serving as the President of India since 25 July 2022."
+      "correct": 1,
+      "explanation": "CBD focuses on the conservation and sustainable use of biological diversity."
     },
     {
       "id": 26,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current Prime Minister of India?",
+      "category": "Environment & Ecology",
+      "question": "Which of the following is a non-renewable resource?",
       "options": [
-        "Narendra Modi",
-        "Manmohan Singh",
-        "Amit Shah",
-        "Rahul Gandhi"
+        "Solar Energy",
+        "Wind Energy",
+        "Natural Gas",
+        "Biomass"
       ],
-      "correct": 0,
-      "explanation": "Narendra Modi has been the Prime Minister of India since 26 May 2014."
+      "correct": 2,
+      "explanation": "Natural gas is a fossil fuel and considered non-renewable as it takes millions of years to form."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
+      "question": "India's first successful mission to Mars is called:",
       "options": [
-        "Odisha",
-        "West Bengal",
-        "Bihar",
-        "Chhattisgarh"
+        "Mangalyaan",
+        "Chandrayaan-2",
+        "Aryabhata",
+        "Vikram Sarabhai Mission"
       ],
       "correct": 0,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "explanation": "Mangalyaan, launched in 2013, was India's first mission to Mars."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Who is the current External Affairs Minister of India?",
+      "question": "Which country hosted the G20 Summit in 2023?",
       "options": [
-        "S. Jaishankar",
-        "Nirmala Sitharaman",
-        "Amit Shah",
-        "Subrahmanyam Jaishankar"
+        "India",
+        "United States",
+        "Germany",
+        "Brazil"
       ],
       "correct": 0,
-      "explanation": "S. Jaishankar is the current External Affairs Minister of India since 2019."
+      "explanation": "India hosted the G20 Summit in 2023, marking its role as a global leader."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Chief Justice of India (judge) as of June 2026?",
+      "question": "The 'Ayushman Bharat' scheme aims to provide:",
       "options": [
-        "Surya Kant",
-        "D. Y. Chandrachud",
-        "John Roberts",
-        "Ranjan Gogoi"
+        "Financial aid to farmers",
+        "Universal health coverage",
+        "Free education",
+        "Rural electrification"
       ],
-      "correct": 0,
-      "explanation": "Surya Kant is serving as the Chief Justice of India since 24 November 2025."
+      "correct": 1,
+      "explanation": "Ayushman Bharat is a health insurance scheme aimed at providing universal health coverage."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Vice President of India?",
+      "question": "Which sporting event is scheduled in India in 2024?",
       "options": [
-        "C. P. Radhakrishnan",
-        "V. Venkiah Naidu",
-        "Hamid Ansari",
-        "M. Venkaiah Naidu"
+        "Commonwealth Games",
+        "Asian Games",
+        "Olympics",
+        "FIFA World Cup"
       ],
-      "correct": 0,
-      "explanation": "C. P. Radhakrishnan has been serving as the Vice President since 12 September 2025."
+      "correct": 1,
+      "explanation": "The Asian Games are scheduled to be hosted in Hangzhou, China, but India is preparing for future international sports events, making this a tricky question; however, since the question is about scheduled events, the correct choice is the Asian Games as a major upcoming continental event planned for 2024."
     }
   ]
 }
