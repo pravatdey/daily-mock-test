@@ -1,169 +1,182 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which river is the longest flowing through Odisha?",
+      "question": "Which is the largest river in Odisha by volume?",
       "options": [
         "Mahanadi",
         "Brahmani",
         "Baitarani",
-        "Subarnarekha"
+        "Rushikulya"
       ],
       "correct": 0,
-      "explanation": "Mahanadi is the longest river flowing entirely through Odisha, important for its water resources and irrigation."
+      "explanation": "The Mahanadi is the largest river in Odisha by volume and flows through the northern part of the state."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is predominantly found in the Kandhamal district of Odisha?",
+      "question": "Which festival is famous in Odisha and is celebrated with Rath Yatra?",
       "options": [
-        "Santhal",
-        "Kondh",
-        "Bhunjia",
-        "Gond"
+        "Diwali",
+        "Dussehra",
+        "Rath Yatra",
+        "Holi"
       ],
       "correct": 2,
-      "explanation": "The Bhunjia tribe is primarily found in Kandhamal district, known for their distinct culture."
+      "explanation": "Rath Yatra is the famous festival in Odisha, celebrated mainly in Puri with chariot processions."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "Which ancient site in Odisha is famous for its Buddhist heritage and ruins?",
+      "question": "Which tribal community is predominantly found in the Keonjhar district of Odisha?",
       "options": [
-        "Udayagiri and Khandagiri Caves",
-        "Lingaraj Temple",
-        "Konark Sun Temple",
-        "Jagannath Temple"
+        "Santhal",
+        "Munda",
+        "Ho",
+        "Koya"
       ],
-      "correct": 0,
-      "explanation": "Udayagiri and Khandagiri Caves are ancient Buddhist sites reflecting Odisha’s rich Buddhist history."
+      "correct": 2,
+      "explanation": "The Ho tribe is prominently found in Keonjhar district among Odisha's tribal communities."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated to honor Lord Jagannath in Odisha?",
+      "question": "Which is a famous lake located near Bhubaneswar?",
       "options": [
-        "Diwali",
-        "Rath Yatra",
-        "Holi",
-        "Chhath Puja"
+        "Chilika Lake",
+        "Bindhakuda Lake",
+        "Kanjia Lake",
+        "Sukha Lake"
       ],
-      "correct": 1,
-      "explanation": "Rath Yatra is a major festival in Odisha, celebrated with grand processions for Lord Jagannath."
+      "correct": 2,
+      "explanation": "Kanjia Lake, near Bhubaneswar, is well known for recreation and scenic beauty."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is a famous lake located in Odisha?",
+      "question": "Who was the famous Odia personality known as the 'Father of Odia Literature'?",
       "options": [
-        "Loktak Lake",
-        "Chilika Lake",
-        "Dal Lake",
-        "Vembanad Lake"
+        "Kabisurya Baladeba Ratha",
+        "Jagannath Das",
+        "Upendra Bhanja",
+        "Sarala Das"
       ],
-      "correct": 1,
-      "explanation": "Chilika Lake is Asia's largest brackish water lagoon, a famous natural attraction in Odisha."
+      "correct": 3,
+      "explanation": "Sarala Das is regarded as the 'Father of Odia Literature' for his contributions in the 15th century."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Who was the renowned Odia poet celebrated for his contribution to Odia literature?",
+      "question": "Which dam is constructed on the Mahanadi river in Odisha?",
       "options": [
-        "Kabi Samrat Upendra Bhanja",
-        "Rabindranath Tagore",
-        "Kabir Das",
-        "Tulsidas"
+        "Rengali Dam",
+        "Indira Sagar",
+        "Hirakud Dam",
+        "Sardar Sarovar"
       ],
-      "correct": 0,
-      "explanation": "Kabi Samrat Upendra Bhanja is a legendary Odia poet known for his literary contributions."
+      "correct": 2,
+      "explanation": "Hirakud Dam, on the Mahanadi river, is one of the largest and most famous dams in Odisha."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "Which empire was founded by Chandragupta Maurya in ancient India?",
+      "question": "Which ancient Indian university was located in Takshashila?",
       "options": [
-        "Gupta Empire",
-        "Maurya Empire",
-        "Mughal Empire",
-        "Vijayanagara Empire"
+        "Nalanda",
+        "Takshashila",
+        "Kanchipuram",
+        "Vikramashila"
       ],
       "correct": 1,
-      "explanation": "Chandragupta Maurya established the Maurya Empire, one of the largest empires in Indian history."
+      "explanation": "Takshashila was an ancient center of learning, famous for its university during ancient India."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Which medieval Indian ruler is famous for building the Qutub Minar?",
+      "question": "Who was the famous emperor associated with the Mauryan Empire?",
       "options": [
-        "Muhammad bin Tughlaq",
-        "Qutub-ud-Din Aibak",
-        "Iltutmish",
-        "Firoz Shah Tughlaq"
+        "Ashoka",
+        "Chandragupta",
+        "Akbar",
+        "Ashoka and Chandragupta"
       ],
-      "correct": 2,
-      "explanation": "Qutub-ud-Din Aibak initiated the construction of Qutub Minar, a UNESCO World Heritage site."
+      "correct": 3,
+      "explanation": "Both Chandragupta Maurya and Ashoka were key emperors; however, Ashoka is most famously associated with spreading Buddhism."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "Who was the leader of the Indian independence movement known for non-violent protests?",
-      "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bhagat Singh"
-      ],
-      "correct": 1,
-      "explanation": "Mahatma Gandhi led the non-violent civil disobedience movement for independence."
-    },
-    {
-      "id": 10,
-      "category": "Indian History & Culture",
-      "question": "Which UNESCO World Heritage site is located in Odisha?",
+      "question": "Which of the following heritage sites is located in Odisha?",
       "options": [
         "Khajuraho Group of Monuments",
         "Konark Sun Temple",
         "Hampi",
-        "Ajanta Caves"
+        "Mahabalipuram"
       ],
       "correct": 1,
-      "explanation": "The Konark Sun Temple is a UNESCO World Heritage site in Odisha, renowned for its exquisite architecture."
+      "explanation": "The Konark Sun Temple is a UNESCO World Heritage Site located in Odisha."
+    },
+    {
+      "id": 10,
+      "category": "Indian History & Culture",
+      "question": "Who was the founder of the Indian national movement known for non-violent protest?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bal Gangadhar Tilak"
+      ],
+      "correct": 0,
+      "explanation": "Mahatma Gandhi pioneered non-violent resistance as a method of protest against British rule."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which mountain range forms the northern boundary of India?",
+      "question": "Which state in India is known as the 'Land of Rivers'?",
       "options": [
-        "Western Ghats",
-        "Himalayas",
-        "Aravalli",
-        "Vindhya"
+        "Odisha",
+        "Uttar Pradesh",
+        "Assam",
+        "West Bengal"
       ],
-      "correct": 1,
-      "explanation": "The Himalayas form the northern boundary of India, acting as a natural border."
+      "correct": 0,
+      "explanation": "Odisha is called the 'Land of Rivers' due to the numerous rivers flowing through it."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Odisha's climate can be best described as:",
+      "question": "Which is the highest peak in India?",
       "options": [
-        "Tropical rainforest",
-        "Arid desert",
-        "Tropical monsoon",
-        "Temperate"
+        "Kanchenjunga",
+        "Mount Everest",
+        "Nanda Devi",
+        "K2"
       ],
-      "correct": 2,
-      "explanation": "Odisha experiences a tropical monsoon climate, with heavy monsoon rains."
+      "correct": 1,
+      "explanation": "Mount Everest, located in the Himalayas, is the highest peak in India and the world."
     },
     {
       "id": 13,
       "category": "Geography",
-      "question": "Which mineral is Odisha the largest producer of in India?",
+      "question": "Which soil type is predominantly found in Odisha for agriculture?",
+      "options": [
+        "Laterite",
+        "Black soil",
+        "Alluvial",
+        "Desert soil"
+      ],
+      "correct": 2,
+      "explanation": "Alluvial soil is predominant in Odisha, suitable for agriculture."
+    },
+    {
+      "id": 14,
+      "category": "Geography",
+      "question": "Which mineral is most abundantly found in Odisha?",
       "options": [
         "Coal",
         "Iron ore",
@@ -171,33 +184,20 @@
         "Mica"
       ],
       "correct": 1,
-      "explanation": "Odisha is the leading producer of iron ore in India."
-    },
-    {
-      "id": 14,
-      "category": "Geography",
-      "question": "Which soil type is predominantly found in Odisha?",
-      "options": [
-        "Alluvial",
-        "Laterite",
-        "Black soil",
-        "Red soil"
-      ],
-      "correct": 0,
-      "explanation": "Alluvial soil is predominant in Odisha, especially in river valleys."
+      "explanation": "Odisha is rich in iron ore deposits, making it one of the leading producers in India."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Which article of the Indian Constitution guarantees Fundamental Rights?",
+      "question": "Which fundamental right protects the freedom of speech and expression?",
       "options": [
-        "Article 14",
-        "Articles 12-35",
-        "Article 21",
-        "Article 368"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Cultural and Educational Rights"
       ],
       "correct": 1,
-      "explanation": "Articles 12 to 35 of the Indian Constitution guarantee Fundamental Rights."
+      "explanation": "The Right to Freedom guarantees citizens the liberty of speech and expression."
     },
     {
       "id": 16,
@@ -205,77 +205,77 @@
       "question": "Who is the current Speaker of the Lok Sabha?",
       "options": [
         "Om Birla",
-        "Sanjay Singh",
-        "Muralidharan",
-        "Nityananda Rai"
+        "M. Venkaiah Naidu",
+        "S. R. Bharucha",
+        "Niranjan Jyoti"
       ],
       "correct": 0,
-      "explanation": "Om Birla is the current Speaker of the Lok Sabha."
+      "explanation": "Om Birla has been serving as the Speaker of the Lok Sabha since 2019."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Which body is responsible for amending the Indian Constitution?",
+      "question": "Which article of the Indian Constitution deals with the Directive Principles of State Policy?",
       "options": [
-        "Supreme Court",
-        "Parliament",
-        "President",
-        "State Legislatures"
+        "Article 14",
+        "Article 21",
+        "Article 36",
+        "Article 37"
       ],
-      "correct": 1,
-      "explanation": "The Parliament has the power to amend the Constitution."
+      "correct": 3,
+      "explanation": "Article 37 states that the Directive Principles are fundamental in the governance of the country."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "Which type of local self-government is present at the village level in India?",
+      "question": "Which form of local governance is responsible for rural administration in India?",
       "options": [
         "Municipal Corporation",
-        "Gram Panchayat",
-        "Zila Parishad",
-        "Municipal Council"
+        "Zilla Parishad",
+        "Panchayat Samiti",
+        "Gram Panchayat"
       ],
-      "correct": 1,
-      "explanation": "Gram Panchayat is the elected body at the village level in India."
+      "correct": 3,
+      "explanation": "The Gram Panchayat is the basic unit of rural local governance in India."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which planet is known as the 'Red Planet'?",
+      "question": "What is the SI unit of force?",
       "options": [
-        "Mars",
-        "Venus",
-        "Jupiter",
-        "Saturn"
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
       ],
       "correct": 0,
-      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide."
+      "explanation": "The SI unit of force is the Newton."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "What is the chemical symbol for Gold?",
+      "question": "Which gas is primarily responsible for global warming?",
       "options": [
-        "Au",
-        "Ag",
-        "Gd",
-        "Ga"
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Argon"
       ],
-      "correct": 0,
-      "explanation": "Au is the chemical symbol for Gold on the periodic table."
+      "correct": 1,
+      "explanation": "Carbon Dioxide is a major greenhouse gas contributing to global warming."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which vitamin is primarily obtained from sunlight?",
+      "question": "Which part of the human body helps in the digestion of fat?",
       "options": [
-        "Vitamin A",
-        "Vitamin B12",
-        "Vitamin D",
-        "Vitamin C"
+        "Liver",
+        "Kidney",
+        "Heart",
+        "Lungs"
       ],
-      "correct": 2,
-      "explanation": "Vitamin D is synthesized in skin upon exposure to sunlight."
+      "correct": 0,
+      "explanation": "The liver produces bile, which helps in fat digestion."
     },
     {
       "id": 22,
@@ -284,115 +284,115 @@
       "options": [
         "Rickets",
         "Scurvy",
-        "Anemia",
-        "Beriberi"
+        "Pellegra",
+        "Marasmus"
       ],
       "correct": 1,
-      "explanation": "Scurvy results from Vitamin C deficiency."
+      "explanation": "Vitamin C deficiency causes Scurvy."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
-      "question": "What comes next in the series: 2, 4, 8, 16, __?",
+      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
       "options": [
-        "20",
         "24",
         "32",
-        "18"
+        "20",
+        "28"
       ],
-      "correct": 2,
-      "explanation": "Series doubles each time; next number is 32."
+      "correct": 1,
+      "explanation": "The pattern multiplies by 2 each time; next is 16×2=32."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a code language, 'ODISHA' is written as 'PRJTCB', what is the code for 'BHUBANESWAR'?",
+      "question": "If in a coded language, 'ODISHA' is written as 'PGKTLB', what is the code for 'ODIA'?",
       "options": [
-        "CJDQBOBDNS",
-        "CJDAQOQAS",
-        "CJDPBOBSR",
-        "CJDQBOBDR"
+        "PGKT",
+        "PGKT",
+        "PGKL",
+        "PGJK"
       ],
-      "correct": 3,
-      "explanation": "Pattern involves shifting letters; 'BHUBANESWAR' coded as 'CJDQBOBDR'."
+      "correct": 0,
+      "explanation": "The pattern shifts each letter by +1 in the alphabet; 'O'→'P', 'D'→'G', etc."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "If 'TRIANGLE' is written as 'QPLCFNGC', then 'SQUARE' will be written as:",
+      "question": "Arrange the following words in a logical sequence: 1. Tree 2. Seed 3. Plant 4. Fruit",
       "options": [
-        "QTPWFC",
-        "QSPWCF",
-        "QTPWDF",
-        "QSPWDF"
+        "2,1,3,4",
+        "2,3,4,1",
+        "1,2,3,4",
+        "2,3,1,4"
       ],
-      "correct": 3,
-      "explanation": "Pattern involves shifting letters; 'SQUARE' coded as 'QSPWDF'."
+      "correct": 0,
+      "explanation": "Seed → Tree → Plant → Fruit is the logical sequence."
     },
     {
       "id": 26,
       "category": "Mental Ability & Reasoning",
-      "question": "A man walks 3 km east, then turns south and walks 4 km. How far is he from his starting point?",
+      "question": "In a certain code, if 'CLOUD' is written as 'DMPVE', how is 'RAIN' written?",
       "options": [
-        "5 km",
-        "7 km",
-        "6 km",
-        "8 km"
+        "SBJO",
+        "SBKP",
+        "SBOJ",
+        "SBDK"
       ],
       "correct": 0,
-      "explanation": "Distance forms a right-angled triangle; hypotenuse = 5 km."
+      "explanation": "Pattern involves shifting each letter forward by one alphabet."
     },
     {
       "id": 27,
       "category": "Current Affairs",
-      "question": "Who is the current President of India?",
+      "question": "Who is the current President of India as of 2026?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "K. R. Narayanan"
+        "V. V. Giri"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+      "explanation": "Droupadi Murmu is the current President of India since July 2022."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Which scheme was launched recently by the Government of India to promote digital payments?",
+      "question": "Which scheme was launched by the Government of India in 2023 to support farmers?",
       "options": [
-        "Digital India",
-        "BHIM UPI",
-        "Startup India",
-        "Atal Innovation Mission"
+        "PM-KISAN",
+        "Kisan Samman Nidhi",
+        "PM-BHAVISHYA",
+        "Kisan Rail"
       ],
-      "correct": 1,
-      "explanation": "BHIM UPI promotes digital transactions across India."
+      "correct": 2,
+      "explanation": "PM-BHAVISHYA was launched in 2023 to support farmers with modern agricultural tools."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Who was awarded the Padma Vibhushan in 2026 for contributions in science?",
+      "question": "Which Indian sports person was awarded the Rajiv Gandhi Khel Ratna in 2024?",
       "options": [
-        "Dr. Raghunath Anant Mashelkar",
-        "Dr. A.P.J. Abdul Kalam",
-        "Dr. C.N.R. Rao",
-        "Dr. Vikram Sarabhai"
+        "Neeraj Chopra",
+        "PV Sindhu",
+        "Sania Mirza",
+        "Abhinav Bindra"
       ],
-      "correct": 2,
-      "explanation": "Dr. C.N.R. Rao was awarded the Padma Vibhushan for his scientific contributions."
+      "correct": 0,
+      "explanation": "Neeraj Chopra received the Rajiv Gandhi Khel Ratna in 2024 for athletics."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "Mohan Charan Majhi is serving as the current:",
+      "question": "Which recent event was held in Odisha in 2025 that gained international recognition?",
       "options": [
-        "Governor of Odisha",
-        "Chief Minister of Odisha",
-        "President of India",
-        "Minister of Odisha"
+        "Odisha International Film Festival",
+        "Odisha Winter Sports Meet",
+        "Global Yoga Conference in Bhubaneswar",
+        "Odisha Cultural Heritage Summit"
       ],
-      "correct": 1,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "correct": 0,
+      "explanation": "The Odisha International Film Festival held in 2025 gained global attention for promoting regional cinema."
     }
   ]
 }
