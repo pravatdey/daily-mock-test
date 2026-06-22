@@ -1,99 +1,99 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian scripture is primarily associated with knowledge and philosophical teachings and is considered one of the earliest texts of Indian literature?",
+      "question": "Which ancient Indian text is primarily concerned with laws and justice?",
       "options": [
-        "Vedas",
-        "Upanishads",
-        "Bhagavad Gita",
-        "Arthashastra"
+        "Arthashastra",
+        "Rigveda",
+        "Mahabharata",
+        "Puranas"
       ],
-      "correct": 1,
-      "explanation": "The Upanishads are ancient Indian texts that explore philosophical concepts and are considered among the earliest philosophical works of Indian literature."
+      "correct": 0,
+      "explanation": "The Arthashastra, attributed to Chanakya, is an ancient Indian treatise on statecraft, economic policy, and military strategy, primarily concerned with laws and justice."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "During the medieval period, the construction of the Qutub Minar was initiated by which ruler?",
+      "question": "Who was the main leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
-        "Qutb-ud-din Aibak",
-        "Mohammed-bin-Tughlaq",
-        "Feroz Shah Tughlaq",
-        "Balban"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bal Gangadhar Tilak",
+        "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Qutb-ud-din Aibak began the construction of Qutub Minar in Delhi during his rule in the early 13th century."
+      "explanation": "Mahatma Gandhi was the main leader and the architect of the Non-Cooperation Movement launched in 1920 to resist British rule through non-violent means."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
+      "question": "During the Indian freedom struggle, which was the first major armed revolt against the British?",
       "options": [
-        "Bal Gangadhar Tilak",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose"
+        "Indigo Rebellion",
+        "Sepoy Mutiny of 1857",
+        "Cholera Rebellion",
+        "Khilafat Movement"
       ],
       "correct": 1,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920 as a nonviolent protest against British rule."
+      "explanation": "The Sepoy Mutiny of 1857 was the first major armed revolt against British rule in India, also called the First War of Indian Independence."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "The Swadeshi Movement was primarily aimed at promoting:",
+      "question": "The Partition of Bengal was annulled in which year?",
       "options": [
-        "Foreign goods",
-        "Indigenous goods",
-        "Partition of Bengal",
-        "Military preparedness"
+        "1911",
+        "1920",
+        "1935",
+        "1947"
       ],
-      "correct": 1,
-      "explanation": "The Swadeshi Movement encouraged the use of indigenous goods and boycotted foreign products to promote Indian industries."
+      "correct": 0,
+      "explanation": "The Partition of Bengal was annulled in 1911 due to widespread protests and opposition."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Which event marked the start of the Chauri Chaura incident in the freedom struggle?",
+      "question": "Who was the founder of the Indian National Congress?",
       "options": [
-        "Kheda Satyagraha",
-        "Non-Cooperation Movement",
-        "Non-violent protest",
-        "Revolt of 1857"
+        "Dadabhai Naoroji",
+        "A.O. Hume",
+        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi"
       ],
       "correct": 1,
-      "explanation": "The Chauri Chaura incident occurred during the Non-Cooperation Movement when protesters clashed with police, resulting in violence."
+      "explanation": "A.O. Hume was the founder of the Indian National Congress in 1885, aiming to create a platform for Indians to voice their demands."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Ganges of the South' due to its religious significance?",
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
       "options": [
-        "Godavari",
-        "Kaveri",
-        "Krishna",
-        "Tungabhadra"
+        "Ganga",
+        "Kosi",
+        "Yamuna",
+        "Son"
       ],
       "correct": 1,
-      "explanation": "The Kaveri River is often referred to as the 'Ganges of the South' due to its religious and cultural importance."
+      "explanation": "The Kosi River is called the 'Sorrow of Bihar' because it frequently causes devastating floods in the region."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which is the largest tidal port in India?",
+      "question": "Which is the largest river basin in India?",
       "options": [
-        "Kandla",
-        "Mumbai",
-        "Visakhapatnam",
-        "Kochi"
+        "Ganga-Brahmaputra",
+        "Indus",
+        "Godavari",
+        "Mahanadi"
       ],
       "correct": 0,
-      "explanation": "Kandla port, located in Gujarat, is the largest tidal port in India."
+      "explanation": "The Ganga-Brahmaputra basin is the largest river basin in India, covering a vast area across northern and eastern states."
     },
     {
       "id": 8,
@@ -101,298 +101,298 @@
       "question": "The Thar Desert is primarily located in which Indian state?",
       "options": [
         "Rajasthan",
-        "Gujarat",
         "Punjab",
+        "Gujarat",
         "Haryana"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert is mainly situated in Rajasthan, extending into Gujarat and other states."
+      "explanation": "The Thar Desert is mainly spread across Rajasthan, with parts extending into Punjab and Gujarat."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which Indian state is the largest producer of bauxite?",
+      "question": "Which resource is most abundantly found in the state of Jharkhand?",
       "options": [
-        "Odisha",
-        "Gujarat",
-        "Jharkhand",
-        "Andhra Pradesh"
+        "Coal",
+        "Petroleum",
+        "Gold",
+        "Iron ore"
       ],
       "correct": 0,
-      "explanation": "Odisha is the largest producer of bauxite in India."
+      "explanation": "Jharkhand is rich in coal deposits, making it one of India's leading coal-producing states."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "The Constitution of India was adopted in which year?",
-      "options": [
-        "1947",
-        "1950",
-        "1949",
-        "1952"
-      ],
-      "correct": 2,
-      "explanation": "The Indian Constitution was adopted on 26th November 1949 and came into effect on 26th January 1950."
-    },
-    {
-      "id": 11,
-      "category": "Indian Polity & Governance",
-      "question": "Who is the ex-officio Chairperson of the Rajya Sabha?",
-      "options": [
-        "The Vice President of India",
-        "The President of India",
-        "The Prime Minister",
-        "The Speaker of Lok Sabha"
-      ],
-      "correct": 0,
-      "explanation": "The Vice President of India is the ex-officio Chairperson of the Rajya Sabha."
-    },
-    {
-      "id": 12,
-      "category": "Indian Polity & Governance",
-      "question": "Which Fundamental Rights guarantee protection against discrimination on grounds of religion, race, caste, sex, or place of birth?",
-      "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right Against Exploitation",
-        "Cultural and Educational Rights"
-      ],
-      "correct": 0,
-      "explanation": "The Right to Equality (Article 14-18) guarantees protection against discrimination on these grounds."
-    },
-    {
-      "id": 13,
-      "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system in India is based on the recommendations of which commission?",
-      "options": [
-        "Balwant Rai Mehta Committee",
-        "Sarkar Committee",
-        "Ashok Mehta Committee",
-        "L M Singhvi Committee"
-      ],
-      "correct": 0,
-      "explanation": "The Balwant Rai Mehta Committee (1957) laid down the foundation of Panchayati Raj system."
-    },
-    {
-      "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "Who among the following is the current Chief Justice of India as of the latest update?",
-      "options": [
-        "D. Y. Chandrachud",
-        "Surya Kant",
-        "John Robert",
-        "N. Venkata Ramana"
-      ],
-      "correct": 1,
-      "explanation": "As of the latest data, Surya Kant is the Chief Justice of India, serving since 24 November 2025."
-    },
-    {
-      "id": 15,
-      "category": "Indian Economy",
-      "question": "The Union Budget of India is presented by the:",
-      "options": [
-        "Prime Minister",
-        "Finance Minister",
-        "President",
-        "Governor of RBI"
-      ],
-      "correct": 1,
-      "explanation": "The Finance Minister presents the Union Budget in Parliament."
-    },
-    {
-      "id": 16,
-      "category": "Indian Economy",
-      "question": "Which sector contributes the highest percentage to India’s GDP?",
-      "options": [
-        "Agriculture",
-        "Industry",
-        "Services",
-        "Manufacturing"
-      ],
-      "correct": 2,
-      "explanation": "The services sector contributes the highest percentage to India’s GDP."
-    },
-    {
-      "id": 17,
-      "category": "Indian Economy",
-      "question": "Which Indian financial institution was established to provide credit for rural development?",
-      "options": [
-        "Bank of India",
-        "Rural Electrification Corporation",
-        "National Bank for Agriculture and Rural Development (NABARD)",
-        "Reserve Bank of India"
-      ],
-      "correct": 2,
-      "explanation": "NABARD was established to provide credit and support rural development."
-    },
-    {
-      "id": 18,
-      "category": "Indian Economy",
-      "question": "What is the primary objective of the Make in India initiative?",
-      "options": [
-        "Promote foreign direct investment",
-        "Encourage manufacturing in India",
-        "Increase agricultural exports",
-        "Enhance IT sector"
-      ],
-      "correct": 1,
-      "explanation": "Make in India aims to encourage manufacturing and boost the domestic industrial sector."
-    },
-    {
-      "id": 19,
-      "category": "General Science",
-      "question": "Which particle is responsible for carrying the force in the electromagnetic interaction?",
-      "options": [
-        "Photon",
-        "Electron",
-        "Proton",
-        "Neutron"
-      ],
-      "correct": 0,
-      "explanation": "Photons are the force carriers of electromagnetic interactions."
-    },
-    {
-      "id": 20,
-      "category": "General Science",
-      "question": "Which element is most abundant in the Earth's crust?",
-      "options": [
-        "Iron",
-        "Oxygen",
-        "Silicon",
-        "Aluminium"
-      ],
-      "correct": 1,
-      "explanation": "Oxygen is the most abundant element in the Earth's crust."
-    },
-    {
-      "id": 21,
-      "category": "General Science",
-      "question": "The process of photosynthesis primarily occurs in which part of a plant?",
-      "options": [
-        "Root",
-        "Stem",
-        "Leaves",
-        "Flowers"
-      ],
-      "correct": 2,
-      "explanation": "Photosynthesis occurs mainly in the leaves of plants."
-    },
-    {
-      "id": 22,
-      "category": "General Science",
-      "question": "Which technological advancement led to the launch of the Mars Orbiter Mission (Mangalyaan)?",
-      "options": [
-        "GPS technology",
-        "Rocket propulsion technology",
-        "Deep space communication",
-        "Satellite navigation"
-      ],
-      "correct": 1,
-      "explanation": "Advances in rocket propulsion technology enabled India to successfully launch and operate Mangalyaan."
-    },
-    {
-      "id": 23,
-      "category": "Environment & Ecology",
-      "question": "Which biodiversity hotspot is located in India?",
-      "options": [
-        "Sundaland",
-        "Indo-Burma",
-        "Western Ghats",
-        "Amazon"
-      ],
-      "correct": 2,
-      "explanation": "The Western Ghats is a recognized biodiversity hotspot in India."
-    },
-    {
-      "id": 24,
-      "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity (CBD) aims to:",
-      "options": [
-        "Promote nuclear energy",
-        "Conserve biological diversity",
-        "Control pollution",
-        "Regulate fishing"
-      ],
-      "correct": 1,
-      "explanation": "CBD is a global agreement to conserve biological diversity, ensure sustainable use, and fair sharing of benefits."
-    },
-    {
-      "id": 25,
-      "category": "Environment & Ecology",
-      "question": "Which national park is known for the Bengal tiger and is located in Madhya Pradesh?",
-      "options": [
-        "Jim Corbett National Park",
-        "Sundarbans",
-        "Kanha National Park",
-        "Bandhavgarh National Park"
-      ],
-      "correct": 2,
-      "explanation": "Kanha National Park is famous for Bengal tigers and is located in Madhya Pradesh."
-    },
-    {
-      "id": 26,
-      "category": "Environment & Ecology",
-      "question": "Which environmental law prohibits the hunting of certain species and aims to conserve biodiversity?",
-      "options": [
-        "Wildlife Protection Act, 1972",
-        "Environmental Protection Act, 1986",
-        "Air Act, 1981",
-        "Water Act, 1974"
-      ],
-      "correct": 0,
-      "explanation": "The Wildlife Protection Act, 1972, provides legal protection to endangered species and conservation efforts."
-    },
-    {
-      "id": 27,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current President of India as of the latest update?",
+      "question": "Who is the current President of India as of June 2026?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
-        "Pranab Mukherjee",
+        "Pratibha Patil",
         "A.P.J. Abdul Kalam"
       ],
       "correct": 0,
       "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
     },
     {
-      "id": 28,
-      "category": "Current Affairs & GK",
-      "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
+      "id": 11,
+      "category": "Indian Polity & Governance",
+      "question": "The Lok Sabha is composed of Members of Parliament elected through?",
       "options": [
-        "Odisha",
-        "Bihar",
-        "West Bengal",
-        "Jharkhand"
+        "Direct election",
+        "Proportional representation",
+        "Laws of the State",
+        "None of the above"
       ],
       "correct": 0,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "explanation": "Members of the Lok Sabha are elected through direct elections by the people of India."
+    },
+    {
+      "id": 12,
+      "category": "Indian Polity & Governance",
+      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
+      "options": [
+        "Article 14",
+        "Articles 12-35",
+        "Article 21",
+        "Article 370"
+      ],
+      "correct": 1,
+      "explanation": "Articles 12 to 35 of the Indian Constitution collectively deal with Fundamental Rights."
+    },
+    {
+      "id": 13,
+      "category": "Indian Polity & Governance",
+      "question": "Who appoints the Chief Justice of India?",
+      "options": [
+        "The President of India",
+        "The Prime Minister",
+        "The Parliament",
+        "The Supreme Court"
+      ],
+      "correct": 0,
+      "explanation": "The Chief Justice of India is appointed by the President of India."
+    },
+    {
+      "id": 14,
+      "category": "Indian Economy",
+      "question": "Which of the following is a direct tax?",
+      "options": [
+        "GST",
+        "Income tax",
+        "Excise duty",
+        "Customs duty"
+      ],
+      "correct": 1,
+      "explanation": "Income tax is a direct tax because it is levied directly on the income of individuals and companies."
+    },
+    {
+      "id": 15,
+      "category": "Indian Economy",
+      "question": "The 'Five Year Plans' in India were inspired by which economic concept?",
+      "options": [
+        "Liberalization",
+        "Command economy",
+        "Mixed economy",
+        "Planning economy"
+      ],
+      "correct": 3,
+      "explanation": "The Five Year Plans in India were based on the concept of a planned economy, emphasizing government-led development."
+    },
+    {
+      "id": 16,
+      "category": "Indian Economy",
+      "question": "What is the primary function of the Reserve Bank of India (RBI)?",
+      "options": [
+        "Issue currency",
+        "Control inflation",
+        "Regulate banking system",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The RBI issues currency, controls inflation, and regulates the banking system, among other functions."
+    },
+    {
+      "id": 17,
+      "category": "Indian Science & Technology",
+      "question": "Which space mission was India's first mission to the Moon?",
+      "options": [
+        "Chandrayaan-1",
+        "Mars Orbiter Mission",
+        "Chandrayaan-2",
+        "Vikram Sarabhai Space Centre"
+      ],
+      "correct": 0,
+      "explanation": "Chandrayaan-1, launched in 2008, was India's first mission to the Moon."
+    },
+    {
+      "id": 18,
+      "category": "Indian Science & Technology",
+      "question": "What is the chemical symbol for the element with atomic number 6?",
+      "options": [
+        "C",
+        "O",
+        "N",
+        "H"
+      ],
+      "correct": 0,
+      "explanation": "The chemical symbol for the element with atomic number 6 is 'C' for Carbon."
+    },
+    {
+      "id": 19,
+      "category": "Indian Science & Technology",
+      "question": "Which biological process is responsible for the conversion of light energy into chemical energy?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Glycolysis",
+        "Fermentation"
+      ],
+      "correct": 0,
+      "explanation": "Photosynthesis is the process by which green plants convert light energy into chemical energy."
+    },
+    {
+      "id": 20,
+      "category": "Indian Science & Technology",
+      "question": "The term 'Moore's Law' is associated with which field?",
+      "options": [
+        "Physics",
+        "Biology",
+        "Computing Technology",
+        "Chemistry"
+      ],
+      "correct": 2,
+      "explanation": "Moore's Law pertains to computing technology and predicts the doubling of transistors on integrated circuits approximately every two years."
+    },
+    {
+      "id": 21,
+      "category": "Environment & Ecology",
+      "question": "Which of the following is a UNESCO World Heritage Site in India?",
+      "options": [
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Taj Mahal",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "All listed sites are UNESCO World Heritage Sites in India."
+    },
+    {
+      "id": 22,
+      "category": "Environment & Ecology",
+      "question": "The Convention on Biological Diversity was adopted in which year?",
+      "options": [
+        "1992",
+        "1982",
+        "2000",
+        "1972"
+      ],
+      "correct": 0,
+      "explanation": "The Convention on Biological Diversity was adopted at the Earth Summit in Rio de Janeiro in 1992."
+    },
+    {
+      "id": 23,
+      "category": "Environment & Ecology",
+      "question": "Which gas is primarily responsible for global warming?",
+      "options": [
+        "Ozone",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Helium"
+      ],
+      "correct": 1,
+      "explanation": "Carbon dioxide is the primary greenhouse gas responsible for global warming."
+    },
+    {
+      "id": 24,
+      "category": "Environment & Ecology",
+      "question": "Which national park in India is known for the population of Bengal tigers?",
+      "options": [
+        "Jim Corbett National Park",
+        "Sundarbans National Park",
+        "Bandipur National Park",
+        "Ranthambore National Park"
+      ],
+      "correct": 3,
+      "explanation": "Ranthambore National Park is famous for its Bengal tiger population."
+    },
+    {
+      "id": 25,
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Chief Minister of Odisha as of June 2026?",
+      "options": [
+        "Mohan Charan Majhi",
+        "Naveen Patnaik",
+        "Biju Patnaik",
+        "Giridhar Gamang"
+      ],
+      "correct": 0,
+      "explanation": "Mohan Charan Majhi has been the Chief Minister of Odisha since 12 June 2024."
+    },
+    {
+      "id": 26,
+      "category": "Current Affairs & GK",
+      "question": "Which international organization awarded India the 'Climate Action Award' in 2025?",
+      "options": [
+        "United Nations",
+        "World Economic Forum",
+        "Green Climate Fund",
+        "World Bank"
+      ],
+      "correct": 0,
+      "explanation": "India received the 'Climate Action Award' from the United Nations in 2025 for its efforts in climate change mitigation."
+    },
+    {
+      "id": 27,
+      "category": "Current Affairs & GK",
+      "question": "Who is the current External Affairs Minister of India as of June 2026?",
+      "options": [
+        "S. Jaishankar",
+        "Rajnath Singh",
+        "Nirmala Sitharaman",
+        "Subrahmanyam Jaishankar"
+      ],
+      "correct": 0,
+      "explanation": "S. Jaishankar has been serving as the External Affairs Minister since 2019."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs & GK",
+      "question": "Which Indian sportsperson was awarded the 'Major Dhyan Chand Khel Ratna' in 2025?",
+      "options": [
+        "Neeraj Chopra",
+        "PV Sindhu",
+        "Rohit Sharma",
+        "Mary Kom"
+      ],
+      "correct": 0,
+      "explanation": "Neeraj Chopra was awarded the 'Major Dhyan Chand Khel Ratna' in 2025 for his achievements in athletics."
     },
     {
       "id": 29,
-      "category": "Current Affairs & GK",
-      "question": "Which country hosted the 2023 G20 summit?",
+      "category": "Indian History",
+      "question": "Which act marked the beginning of the formal Indian nationalist movement?",
       "options": [
-        "India",
-        "United States",
-        "China",
-        "Germany"
+        "Indian Councils Act 1909",
+        "Partition of Bengal 1905",
+        "Indian Independence Act 1947",
+        "Simon Commission 1928"
       ],
-      "correct": 0,
-      "explanation": "India hosted the G20 summit in 2023."
+      "correct": 1,
+      "explanation": "The Partition of Bengal in 1905 sparked widespread nationalist movements and marked the beginning of organized political activism."
     },
     {
       "id": 30,
-      "category": "Current Affairs & GK",
-      "question": "The 'Startup India' scheme was launched to promote:",
+      "category": "Indian Geography",
+      "question": "Which mineral is India the world's largest producer of?",
       "options": [
-        "Agriculture",
-        "Startups and innovation",
-        "Defense manufacturing",
-        "Tourism"
+        "Coal",
+        "Mica",
+        "Bauxite",
+        "Iron ore"
       ],
-      "correct": 1,
-      "explanation": "Startup India aims to promote entrepreneurship, innovation, and startups in India."
+      "correct": 0,
+      "explanation": "India is the world's second-largest producer of coal and has significant reserves, making it a leading producer globally."
     }
   ]
 }
