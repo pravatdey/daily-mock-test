@@ -1,73 +1,73 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian university was renowned for its teachings in medicine and philosophy, and is believed to have been established around the 4th century CE?",
+      "question": "Which ancient Indian text is primarily a collection of hymns dedicated to various deities?",
       "options": [
-        "Nalanda",
-        "Takshashila",
-        "Valabhi",
-        "Pataliputra"
+        "Arthashastra",
+        "Vedas",
+        "Mahabharata",
+        "Puranas"
       ],
-      "correct": 0,
-      "explanation": "Nalanda was an ancient center of learning in India, known for its vast library and teaching in medicine, philosophy, and other subjects, established around the 4th century CE."
+      "correct": 1,
+      "explanation": "The Vedas are a collection of hymns and praise dedicated to various deities, making them the primary ancient texts of hymns in India."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
+      "question": "During which Mughal emperor's reign was the Taj Mahal constructed?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bal Gangadhar Tilak",
-        "Subhas Chandra Bose"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920, advocating peaceful resistance against British rule."
+      "correct": 2,
+      "explanation": "The Taj Mahal was built by Shah Jahan in memory of his wife Mumtaz Mahal during his reign."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Which treaty marked the end of the First Anglo-Mysore War (1784–1785)?",
+      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
-        "Treaty of Seringapatam",
-        "Treaty of Mangalore",
-        "Treaty of Allahabad",
-        "Treaty of Bidar"
+        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose"
       ],
       "correct": 1,
-      "explanation": "The Treaty of Mangalore ended the First Anglo-Mysore War in 1784–1785, restoring the status quo ante bellum."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement as a mass protest against British rule in 1920."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Who was the first Governor-General of India?",
+      "question": "The 'Salt March' was a significant event in which freedom struggle movement?",
       "options": [
-        "Lord William Bentinck",
-        "Lord Cornwallis",
-        "Warren Hastings",
-        "Lord Clive"
+        "Quit India Movement",
+        "Champaran Satyagraha",
+        "Salt Satyagraha",
+        "Non-Cooperation Movement"
       ],
       "correct": 2,
-      "explanation": "Warren Hastings was the first Governor-General of India, serving from 1773 to 1785."
+      "explanation": "The Salt Satyagraha, also known as Salt March, was led by Gandhi to protest British salt monopoly."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Who was the prominent leader associated with the Quit India Movement of 1942?",
+      "question": "Who was the founder of the Indian National Army (INA)?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
         "Subhas Chandra Bose",
-        "Bal Gangadhar Tilak"
+        "Bhagat Singh",
+        "Jawaharlal Nehru",
+        "V. D. Savarkar"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi was the key leader of the Quit India Movement launched in 1942 to demand an end to British rule."
+      "explanation": "Subhas Chandra Bose founded the Indian National Army (INA) to fight for India's independence from British rule."
     },
     {
       "id": 6,
@@ -75,126 +75,126 @@
       "question": "Which river is the longest in India?",
       "options": [
         "Ganges",
-        "Brahmaputra",
+        "Godavari",
         "Indus",
-        "Godavari"
+        "Brahmaputra"
       ],
-      "correct": 3,
-      "explanation": "The Godavari River is the longest river in India, flowing over 1,800 km."
+      "correct": 1,
+      "explanation": "The Godavari is the longest river in India, flowing over 1,465 km."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which of the following minerals is most abundant in India?",
+      "question": "Which is the most abundant mineral in India?",
       "options": [
-        "Bauxite",
         "Iron ore",
+        "Bauxite",
         "Coal",
-        "Manganese"
+        "Mica"
       ],
       "correct": 2,
-      "explanation": "Coal is the most abundant mineral in India, essential for energy production."
+      "explanation": "India has large coal reserves, making it the most abundant mineral among the options listed."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "The climate of Rajasthan is primarily classified as:",
+      "question": "Which climate zone dominates the Indian subcontinent?",
       "options": [
-        "Tropical Monsoon",
-        "Arid Desert",
-        "Humid Subtropical",
-        "Mountain Climate"
+        "Tropical monsoon",
+        "Desert",
+        "Temperate",
+        "Tundra"
       ],
-      "correct": 1,
-      "explanation": "Rajasthan mostly has an arid desert climate, characterized by very low rainfall."
+      "correct": 0,
+      "explanation": "The tropical monsoon climate dominates most parts of India, characterized by heavy seasonal rainfall."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which is the primary source of the Brahmaputra River?",
+      "question": "Which of the following is a major Himalayan river?",
       "options": [
-        "Himalayas",
-        "Western Ghats",
-        "Eastern Ghats",
-        "Aravalli Hills"
+        "Godavari",
+        "Sutlej",
+        "Mahanadi",
+        "Krishna"
       ],
-      "correct": 0,
-      "explanation": "The Brahmaputra originates from the Himalayas in Tibet."
+      "correct": 1,
+      "explanation": "The Sutlej River is a major Himalayan river, originating in Tibet and flowing into India."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "Who among the following is the current President of India?",
       "options": [
-        "Prime Minister",
-        "President",
-        "Lok Sabha",
-        "Supreme Court Collegium"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "Ram Nath Singh"
       ],
-      "correct": 1,
-      "explanation": "The President of India appoints the Chief Justice of India."
+      "correct": 0,
+      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "The Fundamental Rights are enshrined in which part of the Indian Constitution?",
+      "question": "The Lok Sabha is composed of members elected directly by the people. What is the maximum strength of the Lok Sabha?",
       "options": [
-        "Part III",
-        "Part IV",
-        "Part II",
-        "Part V"
+        "550",
+        "552",
+        "545",
+        "600"
       ],
-      "correct": 0,
-      "explanation": "Fundamental Rights are in Part III of the Indian Constitution."
+      "correct": 1,
+      "explanation": "The maximum strength of the Lok Sabha is 552 members, including 530 for states, 20 for Union Territories, and 2 nominated members."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Who is the constitutional head of the Union Government of India?",
+      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
       "options": [
-        "Prime Minister",
-        "President",
-        "Lok Sabha Speaker",
-        "Chief Justice"
+        "Article 14",
+        "Articles 12-35",
+        "Article 21",
+        "Article 370"
       ],
       "correct": 1,
-      "explanation": "The President of India is the constitutional head of the Union Government."
+      "explanation": "Articles 12-35 of the Indian Constitution provide for Fundamental Rights."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "The maximum number of members in the Rajya Sabha is:",
+      "question": "The principle of 'Judicial Review' in India is borrowed from which country's constitution?",
       "options": [
-        "250",
-        "245",
-        "200",
-        "280"
+        "USA",
+        "UK",
+        "France",
+        "Canada"
       ],
       "correct": 0,
-      "explanation": "The maximum strength of the Rajya Sabha is 250 members, with some seats appointed and some elected."
+      "explanation": "The principle of Judicial Review in India is borrowed from the US Constitution."
     },
     {
       "id": 14,
       "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system was institutionalized through which amendment of the Indian Constitution?",
+      "question": "The Panchayati Raj system in India is enshrined in which part of the Constitution?",
       "options": [
-        "73rd Amendment",
-        "74th Amendment",
-        "42nd Amendment",
-        "44th Amendment"
+        "Part XXI",
+        "Part IX",
+        "Part IV",
+        "Part III"
       ],
-      "correct": 0,
-      "explanation": "The 73rd Amendment Act of 1992 provided constitutional status to Panchayati Raj institutions."
+      "correct": 1,
+      "explanation": "Part IX of the Indian Constitution deals with Panchayati Raj institutions."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "India’s Union Budget is presented by the:",
+      "question": "India's Union Budget is presented in the Parliament by the:",
       "options": [
-        "President",
+        "President of India",
         "Finance Minister",
         "Prime Minister",
-        "Governor of RBI"
+        "Governor of Reserve Bank of India"
       ],
       "correct": 1,
       "explanation": "The Finance Minister presents the Union Budget in Parliament."
@@ -202,7 +202,7 @@
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which sector contributes the most to India’s GDP?",
+      "question": "Which sector contributes the highest to India's GDP?",
       "options": [
         "Agriculture",
         "Industry",
@@ -210,189 +210,189 @@
         "Manufacturing"
       ],
       "correct": 2,
-      "explanation": "The services sector is the largest contributor to India’s GDP, followed by industry and agriculture."
+      "explanation": "The services sector contributes the highest to India's GDP."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "Which organization is responsible for regulating the Indian banking system?",
+      "question": "The term 'Gross Domestic Product (GDP)' refers to:",
       "options": [
-        "SEBI",
-        "RBI",
-        "IRDA",
-        "IBSA"
+        "Total value of goods and services produced within a country in a year",
+        "Total income of a country",
+        "Total exports of a country",
+        "Total foreign investment"
       ],
-      "correct": 1,
-      "explanation": "The Reserve Bank of India (RBI) regulates banking in India."
+      "correct": 0,
+      "explanation": "GDP measures the total value of goods and services produced within a country in a specific period."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "The term 'Gross Domestic Product' (GDP) refers to:",
+      "question": "Which Five Year Plan emphasized 'Self-Reliance' and 'Small-Scale Industries'?",
       "options": [
-        "Total value of goods and services produced within a country in a year",
-        "Total exports of a country",
-        "Total income of the government",
-        "Total investment in infrastructure"
+        "First Five Year Plan",
+        "Second Five Year Plan",
+        "Fifth Five Year Plan",
+        "Tenth Five Year Plan"
       ],
       "correct": 0,
-      "explanation": "GDP measures the total market value of all finished goods and services produced within a country in a specific period."
+      "explanation": "The First Five Year Plan emphasized self-reliance and promotion of small-scale industries."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which scientific principle explains the phenomenon of a rocket's motion in space?",
+      "question": "Which gas is most responsible for the greenhouse effect?",
       "options": [
-        "Newton’s Third Law",
-        "Archimedes' Principle",
-        "Bernoulli’s Theorem",
-        "Hubble's Law"
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Argon"
       ],
-      "correct": 0,
-      "explanation": "Newton’s Third Law states that for every action, there is an equal and opposite reaction, which explains rocket propulsion."
+      "correct": 1,
+      "explanation": "Carbon dioxide is a major greenhouse gas responsible for trapping heat in the Earth's atmosphere."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element is most abundant in the Earth’s crust?",
+      "question": "The process of photosynthesis in plants primarily involves the conversion of:",
       "options": [
-        "Oxygen",
-        "Silicon",
-        "Aluminium",
-        "Iron"
+        "Oxygen into glucose",
+        "Carbon dioxide into glucose",
+        "Nitrogen into amino acids",
+        "Water into oxygen"
       ],
-      "correct": 0,
-      "explanation": "Oxygen is the most abundant element in the Earth's crust, primarily found in oxide minerals."
+      "correct": 1,
+      "explanation": "Photosynthesis converts carbon dioxide and water into glucose and oxygen, using sunlight."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "The process of photosynthesis primarily occurs in which part of the plant?",
+      "question": "Which element is used as a moderator in nuclear reactors?",
       "options": [
-        "Root",
-        "Stem",
-        "Leaf",
-        "Flower"
+        "Uranium",
+        "Graphite",
+        "Plutonium",
+        "Radon"
       ],
-      "correct": 2,
-      "explanation": "Photosynthesis primarily occurs in the leaves, where chlorophyll captures light energy."
+      "correct": 1,
+      "explanation": "Graphite is used as a moderator in some nuclear reactors to slow down neutrons."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which technology is used in the production of solar panels?",
+      "question": "The 'Hubble Space Telescope' is primarily used for:",
       "options": [
-        "Photovoltaic cells",
-        "Thermocouples",
-        "Piezoelectric materials",
-        "Capacitors"
+        "Studying Earth's atmosphere",
+        "Deep space observation",
+        "Communications",
+        "Weather prediction"
       ],
-      "correct": 0,
-      "explanation": "Photovoltaic cells convert sunlight directly into electricity in solar panels."
+      "correct": 1,
+      "explanation": "Hubble Space Telescope is used for deep space observation, capturing images of distant galaxies and celestial objects."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which national park in India is known for the Bengal tiger and is a UNESCO World Heritage Site?",
+      "question": "Which of the following is a UNESCO World Heritage Site in India?",
       "options": [
-        "Jim Corbett National Park",
-        "Kanha National Park",
-        "Sundarbans National Park",
-        "Bandhavgarh National Park"
+        "Sundarbans",
+        "Rann of Kutch",
+        "Khajuraho Group of Monuments",
+        "All of the above"
       ],
-      "correct": 2,
-      "explanation": "Sundarbans National Park is famous for its Bengal tigers and is a UNESCO World Heritage Site."
+      "correct": 3,
+      "explanation": "All listed sites are UNESCO World Heritage Sites in India."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity aims to:",
+      "question": "The term 'Biodiversity Hotspot' was first introduced by:",
       "options": [
-        "Promote single-use plastics",
-        "Conserve biological diversity",
-        "Control air pollution",
-        "Increase fossil fuel use"
+        "UNEP",
+        "Conservation International",
+        "WWF",
+        "ICUN"
       ],
       "correct": 1,
-      "explanation": "The Convention on Biological Diversity (CBD) aims to conserve biological diversity and ensure sustainable use."
+      "explanation": "Conservation International first introduced the concept of biodiversity hotspots."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a non-renewable resource?",
+      "question": "Which international agreement aims to conserve biodiversity and ensure sustainable use?",
       "options": [
-        "Solar energy",
-        "Wind energy",
-        "Coal",
-        "Biomass"
+        "Montreal Protocol",
+        "Kyoto Protocol",
+        "Convention on Biological Diversity",
+        "Paris Agreement"
       ],
       "correct": 2,
-      "explanation": "Coal is a non-renewable resource formed over millions of years."
+      "explanation": "The Convention on Biological Diversity (CBD) is aimed at conserving biodiversity."
     },
     {
       "id": 26,
       "category": "Environment & Ecology",
-      "question": "The ‘Kyoto Protocol’ is associated with:",
+      "question": "The 'Green India Mission' primarily focuses on:",
       "options": [
-        "Climate change mitigation",
-        "Salinity control",
-        "Deforestation",
-        "Wildlife protection"
+        "Afforestation and sustainable forest management",
+        "Renewable energy",
+        "Water conservation",
+        "Air pollution control"
       ],
       "correct": 0,
-      "explanation": "The Kyoto Protocol aims to reduce greenhouse gas emissions to combat climate change."
+      "explanation": "The Green India Mission aims at increasing forest cover and promoting sustainable forest management."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who is the current President of India (as of June 2026)?",
+      "question": "Who is the current External Affairs Minister of India?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "Ram Nath Sharma"
+        "Subrahmanyam Jaishankar",
+        "S. Jaishankar",
+        "Prakash Javadekar",
+        "Rajnath Singh"
       ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
+      "correct": 1,
+      "explanation": "S. Jaishankar is the current External Affairs Minister of India."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Mohan Charan Majhi is the current Chief Minister of:",
+      "question": "Which country hosted the G20 Summit in 2023?",
+      "options": [
+        "India",
+        "Germany",
+        "Japan",
+        "Brazil"
+      ],
+      "correct": 0,
+      "explanation": "India hosted the G20 Summit in 2023."
+    },
+    {
+      "id": 29,
+      "category": "Current Affairs & GK",
+      "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
       "options": [
         "Odisha",
-        "Odisha",
-        "Odisha",
-        "Odisha"
+        "West Bengal",
+        "Bihar",
+        "Chhattisgarh"
       ],
       "correct": 0,
       "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
     },
     {
-      "id": 29,
-      "category": "Current Affairs & GK",
-      "question": "Which country hosted the G20 Summit in 2023?",
-      "options": [
-        "India",
-        "United States",
-        "France",
-        "China"
-      ],
-      "correct": 0,
-      "explanation": "India hosted the G20 Summit in 2023, with New Delhi as the host city."
-    },
-    {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Who is the current External Affairs Minister of India?",
+      "question": "Which prestigious award did Indian athlete Neeraj Chopra win recently in 2023?",
       "options": [
-        "S. Jaishankar",
-        "Nirmala Sitharaman",
-        "Piyush Goyal",
-        "Amit Shah"
+        "Olympic Gold",
+        "Diamond League Trophy",
+        "World Championship Medal",
+        "Commonwealth Gold"
       ],
-      "correct": 0,
-      "explanation": "S. Jaishankar is the current External Affairs Minister of India since 2019."
+      "correct": 2,
+      "explanation": "Neeraj Chopra won a medal at the World Athletics Championships in 2023, adding to his accolades."
     }
   ]
 }

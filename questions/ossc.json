@@ -1,398 +1,346 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-06-23",
-  "questionCount": 30,
+  "date": "2026-06-24",
+  "questionCount": 26,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which district in Odisha is famous for the Chilika Lake, the largest coastal lagoon in India?",
+      "question": "Which is the largest river by volume flowing through Odisha?",
       "options": [
-        "Puri",
-        "Khordha",
-        "Ganjam",
-        "Jagatsinghpur"
+        "Mahanadi",
+        "Godavari",
+        "Luni",
+        "Krishna"
       ],
-      "correct": 1,
-      "explanation": "Khordha district is known for the Chilika Lake, which attracts many tourists and migratory birds."
+      "correct": 0,
+      "explanation": "The Mahanadi is the largest river flowing through Odisha by volume and is a major water source for the state."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is predominantly found in the Kandhamal district of Odisha?",
+      "question": "Which tribal community is predominantly found in the Koraput district of Odisha?",
       "options": [
-        "Santals",
-        "Oraons",
-        "Kandhas",
-        "Bhutias"
+        "Kandha",
+        "Saora",
+        "Gond",
+        "Santhal"
       ],
-      "correct": 2,
-      "explanation": "The Kandha community is a major tribe in Kandhamal district, known for their distinct culture and traditions."
+      "correct": 1,
+      "explanation": "The Saora tribe is predominantly found in the Koraput district of Odisha."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "Which is the famous temple located in Puri, Odisha?",
+      "question": "Which festival is celebrated to mark the Rath Yatra in Odisha?",
       "options": [
-        "Lingaraj Temple",
-        "Jagannath Temple",
-        "Sun Temple",
-        "Mukteshvara Temple"
+        "Diwali",
+        "Durga Puja",
+        "Rath Yatra",
+        "Holi"
       ],
-      "correct": 1,
-      "explanation": "The Jagannath Temple in Puri is a renowned Hindu shrine and a significant pilgrimage site."
+      "correct": 2,
+      "explanation": "Rath Yatra is a famous festival in Odisha celebrated in Puri, featuring chariot processions of Lord Jagannath."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which river flows through the city of Cuttack in Odisha?",
-      "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Baitarani",
-        "Rushikulya"
-      ],
-      "correct": 0,
-      "explanation": "The Mahanadi River flows through Cuttack, providing water for agriculture and other activities."
-    },
-    {
-      "id": 5,
-      "category": "Odisha General Knowledge",
-      "question": "The famous Rath Yatra festival is associated with which city in Odisha?",
+      "question": "Which is the capital city of Odisha?",
       "options": [
         "Bhubaneswar",
         "Cuttack",
         "Puri",
-        "Sambalpur"
+        "Rourkela"
       ],
-      "correct": 2,
-      "explanation": "The Rath Yatra is celebrated in Puri, where Lord Jagannath’s chariot procession attracts thousands."
+      "correct": 0,
+      "explanation": "Bhubaneswar is the capital city of Odisha."
+    },
+    {
+      "id": 5,
+      "category": "Odisha General Knowledge",
+      "question": "Which ancient dynasty was associated with the Kalinga region in Odisha?",
+      "options": [
+        "Maurya",
+        "Gupta",
+        "Chola",
+        "Varman"
+      ],
+      "correct": 0,
+      "explanation": "Mauryan Emperor Ashoka’s conquest of Kalinga is a significant event in Odisha’s history."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which ancient kingdom was historically located in the Odisha region?",
+      "question": "Which famous temple in Odisha is known for its exquisite stone carvings and architecture?",
       "options": [
-        "Kalinga",
-        "Magadha",
-        "Maurya",
-        "Chola"
+        "Konark Sun Temple",
+        "Lingaraj Temple",
+        "Jagannath Temple",
+        "Mukteswara Temple"
       ],
       "correct": 0,
-      "explanation": "Kalinga was an ancient kingdom in Odisha, famously known for its conflict with Alexander the Great and its rich history."
+      "explanation": "The Konark Sun Temple is renowned for its stunning architecture and intricate stone carvings."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "Who was the founder of the Maurya Empire in India?",
+      "question": "Who was the leader of the Indian independence movement known for non-violent protest?",
       "options": [
-        "Chandragupta Maurya",
-        "Ashoka the Great",
-        "Bindusara",
-        "Shivaji"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bhagat Singh"
       ],
-      "correct": 0,
-      "explanation": "Chandragupta Maurya established the Maurya Empire in India around 321 BCE."
+      "correct": 1,
+      "explanation": "Mahatma Gandhi was the leader famous for advocating non-violent civil disobedience."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Which UNESCO World Heritage Site is located in Odisha?",
+      "question": "Which ancient Indian university was famous for higher education during the Mauryan period?",
       "options": [
-        "Khajuraho Temples",
-        "Sanchi Stupa",
-        "Konark Sun Temple",
-        "Hampi"
+        "Nalanda",
+        "Takshashila",
+        "Valabhi",
+        "Kanchi"
       ],
-      "correct": 2,
-      "explanation": "The Sun Temple at Konark in Odisha is a UNESCO World Heritage Site."
+      "correct": 0,
+      "explanation": "Nalanda was an ancient renowned university during the Mauryan and Gupta periods."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "Who was a prominent freedom fighter from Odisha involved in the Quit India Movement?",
+      "question": "Which Indian freedom fighter is known as 'Iron Man of India'?",
       "options": [
-        "Biju Patnaik",
-        "Utkal Gaurav",
-        "Gopabandhu Das",
-        "Madhu Babu"
+        "Subhas Chandra Bose",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Bhagat Singh"
       ],
-      "correct": 2,
-      "explanation": "Gopabandhu Das was a key freedom fighter and social reformer from Odisha."
+      "correct": 1,
+      "explanation": "Sardar Vallabhbhai Patel was called the 'Iron Man of India' for his role in unifying India."
     },
     {
       "id": 10,
       "category": "Indian History & Culture",
-      "question": "The famous battle of Plassey in 1757 marked the beginning of which company's dominance in India?",
+      "question": "Which heritage site is located in Odisha and recognized by UNESCO?",
       "options": [
-        "French East India Company",
-        "Dutch East India Company",
-        "British East India Company",
-        "Portuguese India"
+        "Khajuraho Temples",
+        "Sun Temple, Konark",
+        "Qutub Minar",
+        "Hampi"
       ],
-      "correct": 2,
-      "explanation": "The Battle of Plassey led to the rise of British dominance in India under the British East India Company."
+      "correct": 1,
+      "explanation": "The Sun Temple at Konark in Odisha is a UNESCO World Heritage Site."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which is the longest river flowing entirely within India?",
+      "question": "Which is the highest peak in India?",
       "options": [
-        "Ganges",
-        "Godavari",
-        "Mahanadi",
-        "Brahmaputra"
+        "Kangchenjunga",
+        "Everest",
+        "K2",
+        "Nanda Devi"
       ],
       "correct": 1,
-      "explanation": "The Godavari is the longest river flowing entirely within India."
+      "explanation": "Mount Everest, located in the Himalayas, is the highest peak in India and the world."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Odisha's largest mineral deposit is of which mineral?",
+      "question": "Which soil type is most suitable for cotton cultivation in India?",
       "options": [
-        "Bauxite",
-        "Coal",
-        "Iron ore",
-        "Mica"
+        "Alluvial",
+        "Black soil",
+        "Laterite",
+        "Red soil"
       ],
-      "correct": 2,
-      "explanation": "Odisha is rich in iron ore deposits, which are among the largest in India."
+      "correct": 1,
+      "explanation": "Black soil, also known as regur, is ideal for cotton cultivation."
     },
     {
       "id": 13,
       "category": "Geography",
-      "question": "Which climate zone is predominant in Odisha?",
+      "question": "Which mineral is primarily extracted from the region of Talcher in Odisha?",
       "options": [
-        "Tropical rainforest",
-        "Arid desert",
-        "Tropical monsoon",
-        "Temperate"
+        "Bauxite",
+        "Coal",
+        "Iron ore",
+        "Zinc"
       ],
-      "correct": 2,
-      "explanation": "Odisha has a tropical monsoon climate with significant seasonal rainfall."
+      "correct": 1,
+      "explanation": "Talcher is a major coal mining area in Odisha."
     },
     {
       "id": 14,
       "category": "Geography",
-      "question": "The Mahanadi delta is famous for which crop?",
+      "question": "Which dam built across the Mahanadi River is the largest in Odisha?",
       "options": [
-        "Tea",
-        "Paddy (Rice)",
-        "Coffee",
-        "Cotton"
+        "Hirakud Dam",
+        "Indira Sagar",
+        "Sardar Sarovar",
+        "Bhavanapadu"
       ],
-      "correct": 1,
-      "explanation": "The Mahanadi delta is a fertile region known for rice cultivation."
+      "correct": 0,
+      "explanation": "Hirakud Dam on the Mahanadi is the largest and one of the world's longest earthen dams."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Which fundamental right ensures the right to equality before the law?",
+      "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
       "options": [
-        "Right to Freedom",
-        "Right to Equality",
-        "Right against Exploitation",
-        "Cultural and Educational Rights"
+        "Article 14",
+        "Articles 12-35",
+        "Article 368",
+        "Article 370"
       ],
       "correct": 1,
-      "explanation": "The Right to Equality guarantees equality before the law and equal protection of the law."
+      "explanation": "Articles 12-35 of the Indian Constitution detail Fundamental Rights."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "The Directive Principles of State Policy (DPSP) are found in which part of the Indian Constitution?",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "Part 3",
-        "Part 4",
-        "Part 5",
-        "Part 6"
+        "The President of India",
+        "The Prime Minister",
+        "The Parliament",
+        "The Chief Justice itself"
       ],
-      "correct": 1,
-      "explanation": "The DPSP are located in Part IV of the Indian Constitution."
+      "correct": 0,
+      "explanation": "The President of India appoints the Chief Justice of India."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Who is the current Speaker of the Lok Sabha?",
+      "question": "Which body is responsible for amending the Indian Constitution?",
       "options": [
-        "Om Birla",
-        "M. Venkaiah Naidu",
-        "Smt. Sumitra Mahajan",
-        "Nirmala Sitharaman"
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Parliament of India",
+        "Supreme Court"
       ],
-      "correct": 0,
-      "explanation": "Om Birla is the current Speaker of the Lok Sabha."
+      "correct": 2,
+      "explanation": "The Indian Parliament amends the Constitution through a special procedure."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "Which article of the Indian Constitution deals with the Union List?",
+      "question": "Which level of government in India is responsible for local governance?",
       "options": [
-        "Article 246",
-        "Article 248",
-        "Article 257",
-        "Article 280"
+        "Central Government",
+        "State Government",
+        "Panchayats and Municipalities",
+        "Supreme Court"
       ],
-      "correct": 0,
-      "explanation": "Article 246 deals with the distribution of legislative powers, including the Union List."
+      "correct": 2,
+      "explanation": "Panchayats and Municipalities are responsible for local self-governance."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which device is used to convert electrical energy into mechanical energy?",
+      "question": "What is the primary function of red blood cells?",
       "options": [
-        "Transformer",
-        "Motor",
-        "Generator",
-        "Battery"
+        "Fight infections",
+        "Transport oxygen",
+        "Clot blood",
+        "Produce hormones"
       ],
       "correct": 1,
-      "explanation": "An electric motor converts electrical energy into mechanical energy."
+      "explanation": "Red blood cells primarily transport oxygen from lungs to body tissues."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "What is the pH value of a neutral solution?",
+      "question": "Which element is most abundant in the Earth's crust?",
       "options": [
-        "7",
-        "0",
-        "14",
-        "3"
+        "Oxygen",
+        "Silicon",
+        "Iron",
+        "Aluminum"
       ],
       "correct": 0,
-      "explanation": "A neutral solution, like pure water, has a pH of 7."
+      "explanation": "Oxygen is the most abundant element in the Earth's crust."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which vitamin is mainly produced by the human body when exposed to sunlight?",
+      "question": "Which gas is commonly used in fire extinguishers?",
       "options": [
-        "Vitamin A",
-        "Vitamin B12",
-        "Vitamin C",
-        "Vitamin D"
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
       ],
-      "correct": 3,
-      "explanation": "Vitamin D is synthesized in the skin upon exposure to sunlight."
+      "correct": 0,
+      "explanation": "Carbon dioxide is used in fire extinguishers to suppress flames."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which disease is caused by deficiency of Vitamin C?",
+      "question": "Which disease is caused by deficiency of Vitamin D?",
       "options": [
-        "Rickets",
         "Scurvy",
+        "Rickets",
         "Anemia",
-        "Night blindness"
+        "Beriberi"
       ],
       "correct": 1,
-      "explanation": "Vitamin C deficiency causes scurvy."
+      "explanation": "Vitamin D deficiency causes Rickets, leading to weak bones in children."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
       "question": "What is the next number in the series: 2, 4, 8, 16, ?",
       "options": [
-        "20",
         "24",
         "32",
-        "64"
+        "18",
+        "20"
       ],
-      "correct": 2,
-      "explanation": "The pattern doubles each time; 16×2=32."
+      "correct": 1,
+      "explanation": "The series doubles each time; next number is 32."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a certain code, 'ODISHA' is written as 'PKJRGZ', what is the code for 'BIHAR'?",
+      "question": "If in a certain code, 'ODISHA' is written as 'QPEITB', how is 'INDIA' written in that code?",
       "options": [
-        "CLJTK",
-        "CJGTK",
-        "CKJTK",
-        "DJGTK"
+        "JQKFZ",
+        "JPKBZ",
+        "JQKAZ",
+        "JQKAZ"
       ],
-      "correct": 0,
-      "explanation": "Pattern involves shifting letters; applying similar logic gives 'CLJTK'."
+      "correct": 2,
+      "explanation": "Pattern: each letter shifts forward by 1. 'INDIA' becomes 'JQKAZ'."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "If 'DAY' is coded as 'EAZ', then how is 'NIGHT' coded?",
+      "question": "Arrange the words 'Odisha', 'India', 'Himalaya', 'Bharat' in increasing order of their length:",
       "options": [
-        "OJHIU",
-        "OHJUT",
-        "OJIUT",
-        "OHIUT"
+        "India, Odisha, Bharat, Himalaya",
+        "Odisha, India, Bharat, Himalaya",
+        "Bharat, Odisha, India, Himalaya",
+        "Himalaya, Bharat, Odisha, India"
       ],
-      "correct": 3,
-      "explanation": "Pattern involves shifting letters; the correct code follows this logic."
+      "correct": 1,
+      "explanation": "Lengths: Odisha (6), India (5), Bharat (6), Himalaya (8). Correct order: India, Odisha, Bharat, Himalaya."
     },
     {
       "id": 26,
-      "category": "Mental Ability & Reasoning",
-      "question": "Which of the following is a logical analogy: Dog is to Puppy as Cat is to?",
-      "options": [
-        "Kitten",
-        "Cub",
-        "Piglet",
-        "Calf"
-      ],
-      "correct": 0,
-      "explanation": "A puppy is a young dog; similarly, a kitten is a young cat."
-    },
-    {
-      "id": 27,
       "category": "Current Affairs",
       "question": "Who is the current President of India as of 2026?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "Venkata Ramana"
+        "Venkaya Naidu"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India in 2022 to promote digital payments?",
-      "options": [
-        "Digital India",
-        "Cashless India",
-        "Digital Payment Initiative",
-        "Digital Bazzaar"
-      ],
-      "correct": 1,
-      "explanation": "The 'Cashless India' initiative promotes digital payments and cashless transactions."
-    },
-    {
-      "id": 29,
-      "category": "Current Affairs",
-      "question": "Which athlete from Odisha won a gold medal in the Asian Games 2023?",
-      "options": [
-        "Dutee Chand",
-        "Sushil Kumar",
-        "Vijay Kumar",
-        "P. V. Sindhu"
-      ],
-      "correct": 0,
-      "explanation": "Dutee Chand from Odisha won a gold medal in athletics at the Asian Games 2023."
-    },
-    {
-      "id": 30,
-      "category": "Current Affairs",
-      "question": "Who was awarded the Padma Vibhushan in 2023 for contributions to science and technology?",
-      "options": [
-        "Dr. Raghunath Anant Mashelkar",
-        "Dr. A.P.J. Abdul Kalam",
-        "Dr. K. Radhakrishnan",
-        "Dr. Tessy Thomas"
-      ],
-      "correct": 0,
-      "explanation": "Dr. Raghunath Mashelkar was awarded the Padma Vibhushan for his contributions to science."
+      "explanation": "Droupadi Murmu has been the President since 2022."
     }
   ]
 }
