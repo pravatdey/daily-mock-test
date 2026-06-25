@@ -1,338 +1,351 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-06-24",
-  "questionCount": 26,
+  "date": "2026-06-25",
+  "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which is the largest river by volume flowing through Odisha?",
+      "question": "Which is the largest river flowing entirely within Odisha?",
       "options": [
         "Mahanadi",
-        "Godavari",
-        "Luni",
-        "Krishna"
+        "Brahmani",
+        "eRiver",
+        "Baitarani"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi is the largest river flowing through Odisha by volume and is a major water source for the state."
+      "explanation": "Mahanadi is the largest river flowing entirely within Odisha, passing through several districts and forming the delta before merging into the Bay of Bengal."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is predominantly found in the Koraput district of Odisha?",
+      "question": "Which tribal community is primarily found in the Kandhamal district of Odisha?",
       "options": [
-        "Kandha",
-        "Saora",
+        "Santhal",
+        "Kutia Kondh",
         "Gond",
-        "Santhal"
+        "Oraon"
       ],
       "correct": 1,
-      "explanation": "The Saora tribe is predominantly found in the Koraput district of Odisha."
+      "explanation": "The Kutia Kondh tribe is mainly found in Kandhamal district, known for their unique culture and traditional practices."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated to mark the Rath Yatra in Odisha?",
+      "question": "Which famous lake is located near Bhubaneswar, Odisha?",
       "options": [
-        "Diwali",
-        "Durga Puja",
-        "Rath Yatra",
-        "Holi"
+        "Chilika Lake",
+        "Kanjia Lake",
+        "Barunei Lake",
+        "Ramtirtha Lake"
       ],
-      "correct": 2,
-      "explanation": "Rath Yatra is a famous festival in Odisha celebrated in Puri, featuring chariot processions of Lord Jagannath."
+      "correct": 1,
+      "explanation": "Kanjia Lake is located near Bhubaneswar and is known for recreational activities and scenic beauty."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which is the capital city of Odisha?",
+      "question": "Which festival is celebrated to mark the Odia New Year?",
       "options": [
-        "Bhubaneswar",
-        "Cuttack",
-        "Puri",
-        "Rourkela"
+        "Chandan Yatra",
+        "Rath Yatra",
+        "Nuakhai",
+        "Durga Puja"
       ],
-      "correct": 0,
-      "explanation": "Bhubaneswar is the capital city of Odisha."
+      "correct": 2,
+      "explanation": "Nuakhai is the harvest festival celebrated to mark the Odia New Year, mainly in western Odisha."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Which ancient dynasty was associated with the Kalinga region in Odisha?",
+      "question": "Which historical ruler is associated with the Kalinga War, leading to the spread of Buddhism?",
       "options": [
-        "Maurya",
-        "Gupta",
-        "Chola",
-        "Varman"
+        "Ashoka the Great",
+        "Chandragupta Maurya",
+        "Harsha",
+        "Samudragupta"
       ],
       "correct": 0,
-      "explanation": "Mauryan Emperor Ashoka’s conquest of Kalinga is a significant event in Odisha’s history."
+      "explanation": "Emperor Ashoka the Great fought the Kalinga War, after which he embraced Buddhism and promoted its spread."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which famous temple in Odisha is known for its exquisite stone carvings and architecture?",
+      "question": "Who is a renowned Odia personality known for his contributions to literature and poetry?",
       "options": [
-        "Konark Sun Temple",
-        "Lingaraj Temple",
-        "Jagannath Temple",
-        "Mukteswara Temple"
+        "Kabi Samrat Upendra Bhanja",
+        "Rabindranath Tagore",
+        "Bankim Chandra Chattopadhyay",
+        "Kalidasa"
       ],
       "correct": 0,
-      "explanation": "The Konark Sun Temple is renowned for its stunning architecture and intricate stone carvings."
+      "explanation": "Kabi Samrat Upendra Bhanja is a celebrated poet in Odia literature, known for his classical compositions."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "Who was the leader of the Indian independence movement known for non-violent protest?",
+      "question": "Which ancient Indian university was known for teaching arts, sciences, and philosophy?",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bhagat Singh"
+        "Nalanda",
+        "Takshashila",
+        "Vikramashila",
+        "Pataliputra"
       ],
-      "correct": 1,
-      "explanation": "Mahatma Gandhi was the leader famous for advocating non-violent civil disobedience."
+      "correct": 0,
+      "explanation": "Nalanda was one of the world's earliest residential universities, famous for its academic excellence."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Which ancient Indian university was famous for higher education during the Mauryan period?",
+      "question": "Who was the Mughal emperor during the construction of the Taj Mahal?",
       "options": [
-        "Nalanda",
-        "Takshashila",
-        "Valabhi",
-        "Kanchi"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "correct": 0,
-      "explanation": "Nalanda was an ancient renowned university during the Mauryan and Gupta periods."
+      "correct": 2,
+      "explanation": "Shah Jahan commissioned the Taj Mahal during his reign as a mausoleum for his wife Mumtaz Mahal."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "Which Indian freedom fighter is known as 'Iron Man of India'?",
+      "question": "Which movement was initiated by Mahatma Gandhi to promote Indian handicrafts and self-reliance?",
       "options": [
-        "Subhas Chandra Bose",
-        "Sardar Vallabhbhai Patel",
-        "Jawaharlal Nehru",
-        "Bhagat Singh"
+        "Swadeshi Movement",
+        "Civil Disobedience",
+        "Non-Cooperation Movement",
+        "Quit India Movement"
       ],
-      "correct": 1,
-      "explanation": "Sardar Vallabhbhai Patel was called the 'Iron Man of India' for his role in unifying India."
+      "correct": 0,
+      "explanation": "Swadeshi Movement encouraged the use of Indian goods and promoted self-reliance, initiated by Gandhi."
     },
     {
       "id": 10,
       "category": "Indian History & Culture",
-      "question": "Which heritage site is located in Odisha and recognized by UNESCO?",
+      "question": "Which UNESCO World Heritage site is located in India and known for its ancient rock-cut caves?",
       "options": [
-        "Khajuraho Temples",
-        "Sun Temple, Konark",
+        "Ajanta Caves",
         "Qutub Minar",
-        "Hampi"
+        "Hampi",
+        "Red Fort"
       ],
-      "correct": 1,
-      "explanation": "The Sun Temple at Konark in Odisha is a UNESCO World Heritage Site."
+      "correct": 0,
+      "explanation": "The Ajanta Caves are UNESCO World Heritage sites renowned for their ancient Buddhist rock-cut caves."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which is the highest peak in India?",
+      "question": "Which physical feature dominates the western part of India?",
       "options": [
-        "Kangchenjunga",
-        "Everest",
-        "K2",
-        "Nanda Devi"
+        "Thar Desert",
+        "Deccan Plateau",
+        "Himalayas",
+        "Thar Desert"
       ],
       "correct": 1,
-      "explanation": "Mount Everest, located in the Himalayas, is the highest peak in India and the world."
+      "explanation": "The Deccan Plateau dominates much of western India and extends across several states."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Which soil type is most suitable for cotton cultivation in India?",
+      "question": "Which mineral is most abundantly found in Odisha?",
       "options": [
-        "Alluvial",
-        "Black soil",
-        "Laterite",
-        "Red soil"
+        "Coal",
+        "Magnesium",
+        "Bauxite",
+        "Copper"
       ],
-      "correct": 1,
-      "explanation": "Black soil, also known as regur, is ideal for cotton cultivation."
+      "correct": 2,
+      "explanation": "Odisha is rich in bauxite, which is used in aluminum production."
     },
     {
       "id": 13,
       "category": "Geography",
-      "question": "Which mineral is primarily extracted from the region of Talcher in Odisha?",
+      "question": "Which of the following is a major dam built on the Mahanadi River?",
       "options": [
-        "Bauxite",
-        "Coal",
-        "Iron ore",
-        "Zinc"
+        "Rengali Dam",
+        "Bhakra Nangal Dam",
+        "Sardar Sarovar Dam",
+        "Hirakud Dam"
       ],
-      "correct": 1,
-      "explanation": "Talcher is a major coal mining area in Odisha."
+      "correct": 3,
+      "explanation": "Hirakud Dam on the Mahanadi River is one of the longest earthen dams in the world."
     },
     {
       "id": 14,
       "category": "Geography",
-      "question": "Which dam built across the Mahanadi River is the largest in Odisha?",
+      "question": "Odisha’s climate is primarily classified as:",
       "options": [
-        "Hirakud Dam",
-        "Indira Sagar",
-        "Sardar Sarovar",
-        "Bhavanapadu"
+        "Arid",
+        "Humid subtropical",
+        "Tropical monsoon",
+        "Temperate"
       ],
-      "correct": 0,
-      "explanation": "Hirakud Dam on the Mahanadi is the largest and one of the world's longest earthen dams."
+      "correct": 2,
+      "explanation": "Odisha has a tropical monsoon climate, with heavy rainfall during monsoon season."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
+      "question": "Which among these is a Fundamental Right guaranteed by the Indian Constitution?",
       "options": [
-        "Article 14",
-        "Articles 12-35",
-        "Article 368",
-        "Article 370"
+        "Right to work",
+        "Right to property",
+        "Right to equality",
+        "Right to strike"
       ],
-      "correct": 1,
-      "explanation": "Articles 12-35 of the Indian Constitution detail Fundamental Rights."
+      "correct": 2,
+      "explanation": "Right to equality is a Fundamental Right enshrined in the Indian Constitution."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "The Directive Principles of State Policy are meant to:",
       "options": [
-        "The President of India",
-        "The Prime Minister",
-        "The Parliament",
-        "The Chief Justice itself"
+        "Be justiciable in courts",
+        "Guide the policy of the state",
+        "Override Fundamental Rights",
+        "Provide legal rights"
       ],
-      "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India."
+      "correct": 1,
+      "explanation": "DPSP guide the government in policy making but are non-justiciable."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Which body is responsible for amending the Indian Constitution?",
+      "question": "Who presides over the Lok Sabha in the absence of the Speaker?",
       "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "Parliament of India",
-        "Supreme Court"
+        "Deputy Speaker",
+        "Prime Minister",
+        "Vice President",
+        "President"
       ],
-      "correct": 2,
-      "explanation": "The Indian Parliament amends the Constitution through a special procedure."
+      "correct": 0,
+      "explanation": "The Deputy Speaker presides over the Lok Sabha when the Speaker is absent."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "Which level of government in India is responsible for local governance?",
+      "question": "Which system of land revenue was introduced by the British in India?",
       "options": [
-        "Central Government",
-        "State Government",
-        "Panchayats and Municipalities",
-        "Supreme Court"
+        "Zamindari System",
+        "Ryotwari System",
+        "Mahalwari System",
+        "All of the above"
       ],
-      "correct": 2,
-      "explanation": "Panchayats and Municipalities are responsible for local self-governance."
+      "correct": 3,
+      "explanation": "The British introduced all these systems, often in combination, for revenue collection."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "What is the primary function of red blood cells?",
+      "question": "What is the pH value of a neutral solution?",
       "options": [
-        "Fight infections",
-        "Transport oxygen",
-        "Clot blood",
-        "Produce hormones"
+        "7",
+        "1",
+        "14",
+        "0"
       ],
-      "correct": 1,
-      "explanation": "Red blood cells primarily transport oxygen from lungs to body tissues."
+      "correct": 0,
+      "explanation": "A neutral solution has a pH of 7."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element is most abundant in the Earth's crust?",
+      "question": "Which gas is primarily responsible for the greenhouse effect?",
       "options": [
         "Oxygen",
-        "Silicon",
-        "Iron",
-        "Aluminum"
+        "Carbon dioxide",
+        "Nitrogen",
+        "Helium"
       ],
-      "correct": 0,
-      "explanation": "Oxygen is the most abundant element in the Earth's crust."
+      "correct": 1,
+      "explanation": "Carbon dioxide traps heat in the atmosphere, contributing to the greenhouse effect."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which gas is commonly used in fire extinguishers?",
+      "question": "Which vitamin is mainly produced when sunlight acts on human skin?",
       "options": [
-        "Carbon dioxide",
-        "Oxygen",
-        "Nitrogen",
-        "Helium"
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
       ],
-      "correct": 0,
-      "explanation": "Carbon dioxide is used in fire extinguishers to suppress flames."
+      "correct": 3,
+      "explanation": "Vitamin D is produced in the skin upon exposure to sunlight."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which disease is caused by deficiency of Vitamin D?",
+      "question": "Which disease is caused by deficiency of vitamin C?",
       "options": [
-        "Scurvy",
         "Rickets",
-        "Anemia",
-        "Beriberi"
+        "Scurvy",
+        "Beriberi",
+        "Anemia"
       ],
       "correct": 1,
-      "explanation": "Vitamin D deficiency causes Rickets, leading to weak bones in children."
+      "explanation": "Scurvy is caused by vitamin C deficiency."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
-      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
+      "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
       "options": [
-        "24",
-        "32",
-        "18",
-        "20"
+        "42",
+        "48",
+        "56",
+        "60"
       ],
-      "correct": 1,
-      "explanation": "The series doubles each time; next number is 32."
+      "correct": 2,
+      "explanation": "Series increases by 4, 6, 8, 10… So next is 42 + 14 = 56."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a certain code, 'ODISHA' is written as 'QPEITB', how is 'INDIA' written in that code?",
+      "question": "If in a certain code LANGUAGE, 'MATH' is written as 'NBUJ', how is 'GEAR' written?",
       "options": [
-        "JQKFZ",
-        "JPKBZ",
-        "JQKAZ",
-        "JQKAZ"
+        "HFBS",
+        "HFSB",
+        "HFCT",
+        "HGBQ"
       ],
-      "correct": 2,
-      "explanation": "Pattern: each letter shifts forward by 1. 'INDIA' becomes 'JQKAZ'."
+      "correct": 0,
+      "explanation": "Each letter shifts forward by one in the alphabet; G+1=H, E+1=F, etc., so GEAR becomes HFBS."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "Arrange the words 'Odisha', 'India', 'Himalaya', 'Bharat' in increasing order of their length:",
+      "question": "If the day after tomorrow is Friday, what day was yesterday?",
       "options": [
-        "India, Odisha, Bharat, Himalaya",
-        "Odisha, India, Bharat, Himalaya",
-        "Bharat, Odisha, India, Himalaya",
-        "Himalaya, Bharat, Odisha, India"
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
       ],
-      "correct": 1,
-      "explanation": "Lengths: Odisha (6), India (5), Bharat (6), Himalaya (8). Correct order: India, Odisha, Bharat, Himalaya."
+      "correct": 0,
+      "explanation": "If day after tomorrow is Friday, then today is Wednesday, so yesterday was Tuesday."
     },
     {
       "id": 26,
+      "category": "Mental Ability & Reasoning",
+      "question": "Blood relation: Pointing to a man, a woman says, 'He is the son of my father’s only daughter.' Who is the man?",
+      "options": [
+        "Her brother",
+        "Her son",
+        "Her father",
+        "Her husband"
+      ],
+      "correct": 0,
+      "explanation": "Her father’s only daughter is her, so the man is her brother."
+    },
+    {
+      "id": 27,
       "category": "Current Affairs",
-      "question": "Who is the current President of India as of 2026?",
+      "question": "Who is the current President of India as of June 2026?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
@@ -340,7 +353,46 @@
         "Venkaya Naidu"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu has been the President since 2022."
+      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs",
+      "question": "Which scheme was launched by the Government of Odisha to promote rural employment?",
+      "options": [
+        "MNREGA",
+        "Odisha Livelihood Mission",
+        "PMAY",
+        "Startup Odisha"
+      ],
+      "correct": 1,
+      "explanation": "Odisha Livelihood Mission aims to promote rural employment and livelihood opportunities."
+    },
+    {
+      "id": 29,
+      "category": "Current Affairs",
+      "question": "Which Indian sports personality recently won an Olympic gold medal in shooting?",
+      "options": [
+        "Abhinav Bindra",
+        "Neeraj Chopra",
+        "Gagan Narang",
+        "Ravi Kumar"
+      ],
+      "correct": 2,
+      "explanation": "Neeraj Chopra won gold in javelin throw at Tokyo 2020 Olympics; note the question context for current year."
+    },
+    {
+      "id": 30,
+      "category": "Current Affairs",
+      "question": "Which is the most recent national award given for excellence in sports in India?",
+      "options": [
+        "Rajiv Gandhi Khel Ratna",
+        "Dronacharya Award",
+        "Arjuna Award",
+        "Padma Shri"
+      ],
+      "correct": 0,
+      "explanation": "Rajiv Gandhi Khel Ratna is India's highest sporting honor, awarded for outstanding performance."
     }
   ]
 }
