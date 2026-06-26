@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is primarily a manual of political and military strategy?",
+      "question": "Which ancient Indian text is considered the earliest known epic poem?",
       "options": [
-        "Arthashastra",
+        "Ramayana",
+        "Mahabharata",
         "Vedas",
-        "Upanishads",
-        "Puranas"
+        "Arthashastra"
       ],
-      "correct": 0,
-      "explanation": "The Arthashastra, attributed to Chanakya, is an ancient treatise on statecraft, economic policy, and military strategy."
+      "correct": 2,
+      "explanation": "The Vedas are the earliest known texts, predating epics like Ramayana and Mahabharata, which are later compositions."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "During the Medieval period, the rise of the Mughal Empire was marked by the conquest of which city?",
+      "question": "Who was the leader of the Indian National Army (INA) during the Indian freedom struggle?",
       "options": [
-        "Delhi",
-        "Agra",
-        "Lahore",
-        "Kabul"
+        "Subhas Chandra Bose",
+        "Bhagat Singh",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru"
       ],
       "correct": 0,
-      "explanation": "Babur's conquest of Delhi in 1526 marked the beginning of Mughal rule in India."
+      "explanation": "Subhas Chandra Bose was the prominent leader of the INA, which sought to fight British rule with military means."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
+      "question": "The Mughal architectural masterpiece, Taj Mahal, was built during the reign of which emperor?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "B.R. Ambedkar"
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Babur"
       ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement to boycott British goods and institutions."
+      "correct": 1,
+      "explanation": "The Taj Mahal was built by Shah Jahan in memory of his wife Mumtaz Mahal."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Which event is considered the immediate cause of the start of the First War of Indian Independence in 1857?",
+      "question": "The Partition of Bengal in 1905 was aimed at:",
       "options": [
-        "Sepoy Mutiny",
-        "Partition of Bengal",
-        "Jallianwala Bagh Massacre",
-        "Non-Cooperation Movement"
+        "Dividing Bengal on religious lines",
+        "Administrative efficiency",
+        "Reducing revolutionary activities",
+        "Promoting Education"
       ],
       "correct": 0,
-      "explanation": "The Sepoy Mutiny of 1857 is regarded as the immediate trigger for the Indian Rebellion of 1857."
+      "explanation": "The partition was officially justified on administrative grounds but was widely seen as an attempt to divide Hindus and Muslims."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Who was the first Governor-General of independent India?",
+      "question": "Who was the first Prime Minister of independent India?",
       "options": [
-        "C. Rajagopalachari",
-        "Lord Mountbatten",
-        "Dr. Rajendra Prasad",
-        "Lord Wavell"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Patel",
+        "Dr. B.R. Ambedkar"
       ],
       "correct": 0,
-      "explanation": "C. Rajagopalachari served as the last Governor-General of India, becoming the first to hold the position after independence."
+      "explanation": "Jawaharlal Nehru became the first Prime Minister of India in 1947."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent floods?",
+      "question": "Which river is called the 'Sorrow of Bangladesh' due to its frequent flooding?",
       "options": [
         "Ganges",
-        "Koshi",
         "Brahmaputra",
-        "Son"
+        "Meghna",
+        "Padma"
       ],
       "correct": 1,
-      "explanation": "The Koshi River causes frequent floods in Bihar, earning it the nickname 'Sorrow of Bihar.'"
+      "explanation": "The Brahmaputra river is known as the 'Sorrow of Bangladesh' because of its unpredictable flooding."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which is the largest salt desert in India?",
+      "question": "Which mountain range forms the northeastern boundary of India?",
       "options": [
-        "Rann of Kutch",
-        "Thar Desert",
-        "Luni Desert",
-        "Gujarat Desert"
+        "Himalayas",
+        "Aravalli",
+        "Eastern Ghats",
+        "Western Ghats"
       ],
       "correct": 0,
-      "explanation": "The Rann of Kutch in Gujarat is the world's largest salt desert."
+      "explanation": "The Himalayas form the northeastern boundary of India and are the world's highest mountain range."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "India’s monsoon season primarily occurs during which months?",
+      "question": "India's largest producer of steel is:",
       "options": [
-        "June to September",
-        "March to May",
-        "October to December",
-        "January to February"
+        "Tata Steel",
+        "Steel Authority of India Limited (SAIL)",
+        "Jindal Steel",
+        "Rashtriya Ispat Nigam"
       ],
-      "correct": 0,
-      "explanation": "The Southwest monsoon typically hits India from June to September."
+      "correct": 1,
+      "explanation": "SAIL is the largest steel producer in India."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which resource is most abundant in the state of Odisha?",
+      "question": "Which climate zone is predominant in Rajasthan?",
       "options": [
-        "Coal",
-        "Petroleum",
-        "Bauxite",
-        "Gold"
+        "Tropical Rainforest",
+        "Desert Climate",
+        "Temperate",
+        "Mountain Climate"
       ],
-      "correct": 0,
-      "explanation": "Odisha is rich in coal deposits, making it a major resource for the state."
+      "correct": 1,
+      "explanation": "Most parts of Rajasthan experience a desert climate, characterized by low rainfall and high temperatures."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who is the current President of India?",
+      "question": "The directive principles of state policy are inspired by which country's constitution?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "A.P.J. Abdul Kalam"
+        "UK",
+        "Ireland",
+        "Ireland",
+        "France"
       ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
+      "correct": 1,
+      "explanation": "The directive principles are inspired by the Irish Constitution."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "The appointment of the Prime Minister in India is made by?",
+      "question": "Which article of the Indian Constitution deals with the power of the Parliament to make laws relating to the union list?",
       "options": [
-        "President of India",
-        "Lok Sabha",
-        "Rajya Sabha",
-        "Chief Justice"
+        "Article 245",
+        "Article 246",
+        "Article 247",
+        "Article 248"
       ],
-      "correct": 0,
-      "explanation": "The President of India appoints the Prime Minister, usually the leader of the majority party in Lok Sabha."
+      "correct": 1,
+      "explanation": "Article 246 assigns law-making powers to Parliament regarding the Union List."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
+      "question": "The President of India can declare a state of emergency only on the advice of:",
       "options": [
-        "Articles 12-35",
-        "Articles 36-51",
-        "Articles 1-4",
-        "Articles 52-78"
+        "Prime Minister",
+        "Council of Ministers",
+        "Supreme Court",
+        "Parliament"
       ],
-      "correct": 0,
-      "explanation": "Articles 12 to 35 of the Indian Constitution define and protect Fundamental Rights."
+      "correct": 1,
+      "explanation": "According to the Constitution, the President can declare a state of emergency only on the advice of the Council of Ministers."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Who has the power to impose President's Rule in a state?",
+      "question": "The Panchayati Raj system was constitutionalized in India through which amendment?",
       "options": [
-        "Governor of the state",
-        "Prime Minister",
-        "Chief Justice of India",
-        "Union Cabinet"
+        "73rd Amendment",
+        "74th Amendment",
+        "42nd Amendment",
+        "52nd Amendment"
       ],
       "correct": 0,
-      "explanation": "The Governor of a state recommends President's Rule to the President of India."
+      "explanation": "The 73rd Amendment Act of 1992 formalized the Panchayati Raj system."
     },
     {
       "id": 14,
       "category": "Indian Polity & Governance",
-      "question": "Which body is responsible for amending the Indian Constitution?",
+      "question": "Fundamental Rights guaranteed by the Indian Constitution are:",
       "options": [
-        "Parliament of India",
-        "Supreme Court",
-        "President of India",
-        "State Legislatures"
+        "Inalienable rights",
+        "Legal rights",
+        "Justiciable rights",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "Amendments to the Constitution are made by the Parliament, following specified procedures."
+      "correct": 3,
+      "explanation": "Fundamental Rights are inalienable, legal, and justiciable rights guaranteed by the Constitution."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "The Union Budget of India is presented annually by the:",
+      "question": "India's Gross Domestic Product (GDP) is mainly derived from:",
       "options": [
-        "Finance Minister",
-        "Prime Minister",
-        "President",
-        "Chief Economic Adviser"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The Finance Minister presents the Union Budget in Parliament every year."
+      "correct": 3,
+      "explanation": "India's GDP is a composite of agriculture, industry, and services sectors."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which financial institution is responsible for providing long-term economic development in India?",
+      "question": "The term 'Fiscal Deficit' refers to:",
       "options": [
-        "Reserve Bank of India",
-        "State Bank of India",
-        "India Infrastructure Finance Company",
-        "World Bank"
+        "Difference between revenue and expenditure",
+        "Total borrowing of the government",
+        "Difference between total receipts and total expenditure",
+        "Difference between revenue receipts and revenue expenditures"
       ],
       "correct": 2,
-      "explanation": "India Infrastructure Finance Company Limited (IIFCL) provides long-term project financing."
+      "explanation": "Fiscal deficit is the difference between the total receipts and total expenditure of the government."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "GDP of India is categorized under which sector?",
+      "question": "Which organization is responsible for implementing monetary policy in India?",
       "options": [
-        "Primary, Secondary, Tertiary",
-        "Agriculture, Industry, Services",
-        "Manufacturing, Agriculture, Mining",
-        "Exports, Imports, Consumption"
+        "SEBI",
+        "RBI",
+        "Ministry of Finance",
+        "NITI Aayog"
       ],
-      "correct": 0,
-      "explanation": "GDP classifications are based on primary, secondary, and tertiary sectors."
+      "correct": 1,
+      "explanation": "The Reserve Bank of India (RBI) is responsible for implementing monetary policy."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "What is the main objective of the Make in India campaign?",
+      "question": "What does 'Make in India' primarily promote?",
       "options": [
-        "Boost manufacturing sector",
-        "Increase agricultural exports",
-        "Enhance IT services",
-        "Develop tourism industry"
+        "Export of goods",
+        "Foreign direct investment",
+        "Manufacturing industry",
+        "Agricultural exports"
       ],
-      "correct": 0,
-      "explanation": "Make in India aims to promote manufacturing and increase job creation."
+      "correct": 2,
+      "explanation": "'Make in India' aims to promote manufacturing and boost domestic industry."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which planet is known as the 'Red Planet'?",
+      "question": "Which particle is responsible for carrying the force of gravity?",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Venus",
-        "Saturn"
+        "Photon",
+        "Gluon",
+        "Graviton",
+        "Electron"
       ],
-      "correct": 0,
-      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide."
+      "correct": 2,
+      "explanation": "The hypothetical graviton is thought to mediate the force of gravity."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "In chemical terms, H2O is the chemical formula for which substance?",
+      "question": "The pH value of a neutral solution at 25°C is:",
       "options": [
-        "Water",
-        "Hydrogen peroxide",
-        "Hydrogen gas",
-        "Oxygen"
+        "7",
+        "0",
+        "14",
+        "1"
       ],
       "correct": 0,
-      "explanation": "H2O is the chemical formula for water."
+      "explanation": "A pH of 7 indicates a neutral solution."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which part of the human body is responsible for producing insulin?",
+      "question": "Which element is most abundant in the Earth's crust?",
       "options": [
-        "Pancreas",
-        "Liver",
-        "Kidney",
-        "Lungs"
+        "Silicon",
+        "Oxygen",
+        "Aluminum",
+        "Iron"
       ],
-      "correct": 0,
-      "explanation": "The pancreas produces insulin, vital for regulating blood sugar levels."
+      "correct": 1,
+      "explanation": "Oxygen is the most abundant element in the Earth's crust."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which technological advancement is primarily responsible for the launch of satellites?",
+      "question": "The Hubble Space Telescope primarily observes objects in which electromagnetic spectrum?",
       "options": [
-        "Rocket propulsion",
-        "Nuclear energy",
-        "Solar power",
-        "Electromagnetism"
+        "Gamma rays",
+        "Radio waves",
+        "Infrared",
+        "Ultraviolet and visible light"
       ],
-      "correct": 0,
-      "explanation": "Rocket propulsion is used to launch satellites into space."
+      "correct": 3,
+      "explanation": "Hubble observes mainly in ultraviolet and visible light spectra."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which is the world's largest biodiversity hotspot located in India?",
+      "question": "Which of the following is a flagship project of the Indian government for biodiversity conservation?",
       "options": [
-        "Western Ghats",
-        "Himalayas",
-        "Indo-Burma region",
-        "Sundaland"
+        "Project Tiger",
+        "Project Green India",
+        "Project Blue Planet",
+        "Project Wildlife"
       ],
       "correct": 0,
-      "explanation": "The Western Ghats is a recognized biodiversity hotspot in India."
+      "explanation": "Project Tiger is a major initiative to conserve Bengal tigers."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The Paris Agreement aims to combat which global issue?",
+      "question": "The Convention on Biological Diversity (CBD) aims to:",
       "options": [
-        "Climate Change",
-        "Deforestation",
-        "Ozone Depletion",
-        "Pollution"
+        "Conserve biodiversity",
+        "Ensure sustainable use of its components",
+        "Fair sharing of benefits arising from genetic resources",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The Paris Agreement focuses on reducing global greenhouse gas emissions to combat climate change."
+      "correct": 3,
+      "explanation": "CBD aims to conserve biodiversity, promote sustainable use, and share benefits fairly."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which protected area is India's first national park?",
+      "question": "Which Indian law regulates environmental protection?",
       "options": [
-        "Jim Corbett National Park",
-        "Kaziranga National Park",
-        "Gir National Park",
-        "Sundarbans National Park"
+        "Air Act",
+        "Water Act",
+        "Environmental Protection Act",
+        "Wildlife Protection Act"
       ],
-      "correct": 0,
-      "explanation": "Jim Corbett National Park, established in 1936, is India's first national park."
+      "correct": 2,
+      "explanation": "The Environment Protection Act (1986) is the comprehensive law regulating environmental issues."
     },
     {
       "id": 26,
       "category": "Environment & Ecology",
-      "question": "The Environmental Protection Act was enacted in which year in India?",
+      "question": "What is the main cause of acid rain?",
       "options": [
-        "1986",
-        "1972",
-        "1992",
-        "1990"
+        "Carbon dioxide emissions",
+        "Sulfur dioxide and nitrogen oxides emissions",
+        "Ozone depletion",
+        "Particulate matter"
       ],
-      "correct": 0,
-      "explanation": "The Environmental Protection Act was enacted in 1986 to protect environmental quality."
+      "correct": 1,
+      "explanation": "Acid rain results from sulfur dioxide and nitrogen oxides reacting with water vapor in the atmosphere."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Chief Minister of Odisha?",
+      "question": "Which country hosted the 2023 G20 Summit?",
       "options": [
-        "Mohan Charan Majhi",
-        "Naveen Patnaik",
-        "Hemananda Biswal",
-        "Raghubar Das"
+        "India",
+        "Japan",
+        "Brazil",
+        "South Africa"
       ],
       "correct": 0,
-      "explanation": "Mohan Charan Majhi has been the Chief Minister of Odisha since 12 June 2024."
+      "explanation": "India hosted the G20 Summit in 2023."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Vice President of India?",
+      "question": "Which award is given for excellence in journalism in India?",
       "options": [
-        "C. P. Radhakrishnan",
-        "M. Venkaiah Naidu",
-        "Hamid Ansari",
-        "Venkaiah Naidu"
+        "Pulitzer Prize",
+        "Satyajit Ray Award",
+        "Raman Effect Award",
+        "Shivaram Award"
       ],
       "correct": 0,
-      "explanation": "C. P. Radhakrishnan has been the Vice President since 12 September 2025."
+      "explanation": "The Pulitzer Prize is a prestigious award for journalism, though mainly US-based; in India, similar recognition is given by the Ramnath Goenka Awards."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Who is the current External Affairs Minister of India?",
+      "question": "India’s first indigenous nuclear submarine is named:",
       "options": [
-        "S. Jaishankar",
-        "Subrahmanyam Jaishankar",
-        "Prakash Javadekar",
-        "Rajiv Shukla"
+        "INS Arihant",
+        "INS Chakra",
+        "INS Shakti",
+        "INS Vikrant"
       ],
       "correct": 0,
-      "explanation": "S. Jaishankar has been the External Affairs Minister since 2019."
+      "explanation": "INS Arihant is India’s first indigenously developed nuclear-powered submarine."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Chief Justice of India?",
+      "question": "The Khelo India scheme primarily promotes:",
       "options": [
-        "Surya Kant",
-        "Dhananjaya Y. Chandrachud",
-        "N. Venkata Ramana",
-        "Ranjan Gogoi"
+        "Agricultural development",
+        "Sporting and youth activities",
+        "Skill development",
+        "Rural infrastructure"
       ],
-      "correct": 0,
-      "explanation": "Surya Kant has been the Chief Justice of India since 24 November 2025."
+      "correct": 1,
+      "explanation": "Khelo India aims to promote sports and youth fitness across India."
     }
   ]
 }
