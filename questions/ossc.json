@@ -1,398 +1,398 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which is the largest district in Odisha by area?",
+      "question": "Which district in Odisha is famous for the Konark Sun Temple?",
       "options": [
-        "Kalahandi",
-        "Mayurbhanj",
-        "Koraput",
-        "Ganjam"
+        "Kendrapara",
+        "Puri",
+        "Ganjam",
+        "Sundergarh"
       ],
       "correct": 1,
-      "explanation": "Mayurbhanj is the largest district in Odisha in terms of area."
+      "explanation": "Puri district is renowned for the famous Konark Sun Temple, a UNESCO World Heritage Site and an important pilgrimage site."
     },
     {
       "id": 2,
-      "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated for 16 days in Odisha and is dedicated to Lord Jagannath?",
-      "options": [
-        "Chandan Yatra",
-        "Rath Yatra",
-        "Diwali",
-        "Durga Puja"
-      ],
-      "correct": 0,
-      "explanation": "Chandan Yatra is a 16-day festival celebrated in Odisha, dedicated to Lord Jagannath."
-    },
-    {
-      "id": 3,
       "category": "Odisha General Knowledge",
       "question": "Which river is considered the lifeline of Odisha?",
       "options": [
         "Mahanadi",
         "Godavari",
-        "Brahmani",
-        "Kaveri"
+        "Ganges",
+        "Krishna"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi river is the major river flowing through Odisha and is considered the lifeline of the state."
+      "explanation": "The Mahanadi river is the major river flowing through Odisha and is vital for irrigation, drinking water, and hydroelectric projects."
+    },
+    {
+      "id": 3,
+      "category": "Odisha General Knowledge",
+      "question": "Which tribal community is predominantly found in the Mayurbhanj district?",
+      "options": [
+        "Santhal",
+        "Mundari",
+        "Bhumia",
+        "Bhuyan"
+      ],
+      "correct": 1,
+      "explanation": "The Mundari tribal community is prominently found in the Mayurbhanj district of Odisha."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is primarily found in the Kandhamal district of Odisha?",
+      "question": "Which festival is celebrated as the Odia New Year?",
       "options": [
-        "Santhal",
-        "Kondh",
-        "Gond",
-        "Santal"
+        "Chandan Yatra",
+        "Makar Sankranti",
+        "Pana Sankranti",
+        "Odisha New Year (Biswakarma Puja)"
       ],
-      "correct": 1,
-      "explanation": "The Kondh tribe predominantly inhabits the Kandhamal district of Odisha."
+      "correct": 3,
+      "explanation": "Odisha celebrates the Odia New Year during Biswakarma Puja, marking the start of a new year in the Odia calendar."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Who was a famous Odia freedom fighter known as 'Utkal Gourav'?",
+      "question": "Who was the famous freedom fighter from Odisha known as the 'Odia Gandhi'?",
       "options": [
-        "Utkal Gaurav Madhusudan Das",
-        "Gopabandhu Das",
-        "Krushna Chandra Gajapati",
-        "Laxmi Narayan Patnaik"
+        "Baji Rout",
+        "Laxman Nayak",
+        "Biju Patnaik",
+        "Gopabandhu Das"
       ],
-      "correct": 0,
-      "explanation": "Utkal Gaurav Madhusudan Das was a prominent Odia freedom fighter and known as 'Utkal Gaurav'."
+      "correct": 3,
+      "explanation": "Gopabandhu Das is popularly known as the 'Odia Gandhi' for his contribution to India's independence movement and social reforms."
     },
     {
       "id": 6,
-      "category": "Indian History & Culture",
-      "question": "The Indus Valley Civilization was primarily located in which present-day country?",
+      "category": "Odisha General Knowledge",
+      "question": "Which is the oldest dam in Odisha?",
       "options": [
-        "India",
-        "Pakistan",
-        "Bangladesh",
-        "Afghanistan"
+        "Mansarovar Dam",
+        "Rengali Dam",
+        "Chheligada Dam",
+        "Upper Kolab Dam"
       ],
       "correct": 1,
-      "explanation": "The Indus Valley Civilization was mainly located in present-day Pakistan."
+      "explanation": "Rengali Dam, built on the Brahmani River, is one of the oldest and largest dams in Odisha."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "Which Mughal emperor built the Taj Mahal?",
+      "question": "The ancient city of Kalinga was located in which present-day state?",
       "options": [
-        "Akbar",
-        "Shah Jahan",
-        "Babur",
-        "Aurangzeb"
+        "Odisha",
+        "Chhattisgarh",
+        "Andhra Pradesh",
+        "West Bengal"
       ],
-      "correct": 1,
-      "explanation": "Shah Jahan built the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
+      "correct": 0,
+      "explanation": "Kalinga was an ancient region primarily in present-day Odisha, known for the Kalinga War fought by Ashoka."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Who was the founder of the Indian National Army (INA)?",
+      "question": "Which famous Indian Emperor built the Ashoka Pillar at Sarnath?",
       "options": [
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bhagat Singh"
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Akbar",
+        "Harshavardhana"
       ],
-      "correct": 0,
-      "explanation": "Subhas Chandra Bose founded the Indian National Army (INA) to fight against British rule."
+      "correct": 1,
+      "explanation": "Emperor Ashoka built the Ashoka Pillar at Sarnath after his conversion to Buddhism."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "The UNESCO World Heritage Site 'Konark Sun Temple' is located in which Indian state?",
+      "question": "The Khajuraho temples are famous for their:",
       "options": [
-        "Odisha",
-        "Tamil Nadu",
-        "Karnataka",
-        "Andhra Pradesh"
+        "Ancient paintings",
+        "Erotic sculptures",
+        "Jain symbols",
+        "Vedic inscriptions"
       ],
-      "correct": 0,
-      "explanation": "The Konark Sun Temple is located in Odisha and is a UNESCO World Heritage Site."
+      "correct": 1,
+      "explanation": "Khajuraho temples are renowned for their intricate erotic sculptures that depict various aspects of life."
     },
     {
       "id": 10,
-      "category": "Geography",
-      "question": "Which physical feature separates the Peninsular India from the Indo-Gangetic Plain?",
+      "category": "Indian History & Culture",
+      "question": "Who was the founder of the Indian National Congress?",
       "options": [
-        "Western Ghats",
-        "Eastern Ghats",
-        "Deccan Plateau",
-        "Himalayas"
+        "Mahatma Gandhi",
+        "Dadabhai Naoroji",
+        "Alan Octavian Hume",
+        "Bal Gangadhar Tilak"
       ],
       "correct": 2,
-      "explanation": "The Deccan Plateau acts as a dividing feature between the Peninsular India and the Indo-Gangetic Plain."
+      "explanation": "Alan Octavian Hume was instrumental in founding the Indian National Congress in 1885."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which mineral is most abundantly found in Odisha?",
+      "question": "Which mountain range forms the eastern boundary of India?",
       "options": [
-        "Coal",
-        "Bauxite",
-        "Iron Ore",
-        "Mica"
+        "Himalayas",
+        "Aravalli Hills",
+        "Eastern Ghats",
+        "Western Ghats"
       ],
       "correct": 2,
-      "explanation": "Odisha has significant deposits of iron ore, making it the leading iron ore producing state."
+      "explanation": "The Eastern Ghats run along the eastern coast of India, forming the eastern boundary in the southern part."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "The climate of Odisha is primarily classified as?",
+      "question": "Odisha is primarily known for which mineral?",
       "options": [
-        "Tropical rainforest",
-        "Tropical Savanna",
-        "Arid Desert",
-        "Temperate"
+        "Coal",
+        "Bauxite",
+        "Chromite",
+        "Manganese"
       ],
       "correct": 1,
-      "explanation": "Odisha has a tropical savanna climate with high temperatures and seasonal rainfall."
+      "explanation": "Odisha is rich in Bauxite, which is used in aluminum production."
     },
     {
       "id": 13,
       "category": "Geography",
-      "question": "Which of the following soils is most suitable for rice cultivation in Odisha?",
+      "question": "Which climate zone does Odisha mostly fall into?",
       "options": [
-        "Black soil",
-        "Alluvial soil",
-        "Laterite soil",
-        "Red soil"
+        "Tropical monsoon",
+        "Arid desert",
+        "Humid subtropical",
+        "Temperate"
       ],
-      "correct": 1,
-      "explanation": "Alluvial soil in Odisha is highly fertile and suitable for rice cultivation."
+      "correct": 0,
+      "explanation": "Odisha experiences a tropical monsoon climate with heavy annual rainfall."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Constitution",
-      "question": "Which fundamental right guarantees the right to equality?",
+      "category": "Geography",
+      "question": "The Chilika Lake is famous for:",
       "options": [
-        "Right to Freedom",
-        "Right to Equality",
-        "Right Against Exploitation",
-        "Cultural and Educational Rights"
+        "Salt production",
+        "Bird sanctuary",
+        "Coral reefs",
+        "Hydroelectric power"
       ],
       "correct": 1,
-      "explanation": "The Right to Equality is a fundamental right provided under the Indian Constitution."
+      "explanation": "Chilika Lake is Asia's largest coastal lagoon and a major bird sanctuary."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "The DPSP (Directive Principles of State Policy) are listed in which part of the Indian Constitution?",
+      "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
       "options": [
-        "Part 1",
-        "Part 3",
-        "Part 4",
-        "Part 5"
+        "Article 14",
+        "Article 19",
+        "Articles 12-35",
+        "Articles 36-51"
       ],
       "correct": 2,
-      "explanation": "DPSP are listed in Part 4 of the Indian Constitution."
+      "explanation": "Articles 12-35 of the Indian Constitution deal with Fundamental Rights."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "Who is the current Speaker of the Lok Sabha?",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "M. Venkaiah Naidu",
-        "Omar Abdullah",
-        "Om Birla",
-        "Anand Sharma"
+        "The President of India",
+        "The Prime Minister",
+        "The Parliament",
+        "The Supreme Court Collegium"
       ],
-      "correct": 2,
-      "explanation": "Om Birla is the current Speaker of the Lok Sabha."
+      "correct": 0,
+      "explanation": "The President of India appoints the Chief Justice of India."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Which level of government is responsible for local municipal governance in India?",
+      "question": "The Lok Sabha is composed of members directly elected by:",
       "options": [
-        "Central Government",
-        "State Government",
-        "Municipal Corporation",
-        "Union Territory Administration"
+        "The President",
+        "The State Legislatures",
+        "The People of India",
+        "The Supreme Court"
       ],
       "correct": 2,
-      "explanation": "Municipal Corporations are responsible for local governance at the urban level."
+      "explanation": "Members of the Lok Sabha are directly elected by the people of India through general elections."
     },
     {
       "id": 18,
-      "category": "General Science",
-      "question": "What is the primary function of chlorophyll in plants?",
+      "category": "Indian Polity & Constitution",
+      "question": "Which of the following is not a part of the Panchayati Raj system?",
       "options": [
-        "Transport of nutrients",
-        "Photosynthesis",
-        "Respiration",
-        "Reproduction"
+        "Gram Panchayat",
+        "Zila Parishad",
+        "Municipal Corporation",
+        "Panchayat Samiti"
       ],
-      "correct": 1,
-      "explanation": "Chlorophyll enables plants to carry out photosynthesis."
+      "correct": 2,
+      "explanation": "Municipal Corporation is part of urban local bodies, not Panchayati Raj, which is rural."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which gas is most responsible for the greenhouse effect?",
+      "question": "Which of the following is a chemical change?",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Argon"
+        "Melting of ice",
+        "Boiling of water",
+        "Rusting of iron",
+        "Dissolving sugar in water"
       ],
-      "correct": 1,
-      "explanation": "Carbon dioxide traps heat in the atmosphere, contributing to the greenhouse effect."
+      "correct": 2,
+      "explanation": "Rusting of iron is a chemical change, involving oxidation."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Vitamin D is primarily synthesized in the human body through exposure to which element?",
+      "question": "Which organ in the human body is primarily responsible for detoxification?",
       "options": [
-        "Calcium",
-        "Sunlight",
-        "Iron",
-        "Vitamin C"
+        "Liver",
+        "Kidney",
+        "Lungs",
+        "Heart"
       ],
-      "correct": 1,
-      "explanation": "Sunlight exposure enables the skin to synthesize Vitamin D."
+      "correct": 0,
+      "explanation": "The liver detoxifies harmful substances in the human body."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which disease is caused by deficiency of Vitamin C?",
+      "question": "Which gas is most abundant in Earth's atmosphere?",
       "options": [
-        "Rickets",
-        "Scurvy",
-        "Anemia",
-        "Beriberi"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Argon"
       ],
       "correct": 1,
-      "explanation": "Vitamin C deficiency causes scurvy."
+      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, making it the most abundant gas."
     },
     {
       "id": 22,
-      "category": "Mental Ability & Reasoning",
-      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
+      "category": "General Science",
+      "question": "Vitamin D is essential for:",
       "options": [
-        "24",
-        "32",
-        "18",
-        "20"
+        "Blood clotting",
+        "Bone health",
+        "Vision",
+        "Immune response"
       ],
       "correct": 1,
-      "explanation": "The pattern doubles each time, so next is 32."
+      "explanation": "Vitamin D plays an important role in bone health by aiding calcium absorption."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a certain code, ‘ODISHA’ is written as ‘QKTRVCG’, then how is ‘INDIA’ written?",
+      "question": "What is the next number in the series: 2, 6, 12, 20, 30, ?",
       "options": [
-        "JQKFC",
-        "JKFCA",
-        "JFKCA",
-        "JQKFA"
+        "42",
+        "48",
+        "54",
+        "56"
       ],
-      "correct": 0,
-      "explanation": "Each letter is shifted by 2 positions; applying the same gives JQKFC."
+      "correct": 1,
+      "explanation": "The pattern adds consecutive even numbers: 4, 6, 8, 10, 12; next is 48."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "Arranged in order of increasing age, Rahul is taller than Ramesh but shorter than Suresh. Who is the second oldest?",
+      "question": "If 'CAT' is coded as 'DBU', then how is 'DOG' coded?",
       "options": [
-        "Rahul",
-        "Suresh",
-        "Ramesh",
-        "Cannot be determined"
+        "EPH",
+        "EHP",
+        "EIQ",
+        "EIR"
       ],
       "correct": 0,
-      "explanation": "Order: Ramesh < Rahul < Suresh; Rahul is second oldest."
+      "explanation": "Each letter is shifted one step forward in the alphabet; D→E, O→P, G→H."
     },
     {
       "id": 25,
+      "category": "Mental Ability & Reasoning",
+      "question": "In a certain code, 'ROAD' is written as 'SQBE'. How is 'MIND' written?",
+      "options": [
+        "NJOE",
+        "NJPF",
+        "NKOE",
+        "NLPF"
+      ],
+      "correct": 0,
+      "explanation": "Pattern involves shifting letters; R→S, O→Q, A→B, D→E."
+    },
+    {
+      "id": 26,
+      "category": "Mental Ability & Reasoning",
+      "question": "A man walks 3 km east, then turns north and walks 4 km. How far is he from the starting point?",
+      "options": [
+        "5 km",
+        "7 km",
+        "6 km",
+        "8 km"
+      ],
+      "correct": 0,
+      "explanation": "Using Pythagoras theorem: √(3² + 4²) = 5 km."
+    },
+    {
+      "id": 27,
       "category": "Current Affairs",
       "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
-        "Pratibha Patil",
-        "A.P.J. Abdul Kalam"
+        "Pranab Mukherjee",
+        "Venkaya Naidu"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India since July 2022."
-    },
-    {
-      "id": 26,
-      "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India in 2020 to promote Atma Nirbhar Bharat?",
-      "options": [
-        "PM-KISAN",
-        "Atma Nirbhar Bharat Abhiyan",
-        "Swachh Bharat Abhiyan",
-        "Digital India"
-      ],
-      "correct": 1,
-      "explanation": "The Atma Nirbhar Bharat Abhiyan was launched in 2020 to promote self-reliance."
-    },
-    {
-      "id": 27,
-      "category": "Current Affairs",
-      "question": "Who won the Golden Boot in the 2022 FIFA World Cup?",
-      "options": [
-        "Lionel Messi",
-        "Kylian Mbappé",
-        "Cristiano Ronaldo",
-        "Neymar"
-      ],
-      "correct": 1,
-      "explanation": "Kylian Mbappé won the Golden Boot in 2022 FIFA World Cup."
+      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Which of the following sports person received the Arjuna Award in 2023?",
+      "question": "Which scheme was launched by the Government of India in 2023 to promote digital payments?",
       "options": [
-        "Neeraj Chopra",
-        "PV Sindhu",
-        "Gagan Narang",
-        "Diksha Dagar"
+        "Digital India",
+        "BHIM",
+        "Digital Payments Abhiyan",
+        "Prime Minister’s Digital Scheme"
       ],
-      "correct": 0,
-      "explanation": "Neeraj Chopra received the Arjuna Award in 2023 for athletics."
+      "correct": 2,
+      "explanation": "The 'Digital Payments Abhiyan' was launched to promote cashless transactions."
     },
     {
       "id": 29,
-      "category": "Odisha General Knowledge",
-      "question": "Which dam in Odisha is the largest in terms of volume?",
+      "category": "Current Affairs",
+      "question": "Mohan Charan Majhi is the current:",
       "options": [
-        "Maharana Pratap Sagar",
-        "Hirakud Dam",
-        "Indira Sagar",
-        "Tehri Dam"
+        "Governor of Odisha",
+        "Chief Minister of Odisha",
+        "Union Minister of Odisha",
+        "Speaker of Odisha Legislative Assembly"
       ],
       "correct": 1,
-      "explanation": "The Hirakud Dam is the largest in Odisha by volume and length."
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
     },
     {
       "id": 30,
-      "category": "Odisha General Knowledge",
-      "question": "Which tribal community in Odisha is famous for its elaborate dance called 'Sabuja Nacha'?",
+      "category": "Current Affairs",
+      "question": "Which Indian sports personality recently won a medal at the Asian Games 2026?",
       "options": [
-        "Bonda",
-        "Kondh",
-        "Saora",
-        "Juanga"
+        "Neeraj Chopra",
+        "PV Sindhu",
+        "Mirabai Chanu",
+        "Sumit Nagal"
       ],
-      "correct": 2,
-      "explanation": "The Saora tribe is known for its traditional dance forms including 'Sabuja Nacha'."
+      "correct": 0,
+      "explanation": "Neeraj Chopra secured a gold medal in javelin throw at the Asian Games 2026."
     }
   ]
 }
