@@ -1,298 +1,272 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-06-28",
+  "date": "2026-06-30",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Indian History",
-      "question": "Which ancient university was located in Nalanda?",
+      "category": "Indian History - Ancient",
+      "question": "The famous Ashokan edicts are inscribed primarily in which language?",
       "options": [
-        "Takshashila",
-        "Nalanda",
-        "Vikramashila",
-        "Taxila"
+        "Sanskrit",
+        "Prakrit",
+        "Pali",
+        "Aramaic"
       ],
       "correct": 1,
-      "explanation": "Nalanda was an ancient center of learning located in present-day Bihar, India, renowned for its extensive library and teachings."
+      "explanation": "Ashokan edicts are primarily inscribed in Brahmi script with Prakrit language, making option B the correct answer."
     },
     {
       "id": 2,
-      "category": "Indian History",
-      "question": "Who led the Salt Satyagraha in 1930?",
+      "category": "Indian History - Medieval",
+      "question": "Which Sultan of Delhi established the Sultanate of Delhi in 1206?",
       "options": [
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Mahatma Gandhi",
-        "B.R. Ambedkar"
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Balban",
+        "Alauddin Khilji"
       ],
-      "correct": 2,
-      "explanation": "Mahatma Gandhi led the Salt Satyagraha (Dandi March) in 1930 as a non-violent protest against salt tax."
+      "correct": 0,
+      "explanation": "Qutb-ud-din Aibak founded the Delhi Sultanate in 1206, making option A correct."
     },
     {
       "id": 3,
-      "category": "Indian History",
-      "question": "The Revolt of 1857 is also known as the:",
+      "category": "Indian History - Modern",
+      "question": "Who was the leader of the Non-Cooperation Movement in India?",
       "options": [
-        "First War of Independence",
-        "Sepoy Mutiny",
-        "Both A and B",
-        "First War of British Conquest"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bal Gangadhar Tilak",
+        "Subhas Chandra Bose"
       ],
-      "correct": 2,
-      "explanation": "The 1857 revolt is commonly called the First War of Independence and the Sepoy Mutiny, highlighting its significance in Indian history."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement, hence option A is correct."
     },
     {
       "id": 4,
-      "category": "Indian History",
-      "question": "Who was the founder of the Indian National Army (INA)?",
+      "category": "Indian History - Freedom Struggle",
+      "question": "The Salt March was led by which freedom fighter?",
       "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
         "Bhagat Singh",
-        "Subhas Chandra Bose",
-        "Chandra Shekhar Azad",
-        "Lala Lajpat Rai"
+        "Sardar Patel"
       ],
-      "correct": 1,
-      "explanation": "Subhas Chandra Bose founded the Indian National Army (INA) to fight against British rule during World War II."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi led the Salt March (Dandi March) in 1930, making option A correct."
     },
     {
       "id": 5,
-      "category": "Indian History",
-      "question": "Which treaty marked the end of the First Anglo-Mysore War?",
+      "category": "Indian History - Freedom Struggle",
+      "question": "The 'Quit India Movement' was launched in which year?",
       "options": [
-        "Treaty of Seringapatam",
-        "Treaty of Mangalore",
-        "Treaty of Allahabad",
-        "Treaty of Bassein"
+        "1942",
+        "1930",
+        "1919",
+        "1947"
       ],
-      "correct": 1,
-      "explanation": "The Treaty of Mangalore (1784) ended the First Anglo-Mysore War between the British East India Company and Tipu Sultan."
+      "correct": 0,
+      "explanation": "The Quit India Movement was launched in 1942, so option A is correct."
     },
     {
       "id": 6,
-      "category": "Indian Geography",
-      "question": "The Thar Desert is mainly located in which Indian state?",
+      "category": "Indian Geography - Physical",
+      "question": "Which is the longest river in India?",
       "options": [
-        "Rajasthan",
-        "Punjab",
-        "Gujarat",
-        "Haryana"
+        "Ganges",
+        "Godavari",
+        "Indus",
+        "Brahmaputra"
       ],
-      "correct": 0,
-      "explanation": "The Thar Desert predominantly covers Rajasthan, extending into parts of Punjab and Gujarat."
+      "correct": 1,
+      "explanation": "The Godavari is the longest river in India, making option B correct."
     },
     {
       "id": 7,
-      "category": "Indian Geography",
-      "question": "Which river is known as the 'Ganges of the South'?",
+      "category": "Indian Geography - Climate",
+      "question": "Which of the following Indian cities experiences the most significant temperature variation throughout the year?",
       "options": [
-        "Godavari",
-        "Krishna",
-        "Kaveri",
-        "Cauvery"
+        "Chennai",
+        "Delhi",
+        "Kolkata",
+        "Mumbai"
       ],
-      "correct": 2,
-      "explanation": "The Kaveri (Cauvery) River is often called the 'Ganges of the South' due to its religious and cultural significance."
+      "correct": 1,
+      "explanation": "Delhi experiences extreme temperature variations, with hot summers and cold winters, making option B correct."
     },
     {
       "id": 8,
-      "category": "Indian Geography",
-      "question": "The Indo-Gangetic Plain is primarily formed by which river system?",
+      "category": "Indian Geography - Resources",
+      "question": "India's primary production of which mineral is the highest in the world?",
       "options": [
-        "Indus",
-        "Ganga-Brahmaputra",
-        "Mahi",
-        "Godavari"
+        "Coal",
+        "Iron ore",
+        "Bauxite",
+        "Manganese"
       ],
-      "correct": 1,
-      "explanation": "The Indo-Gangetic Plain is formed by the fertile alluvial deposits of the Ganga and Brahmaputra river systems."
+      "correct": 0,
+      "explanation": "India is the world's largest producer of coal, making option A correct."
     },
     {
       "id": 9,
-      "category": "Indian Geography",
-      "question": "Which resource is the most abundant in the Brahmaputra Valley?",
+      "category": "Indian Geography - Economic",
+      "question": "Which state is the largest producer of rice in India?",
       "options": [
-        "Coal",
-        "Limestone",
-        "Oil",
-        "Water resources"
+        "Uttar Pradesh",
+        "West Bengal",
+        "Punjab",
+        "Odisha"
       ],
-      "correct": 3,
-      "explanation": "The Brahmaputra Valley has abundant water resources, supporting agriculture and hydroelectric projects."
+      "correct": 1,
+      "explanation": "West Bengal is the largest producer of rice in India, making option B correct."
     },
     {
       "id": 10,
-      "category": "Indian Polity & Governance",
-      "question": "Who is the current Chief Justice of India as of 2025?",
+      "category": "Indian Geography - Rivers",
+      "question": "The Brahmaputra river originates from which glacier?",
       "options": [
-        "Dhananjaya Y. Chandrachud",
-        "Surya Kant",
-        "N. Venkata Ramana",
-        "Ranjan Gogoi"
+        "Gangotri Glacier",
+        "Siachen Glacier",
+        "Yarlung Tsangpo Glacier",
+        "Zemu Glacier"
       ],
-      "correct": 1,
-      "explanation": "Surya Kant is the current Chief Justice of India since 24 November 2025."
+      "correct": 2,
+      "explanation": "The Brahmaputra originates from the Yarlung Tsangpo Glacier in Tibet, making option C correct."
     },
     {
       "id": 11,
-      "category": "Indian Polity & Governance",
-      "question": "The Constitution of India was adopted in which year?",
+      "category": "Indian Polity & Governance - Constitution",
+      "question": "Who is the chief architect of the Indian Constitution?",
       "options": [
-        "1947",
-        "1948",
-        "1950",
-        "1952"
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Rajendra Prasad"
       ],
-      "correct": 2,
-      "explanation": "The Constitution of India was adopted on 26 November 1949 and came into effect on 26 January 1950."
+      "correct": 0,
+      "explanation": "Dr. B.R. Ambedkar is recognized as the chief architect of the Indian Constitution, thus option A is correct."
     },
     {
       "id": 12,
-      "category": "Indian Polity & Governance",
-      "question": "Who is the current President of India?",
+      "category": "Indian Polity & Governance - Parliament",
+      "question": "What is the maximum strength of the Lok Sabha according to the Constitution?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "A.P.J. Abdul Kalam"
+        "552",
+        "545",
+        "550",
+        "600"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
+      "explanation": "The maximum strength of the Lok Sabha is 552 members, including 20 appointed by the President, making option A correct."
     },
     {
       "id": 13,
-      "category": "Indian Polity & Governance",
-      "question": "The 'Right to Information' Act was enacted in which year?",
+      "category": "Indian Polity & Governance - Judiciary",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "2000",
-        "2005",
-        "2009",
-        "2011"
+        "Prime Minister",
+        "President",
+        "Chief Justice of India",
+        "Lok Sabha"
       ],
-      "correct": 2,
-      "explanation": "The Right to Information (RTI) Act was enacted in 2005 to promote transparency and accountability in government."
+      "correct": 1,
+      "explanation": "The Chief Justice of India is appointed by the President of India, making option B correct."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the dissolution of the Lok Sabha?",
+      "category": "Indian Polity & Governance - Fundamental Rights",
+      "question": "Which fundamental right prohibits discrimination on grounds of religion, race, caste, sex or place of birth?",
       "options": [
-        "Article 85",
-        "Article 56",
-        "Article 75",
-        "Article 324"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Right to Education"
       ],
       "correct": 0,
-      "explanation": "Article 85 of the Indian Constitution deals with the dissolution of the Lok Sabha."
+      "explanation": "The Right to Equality prohibits discrimination on the mentioned grounds, so option A is correct."
     },
     {
       "id": 15,
-      "category": "Indian Economy",
-      "question": "India's current GDP growth rate (approximate as of 2026) is around:",
+      "category": "Indian Economy - Budget & Reforms",
+      "question": "The first Five Year Plan of India was launched in which year?",
       "options": [
-        "3%",
-        "5%",
-        "7%",
-        "9%"
+        "1951",
+        "1947",
+        "1956",
+        "1961"
       ],
-      "correct": 2,
-      "explanation": "India's GDP growth rate is approximately 7%, reflecting its rapid economic expansion."
+      "correct": 0,
+      "explanation": "India launched its first Five Year Plan in 1951, hence option A is correct."
     },
     {
       "id": 16,
-      "category": "Indian Economy",
-      "question": "The 'Budget' of India is presented in the:",
+      "category": "Indian Economy - Banking & GDP",
+      "question": "Which organization is responsible for measuring India's Gross Domestic Product (GDP)?",
       "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "President's Court",
-        "Finance Commission"
+        "Reserve Bank of India",
+        "Ministry of Finance",
+        "NITI Aayog",
+        "Central Statistics Office"
       ],
-      "correct": 0,
-      "explanation": "The Union Budget is presented annually in the Lok Sabha."
+      "correct": 3,
+      "explanation": "The Central Statistics Office (CSO) is responsible for estimating India's GDP, so option D is correct."
     },
     {
       "id": 17,
-      "category": "Indian Economy",
-      "question": "Which financial institution is responsible for regulating the banking system in India?",
+      "category": "Indian Economy - Trade & Reforms",
+      "question": "Which country is the largest trading partner of India in terms of exports and imports?",
       "options": [
-        "SEBI",
-        "RBI",
-        "IRDAI",
-        "NABARD"
+        "USA",
+        "China",
+        "United Arab Emirates",
+        "Saudi Arabia"
       ],
       "correct": 1,
-      "explanation": "The Reserve Bank of India (RBI) regulates the banking and monetary system in India."
+      "explanation": "China is India's largest trading partner in terms of both exports and imports, making option B correct."
     },
     {
       "id": 18,
-      "category": "Indian Economy",
-      "question": "Which plan marked the start of India's economic liberalization reforms?",
+      "category": "General Science - Physics & Chemistry",
+      "question": "Which of the following is an example of a chemical change?",
       "options": [
-        "First Five Year Plan",
-        "Ninth Five Year Plan",
-        "Ninetieth Five Year Plan",
-        "Eleventh Five Year Plan"
+        "Melting of ice",
+        "Boiling water",
+        "Rusting of iron",
+        "Evaporation of alcohol"
       ],
-      "correct": 1,
-      "explanation": "The Ninth Five Year Plan (1997-2002) marked the beginning of economic reforms and liberalization."
+      "correct": 2,
+      "explanation": "Rusting of iron is a chemical change, while others are physical changes, so option C is correct."
     },
     {
       "id": 19,
-      "category": "General Science",
-      "question": "Which planet is known as the 'Red Planet'?",
+      "category": "General Science - Biology & Space",
+      "question": "The process by which green plants make their food is called?",
       "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Germination"
       ],
-      "correct": 1,
-      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide on its surface."
+      "correct": 0,
+      "explanation": "Photosynthesis is the process by which green plants produce food, so option A correct."
     },
     {
       "id": 20,
-      "category": "General Science",
-      "question": "The process of nuclear fusion takes place in:",
+      "category": "General Science - Technology & Space",
+      "question": "Which Indian astronaut has gone to space?",
       "options": [
-        "Sun",
-        "Nuclear reactors",
-        "Atomic bombs",
-        "Particle accelerators"
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "Nuclear fusion, the process powering the Sun, involves combining atomic nuclei to release energy."
+      "correct": 3,
+      "explanation": "All listed astronauts have gone to space, making option D correct."
     },
     {
       "id": 21,
-      "category": "General Science",
-      "question": "Which enzyme is responsible for fixing nitrogen in legumes?",
-      "options": [
-        "Amylase",
-        "Nitrogenase",
-        "Lipase",
-        "Protease"
-      ],
-      "correct": 1,
-      "explanation": "Nitrogenase enzyme enables nitrogen fixation in leguminous plants, converting atmospheric nitrogen into usable forms."
-    },
-    {
-      "id": 22,
-      "category": "General Science",
-      "question": "The Hubble Space Telescope is primarily used for observing:",
-      "options": [
-        "The Moon",
-        "Deep space objects",
-        "Earth's atmosphere",
-        "Satellites"
-      ],
-      "correct": 1,
-      "explanation": "Hubble Space Telescope captures images of distant galaxies, stars, and other celestial objects."
-    },
-    {
-      "id": 23,
-      "category": "Environment & Ecology",
+      "category": "Environment & Ecology - Biodiversity",
       "question": "Which of the following is a UNESCO World Heritage Site in India?",
       "options": [
         "Kaziranga National Park",
@@ -301,98 +275,124 @@
         "All of the above"
       ],
       "correct": 3,
-      "explanation": "All options listed are UNESCO World Heritage Sites recognized for their cultural and natural significance."
+      "explanation": "All listed sites are UNESCO World Heritage Sites, so option D is correct."
+    },
+    {
+      "id": 22,
+      "category": "Environment & Ecology - Climate Change",
+      "question": "Which gas is primarily responsible for global warming?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "correct": 1,
+      "explanation": "Carbon dioxide is the primary greenhouse gas responsible for global warming, so option B is correct."
+    },
+    {
+      "id": 23,
+      "category": "Environment & Ecology - Protected Areas",
+      "question": "Project Tiger was launched in which year?",
+      "options": [
+        "1973",
+        "1980",
+        "1992",
+        "2000"
+      ],
+      "correct": 0,
+      "explanation": "Project Tiger was launched in 1973 to conserve tigers, making option A correct."
     },
     {
       "id": 24,
-      "category": "Environment & Ecology",
-      "question": "The Convention on Biological Diversity was adopted in which year?",
+      "category": "Environment & Ecology - Laws",
+      "question": "The Forest Conservation Act was enacted in which year?",
       "options": [
-        "1982",
-        "1992",
-        "2000",
-        "2010"
+        "1980",
+        "1972",
+        "1976",
+        "1990"
       ],
-      "correct": 1,
-      "explanation": "The Convention on Biological Diversity was adopted in 1992 to promote sustainable management of biodiversity."
+      "correct": 0,
+      "explanation": "The Forest Conservation Act was enacted in 1980, so option A is correct."
     },
     {
       "id": 25,
-      "category": "Environment & Ecology",
-      "question": "Which Indian national park is famous for the Bengal tiger?",
+      "category": "Current Affairs & GK - National",
+      "question": "Who is the current President of India?",
       "options": [
-        "Jim Corbett",
-        "Kaziranga",
-        "Bandhavgarh",
-        "Sundarbans"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "A.P.J. Abdul Kalam"
       ],
-      "correct": 3,
-      "explanation": "Sundarbans National Park is renowned for its population of Bengal tigers."
+      "correct": 0,
+      "explanation": "Droupadi Murmu is the current President, so option A is correct."
     },
     {
       "id": 26,
-      "category": "Environment & Ecology",
-      "question": "The concept of 'Ecological Footprint' refers to:",
+      "category": "Current Affairs & GK - International",
+      "question": "Which country hosted the G20 summit in 2023?",
       "options": [
-        "Impact of human activities on climate",
-        "Amount of natural resources used by individuals or countries",
-        "Forest cover in a region",
-        "Pollution level in water bodies"
+        "India",
+        "USA",
+        "China",
+        "Japan"
       ],
-      "correct": 1,
-      "explanation": "Ecological footprint measures the amount of natural resources consumed by individuals or nations."
+      "correct": 0,
+      "explanation": "India hosted the G20 summit in 2023, making option A correct."
     },
     {
       "id": 27,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current External Affairs Minister of India as of 2026?",
+      "category": "Current Affairs & GK - Awards & Schemes",
+      "question": "Which of the following is a recent scheme launched by the Government of India?",
       "options": [
-        "S. Jaishankar",
-        "Nirmala Sitharaman",
-        "Rajiv Gandhi",
-        "Subrahmanyam Jaishankar"
+        "Digital India",
+        "Startup India",
+        "PMAY",
+        "Rashtriya Krishi Vikas Yojana"
       ],
-      "correct": 0,
-      "explanation": "S. Jaishankar has been serving as India's External Affairs Minister since 2019, confirmed as of 2026."
+      "correct": 1,
+      "explanation": "While all are schemes, Startup India was notably promoted for recent startup support, making option B correct."
     },
     {
       "id": 28,
-      "category": "Current Affairs & GK",
-      "question": "Which scheme was launched by the Government of India in 2016 to promote digital payments?",
+      "category": "Current Affairs & GK - Sports",
+      "question": "Who among the following has recently won the Men's Singles title at Wimbledon 2023?",
       "options": [
-        "Digital India",
-        "Make in India",
-        "Startup India",
-        "Smart Cities"
+        "Novak Djokovic",
+        "Rafael Nadal",
+        "Roger Federer",
+        "Andy Murray"
       ],
       "correct": 0,
-      "explanation": "Digital India was launched in 2015-2016 to promote cashless and digital transactions."
+      "explanation": "Novak Djokovic won the Men's Singles at Wimbledon 2023, so option A is correct."
     },
     {
       "id": 29,
-      "category": "Current Affairs & GK",
-      "question": "Who won the Dronacharya Award in 2025 for coaching excellence?",
+      "category": "Indian History - Modern",
+      "question": "Who was the first Prime Minister of independent India?",
       "options": [
-        "Gyan Singh",
-        "Jitendra Singh",
-        "Ravi Shastri",
-        "Virender Sehwag"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Lal Bahadur Shastri"
       ],
       "correct": 0,
-      "explanation": "Gyan Singh was awarded the Dronacharya Award in 2025 for coaching excellence in sports."
+      "explanation": "Jawaharlal Nehru was the first Prime Minister of independent India, hence option A."
     },
     {
       "id": 30,
-      "category": "Current Affairs & GK",
-      "question": "Which sporting event was hosted by India in 2023?",
+      "category": "Indian Polity & Governance - Judiciary",
+      "question": "The Supreme Court of India is a _____ court.",
       "options": [
-        "Commonwealth Games",
-        "Asian Games",
-        "FIFA World Cup",
-        "ICC Cricket World Cup"
+        "Original",
+        "Appellate",
+        "Constitutional",
+        "All of the above"
       ],
-      "correct": 1,
-      "explanation": "India hosted the Asian Games in 2023, showcasing its capacity as a sports event organizer."
+      "correct": 3,
+      "explanation": "The Supreme Court functions as a constitutional, appellate, and original court, making option D correct."
     }
   ]
 }

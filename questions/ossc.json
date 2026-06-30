@@ -1,398 +1,398 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which is the largest river flowing through Odisha?",
+      "question": "Which is the largest river flowing entirely within Odisha?",
       "options": [
         "Mahanadi",
-        "Godavari",
-        "Krishna",
-        "Yamuna"
+        "Baitarani",
+        "Brahmani",
+        "Rushikulya"
       ],
       "correct": 0,
-      "explanation": "Mahanadi is the largest and most important river flowing through Odisha, known for its broad basin and importance to agriculture and industry."
+      "explanation": "Mahanadi is the largest river flowing entirely within Odisha, contributing significantly to agriculture and hydroelectric projects."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community in Odisha is famous for their Panthi dance?",
+      "question": "Which tribal community is predominantly found in the Mayurbhanj district?",
       "options": [
-        "Santals",
-        "Gonds",
-        "K Landas",
-        "Bhuiyas"
+        "Santhal",
+        "Ho",
+        "Munda",
+        "Santal"
       ],
-      "correct": 2,
-      "explanation": "The K Landas are renowned for their traditional Panthi dance, a cultural expression of tribal Odisha."
+      "correct": 1,
+      "explanation": "The Ho tribe is one of the prominent tribal communities in Mayurbhanj district."
     },
     {
       "id": 3,
-      "category": "Od Odisha History",
-      "question": "Who was the famous King of Kalinga who converted to Buddhism after the Kalinga War?",
+      "category": "Odisha General Knowledge",
+      "question": "Which festival is celebrated with great fervor in Odisha to mark the harvest season?",
       "options": [
-        "Kharavela",
-        "Ashoka",
-        "Chandragupta Maurya",
-        "Harsha"
+        "Chaitra Parva",
+        "Nuakhai",
+        "Rath Yatra",
+        "Dola Purnima"
       ],
       "correct": 1,
-      "explanation": "Emperor Ashoka, after the bloody Kalinga War, embraced Buddhism and propagated it across his empire."
+      "explanation": "Nuakhai is a major harvest festival celebrated in Odisha, especially in Western Odisha, marking the new rice crop."
     },
     {
       "id": 4,
-      "category": "Odisha Festivals",
-      "question": "Which festival is uniquely celebrated in Odisha to worship the Sun God?",
+      "category": "Odisha General Knowledge",
+      "question": "Which UNESCO World Heritage Site in Odisha is famous for its temples?",
       "options": [
-        "Chhath Puja",
-        "Ratha Yatra",
-        "Saraswati Puja",
-        "Baisakhi"
+        "Khandagiri Caves",
+        "Konark Sun Temple",
+        "Lingaraj Temple",
+        "Jagannath Temple"
       ],
-      "correct": 0,
-      "explanation": "Chhath Puja is prominently celebrated in Odisha to worship Lord Surya (Sun God)."
+      "correct": 1,
+      "explanation": "The Konark Sun Temple is a UNESCO World Heritage Site renowned for its exquisite architecture."
     },
     {
       "id": 5,
+      "category": "Odisha General Knowledge",
+      "question": "Who was the first Odia to win a Nobel Prize in Literature?",
+      "options": [
+        "Gopinath Mohanty",
+        "Jnanpith Award Winner",
+        "Sarat Chandra Dash",
+        "Udit Narayan"
+      ],
+      "correct": 0,
+      "explanation": "Gopinath Mohanty was the first Odia novelist to receive the Jnanpith Award, a prestigious literary honor."
+    },
+    {
+      "id": 6,
+      "category": "Odisha General Knowledge",
+      "question": "Which dam in Odisha is built on the Mahanadi River for hydroelectric power?",
+      "options": [
+        "Indravati Dam",
+        "Rengali Dam",
+        "Govind Ballabh Pant Sagar",
+        "Kinjirgarh Dam"
+      ],
+      "correct": 1,
+      "explanation": "Rengali Dam on the Mahanadi River is built for hydroelectric power generation."
+    },
+    {
+      "id": 7,
       "category": "Indian History & Culture",
-      "question": "Which ancient Indian university was famous for education in arts, science, and philosophy?",
+      "question": "Which ancient Indian university was famous for higher education during the Mauryan period?",
       "options": [
         "Nalanda",
         "Takshashila",
         "Vikramashila",
-        "Ujjain"
+        "Taxila"
       ],
       "correct": 0,
-      "explanation": "Nalanda was one of the world’s earliest universities, renowned for higher learning in ancient India."
-    },
-    {
-      "id": 6,
-      "category": "Indian Heritage Sites",
-      "question": "Which site is a UNESCO World Heritage site in Odisha?",
-      "options": [
-        "Konark Sun Temple",
-        "Qutub Minar",
-        "Ajanta Caves",
-        "Red Fort"
-      ],
-      "correct": 0,
-      "explanation": "The Konark Sun Temple is a UNESCO World Heritage Site, famous for its exquisite architecture."
-    },
-    {
-      "id": 7,
-      "category": "Geography",
-      "question": "Which soil type is predominantly found in the coastal belt of Odisha?",
-      "options": [
-        "Alluvial soil",
-        "Laterite soil",
-        "Black soil",
-        "Red soil"
-      ],
-      "correct": 0,
-      "explanation": "Alluvial soil is predominant in the coastal plains due to sediment deposits by rivers."
+      "explanation": "Nalanda was a renowned ancient center of higher learning during the Mauryan and Gupta periods."
     },
     {
       "id": 8,
-      "category": "India & Odisha Geography",
-      "question": "Which mountain range forms the boundary between India and Nepal?",
+      "category": "Indian History & Culture",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Himalayas",
-        "Western Ghats",
-        "Eastern Ghats",
-        "Aravalli"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Humayun"
       ],
       "correct": 0,
-      "explanation": "The Himalayas form the northern boundary of India, separating it from Nepal."
+      "explanation": "Babur founded the Mughal Empire in India in 1526 after the Battle of Panipat."
     },
     {
       "id": 9,
-      "category": "Indian Polity & Constitution",
-      "question": "Which of the following is a Directive Principle of State Policy?",
+      "category": "Indian History & Culture",
+      "question": "Which monument in Delhi is considered a symbol of Mughal architecture and is a UNESCO World Heritage site?",
       "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Promotion of international peace",
-        "Right to Property"
+        "Qutub Minar",
+        "Humayun's Tomb",
+        "Taj Mahal",
+        "Red Fort"
       ],
       "correct": 2,
-      "explanation": "Promotion of international peace and friendly relations is a D.P.S.P., aimed at guiding government policy."
+      "explanation": "The Taj Mahal is an iconic Mughal monument and UNESCO World Heritage Site famous for its architecture."
     },
     {
       "id": 10,
-      "category": "Indian Polity",
-      "question": "Who appoints the Chief Justice of India?",
+      "category": "Indian History & Culture",
+      "question": "Which Indian freedom fighter is known as the 'Father of the Indian Constitution'?",
       "options": [
-        "President of India",
-        "Prime Minister of India",
-        "Chief Justice of India",
-        "Lok Sabha"
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Patel"
       ],
       "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India under the Constitution."
+      "explanation": "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution' for his role in drafting it."
     },
     {
       "id": 11,
-      "category": "General Science",
-      "question": "Which part of the human body helps in the absorption of nutrients?",
+      "category": "Geography",
+      "question": "Which is the highest peak in India?",
       "options": [
-        "Lungs",
-        "Small intestine",
-        "Kidneys",
-        "Liver"
+        "Kangchenjunga",
+        "Nanda Devi",
+        "Everest",
+        "Makalu"
       ],
-      "correct": 1,
-      "explanation": "The small intestine absorbs nutrients from digested food into the bloodstream."
+      "correct": 2,
+      "explanation": "Mount Everest, located in the Himalayas, is the highest peak in India and the world."
     },
     {
       "id": 12,
-      "category": "Chemistry & Science",
-      "question": "Which gas is most commonly used in welding?",
+      "category": "Geography",
+      "question": "Odisha's climate can be classified as primarily:",
       "options": [
-        "Oxygen",
-        "Carbon dioxide",
-        "Argon",
-        "Nitrogen"
+        "Tropical desert",
+        "Tundra",
+        "Tropical monsoon",
+        "Temperate"
       ],
       "correct": 2,
-      "explanation": "Argon is commonly used as a shielding gas in welding for inert atmosphere."
+      "explanation": "Odisha has a tropical monsoon climate with heavy rainfall during the monsoon season."
     },
     {
       "id": 13,
-      "category": "Biology & Health",
-      "question": "Which vitamin is primarily obtained from sunlight?",
+      "category": "Geography",
+      "question": "Which mineral is most abundantly found in Odisha?",
       "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
+        "Coal",
+        "Bauxite",
+        "Iron ore",
+        "Manganese"
       ],
       "correct": 2,
-      "explanation": "Vitamin D is synthesized in the skin upon exposure to sunlight."
+      "explanation": "Odisha is rich in iron ore deposits, making it a major iron ore producing state."
     },
     {
       "id": 14,
-      "category": "Health & Diseases",
-      "question": "Which disease is caused by deficiency of Vitamin C?",
+      "category": "Geography",
+      "question": "The soil type predominantly found in the eastern coastal plains of Odisha is:",
       "options": [
-        "Scurvy",
-        "Rickets",
-        "Anemia",
-        "Beriberi"
+        "Laterite",
+        "Alluvial",
+        "Black soil",
+        "Red soil"
       ],
-      "correct": 0,
-      "explanation": "Scurvy results from Vitamin C deficiency, leading to weak connective tissues."
+      "correct": 1,
+      "explanation": "Alluvial soil predominates in Odisha's coastal plains, suitable for agriculture."
     },
     {
       "id": 15,
-      "category": "Mental Ability & Reasoning",
-      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
+      "category": "Indian Polity & Constitution",
+      "question": "Which article of the Indian Constitution guarantees Fundamental Rights?",
       "options": [
-        "24",
-        "32",
-        "64",
-        "48"
+        "Article 14",
+        "Articles 12-35",
+        "Article 21",
+        "Article 370"
       ],
       "correct": 1,
-      "explanation": "The pattern multiplies each previous number by 2; next is 16×2=32."
+      "explanation": "Articles 12 to 35 of the Indian Constitution guarantee Fundamental Rights."
     },
     {
       "id": 16,
-      "category": "Reasoning",
-      "question": "If in a code, 'ODISHA' is written as 'PITJDIB', how is 'INDIA' written?",
+      "category": "Indian Polity & Constitution",
+      "question": "The DPSP (Directive Principles of State Policy) are inspired by the constitution of:",
       "options": [
-        "JOEKB",
-        "JPEJB",
-        "KQFJB",
-        "JQFJB"
+        "UK",
+        "Ireland",
+        "Ireland and Soviet Union",
+        "Ireland and USSR"
       ],
-      "correct": 1,
-      "explanation": "Each letter shifts by +1, so 'INDIA' becomes 'JPEJB'."
+      "correct": 3,
+      "explanation": "The DPSP were inspired by the Constitution of Ireland and the Soviet Union."
     },
     {
       "id": 17,
-      "category": "Blood Relations",
-      "question": "Pointing to a man, a woman says, ‘He is my son’s only son’. How is the woman related to the man?",
+      "category": "Indian Polity & Constitution",
+      "question": "Who among the following is the current Speaker of the Lok Sabha?",
       "options": [
-        "Mother",
-        "Sister",
-        "Daughter",
-        "Wife"
+        "Om Birla",
+        "M. Venkaiah Naidu",
+        "Nirmala Sitharaman",
+        "Anandiben Patel"
       ],
-      "correct": 3,
-      "explanation": "The woman is the wife of the man, as she refers to her son’s only son (her grandson)."
+      "correct": 0,
+      "explanation": "Om Birla is the current Speaker of the Lok Sabha."
     },
     {
       "id": 18,
-      "category": "Reasoning",
-      "question": "If ‘CAT’ is coded as ‘DBU’, then how is ‘DOG’ coded?",
+      "category": "Indian Polity & Constitution",
+      "question": "Which body in India is responsible for the taxation and collection of land revenue?",
       "options": [
-        "EPH",
-        "EPP",
-        "EPH",
-        "FQH"
+        "District Collector",
+        "Revenue Department",
+        "Survey Department",
+        "Tax Department"
       ],
-      "correct": 0,
-      "explanation": "Each letter is shifted one step forward: C→D, A→B, T→U."
+      "correct": 1,
+      "explanation": "The Revenue Department oversees land revenue collection, often implemented through the District Collector."
     },
     {
       "id": 19,
-      "category": "Current Affairs Odisha",
-      "question": "Who is the current Chief Minister of Odisha as of June 2026?",
+      "category": "General Science",
+      "question": "What is the primary gas responsible for the greenhouse effect?",
       "options": [
-        "Naveen Patnaik",
-        "Mohan Charan Majhi",
-        "Nirmala Sitharaman",
-        "Naveen Kumar Patnaik"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Argon"
       ],
-      "correct": 1,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister since June 2024."
+      "correct": 2,
+      "explanation": "Carbon dioxide is a major greenhouse gas responsible for global warming."
     },
     {
       "id": 20,
-      "category": "Current Affairs India",
-      "question": "Who is the current President of India?",
+      "category": "General Science",
+      "question": "Which element is essential for the formation of thyroid hormones?",
       "options": [
-        "Droupadi Murmu",
-        "Pranab Mukherjee",
-        "Ram Nath Kovind",
-        "A.P.J. Abdul Kalam"
+        "Iron",
+        "Calcium",
+        "Iodine",
+        "Zinc"
       ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu is the current President since July 2022."
+      "correct": 2,
+      "explanation": "Iodine is essential for the synthesis of thyroid hormones."
     },
     {
       "id": 21,
-      "category": "Current Affairs India",
-      "question": "Who is the current External Affairs Minister of India?",
+      "category": "General Science",
+      "question": "Which part of the human body is mainly affected by the deficiency of Vitamin D?",
       "options": [
-        "S. Jaishankar",
-        "Nirmala Sitharaman",
-        "Amit Shah",
-        "Piyush Goyal"
+        "Skin",
+        "Bones",
+        "Lungs",
+        "Liver"
       ],
-      "correct": 0,
-      "explanation": "S. Jaishankar is serving as External Affairs Minister since 2019 (update for 2026)."
+      "correct": 1,
+      "explanation": "Vitamin D deficiency leads to weakened bones and conditions like rickets."
     },
     {
       "id": 22,
-      "category": "Current Affairs India",
-      "question": "Which scheme was launched by the Indian government for urban employment in 2021?",
+      "category": "General Science",
+      "question": "Which disease is caused by the deficiency of insulin?",
       "options": [
-        "PM Awas Yojana",
-        "Startup India",
-        "Smart Cities Mission",
-        "PM Garib Kalyan Yojana"
+        "Diabetes Mellitus",
+        "Malaria",
+        "Tuberculosis",
+        "Asthma"
       ],
-      "correct": 2,
-      "explanation": "Smart Cities Mission was part of urban development initiatives launched in recent years."
+      "correct": 0,
+      "explanation": "Diabetes Mellitus is caused by the deficiency of insulin."
     },
     {
       "id": 23,
-      "category": "Odisha General Knowledge",
-      "question": "Which is the famous lake located in Odisha known for its scenic beauty?",
+      "category": "Mental Ability & Reasoning",
+      "question": "What comes next in the series: 2, 4, 8, 16, ?",
       "options": [
-        "Chilika Lake",
-        "Sambhar Lake",
-        "Salt Lake",
-        "Loktak Lake"
+        "18",
+        "24",
+        "32",
+        "64"
       ],
-      "correct": 0,
-      "explanation": "Chilika Lake is the largest coastal lagoon in India, renowned for its migratory birds."
+      "correct": 2,
+      "explanation": "The pattern is doubling each time; next is 32."
     },
     {
       "id": 24,
-      "category": "Odisha General Knowledge",
-      "question": "Which dam in Odisha is built on the Mahanadi river?",
+      "category": "Mental Ability & Reasoning",
+      "question": "If in a code language, 'MOTEL' is written as 'NPUFM', how is 'HOUSE' written?",
       "options": [
-        "Rengali Dam",
-        "Bhakra Dam",
-        "Indira Sagar",
-        "Sardar Sarovar"
+        "IPVTF",
+        "HOVSE",
+        "IPVUG",
+        "HPVSE"
       ],
       "correct": 0,
-      "explanation": "Rengali Dam is constructed on the Mahanadi river in Odisha."
+      "explanation": "Each letter is shifted forward by one in the alphabet; hence 'HOUSE' becomes 'IPVTF'."
     },
     {
       "id": 25,
-      "category": "India & Odisha Geography",
-      "question": "The Deccan Plateau is primarily composed of which type of rock?",
+      "category": "Mental Ability & Reasoning",
+      "question": "In a certain code, 'CAT' is written as '415', and 'DOG' as '524'. How is 'RAT' written?",
       "options": [
-        "Igneous",
-        "Sedimentary",
-        "Metamorphic",
-        "Basalt"
+        "315",
+        "415",
+        "245",
+        "315"
       ],
       "correct": 0,
-      "explanation": "The Deccan Plateau is predominantly formed of igneous rocks, especially basalt."
+      "explanation": "Pattern: C=3, A=1, T=5. So, 'RAT' is 3-1-5."
     },
     {
       "id": 26,
-      "category": "Indian Polity & Constitution",
-      "question": "Who is the head of the State Government in Odisha?",
+      "category": "Current Affairs",
+      "question": "Who is the current President of India?",
       "options": [
-        "Governor",
-        "Chief Minister",
-        "Prime Minister",
-        "President"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "Shankar Dayal Sharma"
       ],
-      "correct": 1,
-      "explanation": "The Chief Minister is the head of the state government in Odisha."
+      "correct": 0,
+      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
     },
     {
       "id": 27,
-      "category": "General Science",
-      "question": "Which element is used in the manufacture of explosives like TNT?",
+      "category": "Current Affairs",
+      "question": "Which scheme launched by the Government of India aims to provide financial assistance to farmers?",
       "options": [
-        "Nitrogen",
-        "Oxygen",
-        "Carbon",
-        "Hydrogen"
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Krishi Sinchayee Yojana",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Swachh Bharat Abhiyan"
       ],
-      "correct": 0,
-      "explanation": "Nitrogen compounds are used in explosives such as TNT."
+      "correct": 2,
+      "explanation": "Pradhan Mantri Fasal Bima Yojana provides insurance coverage and financial support to farmers."
     },
     {
       "id": 28,
-      "category": "Reasoning",
-      "question": "If 'APPLE' is written as 'ELPPA' in a code, what is 'ORANGE' written as?",
+      "category": "Current Affairs",
+      "question": "Who won the gold medal in the Men's singles badminton at the Tokyo 2020 Olympics?",
       "options": [
-        "EGNARO",
-        "EGNARO",
-        "OGNARE",
-        "REANGO"
+        "Kento Momota",
+        "Viktor Axelsen",
+        "Chen Long",
+        "Prannoy Kumar"
       ],
-      "correct": 0,
-      "explanation": "The pattern reverses the word; thus 'ORANGE' becomes 'EGNARO'."
+      "correct": 1,
+      "explanation": "Viktor Axelsen from Denmark won the gold medal in men's singles badminton."
     },
     {
       "id": 29,
-      "category": "Current Affairs Odisha",
-      "question": "Which major sports event was hosted in Odisha recently?",
+      "category": "Current Affairs",
+      "question": "Which Indian state has recently launched the 'Odisha Mission Shakti' initiative?",
       "options": [
-        "FIDE Chess Olympiad",
-        "Commonwealth Games",
-        "Indian Premier League",
-        "Asian Games"
+        "Odisha",
+        "West Bengal",
+        "Maharashtra",
+        "Punjab"
       ],
       "correct": 0,
-      "explanation": "Odisha hosted the FIDE Chess Olympiad recently."
+      "explanation": "'Odisha Mission Shakti' is an initiative launched by Odisha for women's safety and empowerment."
     },
     {
       "id": 30,
       "category": "Odisha General Knowledge",
-      "question": "Which is the state animal of Odisha?",
+      "question": "Which is the official language of Odisha?",
       "options": [
-        "Tiger",
-        "Sandalwood Deer",
-        "Elephant",
-        "Lion"
+        "Hindi",
+        "Odia",
+        "Telugu",
+        "Bengali"
       ],
       "correct": 1,
-      "explanation": "The Sandalwood Deer is the state animal of Odisha."
+      "explanation": "Odia (formerly Odia) is the official language of Odisha."
     }
   ]
 }
