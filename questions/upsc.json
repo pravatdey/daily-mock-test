@@ -1,39 +1,39 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Indian History - Ancient",
-      "question": "The famous Ashokan edicts are inscribed primarily in which language?",
+      "category": "Indian History",
+      "question": "Which ancient Indian text is primarily a philosophical discourse on duties and righteousness?",
       "options": [
-        "Sanskrit",
-        "Prakrit",
-        "Pali",
-        "Aramaic"
+        "Rigveda",
+        "Bhagavad Gita",
+        "Arthashastra",
+        "Upanishads"
       ],
       "correct": 1,
-      "explanation": "Ashokan edicts are primarily inscribed in Brahmi script with Prakrit language, making option B the correct answer."
+      "explanation": "The Bhagavad Gita is a philosophical discourse on duties, righteousness, and devotion, set within the Indian epic Mahabharata."
     },
     {
       "id": 2,
-      "category": "Indian History - Medieval",
-      "question": "Which Sultan of Delhi established the Sultanate of Delhi in 1206?",
+      "category": "Indian History",
+      "question": "The Battle of Plassey (1757) marked the beginning of colonial rule by which power in India?",
       "options": [
-        "Qutb-ud-din Aibak",
-        "Iltutmish",
-        "Balban",
-        "Alauddin Khilji"
+        "French",
+        "British",
+        "Portuguese",
+        "Dutch"
       ],
-      "correct": 0,
-      "explanation": "Qutb-ud-din Aibak founded the Delhi Sultanate in 1206, making option A correct."
+      "correct": 1,
+      "explanation": "The Battle of Plassey was fought between the British East India Company and Siraj-ud-Daula, leading to British dominance over Bengal and the start of British colonial rule in India."
     },
     {
       "id": 3,
-      "category": "Indian History - Modern",
-      "question": "Who was the leader of the Non-Cooperation Movement in India?",
+      "category": "Indian History",
+      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
@@ -41,358 +41,358 @@
         "Subhas Chandra Bose"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement, hence option A is correct."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920 to protest against British policies and promote swadeshi."
     },
     {
       "id": 4,
-      "category": "Indian History - Freedom Struggle",
-      "question": "The Salt March was led by which freedom fighter?",
+      "category": "Indian History",
+      "question": "Which event is considered the culmination of the Indian Independence movement?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bhagat Singh",
-        "Sardar Patel"
+        "Champaran Satyagraha",
+        "Salt Satyagraha",
+        "Quit India Movement",
+        "Partition of India"
       ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi led the Salt March (Dandi March) in 1930, making option A correct."
+      "correct": 2,
+      "explanation": "The Quit India Movement of 1942 was a mass protest demanding an end to British rule, considered the culmination of the independence struggle."
     },
     {
       "id": 5,
-      "category": "Indian History - Freedom Struggle",
-      "question": "The 'Quit India Movement' was launched in which year?",
+      "category": "Indian History",
+      "question": "In which year did India become a Republic following the adoption of its Constitution?",
       "options": [
-        "1942",
-        "1930",
-        "1919",
-        "1947"
+        "1947",
+        "1950",
+        "1949",
+        "1952"
       ],
-      "correct": 0,
-      "explanation": "The Quit India Movement was launched in 1942, so option A is correct."
+      "correct": 1,
+      "explanation": "India adopted its Constitution and became a Republic on January 26, 1950."
     },
     {
       "id": 6,
-      "category": "Indian Geography - Physical",
+      "category": "Indian Geography",
       "question": "Which is the longest river in India?",
       "options": [
-        "Ganges",
-        "Godavari",
-        "Indus",
-        "Brahmaputra"
+        "Ganga",
+        "Yamuna",
+        "Pravara",
+        "Indus"
       ],
-      "correct": 1,
-      "explanation": "The Godavari is the longest river in India, making option B correct."
+      "correct": 0,
+      "explanation": "The Ganga River is the longest river in India, flowing approximately 2,525 km."
     },
     {
       "id": 7,
-      "category": "Indian Geography - Climate",
-      "question": "Which of the following Indian cities experiences the most significant temperature variation throughout the year?",
+      "category": "Indian Geography",
+      "question": "Which of the following resources is primarily found in the Deccan Plateau?",
       "options": [
-        "Chennai",
-        "Delhi",
-        "Kolkata",
-        "Mumbai"
+        "Petroleum",
+        "Manganese",
+        "Bauxite",
+        "Coal"
       ],
       "correct": 1,
-      "explanation": "Delhi experiences extreme temperature variations, with hot summers and cold winters, making option B correct."
+      "explanation": "The Deccan Plateau is rich in manganese deposits."
     },
     {
       "id": 8,
-      "category": "Indian Geography - Resources",
-      "question": "India's primary production of which mineral is the highest in the world?",
+      "category": "Indian Geography",
+      "question": "The monsoon in India is primarily driven by which atmospheric phenomenon?",
       "options": [
-        "Coal",
-        "Iron ore",
-        "Bauxite",
-        "Manganese"
+        "Jet stream",
+        "Intertropical Convergence Zone (ITCZ)",
+        "Boreal summer",
+        "Western Disturbance"
       ],
-      "correct": 0,
-      "explanation": "India is the world's largest producer of coal, making option A correct."
+      "correct": 1,
+      "explanation": "The Indian monsoon is primarily driven by the ITCZ, which shifts with the seasons, bringing rainfall."
     },
     {
       "id": 9,
-      "category": "Indian Geography - Economic",
-      "question": "Which state is the largest producer of rice in India?",
+      "category": "Indian Geography",
+      "question": "Which hill range runs parallel to the eastern coast of India?",
       "options": [
-        "Uttar Pradesh",
-        "West Bengal",
-        "Punjab",
-        "Odisha"
+        "Western Ghats",
+        "Aravalli Hills",
+        "Eastern Ghats",
+        "Himalayas"
       ],
-      "correct": 1,
-      "explanation": "West Bengal is the largest producer of rice in India, making option B correct."
+      "correct": 2,
+      "explanation": "The Eastern Ghats run parallel to the eastern coast of India from Odisha to Tamil Nadu."
     },
     {
       "id": 10,
-      "category": "Indian Geography - Rivers",
-      "question": "The Brahmaputra river originates from which glacier?",
+      "category": "Indian Polity & Governance",
+      "question": "Which part of the Indian Constitution deals with the Directive Principles of State Policy?",
       "options": [
-        "Gangotri Glacier",
-        "Siachen Glacier",
-        "Yarlung Tsangpo Glacier",
-        "Zemu Glacier"
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part VI"
       ],
-      "correct": 2,
-      "explanation": "The Brahmaputra originates from the Yarlung Tsangpo Glacier in Tibet, making option C correct."
+      "correct": 1,
+      "explanation": "Part IV of the Indian Constitution deals with Directive Principles of State Policy."
     },
     {
       "id": 11,
-      "category": "Indian Polity & Governance - Constitution",
-      "question": "Who is the chief architect of the Indian Constitution?",
+      "category": "Indian Polity & Governance",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Sardar Patel",
-        "Rajendra Prasad"
+        "The President of India",
+        "The Prime Minister",
+        "The Parliament",
+        "The Union Law Minister"
       ],
       "correct": 0,
-      "explanation": "Dr. B.R. Ambedkar is recognized as the chief architect of the Indian Constitution, thus option A is correct."
+      "explanation": "The Chief Justice of India is appointed by the President of India."
     },
     {
       "id": 12,
-      "category": "Indian Polity & Governance - Parliament",
-      "question": "What is the maximum strength of the Lok Sabha according to the Constitution?",
+      "category": "Indian Polity & Governance",
+      "question": "The Panchayati Raj system in India is based on the constitutional amendment of which year?",
       "options": [
-        "552",
-        "545",
-        "550",
-        "600"
+        "1976",
+        "1980",
+        "1992",
+        "2001"
       ],
-      "correct": 0,
-      "explanation": "The maximum strength of the Lok Sabha is 552 members, including 20 appointed by the President, making option A correct."
+      "correct": 2,
+      "explanation": "The 73rd Amendment Act of 1992 established Panchayati Raj institutions in India."
     },
     {
       "id": 13,
-      "category": "Indian Polity & Governance - Judiciary",
-      "question": "Who appoints the Chief Justice of India?",
+      "category": "Indian Polity & Governance",
+      "question": "Which Fundamental Right provides the right to equality before the law and equal protection of the laws?",
       "options": [
-        "Prime Minister",
-        "President",
-        "Chief Justice of India",
-        "Lok Sabha"
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Right to Equality",
+        "Right to Education"
       ],
-      "correct": 1,
-      "explanation": "The Chief Justice of India is appointed by the President of India, making option B correct."
+      "correct": 2,
+      "explanation": "The Right to Equality is enshrined in Article 14 and 15 of the Constitution."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Governance - Fundamental Rights",
-      "question": "Which fundamental right prohibits discrimination on grounds of religion, race, caste, sex or place of birth?",
+      "category": "Indian Economy",
+      "question": "The term 'Fiscal Deficit' refers to which of the following?",
       "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right against Exploitation",
-        "Right to Education"
+        "Total expenditure minus total receipts",
+        "Total Revenue minus total expenditure",
+        "Borrowings minus repayments",
+        "Government’s total income"
       ],
       "correct": 0,
-      "explanation": "The Right to Equality prohibits discrimination on the mentioned grounds, so option A is correct."
+      "explanation": "Fiscal Deficit is the difference between the government's total expenditure and total receipts (excluding borrowings)."
     },
     {
       "id": 15,
-      "category": "Indian Economy - Budget & Reforms",
-      "question": "The first Five Year Plan of India was launched in which year?",
+      "category": "Indian Economy",
+      "question": "Which organization is responsible for regulating the banking sector in India?",
       "options": [
-        "1951",
-        "1947",
-        "1956",
-        "1961"
+        "RBI",
+        "SEBI",
+        "IRDAI",
+        "Ministry of Finance"
       ],
       "correct": 0,
-      "explanation": "India launched its first Five Year Plan in 1951, hence option A is correct."
+      "explanation": "The Reserve Bank of India (RBI) regulates the banking sector."
     },
     {
       "id": 16,
-      "category": "Indian Economy - Banking & GDP",
-      "question": "Which organization is responsible for measuring India's Gross Domestic Product (GDP)?",
+      "category": "Indian Economy",
+      "question": "India's Gross Domestic Product (GDP) is primarily measured through which approach?",
       "options": [
-        "Reserve Bank of India",
-        "Ministry of Finance",
-        "NITI Aayog",
-        "Central Statistics Office"
+        "Production approach",
+        "Income approach",
+        "Expenditure approach",
+        "All of the above"
       ],
       "correct": 3,
-      "explanation": "The Central Statistics Office (CSO) is responsible for estimating India's GDP, so option D is correct."
+      "explanation": "India's GDP is estimated using all three approaches: production, income, and expenditure."
     },
     {
       "id": 17,
-      "category": "Indian Economy - Trade & Reforms",
-      "question": "Which country is the largest trading partner of India in terms of exports and imports?",
+      "category": "Indian Economy",
+      "question": "The 'Five Year Plans' in India were first introduced in which year?",
       "options": [
-        "USA",
-        "China",
-        "United Arab Emirates",
-        "Saudi Arabia"
+        "1950",
+        "1951",
+        "1952",
+        "1947"
       ],
       "correct": 1,
-      "explanation": "China is India's largest trading partner in terms of both exports and imports, making option B correct."
+      "explanation": "India's first Five Year Plan was launched in 1951."
     },
     {
       "id": 18,
-      "category": "General Science - Physics & Chemistry",
-      "question": "Which of the following is an example of a chemical change?",
+      "category": "General Science",
+      "question": "Which fundamental particle is responsible for electromagnetic force?",
       "options": [
-        "Melting of ice",
-        "Boiling water",
-        "Rusting of iron",
-        "Evaporation of alcohol"
+        "Photon",
+        "Electron",
+        "Proton",
+        "Neutron"
       ],
-      "correct": 2,
-      "explanation": "Rusting of iron is a chemical change, while others are physical changes, so option C is correct."
+      "correct": 0,
+      "explanation": "The photon is the quantum of electromagnetic radiation responsible for electromagnetic force."
     },
     {
       "id": 19,
-      "category": "General Science - Biology & Space",
-      "question": "The process by which green plants make their food is called?",
+      "category": "General Science",
+      "question": "Which element is most abundant in the Earth's Crust?",
       "options": [
-        "Photosynthesis",
-        "Respiration",
-        "Transpiration",
-        "Germination"
+        "Oxygen",
+        "Silicon",
+        "Aluminum",
+        "Iron"
       ],
       "correct": 0,
-      "explanation": "Photosynthesis is the process by which green plants produce food, so option A correct."
+      "explanation": "Oxygen is the most abundant element in the Earth's crust, making up about 46.6% by weight."
     },
     {
       "id": 20,
-      "category": "General Science - Technology & Space",
-      "question": "Which Indian astronaut has gone to space?",
+      "category": "General Science",
+      "question": "Which biological process is essential for the production of oxygen in the atmosphere?",
       "options": [
-        "Kalpana Chawla",
-        "Rakesh Sharma",
-        "Sunita Williams",
-        "All of the above"
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Germination"
       ],
-      "correct": 3,
-      "explanation": "All listed astronauts have gone to space, making option D correct."
+      "correct": 1,
+      "explanation": "Photosynthesis in plants produces oxygen as a byproduct, essential for atmospheric oxygen levels."
     },
     {
       "id": 21,
-      "category": "Environment & Ecology - Biodiversity",
-      "question": "Which of the following is a UNESCO World Heritage Site in India?",
+      "category": "General Science",
+      "question": "Which is the world's largest space telescope launched by NASA?",
       "options": [
-        "Kaziranga National Park",
-        "Sundarbans National Park",
-        "Taj Mahal",
-        "All of the above"
+        "Hubble Space Telescope",
+        "James Webb Space Telescope",
+        "Chandra X-ray Observatory",
+        "Spitzer Space Telescope"
       ],
-      "correct": 3,
-      "explanation": "All listed sites are UNESCO World Heritage Sites, so option D is correct."
+      "correct": 1,
+      "explanation": "The James Webb Space Telescope is the largest and most powerful space telescope launched by NASA."
     },
     {
       "id": 22,
-      "category": "Environment & Ecology - Climate Change",
-      "question": "Which gas is primarily responsible for global warming?",
-      "options": [
-        "Oxygen",
-        "Carbon dioxide",
-        "Nitrogen",
-        "Argon"
-      ],
-      "correct": 1,
-      "explanation": "Carbon dioxide is the primary greenhouse gas responsible for global warming, so option B is correct."
-    },
-    {
-      "id": 23,
-      "category": "Environment & Ecology - Protected Areas",
-      "question": "Project Tiger was launched in which year?",
-      "options": [
-        "1973",
-        "1980",
-        "1992",
-        "2000"
-      ],
-      "correct": 0,
-      "explanation": "Project Tiger was launched in 1973 to conserve tigers, making option A correct."
-    },
-    {
-      "id": 24,
-      "category": "Environment & Ecology - Laws",
-      "question": "The Forest Conservation Act was enacted in which year?",
-      "options": [
-        "1980",
-        "1972",
-        "1976",
-        "1990"
-      ],
-      "correct": 0,
-      "explanation": "The Forest Conservation Act was enacted in 1980, so option A is correct."
-    },
-    {
-      "id": 25,
-      "category": "Current Affairs & GK - National",
-      "question": "Who is the current President of India?",
-      "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "A.P.J. Abdul Kalam"
-      ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu is the current President, so option A is correct."
-    },
-    {
-      "id": 26,
-      "category": "Current Affairs & GK - International",
-      "question": "Which country hosted the G20 summit in 2023?",
+      "category": "Environment & Ecology",
+      "question": "Which of the following is a megadiverse country recognized by UNESCO?",
       "options": [
         "India",
-        "USA",
-        "China",
-        "Japan"
-      ],
-      "correct": 0,
-      "explanation": "India hosted the G20 summit in 2023, making option A correct."
-    },
-    {
-      "id": 27,
-      "category": "Current Affairs & GK - Awards & Schemes",
-      "question": "Which of the following is a recent scheme launched by the Government of India?",
-      "options": [
-        "Digital India",
-        "Startup India",
-        "PMAY",
-        "Rashtriya Krishi Vikas Yojana"
-      ],
-      "correct": 1,
-      "explanation": "While all are schemes, Startup India was notably promoted for recent startup support, making option B correct."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs & GK - Sports",
-      "question": "Who among the following has recently won the Men's Singles title at Wimbledon 2023?",
-      "options": [
-        "Novak Djokovic",
-        "Rafael Nadal",
-        "Roger Federer",
-        "Andy Murray"
-      ],
-      "correct": 0,
-      "explanation": "Novak Djokovic won the Men's Singles at Wimbledon 2023, so option A is correct."
-    },
-    {
-      "id": 29,
-      "category": "Indian History - Modern",
-      "question": "Who was the first Prime Minister of independent India?",
-      "options": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Lal Bahadur Shastri"
-      ],
-      "correct": 0,
-      "explanation": "Jawaharlal Nehru was the first Prime Minister of independent India, hence option A."
-    },
-    {
-      "id": 30,
-      "category": "Indian Polity & Governance - Judiciary",
-      "question": "The Supreme Court of India is a _____ court.",
-      "options": [
-        "Original",
-        "Appellate",
-        "Constitutional",
+        "Australia",
+        "Brazil",
         "All of the above"
       ],
       "correct": 3,
-      "explanation": "The Supreme Court functions as a constitutional, appellate, and original court, making option D correct."
+      "explanation": "India, Australia, and Brazil are all classified as megadiverse countries due to their rich biodiversity."
+    },
+    {
+      "id": 23,
+      "category": "Environment & Ecology",
+      "question": "Which law in India protects the tiger species?",
+      "options": [
+        "Wildlife Protection Act, 1972",
+        "Environment Protection Act, 1986",
+        "Fisheries Act, 1897",
+        "Environmental (Protection) Act, 1986"
+      ],
+      "correct": 0,
+      "explanation": "The Wildlife Protection Act, 1972, provides legal protection to tigers in India."
+    },
+    {
+      "id": 24,
+      "category": "Environment & Ecology",
+      "question": "The term 'Carbon Footprint' refers to:",
+      "options": [
+        "Amount of carbon dioxide emitted by an individual or organization",
+        "The total forest area in a country",
+        "The level of soil pollution",
+        "The measurement of ozone depletion"
+      ],
+      "correct": 0,
+      "explanation": "Carbon footprint indicates the total greenhouse gas emissions caused by an individual, organization, or product."
+    },
+    {
+      "id": 25,
+      "category": "Current Affairs & GK",
+      "question": "Which country hosted the G20 Summit in 2023?",
+      "options": [
+        "India",
+        "Germany",
+        "Japan",
+        "USA"
+      ],
+      "correct": 0,
+      "explanation": "India hosted the G20 Summit in 2023, marking a significant diplomatic event."
+    },
+    {
+      "id": 26,
+      "category": "Current Affairs & GK",
+      "question": "Which Indian scheme aims to improve sanitation and eliminate open defecation?",
+      "options": [
+        "Swachh Bharat Abhiyan",
+        "Make in India",
+        "Digital India",
+        "Startup India"
+      ],
+      "correct": 0,
+      "explanation": "Swachh Bharat Abhiyan is a national campaign focused on sanitation and eliminating open defecation."
+    },
+    {
+      "id": 27,
+      "category": "Current Affairs & GK",
+      "question": "Who was the recipient of the Nobel Peace Prize in 2022?",
+      "options": [
+        "Maria Ressa",
+        "Dmitry Muratov",
+        "UNHCR",
+        "World Food Programme"
+      ],
+      "correct": 0,
+      "explanation": "Maria Ressa was awarded the Nobel Peace Prize in 2022 for her efforts to safeguard freedom of expression."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs & GK",
+      "question": "Which sport did Neeraj Chopra excel in to win an Olympic gold medal?",
+      "options": [
+        "Long Jump",
+        "Javelin Throw",
+        "Discus Throw",
+        "Hammer Throw"
+      ],
+      "correct": 1,
+      "explanation": "Neeraj Chopra is an Indian athlete who won gold in Javelin Throw at the Tokyo 2020 Olympics."
+    },
+    {
+      "id": 29,
+      "category": "Indian History",
+      "question": "Which dynasty built the famous Kailasa temple at Ellora?",
+      "options": [
+        "Chola",
+        "Vijayanagara",
+        "Kalyani Chalukya",
+        "Rashtrakuta"
+      ],
+      "correct": 3,
+      "explanation": "The Rashtrakuta dynasty built the Kailasa temple at Ellora, a feat of rock-cut architecture."
+    },
+    {
+      "id": 30,
+      "category": "Indian Geography",
+      "question": "Which desert is the largest in India?",
+      "options": [
+        "Thar Desert",
+        "Kutch Desert",
+        "Rann of Kutch",
+        "Great Indian Desert"
+      ],
+      "correct": 0,
+      "explanation": "The Thar Desert, also known as the Great Indian Desert, is the largest in India."
     }
   ]
 }
