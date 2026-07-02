@@ -1,130 +1,143 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text is primarily a philosophical discourse on duties and righteousness?",
+      "question": "Which ancient Indian text is considered one of the earliest known works on statecraft and politics?",
       "options": [
-        "Rigveda",
-        "Bhagavad Gita",
         "Arthashastra",
+        "Arthashastra",
+        "Manusmriti",
         "Upanishads"
       ],
-      "correct": 1,
-      "explanation": "The Bhagavad Gita is a philosophical discourse on duties, righteousness, and devotion, set within the Indian epic Mahabharata."
+      "correct": 0,
+      "explanation": "The Arthashastra, attributed to Chanakya (Kautilya), is one of the earliest treatises on statecraft and political science."
     },
     {
       "id": 2,
-      "category": "Indian History",
-      "question": "The Battle of Plassey (1757) marked the beginning of colonial rule by which power in India?",
-      "options": [
-        "French",
-        "British",
-        "Portuguese",
-        "Dutch"
-      ],
-      "correct": 1,
-      "explanation": "The Battle of Plassey was fought between the British East India Company and Siraj-ud-Daula, leading to British dominance over Bengal and the start of British colonial rule in India."
-    },
-    {
-      "id": 3,
       "category": "Indian History",
       "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
-        "Bal Gangadhar Tilak",
-        "Subhas Chandra Bose"
+        "Subhas Chandra Bose",
+        "Bal Gangadhar Tilak"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920 to protest against British policies and promote swadeshi."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement against British rule in 1920."
+    },
+    {
+      "id": 3,
+      "category": "Indian History",
+      "question": "During which period did the Mughal Empire reach its greatest territorial extent?",
+      "options": [
+        "Akbar's reign",
+        "Aurangzeb's reign",
+        "Babur's reign",
+        "Shah Jahan's reign"
+      ],
+      "correct": 1,
+      "explanation": "Aurangzeb's reign marked the greatest territorial expansion of the Mughal Empire."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Which event is considered the culmination of the Indian Independence movement?",
+      "question": "The Partition of Bengal in 1905 was primarily based on:",
       "options": [
-        "Champaran Satyagraha",
-        "Salt Satyagraha",
-        "Quit India Movement",
-        "Partition of India"
+        "Religious differences",
+        "Administrative convenience",
+        "Economic reasons",
+        "Cultural distinctions"
       ],
-      "correct": 2,
-      "explanation": "The Quit India Movement of 1942 was a mass protest demanding an end to British rule, considered the culmination of the independence struggle."
+      "correct": 1,
+      "explanation": "The partition was justified on administrative grounds but faced strong opposition and was seen as a political move to divide Hindus and Muslims."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "In which year did India become a Republic following the adoption of its Constitution?",
+      "question": "Who was the first Prime Minister of India?",
       "options": [
-        "1947",
-        "1950",
-        "1949",
-        "1952"
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Lal Bahadur Shastri",
+        "Dr. B.R. Ambedkar"
       ],
-      "correct": 1,
-      "explanation": "India adopted its Constitution and became a Republic on January 26, 1950."
+      "correct": 0,
+      "explanation": "Jawaharlal Nehru was the first Prime Minister of India, serving from 1947 to 1964."
     },
     {
       "id": 6,
       "category": "Indian Geography",
       "question": "Which is the longest river in India?",
       "options": [
-        "Ganga",
-        "Yamuna",
-        "Pravara",
-        "Indus"
+        "Ganges",
+        "Godavari",
+        "Indus",
+        "Brahmaputra"
       ],
       "correct": 0,
-      "explanation": "The Ganga River is the longest river in India, flowing approximately 2,525 km."
+      "explanation": "The Ganges is the longest river in India, flowing through multiple states before emptying into the Bay of Bengal."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which of the following resources is primarily found in the Deccan Plateau?",
+      "question": "Which state in India is the largest producer of coal?",
       "options": [
-        "Petroleum",
-        "Manganese",
-        "Bauxite",
-        "Coal"
+        "Jharkhand",
+        "Odisha",
+        "Chhattisgarh",
+        "Bihar"
       ],
       "correct": 1,
-      "explanation": "The Deccan Plateau is rich in manganese deposits."
+      "explanation": "Odisha is the largest coal-producing state in India."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "The monsoon in India is primarily driven by which atmospheric phenomenon?",
+      "question": "Which climate zone is characterized by high temperatures and low rainfall?",
       "options": [
-        "Jet stream",
-        "Intertropical Convergence Zone (ITCZ)",
-        "Boreal summer",
-        "Western Disturbance"
+        "Tropical desert",
+        "Tundra",
+        "Humid subtropical",
+        "Mountain"
       ],
-      "correct": 1,
-      "explanation": "The Indian monsoon is primarily driven by the ITCZ, which shifts with the seasons, bringing rainfall."
+      "correct": 0,
+      "explanation": "Tropical desert zones have high temperatures and low rainfall, typical of desert areas."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which hill range runs parallel to the eastern coast of India?",
+      "question": "The Brahmaputra River originates from which Himalayan glacier?",
       "options": [
-        "Western Ghats",
-        "Aravalli Hills",
-        "Eastern Ghats",
-        "Himalayas"
+        "Siachen Glacier",
+        "Gurudongmar Glacier",
+        "Yalung Glacier",
+        "Gangotri Glacier"
       ],
-      "correct": 2,
-      "explanation": "The Eastern Ghats run parallel to the eastern coast of India from Odisha to Tamil Nadu."
+      "correct": 0,
+      "explanation": "The Brahmaputra originates from the Siachen Glacier in the Himalayas."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Which part of the Indian Constitution deals with the Directive Principles of State Policy?",
+      "question": "Who appoints the Chief Justice of India?",
+      "options": [
+        "President of India",
+        "Prime Minister of India",
+        "Chief Justice of India",
+        "Parliament"
+      ],
+      "correct": 0,
+      "explanation": "The President of India appoints the Chief Justice of India."
+    },
+    {
+      "id": 11,
+      "category": "Indian Polity & Governance",
+      "question": "The 'Directive Principles of State Policy' are enshrined in which part of the Indian Constitution?",
       "options": [
         "Part III",
         "Part IV",
@@ -132,267 +145,254 @@
         "Part VI"
       ],
       "correct": 1,
-      "explanation": "Part IV of the Indian Constitution deals with Directive Principles of State Policy."
-    },
-    {
-      "id": 11,
-      "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
-      "options": [
-        "The President of India",
-        "The Prime Minister",
-        "The Parliament",
-        "The Union Law Minister"
-      ],
-      "correct": 0,
-      "explanation": "The Chief Justice of India is appointed by the President of India."
+      "explanation": "The Directive Principles are contained in Part IV of the Indian Constitution."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system in India is based on the constitutional amendment of which year?",
+      "question": "Which of the following is a Fundamental Right related to the freedom of religion?",
       "options": [
-        "1976",
-        "1980",
-        "1992",
-        "2001"
+        "Right to Equality",
+        "Right to Freedom of Speech",
+        "Right to Life",
+        "Right to Religious Freedom"
       ],
-      "correct": 2,
-      "explanation": "The 73rd Amendment Act of 1992 established Panchayati Raj institutions in India."
+      "correct": 3,
+      "explanation": "The Right to Religious Freedom is a Fundamental Right under Article 25 of the Indian Constitution."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which Fundamental Right provides the right to equality before the law and equal protection of the laws?",
+      "question": "The Lok Sabha has the power to:",
       "options": [
-        "Right to Freedom",
-        "Right against Exploitation",
-        "Right to Equality",
-        "Right to Education"
+        "Impeach the President",
+        "Pass Money Bills",
+        "Declare War",
+        "Amend the Constitution"
       ],
-      "correct": 2,
-      "explanation": "The Right to Equality is enshrined in Article 14 and 15 of the Constitution."
+      "correct": 1,
+      "explanation": "The Lok Sabha has the exclusive power to pass Money Bills."
     },
     {
       "id": 14,
       "category": "Indian Economy",
-      "question": "The term 'Fiscal Deficit' refers to which of the following?",
+      "question": "The Fiscal Responsibility and Budget Management (FRBM) Act aims to:",
       "options": [
-        "Total expenditure minus total receipts",
-        "Total Revenue minus total expenditure",
-        "Borrowings minus repayments",
-        "Government’s total income"
+        "Reduce fiscal deficit",
+        "Increase government expenditure",
+        "Control inflation",
+        "Promote exports"
       ],
       "correct": 0,
-      "explanation": "Fiscal Deficit is the difference between the government's total expenditure and total receipts (excluding borrowings)."
+      "explanation": "The FRBM Act aims to reduce fiscal deficit and ensure fiscal responsibility among government entities."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Which organization is responsible for regulating the banking sector in India?",
+      "question": "What does GDP stand for?",
       "options": [
-        "RBI",
-        "SEBI",
-        "IRDAI",
-        "Ministry of Finance"
+        "Gross Domestic Product",
+        "Gross Development Plan",
+        "General Domestic Policy",
+        "Gross Distributed Profit"
       ],
       "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) regulates the banking sector."
+      "explanation": "GDP stands for Gross Domestic Product, measuring the value of all goods and services produced within a country."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "India's Gross Domestic Product (GDP) is primarily measured through which approach?",
+      "question": "India’s Five Year Plans were primarily inspired by the economic model of:",
       "options": [
-        "Production approach",
-        "Income approach",
-        "Expenditure approach",
-        "All of the above"
+        "Capitalist countries",
+        "Socialist countries",
+        "Mixed economy countries",
+        "Developing countries"
       ],
-      "correct": 3,
-      "explanation": "India's GDP is estimated using all three approaches: production, income, and expenditure."
+      "correct": 1,
+      "explanation": "India’s Five Year Plans were inspired by socialist principles, focusing on state-led development."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "The 'Five Year Plans' in India were first introduced in which year?",
+      "question": "The introduction of Goods and Services Tax (GST) in India was aimed at:",
       "options": [
-        "1950",
-        "1951",
-        "1952",
-        "1947"
+        "Reducing taxes",
+        "Simplifying indirect taxation",
+        "Increasing income tax",
+        "Promoting exports"
       ],
       "correct": 1,
-      "explanation": "India's first Five Year Plan was launched in 1951."
+      "explanation": "GST was introduced to unify and simplify indirect taxation across India."
     },
     {
       "id": 18,
       "category": "General Science",
-      "question": "Which fundamental particle is responsible for electromagnetic force?",
+      "question": "Which of the following is a chemical element?",
       "options": [
-        "Photon",
-        "Electron",
-        "Proton",
-        "Neutron"
+        "Water",
+        "Oxygen",
+        "Salt",
+        "Sugar"
       ],
-      "correct": 0,
-      "explanation": "The photon is the quantum of electromagnetic radiation responsible for electromagnetic force."
+      "correct": 1,
+      "explanation": "Oxygen is a chemical element with the symbol O."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which element is most abundant in the Earth's Crust?",
+      "question": "The process of photosynthesis occurs in which part of a plant?",
       "options": [
-        "Oxygen",
-        "Silicon",
-        "Aluminum",
-        "Iron"
+        "Root",
+        "Stem",
+        "Leaves",
+        "Flowers"
       ],
-      "correct": 0,
-      "explanation": "Oxygen is the most abundant element in the Earth's crust, making up about 46.6% by weight."
+      "correct": 2,
+      "explanation": "Photosynthesis primarily takes place in the leaves of plants."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which biological process is essential for the production of oxygen in the atmosphere?",
+      "question": "Which scientist is known for the theory of relativity?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Fermentation",
-        "Germination"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Nikola Tesla"
       ],
       "correct": 1,
-      "explanation": "Photosynthesis in plants produces oxygen as a byproduct, essential for atmospheric oxygen levels."
+      "explanation": "Albert Einstein developed the theory of relativity."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which is the world's largest space telescope launched by NASA?",
+      "question": "Which technology is used in the operation of a satellite to determine its position on Earth?",
       "options": [
-        "Hubble Space Telescope",
-        "James Webb Space Telescope",
-        "Chandra X-ray Observatory",
-        "Spitzer Space Telescope"
+        "Radar",
+        "GPS",
+        "Sonar",
+        "LIDAR"
       ],
       "correct": 1,
-      "explanation": "The James Webb Space Telescope is the largest and most powerful space telescope launched by NASA."
+      "explanation": "GPS (Global Positioning System) uses satellites to determine precise location."
     },
     {
       "id": 22,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a megadiverse country recognized by UNESCO?",
+      "question": "Which of the following is a biodiversity hotspot located in India?",
       "options": [
-        "India",
-        "Australia",
-        "Brazil",
-        "All of the above"
+        "Western Ghats",
+        "Sundarbans",
+        "Himalayas",
+        "Western Himalayas"
       ],
-      "correct": 3,
-      "explanation": "India, Australia, and Brazil are all classified as megadiverse countries due to their rich biodiversity."
+      "correct": 1,
+      "explanation": "The Sundarbans is a UNESCO World Heritage Site and a biodiversity hotspot in India."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which law in India protects the tiger species?",
+      "question": "The Convention on Biological Diversity was held in which year?",
       "options": [
-        "Wildlife Protection Act, 1972",
-        "Environment Protection Act, 1986",
-        "Fisheries Act, 1897",
-        "Environmental (Protection) Act, 1986"
+        "1992",
+        "2000",
+        "1982",
+        "2010"
       ],
       "correct": 0,
-      "explanation": "The Wildlife Protection Act, 1972, provides legal protection to tigers in India."
+      "explanation": "The Convention on Biological Diversity was adopted during the Rio Earth Summit in 1992."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The term 'Carbon Footprint' refers to:",
+      "question": "Which law is related to the protection of the environment in India?",
       "options": [
-        "Amount of carbon dioxide emitted by an individual or organization",
-        "The total forest area in a country",
-        "The level of soil pollution",
-        "The measurement of ozone depletion"
+        "The Wildlife Protection Act",
+        "The Forest Conservation Act",
+        "The Air Act",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "Carbon footprint indicates the total greenhouse gas emissions caused by an individual, organization, or product."
+      "correct": 3,
+      "explanation": "All listed laws are related to environmental protection in India."
     },
     {
       "id": 25,
-      "category": "Current Affairs & GK",
-      "question": "Which country hosted the G20 Summit in 2023?",
+      "category": "Environment & Ecology",
+      "question": "Which national park in India is famous for the Bengal tiger?",
       "options": [
-        "India",
-        "Germany",
-        "Japan",
-        "USA"
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Jim Corbett National Park",
+        "Bandipur National Park"
       ],
-      "correct": 0,
-      "explanation": "India hosted the G20 Summit in 2023, marking a significant diplomatic event."
+      "correct": 2,
+      "explanation": "Jim Corbett National Park is renowned for its Bengal tigers."
     },
     {
       "id": 26,
       "category": "Current Affairs & GK",
-      "question": "Which Indian scheme aims to improve sanitation and eliminate open defecation?",
+      "question": "Who is the current President of India?",
       "options": [
-        "Swachh Bharat Abhiyan",
-        "Make in India",
-        "Digital India",
-        "Startup India"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "A.P.J. Abdul Kalam",
+        "Pranab Mukherjee"
       ],
       "correct": 0,
-      "explanation": "Swachh Bharat Abhiyan is a national campaign focused on sanitation and eliminating open defecation."
+      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who was the recipient of the Nobel Peace Prize in 2022?",
+      "question": "Who is the current Chief Minister of Odisha?",
       "options": [
-        "Maria Ressa",
-        "Dmitry Muratov",
-        "UNHCR",
-        "World Food Programme"
+        "Naveen Patnaik",
+        "Mohan Charan Majhi",
+        "Biplab Kumar Deb",
+        "Mamata Banerjee"
       ],
-      "correct": 0,
-      "explanation": "Maria Ressa was awarded the Nobel Peace Prize in 2022 for her efforts to safeguard freedom of expression."
+      "correct": 1,
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Which sport did Neeraj Chopra excel in to win an Olympic gold medal?",
+      "question": "Which scheme was launched by the Government of India to promote digital payments?",
       "options": [
-        "Long Jump",
-        "Javelin Throw",
-        "Discus Throw",
-        "Hammer Throw"
+        "Digital India",
+        "Startup India",
+        "Make in India",
+        "Skill India"
       ],
-      "correct": 1,
-      "explanation": "Neeraj Chopra is an Indian athlete who won gold in Javelin Throw at the Tokyo 2020 Olympics."
+      "correct": 0,
+      "explanation": "Digital India aims to promote digital payments and digital infrastructure."
     },
     {
       "id": 29,
-      "category": "Indian History",
-      "question": "Which dynasty built the famous Kailasa temple at Ellora?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current External Affairs Minister of India?",
       "options": [
-        "Chola",
-        "Vijayanagara",
-        "Kalyani Chalukya",
-        "Rashtrakuta"
+        "S. Jaishankar",
+        "Nirmala Sitharaman",
+        "Rajiv Gandhi",
+        "Subrahmanyam Jaishankar"
       ],
-      "correct": 3,
-      "explanation": "The Rashtrakuta dynasty built the Kailasa temple at Ellora, a feat of rock-cut architecture."
+      "correct": 0,
+      "explanation": "S. Jaishankar has been serving as the External Affairs Minister since 2019."
     },
     {
       "id": 30,
-      "category": "Indian Geography",
-      "question": "Which desert is the largest in India?",
+      "category": "Current Affairs & GK",
+      "question": "In recent international sports events, which country hosted the 2024 Summer Olympics?",
       "options": [
-        "Thar Desert",
-        "Kutch Desert",
-        "Rann of Kutch",
-        "Great Indian Desert"
+        "France",
+        "USA",
+        "Japan",
+        "Germany"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert, also known as the Great Indian Desert, is the largest in India."
+      "explanation": "France hosted the 2024 Summer Olympics in Paris."
     }
   ]
 }

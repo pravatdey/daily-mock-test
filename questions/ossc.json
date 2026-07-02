@@ -1,398 +1,398 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which district in Odisha is famous for the Chilika Lake, the largest coastal lagoon in India?",
-      "options": [
-        "Puri",
-        "Khordha",
-        "Ganjam",
-        "Jagatsinghpur"
-      ],
-      "correct": 1,
-      "explanation": "Khordha district houses the Chilika Lake, which is renowned as the largest coastal lagoon in India."
-    },
-    {
-      "id": 2,
-      "category": "Odisha General Knowledge",
-      "question": "Odissi, a classical dance form, originated from which region of Odisha?",
-      "options": [
-        "Cuttack",
-        "Bhubaneswar",
-        "Puri",
-        "Sambalpur"
-      ],
-      "correct": 2,
-      "explanation": "Odissi dance originated from the Puri region of Odisha and is a classical dance form recognized for its grace and intricate movements."
-    },
-    {
-      "id": 3,
-      "category": "Odisha General Knowledge",
-      "question": "Which river is known as the 'Sorrow of Kendrapara' due to frequent flooding?",
+      "question": "Which river is the longest in Odisha?",
       "options": [
         "Mahanadi",
         "Brahmani",
         "Baitarani",
-        "Rushikulya"
+        "Godavari"
       ],
-      "correct": 2,
-      "explanation": "The Baitarani River is often referred to as the 'Sorrow of Kendrapara' because of its flooding issues."
+      "correct": 0,
+      "explanation": "The Mahanadi is the longest river flowing entirely through Odisha, making it the principal river of the state."
+    },
+    {
+      "id": 2,
+      "category": "Odisha General Knowledge",
+      "question": "Which of the following is a famous festival celebrated in Odisha?",
+      "options": [
+        "Diwali",
+        "Rath Yatra",
+        "Holi",
+        "Lohri"
+      ],
+      "correct": 1,
+      "explanation": "Rath Yatra is a famous festival celebrated primarily in Odisha, especially at Puri."
+    },
+    {
+      "id": 3,
+      "category": "Odisha General Knowledge",
+      "question": "Which tribal community is predominant in the Simlipal Biosphere Reserve?",
+      "options": [
+        "Santhal",
+        "Munda",
+        "Oraon",
+        "Kandha"
+      ],
+      "correct": 3,
+      "explanation": "The Kandha tribe is one of the major tribal communities residing in the Simlipal Biosphere Reserve in Odisha."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "The Konark Sun Temple is located in which district of Odisha?",
+      "question": "Which historical site is located in Odisha?",
       "options": [
-        "Puri",
-        "Kendrapara",
-        "Jagatsinghpur",
-        "Khordha"
+        "Ajanta Caves",
+        "Konark Sun Temple",
+        "Khajuraho Temples",
+        "Hampi"
       ],
-      "correct": 2,
-      "explanation": "The famous Sun Temple at Konark is situated in Jagatsinghpur district of Odisha."
+      "correct": 1,
+      "explanation": "The Konark Sun Temple is a UNESCO World Heritage site located in Odisha."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is primarily found in the Kandhamal district of Odisha?",
+      "question": "Who is a renowned personality from Odisha known for his contribution to literature?",
       "options": [
-        "Santals",
-        "Konds",
-        "Gonds",
-        "Baiga"
+        "Rabindranath Tagore",
+        "Utkal Gourav Madhusudan Das",
+        "Mahatma Gandhi",
+        "Dr. A.P.J. Abdul Kalam"
       ],
       "correct": 1,
-      "explanation": "The Kond tribal community is predominantly found in Kandhamal district of Odisha."
+      "explanation": "Madhusudan Das, known as Utkal Gourav, was an eminent lawyer, social reformer, and contributor to Odisha's development."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated with great fervor in Odisha to mark the Rath Yatra?",
+      "question": "Which lake is the largest in Odisha?",
       "options": [
-        "Diwali",
-        "Durga Puja",
-        "Rath Yatra",
-        "Holi"
+        "Chilika Lake",
+        "Brahma Lake",
+        "Satapada Lake",
+        "Mahanadi Lake"
       ],
-      "correct": 2,
-      "explanation": "The Rath Yatra festival, associated with Lord Jagannath, is celebrated with grandeur in Odisha, especially in Puri."
+      "correct": 0,
+      "explanation": "Chilika Lake is the largest coastal lagoon in India and the largest brackish water lake in Asia."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "Who was the founder of the Maurya Empire in India?",
+      "question": "Which ancient Indian university was famous for its Buddhist studies?",
       "options": [
-        "Chandragupta Maurya",
-        "Ashoka",
-        "Bindusara",
-        "Harsha"
+        "Nalanda",
+        "Takshashila",
+        "Valabhi",
+        "Kanchi"
       ],
       "correct": 0,
-      "explanation": "Chandragupta Maurya founded the Maurya Empire in India around 322 BCE."
+      "explanation": "Nalanda was a renowned ancient Indian university famous for Buddhist studies."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Which UNESCO World Heritage Site is located in Delhi and showcases Mughal architecture?",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Qutub Minar",
-        "Taj Mahal",
-        "Humayun's Tomb",
-        "Amber Fort"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "correct": 2,
-      "explanation": "Humayun's Tomb in Delhi is a UNESCO World Heritage Site exemplifying Mughal architecture."
+      "correct": 0,
+      "explanation": "Babur founded the Mughal Empire in India in 1526 after the Battle of Panipat."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "The famous 'Sanchi Stupa' is associated with which religion?",
+      "question": "Which Indian freedom fighter was associated with the Non-Cooperation Movement?",
       "options": [
-        "Hinduism",
-        "Buddhism",
-        "Jainism",
-        "Christianity"
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bhagat Singh"
       ],
       "correct": 1,
-      "explanation": "Sanchi Stupa is a Buddhist monument and an important site in Indian Buddhism."
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement in 1920 against British rule."
     },
     {
       "id": 10,
       "category": "Indian History & Culture",
-      "question": "Which modern Indian movement was started by Mahatma Gandhi in 1919?",
+      "question": "Which heritage site is UNESCO World Heritage Site in India?",
       "options": [
-        "Non-Cooperation Movement",
-        "Civil Disobedience Movement",
-        "Quit India Movement",
-        "Swadeshi Movement"
+        "Qutub Minar",
+        "Taj Mahal",
+        "Khajuraho Group of Monuments",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The Non-Cooperation Movement was initiated by Mahatma Gandhi in 1919, advocating non-violent resistance."
+      "correct": 3,
+      "explanation": "All listed sites — Qutub Minar, Taj Mahal, and Khajuraho — are UNESCO World Heritage Sites."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which is the highest peak in India?",
+      "question": "Which mountain range forms the northern boundary of India?",
       "options": [
-        "Kangchenjunga",
-        "Nanda Devi",
-        "Mount Everest",
-        "K2"
+        "Himalayas",
+        "Western Ghats",
+        "Aravalli Hills",
+        "Eastern Ghats"
       ],
-      "correct": 2,
-      "explanation": "Mount Everest, located in the Himalayas, is the highest peak in India and the world."
+      "correct": 0,
+      "explanation": "The Himalayas form the northern boundary of India."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "The Godavari River flows primarily through which Indian state?",
+      "question": "Odisha's climate can be classified as?",
       "options": [
-        "Telangana",
-        "Maharashtra",
-        "Madhya Pradesh",
-        "Andhra Pradesh"
+        "Tropical monsoon",
+        "Desert",
+        "Temperate",
+        "Arid"
       ],
-      "correct": 3,
-      "explanation": "The Godavari River flows mainly through Maharashtra, Telangana, and Andhra Pradesh."
+      "correct": 0,
+      "explanation": "Odisha has a tropical monsoon climate with hot summers and heavy monsoon rains."
     },
     {
       "id": 13,
       "category": "Geography",
-      "question": "Which soil type is most suitable for tea cultivation?",
-      "options": [
-        "Laterite",
-        "Alluvial",
-        "Black Soil",
-        "Alpine Soil"
-      ],
-      "correct": 0,
-      "explanation": "Laterite soil is suitable for tea cultivation, especially in hilly regions."
-    },
-    {
-      "id": 14,
-      "category": "Geography",
-      "question": "Which mineral is most abundantly found in Odisha?",
+      "question": "Which mineral is abundantly found in Odisha?",
       "options": [
         "Coal",
         "Bauxite",
         "Iron ore",
-        "Mica"
+        "Both A and C"
       ],
-      "correct": 2,
-      "explanation": "Odisha is rich in iron ore deposits, making it a major mineral resource in India."
+      "correct": 3,
+      "explanation": "Odisha is rich in both coal and iron ore deposits."
+    },
+    {
+      "id": 14,
+      "category": "Geography",
+      "question": "The soils predominant in Odisha are?",
+      "options": [
+        "Red soil",
+        "Laterite",
+        "Alluvial",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Odisha has red, laterite, and alluvial soils present in different regions."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Which fundamental right protects citizens from self-incrimination?",
+      "question": "Who is the current President of India?",
       "options": [
-        "Right to Equality",
-        "Right against Exploitation",
-        "Right to Freedom",
-        "Right against Self-incrimination"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "A.P.J. Abdul Kalam"
       ],
-      "correct": 3,
-      "explanation": "The Right against Self-incrimination protects citizens from being compelled to testify against themselves."
+      "correct": 0,
+      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "The Directive Principles of State Policy (DPSP) aim to establish which of the following?",
+      "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
       "options": [
-        "Fundamental Rights",
-        "Social and economic justice",
-        "Fundamental Duties",
-        "Legal rights"
+        "Articles 12-35",
+        "Articles 36-51",
+        "Articles 1-11",
+        "Articles 52-80"
       ],
-      "correct": 1,
-      "explanation": "DPSPs aim to promote social and economic justice, guiding the state's policies."
+      "correct": 0,
+      "explanation": "Articles 12 to 35 of the Indian Constitution detail Fundamental Rights."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Who appoints the Prime Minister in India?",
+      "question": "Who holds the power to dissolve the Lok Sabha?",
       "options": [
-        "President",
-        "Lok Sabha",
-        "Supreme Court",
-        "Vice President"
+        "President of India",
+        "Prime Minister",
+        "Speaker of Lok Sabha",
+        "Chief Justice"
       ],
       "correct": 0,
-      "explanation": "The President appoints the Prime Minister, usually the leader of the majority in Lok Sabha."
+      "explanation": "The President of India has the power to dissolve the Lok Sabha on the advice of the Prime Minister."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "Which of the following is a local government body in India?",
+      "question": "Which level of government is responsible for local governance in Odisha?",
       "options": [
+        "Municipal Corporation",
         "Gram Panchayat",
-        "Rajya Sabha",
-        "Lok Sabha",
-        "Supreme Court"
+        "District Collectorate",
+        "State Assembly"
       ],
-      "correct": 0,
-      "explanation": "Gram Panchayat is a local self-government body at the village level."
+      "correct": 1,
+      "explanation": "Gram Panchayat is the basic unit of local self-government at the village level."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "What is the primary function of chlorophyll in plants?",
+      "question": "Which of the following is an example of a chemical change?",
       "options": [
-        "Absorption of oxygen",
-        "Photosynthesis",
-        "Transpiration",
-        "Respiration"
+        "Boiling water",
+        "Rusting iron",
+        "Melting wax",
+        "Freezing water"
       ],
       "correct": 1,
-      "explanation": "Chlorophyll enables plants to perform photosynthesis by capturing light energy."
+      "explanation": "Rusting iron involves a chemical reaction, hence a chemical change."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element is most abundant in the Earth's crust?",
+      "question": "Which vitamin is mainly produced by sunlight in the human body?",
       "options": [
-        "Iron",
-        "Oxygen",
-        "Silicon",
-        "Aluminium"
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
       ],
-      "correct": 1,
-      "explanation": "Oxygen is the most abundant element in the Earth's crust by weight."
+      "correct": 2,
+      "explanation": "Vitamin D is produced in the skin when exposed to sunlight."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which disease is caused by deficiency of Vitamin D?",
+      "question": "Which disease is caused by a deficiency of iodine?",
       "options": [
         "Scurvy",
+        "Goiter",
         "Rickets",
-        "Anemia",
-        "Palagra"
+        "Anaemia"
       ],
       "correct": 1,
-      "explanation": "Vitamin D deficiency causes rickets, leading to weak or deformed bones."
+      "explanation": "Iodine deficiency can cause goiter, an enlargement of the thyroid gland."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which part of the human body is primarily responsible for pumping blood?",
+      "question": "Which biological process is essential for plant growth?",
       "options": [
-        "Lungs",
-        "Brain",
-        "Heart",
-        "Kidneys"
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Digestion"
       ],
-      "correct": 2,
-      "explanation": "The heart is the muscular organ responsible for pumping blood throughout the body."
+      "correct": 1,
+      "explanation": "Photosynthesis is essential for plant growth as it produces food using sunlight."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
-      "question": "What is the next number in the series: 2, 6, 12, 20, 30, ?",
+      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
       "options": [
-        "42",
-        "48",
-        "52",
-        "56"
+        "18",
+        "24",
+        "32",
+        "64"
       ],
-      "correct": 1,
-      "explanation": "The series adds consecutive even numbers: +4, +6, +8, +10, +12; next is 40, so 30 + 12 = 42."
+      "correct": 2,
+      "explanation": "The pattern multiplies by 2 each time; next is 16×2=32."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a certain language, 'RANI' is written as 'SRNA', how is 'COLD' written?",
+      "question": "If 'R' is coded as '1', 'A' as '2', 'N' as '3', then how is 'RAN' coded?",
       "options": [
-        "LCOd",
-        "DLOC",
-        "COLd",
-        "DLOC"
+        "1 2 3",
+        "3 2 1",
+        "1 3 2",
+        "2 1 3"
       ],
-      "correct": 3,
-      "explanation": "The pattern is reverse order of the original word with the first letter moving to the end."
+      "correct": 0,
+      "explanation": "'R' = 1, 'A' = 2, 'N' = 3, so 'RAN' is 1 2 3."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "In a row of 8 persons, A is to the right of B but to the left of C. D is to the right of C. Who is at the extreme right?",
+      "question": "In a coded language, 'TABLE' is written as 'ZGVHD'. What is the code for 'CHAIR' if the pattern is consistent?",
       "options": [
-        "A",
-        "B",
-        "C",
-        "D"
+        "XAFHP",
+        "XBEIQ",
+        "XADFP",
+        "XBEGP"
       ],
-      "correct": 3,
-      "explanation": "Order: B - A - C - D; D is at the extreme right."
+      "correct": 1,
+      "explanation": "Pattern involves shifting alphabets; 'C'→'X', 'H'→'B', etc., matching option 1."
     },
     {
       "id": 26,
-      "category": "Mental Ability & Reasoning",
-      "question": "Choose the odd one out: Apple, Banana, Carrot, Mango.",
+      "category": "Current Affairs",
+      "question": "Who is the current Chief Minister of Odisha as of 2026?",
       "options": [
-        "Apple",
-        "Banana",
-        "Carrot",
-        "Mango"
+        "Naveen Patnaik",
+        "Mohan Charan Majhi",
+        "Biju Patnaik",
+        "Nirmala Sitharaman"
       ],
-      "correct": 2,
-      "explanation": "Carrot is a vegetable, while others are fruits."
+      "correct": 1,
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
     },
     {
       "id": 27,
       "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India in 2023 to promote startups in Odisha?",
+      "question": "Which Indian scheme aims to provide free food grains to the poor?",
       "options": [
-        "Startup Odisha",
-        "Make in India",
-        "Digital India",
-        "Atal Innovation Mission"
+        "Pradhan Mantri Awas Yojana",
+        "Pradhan Mantri Garib Kalyan Yojana",
+        "Swachh Bharat Abhiyan",
+        "Digital India"
       ],
-      "correct": 0,
-      "explanation": "Startup Odisha was launched to promote startups and entrepreneurship specifically in Odisha."
+      "correct": 1,
+      "explanation": "Pradhan Mantri Garib Kalyan Yojana provides free food grains to the poor during COVID-19 times and beyond."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Which athlete from Odisha won a gold medal in the 2024 Paris Olympics?",
+      "question": "Who is the current Vice President of India?",
       "options": [
-        "Dutee Chand",
-        "Neeraj Chopra",
-        "Sushil Kumar",
-        "Mary Kom"
+        "Venkaiah Naidu",
+        "C. P. Radhakrishnan",
+        "Jagdeep Dhankhar",
+        "M. Venkaiah Naidu"
       ],
-      "correct": 0,
-      "explanation": "Dutee Chand from Odisha made headlines for winning medals in athletics at the 2024 Olympics."
+      "correct": 1,
+      "explanation": "C. P. Radhakrishnan is the current Vice President of India since 12 September 2025."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Which Indian award was conferred upon Odisha's Boat Building Community recently?",
+      "question": "Which sportsperson from Odisha recently achieved a major international medal?",
       "options": [
-        "Padma Shri",
-        "UNESCO Intangible Cultural Heritage",
-        "National Award",
-        "Oscars"
+        "Dutee Chand",
+        "Sushil Kumar",
+        "P.V. Sindhu",
+        "Neeraj Chopra"
       ],
-      "correct": 1,
-      "explanation": "Odisha's traditional boat building community was recognized by UNESCO as an intangible cultural heritage."
+      "correct": 0,
+      "explanation": "Dutee Chand, from Odisha, is a celebrated sprinter who has achieved success in international athletics."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "Which new railway project connecting Odisha to neighboring states was inaugurated in 2023?",
+      "question": "Which is a recent national award given for sports achievement?",
       "options": [
-        "Bhubaneswar-Vishakhapatnam Line",
-        "Odisha-Chhattisgarh Link",
-        "Kolkata-Rourkela Express",
-        "Puri-Howrah Shatabdi"
+        "Padma Shri",
+        "Padma Bhushan",
+        "Rajiv Gandhi Khel Ratna",
+        "Arjuna Award"
       ],
-      "correct": 1,
-      "explanation": "The Odisha-Chhattisgarh rail link was inaugurated to improve connectivity and economic ties."
+      "correct": 2,
+      "explanation": "The Rajiv Gandhi Khel Ratna is India's highest sporting honor awarded for outstanding achievement."
     }
   ]
 }
