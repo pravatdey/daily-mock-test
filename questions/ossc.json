@@ -1,21 +1,21 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which river is the longest in Odisha?",
+      "question": "Which river is the longest flowing through Odisha?",
       "options": [
         "Mahanadi",
-        "Brahmani",
-        "Tel",
-        "Baitarani"
+        "Godavari",
+        "Krishna",
+        "Brahmani"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi is the longest river flowing through Odisha, crucial for agriculture and hydroelectric projects."
+      "explanation": "The Mahanadi is the longest river flowing through Odisha, covering a large part of the state."
     },
     {
       "id": 2,
@@ -23,77 +23,77 @@
       "question": "Which is the famous ancient temple located in Bhubaneswar?",
       "options": [
         "Lingaraj Temple",
-        "Konark Sun Temple",
         "Jagannath Temple",
-        "Mukteswara Temple"
+        "Sun Temple Konark",
+        "Mukteshwar Temple"
       ],
       "correct": 0,
-      "explanation": "Lingaraj Temple in Bhubaneswar is an ancient Hindu temple dedicated to Lord Shiva and a prime example of Kalinga architecture."
+      "explanation": "The Lingaraj Temple in Bhubaneswar is a prominent ancient Hindu temple dedicated to Lord Shiva."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is predominantly found in the Mayurbhanj district?",
+      "question": "Which tribal community is predominantly found in the Kandhamal district of Odisha?",
       "options": [
         "Santhal",
-        "Mundari",
-        "Bhuyans",
-        "Ho"
+        "Kondh",
+        "Gond",
+        "Santhal"
       ],
-      "correct": 2,
-      "explanation": "Bhuyans are a major tribal community in Mayurbhanj, known for their distinct culture and traditions."
+      "correct": 1,
+      "explanation": "The Kondh tribe is mainly found in Kandhamal and surrounding districts in Odisha."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated as the Rath Yatra in Odisha?",
+      "question": "Which festival is celebrated as the Odia New Year?",
       "options": [
-        "Diwali",
-        "Holi",
         "Rath Yatra",
-        "Dussehra"
+        "Nuakhai",
+        "Durga Puja",
+        "Diwali"
       ],
-      "correct": 2,
-      "explanation": "Rath Yatra is a famous festival celebrated in Puri, involving chariot processions dedicated to Lord Jagannath."
+      "correct": 1,
+      "explanation": "Nuakhai is the harvest festival celebrated as the Odia New Year, especially in Western Odisha."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "The Chilika Lake is famous for:",
+      "question": "Which is a famous lake located in Odisha?",
       "options": [
-        "Salt Production",
-        "Bird Sanctuary",
-        "Fishing",
-        "All of the above"
+        "Chilika Lake",
+        "Dal Lake",
+        "Loktak Lake",
+        "Wular Lake"
       ],
-      "correct": 3,
-      "explanation": "Chilika Lake is known for its brackish water, bird sanctuary, and fishing activities."
+      "correct": 0,
+      "explanation": "Chilika Lake is a famous brackish water lake in Odisha, known for migratory birds."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Who was the eminent freedom fighter from Odisha known for the Quit India Movement?",
+      "question": "Who was the renowned freedom fighter born in Odisha?",
       "options": [
-        "Utkalmani Gopabandhu Das",
-        "Biju Patnaik",
-        "Laxmi Narayan Tripathy",
-        "Malati Choudhury"
+        "Bishnu Prasad Rabha",
+        "Utkal Gourab Madhusudan Das",
+        "Swami Vivekananda",
+        "Dr. B. R. Ambedkar"
       ],
-      "correct": 0,
-      "explanation": "Gopabandhu Das was a prominent leader from Odisha and actively participated in the Indian freedom movement."
+      "correct": 1,
+      "explanation": "Madhusudan Das, known as Utkal Gourab, was a prominent freedom fighter and social reformer from Odisha."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "The Indus Valley Civilization was primarily located in which part of India?",
+      "question": "Which ancient Indian empire was known for the Ashoka Pillar inscriptions?",
       "options": [
-        "North India",
-        "South India",
-        "North-West India",
-        "East India"
+        "Mauryan Empire",
+        "Gupta Empire",
+        "Mughal Empire",
+        "Chola Empire"
       ],
-      "correct": 2,
-      "explanation": "The Indus Valley Civilization was located in present-day Pakistan and northwest India."
+      "correct": 0,
+      "explanation": "The Mauryan Empire under Ashoka is famous for the Ashoka Pillar inscriptions."
     },
     {
       "id": 8,
@@ -103,296 +103,296 @@
         "Babur",
         "Akbar",
         "Shah Jahan",
-        "Aurangzeb"
+        "Humayun"
       ],
       "correct": 0,
-      "explanation": "Babur founded the Mughal Empire in India in 1526 after the Battle of Panipat."
+      "explanation": "Babur founded the Mughal Empire in India in 1526."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "Which Indian classical dance is originated from Odisha?",
+      "question": "Which monument is a UNESCO World Heritage Site located in Delhi?",
       "options": [
-        "Kathak",
-        "Bharatanatyam",
-        "Odissi",
-        "Kathakali"
+        "Qutub Minar",
+        "Hampi Ruins",
+        "Taj Mahal",
+        "Red Fort"
       ],
-      "correct": 2,
-      "explanation": "Odissi is a classical dance form originating from Odisha, known for its graceful movements."
+      "correct": 0,
+      "explanation": "Qutub Minar is a UNESCO World Heritage site situated in Delhi."
     },
     {
       "id": 10,
       "category": "Indian History & Culture",
-      "question": "The First War of Indian Independence was in which year?",
+      "question": "The famous dance form 'Kathak' originated from which region of India?",
       "options": [
-        "1857",
-        "1911",
-        "1920",
-        "1947"
+        "North India",
+        "South India",
+        "West India",
+        "East India"
       ],
       "correct": 0,
-      "explanation": "The Indian rebellion of 1857 is considered the first major war of independence against British rule."
+      "explanation": "Kathak is a classical dance form that originated in North India."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which mountain range forms the northern boundary of India?",
+      "question": "Which mountain range separates India from Tibet?",
       "options": [
         "Himalayas",
         "Western Ghats",
         "Eastern Ghats",
-        "Aravalli Hills"
+        "Aravalli"
       ],
       "correct": 0,
-      "explanation": "The Himalayas form the northern boundary of India, acting as a natural border with Tibet and China."
+      "explanation": "The Himalayas form the natural border between India and Tibet."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Odisha's climate is primarily classified as:",
+      "question": "Which is the largest desert in India?",
       "options": [
-        "Tropical monsoon",
-        "Arid desert",
-        "Temperate",
-        "Mediterranean"
+        "Thar Desert",
+        "Kutch Desert",
+        "Rann of Kutch",
+        "Great Indian Desert"
       ],
       "correct": 0,
-      "explanation": "Odisha has a tropical monsoon climate with heavy rainfall during monsoon seasons."
+      "explanation": "The Thar Desert, also called the Great Indian Desert, is the largest in India."
     },
     {
       "id": 13,
       "category": "Geography",
-      "question": "Which mineral is most abundantly found in Odisha?",
+      "question": "Odisha lies on which coastal plain?",
       "options": [
-        "Coal",
-        "Bauxite",
-        "Iron ore",
-        "Mica"
+        "Eastern Coastal Plain",
+        "Western Coastal Plain",
+        "Gulf Coastal Plain",
+        "Ganga Plain"
       ],
-      "correct": 2,
-      "explanation": "Odisha is rich in iron ore deposits, making it a significant player in the steel industry."
+      "correct": 0,
+      "explanation": "Odisha is situated on the Eastern Coastal Plain of India."
     },
     {
       "id": 14,
       "category": "Geography",
-      "question": "The soil type prevalent in Odisha's delta regions is mainly:",
+      "question": "Which mineral is most abundant in Odisha?",
       "options": [
-        "Alluvial",
-        "Laterite",
-        "Black soil",
-        "Red soil"
+        "Coal",
+        "Bauxite",
+        "Iron ore",
+        "Manganese"
       ],
       "correct": 0,
-      "explanation": "Alluvial soil predominates in Odisha's delta and coastal regions, supporting agriculture."
+      "explanation": "Odisha is rich in coal deposits, among other minerals."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
+      "question": "Which article of the Indian Constitution guarantees the Right to Equality?",
       "options": [
         "Article 14",
+        "Article 19",
         "Article 21",
-        "Articles 12-35",
-        "Articles 32 and 226"
+        "Article 32"
       ],
-      "correct": 2,
-      "explanation": "Articles 12-35 of the Indian Constitution deal with Fundamental Rights."
+      "correct": 0,
+      "explanation": "Article 14 guarantees the Right to Equality before the law."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "Who is the head of the Union Parliament of India?",
+      "question": "The DPSP in Indian Constitution stands for?",
       "options": [
-        "President",
-        "Prime Minister",
-        "Lok Sabha Speaker",
-        "Vice President"
+        "Directive Principles of State Policy",
+        "Fundamental Rights",
+        "Fundamental Duties",
+        "Union and State Relations"
       ],
       "correct": 0,
-      "explanation": "The President is the ceremonial head of the Union Parliament, but the Speaker presides over the Lok Sabha."
+      "explanation": "DPSP refers to Directive Principles of State Policy."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "The Panchayati Raj system is a part of which schedule of the Indian Constitution?",
+      "question": "Who is the current Speaker of the Lok Sabha?",
       "options": [
-        "Fifth Schedule",
-        "Sixth Schedule",
-        "Eleventh Schedule",
-        "Twelfth Schedule"
+        "Om Birla",
+        "M. Venkaiah Naidu",
+        "Smt. Sumitra Mahajan",
+        "G. S. Bakshi"
       ],
-      "correct": 2,
-      "explanation": "The Eleventh Schedule of the Indian Constitution deals with Panchayats and local self-governance."
+      "correct": 0,
+      "explanation": "Om Birla is the current Speaker of the Lok Sabha."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "The Land Revenue System known as 'Mahalwari' was introduced by:",
+      "question": "Which level of government in India is responsible for local governance?",
       "options": [
-        "Lord Cornwallis",
-        "Lord Wellesley",
-        "Lord Curzon",
-        "Lord Dalhousie"
+        "Panchayats and Municipalities",
+        "State Government",
+        "Union Government",
+        "Judiciary"
       ],
       "correct": 0,
-      "explanation": "Mahalwari system was introduced by Cornwallis during the British colonial rule."
+      "explanation": "Local governance is managed by Panchayats and Municipalities."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Water boils at what temperature (at sea level)?",
+      "question": "What is the basic unit of life in biology?",
       "options": [
-        "100°C",
-        "90°C",
-        "110°C",
-        "120°C"
+        "Cell",
+        "Tissue",
+        "Organ",
+        "Organ System"
       ],
       "correct": 0,
-      "explanation": "At sea level, water boils at 100°C under standard atmospheric pressure."
+      "explanation": "The cell is the basic unit of life in biology."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "The primary gas used in photosynthesis is:",
+      "question": "Which gas is most abundant in the Earth's atmosphere?",
       "options": [
+        "Nitrogen",
         "Oxygen",
         "Carbon Dioxide",
-        "Nitrogen",
-        "Hydrogen"
+        "Argon"
       ],
-      "correct": 1,
-      "explanation": "Carbon dioxide is used by plants in photosynthesis to produce glucose and oxygen."
+      "correct": 0,
+      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which part of the human body helps in the absorption of nutrients?",
+      "question": "Which element is essential for the production of thyroid hormones?",
       "options": [
-        "Liver",
-        "Small intestine",
-        "Kidney",
-        "Lungs"
+        "Iodine",
+        "Iron",
+        "Calcium",
+        "Sodium"
       ],
-      "correct": 1,
-      "explanation": "The small intestine is the primary site for nutrient absorption."
+      "correct": 0,
+      "explanation": "Iodine is essential for synthesizing thyroid hormones."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which disease is caused by deficiency of Vitamin D?",
+      "question": "What vitamin deficiency causes Scurvy?",
       "options": [
-        "Scurvy",
-        "Rickets",
-        "Anemia",
-        "Beriberi"
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B12"
       ],
-      "correct": 1,
-      "explanation": "Vitamin D deficiency causes Rickets, affecting bone development."
+      "correct": 0,
+      "explanation": "Scurvy is caused by deficiency of Vitamin C."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
-      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
+      "question": "If 8, 16, 24, 32, ?, what is the next number?",
       "options": [
-        "24",
-        "32",
-        "18",
-        "20"
+        "40",
+        "48",
+        "56",
+        "64"
       ],
       "correct": 1,
-      "explanation": "The pattern multiplies by 2 each time; next is 32."
+      "explanation": "Pattern adds 8 each time; next is 48."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a certain code, 'ODISHA' is written as 'PKEVTCG', what is the code for 'OD'?",
+      "question": "In a certain code, 'FISH' is written as 'GLTJ'. How is 'BEAR' written?",
       "options": [
-        "PK",
-        "KE",
-        "TC",
-        "VG"
+        "CFBS",
+        "DDFS",
+        "CGBS",
+        "CHCT"
       ],
       "correct": 0,
-      "explanation": "Pattern involves shifting alphabets; 'O'→'P', 'D'→'K'."
+      "explanation": "Letter shift pattern shows B→C, E→F, A→B, R→S."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "In a direction test, if you face North and turn 90° clockwise, which direction will you face?",
+      "question": "Which of the following is the odd one out?",
       "options": [
-        "East",
-        "South",
-        "West",
-        "North"
+        "Apple",
+        "Banana",
+        "Grapes",
+        "Carrot"
       ],
-      "correct": 0,
-      "explanation": "Turning 90° clockwise from North faces East."
+      "correct": 3,
+      "explanation": "Carrot is a vegetable; others are fruits."
     },
     {
       "id": 26,
       "category": "Mental Ability & Reasoning",
-      "question": "Blood relations: Pointing to a man, Ajay says, 'He is the son of my grandfather's son.' Who is the man?",
+      "question": "If in a certain language, 'MANGO' is written as 'NBOHP', how is 'PEAR' written?",
       "options": [
-        "Ajay",
-        "Ajay's father",
-        "Ajay's brother",
-        "Ajay's son"
+        "QFSB",
+        "QFTB",
+        "QETB",
+        "QFRB"
       ],
-      "correct": 2,
-      "explanation": "The man is Ajay's brother; son of grandfather's son (Ajay's father)."
+      "correct": 0,
+      "explanation": "Pattern shifts each letter by one forward."
     },
     {
       "id": 27,
-      "category": "Current Affairs",
+      "category": "Current Affairs - Odisha & National",
+      "question": "Who is the current Chief Minister of Odisha?",
+      "options": [
+        "Naveen Patnaik",
+        "Mohan Charan Majhi",
+        "Nirmala Sitharaman",
+        "Naveen Kumar Patnaik"
+      ],
+      "correct": 1,
+      "explanation": "Mohan Charan Majhi is the current CM of Odisha as of 2026."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs - Odisha & National",
       "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "A.P.J. Abdul Kalam"
+        "Ram Nath"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India in 2026 to promote digital payments?",
-      "options": [
-        "Digital India",
-        "Cashless India",
-        "Bharat QR",
-        "UPI Expansion"
-      ],
-      "correct": 1,
-      "explanation": "'Cashless India' is a government initiative to promote digital payments, especially in recent schemes."
+      "explanation": "Droupadi Murmu is the current President of India."
     },
     {
       "id": 29,
-      "category": "Current Affairs",
-      "question": "Mohan Charan Majhi holds the position of:",
+      "category": "Current Affairs - Odisha & National",
+      "question": "Which international sports event was hosted by India in 2023?",
       "options": [
-        "Chief Minister of Odisha",
-        "Governor of Odisha",
-        "President of India",
-        "Vice President of India"
+        "G20 Summit",
+        "Commonwealth Games",
+        "Asian Games",
+        "BRICS Summit"
       ],
       "correct": 0,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha as of 2026."
+      "explanation": "India hosted the G20 Summit in 2023."
     },
     {
       "id": 30,
-      "category": "Current Affairs",
-      "question": "Which Indian sports personality received the Major Dhyan Chand Khel Ratna Award in 2026?",
+      "category": "Current Affairs - Odisha & National",
+      "question": "What is the name of the scheme launched by the Government of India to promote rural employment?",
       "options": [
-        "Neeraj Chopra",
-        "P.V. Sindhu",
-        "Gagan Narang",
-        "Anju Bobby George"
+        "Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGA)",
+        "Startup India",
+        "Make in India",
+        "Digital India"
       ],
       "correct": 0,
-      "explanation": "Neeraj Chopra, the Olympic gold medalist in javelin throw, received the award in 2026."
+      "explanation": "MGNREGA is a scheme to provide rural employment guarantee."
     }
   ]
 }
