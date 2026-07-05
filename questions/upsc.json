@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Indian History",
-      "question": "Who was the founder of the Maurya Empire in India?",
+      "category": "Indian History (Ancient)",
+      "question": "Which ancient Indian text is primarily a philosophical dialogue between Prince Arjuna and Lord Krishna?",
       "options": [
-        "Chandragupta Maurya",
-        "Ashoka the Great",
-        "Bindusara",
-        "Kautilya"
+        "Rigveda",
+        "Mahabharata",
+        "Ramayana",
+        "Upanishads"
       ],
-      "correct": 0,
-      "explanation": "Chandragupta Maurya established the Maurya Empire around 322 BCE, laying the foundation of one of India's largest empires."
+      "correct": 1,
+      "explanation": "The Mahabharata contains the Bhagavad Gita, which is a philosophical dialogue between Arjuna and Krishna."
     },
     {
       "id": 2,
-      "category": "Indian History",
-      "question": "During the Mughal period, which emperor is known for initiating the construction of the Fatehpur Sikri complex?",
+      "category": "Indian History (Medieval)",
+      "question": "Who founded the Mughal Empire in India?",
       "options": [
-        "Akbar",
         "Babur",
-        "Jahangir",
-        "Shah Jahan"
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
       "correct": 0,
-      "explanation": "Emperor Akbar initiated the construction of Fatehpur Sikri in the late 16th century as his administrative and political capital."
+      "explanation": "Babur established the Mughal Empire in India after his victory at Panipat in 1526."
     },
     {
       "id": 3,
-      "category": "Indian History",
-      "question": "The Non-Cooperation Movement was launched in response to the agitation against the rejection of which proposal?",
+      "category": "Indian History (Modern)",
+      "question": "The Jallianwala Bagh massacre took place in which year?",
       "options": [
-        "Simon Commission",
-        "Rowlatt Act",
-        "Partition of Bengal",
-        "Montagu-Chelmsford Reforms"
+        "1919",
+        "1927",
+        "1930",
+        "1942"
       ],
       "correct": 0,
-      "explanation": "The Non-Cooperation Movement was launched in response to the rejection of the Simon Commission and other repressive policies by the British government."
+      "explanation": "The Jallianwala Bagh massacre occurred in 1919, marking a turning point in Indian independence movement."
     },
     {
       "id": 4,
-      "category": "Indian History",
-      "question": "In which year did India attain independence?",
+      "category": "Indian History (Freedom Struggle)",
+      "question": "Which act was passed in 1935 that granted substantial autonomy to Indian provinces?",
       "options": [
-        "1947",
-        "1950",
-        "1935",
-        "1962"
+        "Government of India Act",
+        "Indian Independence Act",
+        "Morley-Minto Reforms",
+        "Simon Commission"
       ],
       "correct": 0,
-      "explanation": "India gained independence from British rule on August 15, 1947."
+      "explanation": "The Government of India Act 1935 provided for provincial autonomy and was a significant step towards independence."
     },
     {
       "id": 5,
-      "category": "Indian History",
+      "category": "Indian History (Freedom Struggle)",
       "question": "Who was the leader of the Indian National Army (INA)?",
       "options": [
         "Subhas Chandra Bose",
-        "Bal Gangadhar Tilak",
         "Mahatma Gandhi",
-        "Jawaharlal Nehru"
+        "Jawaharlal Nehru",
+        "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "Subhas Chandra Bose was the prominent leader of the Indian National Army which sought to overthrow British rule through military means."
+      "explanation": "Subhas Chandra Bose was the leader of the INA, which fought against British forces during WWII."
     },
     {
       "id": 6,
-      "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "category": "Indian Geography (Physical)",
+      "question": "Which is the largest mountain range in India?",
       "options": [
-        "Ganga",
-        "Kosi",
-        "Yamuna",
-        "Ghaghara"
+        "Himalayas",
+        "Western Ghats",
+        "Eastern Ghats",
+        "Aravalli"
       ],
-      "correct": 1,
-      "explanation": "The Kosi River is called the 'Sorrow of Bihar' due to frequent floods causing widespread damage."
+      "correct": 0,
+      "explanation": "The Himalayas is the world's highest mountain range and the largest in India."
     },
     {
       "id": 7,
-      "category": "Indian Geography",
-      "question": "Which Indian state has the longest coastline?",
+      "category": "Indian Geography (Economic)",
+      "question": "Which Indian state is the largest producer of tea?",
       "options": [
-        "Gujarat",
-        "Andhra Pradesh",
+        "Assam",
         "West Bengal",
-        "Odisha"
+        "Kerala",
+        "Tamil Nadu"
       ],
       "correct": 0,
-      "explanation": "Gujarat has the longest coastline among Indian states, measuring about 1600 km."
+      "explanation": "Assam is the leading tea-producing state in India."
     },
     {
       "id": 8,
-      "category": "Indian Geography",
-      "question": "Which is the largest salt desert in India?",
+      "category": "Indian Geography (Climate & Rivers)",
+      "question": "Which river is known as the 'Ganges of the South'?",
       "options": [
-        "Thar Desert",
-        "Rann of Kutch",
-        "Great Indian Desert",
-        "Ladakh Desert"
+        "Godavari",
+        "Kaveri",
+        "Krishna",
+        "Cauvery"
       ],
       "correct": 1,
-      "explanation": "The Rann of Kutch is the largest salt desert in India, located in Gujarat."
+      "explanation": "Kaveri is often referred to as the 'Ganges of the South' due to its cultural significance."
     },
     {
       "id": 9,
-      "category": "Indian Geography",
-      "question": "Which of the following is a Renewable Resource?",
+      "category": "Indian Geography (Resources)",
+      "question": "India is the world's largest producer of which mineral?",
       "options": [
-        "Coal",
-        "Petroleum",
-        "Solar Energy",
-        "Natural Gas"
+        "Iron ore",
+        "Manganese",
+        "Bauxite",
+        "Mica"
       ],
-      "correct": 2,
-      "explanation": "Solar energy is a renewable resource as it is inexhaustible and sustainable."
+      "correct": 3,
+      "explanation": "India is the largest producer of mica globally."
     },
     {
       "id": 10,
-      "category": "Indian Polity & Governance",
-      "question": "Who is the current Chief Justice of India (as of 2026)?",
+      "category": "Indian Polity & Governance (Constitution & Parliament)",
+      "question": "Who is the current Speaker of the Lok Sabha?",
+      "options": [
+        "Om Birla",
+        "M. Venkaiah Naidu",
+        "Shri G. V. Muralitharan",
+        "M. S. Gill"
+      ],
+      "correct": 0,
+      "explanation": "Om Birla has been serving as the Speaker of the Lok Sabha since 2019."
+    },
+    {
+      "id": 11,
+      "category": "Indian Polity & Governance (Fundamental Rights)",
+      "question": "Which Fundamental Right guarantees the freedom of speech and expression?",
+      "options": [
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Cultural and Educational Rights"
+      ],
+      "correct": 1,
+      "explanation": "The Right to Freedom guarantees freedom of speech and expression."
+    },
+    {
+      "id": 12,
+      "category": "Indian Polity & Governance (Constitution & Judiciary)",
+      "question": "Who is the current Chief Justice of India?",
       "options": [
         "Droupadi Murmu",
         "Surya Kant",
         "N. Venkata Ramana",
-        "Uday U. Lalit"
+        "Ranjan Gogoi"
       ],
       "correct": 1,
-      "explanation": "Surya Kant is the current Chief Justice of India since 24 November 2025."
-    },
-    {
-      "id": 11,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
-      "options": [
-        "Article 14",
-        "Articles 12-35",
-        "Article 32",
-        "Article 370"
-      ],
-      "correct": 1,
-      "explanation": "Articles 12 to 35 of the Indian Constitution enumerate Fundamental Rights."
-    },
-    {
-      "id": 12,
-      "category": "Indian Polity & Governance",
-      "question": "Who has the authority to declare a President’s rule in a state?",
-      "options": [
-        "The Governor of that state",
-        "The Parliament",
-        "The Supreme Court",
-        "The President of India"
-      ],
-      "correct": 3,
-      "explanation": "The President of India, on the recommendation of the Union Cabinet, can declare President’s rule in a state."
+      "explanation": "Surya Kant is the current Chief Justice of India as of November 2025."
     },
     {
       "id": 13,
-      "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system in India was constitutionally introduced by which amendment?",
+      "category": "Indian Polity & Governance (Panchayati Raj)",
+      "question": "The 73rd Constitutional Amendment Act relates to which governance structure?",
       "options": [
-        "73rd Amendment",
-        "74th Amendment",
-        "42nd Amendment",
-        "42nd Amendment"
+        "Urban Local Bodies",
+        "State Legislature",
+        "Panchayats",
+        "Municipalities"
       ],
-      "correct": 0,
-      "explanation": "The 73rd Amendment Act, 1992, formalized Panchayati Raj institutions."
+      "correct": 2,
+      "explanation": "The 73rd Amendment Act relates to the Panchayati Raj institutions."
     },
     {
       "id": 14,
-      "category": "Indian Economy",
-      "question": "Which Indian scheme aims to provide direct cash transfers to farmers?",
+      "category": "Indian Economy (Budget & Reforms)",
+      "question": "Who is the current Finance Minister of India?",
       "options": [
-        "PM Kisan Samman Nidhi",
-        "Make in India",
-        "Digital India",
-        "Start-Up India"
+        "Nirmala Sitharaman",
+        "P. Chidambaram",
+        "Arun Jaitley",
+        "Manmohan Singh"
       ],
       "correct": 0,
-      "explanation": "PM Kisan Samman Nidhi provides direct financial support to small and marginal farmers."
+      "explanation": "Nirmala Sitharaman is the current Finance Minister since 2019."
     },
     {
       "id": 15,
-      "category": "Indian Economy",
-      "question": "What does GDP stand for?",
+      "category": "Indian Economy (GDP & Trade)",
+      "question": "India’s GDP growth rate in the fiscal year 2024-25 is approximately:",
       "options": [
-        "Gross Domestic Product",
-        "Gross Development Plan",
-        "General Development Procedure",
-        "Gross Domestic Procedure"
+        "6.5%",
+        "7.2%",
+        "5.8%",
+        "6.9%"
       ],
-      "correct": 0,
-      "explanation": "GDP stands for Gross Domestic Product, measuring the total value of goods and services produced within a country."
+      "correct": 1,
+      "explanation": "India’s GDP growth rate for 2024-25 is estimated around 7.2%."
     },
     {
       "id": 16,
-      "category": "Indian Economy",
-      "question": "In India, the 'Five Year Plans' were formulated by which body?",
+      "category": "Indian Economy (Five Year Plans & Reforms)",
+      "question": "The New Economic Reforms start in which year in India?",
       "options": [
-        "Planning Commission",
-        "Ministry of Finance",
-        "NITI Aayog",
-        "Economic Advisory Council"
+        "1991",
+        "1985",
+        "2000",
+        "2010"
       ],
       "correct": 0,
-      "explanation": "The Planning Commission was responsible for preparing Five Year Plans before 2015, replaced now by NITI Aayog."
+      "explanation": "The significant economic reforms were initiated in 1991."
     },
     {
       "id": 17,
-      "category": "Indian Science",
-      "question": "Who was the first Indian astronaut to travel to space?",
+      "category": "General Science (Physics & Chemistry)",
+      "question": "Which law explains the relationship between voltage, current, and resistance?",
       "options": [
-        "Rakesh Sharma",
-        "Kalpana Chawla",
-        "Sunita Williams",
-        "Rohini Mohan"
+        "Ohm’s Law",
+        "Boyle’s Law",
+        "Newton’s Second Law",
+        "Faraday’s Law"
       ],
-      "correct": 1,
-      "explanation": "Kalpana Chawla was the first Indian-born woman to travel to space, flying aboard the Space Shuttle Columbia."
+      "correct": 0,
+      "explanation": "Ohm’s Law states V = IR, relating voltage, current, and resistance."
     },
     {
       "id": 18,
-      "category": "Indian Science",
-      "question": "Which element has the highest melting point?",
+      "category": "General Science (Biology & Space)",
+      "question": "Which part of the human body is primarily responsible for absorbing nutrients?",
       "options": [
-        "Tungsten",
-        "Carbon",
-        "Iron",
-        "Gold"
+        "Liver",
+        "Small Intestine",
+        "Kidney",
+        "Lungs"
       ],
-      "correct": 0,
-      "explanation": "Tungsten has the highest melting point among all metals, at 3422°C."
+      "correct": 1,
+      "explanation": "The small intestine absorbs most of the nutrients from food."
     },
     {
       "id": 19,
-      "category": "Indian Science",
-      "question": "The process of photosynthesis primarily occurs in which part of the plant?",
+      "category": "General Science (Technology & Space)",
+      "question": "Which Indian satellite is primarily used for earth observation?",
       "options": [
-        "Root",
-        "Stem",
-        "Leaves",
-        "Flowers"
+        "Cartosat",
+        "GSAT",
+        "INSAT",
+        "Chandrayaan"
       ],
-      "correct": 2,
-      "explanation": "Photosynthesis mainly takes place in the leaves, where chlorophyll captures sunlight."
+      "correct": 0,
+      "explanation": "Cartosat satellites are used for high-resolution earth observation."
     },
     {
       "id": 20,
-      "category": "Environment & Ecology",
-      "question": "Which biodiversity hotspot is located entirely within India?",
+      "category": "Environment & Ecology (Biodiversity & Protected Areas)",
+      "question": "The Sundarbans are famous for which species?",
       "options": [
-        "Himalayas",
-        "Western Ghats",
-        "Indo-Burma",
-        "Sundaland"
+        "Royal Bengal Tiger",
+        "One-horned Rhinoceros",
+        "Indian Elephant",
+        "Giant Panda"
       ],
-      "correct": 1,
-      "explanation": "The Western Ghats is an Indian biodiversity hotspot recognized for its rich biological diversity."
+      "correct": 0,
+      "explanation": "The Sundarbans are renowned for their Royal Bengal Tigers."
     },
     {
       "id": 21,
-      "category": "Environment & Ecology",
-      "question": "The 'Green Belt' project in India aims to:",
+      "category": "Environment & Ecology (Climate Change & Laws)",
+      "question": "India ratified the Paris Agreement in which year?",
       "options": [
-        "Reduce pollution",
-        "Increase green cover",
-        "Promote eco-tourism",
-        "Control soil erosion"
+        "2015",
+        "2016",
+        "2017",
+        "2018"
       ],
       "correct": 1,
-      "explanation": "The Green Belt project aims to increase forest cover and promote afforestation."
+      "explanation": "India ratified the Paris Agreement in 2016."
     },
     {
       "id": 22,
-      "category": "Environment & Ecology",
-      "question": "Which law in India governs the protection of wildlife?",
+      "category": "Environment & Ecology (Conservation & Laws)",
+      "question": "Which is India’s first marine national park?",
       "options": [
-        "Wildlife Protection Act, 1972",
-        "Environment Protection Act, 1986",
-        "Forest Conservation Act, 1980",
-        "Air Act, 1981"
+        "Gulf of Mannar",
+        "Ramnathapuram",
+        "Sundarbans",
+        "Kaziranga"
       ],
       "correct": 0,
-      "explanation": "The Wildlife Protection Act, 1972, provides legal protection to wildlife in India."
+      "explanation": "Gulf of Mannar is India’s first marine national park."
     },
     {
       "id": 23,
-      "category": "Current Affairs & GK",
+      "category": "Current Affairs & GK (National & International)",
       "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "Venkaya Naidu"
+        "A.P.J. Abdul Kalam"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
+      "explanation": "Droupadi Murmu is the current President since 2022."
     },
     {
       "id": 24,
-      "category": "Current Affairs & GK",
-      "question": "Which country hosted the G20 summit in 2023?",
+      "category": "Current Affairs & GK (Awards & Schemes)",
+      "question": "Which scheme was launched by the government in 2018 to promote digital payments?",
       "options": [
-        "India",
-        "USA",
-        "Germany",
-        "Japan"
+        "Digital India",
+        "Jan Dhan Yojana",
+        "Make in India",
+        "Start-up India"
       ],
       "correct": 0,
-      "explanation": "India hosted the G20 summit in 2023, with New Delhi as the host city."
+      "explanation": "Digital India was launched in 2015 but gained momentum in 2018 to promote digital payments."
     },
     {
       "id": 25,
-      "category": "Current Affairs & GK",
-      "question": "Which Indian award is given for extraordinary achievement in sports?",
+      "category": "Current Affairs & GK (Sports & International Events)",
+      "question": "Who won the ICC Cricket World Cup 2019?",
       "options": [
-        "Rajiv Gandhi Khel Ratna",
-        "Padma Shri",
-        "Arjuna Award",
-        "Dronacharya Award"
+        "India",
+        "Australia",
+        "England",
+        "New Zealand"
       ],
-      "correct": 0,
-      "explanation": "The Rajiv Gandhi Khel Ratna is India's highest sporting honor awarded for outstanding performance."
+      "correct": 2,
+      "explanation": "England won the 2019 Cricket World Cup held in England."
     },
     {
       "id": 26,
-      "category": "Current Affairs & GK",
-      "question": "The 'Start-Up India' scheme was launched in which year?",
+      "category": "Indian History (Ancient & Medieval)",
+      "question": "Which ruler built the Qutub Minar in Delhi?",
       "options": [
-        "2016",
-        "2014",
-        "2018",
-        "2012"
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Alauddin Khilji",
+        "Firoz Shah Tughlaq"
       ],
       "correct": 0,
-      "explanation": "Start-Up India was launched in 2016 to promote entrepreneurship and innovation."
+      "explanation": "Qutb-ud-din Aibak constructed the Qutub Minar."
     },
     {
       "id": 27,
-      "category": "Indian Geography",
-      "question": "Which mountain range forms the natural border between India and China?",
+      "category": "Indian Geography (Physical & Resources)",
+      "question": "Which of these is a non-renewable resource?",
       "options": [
-        "Himalayas",
-        "Aravalli",
-        "Western Ghats",
-        "Eastern Ghats"
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Biomass"
       ],
-      "correct": 0,
-      "explanation": "The Himalayas serve as the natural border between India and China."
+      "correct": 2,
+      "explanation": "Coal is a non-renewable mineral resource."
     },
     {
       "id": 28,
-      "category": "Indian Science",
-      "question": "The function of chlorophyll in plants is to:",
+      "category": "Indian Polity & Governance (Judiciary & Constitution)",
+      "question": "The power of Judicial Review is derived from which article of the Indian Constitution?",
       "options": [
-        "Absorb sunlight",
-        "Transport nutrients",
-        "Store water",
-        "Support the plant structure"
+        "Article 13",
+        "Article 32",
+        "Article 226",
+        "Article 136"
       ],
       "correct": 0,
-      "explanation": "Chlorophyll absorbs sunlight necessary for photosynthesis."
+      "explanation": "Article 13 establishes the power of Judicial Review in India."
     },
     {
       "id": 29,
-      "category": "Indian Economy",
-      "question": "Which is the main component of India's foreign trade?",
+      "category": "General Science (Physics & Space)",
+      "question": "Which planet is known as the 'Red Planet'?",
       "options": [
-        "Gold",
-        "Services",
-        "Crude Oil",
-        "Electronics"
+        "Mars",
+        "Jupiter",
+        "Venus",
+        "Saturn"
       ],
-      "correct": 1,
-      "explanation": "Services constitute a significant portion of India’s foreign trade, alongside merchandise exports."
+      "correct": 0,
+      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance."
     },
     {
       "id": 30,
-      "category": "Indian History",
-      "question": "The Jallianwala Bagh massacre took place in which year?",
+      "category": "Environment & Ecology (Climate Change & Biodiversity)",
+      "question": "Which of the following is a major cause of ozone depletion?",
       "options": [
-        "1919",
-        "1920",
-        "1930",
-        "1917"
+        "Carbon dioxide",
+        "Methane",
+        "Chlorofluorocarbons (CFCs)",
+        "Nitrous oxide"
       ],
-      "correct": 0,
-      "explanation": "The Jallianwala Bagh massacre happened in 1919, a turning point in Indian independence movement."
+      "correct": 2,
+      "explanation": "CFCs are responsible for ozone layer depletion."
     }
   ]
 }
