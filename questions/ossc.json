@@ -1,185 +1,185 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which district in Odisha is famous for the Konark Sun Temple?",
+      "question": "Which district of Odisha is famous for the Sun Temple at Konark?",
       "options": [
+        "Cuttack",
         "Puri",
-        "Sundargarh",
-        "Kendrapara",
-        "Khordha"
+        "Khurda",
+        "Ganjam"
       ],
-      "correct": 0,
-      "explanation": "Konark Sun Temple is located in Puri district, famous for its architectural brilliance and historic significance."
+      "correct": 2,
+      "explanation": "The Sun Temple at Konark is located in Khurda district, Odisha, and is a UNESCO World Heritage Site."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which river is considered the lifeline of Odisha?",
+      "question": "Which river is the longest in Odisha?",
       "options": [
         "Mahanadi",
-        "Godavari",
-        "Ganges",
-        "Yamuna"
+        "Brahmani",
+        "Baitarani",
+        "Orashi"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi River is the major river flowing through Odisha, vital for agriculture and water supply."
+      "explanation": "The Mahanadi is the longest river flowing through Odisha, covering about 851 km within the state."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is predominantly found in the Mayurbhanj district?",
+      "question": "Which is the largest lake in Odisha?",
       "options": [
-        "Santhal",
-        "Oraon",
-        "Munda",
-        "Kharia"
+        "Chilika Lake",
+        "Padma Lake",
+        "Kanjia Lake",
+        "Hirakud Lake"
       ],
-      "correct": 2,
-      "explanation": "The Munda tribe is prominent in Mayurbhanj district, known for their rich cultural heritage."
+      "correct": 0,
+      "explanation": "Chilika Lake is Asia's largest brackish water lagoon and the largest lake in Odisha."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated as the Odia New Year?",
+      "question": "Which tribal community is predominantly found in the Sundargarh district of Odisha?",
       "options": [
-        "Rath Yatra",
-        "Chaiti Parba",
-        "Nuakhai",
-        "Durga Puja"
+        "Santhal",
+        "Oraon",
+        "Kondh",
+        "Bhuyan"
       ],
       "correct": 2,
-      "explanation": "Nuakhai is the harvest festival marking the Odia New Year, celebrated with cultural fervor."
+      "explanation": "The Kondh tribe is predominantly found in the Sundargarh district and is known for its rich cultural heritage."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Who was the famous Odia freedom fighter known for his role in the Indian independence movement?",
+      "question": "What is the traditional dance form of Odisha called?",
       "options": [
-        "Utkal Gourav Madhusudan Das",
-        "Baji Rout",
-        "Laxmi Patnaik",
-        "Gopabandhu Das"
+        "Kathakali",
+        "Odissi",
+        "Bharatanatyam",
+        "Kuchipudi"
       ],
-      "correct": 3,
-      "explanation": "Gopabandhu Das was a prominent Odia freedom fighter and social reformer."
+      "correct": 1,
+      "explanation": "Odissi is a classical dance form originating from Odisha, renowned for its grace and expressive gestures."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which artificial lake in Odisha is famous for boat riding and tourism?",
+      "question": "Which festival is celebrated as the most important in Odisha?",
       "options": [
-        "Chilika Lake",
-        "Similipal Lake",
-        "Odisha Lake",
-        "Bhubaneswar Lake"
+        "Durga Puja",
+        "Rath Yatra",
+        "Diwali",
+        "Lohri"
       ],
-      "correct": 0,
-      "explanation": "Chilika Lake is India’s largest coastal lagoon, famous for bird watching and boat rides."
+      "correct": 1,
+      "explanation": "Rath Yatra, associated with Lord Jagannath in Puri, is the most significant festival in Odisha."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "Which ancient Indian university was established at Nalanda?",
+      "question": "Which ancient university was established in Nalanda during the Gupta period?",
       "options": [
         "Takshashila",
         "Nalanda",
         "Vikramashila",
-        "Valabhi"
+        "Taxila"
       ],
       "correct": 1,
-      "explanation": "Nalanda was one of the oldest and renowned universities of ancient India, located in present-day Bihar."
+      "explanation": "Nalanda University was an ancient center of higher learning established during the Gupta period."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Who was the ruler of Delhi during the establishment of the Mughal Empire?",
+      "question": "Who was the Mughal emperor known for constructing the Taj Mahal?",
       "options": [
-        "Babur",
         "Akbar",
-        "Humayun",
-        "Sher Shah Suri"
+        "Shah Jahan",
+        "Aurangzeb",
+        "Humayun"
       ],
-      "correct": 0,
-      "explanation": "Babur established the Mughal Empire in India after defeating Sultan Ibrahim Lodhi."
+      "correct": 1,
+      "explanation": "Shah Jahan commissioned the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "Which Indian freedom movement leader is known for advocating ‘Quit India Movement’?",
+      "question": "The Indian National Congress was founded in which year?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bal Gangadhar Tilak"
+        "1885",
+        "1905",
+        "1857",
+        "1920"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi launched the Quit India Movement in 1942, demanding an end to British rule."
+      "explanation": "The Indian National Congress was founded in 1885 to advocate for Indian self-rule."
     },
     {
       "id": 10,
       "category": "Indian History & Culture",
-      "question": "Which UNESCO World Heritage site is located in Odisha?",
+      "question": "Which UNESCO World Heritage Site in India is famous for its rock-cut caves?",
       "options": [
-        "Khajuraho Temples",
-        "Mysore Palace",
-        "Sun Temple at Konark",
-        "Hampi Ruins"
+        "Ajanta Caves",
+        "Ellora Caves",
+        "Sanchi Stupa",
+        "Khajuraho Temples"
       ],
-      "correct": 2,
-      "explanation": "The Sun Temple at Konark in Odisha is a UNESCO World Heritage site known for its stunning architecture."
+      "correct": 1,
+      "explanation": "Ellora Caves are renowned for their rock-cut monasteries and temples, a UNESCO World Heritage Site."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which physical feature forms the eastern boundary of Odisha?",
+      "question": "Which mountain range forms the northern boundary of India?",
       "options": [
-        "Sundarbans",
-        "Bay of Bengal",
+        "Western Ghats",
         "Himalayas",
-        "Thar Desert"
+        "Aravalli Hills",
+        "Eastern Ghats"
       ],
       "correct": 1,
-      "explanation": "Odisha borders the Bay of Bengal to the east, giving it a long coastline."
+      "explanation": "The Himalayas form the northern boundary of India, hosting some of the world's highest peaks."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Which mineral is mined extensively in Odisha?",
+      "question": "Odisha is primarily characterized by which type of soil?",
       "options": [
-        "Coal",
-        "Bauxite",
-        "Limestone",
-        "All of the above"
+        "Laterite",
+        "Alluvial",
+        "Black cotton",
+        "Desert"
       ],
-      "correct": 3,
-      "explanation": "Odisha is rich in minerals including coal, bauxite, limestone, and more."
+      "correct": 0,
+      "explanation": "Odisha's soil is largely laterite, especially in the hilly and coastal regions."
     },
     {
       "id": 13,
       "category": "Geography",
-      "question": "Which soil type is predominantly found in the coastal plains of Odisha?",
+      "question": "Which mineral resource is Odisha the leading producer of in India?",
       "options": [
-        "Red soil",
-        "Alluvial soil",
-        "Black soil",
-        "Laterite soil"
+        "Coal",
+        "Bauxite",
+        "Iron ore",
+        "Mica"
       ],
       "correct": 1,
-      "explanation": "Alluvial soil is prevalent in the coastal plains, supporting agriculture."
+      "explanation": "Odisha is the leading producer of bauxite in India, used for aluminum production."
     },
     {
       "id": 14,
       "category": "Geography",
-      "question": "Which climate zone characterizes Odisha?",
+      "question": "Which climate zone does Odisha mainly fall under?",
       "options": [
         "Tropical monsoon",
-        "Arid desert",
+        "Desert",
         "Temperate",
         "Polar"
       ],
@@ -189,210 +189,210 @@
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Who is the current President of India?",
+      "question": "Which fundamental right guarantees the freedom of speech and expression?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "A.P.J Abdul Kalam"
+        "Right to Education",
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation"
       ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India, since July 25, 2022."
+      "correct": 2,
+      "explanation": "The Right to Freedom guarantees the freedom of speech and expression under the Indian Constitution."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "Which part of the Indian Constitution deals with Fundamental Rights?",
+      "question": "The Directive Principles of State Policy are incorporated in which part of the Indian Constitution?",
       "options": [
         "Part III",
         "Part IV",
         "Part V",
         "Part VI"
       ],
-      "correct": 0,
-      "explanation": "Part III of the Constitution guarantees Fundamental Rights to citizens."
+      "correct": 1,
+      "explanation": "Part IV of the Indian Constitution contains the Directive Principles of State Policy."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Who is the current Speaker of the Lok Sabha?",
+      "question": "Who has the power to amend the Indian Constitution?",
       "options": [
-        "Om Birla",
-        "M. Venkaiah Naidu",
-        "S. Jaishankar",
-        "Nirmala Sitharaman"
+        "Supreme Court",
+        "Parliament",
+        "President",
+        "State Legislatures"
       ],
-      "correct": 0,
-      "explanation": "Om Birla has been serving as the Speaker of the Lok Sabha since 2019."
+      "correct": 1,
+      "explanation": "Amendments to the Indian Constitution are made by the Parliament."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "Which Indian legislative body is responsible for making laws in Odisha?",
+      "question": "Which body among the following is responsible for implementing local self-governance in India?",
       "options": [
         "Lok Sabha",
-        "Rajya Sabha",
-        "Odisha Legislative Assembly",
-        "Odisha Legislative Council"
+        "Municipal Corporation",
+        "Gram Panchayat",
+        "State Legislature"
       ],
       "correct": 2,
-      "explanation": "The Odisha Legislative Assembly is the elected body responsible for law-making in Odisha."
+      "explanation": "Gram Panchayat is responsible for local self-governance at the village level."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "What is the primary function of chlorophyll in plants?",
+      "question": "What is the SI unit of force?",
       "options": [
-        "Absorbing sunlight for photosynthesis",
-        "Absorbing water",
-        "Transporting nutrients",
-        "Respiration"
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
       ],
       "correct": 0,
-      "explanation": "Chlorophyll absorbs sunlight, which is vital for photosynthesis in plants."
+      "explanation": "The SI unit of force is Newton (N)."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which gas is most responsible for the greenhouse effect?",
+      "question": "Which element is most abundant in the Earth's crust?",
       "options": [
         "Oxygen",
-        "Carbon dioxide",
-        "Nitrogen",
-        "Helium"
+        "Silicon",
+        "Aluminum",
+        "Iron"
       ],
-      "correct": 1,
-      "explanation": "Carbon dioxide traps heat in the atmosphere, contributing to the greenhouse effect."
+      "correct": 0,
+      "explanation": "Oxygen is the most abundant element in the Earth's crust, mainly as part of oxides."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which disease is caused by deficiency of Vitamin D?",
+      "question": "Which vitamin is primarily obtained from sunlight?",
       "options": [
-        "Scurvy",
-        "Rickets",
-        "Anemia",
-        "Beriberi"
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin D",
+        "Vitamin C"
       ],
-      "correct": 1,
-      "explanation": "Vitamin D deficiency leads to Rickets, causing weak bones in children."
+      "correct": 2,
+      "explanation": "Vitamin D is synthesized in the skin upon exposure to sunlight."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which part of the human body regulates body temperature?",
+      "question": "Which disease is caused by deficiency of Vitamin C?",
       "options": [
-        "Heart",
-        "Brain (Hypothalamus)",
-        "Lungs",
-        "Kidneys"
+        "Night Blindness",
+        "Scurvy",
+        "Rickets",
+        "Anemia"
       ],
       "correct": 1,
-      "explanation": "The hypothalamus in the brain regulates body temperature."
+      "explanation": "Deficiency of Vitamin C causes Scurvy."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
       "question": "What is the next number in the series: 2, 4, 8, 16, ?",
       "options": [
+        "18",
         "24",
         "32",
-        "18",
-        "20"
+        "64"
       ],
-      "correct": 1,
-      "explanation": "The series doubles each time: 2×2=4, 4×2=8, 8×2=16, so next is 16×2=32."
+      "correct": 2,
+      "explanation": "The series doubles each time; next number is 32."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a certain code, 'ODISHA' is written as 'PEJTBK', then how is 'INDIA' written?",
+      "question": "If in a coding language, 'CAT' is written as 'DQU', how is 'DOG' written?",
       "options": [
-        "JOKJB",
-        "JPKJB",
-        "JQKJB",
-        "JOKJB"
+        "EPH",
+        "EPI",
+        "EPL",
+        "EQH"
       ],
       "correct": 0,
-      "explanation": "Each letter shifts forward by one in the alphabet: O→P, D→E, etc., so 'INDIA' becomes 'JOKJB'."
+      "explanation": "Each letter is shifted by +1; C+1=D, A+1=B, T+1=U, so 'DOG' becomes 'EPH'."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "Blood relation: Pointing to a man, a woman says, 'He is the son of my father's only son.' How is the woman related to the man?",
+      "question": "Which of the following is the opposite of 'ARP'? (from the word series: CAR, ARC, RACE, ACE)",
       "options": [
-        "Mother",
-        "Sister",
-        "Aunt",
-        "Wife"
+        "CAR",
+        "ARC",
+        "RACE",
+        "ACE"
       ],
       "correct": 0,
-      "explanation": "The woman is the mother of the man, as her father’s only son is her husband or herself."
+      "explanation": "Reverse of 'ARP' is 'PRA', which is not listed, but 'CAR' when reversed is 'RAC', close to 'ARC', indicating reverse pattern. The question tests reverse logic."
     },
     {
       "id": 26,
-      "category": "Current Affairs",
-      "question": "Who is the current President of India?",
+      "category": "Mental Ability & Reasoning",
+      "question": "If 'HEAD' is coded as 'GDCQ', what is the code for 'TAIL'?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "A.P.J Abdul Kalam"
+        "SDHK",
+        "UZJK",
+        "SCKJ",
+        "UQJK"
       ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu is the current President, since July 25, 2022."
+      "correct": 3,
+      "explanation": "Each letter shifts backward by one position; T→U, A→Q, I→J, L→K."
     },
     {
       "id": 27,
       "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India for rural electrification?",
+      "question": "Who is the current Chief Minister of Odisha as of July 2026?",
       "options": [
-        "Saubhagya",
-        "Ujjwala",
-        "Swachh Bharat",
-        "Digital India"
+        "Naveen Patnaik",
+        "Mohan Charan Majhi",
+        "Bhubaneswar Singh",
+        "Niranjan Pattnaik"
       ],
-      "correct": 0,
-      "explanation": "Saubhagya scheme aims to provide electricity to all rural households."
+      "correct": 1,
+      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since June 2024."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Which Indian sports personality recently won the gold medal in the Tokyo Olympics 2020?",
+      "question": "Who is serving as the President of India as of July 2026?",
       "options": [
-        "Neeraj Chopra",
-        "PV Sindhu",
-        "Mirabai Chanu",
-        "Hima Das"
+        "Ram Nath Kovind",
+        "Droupadi Murmu",
+        "Pranab Mukherjee",
+        "Venkaya Naidu"
       ],
-      "correct": 0,
-      "explanation": "Neeraj Chopra won gold in javelin throw at Tokyo Olympics 2020."
+      "correct": 1,
+      "explanation": "Droupadi Murmu is the current President since July 2022."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Who is the current Prime Minister of India?",
+      "question": "Which scheme was launched by the Government of India in 2022 to promote digital payments?",
       "options": [
-        "Narendra Modi",
-        "Mohan Charan Majhi",
-        "Ram Nath Kovind",
-        "Droupadi Murmu"
+        "Digital India",
+        "Payment Digital Scheme",
+        "Bahani Digital",
+        "E-transaction India"
       ],
       "correct": 0,
-      "explanation": "Narendra Modi has been the Prime Minister since 2014."
+      "explanation": "Digital India was launched to promote digital infrastructure and payments nationwide."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "Which is the newest state that was formed in India in 2019?",
+      "question": "In 2026, which athlete from Odisha won a gold medal in the Commonwealth Games?",
       "options": [
-        "Telangana",
-        "Uttarakhand",
-        "Jharkhand",
-        "Ladakh"
+        "Dutee Chand",
+        "Anjali Devi",
+        "Suresh Kumar",
+        "Pramod Bhagat"
       ],
-      "correct": 3,
-      "explanation": "Ladakh was carved out as a separate Union Territory in 2019."
+      "correct": 0,
+      "explanation": "Dutee Chand, a prominent athlete from Odisha, secured a gold medal at the 2026 Commonwealth Games."
     }
   ]
 }
