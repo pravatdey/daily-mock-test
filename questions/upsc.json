@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian scripture is considered the earliest known poetic work in Sanskrit?",
+      "question": "Which of the following ancient Indian texts primarily deals with political theory and dharma?",
       "options": [
         "Vedas",
+        "Arthashastra",
         "Upanishads",
-        "Ramayana",
-        "Mahabharata"
+        "Puranas"
       ],
-      "correct": 0,
-      "explanation": "The Rigveda, part of the Vedas, is the earliest known poetic work in Sanskrit, dating back to around 1500-1200 BCE."
+      "correct": 1,
+      "explanation": "The Arthashastra, attributed to Chanakya, is an ancient Indian treatise on statecraft, economic policy, and military strategy."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "The Battle of Plassey was fought in which year?",
+      "question": "Who was the leader of the Salt March in 1930?",
       "options": [
-        "1757",
-        "1761",
-        "1775",
-        "1782"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "B.R. Ambedkar"
       ],
-      "correct": 0,
-      "explanation": "The Battle of Plassey was fought in 1757 and marked the beginning of British dominance in India."
+      "correct": 1,
+      "explanation": "Mahatma Gandhi led the Salt March, a pivotal non-violent protest against British salt monopoly in 1930."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
+      "question": "Which event marked the beginning of the Indian Revolt of 1857?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Bal Gangadhar Tilak",
-        "Subhas Chandra Bose"
+        "Seizing of Delhi",
+        "Siege of Cawnpore",
+        "Discovery of a mutiny in Meerut",
+        "Battle of Plassey"
       ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi pioneered the Non-Cooperation Movement in 1920 as a non-violent protest against British rule."
+      "correct": 2,
+      "explanation": "The Revolt of 1857 began with mutiny in Meerut, which quickly spread to other parts of India."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "The 'Partition of Bengal' took place during the tenure of which Viceroy?",
+      "question": "Who is considered the ‘Father of Modern India’?",
       "options": [
-        "Lord Curzon",
-        "Lord Reading",
-        "Lord Linlithgow",
-        "Lord Wellesley"
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Raja Ram Mohan Roy",
+        "Bal Gangadhar Tilak"
       ],
-      "correct": 0,
-      "explanation": "The Partition of Bengal was carried out in 1905 during Lord Curzon's tenure to divide Bengal for administrative reasons."
+      "correct": 2,
+      "explanation": "Raja Ram Mohan Roy is called the 'Father of Modern India' for his efforts in social reform and modernization."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Who was the founder of the Indian National Congress?",
+      "question": "Which Indian freedom movement figure founded the Indian National Army (INA)?",
       "options": [
-        "Dadabhai Naoroji",
-        "Allen Hume",
-        "A.O. Hume",
+        "Subhas Chandra Bose",
+        "Bhagat Singh",
+        "Lala Lajpat Rai",
         "Bal Gangadhar Tilak"
       ],
-      "correct": 2,
-      "explanation": "A.O. Hume is credited with founding the Indian National Congress in 1885."
+      "correct": 0,
+      "explanation": "Subhas Chandra Bose founded the INA to fight against British rule during World War II."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent floods?",
+      "question": "Which river is known as the ‘Sorrow of Bengal’?",
       "options": [
-        "Ganges",
-        "Koshi",
-        "Son",
-        "Budhi Gandak"
+        "Ganga",
+        "Brahmaputra",
+        "Padma",
+        "Damodar"
       ],
-      "correct": 2,
-      "explanation": "The Son River is called the 'Sorrow of Bihar' because of frequent devastating floods."
+      "correct": 3,
+      "explanation": "The Damodar River is called the 'Sorrow of Bengal' due to frequent devastating floods."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which is the largest Indian state in terms of area?",
+      "question": "Which is the largest mountain range in India?",
       "options": [
-        "Rajasthan",
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Uttar Pradesh"
+        "Himalayas",
+        "Western Ghats",
+        "Eastern Ghats",
+        "Aravalli Hills"
       ],
       "correct": 0,
-      "explanation": "Rajasthan is the largest Indian state by area, covering about 343,239 sq km."
+      "explanation": "The Himalayas form the world's highest mountain range in India, extending across the northern boundary."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "The Thar Desert is primarily located in which Indian state?",
+      "question": "Which Indian state is the largest producer of coal?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Jharkhand",
+        "Odisha",
+        "Chhattisgarh",
+        "West Bengal"
       ],
-      "correct": 0,
-      "explanation": "The Thar Desert is mainly in Rajasthan."
+      "correct": 2,
+      "explanation": "Chhattisgarh is the leading coal-producing state in India."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which Indian city is famously called the 'Silicon Valley of India'?",
+      "question": "Which climatic zone is predominant in Rajasthan?",
       "options": [
-        "Bangalore",
-        "Hyderabad",
-        "Pune",
-        "Chennai"
+        "Tropical",
+        "Arid desert",
+        "Humid subtropical",
+        "Montane"
       ],
-      "correct": 0,
-      "explanation": "Bangalore is known as the 'Silicon Valley of India' due to its extensive IT industry."
+      "correct": 1,
+      "explanation": "Rajasthan predominantly has an arid desert climate, especially in the Thar Desert area."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
       "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "President of India",
-        "Chief Justice of India",
-        "Prime Minister",
-        "Lok Sabha"
+        "The President of India",
+        "The Prime Minister",
+        "The Union Cabinet",
+        "The Parliament"
       ],
       "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India."
+      "explanation": "The President of India appoints the Chief Justice of India under constitutional provisions."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "The ‘Directive Principles of State Policy’ are included in which part of the Indian Constitution?",
+      "question": "Which Article of the Indian Constitution guarantees Fundamental Rights?",
       "options": [
-        "Part III",
-        "Part IV",
-        "Part V",
-        "Part VI"
+        "Article 14",
+        "Articles 12-35",
+        "Article 21",
+        "Article 32"
       ],
       "correct": 1,
-      "explanation": "Directive Principles are included in Part IV of the Indian Constitution."
+      "explanation": "Articles 12 to 35 of the Indian Constitution specify the Fundamental Rights."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Who is the head of the Panchayati Raj system in India?",
+      "question": "Who is the current Speaker of the Lok Sabha?",
       "options": [
-        "Zila Parishad Chairperson",
-        "Gram Sabha",
-        "Block Development Officer",
-        "Chief Minister"
+        "Om Birla",
+        "M. Venkaiah Naidu",
+        "Smt. Sumitra Mahajan",
+        "K. R. Narayanan"
       ],
-      "correct": 1,
-      "explanation": "The Gram Sabha is the primary body of local self-governance in the Panchayati system."
+      "correct": 0,
+      "explanation": "Om Birla has been the Speaker of the Lok Sabha since 2019."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "What is the tenure of the Lok Sabha elected in India?",
+      "question": "The ‘Judicial Review’ in India is implied by which article of the Constitution?",
       "options": [
-        "5 years",
-        "6 years",
-        "4 years",
-        "3 years"
+        "Article 124",
+        "Article 131",
+        "Article 136",
+        "Article 13"
       ],
-      "correct": 0,
-      "explanation": "The Lok Sabha has a tenure of 5 years unless dissolved sooner."
+      "correct": 3,
+      "explanation": "Article 13 of the Indian Constitution implies the power of judicial review."
     },
     {
       "id": 14,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Fundamental Rights?",
+      "question": "The Panchayati Raj system is mentioned in which part of the Indian Constitution?",
       "options": [
-        "Article 14-32",
-        "Article 19-22",
-        "Article 21",
-        "Article 25"
+        "Part IX",
+        "Part V",
+        "Part XII",
+        "Part III"
       ],
       "correct": 0,
-      "explanation": "Articles 14 to 32 of the Indian Constitution deal with Fundamental Rights."
+      "explanation": "Part IX of the Indian Constitution deals with Panchayati Raj institutions."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "The 'Gross Domestic Product' (GDP) measures which of the following?",
+      "question": "India’s current GDP classification places it in the category of:",
       "options": [
-        "Total value of goods and services produced within a country",
-        "Total exports of a country",
-        "Total government expenditure",
-        "Total savings in the economy"
+        "Developed country",
+        "Emerging market economy",
+        "Least developed country",
+        "High-income country"
       ],
-      "correct": 0,
-      "explanation": "GDP measures the total value of goods and services produced within a country."
+      "correct": 1,
+      "explanation": "India is classified as an emerging market economy due to rapid growth and development."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which institution is responsible for banking regulation in India?",
+      "question": "The Union Budget of India is presented by the:",
       "options": [
-        "Reserve Bank of India",
-        "Ministry of Finance",
-        "Securities and Exchange Board of India",
-        "State Bank of India"
+        "President",
+        "Finance Minister",
+        "Prime Minister",
+        "Parliament"
       ],
-      "correct": 0,
-      "explanation": "The Reserve Bank of India (RBI) is the regulator of banking in India."
+      "correct": 1,
+      "explanation": "The Finance Minister of India presents the Union Budget in Parliament."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "The 'Five-Year Plans' in India were inspired by which economic model?",
+      "question": "Which sector contributes the highest share to India’s GDP?",
       "options": [
-        "Keynesian Economics",
-        "Marxism",
-        "Liberalization",
-        "Neoliberalism"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Manufacturing"
       ],
-      "correct": 0,
-      "explanation": "India's Five-Year Plans were based on Keynesian economics focusing on state-led development."
+      "correct": 2,
+      "explanation": "The services sector contributes the highest share to India's GDP."
     },
     {
       "id": 18,
       "category": "Indian Economy",
-      "question": "What does the 'Make in India' scheme primarily promote?",
+      "question": "Which initiative aims to promote digital payments and financial inclusion in India?",
       "options": [
-        "Manufacturing sector",
-        "Agriculture",
-        "IT services",
-        "Tourism"
+        "Make in India",
+        "Digital India",
+        "Start-up India",
+        "Skill India"
       ],
-      "correct": 0,
-      "explanation": "'Make in India' aims to promote manufacturing and attract investments in the sector."
+      "correct": 1,
+      "explanation": "Digital India initiative promotes digital payments and financial inclusion."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which planet is known as the 'Red Planet'?",
+      "question": "Which element has the highest melting point?",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Venus",
-        "Saturn"
+        "Tungsten",
+        "Iron",
+        "Gold",
+        "Copper"
       ],
       "correct": 0,
-      "explanation": "Mars is called the 'Red Planet' because of its reddish appearance due to iron oxide."
+      "explanation": "Tungsten has the highest melting point among metals, at about 3422°C."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "The chemical symbol 'Na' stands for which element?",
+      "question": "The process by which plants convert carbon dioxide into oxygen is called:",
       "options": [
-        "Sodium",
-        "Nitrogen",
-        "Nickel",
-        "Neon"
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
       ],
-      "correct": 0,
-      "explanation": "'Na' is the chemical symbol for Sodium."
+      "correct": 1,
+      "explanation": "Photosynthesis is the process by which plants convert CO2 into oxygen."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which part of the human body is primarily responsible for the production of insulin?",
+      "question": "Which scientist is credited with the discovery of the law of gravity?",
       "options": [
-        "Pancreas",
-        "Liver",
-        "Kidney",
-        "Heart"
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler"
       ],
-      "correct": 0,
-      "explanation": "The pancreas produces insulin, which regulates blood sugar levels."
+      "correct": 2,
+      "explanation": "Isaac Newton formulated the law of universal gravitation."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which technology is used in satellites to provide global positioning services?",
+      "question": "What is the primary function of the Human Respiratory System?",
       "options": [
-        "GPS",
-        "Wi-Fi",
-        "Bluetooth",
-        "Infrared"
+        "Transport of nutrients",
+        "Exchange of gases",
+        "Regulation of blood pressure",
+        "Nutrient absorption"
       ],
-      "correct": 0,
-      "explanation": "GPS (Global Positioning System) uses satellites for navigation and positioning."
+      "correct": 1,
+      "explanation": "The respiratory system facilitates gas exchange—oxygen in and CO2 out."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a UNESCO World Heritage Site in India?",
+      "question": "Which biodiversity hotspot is located entirely within India?",
       "options": [
-        "Kaziranga National Park",
-        "Sundarbans National Park",
-        "Taj Mahal",
-        "Gir National Park"
+        "Western Ghats",
+        "Himalayas",
+        "Sundaland",
+        "Indo-Burma"
       ],
-      "correct": 2,
-      "explanation": "The Taj Mahal is a UNESCO World Heritage Site in India."
+      "correct": 0,
+      "explanation": "Western Ghats is a biodiversity hotspot located entirely within India."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The Kyoto Protocol is associated with which global issue?",
+      "question": "Which international agreement aims to reduce global greenhouse gas emissions?",
       "options": [
-        "Climate Change",
-        "Biodiversity Loss",
-        "Ozone Depletion",
-        "Deforestation"
+        "Montreal Protocol",
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "Copenhagen Accord"
       ],
-      "correct": 0,
-      "explanation": "The Kyoto Protocol is an international treaty aimed at reducing greenhouse gas emissions and combating climate change."
+      "correct": 2,
+      "explanation": "The Paris Agreement aims to limit global temperature rise by reducing GHG emissions."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a primary cause of acid rain?",
+      "question": "Which protected area is India's first UNESCO Biosphere Reserve?",
       "options": [
-        "Sulfur Dioxide and Nitrogen Oxides",
-        "Carbon Monoxide",
-        "Ozone",
-        "Methane"
+        "Sundarbans",
+        "Nanda Devi",
+        "Great Himalayan National Park",
+        "Gir Forest"
       ],
-      "correct": 0,
-      "explanation": "Sulfur dioxide and nitrogen oxides released from industrial processes cause acid rain."
+      "correct": 2,
+      "explanation": "Great Himalayan National Park was designated as India’s first UNESCO Biosphere Reserve."
     },
     {
       "id": 26,
       "category": "Environment & Ecology",
-      "question": "The term ‘Biodiversity Hotspot’ was first used by which organization?",
+      "question": "Environmental laws in India are primarily governed by which Act?",
       "options": [
-        "WWF",
-        "ICUN",
-        "UNEP",
-        "FAO"
+        "Air Act 1981",
+        "Water Act 1974",
+        "Environment Protection Act 1986",
+        "Wildlife Protection Act 1972"
       ],
-      "correct": 1,
-      "explanation": "The term ‘Biodiversity Hotspot’ was introduced by Conservation International (ICUN) to identify regions with rich biodiversity under threat."
+      "correct": 2,
+      "explanation": "The Environment Protection Act 1986 provides the overarching legal framework for environmental protection."
     },
     {
       "id": 27,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current President of India as of July 2026?",
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "Shankar Dayal Sharma"
+        "A.P.J. Abdul Kalam"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+      "explanation": "Droupadi Murmu has been serving as President since July 25, 2022."
     },
     {
       "id": 28,
-      "category": "Current Affairs & GK",
+      "category": "Current Affairs & General Knowledge",
       "question": "Who is the current Prime Minister of India?",
       "options": [
         "Narendra Modi",
         "Manmohan Singh",
         "Amit Shah",
-        "Rahul Gandhi"
+        "Rajiv Gandhi"
       ],
       "correct": 0,
-      "explanation": "Narendra Modi has been serving as the Prime Minister since 26 May 2014."
+      "explanation": "Narendra Modi has been the Prime Minister since 2014."
     },
     {
       "id": 29,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current Chief Minister of Odisha as of June 2024?",
-      "options": [
-        "Mohan Charan Majhi",
-        "Naveen Patnaik",
-        "Naveen Patnaik",
-        "Raghubar Das"
-      ],
-      "correct": 0,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
-    },
-    {
-      "id": 30,
-      "category": "Current Affairs & GK",
-      "question": "Which country hosted the G20 Summit in 2023?",
+      "category": "Current Affairs & General Knowledge",
+      "question": "Which country hosted the 2023 G20 Summit?",
       "options": [
         "India",
-        "United States",
-        "Germany",
+        "Indonesia",
+        "China",
         "Japan"
       ],
       "correct": 0,
-      "explanation": "India hosted the G20 Summit in 2023, with the theme 'One Earth, One Family, One Future'."
+      "explanation": "India hosted the G20 Summit in 2023, marking a significant international event."
+    },
+    {
+      "id": 30,
+      "category": "Current Affairs & General Knowledge",
+      "question": "Who is the current External Affairs Minister of India?",
+      "options": [
+        "S. Jaishankar",
+        "S. Sitharaman",
+        "A. Shah",
+        "Nirmala Sitharaman"
+      ],
+      "correct": 0,
+      "explanation": "S. Jaishankar has been serving as the External Affairs Minister since 2019."
     }
   ]
 }
