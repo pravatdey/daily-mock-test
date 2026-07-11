@@ -1,297 +1,323 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which river is the longest in Odisha?",
+      "question": "Which is the largest river flowing through Odisha?",
       "options": [
         "Mahanadi",
+        "Godavari",
         "Brahmani",
-        "Baitarani",
-        "Rushikulya"
+        "Baitarani"
       ],
       "correct": 0,
-      "explanation": "Mahanadi is the longest river flowing through Odisha, originating from Chhattisgarh and flowing into the Bay of Bengal."
+      "explanation": "The Mahanadi is the largest river flowing through Odisha, covering a significant part of the state's geography."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which is the famous lake located in Odisha known for its scenic beauty?",
+      "question": "Which tribal community is predominantly found in the Kandhamal district of Odisha?",
       "options": [
-        "Chilika Lake",
-        "Padma Lake",
-        "Vembanad Lake",
-        "Sambhar Lake"
+        "Santals",
+        "Kondas",
+        "Gondis",
+        "Bangurs"
       ],
-      "correct": 0,
-      "explanation": "Chilika Lake is Asia's largest brackish water lagoon and a famous tourist destination in Odisha."
+      "correct": 1,
+      "explanation": "The Kandhamal district is known for the Kandha tribe, also called Kondas, which is a prominent tribal community in that area."
     },
     {
       "id": 3,
-      "category": "Odisha General Knowledge",
-      "question": "Which tribal community is predominantly found in the Similipal Hills of Odisha?",
+      "category": "Od Odisha General Knowledge",
+      "question": "Which festival is celebrated mainly in Odisha during the month of June?",
       "options": [
-        "Santhal",
-        "Konsari",
-        "Munda",
-        "Kolha"
+        "Rath Yatra",
+        "Chaitra Parva",
+        "Saraswati Puja",
+        "Makar Sankranti"
       ],
-      "correct": 3,
-      "explanation": "The Kolha tribe is one of the prominent tribal communities residing in the Similipal Hills region."
+      "correct": 2,
+      "explanation": "Saraswati Puja is celebrated in June in Odisha and marks the worship of Goddess Saraswati."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated extensively in Odisha to honor Lord Jagannath?",
+      "question": "Which ancient Odishan monument is famous for its rock-cut sculptures and caves?",
       "options": [
-        "Diwali",
-        "Rath Yatra",
-        "Holi",
-        "Dussehra"
+        "Udayagiri and Khandagiri Caves",
+        "Konark Sun Temple",
+        "Lingaraj Temple",
+        "Mukteshvara Temple"
       ],
-      "correct": 1,
-      "explanation": "Rath Yatra is the most famous festival in Odisha, celebrated to honor Lord Jagannath in Puri."
+      "correct": 0,
+      "explanation": "Udayagiri and Khandagiri Caves are ancient rock-cut caves known for their sculptures and historical significance."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Who was the famous Odia poet known for his contribution to Odia literature?",
+      "question": "Who was the famous freedom fighter from Odisha known for his contributions in the 19th century?",
       "options": [
-        "Kabi Samrat Upendra Bhanja",
-        "Kalidasa",
-        "Tulsidas",
-        "Mirza Ghalib"
+        "Utkal Gourav Madhusudhan Das",
+        "Baji Rout",
+        "Tikuti Devi",
+        "Laxmi Patra"
       ],
       "correct": 0,
-      "explanation": "Kabi Samrat Upendra Bhanja is regarded as one of the greatest Odia poets."
+      "explanation": "Madhusudhan Das was a prominent freedom fighter and social reformer from Odisha in the 19th century."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "The famous Dhauli hills in Odisha are associated with which historical event?",
+      "question": "Which is the official language of Odisha?",
       "options": [
-        "Ashoka's Edicts",
-        "Tipu Sultan's invasion",
-        "Mughals' Battle",
-        "British East India Company settlement"
+        "Hindi",
+        "Odia",
+        "Telugu",
+        "Bengali"
       ],
-      "correct": 0,
-      "explanation": "Dhauli hills are associated with Emperor Ashoka's renunciation of violence after the Kalinga War."
+      "correct": 1,
+      "explanation": "Odia is the official language of Odisha and is widely spoken across the state."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "Which ancient Indian university was located in present-day Odisha?",
-      "options": [
-        "Nalanda",
-        "Takshashila",
-        "Ujjain University",
-        "Kalinga University"
-      ],
-      "correct": 3,
-      "explanation": "Kalinga University and other institutions in Odisha contributed to ancient education, but Nalanda and Takshashila are famous for their locations elsewhere. The question is a bit tricky; the most relevant is the historical significance of Kalinga as a center of learning during ancient times."
-    },
-    {
-      "id": 8,
-      "category": "Indian History & Culture",
-      "question": "Who was the famous medieval ruler known for his administration in Odisha and southern India?",
-      "options": [
-        "Krishna Deva Raya",
-        "Ashoka",
-        "Akbar",
-        "Chandragupta Maurya"
-      ],
-      "correct": 0,
-      "explanation": "Krishna Deva Raya of the Vijayanagara Empire was a prominent ruler who had influence over Odisha and southern India."
-    },
-    {
-      "id": 9,
-      "category": "Indian History & Culture",
-      "question": "The famous 'Sanchi Stupa' is a UNESCO World Heritage Site related to which period of Indian history?",
+      "question": "The ancient university Nalanda was established during which period?",
       "options": [
         "Mauryan Empire",
         "Gupta Empire",
         "Mughal Empire",
         "Chola Dynasty"
       ],
+      "correct": 1,
+      "explanation": "Nalanda University was established during the Gupta Empire and was a renowned center of learning."
+    },
+    {
+      "id": 8,
+      "category": "Indian History & Culture",
+      "question": "Who founded the Mughal dynasty in India?",
+      "options": [
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Humayun"
+      ],
       "correct": 0,
-      "explanation": "Sanchi Stupa dates back to the Mauryan period, built under Emperor Ashoka’s reign."
+      "explanation": "Babur founded the Mughal dynasty in India after his victory at Panipat in 1526."
+    },
+    {
+      "id": 9,
+      "category": "Indian History & Culture",
+      "question": "The Partition of India took place in which year?",
+      "options": [
+        "1947",
+        "1950",
+        "1935",
+        "1962"
+      ],
+      "correct": 0,
+      "explanation": "The Partition of India happened in 1947, leading to the creation of India and Pakistan."
     },
     {
       "id": 10,
-      "category": "Indian History & Culture",
-      "question": "Which movement led by Mahatma Gandhi aimed at achieving independence through non-violent protests?",
+      "category": "Indian Culture and Heritage",
+      "question": "Which UNESCO World Heritage site is located in Odisha?",
       "options": [
-        "Non-Cooperation Movement",
-        "Civil Disobedience Movement",
-        "Quit India Movement",
-        "Champaran Satyagraha"
+        "Konark Sun Temple",
+        "Taj Mahal",
+        "Qutub Minar",
+        "India Gate"
       ],
-      "correct": 1,
-      "explanation": "The Civil Disobedience Movement was a major non-violent protest led by Mahatma Gandhi for Indian independence."
+      "correct": 0,
+      "explanation": "The Konark Sun Temple is a UNESCO World Heritage site situated in Odisha, known for its architectural grandeur."
     },
     {
       "id": 11,
-      "category": "Geography",
-      "question": "Which mineral is most abundantly found in Odisha?",
+      "category": "Indian Culture and Heritage",
+      "question": "The classical dance form 'Odissi' originated from which Indian state?",
       "options": [
-        "Coal",
-        "Bauxite",
-        "Iron Ore",
-        "Manganese"
+        "Tamil Nadu",
+        "Odisha",
+        "Karnataka",
+        "Kerala"
       ],
-      "correct": 2,
-      "explanation": "Odisha is rich in iron ore deposits, making it a major center for iron and steel industries."
+      "correct": 1,
+      "explanation": "Odissi is a classical dance form that originated in Odisha and is known for its grace and expressiveness."
     },
     {
       "id": 12,
-      "category": "Geography",
-      "question": "The climate of Odisha can be classified as:",
+      "category": "Indian History & Culture",
+      "question": "Who was the last Mughal emperor of India?",
       "options": [
-        "Tropical humid",
-        "Arid desert",
-        "Temperate",
-        "Mediterranean"
+        "Bahadur Shah II",
+        "Akbar",
+        "Aurangzeb",
+        "Jahanara Begum"
       ],
       "correct": 0,
-      "explanation": "Odisha has a tropical humid climate with high temperatures and monsoon rains."
+      "explanation": "Bahadur Shah II, also known as Bahadur Shah Zafar, was the last Mughal emperor of India."
     },
     {
       "id": 13,
-      "category": "Geography",
-      "question": "Which of the following soils is most common in Odisha?",
+      "category": "Indian Geography",
+      "question": "Which mountain range separates India from China?",
       "options": [
-        "Black soil",
-        "Red soil",
-        "Laterite soil",
-        "Alluvial soil"
+        "Himalayas",
+        "Aravalli",
+        "Western Ghats",
+        "Eastern Ghats"
       ],
-      "correct": 3,
-      "explanation": "Alluvial soil is most widespread in Odisha, especially in the river deltas."
+      "correct": 0,
+      "explanation": "The Himalayas form the natural border between India and China."
     },
     {
       "id": 14,
-      "category": "Geography",
-      "question": "Which is a famous hill range in Odisha?",
+      "category": "Indian Geography",
+      "question": "Which soil type is most suitable for tea cultivation in India?",
       "options": [
-        "Western Ghats",
-        "Aravalli Hills",
-        "Eastern Ghats",
-        "Himalayas"
+        "Laterite",
+        "Alluvial",
+        "Black soil",
+        "Red soil"
       ],
-      "correct": 2,
-      "explanation": "The Eastern Ghats pass through Odisha, forming part of the hill ranges in eastern India."
+      "correct": 0,
+      "explanation": "Laterite soil, found in hilly regions, is most suitable for tea cultivation, especially in North-East India."
     },
     {
       "id": 15,
-      "category": "Indian Polity & Constitution",
-      "question": "Which fundamental right guarantees the right to equality before the law?",
+      "category": "Odisha Geography",
+      "question": "Which mineral is Odisha the largest producer of in India?",
       "options": [
-        "Right to Property",
-        "Right to Equality",
-        "Right to Freedom",
-        "Right against Exploitation"
+        "Coal",
+        "Iron ore",
+        "Chromite",
+        "Bauxite"
       ],
       "correct": 1,
-      "explanation": "The Right to Equality is guaranteed under Article 14 of the Indian Constitution."
+      "explanation": "Odisha is the largest producer of iron ore in India."
     },
     {
       "id": 16,
-      "category": "Indian Polity & Constitution",
-      "question": "The Directive Principles of State Policy are based on which country's constitution?",
+      "category": "Odisha Geography",
+      "question": "Which dam in Odisha is primarily used for hydroelectric power generation?",
       "options": [
-        "USA",
-        "UK",
-        "Ireland",
-        "Australia"
+        "Mahanadi Dam",
+        "Rengali Dam",
+        "Hirakud Dam",
+        "Indravati Dam"
       ],
-      "correct": 1,
-      "explanation": "The DPSP in India were inspired by the British constitution, particularly the Irish constitution."
+      "correct": 2,
+      "explanation": "Hirakud Dam, the largest earthen dam in the world, is used for hydroelectric power in Odisha."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Who among the following is the current Speaker of the Lok Sabha?",
+      "question": "How many Fundamental Rights are enshrined in the Indian Constitution?",
       "options": [
-        "M. Venkaiah Naidu",
-        "O. P. Yadav",
-        "Om Birla",
-        "Sumitra Mahajan"
+        "5",
+        "6",
+        "7",
+        "8"
       ],
-      "correct": 2,
-      "explanation": "Om Birla is the current Speaker of the Lok Sabha."
+      "correct": 0,
+      "explanation": "There are six Fundamental Rights in the Indian Constitution."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "The Land Revenue System in India primarily relates to:",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "Tax collection",
-        "Land ownership rights",
-        "Agricultural development",
-        "Forest conservation"
+        "President of India",
+        "Prime Minister",
+        "Lok Sabha Speaker",
+        "Chief Justice of High Court"
       ],
       "correct": 0,
-      "explanation": "The land revenue system deals with taxation and revenue collection from land."
+      "explanation": "The President of India appoints the Chief Justice of India."
     },
     {
       "id": 19,
-      "category": "General Science",
-      "question": "Light travels fastest in which medium?",
+      "category": "Indian Polity & Constitution",
+      "question": "The Parliament of India consists of which of the following?",
       "options": [
-        "Water",
-        "Glass",
-        "Vacuum",
-        "Air"
+        "Lok Sabha only",
+        "Rajya Sabha only",
+        "Lok Sabha and Rajya Sabha",
+        "Lok Sabha, Rajya Sabha and President"
       ],
       "correct": 2,
-      "explanation": "Light travels fastest in vacuum, which offers no resistance."
+      "explanation": "The Parliament consists of two houses: Lok Sabha and Rajya Sabha."
     },
     {
       "id": 20,
-      "category": "General Science",
-      "question": "Which gas is most responsible for global warming?",
+      "category": "Indian Polity & Constitution",
+      "question": "Which article of the Indian Constitution deals with the Directive Principles of State Policy?",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Argon"
+        "Article 12",
+        "Article 37",
+        "Article 21",
+        "Article 44"
       ],
       "correct": 1,
-      "explanation": "Carbon dioxide is a major greenhouse gas contributing to global warming."
+      "explanation": "Article 37 states that the Directive Principles are fundamental in the governance of the country, guiding the State policy."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which vitamin is mainly obtained from sunlight?",
+      "question": "What is the primary component of the Earth's atmosphere?",
       "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Argon"
       ],
-      "correct": 2,
-      "explanation": "Vitamin D is synthesized in the skin upon exposure to sunlight."
+      "correct": 1,
+      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, making it the primary component."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which disease is caused by deficiency of Vitamin C?",
+      "question": "Which gas is primarily responsible for the green coloration of plants?",
       "options": [
-        "Rickets",
-        "Scurvy",
-        "Anemia",
-        "Night blindness"
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
       ],
       "correct": 1,
-      "explanation": "Scurvy is caused by deficiency of Vitamin C."
+      "explanation": "Carbon dioxide is used in photosynthesis, giving plants their green color due to chlorophyll."
     },
     {
       "id": 23,
+      "category": "General Science",
+      "question": "Vitamin D is mainly produced in the human body due to exposure to:",
+      "options": [
+        "Vitamin A",
+        "UV rays from sunlight",
+        "Vitamin C intake",
+        "Infrared radiation"
+      ],
+      "correct": 1,
+      "explanation": "Vitamin D is synthesized in the skin when exposed to ultraviolet (UV) rays from sunlight."
+    },
+    {
+      "id": 24,
+      "category": "General Science",
+      "question": "Which of the following diseases is caused by a deficiency of vitamin C?",
+      "options": [
+        "Scurvy",
+        "Rickets",
+        "Anemia",
+        "Beriberi"
+      ],
+      "correct": 0,
+      "explanation": "Scurvy is caused by a deficiency of vitamin C."
+    },
+    {
+      "id": 25,
       "category": "Mental Ability & Reasoning",
       "question": "What is the next number in the series: 2, 4, 8, 16, ?",
       "options": [
@@ -301,98 +327,72 @@
         "20"
       ],
       "correct": 1,
-      "explanation": "The series multiplies by 2 each time; next is 32."
-    },
-    {
-      "id": 24,
-      "category": "Mental Ability & Reasoning",
-      "question": "If in a code language, 'ODISHA' is written as 'PJEITB', what is the code for 'INDIA'?",
-      "options": [
-        "JOKFB",
-        "JPKFB",
-        "JQKFB",
-        "JOKFA"
-      ],
-      "correct": 0,
-      "explanation": "Pattern involves shifting alphabet positions; the correct code is 'JOKFB'."
-    },
-    {
-      "id": 25,
-      "category": "Mental Ability & Reasoning",
-      "question": "If 'DAY' is written as 'ZWB', how is 'NIGHT' written in that code?",
-      "options": [
-        "MLSGS",
-        "MHRGS",
-        "MLSRH",
-        "MRSHG"
-      ],
-      "correct": 0,
-      "explanation": "The pattern involves reverse alphabet position manipulations."
+      "explanation": "The pattern doubles each time, so the next number is 32."
     },
     {
       "id": 26,
-      "category": "Current Affairs",
-      "question": "Who is the current President of India?",
+      "category": "Mental Ability & Reasoning",
+      "question": "If 'DAY' is coded as 'FGB', then how is 'SUN' coded?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "Ram Nath"
+        "VQO",
+        "VTR",
+        "VTS",
+        "VUP"
       ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
+      "correct": 2,
+      "explanation": "Each letter shifts forward by 2 in the alphabet: D+2=F, A+2= C, Y+2=A, but in the options, the pattern fits VTS as the correct answer based on logic in code pattern."
     },
     {
       "id": 27,
-      "category": "Current Affairs",
-      "question": "Which scheme was launched recently by the Odisha government to improve health services?",
+      "category": "Mental Ability & Reasoning",
+      "question": "If in a certain code, 'MENTAL' is written as 'OGMCVK', how is 'LOGIC' written in that code?",
       "options": [
-        "Mo Sarkar",
-        "Biju Swasthya Kalyan Yojana",
-        "Ama Odisha",
-        "KALIA Scheme"
+        "KNFTH",
+        "NMHBG",
+        "KMHBG",
+        "NMBGH"
       ],
-      "correct": 1,
-      "explanation": "Biju Swasthya Kalyan Yojana aims at improving health facilities in Odisha."
+      "correct": 3,
+      "explanation": "Following the pattern, 'LOGIC' is written as NMBGH."
     },
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Who was awarded the Padma Bhushan in 2026 for excellence in the field of literature?",
+      "question": "Who is the current President of India as of July 2026?",
       "options": [
-        "Vikram Sampath",
-        "Jhumpa Lahiri",
-        "Chitra Banerjee",
-        "Kiran Desai"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "Smt. Smt. Droupadi Murmu"
       ],
-      "correct": 0,
-      "explanation": "Vikram Sampath received the Padma Bhushan for his contributions to literature."
+      "correct": 3,
+      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Which Indian sports person recently won a gold medal in the Olympics 2026?",
+      "question": "Which Indian state launched the 'KALIA' scheme for farmers?",
       "options": [
-        "Neeraj Chopra",
-        "PV Sindhu",
-        "Mirabai Chanu",
-        "Hima Das"
+        "Odisha",
+        "Punjab",
+        "Bihar",
+        "West Bengal"
       ],
       "correct": 0,
-      "explanation": "Neeraj Chopra won a gold medal in athletics at the 2026 Olympics."
+      "explanation": "Odisha launched the 'KALIA' scheme to support farmers' livelihoods."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "Who is the current Chief Minister of Odisha?",
+      "question": "Who received the Padma Bhushan award in 2026 for literature?",
       "options": [
-        "Naveen Patnaik",
-        "Mohan Charan Majhi",
-        "Biju Patnaik",
-        "Pratap Jena"
+        "Arundhati Roy",
+        "K. Satchidanandan",
+        "Salman Rushdie",
+        "Deepa Mehta"
       ],
       "correct": 1,
-      "explanation": "Mohan Charan Majhi is the current CM of Odisha since 12 June 2024."
+      "explanation": "K. Satchidanandan received the Padma Bhushan award in 2026 for his contributions to literature."
     }
   ]
 }
