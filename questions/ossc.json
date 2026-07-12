@@ -1,312 +1,286 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which is the largest river flowing through Odisha?",
+      "question": "Which is the largest district in Odisha by area?",
       "options": [
-        "Mahanadi",
-        "Godavari",
-        "Brahmani",
-        "Baitarani"
+        "Kalahandi",
+        "Koraput",
+        "Mayurbhanj",
+        "Nayagarh"
       ],
-      "correct": 0,
-      "explanation": "The Mahanadi is the largest river flowing through Odisha, covering a significant part of the state's geography."
+      "correct": 2,
+      "explanation": "Mayurbhanj is the largest district in Odisha by area."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is predominantly found in the Kandhamal district of Odisha?",
+      "question": "Which river is the longest in Odisha?",
       "options": [
-        "Santals",
-        "Kondas",
-        "Gondis",
-        "Bangurs"
+        "Mahanadi",
+        "Brahmani",
+        "Baitarani",
+        "Subarnarekha"
       ],
-      "correct": 1,
-      "explanation": "The Kandhamal district is known for the Kandha tribe, also called Kondas, which is a prominent tribal community in that area."
+      "correct": 0,
+      "explanation": "Mahanadi is the longest river flowing through Odisha."
     },
     {
       "id": 3,
-      "category": "Od Odisha General Knowledge",
-      "question": "Which festival is celebrated mainly in Odisha during the month of June?",
+      "category": "Odisha General Knowledge",
+      "question": "Which festival is famous for the Rath Yatra in Odisha?",
       "options": [
+        "Diwali",
+        "Durga Puja",
         "Rath Yatra",
-        "Chaitra Parva",
-        "Saraswati Puja",
-        "Makar Sankranti"
+        "Holi"
       ],
       "correct": 2,
-      "explanation": "Saraswati Puja is celebrated in June in Odisha and marks the worship of Goddess Saraswati."
+      "explanation": "The Rath Yatra festival in Puri is famous worldwide and is a major festival in Odisha."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which ancient Odishan monument is famous for its rock-cut sculptures and caves?",
+      "question": "Which tribal community is predominantly found in the Mayurbhanj district?",
       "options": [
-        "Udayagiri and Khandagiri Caves",
-        "Konark Sun Temple",
-        "Lingaraj Temple",
-        "Mukteshvara Temple"
+        "Santhal",
+        "Bhue",
+        "Santal",
+        "Ho"
       ],
-      "correct": 0,
-      "explanation": "Udayagiri and Khandagiri Caves are ancient rock-cut caves known for their sculptures and historical significance."
+      "correct": 2,
+      "explanation": "The Santal tribe is predominantly found in Mayurbhanj district."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Who was the famous freedom fighter from Odisha known for his contributions in the 19th century?",
+      "question": "Who was the famous Odia poet known for the 'Geohera Pora'?",
       "options": [
-        "Utkal Gourav Madhusudhan Das",
-        "Baji Rout",
-        "Tikuti Devi",
-        "Laxmi Patra"
+        "Madhusudan Das",
+        "Kabisurya Baladeba Rath",
+        "Gopabandhu Das",
+        "Utkal Gourav Madhusudan Das"
       ],
-      "correct": 0,
-      "explanation": "Madhusudhan Das was a prominent freedom fighter and social reformer from Odisha in the 19th century."
+      "correct": 1,
+      "explanation": "'Kabisurya Baladeba Rath' was renowned for his poetry including 'Geohera Pora'."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which is the official language of Odisha?",
+      "question": "Which is the ancient capital of Odisha during the Kalinga period?",
       "options": [
-        "Hindi",
-        "Odia",
-        "Telugu",
-        "Bengali"
+        "Puri",
+        "Kalinganagara",
+        "Konark",
+        "Cuttack"
       ],
       "correct": 1,
-      "explanation": "Odia is the official language of Odisha and is widely spoken across the state."
+      "explanation": "Kalinganagara was an important historical city of ancient Odisha during the Kalinga period."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "The ancient university Nalanda was established during which period?",
+      "question": "Who was the founder of the Maurya Empire in India?",
       "options": [
-        "Mauryan Empire",
-        "Gupta Empire",
-        "Mughal Empire",
-        "Chola Dynasty"
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Bindusara",
+        "Harshavardhana"
       ],
-      "correct": 1,
-      "explanation": "Nalanda University was established during the Gupta Empire and was a renowned center of learning."
+      "correct": 0,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire around 321 BCE."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Who founded the Mughal dynasty in India?",
+      "question": "Which ancient university was situated in Takshashila?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Shah Jahan",
-        "Humayun"
+        "Nalanda",
+        "Taxila",
+        "Vikramashila",
+        "Kanchipuram"
       ],
-      "correct": 0,
-      "explanation": "Babur founded the Mughal dynasty in India after his victory at Panipat in 1526."
+      "correct": 1,
+      "explanation": "Takshashila (Taxila) was an eminent ancient university famous for higher learning."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "The Partition of India took place in which year?",
+      "question": "Which Mughal emperor built the Taj Mahal?",
       "options": [
-        "1947",
-        "1950",
-        "1935",
-        "1962"
+        "Humayun",
+        "Babur",
+        "Akbar",
+        "Shah Jahan"
       ],
-      "correct": 0,
-      "explanation": "The Partition of India happened in 1947, leading to the creation of India and Pakistan."
+      "correct": 3,
+      "explanation": "Shah Jahan commissioned the construction of the Taj Mahal."
     },
     {
       "id": 10,
-      "category": "Indian Culture and Heritage",
-      "question": "Which UNESCO World Heritage site is located in Odisha?",
+      "category": "Indian History & Culture",
+      "question": "Which Indian cultural festival is celebrated to mark the harvest season in Punjab?",
       "options": [
-        "Konark Sun Temple",
-        "Taj Mahal",
-        "Qutub Minar",
-        "India Gate"
+        "Diwali",
+        "Baisakhi",
+        "Holi",
+        "Raksha Bandhan"
       ],
-      "correct": 0,
-      "explanation": "The Konark Sun Temple is a UNESCO World Heritage site situated in Odisha, known for its architectural grandeur."
+      "correct": 1,
+      "explanation": "Baisakhi is a harvest festival celebrated mainly in Punjab."
     },
     {
       "id": 11,
-      "category": "Indian Culture and Heritage",
-      "question": "The classical dance form 'Odissi' originated from which Indian state?",
+      "category": "Geography",
+      "question": "Which mountain range forms the northern boundary of India?",
       "options": [
-        "Tamil Nadu",
-        "Odisha",
-        "Karnataka",
-        "Kerala"
+        "Western Ghats",
+        "Himalayas",
+        "Aravalli",
+        "Eastern Ghats"
       ],
       "correct": 1,
-      "explanation": "Odissi is a classical dance form that originated in Odisha and is known for its grace and expressiveness."
+      "explanation": "The Himalayas form the northern boundary of India."
     },
     {
       "id": 12,
-      "category": "Indian History & Culture",
-      "question": "Who was the last Mughal emperor of India?",
+      "category": "Geography",
+      "question": "Which soil type is predominantly found in Odisha?",
       "options": [
-        "Bahadur Shah II",
-        "Akbar",
-        "Aurangzeb",
-        "Jahanara Begum"
+        "Alluvial soil",
+        "Laterite soil",
+        "Black soil",
+        "Alkaline soil"
       ],
-      "correct": 0,
-      "explanation": "Bahadur Shah II, also known as Bahadur Shah Zafar, was the last Mughal emperor of India."
+      "correct": 1,
+      "explanation": "Odisha mainly has laterite soil in many parts."
     },
     {
       "id": 13,
-      "category": "Indian Geography",
-      "question": "Which mountain range separates India from China?",
+      "category": "Geography",
+      "question": "Which mineral is most abundantly found in the Bondi basin of Odisha?",
       "options": [
-        "Himalayas",
-        "Aravalli",
-        "Western Ghats",
-        "Eastern Ghats"
+        "Coal",
+        "Bauxite",
+        "Iron ore",
+        "Chromite"
       ],
       "correct": 0,
-      "explanation": "The Himalayas form the natural border between India and China."
+      "explanation": "Odisha is rich in coal deposits, especially in the Bondi basin."
     },
     {
       "id": 14,
-      "category": "Indian Geography",
-      "question": "Which soil type is most suitable for tea cultivation in India?",
+      "category": "Geography",
+      "question": "Which dam in Odisha is built across the Mahanadi river?",
       "options": [
-        "Laterite",
-        "Alluvial",
-        "Black soil",
-        "Red soil"
+        "Indira Sagar",
+        "Kolab Dam",
+        "Mahanadi Barrage",
+        " Hirakud Dam"
       ],
-      "correct": 0,
-      "explanation": "Laterite soil, found in hilly regions, is most suitable for tea cultivation, especially in North-East India."
+      "correct": 3,
+      "explanation": "Hirakud Dam is constructed across the Mahanadi river."
     },
     {
       "id": 15,
-      "category": "Odisha Geography",
-      "question": "Which mineral is Odisha the largest producer of in India?",
+      "category": "Indian Polity & Constitution",
+      "question": "Which of the following is a Fundamental Right in India?",
       "options": [
-        "Coal",
-        "Iron ore",
-        "Chromite",
-        "Bauxite"
+        "Right to Education",
+        "Right to Vote",
+        "Right to Work",
+        "Right to Property"
       ],
-      "correct": 1,
-      "explanation": "Odisha is the largest producer of iron ore in India."
+      "correct": 0,
+      "explanation": "Right to Education is a Fundamental Right under the Indian Constitution."
     },
     {
       "id": 16,
-      "category": "Odisha Geography",
-      "question": "Which dam in Odisha is primarily used for hydroelectric power generation?",
+      "category": "Indian Polity & Constitution",
+      "question": "How many members are there in the Rajya Sabha?",
       "options": [
-        "Mahanadi Dam",
-        "Rengali Dam",
-        "Hirakud Dam",
-        "Indravati Dam"
+        "245",
+        "250",
+        "245 or as per the quota",
+        "245+"
       ],
-      "correct": 2,
-      "explanation": "Hirakud Dam, the largest earthen dam in the world, is used for hydroelectric power in Odisha."
+      "correct": 0,
+      "explanation": "The Rajya Sabha has a maximum of 245 members as per the Constitution."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "How many Fundamental Rights are enshrined in the Indian Constitution?",
+      "question": "Who is the current Speaker of the Lok Sabha?",
       "options": [
-        "5",
-        "6",
-        "7",
-        "8"
+        "M. Venkaiah Naidu",
+        "Om Birla",
+        "Sonia Gandhi",
+        "Pranab Mukherjee"
       ],
-      "correct": 0,
-      "explanation": "There are six Fundamental Rights in the Indian Constitution."
+      "correct": 1,
+      "explanation": "Om Birla has been serving as the Speaker of the Lok Sabha since 2019."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "Who appoints the Chief Justice of India?",
-      "options": [
-        "President of India",
-        "Prime Minister",
-        "Lok Sabha Speaker",
-        "Chief Justice of High Court"
-      ],
-      "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India."
-    },
-    {
-      "id": 19,
-      "category": "Indian Polity & Constitution",
-      "question": "The Parliament of India consists of which of the following?",
-      "options": [
-        "Lok Sabha only",
-        "Rajya Sabha only",
-        "Lok Sabha and Rajya Sabha",
-        "Lok Sabha, Rajya Sabha and President"
-      ],
-      "correct": 2,
-      "explanation": "The Parliament consists of two houses: Lok Sabha and Rajya Sabha."
-    },
-    {
-      "id": 20,
-      "category": "Indian Polity & Constitution",
       "question": "Which article of the Indian Constitution deals with the Directive Principles of State Policy?",
       "options": [
         "Article 12",
-        "Article 37",
-        "Article 21",
-        "Article 44"
+        "Article 14",
+        "Article 36",
+        "Article 37"
+      ],
+      "correct": 3,
+      "explanation": "Article 37 of the Indian Constitution deals with Directive Principles."
+    },
+    {
+      "id": 19,
+      "category": "General Science",
+      "question": "Which gas is most responsible for the greenhouse effect?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Helium"
       ],
       "correct": 1,
-      "explanation": "Article 37 states that the Directive Principles are fundamental in the governance of the country, guiding the State policy."
+      "explanation": "Carbon dioxide traps heat in the atmosphere, leading to the greenhouse effect."
+    },
+    {
+      "id": 20,
+      "category": "General Science",
+      "question": "What is the pH range of an acid?",
+      "options": [
+        "0-7",
+        "7-14",
+        "7-8",
+        "0-14"
+      ],
+      "correct": 0,
+      "explanation": "An acid has a pH less than 7."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "What is the primary component of the Earth's atmosphere?",
+      "question": "Which vitamin is primarily obtained from sunlight?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Argon"
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
       ],
-      "correct": 1,
-      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, making it the primary component."
+      "correct": 3,
+      "explanation": "Vitamin D is synthesized when skin is exposed to sunlight."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which gas is primarily responsible for the green coloration of plants?",
-      "options": [
-        "Oxygen",
-        "Carbon dioxide",
-        "Nitrogen",
-        "Hydrogen"
-      ],
-      "correct": 1,
-      "explanation": "Carbon dioxide is used in photosynthesis, giving plants their green color due to chlorophyll."
-    },
-    {
-      "id": 23,
-      "category": "General Science",
-      "question": "Vitamin D is mainly produced in the human body due to exposure to:",
-      "options": [
-        "Vitamin A",
-        "UV rays from sunlight",
-        "Vitamin C intake",
-        "Infrared radiation"
-      ],
-      "correct": 1,
-      "explanation": "Vitamin D is synthesized in the skin when exposed to ultraviolet (UV) rays from sunlight."
-    },
-    {
-      "id": 24,
-      "category": "General Science",
-      "question": "Which of the following diseases is caused by a deficiency of vitamin C?",
+      "question": "Which disease is caused by a deficiency of Vitamin C?",
       "options": [
         "Scurvy",
         "Rickets",
@@ -314,85 +288,111 @@
         "Beriberi"
       ],
       "correct": 0,
-      "explanation": "Scurvy is caused by a deficiency of vitamin C."
+      "explanation": "Deficiency of Vitamin C causes Scurvy."
+    },
+    {
+      "id": 23,
+      "category": "Mental Ability & Reasoning",
+      "question": "What comes next in the series: 2, 4, 8, 16, ?",
+      "options": [
+        "18",
+        "20",
+        "32",
+        "24"
+      ],
+      "correct": 2,
+      "explanation": "The series doubles each time; next is 32."
+    },
+    {
+      "id": 24,
+      "category": "Mental Ability & Reasoning",
+      "question": "If in a certain code, 'ODISHA' is written as 'PEJTIP', what is the code for 'REPUBLIC'?",
+      "options": [
+        "SFTQCKJ",
+        "SFTPCKJ",
+        "SFTQCKI",
+        "SFUQCKJ"
+      ],
+      "correct": 0,
+      "explanation": "The pattern involves shifting each letter by a certain number; based on the code, 'REPUBLIC' follows the same pattern as 'ODISHA'."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
+      "question": "If 'MANGO' is written as 'NBOHP', how is 'APPLE' written?",
       "options": [
-        "24",
-        "32",
-        "18",
-        "20"
+        "BQKMF",
+        "BQNLF",
+        "BQLMF",
+        "BQOJF"
       ],
-      "correct": 1,
-      "explanation": "The pattern doubles each time, so the next number is 32."
+      "correct": 0,
+      "explanation": "Each letter shifts forward by one in the alphabet with an alternating pattern."
     },
     {
       "id": 26,
       "category": "Mental Ability & Reasoning",
-      "question": "If 'DAY' is coded as 'FGB', then how is 'SUN' coded?",
+      "question": "A person facing north walks 10 meters, turns right, walks 5 meters, then turns left and walks 5 meters. Which direction is he facing now?",
       "options": [
-        "VQO",
-        "VTR",
-        "VTS",
-        "VUP"
+        "North",
+        "East",
+        "South",
+        "West"
       ],
-      "correct": 2,
-      "explanation": "Each letter shifts forward by 2 in the alphabet: D+2=F, A+2= C, Y+2=A, but in the options, the pattern fits VTS as the correct answer based on logic in code pattern."
+      "correct": 1,
+      "explanation": "He ends up facing East after the movements described."
     },
     {
       "id": 27,
-      "category": "Mental Ability & Reasoning",
-      "question": "If in a certain code, 'MENTAL' is written as 'OGMCVK', how is 'LOGIC' written in that code?",
-      "options": [
-        "KNFTH",
-        "NMHBG",
-        "KMHBG",
-        "NMBGH"
-      ],
-      "correct": 3,
-      "explanation": "Following the pattern, 'LOGIC' is written as NMBGH."
-    },
-    {
-      "id": 28,
       "category": "Current Affairs",
-      "question": "Who is the current President of India as of July 2026?",
+      "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "Smt. Smt. Droupadi Murmu"
+        "Shankar Dayal Sharma"
       ],
-      "correct": 3,
-      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+      "correct": 0,
+      "explanation": "Droupadi Murmu has been the President since 25 July 2022."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs",
+      "question": "Which scheme was launched by the Government of India to promote digital payments?",
+      "options": [
+        "Digital India",
+        "Cashless India",
+        "Startup India",
+        "Make in India"
+      ],
+      "correct": 1,
+      "explanation": "'Cashless India' aims to promote digital payments across the country."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Which Indian state launched the 'KALIA' scheme for farmers?",
+      "question": "Which athlete won the gold medal in the Tokyo 2020 Olympics for India in badminton?",
       "options": [
-        "Odisha",
-        "Punjab",
-        "Bihar",
-        "West Bengal"
+        "P.V. Sindhu",
+        "Sania Mirza",
+        "Mary Kom",
+        "Dipa Karmakar"
       ],
       "correct": 0,
-      "explanation": "Odisha launched the 'KALIA' scheme to support farmers' livelihoods."
+      "explanation": "P.V. Sindhu won the silver medal, but India’s first gold in badminton was by P.V. Sindhu in Tokyo 2020."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "Who received the Padma Bhushan award in 2026 for literature?",
+      "question": "Who was awarded the Padma Vibhushan in 2023 for contributions in science?",
       "options": [
-        "Arundhati Roy",
-        "K. Satchidanandan",
-        "Salman Rushdie",
-        "Deepa Mehta"
+        "Dr. Raghunath Anant Mashelkar",
+        "Dr. A.P.J. Abdul Kalam",
+        "Dr. C.N.R. Rao",
+        "Dr. Vikram Sarabhai"
       ],
-      "correct": 1,
-      "explanation": "K. Satchidanandan received the Padma Bhushan award in 2026 for his contributions to literature."
+      "correct": 2,
+      "explanation": "Dr. C.N.R. Rao was awarded the Padma Vibhushan in 2023 for his contributions to science."
     }
   ]
 }

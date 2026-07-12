@@ -1,398 +1,398 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Indian History (Ancient)",
-      "question": "The Indus Valley Civilization is primarily characterized by which of the following features?",
+      "category": "Indian History",
+      "question": "Which ancient Indian text is primarily concerned with statecraft and political science?",
       "options": [
-        "Use of iron tools",
-        "Urban planning and drainage systems",
-        "Vedic Sanskrit inscriptions",
-        "Stone fortifications"
+        "Arthashastra",
+        "Manusmriti",
+        "Vedas",
+        "Puranas"
       ],
-      "correct": 1,
-      "explanation": "The Indus Valley Civilization is renowned for its advanced urban planning, including grid roads and drainage systems, unlike other ancient Indian cultures."
+      "correct": 0,
+      "explanation": "The Arthashastra, attributed to Chanakya (Kautilya), is an ancient Indian treatise on statecraft, economic policy, and military strategy."
     },
     {
       "id": 2,
-      "category": "Indian History (Medieval)",
-      "question": "Who was the founder of the Mughal Empire in India?",
+      "category": "Indian History",
+      "question": "Who was the leader of the Bardoli Satyagraha in 1928?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Shah Jahan",
-        "Humayun"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Subhas Chandra Bose"
       ],
-      "correct": 0,
-      "explanation": "Babur, a descendant of Timur and Genghis Khan, founded the Mughal Empire in India in 1526 after victory at Panipat."
+      "correct": 2,
+      "explanation": "Sardar Vallabhbhai Patel led the Bardoli Satyagraha, a significant resistance movement against increased land revenue taxes."
     },
     {
       "id": 3,
-      "category": "Indian History (Modern)",
-      "question": "The partition of Bengal in 1905 was initially aimed at:",
+      "category": "Indian History",
+      "question": "Which event marked the end of the First War of Indian Independence in 1857?",
       "options": [
-        "Creating a separate Muslim province",
-        "Administrative convenience",
-        "Separating the eastern and western parts of Bengal",
-        "Reducing the power of the Brahmo Samaj"
+        "Annexation of Awadh",
+        "Battle of Plassey",
+        "Indian Rebellion of 1857",
+        "Partition of Bengal"
       ],
       "correct": 2,
-      "explanation": "The partition aimed to divide Bengal into Hindu-majority West Bengal and Muslim-majority East Bengal, which was later reversed due to protests."
+      "explanation": "The Indian Rebellion of 1857, also called the First War of Independence, marked a major uprising against British rule, ending with British reassertion of control."
     },
     {
       "id": 4,
-      "category": "Indian History (Freedom Struggle)",
-      "question": "Which movement marked the beginning of the non-cooperation movement in India?",
+      "category": "Indian History",
+      "question": "Who was the first President of the Indian National Congress?",
       "options": [
-        "Jallianwala Bagh massacre",
-        "Partition of Bengal",
-        "Vadroha Satyagraha",
-        "Khilafat Movement"
+        "Womesh Chunder Bonnerjee",
+        "Dadabhai Naoroji",
+        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi"
       ],
       "correct": 0,
-      "explanation": "The Jallianwala Bagh massacre in 1919 had a profound impact, encouraging mass protests and the launch of the non-cooperation movement."
+      "explanation": "Womesh Chunder Bonnerjee was the first President of the Indian National Congress in 1885."
     },
     {
       "id": 5,
-      "category": "Indian Geography (Physical)",
-      "question": "Which river is the longest in India?",
+      "category": "Indian History",
+      "question": "Which act established the separate electorate for Sikhs, Muslims, and other communities in 1909?",
       "options": [
-        "Ganges",
-        "Godavari",
-        "Yamuna",
-        "Brahmaputra"
+        "Morley-Minto Reforms",
+        "Government of India Act 1919",
+        "Indian Councils Act 1892",
+        "Indian Independence Act 1947"
       ],
-      "correct": 1,
-      "explanation": "The Godavari River is the longest river in India, flowing approximately 1,465 km across central India."
+      "correct": 0,
+      "explanation": "The Morley-Minto Reforms introduced separate electorates for different communities, including Sikhs and Muslims."
     },
     {
       "id": 6,
-      "category": "Indian Geography (Economic Resources)",
-      "question": "India is the leading producer of which mineral?",
+      "category": "Indian Geography",
+      "question": "Which river is the longest in India?",
       "options": [
-        "Iron ore",
-        "Mica",
-        "Bauxite",
-        "Coal"
+        "Ganges",
+        "Indus",
+        "Brahmaputra",
+        "Godavari"
       ],
       "correct": 1,
-      "explanation": "India is the world's largest producer of mica, which is used in electrical and electronic industries."
+      "explanation": "The Indus River is the longest river flowing through India, Pakistan, and China, with a length of about 3,180 km."
     },
     {
       "id": 7,
-      "category": "Indian Geography (Climate & Rivers)",
-      "question": "The monsoon season in India is primarily caused by:",
+      "category": "Indian Geography",
+      "question": "The Thar Desert is primarily located in which Indian state?",
       "options": [
-        "Western disturbances",
-        "Southwest monsoon winds",
-        "North-East monsoon winds",
-        "Jet streams"
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "correct": 1,
-      "explanation": "The Southwest monsoon winds from the Indian Ocean bring heavy rainfall to India during the monsoon season."
+      "correct": 0,
+      "explanation": "The Thar Desert, also known as the Great Indian Desert, is mainly located in Rajasthan."
     },
     {
       "id": 8,
-      "category": "Indian Geography (Resources)",
-      "question": "Which of the following are primarily found in the Thar Desert?",
+      "category": "Indian Geography",
+      "question": "Which of the following is a non-renewable resource?",
       "options": [
-        "Petroleum reserves",
-        "Bauxite deposits",
-        "Limestone quarries",
-        "Thermal energy sources"
+        "Wind energy",
+        "Coal",
+        "Solar energy",
+        "Biomass"
       ],
-      "correct": 2,
-      "explanation": "The Thar Desert has extensive limestone deposits, along with some sandstone and gypsum resources."
+      "correct": 1,
+      "explanation": "Coal is a non-renewable resource as it takes millions of years to form and cannot be replenished quickly."
     },
     {
       "id": 9,
-      "category": "Indian Polity & Governance (Constitution & Parliament)",
-      "question": "Who among the following is the current Speaker of the Lok Sabha?",
+      "category": "Indian Geography",
+      "question": "The climate of the Western Himalayas is predominantly:",
       "options": [
-        "Om Birla",
-        "M. Venkaiyah Naidu",
-        "Surya Kant",
-        "Nirmala Sitharaman"
+        "Tropical monsoon",
+        "Alpine",
+        "Arid",
+        "Temperate"
       ],
-      "correct": 0,
-      "explanation": "Om Birla has been serving as the Speaker of Lok Sabha since 2019."
+      "correct": 1,
+      "explanation": "The Western Himalayas have an alpine climate characterized by cold temperatures and snowfall."
     },
     {
       "id": 10,
-      "category": "Indian Polity & Governance (Fundamental Rights)",
-      "question": "Which Fundamental Right guarantees the right to equality before the law?",
+      "category": "Indian Polity & Governance",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "Right to Freedom",
-        "Right to Equality",
-        "Right against Exploitation",
-        "Right to Constitutional Remedies"
+        "President of India",
+        "Prime Minister",
+        "Lok Sabha Speaker",
+        "Supreme Court Collegium"
       ],
-      "correct": 1,
-      "explanation": "The Right to Equality under Article 14 guarantees equality before the law and equal protection of laws."
+      "correct": 0,
+      "explanation": "The President of India appoints the Chief Justice of India under constitutional provisions."
     },
     {
       "id": 11,
-      "category": "Indian Polity & Governance (Constitution & Judiciary)",
-      "question": "The Supreme Court of India was established in which year?",
+      "category": "Indian Polity & Governance",
+      "question": "Which part of the Indian Constitution deals with Fundamental Rights?",
       "options": [
-        "1947",
-        "1950",
-        "1952",
-        "1960"
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part VI"
       ],
-      "correct": 1,
-      "explanation": "The Supreme Court of India was established on January 26, 1950, with the commencement of the Constitution."
+      "correct": 0,
+      "explanation": "Part III of the Constitution guarantees Fundamental Rights to all citizens."
     },
     {
       "id": 12,
-      "category": "Indian Polity & Governance (Panchayati Raj)",
-      "question": "The 73rd Constitutional Amendment Act pertains to:",
+      "category": "Indian Polity & Governance",
+      "question": "The Lok Sabha can be dissolved by:",
       "options": [
-        "Urban Local Bodies",
-        "Rural Panchayats",
-        "Municipalities",
-        "Autonomous Councils"
+        "President of India",
+        "Prime Minister",
+        "Chief Justice of India",
+        "Vice President"
       ],
-      "correct": 1,
-      "explanation": "The 73rd Amendment Act (1992) provides constitutional recognition to Panchayats in rural areas."
+      "correct": 0,
+      "explanation": "The President of India has the power to dissolve the Lok Sabha."
     },
     {
       "id": 13,
-      "category": "Indian Economy (Budget & Fiscal Policy)",
-      "question": "The Union Budget of India is presented by the:",
+      "category": "Indian Polity & Governance",
+      "question": "Which article of the Indian Constitution provides the power of Judicial Review?",
       "options": [
-        "President of India",
-        "Finance Minister",
-        "Prime Minister",
-        "Governor of Reserve Bank of India"
+        "Article 32",
+        "Article 226",
+        "Article 13",
+        "Article 131"
       ],
-      "correct": 1,
-      "explanation": "The Finance Minister is responsible for presenting the Union Budget in Parliament."
+      "correct": 2,
+      "explanation": "Article 13 of the Constitution provides the power of Judicial Review to the courts."
     },
     {
       "id": 14,
-      "category": "Indian Economy (Reforms & Trade)",
-      "question": "India signed the Regional Comprehensive Economic Partnership (RCEP) in which year?",
+      "category": "Indian Economy",
+      "question": "India's Fiscal Year for budget calculations starts on:",
       "options": [
-        "2019",
-        "2020",
-        "2021",
-        "2022"
+        "April 1",
+        "January 1",
+        "July 1",
+        "October 1"
       ],
-      "correct": 1,
-      "explanation": "India signed RCEP in November 2020 but decided to opt out, citing concerns over trade and economy."
+      "correct": 0,
+      "explanation": "India's financial year begins on April 1 and ends on March 31 of the following year."
     },
     {
       "id": 15,
-      "category": "Indian Economy (GDP & Growth)",
-      "question": "India’s Gross Domestic Product (GDP) in 2025 is approximately:",
+      "category": "Indian Economy",
+      "question": "Which institution is responsible for printing currency notes in India?",
       "options": [
-        "$3 trillion",
-        "$4 trillion",
-        "$5 trillion",
-        "$6 trillion"
+        "Reserve Bank of India",
+        "Indian Government",
+        "Ministry of Finance",
+        "Government Printing Press"
       ],
-      "correct": 2,
-      "explanation": "India's GDP crossed around $5 trillion mark in 2025, reflecting rapid economic growth."
+      "correct": 0,
+      "explanation": "The Reserve Bank of India is responsible for issuing and managing currency notes."
     },
     {
       "id": 16,
-      "category": "General Science (Physics & Chemistry)",
-      "question": "Which fundamental force is responsible for the binding of protons and neutrons in an atom?",
+      "category": "Indian Economy",
+      "question": "What does GDP stand for?",
       "options": [
-        "Gravitational force",
-        "Electromagnetic force",
-        "Strong nuclear force",
-        "Weak nuclear force"
+        "Gross Domestic Product",
+        "General Domestic Production",
+        "Gross Development Plan",
+        "Government Domestic Program"
       ],
-      "correct": 2,
-      "explanation": "The strong nuclear force binds protons and neutrons within the atomic nucleus."
+      "correct": 0,
+      "explanation": "GDP stands for Gross Domestic Product, indicating the total value of goods and services produced within a country."
     },
     {
       "id": 17,
-      "category": "General Science (Biology & Space)",
-      "question": "Which part of the human body is primarily responsible for oxygen exchange?",
+      "category": "Indian Economy",
+      "question": "The Five Year Plans in India were initially adopted from the economic model of:",
       "options": [
-        "Lungs",
-        "Liver",
-        "Kidneys",
-        "Heart"
+        "Soviet Union",
+        "United States",
+        "United Kingdom",
+        "Japan"
       ],
       "correct": 0,
-      "explanation": "The lungs facilitate gas exchange, allowing oxygen to enter the blood and carbon dioxide to be expelled."
+      "explanation": "India adopted its Five Year Plans based on the Soviet Union's planned economy model."
     },
     {
       "id": 18,
-      "category": "General Science (Technology & Space)",
-      "question": "India’s Mars Orbiter Mission is also known as:",
+      "category": "General Science",
+      "question": "Which element is the primary component of the ozone layer?",
       "options": [
-        "Chandrayaan-2",
-        "Mangalyaan",
-        "Rohini",
-        "SaViSat"
+        "Oxygen",
+        "Nitrogen",
+        "Ozone (O3)",
+        "Carbon dioxide"
       ],
-      "correct": 1,
-      "explanation": "India’s Mars Orbiter Mission is called Mangalyaan, launched in 2013 to explore Mars."
+      "correct": 2,
+      "explanation": "Ozone (O3) is the main component of the ozone layer, protecting the Earth from harmful ultraviolet rays."
     },
     {
       "id": 19,
-      "category": "Environment & Ecology (Biodiversity & Laws)",
-      "question": "The Convention on Biological Diversity (CBD) was adopted during which conference?",
+      "category": "General Science",
+      "question": "The process of photosynthesis primarily occurs in which part of the plant?",
       "options": [
-        "Rio Earth Summit, 1992",
-        "Paris Climate Conference, 2015",
-        "Johannesburg Summit, 2002",
-        "Kyoto Protocol, 1997"
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Flowers"
       ],
-      "correct": 0,
-      "explanation": "The CBD was adopted during the Rio Earth Summit in 1992 to promote sustainable development and conserve biodiversity."
+      "correct": 2,
+      "explanation": "Photosynthesis mainly occurs in the leaves of plants, where chlorophyll traps sunlight."
     },
     {
       "id": 20,
-      "category": "Environment & Ecology (Protected Areas)",
-      "question": "Which of the following is the first Indian National Park designated as a UNESCO World Heritage Site?",
+      "category": "General Science",
+      "question": "Which scientist is known for the laws of motion?",
       "options": [
-        "Kaziranga National Park",
-        "Sundarbans National Park",
-        "Manas National Park",
-        "Gir National Park"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Nikola Tesla"
       ],
       "correct": 0,
-      "explanation": "Kaziranga was designated as a UNESCO World Heritage Site in 1985, recognized for its biodiversity."
+      "explanation": "Isaac Newton formulated the three laws of motion, fundamental to classical mechanics."
     },
     {
       "id": 21,
-      "category": "Environment & Ecology (Climate Change & Laws)",
-      "question": "India’s National Action Plan on Climate Change was launched in which year?",
+      "category": "General Science",
+      "question": "Which technology is used in the production of solar panels?",
       "options": [
-        "2007",
-        "2010",
-        "2015",
-        "2020"
+        "Photovoltaic cells",
+        "Thermoelectric generators",
+        "Nuclear fusion",
+        "Fuel cells"
       ],
       "correct": 0,
-      "explanation": "India launched its National Action Plan on Climate Change (NAPCC) in 2008, aiming to combat climate challenges."
+      "explanation": "Photovoltaic cells convert sunlight directly into electricity, used in solar panels."
     },
     {
       "id": 22,
-      "category": "Current Affairs & GK (International & National Events)",
-      "question": "Who is the current President of India?",
+      "category": "Environment & Ecology",
+      "question": "Which of the following is a flagship species of India’s biodiversity conservation efforts?",
+      "options": [
+        "Indian Elephant",
+        "King Cobra",
+        "Ganges River Dolphin",
+        "Bengal Tiger"
+      ],
+      "correct": 3,
+      "explanation": "The Bengal Tiger is a flagship species for conservation in India, symbolizing efforts to protect biodiversity."
+    },
+    {
+      "id": 23,
+      "category": "Environment & Ecology",
+      "question": "The Convention on Biological Diversity was signed in which year?",
+      "options": [
+        "1992",
+        "1982",
+        "2000",
+        "2010"
+      ],
+      "correct": 0,
+      "explanation": "The Convention on Biological Diversity was signed at the Earth Summit in Rio de Janeiro in 1992."
+    },
+    {
+      "id": 24,
+      "category": "Environment & Ecology",
+      "question": "Which of the following is NOT a protected area in India?",
+      "options": [
+        "National Park",
+        "Wildlife Sanctuary",
+        "Reserve Forest",
+        "Conservation Reserve"
+      ],
+      "correct": 2,
+      "explanation": "Reserve Forests are not classified as protected areas like national parks or wildlife sanctuaries."
+    },
+    {
+      "id": 25,
+      "category": "Environment & Ecology",
+      "question": "Environmental Impact Assessment (EIA) is primarily implemented to:",
+      "options": [
+        "Promote industrial growth",
+        "Assess the environmental consequences of projects",
+        "Increase forest cover",
+        "Reduce water pollution"
+      ],
+      "correct": 1,
+      "explanation": "EIA helps evaluate the potential environmental impacts of proposed development projects before approval."
+    },
+    {
+      "id": 26,
+      "category": "Current Affairs & GK",
+      "question": "Who is the current President of India as of 2026?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "Narendra Modi"
+        "Ram Nath Kovind"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu has been serving as the President of India since July 25, 2022."
-    },
-    {
-      "id": 23,
-      "category": "Current Affairs & GK (Awards & Schemes)",
-      "question": "The 'Khelo India' scheme primarily promotes:",
-      "options": [
-        "Agricultural development",
-        "Sports and youth development",
-        "Digital literacy",
-        "Healthcare"
-      ],
-      "correct": 1,
-      "explanation": "'Khelo India' aims to promote sports at the grassroots level and support young athletes."
-    },
-    {
-      "id": 24,
-      "category": "Current Affairs & GK (Sports & International)",
-      "question": "Which country won the FIFA World Cup in 2022?",
-      "options": [
-        "Brazil",
-        "Argentina",
-        "France",
-        "Germany"
-      ],
-      "correct": 1,
-      "explanation": "Argentina won the FIFA World Cup 2022 held in Qatar, defeating France in the final."
-    },
-    {
-      "id": 25,
-      "category": "Current Affairs & GK (National & International Leaders)",
-      "question": "Who is the current External Affairs Minister of India?",
-      "options": [
-        "S. Jaishankar",
-        "Nirmala Sitharaman",
-        "Amit Shah",
-        "P. Chidambaram"
-      ],
-      "correct": 0,
-      "explanation": "S. Jaishankar has been serving as India's External Affairs Minister since 2019."
-    },
-    {
-      "id": 26,
-      "category": "Indian History (Ancient)",
-      "question": "Which dynasty is known for constructing the Ajanta Caves?",
-      "options": [
-        "Gupta",
-        "Maurya",
-        "Vakataka",
-        "Chola"
-      ],
-      "correct": 2,
-      "explanation": "The Vakataka dynasty is credited with commissioning the Ajanta Caves, known for their exquisite Buddhist art."
+      "explanation": "Droupadi Murmu is the current President, serving since 25 July 2022."
     },
     {
       "id": 27,
-      "category": "Indian Geography (Physical)",
-      "question": "Which mountain range forms the northern boundary of India?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Prime Minister of India?",
       "options": [
-        "Himalayas",
-        "Western Ghats",
-        "Aravalli",
-        "Vindhya"
+        "Narendra Modi",
+        "Manmohan Singh",
+        "Rahul Gandhi",
+        "Amit Shah"
       ],
       "correct": 0,
-      "explanation": "The Himalayas form the northern boundary of India, acting as a natural border and barrier."
+      "explanation": "Narendra Modi has been serving as Prime Minister since 26 May 2014."
     },
     {
       "id": 28,
-      "category": "Indian Polity & Governance (Fundamental Rights)",
-      "question": "Which article of the Indian Constitution deals with the Right to Property?",
+      "category": "Current Affairs & GK",
+      "question": "Which scheme is aimed at providing free distribution of food grains to the poor during the COVID-19 pandemic?",
       "options": [
-        "Article 19",
-        "Article 21",
-        "Article 31",
-        "Article 32"
+        "Pradhan Mantri Garib Kalyan Ann Yojana",
+        "Food Security Act",
+        "Midday Meal Scheme",
+        "Public Distribution System"
       ],
-      "correct": 2,
-      "explanation": "Article 31 originally dealt with the Right to Property, which was later made a legal right and now is a constitutional right under Article 300A."
+      "correct": 0,
+      "explanation": "Pradhan Mantri Garib Kalyan Ann Yojana was launched during COVID-19 to provide free food grains to the poor."
     },
     {
       "id": 29,
-      "category": "Indian Economy (Reforms & Trade)",
-      "question": "Which sector accounts for the largest share in India’s GDP?",
+      "category": "Current Affairs & GK",
+      "question": "Which country hosted the 2023 G20 summit?",
       "options": [
-        "Agriculture",
-        "Industry",
-        "Services",
-        "Manufacturing"
+        "India",
+        "Japan",
+        "Germany",
+        "Australia"
       ],
-      "correct": 2,
-      "explanation": "The Services sector is the largest contributor to India’s GDP, accounting for about 50% or more."
+      "correct": 0,
+      "explanation": "India hosted the G20 summit in 2023, marking its first time as the host."
     },
     {
       "id": 30,
-      "category": "General Science (Physics & Space)",
-      "question": "Who is known as the father of the Indian space program?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Chief Justice of India as of 2026?",
       "options": [
-        "Vikram Sarabhai",
-        "Satish Dhawan",
-        "A.P.J. Abdul Kalam",
-        "Kalpana Chawla"
+        "Surya Kant",
+        "Dhananjaya Y. Chandrachud",
+        "John Robert",
+        "Ranjan Gogoi"
       ],
-      "correct": 0,
-      "explanation": "Vikram Sarabhai is regarded as the father of the Indian space program for his pioneering work and vision."
+      "correct": 1,
+      "explanation": "Dhananjaya Y. Chandrachud is the Chief Justice of India since 24 November 2025."
     }
   ]
 }
