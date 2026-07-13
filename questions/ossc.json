@@ -1,39 +1,26 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which is the largest district in Odisha by area?",
+      "question": "Which is the largest river flowing through Odisha?",
       "options": [
-        "Kalahandi",
-        "Koraput",
-        "Mayurbhanj",
-        "Nayagarh"
+        "Godavari",
+        "Mahanadi",
+        "Krishna",
+        "Ganges"
       ],
-      "correct": 2,
-      "explanation": "Mayurbhanj is the largest district in Odisha by area."
+      "correct": 1,
+      "explanation": "The Mahanadi is the largest river flowing through Odisha, originating from Chhattisgarh and flowing into the Bay of Bengal."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which river is the longest in Odisha?",
-      "options": [
-        "Mahanadi",
-        "Brahmani",
-        "Baitarani",
-        "Subarnarekha"
-      ],
-      "correct": 0,
-      "explanation": "Mahanadi is the longest river flowing through Odisha."
-    },
-    {
-      "id": 3,
-      "category": "Odisha General Knowledge",
-      "question": "Which festival is famous for the Rath Yatra in Odisha?",
+      "question": "Which festival is celebrated with great enthusiasm in Odisha to mark the Rath Yatra?",
       "options": [
         "Diwali",
         "Durga Puja",
@@ -41,319 +28,332 @@
         "Holi"
       ],
       "correct": 2,
-      "explanation": "The Rath Yatra festival in Puri is famous worldwide and is a major festival in Odisha."
+      "explanation": "The Rath Yatra is a famous festival in Odisha, especially in Puri, celebrated to honor Lord Jagannath."
+    },
+    {
+      "id": 3,
+      "category": "Odisha General Knowledge",
+      "question": "Which tribal community is predominantly found in the Mayurbhanj district of Odisha?",
+      "options": [
+        "Santhal",
+        "Munda",
+        "Oraon",
+        "Bhuiyan"
+      ],
+      "correct": 1,
+      "explanation": "The Munda tribe has a significant population in Mayurbhanj district, known for their distinct culture."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is predominantly found in the Mayurbhanj district?",
+      "question": "Which is the famous lake located in Odisha?",
       "options": [
-        "Santhal",
-        "Bhue",
-        "Santal",
-        "Ho"
+        "Pulicat Lake",
+        "Chilika Lake",
+        "Vembanad Lake",
+        "Sambhar Lake"
       ],
-      "correct": 2,
-      "explanation": "The Santal tribe is predominantly found in Mayurbhanj district."
+      "correct": 1,
+      "explanation": "Chilika Lake is Asia’s largest coastal lagoon and a well-known feature of Odisha."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Who was the famous Odia poet known for the 'Geohera Pora'?",
+      "question": "Who was the famous freedom fighter from Odisha known for his role during the Indian independence movement?",
       "options": [
-        "Madhusudan Das",
-        "Kabisurya Baladeba Rath",
-        "Gopabandhu Das",
-        "Utkal Gourav Madhusudan Das"
+        "Baji Rout",
+        "Laxman Naik",
+        "Utkalmani Gopabandhu Das",
+        "Bhima Boudra"
       ],
-      "correct": 1,
-      "explanation": "'Kabisurya Baladeba Rath' was renowned for his poetry including 'Geohera Pora'."
+      "correct": 2,
+      "explanation": "Utkalmani Gopabandhu Das was a prominent leader and social reformer from Odisha involved in the independence movement."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which is the ancient capital of Odisha during the Kalinga period?",
+      "question": "Which dam in Odisha is primarily used for irrigation and hydroelectric power?",
       "options": [
-        "Puri",
-        "Kalinganagara",
-        "Konark",
-        "Cuttack"
+        "Rengali Dam",
+        "Indira Gandhi Dam",
+        "Mahanadi Dam",
+        "Hirakud Dam"
       ],
-      "correct": 1,
-      "explanation": "Kalinganagara was an important historical city of ancient Odisha during the Kalinga period."
+      "correct": 3,
+      "explanation": "Hirakud Dam is one of the world's longest earthen dams and is used for irrigation, flood control, and hydroelectric power generation."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "Who was the founder of the Maurya Empire in India?",
+      "question": "The ancient city of Kanchipuram was famous for which of the following?",
       "options": [
-        "Chandragupta Maurya",
-        "Ashoka",
-        "Bindusara",
-        "Harshavardhana"
+        "Buddhist monasteries",
+        "Silk textiles",
+        "Temples and education",
+        "Military forts"
       ],
-      "correct": 0,
-      "explanation": "Chandragupta Maurya founded the Maurya Empire around 321 BCE."
+      "correct": 2,
+      "explanation": "Kanchipuram was renowned for its temples and as a center of education in ancient India."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Which ancient university was situated in Takshashila?",
+      "question": "Which Mughal emperor built the Taj Mahal?",
       "options": [
-        "Nalanda",
-        "Taxila",
-        "Vikramashila",
-        "Kanchipuram"
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Babur"
       ],
       "correct": 1,
-      "explanation": "Takshashila (Taxila) was an eminent ancient university famous for higher learning."
+      "explanation": "Shah Jahan commissioned the construction of the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "Which Mughal emperor built the Taj Mahal?",
+      "question": "The Indian national flag was first hoisted in which year?",
       "options": [
-        "Humayun",
-        "Babur",
-        "Akbar",
-        "Shah Jahan"
+        "1911",
+        "1921",
+        "1931",
+        "1947"
       ],
-      "correct": 3,
-      "explanation": "Shah Jahan commissioned the construction of the Taj Mahal."
+      "correct": 1,
+      "explanation": "The tricolor flag was first adopted and hoisted during the Indian independence movement in 1921."
     },
     {
       "id": 10,
       "category": "Indian History & Culture",
-      "question": "Which Indian cultural festival is celebrated to mark the harvest season in Punjab?",
+      "question": "Which site is recognized as a UNESCO World Heritage Site in India for its ancient rock-cut caves?",
       "options": [
-        "Diwali",
-        "Baisakhi",
-        "Holi",
-        "Raksha Bandhan"
+        "Ellora Caves",
+        "Ajanta Caves",
+        "Bhimbetka",
+        "Khajuraho"
       ],
       "correct": 1,
-      "explanation": "Baisakhi is a harvest festival celebrated mainly in Punjab."
+      "explanation": "Ajanta Caves are famous for their ancient Buddhist rock-cut caves and are UNESCO World Heritage Sites."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which mountain range forms the northern boundary of India?",
+      "question": "Which physical feature is most prominent in Odisha?",
       "options": [
-        "Western Ghats",
+        "Thar Desert",
+        "Eastern Ghats",
         "Himalayas",
-        "Aravalli",
-        "Eastern Ghats"
+        "Western Ghats"
       ],
       "correct": 1,
-      "explanation": "The Himalayas form the northern boundary of India."
+      "explanation": "The Eastern Ghats run through Odisha, forming a significant part of its physical geography."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Which soil type is predominantly found in Odisha?",
+      "question": "Which type of soil is most suitable for rice cultivation in Odisha?",
       "options": [
         "Alluvial soil",
-        "Laterite soil",
+        "Red soil",
         "Black soil",
-        "Alkaline soil"
+        "Laterite soil"
       ],
-      "correct": 1,
-      "explanation": "Odisha mainly has laterite soil in many parts."
+      "correct": 0,
+      "explanation": "Alluvial soil, found in river valleys, is most suitable for rice cultivation due to its fertility."
     },
     {
       "id": 13,
       "category": "Geography",
-      "question": "Which mineral is most abundantly found in the Bondi basin of Odisha?",
+      "question": "Odisha is rich in which mineral deposit?",
       "options": [
-        "Coal",
         "Bauxite",
         "Iron ore",
-        "Chromite"
+        "Coal",
+        "Manganese"
       ],
-      "correct": 0,
-      "explanation": "Odisha is rich in coal deposits, especially in the Bondi basin."
+      "correct": 1,
+      "explanation": "Odisha is known for its abundant iron ore deposits, which contribute significantly to the iron and steel industry."
     },
     {
       "id": 14,
       "category": "Geography",
-      "question": "Which dam in Odisha is built across the Mahanadi river?",
+      "question": "Which climate zone does Odisha mainly fall into?",
       "options": [
-        "Indira Sagar",
-        "Kolab Dam",
-        "Mahanadi Barrage",
-        " Hirakud Dam"
+        "Tropical monsoon",
+        "Desert",
+        "Temperate",
+        "Tundra"
       ],
-      "correct": 3,
-      "explanation": "Hirakud Dam is constructed across the Mahanadi river."
+      "correct": 0,
+      "explanation": "Odisha has a tropical monsoon climate, characterized by heavy rainfall during the monsoon season."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Which of the following is a Fundamental Right in India?",
+      "question": "Which fundamental right protects the freedom of speech in India?",
       "options": [
-        "Right to Education",
-        "Right to Vote",
-        "Right to Work",
-        "Right to Property"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Cultural and Educational Rights"
       ],
-      "correct": 0,
-      "explanation": "Right to Education is a Fundamental Right under the Indian Constitution."
+      "correct": 1,
+      "explanation": "The Right to Freedom guarantees speech and expression as a fundamental right."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "How many members are there in the Rajya Sabha?",
+      "question": "The Directive Principles of State Policy aim to:",
       "options": [
-        "245",
-        "250",
-        "245 or as per the quota",
-        "245+"
+        "Enforce laws",
+        "Guide the state in making policies",
+        "Protect fundamental rights",
+        "Elect the President"
       ],
-      "correct": 0,
-      "explanation": "The Rajya Sabha has a maximum of 245 members as per the Constitution."
+      "correct": 1,
+      "explanation": "DPSPs guide the government in framing policies to establish a just society."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Who is the current Speaker of the Lok Sabha?",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
-        "M. Venkaiah Naidu",
-        "Om Birla",
-        "Sonia Gandhi",
-        "Pranab Mukherjee"
+        "The President of India",
+        "The Prime Minister of India",
+        "The Parliament",
+        "The Supreme Court Judges"
       ],
-      "correct": 1,
-      "explanation": "Om Birla has been serving as the Speaker of the Lok Sabha since 2019."
+      "correct": 0,
+      "explanation": "The President of India appoints the Chief Justice based on seniority and recommendations."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "Which article of the Indian Constitution deals with the Directive Principles of State Policy?",
+      "question": "Which body is responsible for the impeachment of the President of India?",
       "options": [
-        "Article 12",
-        "Article 14",
-        "Article 36",
-        "Article 37"
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Supreme Court",
+        "Parliament as a whole"
       ],
-      "correct": 3,
-      "explanation": "Article 37 of the Indian Constitution deals with Directive Principles."
+      "correct": 1,
+      "explanation": "Impeachment proceedings are initiated in the Rajya Sabha, and conviction requires a two-thirds majority."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which gas is most responsible for the greenhouse effect?",
+      "question": "What is the primary function of red blood cells?",
       "options": [
-        "Oxygen",
-        "Carbon dioxide",
-        "Nitrogen",
-        "Helium"
+        "Fight infections",
+        "Transport oxygen",
+        "Fight malaria",
+        "Produce hormones"
       ],
       "correct": 1,
-      "explanation": "Carbon dioxide traps heat in the atmosphere, leading to the greenhouse effect."
+      "explanation": "Red blood cells carry oxygen from the lungs to tissues and remove carbon dioxide."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "What is the pH range of an acid?",
+      "question": "Which element is most abundant in the earth’s crust?",
       "options": [
-        "0-7",
-        "7-14",
-        "7-8",
-        "0-14"
+        "Iron",
+        "Silicon",
+        "Oxygen",
+        "Aluminium"
       ],
-      "correct": 0,
-      "explanation": "An acid has a pH less than 7."
+      "correct": 2,
+      "explanation": "Oxygen is the most abundant element in the earth's crust, primarily as part of oxides."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which vitamin is primarily obtained from sunlight?",
+      "question": "Which vitamin deficiency causes scurvy?",
       "options": [
         "Vitamin A",
-        "Vitamin B",
         "Vitamin C",
-        "Vitamin D"
+        "Vitamin D",
+        "Vitamin K"
       ],
-      "correct": 3,
-      "explanation": "Vitamin D is synthesized when skin is exposed to sunlight."
+      "correct": 1,
+      "explanation": "Scurvy is caused by deficiency of Vitamin C."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which disease is caused by a deficiency of Vitamin C?",
+      "question": "Which disease is caused by a deficiency of insulin?",
       "options": [
-        "Scurvy",
-        "Rickets",
-        "Anemia",
-        "Beriberi"
+        "Malaria",
+        "Diabetes",
+        "Tuberculosis",
+        "Anemia"
       ],
-      "correct": 0,
-      "explanation": "Deficiency of Vitamin C causes Scurvy."
+      "correct": 1,
+      "explanation": "Diabetes is caused by the deficiency of insulin or the body's inability to use insulin effectively."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
       "question": "What comes next in the series: 2, 4, 8, 16, ?",
       "options": [
-        "18",
         "20",
+        "24",
         "32",
-        "24"
+        "64"
       ],
       "correct": 2,
-      "explanation": "The series doubles each time; next is 32."
+      "explanation": "The series doubles each time; next is 16 × 2 = 32."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If in a certain code, 'ODISHA' is written as 'PEJTIP', what is the code for 'REPUBLIC'?",
+      "question": "If 'CODE' is written as 'DPEF', how is 'MIND' written?",
       "options": [
-        "SFTQCKJ",
-        "SFTPCKJ",
-        "SFTQCKI",
-        "SFUQCKJ"
+        "NJOE",
+        "NPEF",
+        "NOEF",
+        "NQFG"
       ],
       "correct": 0,
-      "explanation": "The pattern involves shifting each letter by a certain number; based on the code, 'REPUBLIC' follows the same pattern as 'ODISHA'."
+      "explanation": "Each letter is shifted by +1; so M→N, I→J, N→O, D→E."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "If 'MANGO' is written as 'NBOHP', how is 'APPLE' written?",
+      "question": "In a certain code, if CAT is written as 312, then what is BAT?",
       "options": [
-        "BQKMF",
-        "BQNLF",
-        "BQLMF",
-        "BQOJF"
+        "132",
+        "312",
+        "213",
+        "321"
       ],
       "correct": 0,
-      "explanation": "Each letter shifts forward by one in the alphabet with an alternating pattern."
+      "explanation": "C→3, A→1, T→2; similarly, B→1, A→3, T→2."
     },
     {
       "id": 26,
       "category": "Mental Ability & Reasoning",
-      "question": "A person facing north walks 10 meters, turns right, walks 5 meters, then turns left and walks 5 meters. Which direction is he facing now?",
+      "question": "A person facing north walks 10 meters, then turns right and walks 5 meters, then turns left and walks 10 meters. What direction is he facing now?",
       "options": [
         "North",
-        "East",
         "South",
+        "East",
         "West"
       ],
-      "correct": 1,
-      "explanation": "He ends up facing East after the movements described."
+      "correct": 2,
+      "explanation": "The person ends facing east after these movements."
     },
     {
       "id": 27,
       "category": "Current Affairs",
-      "question": "Who is the current President of India?",
+      "question": "Who is the current President of India as of July 2026?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "Shankar Dayal Sharma"
+        "V.V. Giri"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu has been the President since 25 July 2022."
+      "explanation": "Droupadi Murmu is the current President of India since July 2022."
     },
     {
       "id": 28,
@@ -361,38 +361,38 @@
       "question": "Which scheme was launched by the Government of India to promote digital payments?",
       "options": [
         "Digital India",
-        "Cashless India",
+        "Make in India",
         "Startup India",
-        "Make in India"
+        "Atal Mission"
       ],
-      "correct": 1,
-      "explanation": "'Cashless India' aims to promote digital payments across the country."
+      "correct": 0,
+      "explanation": "Digital India aims to promote digital infrastructure and digital payments."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Which athlete won the gold medal in the Tokyo 2020 Olympics for India in badminton?",
+      "question": "Which Indian sports person won the gold medal in Tokyo 2020 Olympics in badminton?",
       "options": [
-        "P.V. Sindhu",
+        "PV Sindhu",
         "Sania Mirza",
         "Mary Kom",
-        "Dipa Karmakar"
+        "Deepika Kumari"
       ],
       "correct": 0,
-      "explanation": "P.V. Sindhu won the silver medal, but India’s first gold in badminton was by P.V. Sindhu in Tokyo 2020."
+      "explanation": "PV Sindhu won the silver medal in badminton at Tokyo 2020, representing India."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "Who was awarded the Padma Vibhushan in 2023 for contributions in science?",
+      "question": "Who was awarded the Padma Vibhushan in 2026 for contributions in science?",
       "options": [
         "Dr. Raghunath Anant Mashelkar",
         "Dr. A.P.J. Abdul Kalam",
-        "Dr. C.N.R. Rao",
-        "Dr. Vikram Sarabhai"
+        "Dr. C.V. Raman",
+        "Dr. Homi Bhabha"
       ],
-      "correct": 2,
-      "explanation": "Dr. C.N.R. Rao was awarded the Padma Vibhushan in 2023 for his contributions to science."
+      "correct": 0,
+      "explanation": "Dr. Raghunath Anant Mashelkar received the Padma Vibhushan in 2026 for his contributions to science and engineering."
     }
   ]
 }
