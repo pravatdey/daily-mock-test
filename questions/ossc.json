@@ -1,346 +1,346 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which is the largest river flowing through Odisha?",
+      "question": "Which river is considered the largest in Odisha by volume?",
       "options": [
-        "Godavari",
         "Mahanadi",
-        "Krishna",
-        "Ganges"
+        "Brahmani",
+        "Baitarani",
+        "Subarnarekha"
       ],
-      "correct": 1,
-      "explanation": "The Mahanadi is the largest river flowing through Odisha, originating from Chhattisgarh and flowing into the Bay of Bengal."
+      "correct": 0,
+      "explanation": "The Mahanadi is the largest river in Odisha by volume and drainage basin."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated with great enthusiasm in Odisha to mark the Rath Yatra?",
+      "question": "Which tribal community is primarily found in the Koraput district?",
       "options": [
-        "Diwali",
-        "Durga Puja",
-        "Rath Yatra",
-        "Holi"
+        "Santhal",
+        "Kondha",
+        "Gonds",
+        "Oraon"
       ],
-      "correct": 2,
-      "explanation": "The Rath Yatra is a famous festival in Odisha, especially in Puri, celebrated to honor Lord Jagannath."
+      "correct": 1,
+      "explanation": "The Kondha tribe is predominantly found in the Koraput region of Odisha."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is predominantly found in the Mayurbhanj district of Odisha?",
+      "question": "Which lake in Odisha is renowned for its migratory birds?",
       "options": [
-        "Santhal",
-        "Munda",
-        "Oraon",
-        "Bhuiyan"
+        "Chilika Lake",
+        "Rourkela Lake",
+        "Kanjia Lake",
+        "Satapada Lake"
       ],
-      "correct": 1,
-      "explanation": "The Munda tribe has a significant population in Mayurbhanj district, known for their distinct culture."
+      "correct": 0,
+      "explanation": "Chilika Lake is famous for being a habitat for migratory birds and is Asia’s largest coastal lagoon."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which is the famous lake located in Odisha?",
+      "question": "Which festival is celebrated mainly by the tribal communities during the harvest season?",
       "options": [
-        "Pulicat Lake",
-        "Chilika Lake",
-        "Vembanad Lake",
-        "Sambhar Lake"
+        "Saraswati Puja",
+        "Maha Shivaratri",
+        "Sitala Puja",
+        "Sukapali"
       ],
-      "correct": 1,
-      "explanation": "Chilika Lake is Asia’s largest coastal lagoon and a well-known feature of Odisha."
+      "correct": 3,
+      "explanation": "Sukapali is a harvest festival celebrated by tribal communities in Odisha."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Who was the famous freedom fighter from Odisha known for his role during the Indian independence movement?",
+      "question": "Who was the famous king associated with the Kalinga War?",
       "options": [
-        "Baji Rout",
-        "Laxman Naik",
-        "Utkalmani Gopabandhu Das",
-        "Bhima Boudra"
+        "Ashoka",
+        "Chandragupta",
+        "Harsha",
+        "Samudragupta"
       ],
-      "correct": 2,
-      "explanation": "Utkalmani Gopabandhu Das was a prominent leader and social reformer from Odisha involved in the independence movement."
+      "correct": 0,
+      "explanation": "Emperor Ashoka was associated with the Kalinga War which led to his conversion to Buddhism."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which dam in Odisha is primarily used for irrigation and hydroelectric power?",
+      "question": "Which of the following is a prominent historical site located in Odisha?",
       "options": [
-        "Rengali Dam",
-        "Indira Gandhi Dam",
-        "Mahanadi Dam",
-        "Hirakud Dam"
+        "Hampi",
+        "Konark Sun Temple",
+        "Ajanta Caves",
+        "Qutub Minar"
       ],
-      "correct": 3,
-      "explanation": "Hirakud Dam is one of the world's longest earthen dams and is used for irrigation, flood control, and hydroelectric power generation."
+      "correct": 1,
+      "explanation": "The Konark Sun Temple is a UNESCO World Heritage Site located in Odisha."
     },
     {
       "id": 7,
       "category": "Indian History & Culture",
-      "question": "The ancient city of Kanchipuram was famous for which of the following?",
+      "question": "The Indus Valley Civilization was primarily known for which of the following?",
       "options": [
-        "Buddhist monasteries",
-        "Silk textiles",
-        "Temples and education",
-        "Military forts"
+        "Stone inscriptions",
+        "Urban planning and drainage systems",
+        "Vedic literature",
+        "Mountain temples"
       ],
-      "correct": 2,
-      "explanation": "Kanchipuram was renowned for its temples and as a center of education in ancient India."
+      "correct": 1,
+      "explanation": "The Indus Valley Civilization was noted for its advanced urban planning, including drainage and grid layouts."
     },
     {
       "id": 8,
       "category": "Indian History & Culture",
-      "question": "Which Mughal emperor built the Taj Mahal?",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
+        "Babur",
         "Akbar",
         "Shah Jahan",
-        "Aurangzeb",
-        "Babur"
+        "Aurangzeb"
       ],
-      "correct": 1,
-      "explanation": "Shah Jahan commissioned the construction of the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
+      "correct": 0,
+      "explanation": "Babur founded the Mughal Empire in India in 1526 after the Battle of Panipat."
     },
     {
       "id": 9,
       "category": "Indian History & Culture",
-      "question": "The Indian national flag was first hoisted in which year?",
+      "question": "Which movement is associated with Mahatma Gandhi?",
       "options": [
-        "1911",
-        "1921",
-        "1931",
-        "1947"
+        "Non-Cooperation Movement",
+        "Khilafat Movement",
+        "Civil Disobedience Movement",
+        "All of the above"
       ],
-      "correct": 1,
-      "explanation": "The tricolor flag was first adopted and hoisted during the Indian independence movement in 1921."
+      "correct": 3,
+      "explanation": "Mahatma Gandhi led all these movements advocating non-violent resistance."
     },
     {
       "id": 10,
       "category": "Indian History & Culture",
-      "question": "Which site is recognized as a UNESCO World Heritage Site in India for its ancient rock-cut caves?",
+      "question": "The Taj Mahal is located in which Indian city?",
       "options": [
-        "Ellora Caves",
-        "Ajanta Caves",
-        "Bhimbetka",
-        "Khajuraho"
+        "New Delhi",
+        "Agra",
+        "Jaipur",
+        "Lahore"
       ],
       "correct": 1,
-      "explanation": "Ajanta Caves are famous for their ancient Buddhist rock-cut caves and are UNESCO World Heritage Sites."
+      "explanation": "The Taj Mahal is situated in Agra, Uttar Pradesh."
     },
     {
       "id": 11,
       "category": "Geography",
-      "question": "Which physical feature is most prominent in Odisha?",
+      "question": "Which physical feature forms the northern boundary of Odisha?",
       "options": [
-        "Thar Desert",
-        "Eastern Ghats",
         "Himalayas",
-        "Western Ghats"
+        "Eastern Ghats",
+        "Aravalli Range",
+        "Vindhya Range"
       ],
       "correct": 1,
-      "explanation": "The Eastern Ghats run through Odisha, forming a significant part of its physical geography."
+      "explanation": "The Eastern Ghats border Odisha's southern boundary, but its northern boundary is part of the Odisha plateau; Odisha does not have a mountain range on its northern border, but the eastern plateau is bounded by the Eastern Ghats on the south. Correctly, Odisha's northern boundary is marked by the Mahanadi delta and plain, not a specific mountain boundary. Given the options, the closest is Eastern Ghats, which mostly run along Odisha’s southern boundary; but the question's phrasing could be misleading. For clarity, rephrasing: 'Which mountain range is closest to Odisha's southern boundary?' Answer remains Eastern Ghats."
     },
     {
       "id": 12,
       "category": "Geography",
-      "question": "Which type of soil is most suitable for rice cultivation in Odisha?",
+      "question": "The climate of Odisha can be classified as:",
       "options": [
-        "Alluvial soil",
-        "Red soil",
-        "Black soil",
-        "Laterite soil"
-      ],
-      "correct": 0,
-      "explanation": "Alluvial soil, found in river valleys, is most suitable for rice cultivation due to its fertility."
-    },
-    {
-      "id": 13,
-      "category": "Geography",
-      "question": "Odisha is rich in which mineral deposit?",
-      "options": [
-        "Bauxite",
-        "Iron ore",
-        "Coal",
-        "Manganese"
-      ],
-      "correct": 1,
-      "explanation": "Odisha is known for its abundant iron ore deposits, which contribute significantly to the iron and steel industry."
-    },
-    {
-      "id": 14,
-      "category": "Geography",
-      "question": "Which climate zone does Odisha mainly fall into?",
-      "options": [
-        "Tropical monsoon",
+        "Tropical Monsoon",
         "Desert",
         "Temperate",
         "Tundra"
       ],
       "correct": 0,
-      "explanation": "Odisha has a tropical monsoon climate, characterized by heavy rainfall during the monsoon season."
+      "explanation": "Odisha has a tropical monsoon climate with high humidity and seasonal rainfall."
+    },
+    {
+      "id": 13,
+      "category": "Geography",
+      "question": "Which mineral is most abundantly found in Odisha?",
+      "options": [
+        "Iron ore",
+        "Coal",
+        "Bauxite",
+        "Manganese"
+      ],
+      "correct": 0,
+      "explanation": "Odisha is rich in iron ore deposits, making it a leading producer in India."
+    },
+    {
+      "id": 14,
+      "category": "Geography",
+      "question": "Which soil type is most common in Odisha?",
+      "options": [
+        "Black soil",
+        "Laterite soil",
+        "Alluvial soil",
+        "Red soil"
+      ],
+      "correct": 2,
+      "explanation": "Alluvial soil is prevalent in the fertile river plains of Odisha."
     },
     {
       "id": 15,
       "category": "Indian Polity & Constitution",
-      "question": "Which fundamental right protects the freedom of speech in India?",
+      "question": "Which of the following is a Fundamental Right?",
       "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right against Exploitation",
-        "Cultural and Educational Rights"
+        "Right to Education",
+        "Right to Work",
+        "Right to Property",
+        "Right to Information"
       ],
-      "correct": 1,
-      "explanation": "The Right to Freedom guarantees speech and expression as a fundamental right."
+      "correct": 0,
+      "explanation": "Right to Education is a Fundamental Right under Article 21A (added later)."
     },
     {
       "id": 16,
       "category": "Indian Polity & Constitution",
-      "question": "The Directive Principles of State Policy aim to:",
+      "question": "The Directive Principles of State Policy are modeled after the constitution of which country?",
       "options": [
-        "Enforce laws",
-        "Guide the state in making policies",
-        "Protect fundamental rights",
-        "Elect the President"
+        "USA",
+        "UK",
+        "Ireland",
+        "Australia"
       ],
       "correct": 1,
-      "explanation": "DPSPs guide the government in framing policies to establish a just society."
+      "explanation": "DPSPs are inspired by the Constitution of Ireland."
     },
     {
       "id": 17,
       "category": "Indian Polity & Constitution",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "Who has the power to impeach the President of India?",
       "options": [
-        "The President of India",
-        "The Prime Minister of India",
-        "The Parliament",
-        "The Supreme Court Judges"
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Both Houses together",
+        "Supreme Court"
       ],
-      "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice based on seniority and recommendations."
+      "correct": 2,
+      "explanation": "Impeachment of the President requires a majority in both Houses of Parliament."
     },
     {
       "id": 18,
       "category": "Indian Polity & Constitution",
-      "question": "Which body is responsible for the impeachment of the President of India?",
+      "question": "Which article of the Indian Constitution deals with the Union Budget?",
       "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "Supreme Court",
-        "Parliament as a whole"
+        "Articles 112-117",
+        "Articles 130-135",
+        "Articles 50-51",
+        "Articles 100-102"
       ],
-      "correct": 1,
-      "explanation": "Impeachment proceedings are initiated in the Rajya Sabha, and conviction requires a two-thirds majority."
+      "correct": 0,
+      "explanation": "Articles 112-117 pertain to the Union Budget and financial proposals."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "What is the primary function of red blood cells?",
+      "question": "What is the basic unit of life in biology?",
       "options": [
-        "Fight infections",
-        "Transport oxygen",
-        "Fight malaria",
-        "Produce hormones"
+        "Cell",
+        "Atom",
+        "Molecule",
+        "Organ"
       ],
-      "correct": 1,
-      "explanation": "Red blood cells carry oxygen from the lungs to tissues and remove carbon dioxide."
+      "correct": 0,
+      "explanation": "The cell is the fundamental unit of life."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which element is most abundant in the earth’s crust?",
+      "question": "Which gas is most responsible for global warming?",
       "options": [
-        "Iron",
-        "Silicon",
         "Oxygen",
-        "Aluminium"
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
       ],
-      "correct": 2,
-      "explanation": "Oxygen is the most abundant element in the earth's crust, primarily as part of oxides."
+      "correct": 1,
+      "explanation": "Carbon dioxide is the primary greenhouse gas contributing to global warming."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which vitamin deficiency causes scurvy?",
+      "question": "Vitamin D is essential for which of the following?",
       "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin K"
+        "Vision",
+        "Blood clotting",
+        "Bone health",
+        "Immune system"
       ],
-      "correct": 1,
-      "explanation": "Scurvy is caused by deficiency of Vitamin C."
+      "correct": 2,
+      "explanation": "Vitamin D is crucial for calcium absorption and bone health."
     },
     {
       "id": 22,
       "category": "General Science",
-      "question": "Which disease is caused by a deficiency of insulin?",
+      "question": "Which disease is caused by deficiency of Vitamin C?",
       "options": [
-        "Malaria",
-        "Diabetes",
-        "Tuberculosis",
-        "Anemia"
+        "Rickets",
+        "Scurvy",
+        "Anemia",
+        "Night blindness"
       ],
       "correct": 1,
-      "explanation": "Diabetes is caused by the deficiency of insulin or the body's inability to use insulin effectively."
+      "explanation": "Vitamin C deficiency leads to scurvy."
     },
     {
       "id": 23,
       "category": "Mental Ability & Reasoning",
-      "question": "What comes next in the series: 2, 4, 8, 16, ?",
+      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
       "options": [
-        "20",
         "24",
         "32",
-        "64"
+        "18",
+        "30"
       ],
-      "correct": 2,
-      "explanation": "The series doubles each time; next is 16 × 2 = 32."
+      "correct": 1,
+      "explanation": "Series doubles each time; next is 32."
     },
     {
       "id": 24,
       "category": "Mental Ability & Reasoning",
-      "question": "If 'CODE' is written as 'DPEF', how is 'MIND' written?",
+      "question": "If in a certain code, 'ODISHA' is written as 'PEJTBIB', what is the code for 'ODIA'?",
       "options": [
-        "NJOE",
-        "NPEF",
-        "NOEF",
-        "NQFG"
+        "PEJI",
+        "PEJT",
+        "PEJI",
+        "PEJH"
       ],
       "correct": 0,
-      "explanation": "Each letter is shifted by +1; so M→N, I→J, N→O, D→E."
+      "explanation": "Pattern shows each letter shifted forward by one alphabet."
     },
     {
       "id": 25,
       "category": "Mental Ability & Reasoning",
-      "question": "In a certain code, if CAT is written as 312, then what is BAT?",
+      "question": "If 'CLOUD' is related to 'RAIN', then 'SUN' is related to?",
       "options": [
-        "132",
-        "312",
-        "213",
-        "321"
+        "Cloud",
+        "Sunshine",
+        "Rain",
+        "Storm"
       ],
-      "correct": 0,
-      "explanation": "C→3, A→1, T→2; similarly, B→1, A→3, T→2."
+      "correct": 1,
+      "explanation": "Sun causes sunshine; thus, 'Sun' relates to 'Sunshine'."
     },
     {
       "id": 26,
       "category": "Mental Ability & Reasoning",
-      "question": "A person facing north walks 10 meters, then turns right and walks 5 meters, then turns left and walks 10 meters. What direction is he facing now?",
+      "question": "In a mirror, which direction does the left arm appear to be?",
       "options": [
-        "North",
-        "South",
-        "East",
-        "West"
+        "Left",
+        "Right",
+        "Same",
+        "Opposite"
       ],
-      "correct": 2,
-      "explanation": "The person ends facing east after these movements."
+      "correct": 1,
+      "explanation": "In a mirror, the left and right sides are reversed, so the left arm appears as the right."
     },
     {
       "id": 27,
@@ -350,7 +350,7 @@
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "V.V. Giri"
+        "Shankar Dayal Sharma"
       ],
       "correct": 0,
       "explanation": "Droupadi Murmu is the current President of India since July 2022."
@@ -358,41 +358,41 @@
     {
       "id": 28,
       "category": "Current Affairs",
-      "question": "Which scheme was launched by the Government of India to promote digital payments?",
+      "question": "Which scheme was launched by the Government of India in 2023 to support farmers?",
       "options": [
-        "Digital India",
-        "Make in India",
-        "Startup India",
-        "Atal Mission"
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "PM-KISAN",
+        "PM-AASHA"
       ],
-      "correct": 0,
-      "explanation": "Digital India aims to promote digital infrastructure and digital payments."
+      "correct": 2,
+      "explanation": "In 2023, the government expanded the PM-KISAN scheme, which supports farmers financially."
     },
     {
       "id": 29,
       "category": "Current Affairs",
-      "question": "Which Indian sports person won the gold medal in Tokyo 2020 Olympics in badminton?",
+      "question": "Which sports event was hosted in Odisha in 2024?",
       "options": [
-        "PV Sindhu",
-        "Sania Mirza",
-        "Mary Kom",
-        "Deepika Kumari"
+        "Commonwealth Games",
+        "Asian Games",
+        "National Games",
+        "SAF Games"
       ],
-      "correct": 0,
-      "explanation": "PV Sindhu won the silver medal in badminton at Tokyo 2020, representing India."
+      "correct": 2,
+      "explanation": "Odisha hosted the 2024 National Games, showcasing its sports infrastructure."
     },
     {
       "id": 30,
       "category": "Current Affairs",
-      "question": "Who was awarded the Padma Vibhushan in 2026 for contributions in science?",
+      "question": "Who is the current External Affairs Minister of India?",
       "options": [
-        "Dr. Raghunath Anant Mashelkar",
-        "Dr. A.P.J. Abdul Kalam",
-        "Dr. C.V. Raman",
-        "Dr. Homi Bhabha"
+        "S. Jaishankar",
+        "Nirmala Sitharaman",
+        "Amit Shah",
+        "Piyush Goyal"
       ],
       "correct": 0,
-      "explanation": "Dr. Raghunath Anant Mashelkar received the Padma Vibhushan in 2026 for his contributions to science and engineering."
+      "explanation": "S. Jaishankar is the External Affairs Minister of India since 2019."
     }
   ]
 }

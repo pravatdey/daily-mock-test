@@ -1,47 +1,47 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which of the following rulers is associated with the construction of the Iron Pillar of Delhi, which has remained rust-resistant for over a millennium?",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Chandragupta Maurya",
-        "Chandragupta II",
-        "King Chandragupta I",
-        "King Chandragupta of the Gupta Dynasty"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "correct": 1,
-      "explanation": "The Iron Pillar of Delhi is attributed to Chandragupta II of the Gupta Empire, known for its rust-resistant composition and historical significance."
+      "correct": 0,
+      "explanation": "Babur, a descendant of Timur and Genghis Khan, founded the Mughal Empire in India in 1526 after the Battle of Panipat."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "During the Indian freedom struggle, who founded the 'Indian National Army' (INA)?",
+      "question": "Which movement was led by Mahatma Gandhi to protest against salt tax?",
       "options": [
-        "Subhas Chandra Bose",
-        "Bhagat Singh",
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi"
+        "Non-Cooperation Movement",
+        "Dandi March",
+        "Quit India Movement",
+        "Champaran Satyagraha"
       ],
-      "correct": 0,
-      "explanation": "Subhas Chandra Bose founded the Indian National Army (INA) in 1943 to fight against British rule with Japan's support."
+      "correct": 1,
+      "explanation": "The Dandi March of 1930 was led by Mahatma Gandhi to protest the British salt tax, symbolizing civil disobedience."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "In which year did the Jallianwala Bagh massacre take place?",
+      "question": "The Partition of India in 1947 was based on which criterion?",
       "options": [
-        "1919",
-        "1920",
-        "1918",
-        "1921"
+        "Language",
+        "Religion",
+        "Economic Status",
+        "Geographical Location"
       ],
-      "correct": 0,
-      "explanation": "The Jallianwala Bagh massacre occurred in 1919 when British troops open-fired on a large gathering in Amritsar."
+      "correct": 1,
+      "explanation": "The Partition was primarily based on religious lines, dividing India into India and Pakistan along Muslim-Hindu populations."
     },
     {
       "id": 4,
@@ -50,76 +50,76 @@
       "options": [
         "C. Rajagopalachari",
         "Lord Mountbatten",
-        "Dr. Rajendra Prasad",
-        "Lord Wavell"
+        "Rajendra Prasad",
+        "Mahatma Gandhi"
       ],
       "correct": 0,
-      "explanation": "C. Rajagopalachari was the last Governor-General of India, serving until 1950, after which the position was abolished."
+      "explanation": "C. Rajagopalachari served as the last Governor-General of India from 1948 to 1950 after independence."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "Which movement is associated with the Non-Cooperation Movement of 1920-1922?",
+      "question": "The Battle of Plassey was fought in which year?",
       "options": [
-        "Civil Disobedience Movement",
-        "Swadeshi Movement",
-        "Quit India Movement",
-        "Champaran Satyagraha"
+        "1757",
+        "1857",
+        "1657",
+        "1857"
       ],
-      "correct": 1,
-      "explanation": "The Non-Cooperation Movement was primarily associated with the Swadeshi Movement, promoting indigenous goods and boycotting British goods."
+      "correct": 0,
+      "explanation": "The Battle of Plassey took place in 1757 and marked the beginning of British dominance in India."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
+      "question": "Which river is the longest in India?",
       "options": [
         "Ganges",
-        "Koshi",
-        "Son",
-        "Bagmati"
+        "Indus",
+        "Brahmaputra",
+        "Godavari"
       ],
-      "correct": 2,
-      "explanation": "The Son River is called the 'Sorrow of Bihar' because of regular flooding affecting the region."
+      "correct": 1,
+      "explanation": "The Indus River, originating in Tibet, is the longest river flowing through India, Pakistan, and China."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which is the largest coastal state in India by length?",
+      "question": "The 'Thar Desert' is mainly located in which Indian state?",
       "options": [
+        "Rajasthan",
         "Gujarat",
-        "Andhra Pradesh",
-        "Tamil Nadu",
-        "Odisha"
+        "Punjab",
+        "Haryana"
       ],
       "correct": 0,
-      "explanation": "Gujarat has the longest coastline among Indian states, approximately 1,600 km long."
+      "explanation": "The Thar Desert covers most of Rajasthan, forming part of the Great Indian Desert."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "The Thar Desert is primarily spread across which two states?",
+      "question": "Which resource is primarily found in the Deccan Plateau?",
       "options": [
-        "Rajasthan and Gujarat",
-        "Rajasthan and Haryana",
-        "Rajasthan and Punjab",
-        "Rajasthan and Madhya Pradesh"
+        "Coal",
+        "Petroleum",
+        "Manganese",
+        "Bauxite"
       ],
-      "correct": 0,
-      "explanation": "The Thar Desert spans primarily across Rajasthan and parts of Gujarat."
+      "correct": 3,
+      "explanation": "Bauxite, the ore of aluminium, is abundantly found in the Deccan Plateau region."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which climate zone is characterized by significant seasonal variation, including hot summers and cold winters?",
+      "question": "Which climate zone is characterized by high temperatures and low rainfall?",
       "options": [
-        "Tropical",
-        "Arid",
+        "Tropical Rainforest",
+        "Desert",
         "Temperate",
-        "Mediterranean"
+        "Alpine"
       ],
-      "correct": 2,
-      "explanation": "The Temperate climate zone experiences significant seasonal variation with distinct hot summers and cold winters."
+      "correct": 1,
+      "explanation": "Desert climate zones have high temperatures during the day and very low rainfall, typical of the Thar Desert."
     },
     {
       "id": 10,
@@ -127,269 +127,269 @@
       "question": "Who appoints the Chief Justice of India?",
       "options": [
         "President of India",
-        "Prime Minister of India",
-        "Lok Sabha Speaker",
-        "Chief Justice of India"
+        "Parliament",
+        "Supreme Court Judges",
+        "Vice President of India"
       ],
       "correct": 0,
-      "explanation": "The President of India appoints the Chief Justice of India under constitutional provisions."
+      "explanation": "The Chief Justice of India is appointed by the President of India."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution guarantees Fundamental Rights?",
+      "question": "Which article of the Indian Constitution deals with the Union Parliament?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "All of the above"
+        "Article 52",
+        "Article 81",
+        "Article 370",
+        "Article 15"
       ],
-      "correct": 3,
-      "explanation": "Fundamental Rights are guaranteed under Articles 14, 19, 21, and others, collectively providing basic rights to citizens."
+      "correct": 1,
+      "explanation": "Article 81 of the Indian Constitution deals with the composition of the Parliament of India."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "How many members are there in the Rajya Sabha as of 2026?",
+      "question": "The 'Directive Principles of State Policy' are found in which part of the Indian Constitution?",
       "options": [
-        "245",
-        "250",
-        "245 + nominated members",
-        "252"
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part VI"
       ],
-      "correct": 0,
-      "explanation": "The Rajya Sabha has a total of 245 members as per constitutional provisions."
+      "correct": 1,
+      "explanation": "Part IV of the Indian Constitution contains the Directive Principles of State Policy."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Who presides over the Lok Sabha in the absence of the Speaker?",
+      "question": "Which of the following is a fundamental duty under the Indian Constitution?",
       "options": [
-        "Deputy Speaker",
-        "Prime Minister",
-        "Vice President",
-        "President"
+        "To promote harmony",
+        "To protect and improve the natural environment",
+        "To respect the National Flag",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The Deputy Speaker presides over the Lok Sabha when the Speaker is absent."
+      "correct": 3,
+      "explanation": "All listed options are fundamental duties listed under Article 51-A of the Indian Constitution."
     },
     {
       "id": 14,
       "category": "Indian Economy",
-      "question": "The Union Budget of India is presented in which house of Parliament?",
+      "question": "India's Gross Domestic Product (GDP) is measured by which entity?",
       "options": [
-        "Lok Sabha",
-        "Rajya Sabha",
-        "Both Houses",
-        "Finance Commission"
+        "Reserve Bank of India",
+        "Planning Commission",
+        "Ministry of Statistics and Programme Implementation",
+        "World Bank"
       ],
-      "correct": 0,
-      "explanation": "The Union Budget is presented in the Lok Sabha, where bills are introduced and discussed."
+      "correct": 2,
+      "explanation": "India's GDP is primarily estimated and reported by the Ministry of Statistics and Programme Implementation."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "What is the main objective of the Goods and Services Tax (GST) introduced in India?",
+      "question": "The 'Fiscal Deficit' of a government is the difference between:",
       "options": [
-        "Double taxation",
-        "Simplify indirect taxation",
-        "Increase tax rates",
-        "Reduce government revenue"
+        "Revenue and expenditure",
+        "Expenditure and revenue",
+        "Tax revenue and non-tax revenue",
+        "Total revenue and total expenditure"
       ],
       "correct": 1,
-      "explanation": "GST was introduced to unify indirect taxes and simplify the tax structure in India."
+      "explanation": "Fiscal deficit is the difference between the total government expenditure and total revenue (excluding borrowings)."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which institution is responsible for releasing India's GDP estimates?",
+      "question": "Which scheme was launched to support 'Digital India'?",
       "options": [
-        "Reserve Bank of India",
-        "Ministry of Statistics and Programme Implementation",
-        "NITI Aayog",
-        "Planning Commission"
+        "Make in India",
+        "Startup India",
+        "DigiLocker",
+        "Skill India"
       ],
-      "correct": 1,
-      "explanation": "The Ministry of Statistics and Programme Implementation releases India's GDP estimates."
+      "correct": 2,
+      "explanation": "DigiLocker is a key component of Digital India aimed at promoting paperless governance."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "The 'Five Year Plans' in India were formulated primarily by which body?",
+      "question": "India's Goods and Services Tax (GST) was implemented in which year?",
       "options": [
-        "NITI Aayog",
-        "Planning Commission",
-        "Ministry of Finance",
-        "Central Board of Direct Taxes"
+        "2014",
+        "2016",
+        "2018",
+        "2020"
       ],
       "correct": 1,
-      "explanation": "The Planning Commission was responsible for formulating Five Year Plans in India."
+      "explanation": "GST was implemented in India on July 1, 2016, unifying indirect taxation."
     },
     {
       "id": 18,
       "category": "General Science",
-      "question": "Which of the following is the primary greenhouse gas responsible for global warming?",
+      "question": "Which particle is responsible for carrying the current in a metal wire?",
       "options": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Helium"
+        "Protons",
+        "Electrons",
+        "Neutrons",
+        "Ions"
       ],
       "correct": 1,
-      "explanation": "Carbon dioxide is the primary greenhouse gas contributing to global warming."
+      "explanation": "Electrons are responsible for electrical conduction in metals."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which element has the highest electronegativity among the following?",
+      "question": "Which chemical element has the highest melting point?",
       "options": [
-        "Fluorine",
-        "Chlorine",
-        "Oxygen",
-        "Nitrogen"
+        "Tungsten",
+        "Carbon",
+        "Iron",
+        "Gold"
       ],
       "correct": 0,
-      "explanation": "Fluorine has the highest electronegativity among the listed elements."
+      "explanation": "Tungsten has the highest melting point among all elements."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which part of the human body is primarily responsible for regulating blood sugar levels?",
+      "question": "Which organ in the human body is primarily responsible for detoxification?",
       "options": [
         "Liver",
-        "Pancreas",
-        "Kidneys",
-        "Lungs"
+        "Kidney",
+        "Lungs",
+        "Heart"
       ],
-      "correct": 1,
-      "explanation": "The pancreas produces insulin and glucagon, regulating blood sugar levels."
+      "correct": 0,
+      "explanation": "The liver plays a central role in detoxification and metabolism."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which technological advancement is primarily responsible for the Global Positioning System (GPS)?",
+      "question": "What is the primary function of chlorophyll in plants?",
       "options": [
-        "Satellite technology",
-        "Fiber optics",
-        "Quantum computing",
-        "Artificial Intelligence"
+        "Absorb water",
+        "Absorb sunlight for photosynthesis",
+        "Transport nutrients",
+        "Store energy"
       ],
-      "correct": 0,
-      "explanation": "GPS relies on satellite technology to provide location information globally."
+      "correct": 1,
+      "explanation": "Chlorophyll absorbs sunlight, facilitating the process of photosynthesis."
     },
     {
       "id": 22,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a UNESCO World Heritage Site in India known for its rich biodiversity?",
+      "question": "Which is the world's largest biodiversity hotspot?",
       "options": [
-        "Sundarbans",
-        "Kaziranga National Park",
-        "Gir Forest",
-        "Gir National Park"
+        "Amazon Rainforest",
+        "Western Ghats",
+        "Himalayas",
+        "Sundaland"
       ],
       "correct": 0,
-      "explanation": "The Sundarbans is a UNESCO World Heritage Site renowned for its mangrove forests and biodiversity."
+      "explanation": "The Amazon Rainforest is the largest biodiversity hotspot in the world."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which environmental law aims to protect the Great Indian Bustard?",
+      "question": "Which international agreement aims to reduce greenhouse gas emissions?",
       "options": [
-        "Wildlife Protection Act, 1972",
-        "Environmental Protection Act, 1986",
-        "Air Act, 1981",
-        "Water Act, 1974"
-      ],
-      "correct": 0,
-      "explanation": "The Wildlife Protection Act, 1972, includes provisions for protecting endangered species like the Great Indian Bustard."
-    },
-    {
-      "id": 24,
-      "category": "Environment & Ecology",
-      "question": "Which is the primary cause of acid rain formation?",
-      "options": [
-        "Sulfur dioxide and nitrogen oxides",
-        "Carbon monoxide",
-        "Ozone",
-        "Methane"
-      ],
-      "correct": 0,
-      "explanation": "Acid rain is primarily caused by sulfur dioxide and nitrogen oxides released from burning fossil fuels."
-    },
-    {
-      "id": 25,
-      "category": "Environment & Ecology",
-      "question": "Which of the following is a major step taken by India for climate change mitigation?",
-      "options": [
-        "Paris Agreement",
         "Kyoto Protocol",
+        "Geneva Convention",
         "Montreal Protocol",
         "Basel Convention"
       ],
       "correct": 0,
-      "explanation": "India is a signatory to the Paris Agreement aimed at global climate change mitigation."
+      "explanation": "The Kyoto Protocol is an international treaty to reduce emissions of greenhouse gases."
+    },
+    {
+      "id": 24,
+      "category": "Environment & Ecology",
+      "question": "Which national park is known as the 'Eco-Tiger Reserve' in India?",
+      "options": [
+        "Jim Corbett National Park",
+        "Sundarbans National Park",
+        "Kaziranga National Park",
+        "Ranthambore National Park"
+      ],
+      "correct": 0,
+      "explanation": "Jim Corbett National Park is renowned for tiger conservation and eco-tourism."
+    },
+    {
+      "id": 25,
+      "category": "Environment & Ecology",
+      "question": "Which law regulates environmental protection in India?",
+      "options": [
+        "Wildlife Protection Act, 1972",
+        "Environment Protection Act, 1986",
+        "Air Act, 1981",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "All listed laws contribute to environmental regulation in India."
     },
     {
       "id": 26,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who is the current President of India as of 2026?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current President of India?",
       "options": [
         "Droupadi Murmu",
         "Ram Nath Kovind",
         "Pranab Mukherjee",
-        "Ram Nath Reddy"
+        "Shankar Dayal Sharma"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
+      "explanation": "Droupadi Murmu has been serving as the President of India since 25 July 2022."
     },
     {
       "id": 27,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Which country hosted the G20 Summit in 2023?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Prime Minister of India?",
       "options": [
-        "India",
-        "United States",
-        "China",
-        "Germany"
+        "Narendra Modi",
+        "Manmohan Singh",
+        "Amit Shah",
+        "Rahul Gandhi"
       ],
       "correct": 0,
-      "explanation": "India hosted the G20 Summit in 2023."
+      "explanation": "Narendra Modi has been serving as Prime Minister since 26 May 2014."
     },
     {
       "id": 28,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Who among the following is the current External Affairs Minister of India?",
+      "category": "Current Affairs & GK",
+      "question": "The 'Khelo India' scheme is associated with which sector?",
       "options": [
-        "S. Jaishankar",
-        "Nirmala Sitharaman",
-        "Amit Shah",
-        "P. Chidambaram"
+        "Education",
+        "Sports",
+        "Healthcare",
+        "Agriculture"
       ],
-      "correct": 0,
-      "explanation": "S. Jaishankar is the current External Affairs Minister of India."
+      "correct": 1,
+      "explanation": "'Khelo India' is a national program aimed at promoting sports among youth."
     },
     {
       "id": 29,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Which Indian sports person recently won a gold medal at the 2024 Olympics in shooting?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current External Affairs Minister of India?",
       "options": [
-        "Gagan Narang",
-        "Abhinav Bindra",
-        "Rahi Sarnobat",
-        "Jitu Rai"
+        "S. Jaishankar",
+        "A. S. Doval",
+        "Nirmala Sitharaman",
+        "Piyush Goyal"
       ],
-      "correct": 2,
-      "explanation": "Rahi Sarnobat secured a gold medal in shooting at the 2024 Olympics."
+      "correct": 0,
+      "explanation": "S. Jaishankar has been serving as External Affairs Minister since 2019."
     },
     {
       "id": 30,
-      "category": "Current Affairs & General Knowledge",
-      "question": "Mohan Charan Majhi is currently serving as the Chief Minister of which Indian state?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Chief Minister of Odisha?",
       "options": [
-        "Odisha",
-        "Jharkhand",
-        "Bihar",
-        "West Bengal"
+        "Mohan Charan Majhi",
+        "Naveen Patnaik",
+        "Bhubaneswar Das",
+        "Arjun Munda"
       ],
       "correct": 0,
       "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
