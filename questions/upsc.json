@@ -1,247 +1,273 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Who was the founder of the Mughal Empire in India?",
+      "question": "Which ancient Indian text is considered the earliest known example of Indian literary prose?",
       "options": [
-        "Babur",
-        "Akbar",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Vedas",
+        "Arthashastra",
+        "Mahabharata",
+        "Upanishads"
       ],
-      "correct": 0,
-      "explanation": "Babur, a descendant of Timur and Genghis Khan, founded the Mughal Empire in India in 1526 after the Battle of Panipat."
+      "correct": 1,
+      "explanation": "The Arthashastra, attributed to Chanakya, is one of the earliest known examples of Indian prose, focusing on statecraft and economic policy."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Which movement was led by Mahatma Gandhi to protest against salt tax?",
+      "question": "During the Mughal period, which emperor built the city of Shahjahanabad, now known as Old Delhi?",
       "options": [
-        "Non-Cooperation Movement",
-        "Dandi March",
-        "Quit India Movement",
-        "Champaran Satyagraha"
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Shah Jahan"
       ],
-      "correct": 1,
-      "explanation": "The Dandi March of 1930 was led by Mahatma Gandhi to protest the British salt tax, symbolizing civil disobedience."
+      "correct": 3,
+      "explanation": "Shah Jahan commissioned the construction of Shahjahanabad, which is now Old Delhi, in the 17th century."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "The Partition of India in 1947 was based on which criterion?",
+      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
-        "Language",
-        "Religion",
-        "Economic Status",
-        "Geographical Location"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bal Gangadhar Tilak",
+        "Subhas Chandra Bose"
       ],
-      "correct": 1,
-      "explanation": "The Partition was primarily based on religious lines, dividing India into India and Pakistan along Muslim-Hindu populations."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement as part of India's struggle for independence."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Who was the last Governor-General of independent India?",
+      "question": "The Champaran Satyagraha of 1917 was related to protests against which issue?",
       "options": [
-        "C. Rajagopalachari",
-        "Lord Mountbatten",
-        "Rajendra Prasad",
-        "Mahatma Gandhi"
+        "Corruption in administration",
+        "Indigo plantation conditions",
+        "Poor railway services",
+        "Taxation policies"
       ],
-      "correct": 0,
-      "explanation": "C. Rajagopalachari served as the last Governor-General of India from 1948 to 1950 after independence."
+      "correct": 1,
+      "explanation": "The Champaran Satyagraha was a protest against the oppressive indigo plantation policies imposed by British planters."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "The Battle of Plassey was fought in which year?",
+      "question": "Which event marked the beginning of the Indian independence movement in 1857?",
       "options": [
-        "1757",
-        "1857",
-        "1657",
-        "1857"
+        "Partition of Bengal",
+        "First War of Independence",
+        "Jallianwala Bagh Massacre",
+        "Non-Cooperation Movement"
       ],
-      "correct": 0,
-      "explanation": "The Battle of Plassey took place in 1757 and marked the beginning of British dominance in India."
+      "correct": 1,
+      "explanation": "The Revolt of 1857, also called the First War of Independence, marked the start of organized resistance against British rule."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is the longest in India?",
+      "question": "Which is the longest river in India?",
       "options": [
         "Ganges",
-        "Indus",
-        "Brahmaputra",
-        "Godavari"
+        "Godavari",
+        "Yamuna",
+        "Brahmaputra"
       ],
       "correct": 1,
-      "explanation": "The Indus River, originating in Tibet, is the longest river flowing through India, Pakistan, and China."
+      "explanation": "The Godavari is the longest river entirely in India, stretching over approximately 1,465 km."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "The 'Thar Desert' is mainly located in which Indian state?",
+      "question": "The 'Thar Desert' is located primarily in which Indian state?",
       "options": [
         "Rajasthan",
-        "Gujarat",
         "Punjab",
+        "Gujarat",
         "Haryana"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert covers most of Rajasthan, forming part of the Great Indian Desert."
+      "explanation": "The Thar Desert predominantly covers Rajasthan, with parts extending into other states."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which resource is primarily found in the Deccan Plateau?",
+      "question": "Which resource is most abundantly found in the Deccan Plateau?",
       "options": [
         "Coal",
-        "Petroleum",
-        "Manganese",
-        "Bauxite"
+        "Iron ore",
+        "Bauxite",
+        "Mica"
       ],
-      "correct": 3,
-      "explanation": "Bauxite, the ore of aluminium, is abundantly found in the Deccan Plateau region."
+      "correct": 1,
+      "explanation": "The Deccan Plateau is rich in iron ore deposits, making it a significant resource region."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which climate zone is characterized by high temperatures and low rainfall?",
+      "question": "Which climatic factor primarily influences the Indian monsoon?",
       "options": [
-        "Tropical Rainforest",
-        "Desert",
-        "Temperate",
-        "Alpine"
+        "Western disturbances",
+        "Ocean currents",
+        "Differential heating of land and water",
+        "Himalayan snowfall"
       ],
-      "correct": 1,
-      "explanation": "Desert climate zones have high temperatures during the day and very low rainfall, typical of the Thar Desert."
+      "correct": 2,
+      "explanation": "The differential heating between land and ocean creates pressure differences that drive the monsoon winds."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Justice of India?",
+      "question": "The Constitution of India was adopted on:",
       "options": [
-        "President of India",
-        "Parliament",
-        "Supreme Court Judges",
-        "Vice President of India"
+        "26th November 1947",
+        "26th January 1950",
+        "15th August 1947",
+        "26th November 1950"
       ],
-      "correct": 0,
-      "explanation": "The Chief Justice of India is appointed by the President of India."
+      "correct": 1,
+      "explanation": "The Constitution was adopted on 26th November 1949 and came into effect on 26th January 1950."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Union Parliament?",
+      "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
       "options": [
-        "Article 52",
-        "Article 81",
-        "Article 370",
-        "Article 15"
+        "Article 12",
+        "Articles 14 to 18",
+        "Articles 19 to 22",
+        "Articles 32 to 35"
       ],
       "correct": 1,
-      "explanation": "Article 81 of the Indian Constitution deals with the composition of the Parliament of India."
+      "explanation": "Articles 14 to 18 of the Constitution deal with Fundamental Rights."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "The 'Directive Principles of State Policy' are found in which part of the Indian Constitution?",
+      "question": "The Rajya Sabha is known as the:",
       "options": [
-        "Part III",
-        "Part IV",
-        "Part V",
-        "Part VI"
+        "People's House",
+        "House of Elders",
+        "Lok Sabha",
+        "Lower House"
       ],
       "correct": 1,
-      "explanation": "Part IV of the Indian Constitution contains the Directive Principles of State Policy."
+      "explanation": "The Rajya Sabha is often called the 'House of Elders' and is the upper house of Parliament."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a fundamental duty under the Indian Constitution?",
+      "question": "Which body is responsible for amending the Indian Constitution?",
       "options": [
-        "To promote harmony",
-        "To protect and improve the natural environment",
-        "To respect the National Flag",
-        "All of the above"
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Constitutional Assembly",
+        "Parliament with special majority"
       ],
       "correct": 3,
-      "explanation": "All listed options are fundamental duties listed under Article 51-A of the Indian Constitution."
+      "explanation": "Amendments require a special majority in Parliament, involving both houses with specific procedures."
     },
     {
       "id": 14,
       "category": "Indian Economy",
-      "question": "India's Gross Domestic Product (GDP) is measured by which entity?",
+      "question": "The Union Budget of India is presented by the:",
       "options": [
-        "Reserve Bank of India",
-        "Planning Commission",
-        "Ministry of Statistics and Programme Implementation",
-        "World Bank"
+        "Prime Minister",
+        "Finance Minister",
+        "President",
+        "Lok Sabha Speaker"
       ],
-      "correct": 2,
-      "explanation": "India's GDP is primarily estimated and reported by the Ministry of Statistics and Programme Implementation."
+      "correct": 1,
+      "explanation": "The Finance Minister presents the Union Budget in the Parliament."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "The 'Fiscal Deficit' of a government is the difference between:",
+      "question": "Which sector contributes the maximum to India's GDP?",
       "options": [
-        "Revenue and expenditure",
-        "Expenditure and revenue",
-        "Tax revenue and non-tax revenue",
-        "Total revenue and total expenditure"
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Manufacturing"
       ],
-      "correct": 1,
-      "explanation": "Fiscal deficit is the difference between the total government expenditure and total revenue (excluding borrowings)."
+      "correct": 2,
+      "explanation": "The services sector is the largest contributor to India's GDP, accounting for over 50%."
     },
     {
       "id": 16,
       "category": "Indian Economy",
-      "question": "Which scheme was launched to support 'Digital India'?",
+      "question": "The Reserve Bank of India (RBI) is responsible for:",
       "options": [
-        "Make in India",
-        "Startup India",
-        "DigiLocker",
-        "Skill India"
+        "Fiscal policy",
+        "Monetary policy",
+        "Tax collection",
+        "Foreign trade"
       ],
-      "correct": 2,
-      "explanation": "DigiLocker is a key component of Digital India aimed at promoting paperless governance."
+      "correct": 1,
+      "explanation": "RBI manages India’s monetary policy, including interest rates and liquidity."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "India's Goods and Services Tax (GST) was implemented in which year?",
+      "question": "The 'Make in India' initiative primarily promotes:",
       "options": [
-        "2014",
-        "2016",
-        "2018",
-        "2020"
+        "Agricultural exports",
+        "Manufacturing and industrial growth",
+        "Information technology services",
+        "Foreign direct investment in retail"
       ],
       "correct": 1,
-      "explanation": "GST was implemented in India on July 1, 2016, unifying indirect taxation."
+      "explanation": "'Make in India' aims to encourage manufacturing and industrialization."
     },
     {
       "id": 18,
       "category": "General Science",
-      "question": "Which particle is responsible for carrying the current in a metal wire?",
+      "question": "Which scientist is credited with the discovery of the structure of DNA?",
       "options": [
-        "Protons",
-        "Electrons",
-        "Neutrons",
-        "Ions"
+        "James Watson & Francis Crick",
+        "Albert Einstein",
+        "Isaac Newton",
+        "Louis Pasteur"
       ],
-      "correct": 1,
-      "explanation": "Electrons are responsible for electrical conduction in metals."
+      "correct": 0,
+      "explanation": "Watson and Crick discovered the double helix structure of DNA."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which chemical element has the highest melting point?",
+      "question": "Which gas is most responsible for the greenhouse effect?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "correct": 1,
+      "explanation": "Carbon dioxide is the primary greenhouse gas contributing to global warming."
+    },
+    {
+      "id": 20,
+      "category": "General Science",
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct": 1,
+      "explanation": "Mars is called the 'Red Planet' due to its reddish surface appearance."
+    },
+    {
+      "id": 21,
+      "category": "General Science",
+      "question": "Which element has the highest melting point?",
       "options": [
         "Tungsten",
         "Carbon",
@@ -249,150 +275,124 @@
         "Gold"
       ],
       "correct": 0,
-      "explanation": "Tungsten has the highest melting point among all elements."
-    },
-    {
-      "id": 20,
-      "category": "General Science",
-      "question": "Which organ in the human body is primarily responsible for detoxification?",
-      "options": [
-        "Liver",
-        "Kidney",
-        "Lungs",
-        "Heart"
-      ],
-      "correct": 0,
-      "explanation": "The liver plays a central role in detoxification and metabolism."
-    },
-    {
-      "id": 21,
-      "category": "General Science",
-      "question": "What is the primary function of chlorophyll in plants?",
-      "options": [
-        "Absorb water",
-        "Absorb sunlight for photosynthesis",
-        "Transport nutrients",
-        "Store energy"
-      ],
-      "correct": 1,
-      "explanation": "Chlorophyll absorbs sunlight, facilitating the process of photosynthesis."
+      "explanation": "Tungsten has the highest melting point of all elements, approximately 3422°C."
     },
     {
       "id": 22,
       "category": "Environment & Ecology",
-      "question": "Which is the world's largest biodiversity hotspot?",
+      "question": "The Convention on Biological Diversity was opened for signature in the year:",
       "options": [
-        "Amazon Rainforest",
-        "Western Ghats",
-        "Himalayas",
-        "Sundaland"
+        "1992",
+        "2000",
+        "1982",
+        "2010"
       ],
       "correct": 0,
-      "explanation": "The Amazon Rainforest is the largest biodiversity hotspot in the world."
+      "explanation": "The Convention on Biological Diversity was opened for signature at the Earth Summit in 1992."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which international agreement aims to reduce greenhouse gas emissions?",
+      "question": "Which of the following is a critically endangered species in India?",
       "options": [
-        "Kyoto Protocol",
-        "Geneva Convention",
-        "Montreal Protocol",
-        "Basel Convention"
+        "Indian Elephant",
+        "Ganges River Dolphin",
+        "Royal Bengal Tiger",
+        "Great Indian Bustard"
       ],
-      "correct": 0,
-      "explanation": "The Kyoto Protocol is an international treaty to reduce emissions of greenhouse gases."
+      "correct": 3,
+      "explanation": "The Great Indian Bustard is critically endangered due to habitat loss."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "Which national park is known as the 'Eco-Tiger Reserve' in India?",
+      "question": "Which environmental law in India aims to protect the endangered species?",
       "options": [
-        "Jim Corbett National Park",
-        "Sundarbans National Park",
-        "Kaziranga National Park",
-        "Ranthambore National Park"
+        "Wildlife Protection Act, 1972",
+        "Environmental Protection Act, 1986",
+        "Air Act, 1981",
+        "Water Act, 1974"
       ],
       "correct": 0,
-      "explanation": "Jim Corbett National Park is renowned for tiger conservation and eco-tourism."
+      "explanation": "The Wildlife Protection Act, 1972, aims to protect endangered wildlife species."
     },
     {
       "id": 25,
       "category": "Environment & Ecology",
-      "question": "Which law regulates environmental protection in India?",
+      "question": "Which is the largest protected area in India?",
       "options": [
-        "Wildlife Protection Act, 1972",
-        "Environment Protection Act, 1986",
-        "Air Act, 1981",
-        "All of the above"
+        "Kaziranga National Park",
+        "Manas National Park",
+        "Nilgiri Biosphere Reserve",
+        "Sundarbans National Park"
       ],
-      "correct": 3,
-      "explanation": "All listed laws contribute to environmental regulation in India."
+      "correct": 2,
+      "explanation": "The Nilgiri Biosphere Reserve is one of the largest protected areas in India."
     },
     {
       "id": 26,
       "category": "Current Affairs & GK",
-      "question": "Who is the current President of India?",
+      "question": "Who became the first Indian to win the Nobel Prize in Literature?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "Shankar Dayal Sharma"
+        "Rabindranath Tagore",
+        "Malgudi Ramachandran",
+        "Amartya Sen",
+        "V.S. Naipaul"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu has been serving as the President of India since 25 July 2022."
+      "explanation": "Rabindranath Tagore was the first Indian to win the Nobel Prize in Literature in 1913."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Prime Minister of India?",
+      "question": "Which international organization is responsible for governing the green climate fund?",
       "options": [
-        "Narendra Modi",
-        "Manmohan Singh",
-        "Amit Shah",
-        "Rahul Gandhi"
+        "UNFCCC",
+        "WHO",
+        "World Bank",
+        "IMF"
       ],
       "correct": 0,
-      "explanation": "Narendra Modi has been serving as Prime Minister since 26 May 2014."
+      "explanation": "UNFCCC (United Nations Framework Convention on Climate Change) oversees the Green Climate Fund."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "The 'Khelo India' scheme is associated with which sector?",
+      "question": "Which Indian sports person recently won an Olympic medal in badminton?",
       "options": [
-        "Education",
-        "Sports",
-        "Healthcare",
-        "Agriculture"
+        "PV Sindhu",
+        "Saina Nehwal",
+        "Kidambi Srikanth",
+        "Lakshya Sen"
       ],
-      "correct": 1,
-      "explanation": "'Khelo India' is a national program aimed at promoting sports among youth."
+      "correct": 0,
+      "explanation": "PV Sindhu won a silver medal at the Tokyo 2020 Olympics in badminton."
     },
     {
       "id": 29,
       "category": "Current Affairs & GK",
-      "question": "Who is the current External Affairs Minister of India?",
+      "question": "Which scheme was launched by the Government of India to promote digital payments?",
       "options": [
-        "S. Jaishankar",
-        "A. S. Doval",
-        "Nirmala Sitharaman",
-        "Piyush Goyal"
+        "Digital India",
+        "Make in India",
+        "Startup India",
+        "Atal Mission"
       ],
       "correct": 0,
-      "explanation": "S. Jaishankar has been serving as External Affairs Minister since 2019."
+      "explanation": "Digital India aims to promote digital payments and digital infrastructure."
     },
     {
       "id": 30,
       "category": "Current Affairs & GK",
-      "question": "Who is the current Chief Minister of Odisha?",
+      "question": "Which country hosted the G20 summit in 2023?",
       "options": [
-        "Mohan Charan Majhi",
-        "Naveen Patnaik",
-        "Bhubaneswar Das",
-        "Arjun Munda"
+        "India",
+        "Italy",
+        "Germany",
+        "Japan"
       ],
       "correct": 0,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "explanation": "India hosted the G20 summit in 2023, which was a significant international event."
     }
   ]
 }
