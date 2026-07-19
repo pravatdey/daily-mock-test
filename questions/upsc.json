@@ -1,208 +1,195 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "Which ancient Indian text primarily deals with political ethics and duties of rulers and citizens?",
+      "question": "During which period did the Mughal Emperor Akbar reign?",
       "options": [
-        "Mahabharata",
-        "Arthashastra",
-        "Ramayana",
-        "Upanishads"
+        "1556–1605",
+        "1628–1658",
+        "1707–1739",
+        "1757–1775"
       ],
-      "correct": 1,
-      "explanation": "The Arthashastra, attributed to Chanakya, is an ancient Indian treatise on statecraft, economic policy, and military strategy."
+      "correct": 0,
+      "explanation": "Akbar reigned from 1556 to 1605, establishing the Mughal empire's greatest territorial extent."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the leader of the Salt March during India's Freedom Struggle?",
+      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
       "options": [
-        "Jawaharlal Nehru",
         "Mahatma Gandhi",
+        "Jawaharlal Nehru",
         "Subhas Chandra Bose",
-        "Bhagat Singh"
+        "Bal Gangadhar Tilak"
       ],
-      "correct": 1,
-      "explanation": "Mahatma Gandhi led the Salt March in 1930 as part of his nonviolent resistance against British salt laws."
+      "correct": 0,
+      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement against British rule in 1920."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "The Battle of Plassey in 1757 marked the beginning of which of the following eras in Indian history?",
+      "question": "Which event marked the beginning of the Indian Independence struggle?",
       "options": [
-        "Maratha Empire",
-        "British East India Company dominance",
-        "Mughal decline",
-        "Vijayanagara Empire"
+        "Jallianwala Bagh Massacre",
+        "Champaran Satyagraha",
+        "Partition of Bengal",
+        "Formation of Indian National Congress"
       ],
-      "correct": 1,
-      "explanation": "The Battle of Plassey was a decisive victory for the British East India Company, leading to the establishment of their dominance in India."
+      "correct": 3,
+      "explanation": "The formation of the Indian National Congress in 1885 marked the beginning of organized political struggle for independence."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Which movement was launched by Bal Gangadhar Tilak in 1893 to promote Indian self-confidence?",
+      "question": "Who was the first President of India?",
       "options": [
-        "Non-Cooperation Movement",
-        "Swadeshi Movement",
-        "Home Rule Movement",
-        "Veer Savarkar's Abhinav Bharat"
+        "Dr. Rajendra Prasad",
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
       ],
-      "correct": 1,
-      "explanation": "Tilak promoted the Swadeshi Movement, encouraging Indian self-reliance and boycott of British goods."
+      "correct": 0,
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "When did India gain independence from British rule?",
+      "question": "The ‘Satyagraha’ concept was introduced by:",
       "options": [
-        "1947",
-        "1950",
-        "1935",
-        "1962"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bal Gangadhar Tilak"
       ],
       "correct": 0,
-      "explanation": "India gained independence on August 15, 1947."
+      "explanation": "Mahatma Gandhi introduced the concept of Satyagraha as a non-violent resistance method."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which is the longest river in India?",
+      "question": "Which river is known as the 'Dakshina Ganga'?",
       "options": [
-        "Ganga",
         "Godavari",
-        "Yamuna",
-        "Brahmaputra"
+        "Kaveri",
+        "Narmada",
+        "Tungabhadra"
       ],
       "correct": 1,
-      "explanation": "The Godavari is the longest river in India, flowing over 1,800 km."
+      "explanation": "The Kaveri River is often referred to as 'Dakshina Ganga' due to its spiritual significance."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which Indian state is the largest producer of tea?",
+      "question": "Which is the largest saltwater lake in India?",
       "options": [
-        "Assam",
-        "West Bengal",
-        "Kerala",
-        "Tamil Nadu"
+        "Chilika Lake",
+        "Loktak Lake",
+        "Sundarbans",
+        "Wular Lake"
       ],
       "correct": 0,
-      "explanation": "Assam is the largest tea-producing state in India."
+      "explanation": "Chilika Lake is the largest coastal lagoon and saltwater lake in India."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "Which climate zone is characterized by high temperatures and heavy rainfall?",
+      "question": "The 'Thar Desert' is primarily located in which Indian state?",
       "options": [
-        "Desert",
-        "Tropical Wet",
-        "Tundra",
-        "Temperate"
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Haryana"
       ],
-      "correct": 1,
-      "explanation": "The Tropical Wet climate zone experiences high temperatures and heavy rainfall."
+      "correct": 0,
+      "explanation": "The Thar Desert is mainly in Rajasthan, covering parts of Gujarat, Punjab, and Haryana."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which mineral resource is most abundantly found in Jharkhand?",
+      "question": "Which Indian river is known for creating the 'Sundarbans' delta?",
       "options": [
-        "Coal",
-        "Bauxite",
-        "Iron Ore",
-        "Manganese"
+        "Ganges",
+        "Brahmaputra",
+        "Indus",
+        "Godavari"
       ],
-      "correct": 0,
-      "explanation": "Jharkhand is rich in coal deposits, making it a major coal-producing state."
+      "correct": 1,
+      "explanation": "The Brahmaputra, combined with the Ganges, forms the Sundarbans delta—the world's largest delta."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who is the current President of India?",
+      "question": "Who is the current Chief Justice of India as of 2026?",
       "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "Ram Nath Singh"
+        "Surya Kant",
+        "Dhananjaya Y. Chandrachud",
+        "Uday U. Lalit",
+        "N. Venkata Ramana"
       ],
       "correct": 0,
-      "explanation": "Droupadi Murmu is the current President of India since 25 July 2022."
+      "explanation": "Surya Kant is the current Chief Justice of India as of 2026."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the Right to Equality?",
+      "question": "The Fundamental Rights are enshrined in which part of the Indian Constitution?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 32"
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part VI"
       ],
       "correct": 0,
-      "explanation": "Article 14 guarantees equality before the law and equal protection of laws."
+      "explanation": "Part III of the Indian Constitution guarantees Fundamental Rights."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Who is the current Chief Justice of India?",
+      "question": "Who appoints the Chief Election Commissioner of India?",
       "options": [
-        "Surya Kant",
-        "Justice Chandrachud",
-        "Justice Mishra",
-        "Justice Ramana"
+        "The President",
+        "The Prime Minister",
+        "The Parliament",
+        "The Supreme Court"
       ],
       "correct": 0,
-      "explanation": "Justice Surya Kant is the current Chief Justice of India as of 24 November 2025."
+      "explanation": "The President of India appoints the Chief Election Commissioner."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "The Panchayati Raj system is based on which article of the Indian Constitution?",
+      "question": "Which of the following is NOT a fundamental duty under the Indian Constitution?",
       "options": [
-        "Article 243",
-        "Article 370",
-        "Article 356",
-        "Article 215"
+        "To abide by the Constitution",
+        "To promote harmony",
+        "To pay taxes",
+        "To own property"
       ],
-      "correct": 0,
-      "explanation": "Article 243 establishes the Panchayati Raj system in India."
+      "correct": 3,
+      "explanation": "Ownership of property is not a fundamental duty; it's a legal right."
     },
     {
       "id": 14,
-      "category": "Indian Polity & Governance",
-      "question": "Which Fundamental Right guarantees the right to vote to every adult citizen?",
+      "category": "Indian Economy",
+      "question": "The Union Budget of India is presented annually by the:",
       "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right to Constitutional Remedies",
-        "Right to Vote"
+        "President",
+        "Finance Minister",
+        "Prime Minister",
+        "Parliament"
       ],
-      "correct": 3,
-      "explanation": "The right to vote is part of the Right to Vote, enshrined in the Constitution and related laws."
+      "correct": 1,
+      "explanation": "The Finance Minister presents the Union Budget every year."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Who is responsible for presenting the Union Budget in India?",
-      "options": [
-        "President of India",
-        "Finance Minister",
-        "Prime Minister",
-        "Lok Sabha Speaker"
-      ],
-      "correct": 1,
-      "explanation": "The Finance Minister presents the Union Budget in the Parliament."
-    },
-    {
-      "id": 16,
-      "category": "Indian Economy",
-      "question": "Which sector contributes the maximum to India's GDP?",
+      "question": "Which sector contributes the most to India’s GDP?",
       "options": [
         "Agriculture",
         "Industry",
@@ -210,189 +197,202 @@
         "Manufacturing"
       ],
       "correct": 2,
-      "explanation": "The services sector is the largest contributor to India's GDP."
+      "explanation": "The services sector contributes the largest share to India’s GDP."
+    },
+    {
+      "id": 16,
+      "category": "Indian Economy",
+      "question": "What does 'FII' stand for in economic terms?",
+      "options": [
+        "Foreign Institutional Investor",
+        "Foreign Investment Insurance",
+        "Foreign Institutional Income",
+        "Foreign Investment Index"
+      ],
+      "correct": 0,
+      "explanation": "'FII' stands for Foreign Institutional Investor, which invests in India’s financial markets."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "What does 'GDP' stand for?",
+      "question": "The 'Make in India' initiative primarily aims to promote:",
       "options": [
-        "Gross Domestic Product",
-        "Gross Development Plan",
-        "General Development Phrase",
-        "Gross Domestic Process"
+        "Export of services",
+        "Manufacturing and industrial growth",
+        "Agricultural exports",
+        "Digital economy"
       ],
-      "correct": 0,
-      "explanation": "GDP stands for Gross Domestic Product, representing the total value of goods and services produced."
+      "correct": 1,
+      "explanation": "The 'Make in India' initiative seeks to promote manufacturing and industrial development."
     },
     {
       "id": 18,
-      "category": "Indian Economy",
-      "question": "Which Five Year Plan marked the start of the Green Revolution in India?",
+      "category": "General Science",
+      "question": "Which planet is known as the ‘Red Planet’?",
       "options": [
-        "First Five Year Plan",
-        "Second Five Year Plan",
-        "Third Five Year Plan",
-        "Fourth Five Year Plan"
+        "Mars",
+        "Jupiter",
+        "Venus",
+        "Saturn"
       ],
-      "correct": 1,
-      "explanation": "The Second Five Year Plan (1956-1961) promoted the Green Revolution, especially in Punjab."
+      "correct": 0,
+      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "Which element is most abundant in the Earth's crust?",
+      "question": "The element used in nuclear reactors as a moderator is:",
       "options": [
-        "Oxygen",
-        "Silicon",
-        "Aluminium",
-        "Iron"
+        "Uranium",
+        "Graphite",
+        "Plutonium",
+        "Radon"
       ],
-      "correct": 0,
-      "explanation": "Oxygen is the most abundant element in the Earth's crust."
+      "correct": 1,
+      "explanation": "Graphite is commonly used as a neutron moderator in nuclear reactors."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which scientist is credited with the discovery of the law of gravity?",
+      "question": "Which biological molecule is primarily responsible for carrying genetic information?",
       "options": [
-        "Albert Einstein",
-        "Galileo Galilei",
-        "Isaac Newton",
-        "Johannes Kepler"
+        "Protein",
+        "Lipids",
+        "DNA",
+        "Carbohydrates"
       ],
       "correct": 2,
-      "explanation": "Isaac Newton formulated the law of universal gravitation."
+      "explanation": "DNA carries genetic information in living organisms."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "Which part of the plant is responsible for photosynthesis?",
+      "question": "The principle of working of a laser is based on:",
       "options": [
-        "Root",
-        "Stem",
-        "Leaf",
-        "Flower"
+        "Refraction",
+        "Reflexion",
+        "Stimulated emission",
+        "Absorption"
       ],
       "correct": 2,
-      "explanation": "Leaves contain chlorophyll and are the primary sites of photosynthesis."
+      "explanation": "Laser operation is based on stimulated emission of photons."
     },
     {
       "id": 22,
-      "category": "General Science",
-      "question": "Which technology is used in the creation of a satellite's communication system?",
+      "category": "Environment & Ecology",
+      "question": "Which of the following is a flagship species for biodiversity conservation in India?",
       "options": [
-        "GPS",
-        "RF Communication",
-        "Fiber Optics",
-        "Microwave Technology"
+        "Royal Bengal Tiger",
+        "Indian Rhinoceros",
+        "King Cobra",
+        "Indian Peafowl"
       ],
-      "correct": 3,
-      "explanation": "Microwave technology is key in satellite communication systems."
+      "correct": 0,
+      "explanation": "The Royal Bengal Tiger is the flagship species of India for conservation efforts."
     },
     {
       "id": 23,
       "category": "Environment & Ecology",
-      "question": "Which of the following is a UNESCO World Heritage Site in India known for its biodiversity?",
+      "question": "The 'Kyoto Protocol' is related to:",
       "options": [
-        "Sundarbans",
-        "Kaziranga National Park",
-        "Gir National Park",
-        "Kaziranga National Park"
+        "Biodiversity conservation",
+        "Climate Change mitigation",
+        "Ozone layer protection",
+        "Water pollution control"
       ],
-      "correct": 0,
-      "explanation": "The Sundarbans is a UNESCO World Heritage Site known for its mangrove forests and biodiversity."
+      "correct": 1,
+      "explanation": "Kyoto Protocol aims to reduce greenhouse gas emissions contributing to climate change."
     },
     {
       "id": 24,
       "category": "Environment & Ecology",
-      "question": "The term 'climate change' mainly refers to which of the following?",
+      "question": "Which Indian National Park is a UNESCO World Heritage Site known for its Bengal Tigers?",
       "options": [
-        "Natural variability of climate",
-        "Global warming due to greenhouse gases",
-        "Deforestation",
-        "Urbanization"
+        "Jim Corbett National Park",
+        "Kaziranga National Park",
+        "Sundarbans National Park",
+        "Bandipur National Park"
       ],
-      "correct": 1,
-      "explanation": "Climate change mainly refers to long-term changes in global temperatures caused by greenhouse gases."
+      "correct": 2,
+      "explanation": "The Sundarbans National Park is famous for Bengal tigers and is a UNESCO World Heritage Site."
     },
     {
       "id": 25,
-      "category": "Environment & Ecology",
-      "question": "Which environmental law regulates the control of air pollution in India?",
+      "category": "Current Affairs & GK",
+      "question": "Who is the current President of India as of 2026?",
       "options": [
-        "Wildlife Protection Act",
-        "Air Act, 1981",
-        "Water Act, 1974",
-        "Environment Protection Act"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "Venkaya Naidu"
       ],
-      "correct": 1,
-      "explanation": "The Air (Prevention and Control of Pollution) Act, 1981 regulates air pollution."
+      "correct": 0,
+      "explanation": "Droupadi Murmu has been the President of India since 2022."
     },
     {
       "id": 26,
-      "category": "Environment & Ecology",
-      "question": "Which international agreement aims to reduce the emissions of greenhouse gases globally?",
+      "category": "Current Affairs & GK",
+      "question": "Which scheme was launched in 2014 to promote digital payments in India?",
       "options": [
-        "Kyoto Protocol",
-        "Montreal Protocol",
-        "Biological Diversity Act",
-        "Paris Agreement"
+        "Digital India",
+        "Start-Up India",
+        "Make in India",
+        "Jan Dhan Yojana"
       ],
-      "correct": 3,
-      "explanation": "The Paris Agreement aims to limit global temperature rise by reducing greenhouse gases."
+      "correct": 0,
+      "explanation": "'Digital India' was launched to promote digital payments and digital infrastructure."
     },
     {
       "id": 27,
       "category": "Current Affairs & GK",
-      "question": "Who is the current External Affairs Minister of India?",
+      "question": "Who was awarded the Nobel Peace Prize in 2025?",
       "options": [
-        "S. Jaishankar",
-        "Nirmala Sitharaman",
-        "Amit Shah",
-        "Piyush Goyal"
+        "UN Peacekeepers",
+        "Malala Yousafzai",
+        "Greta Thunberg",
+        "International Campaign to Abolish Nuclear Weapons"
       ],
-      "correct": 0,
-      "explanation": "S. Jaishankar is the current External Affairs Minister of India."
+      "correct": 3,
+      "explanation": "The 2025 Nobel Peace Prize was awarded to the International Campaign to Abolish Nuclear Weapons."
     },
     {
       "id": 28,
       "category": "Current Affairs & GK",
-      "question": "Which award is given annually for excellence in journalism in India?",
-      "options": [
-        "Jnanpith Award",
-        "Padma Shri",
-        "Ramnath Goenka Award",
-        "Dadasaheb Phalke Award"
-      ],
-      "correct": 2,
-      "explanation": "The Ramnath Goenka Award recognizes excellence in journalism."
-    },
-    {
-      "id": 29,
-      "category": "Current Affairs & GK",
-      "question": "Which scheme was launched by the Government of India to promote digital payments?",
-      "options": [
-        "Digital India",
-        "Make in India",
-        "Startup India",
-        "Atal Mission for Rejuvenation and Urban Transformation"
-      ],
-      "correct": 0,
-      "explanation": "Digital India aims to promote digital payments and digital infrastructure."
-    },
-    {
-      "id": 30,
-      "category": "Current Affairs & GK",
       "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
       "options": [
         "Odisha",
-        "Bihar",
         "West Bengal",
+        "Bihar",
         "Chhattisgarh"
       ],
       "correct": 0,
-      "explanation": "Mohan Charan Majhi is the current Chief Minister of Odisha since 12 June 2024."
+      "explanation": "Mohan Charan Majhi is the Chief Minister of Odisha since June 2024."
+    },
+    {
+      "id": 29,
+      "category": "Indian Science & Technology",
+      "question": "Which technology is used in the operation of the GPS system?",
+      "options": [
+        "Radio signals",
+        "Infrared sensors",
+        "Optical fibers",
+        "Ultrasound"
+      ],
+      "correct": 0,
+      "explanation": "GPS relies on radio signals from satellites to determine location."
+    },
+    {
+      "id": 30,
+      "category": "Indian Science & Technology",
+      "question": "Which space agency launched the Mars Orbiter Mission (Mangalyaan)?",
+      "options": [
+        "NASA",
+        "ISRO",
+        "ESA",
+        "Roscosmos"
+      ],
+      "correct": 1,
+      "explanation": "ISRO launched the Mars Orbiter Mission (Mangalyaan) in 2013."
     }
   ]
 }
