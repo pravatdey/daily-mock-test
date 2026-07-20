@@ -1,195 +1,208 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Indian History",
-      "question": "During which period did the Mughal Emperor Akbar reign?",
+      "question": "Which ancient Indian text is considered the oldest among the Vedas?",
       "options": [
-        "1556–1605",
-        "1628–1658",
-        "1707–1739",
-        "1757–1775"
+        "Atharva Veda",
+        "Yajur Veda",
+        "Rig Veda",
+        "Sama Veda"
       ],
-      "correct": 0,
-      "explanation": "Akbar reigned from 1556 to 1605, establishing the Mughal empire's greatest territorial extent."
+      "correct": 2,
+      "explanation": "Rig Veda is the oldest of the four Vedas, composed around 1500–1200 BCE."
     },
     {
       "id": 2,
       "category": "Indian History",
-      "question": "Who was the leader of the Non-Cooperation Movement launched in 1920?",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bal Gangadhar Tilak"
+        "Babur",
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement against British rule in 1920."
+      "explanation": "Babur founded the Mughal Empire in India in 1526 after the Battle of Panipat."
     },
     {
       "id": 3,
       "category": "Indian History",
-      "question": "Which event marked the beginning of the Indian Independence struggle?",
+      "question": "Which movement was initiated by Mahatma Gandhi in 1942 calling for complete independence from British rule?",
       "options": [
-        "Jallianwala Bagh Massacre",
-        "Champaran Satyagraha",
-        "Partition of Bengal",
-        "Formation of Indian National Congress"
+        "Non-Cooperation Movement",
+        "Civil Disobedience Movement",
+        "Quit India Movement",
+        "Champaran Satyagraha"
       ],
-      "correct": 3,
-      "explanation": "The formation of the Indian National Congress in 1885 marked the beginning of organized political struggle for independence."
+      "correct": 2,
+      "explanation": "The Quit India Movement was launched in 1942 demanding an end to British rule."
     },
     {
       "id": 4,
       "category": "Indian History",
-      "question": "Who was the first President of India?",
+      "question": "Who was the leader of the Indian National Army (INA) during World War II?",
       "options": [
-        "Dr. Rajendra Prasad",
-        "Dr. B.R. Ambedkar",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
+        "Bhagat Singh",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru"
       ],
-      "correct": 0,
-      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
+      "correct": 1,
+      "explanation": "Subhas Chandra Bose was the leader of the INA and a prominent freedom fighter."
     },
     {
       "id": 5,
       "category": "Indian History",
-      "question": "The ‘Satyagraha’ concept was introduced by:",
+      "question": "The Partition of India took place in which year?",
       "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Subhas Chandra Bose",
-        "Bal Gangadhar Tilak"
+        "1947",
+        "1950",
+        "1945",
+        "1952"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi introduced the concept of Satyagraha as a non-violent resistance method."
+      "explanation": "India was partitioned in 1947, leading to the creation of India and Pakistan."
     },
     {
       "id": 6,
       "category": "Indian Geography",
-      "question": "Which river is known as the 'Dakshina Ganga'?",
+      "question": "Which river is considered the longest in India?",
       "options": [
+        "Ganges",
         "Godavari",
-        "Kaveri",
-        "Narmada",
-        "Tungabhadra"
+        "Brahmaputra",
+        "Indus"
       ],
       "correct": 1,
-      "explanation": "The Kaveri River is often referred to as 'Dakshina Ganga' due to its spiritual significance."
+      "explanation": "The Godavari River is the longest river in India, approximately 1,465 km long."
     },
     {
       "id": 7,
       "category": "Indian Geography",
-      "question": "Which is the largest saltwater lake in India?",
+      "question": "The Thar Desert is located mainly in which Indian state?",
       "options": [
-        "Chilika Lake",
-        "Loktak Lake",
-        "Sundarbans",
-        "Wular Lake"
+        "Rajasthan",
+        "Punjab",
+        "Gujarat",
+        "Haryana"
       ],
       "correct": 0,
-      "explanation": "Chilika Lake is the largest coastal lagoon and saltwater lake in India."
+      "explanation": "The Thar Desert is primarily in Rajasthan."
     },
     {
       "id": 8,
       "category": "Indian Geography",
-      "question": "The 'Thar Desert' is primarily located in which Indian state?",
+      "question": "Which climate zone is predominant in the Western Ghats?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Punjab",
-        "Haryana"
+        "Tropical monsoon",
+        "Arid",
+        "Tundra",
+        "Mediterranean"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert is mainly in Rajasthan, covering parts of Gujarat, Punjab, and Haryana."
+      "explanation": "The Western Ghats experience a tropical monsoon climate with heavy rainfall."
     },
     {
       "id": 9,
       "category": "Indian Geography",
-      "question": "Which Indian river is known for creating the 'Sundarbans' delta?",
+      "question": "Which mineral resource is found abundantly in Odisha?",
       "options": [
-        "Ganges",
-        "Brahmaputra",
-        "Indus",
-        "Godavari"
+        "Coal",
+        "Bauxite",
+        "Iron ore",
+        "Manganese"
       ],
       "correct": 1,
-      "explanation": "The Brahmaputra, combined with the Ganges, forms the Sundarbans delta—the world's largest delta."
+      "explanation": "Odisha is rich in bauxite, used for aluminium production."
     },
     {
       "id": 10,
       "category": "Indian Polity & Governance",
-      "question": "Who is the current Chief Justice of India as of 2026?",
+      "question": "Who is the current President of India?",
       "options": [
-        "Surya Kant",
-        "Dhananjaya Y. Chandrachud",
-        "Uday U. Lalit",
-        "N. Venkata Ramana"
+        "Droupadi Murmu",
+        "Ram Nath Kovind",
+        "Pranab Mukherjee",
+        "Ram Nath Singh"
       ],
       "correct": 0,
-      "explanation": "Surya Kant is the current Chief Justice of India as of 2026."
+      "explanation": "Droupadi Murmu has been the President of India since 25 July 2022."
     },
     {
       "id": 11,
       "category": "Indian Polity & Governance",
-      "question": "The Fundamental Rights are enshrined in which part of the Indian Constitution?",
+      "question": "The right to vote in India is a part of which fundamental right?",
       "options": [
-        "Part III",
-        "Part IV",
-        "Part V",
-        "Part VI"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Right to Constitutional Remedies"
       ],
-      "correct": 0,
-      "explanation": "Part III of the Indian Constitution guarantees Fundamental Rights."
+      "correct": 3,
+      "explanation": "The right to vote is included under the Right to Constitutional Remedies (Article 32)."
     },
     {
       "id": 12,
       "category": "Indian Polity & Governance",
-      "question": "Who appoints the Chief Election Commissioner of India?",
+      "question": "Who appoints the Chief Justice of India?",
       "options": [
         "The President",
         "The Prime Minister",
         "The Parliament",
-        "The Supreme Court"
+        "The Law Minister"
       ],
       "correct": 0,
-      "explanation": "The President of India appoints the Chief Election Commissioner."
+      "explanation": "The Chief Justice of India is appointed by the President of India."
     },
     {
       "id": 13,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is NOT a fundamental duty under the Indian Constitution?",
+      "question": "Which article of the Indian Constitution deals with the Panchayati Raj system?",
       "options": [
-        "To abide by the Constitution",
-        "To promote harmony",
-        "To pay taxes",
-        "To own property"
+        "Article 243",
+        "Article 370",
+        "Article 356",
+        "Article 15"
       ],
-      "correct": 3,
-      "explanation": "Ownership of property is not a fundamental duty; it's a legal right."
+      "correct": 0,
+      "explanation": "Articles 243 to 243-ZG deal with Panchayati Raj institutions."
     },
     {
       "id": 14,
-      "category": "Indian Economy",
-      "question": "The Union Budget of India is presented annually by the:",
+      "category": "Indian Polity & Governance",
+      "question": "The independence of the judiciary is guaranteed by which fundamental right?",
       "options": [
-        "President",
-        "Finance Minister",
-        "Prime Minister",
-        "Parliament"
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Property",
+        "Right to Equality before Law"
       ],
-      "correct": 1,
-      "explanation": "The Finance Minister presents the Union Budget every year."
+      "correct": 3,
+      "explanation": "Article 14 ensures equality before the law, safeguarding judicial independence."
     },
     {
       "id": 15,
       "category": "Indian Economy",
-      "question": "Which sector contributes the most to India’s GDP?",
+      "question": "India's Union Budget is presented by the?",
+      "options": [
+        "Finance Minister",
+        "Prime Minister",
+        "President",
+        "Chief Justice"
+      ],
+      "correct": 0,
+      "explanation": "The Finance Minister presents the Union Budget in Parliament."
+    },
+    {
+      "id": 16,
+      "category": "Indian Economy",
+      "question": "Which sector contributes the highest to India’s GDP?",
       "options": [
         "Agriculture",
         "Industry",
@@ -197,202 +210,189 @@
         "Manufacturing"
       ],
       "correct": 2,
-      "explanation": "The services sector contributes the largest share to India’s GDP."
-    },
-    {
-      "id": 16,
-      "category": "Indian Economy",
-      "question": "What does 'FII' stand for in economic terms?",
-      "options": [
-        "Foreign Institutional Investor",
-        "Foreign Investment Insurance",
-        "Foreign Institutional Income",
-        "Foreign Investment Index"
-      ],
-      "correct": 0,
-      "explanation": "'FII' stands for Foreign Institutional Investor, which invests in India’s financial markets."
+      "explanation": "The services sector is the largest contributor to India’s GDP."
     },
     {
       "id": 17,
       "category": "Indian Economy",
-      "question": "The 'Make in India' initiative primarily aims to promote:",
+      "question": "Which financial institution is responsible for monetary policy in India?",
       "options": [
-        "Export of services",
-        "Manufacturing and industrial growth",
-        "Agricultural exports",
-        "Digital economy"
+        "RBI (Reserve Bank of India)",
+        "SEBI",
+        "ICICI Bank",
+        "Ministry of Finance"
       ],
-      "correct": 1,
-      "explanation": "The 'Make in India' initiative seeks to promote manufacturing and industrial development."
+      "correct": 0,
+      "explanation": "The Reserve Bank of India (RBI) formulates monetary policy."
     },
     {
       "id": 18,
-      "category": "General Science",
-      "question": "Which planet is known as the ‘Red Planet’?",
+      "category": "Indian Economy",
+      "question": "The 'Make in India' initiative aims to promote:",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Venus",
-        "Saturn"
+        "Agricultural exports",
+        "Manufacturing sector",
+        "Information technology",
+        "Foreign direct investment"
       ],
-      "correct": 0,
-      "explanation": "Mars is called the 'Red Planet' due to its reddish appearance caused by iron oxide."
+      "correct": 1,
+      "explanation": "'Make in India' aims to boost manufacturing in India."
     },
     {
       "id": 19,
       "category": "General Science",
-      "question": "The element used in nuclear reactors as a moderator is:",
+      "question": "Which law explains the phenomenon of electromagnetic induction?",
       "options": [
-        "Uranium",
-        "Graphite",
-        "Plutonium",
-        "Radon"
+        "Faraday’s Law",
+        "Ohm’s Law",
+        "Newton’s Law",
+        "Hooke’s Law"
       ],
-      "correct": 1,
-      "explanation": "Graphite is commonly used as a neutron moderator in nuclear reactors."
+      "correct": 0,
+      "explanation": "Faraday’s Law describes electromagnetic induction."
     },
     {
       "id": 20,
       "category": "General Science",
-      "question": "Which biological molecule is primarily responsible for carrying genetic information?",
+      "question": "Which element is most abundant in the Earth's crust?",
       "options": [
-        "Protein",
-        "Lipids",
-        "DNA",
-        "Carbohydrates"
+        "Oxygen",
+        "Silicon",
+        "Aluminum",
+        "Iron"
       ],
-      "correct": 2,
-      "explanation": "DNA carries genetic information in living organisms."
+      "correct": 0,
+      "explanation": "Oxygen is the most abundant element in the Earth's crust."
     },
     {
       "id": 21,
       "category": "General Science",
-      "question": "The principle of working of a laser is based on:",
+      "question": "The process of photosynthesis occurs in which part of the plant?",
       "options": [
-        "Refraction",
-        "Reflexion",
-        "Stimulated emission",
-        "Absorption"
+        "Root",
+        "Stem",
+        "Leaf",
+        "Flower"
       ],
       "correct": 2,
-      "explanation": "Laser operation is based on stimulated emission of photons."
+      "explanation": "Photosynthesis occurs mainly in the leaves of plants."
     },
     {
       "id": 22,
-      "category": "Environment & Ecology",
-      "question": "Which of the following is a flagship species for biodiversity conservation in India?",
-      "options": [
-        "Royal Bengal Tiger",
-        "Indian Rhinoceros",
-        "King Cobra",
-        "Indian Peafowl"
-      ],
-      "correct": 0,
-      "explanation": "The Royal Bengal Tiger is the flagship species of India for conservation efforts."
-    },
-    {
-      "id": 23,
-      "category": "Environment & Ecology",
-      "question": "The 'Kyoto Protocol' is related to:",
-      "options": [
-        "Biodiversity conservation",
-        "Climate Change mitigation",
-        "Ozone layer protection",
-        "Water pollution control"
-      ],
-      "correct": 1,
-      "explanation": "Kyoto Protocol aims to reduce greenhouse gas emissions contributing to climate change."
-    },
-    {
-      "id": 24,
-      "category": "Environment & Ecology",
-      "question": "Which Indian National Park is a UNESCO World Heritage Site known for its Bengal Tigers?",
-      "options": [
-        "Jim Corbett National Park",
-        "Kaziranga National Park",
-        "Sundarbans National Park",
-        "Bandipur National Park"
-      ],
-      "correct": 2,
-      "explanation": "The Sundarbans National Park is famous for Bengal tigers and is a UNESCO World Heritage Site."
-    },
-    {
-      "id": 25,
-      "category": "Current Affairs & GK",
-      "question": "Who is the current President of India as of 2026?",
-      "options": [
-        "Droupadi Murmu",
-        "Ram Nath Kovind",
-        "Pranab Mukherjee",
-        "Venkaya Naidu"
-      ],
-      "correct": 0,
-      "explanation": "Droupadi Murmu has been the President of India since 2022."
-    },
-    {
-      "id": 26,
-      "category": "Current Affairs & GK",
-      "question": "Which scheme was launched in 2014 to promote digital payments in India?",
-      "options": [
-        "Digital India",
-        "Start-Up India",
-        "Make in India",
-        "Jan Dhan Yojana"
-      ],
-      "correct": 0,
-      "explanation": "'Digital India' was launched to promote digital payments and digital infrastructure."
-    },
-    {
-      "id": 27,
-      "category": "Current Affairs & GK",
-      "question": "Who was awarded the Nobel Peace Prize in 2025?",
-      "options": [
-        "UN Peacekeepers",
-        "Malala Yousafzai",
-        "Greta Thunberg",
-        "International Campaign to Abolish Nuclear Weapons"
-      ],
-      "correct": 3,
-      "explanation": "The 2025 Nobel Peace Prize was awarded to the International Campaign to Abolish Nuclear Weapons."
-    },
-    {
-      "id": 28,
-      "category": "Current Affairs & GK",
-      "question": "Mohan Charan Majhi is the current Chief Minister of which Indian state?",
-      "options": [
-        "Odisha",
-        "West Bengal",
-        "Bihar",
-        "Chhattisgarh"
-      ],
-      "correct": 0,
-      "explanation": "Mohan Charan Majhi is the Chief Minister of Odisha since June 2024."
-    },
-    {
-      "id": 29,
-      "category": "Indian Science & Technology",
-      "question": "Which technology is used in the operation of the GPS system?",
-      "options": [
-        "Radio signals",
-        "Infrared sensors",
-        "Optical fibers",
-        "Ultrasound"
-      ],
-      "correct": 0,
-      "explanation": "GPS relies on radio signals from satellites to determine location."
-    },
-    {
-      "id": 30,
-      "category": "Indian Science & Technology",
-      "question": "Which space agency launched the Mars Orbiter Mission (Mangalyaan)?",
+      "category": "General Science",
+      "question": "Which space agency launched the Mars Rover named 'Perseverance'?",
       "options": [
         "NASA",
         "ISRO",
         "ESA",
         "Roscosmos"
       ],
+      "correct": 0,
+      "explanation": "NASA launched the Mars Rover 'Perseverance' in 2020."
+    },
+    {
+      "id": 23,
+      "category": "Environment & Ecology",
+      "question": "Which is the world's largest biodiversity hotspot?",
+      "options": [
+        "Western Ghats",
+        "Himalayas",
+        "Indo-Burma Region",
+        "Western Ghats & Sri Lanka"
+      ],
+      "correct": 2,
+      "explanation": "The Indo-Burma region is considered the world's largest biodiversity hotspot."
+    },
+    {
+      "id": 24,
+      "category": "Environment & Ecology",
+      "question": "The Convention on Biological Diversity (CBD) was adopted in which year?",
+      "options": [
+        "1992",
+        "1980",
+        "2000",
+        "2010"
+      ],
+      "correct": 0,
+      "explanation": "The CBD was adopted at the Earth Summit in Rio de Janeiro in 1992."
+    },
+    {
+      "id": 25,
+      "category": "Environment & Ecology",
+      "question": "Which Indian law aims to protect the environment and forests?",
+      "options": [
+        "Wildlife Protection Act, 1972",
+        "Environmental Protection Act, 1986",
+        "Air Act, 1981",
+        "Water Act, 1974"
+      ],
       "correct": 1,
-      "explanation": "ISRO launched the Mars Orbiter Mission (Mangalyaan) in 2013."
+      "explanation": "The Environment Protection Act, 1986, provides comprehensive regulations for environmental protection."
+    },
+    {
+      "id": 26,
+      "category": "Environment & Ecology",
+      "question": "Which endangered species was recently declared the 'state animal' of Odisha?",
+      "options": [
+        "Indian Elephant",
+        "Sambhar Deer",
+        "Olive Ridley Sea Turtle",
+        "Indian Pangolin"
+      ],
+      "correct": 2,
+      "explanation": "The Olive Ridley Sea Turtle is recently declared Odisha's state animal."
+    },
+    {
+      "id": 27,
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Chief Minister of Odisha?",
+      "options": [
+        "Mohan Charan Majhi",
+        "Naveen Patnaik",
+        "Nitish Kumar",
+        "Uddhav Thackeray"
+      ],
+      "correct": 0,
+      "explanation": "Mohan Charan Majhi assumed office as CM of Odisha on 12 June 2024."
+    },
+    {
+      "id": 28,
+      "category": "Current Affairs & GK",
+      "question": "Who is the current Vice President of India?",
+      "options": [
+        "Jagdeep Dhankhar",
+        "C. P. Radhakrishnan",
+        "M. Venkaiah Naidu",
+        "Hamid Ansari"
+      ],
+      "correct": 1,
+      "explanation": "C. P. Radhakrishnan is the Vice President since 12 September 2025."
+    },
+    {
+      "id": 29,
+      "category": "Current Affairs & GK",
+      "question": "Who is the current External Affairs Minister of India?",
+      "options": [
+        "S. Jaishankar",
+        "Nirmala Sitharaman",
+        "Amit Shah",
+        "Piyush Goyal"
+      ],
+      "correct": 0,
+      "explanation": "S. Jaishankar is the External Affairs Minister since 2019."
+    },
+    {
+      "id": 30,
+      "category": "Current Affairs & GK",
+      "question": "Who is the current President of India?",
+      "options": [
+        "Droupadi Murmu",
+        "Pratibha Patil",
+        "Pranab Mukherjee",
+        "Ram Nath Kovind"
+      ],
+      "correct": 0,
+      "explanation": "Droupadi Murmu has been the President since 25 July 2022."
     }
   ]
 }
