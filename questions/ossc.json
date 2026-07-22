@@ -1,117 +1,234 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which is the largest river flowing through Odisha?",
+      "question": "Which district is known as the 'Granary of Odisha'?",
       "options": [
-        "Godavari",
-        "Mahanadi",
-        "Krishna",
-        "Godavari"
+        "Cuttack",
+        "Bhadrak",
+        "Balasore",
+        "Sambalpur"
       ],
-      "correct": 1,
-      "explanation": "Mahanadi is the largest river flowing through Odisha, vital for agriculture and water supply in the state."
+      "correct": 0,
+      "explanation": "Cuttack is often referred to as the 'Granary of Odisha' due to its fertile soil and high rice production."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated with great fervor in Odisha and involves the Rath Yatra?",
+      "question": "Which river is the longest in Odisha?",
       "options": [
-        "Diwali",
-        "Rath Yatra",
-        "Holi",
-        "Ganesh Chaturthi"
+        "Mahanadi",
+        "Brahmani",
+        "Subarnarekha",
+        "Baitarani"
       ],
-      "correct": 1,
-      "explanation": "Rath Yatra is a famous festival celebrated mainly in Puri, involving chariot processions of Lord Jagannath."
+      "correct": 0,
+      "explanation": "The Mahanadi River is approximately 860 km long and is the longest river in Odisha."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "Which tribal community is indigenous to the Sundargarh district of Odisha?",
+      "question": "What is the name of the famous lake in Odisha, known for its natural beauty and migratory birds?",
       "options": [
-        "Santhal",
-        "Kandha",
-        "Munda",
-        "Gond"
+        "Chilika Lake",
+        "Ansupa Lake",
+        "Hirakud Reservoir",
+        "Indravati Reservoir"
       ],
-      "correct": 1,
-      "explanation": "The Kandha tribe predominantly inhabits the Kandhamal and Sundargarh districts of Odisha."
+      "correct": 0,
+      "explanation": "Chilika Lake is the largest brackish water lagoon in Asia and a popular tourist destination."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which is a famous temple city located in Odisha?",
+      "question": "Which tribal community is known for its expertise in archery and is found mainly in the Mayurbhanj district of Odisha?",
       "options": [
-        "Konark",
-        "Madurai",
-        "Amaravati",
-        "Vijayawada"
+        "Santhals",
+        "Gonds",
+        "Bhuyans",
+        "Kondhs"
       ],
-      "correct": 0,
-      "explanation": "Konark is renowned for the Sun Temple and is a famous pilgrimage and tourist destination in Odisha."
+      "correct": 3,
+      "explanation": "The Kondhs are an indigenous tribe found primarily in the Mayurbhanj district and are known for their archery skills."
     },
     {
       "id": 5,
       "category": "Odisha General Knowledge",
-      "question": "Which is the official language of Odisha?",
+      "question": "Who is the founder of the Biju Janata Dal (BJD) party in Odisha?",
       "options": [
-        "Telugu",
-        "Odia",
-        "Tamil",
-        "Bengali"
+        "Biju Patnaik",
+        "Naveen Patnaik",
+        "J.B. Patnaik",
+        "Hemananda Biswal"
       ],
       "correct": 1,
-      "explanation": "Odia is the official and most widely spoken language in Odisha."
+      "explanation": "Naveen Patnaik is the founder of the Biju Janata Dal (BJD) party, which was formed in 1997."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Which historical fort is located in Odisha and is known for its architecture?",
+      "question": "Which festival is celebrated in Odisha to welcome the monsoon season?",
       "options": [
-        "Chandragiri Fort",
-        "Agra Fort",
-        "Jaipur Fort",
-        "Golconda Fort"
+        "Rath Yatra",
+        "Dussehra",
+        "Raja Parba",
+        "Durga Puja"
       ],
-      "correct": 0,
-      "explanation": "Chandragiri Fort, near Visakhapatnam, is historically significant and located close to Odisha."
+      "correct": 2,
+      "explanation": "Raja Parba is a three-day festival celebrated in Odisha to welcome the monsoon season and is dedicated to the worship of the goddess Basundi."
     },
     {
       "id": 7,
-      "category": "Indian History & Culture",
-      "question": "Who was the founder of the Mauryan Empire in India?",
+      "category": "Odisha General Knowledge",
+      "question": "Which dam is located on the Mahanadi River in Odisha?",
       "options": [
-        "Chandragupta Maurya",
-        "Ashoka the Great",
-        "Chola Dynasty",
-        "Gupta Empire"
+        "Hirakud Dam",
+        "Mandira Dam",
+        "Rengali Dam",
+        "Kala Dam"
       ],
       "correct": 0,
-      "explanation": "Chandragupta Maurya established the Mauryan Empire around 322 BCE, unifying much of India."
+      "explanation": "The Hirakud Dam is one of the longest dams in the world and is located on the Mahanadi River in Odisha."
     },
     {
       "id": 8,
-      "category": "Indian History & Culture",
-      "question": "Which site is famous for the ancient rock-cut caves and Buddhist monasteries?",
+      "category": "Odisha General Knowledge",
+      "question": "Which historical site in Odisha is known for its ancient temples and is a UNESCO World Heritage Site?",
       "options": [
-        "Ajanta Caves",
-        "Ellora Caves",
-        "Lepakshi",
-        "Sanchi Stupa"
+        "Konark Sun Temple",
+        "Puri Jagannath Temple",
+        "Lingaraj Temple",
+        "Ratnagiri"
       ],
       "correct": 0,
-      "explanation": "Ajanta Caves are renowned for their rock-cut Buddhist cave monuments and paintings."
+      "explanation": "The Konark Sun Temple is a UNESCO World Heritage Site and is known for its stunning architecture and ancient history."
     },
     {
       "id": 9,
-      "category": "Indian History & Culture",
-      "question": "In modern Indian history, who was the leader of the Non-Cooperation Movement?",
+      "category": "Odisha General Knowledge",
+      "question": "Who is the famous Odia poet and novelist who wrote 'Chha Mana Atha Guntha'?",
+      "options": [
+        "Fakir Mohan Senapati",
+        "Gopabandhu Das",
+        "Kuntala Kumari Sabat",
+        "Sarala Das"
+      ],
+      "correct": 0,
+      "explanation": "Fakir Mohan Senapati is considered the father of modern Odia literature and wrote the famous novel 'Chha Mana Atha Guntha'."
+    },
+    {
+      "id": 10,
+      "category": "Odisha General Knowledge",
+      "question": "Which district is known as the 'Sugar Bowl of Odisha'?",
+      "options": [
+        "Khordha",
+        "Cuttack",
+        "Bolangir",
+        "Bargarh"
+      ],
+      "correct": 3,
+      "explanation": "Bargarh district is known as the 'Sugar Bowl of Odisha' due to its high sugar production and is home to several sugar factories."
+    },
+    {
+      "id": 11,
+      "category": "Ancient India",
+      "question": "Which ancient Indian dynasty built the city of Pataliputra?",
+      "options": [
+        "Mauryan",
+        "Gupta",
+        "Kushan",
+        "Mughal"
+      ],
+      "correct": 0,
+      "explanation": "Pataliputra was the capital of the Mauryan empire, founded by Chandragupta Maurya in 322 BCE."
+    },
+    {
+      "id": 12,
+      "category": "Medieval India",
+      "question": "Who was the founder of the Vijayanagara Empire?",
+      "options": [
+        "Harihara and Bukka Raya",
+        "Krishnadeva Raya",
+        "Akbar",
+        "Shivaji"
+      ],
+      "correct": 0,
+      "explanation": "The Vijayanagara Empire was founded by Harihara and Bukka Raya in 1336 CE."
+    },
+    {
+      "id": 13,
+      "category": "Modern India",
+      "question": "The Indian National Congress was founded in which year?",
+      "options": [
+        "1857",
+        "1885",
+        "1905",
+        "1947"
+      ],
+      "correct": 1,
+      "explanation": "The Indian National Congress was founded in 1885 by Allan Octavian Hume."
+    },
+    {
+      "id": 14,
+      "category": "Indian Culture",
+      "question": "Which Indian classical dance form originated in the state of Kerala?",
+      "options": [
+        "Bharatanatyam",
+        "Kathakali",
+        "Kuchipudi",
+        "Odissi"
+      ],
+      "correct": 1,
+      "explanation": "Kathakali is a classical dance form that originated in the state of Kerala."
+    },
+    {
+      "id": 15,
+      "category": "Heritage Sites",
+      "question": "The Taj Mahal is located in which city?",
+      "options": [
+        "Agra",
+        "Delhi",
+        "Mumbai",
+        "Jaipur"
+      ],
+      "correct": 0,
+      "explanation": "The Taj Mahal is located in Agra, Uttar Pradesh."
+    },
+    {
+      "id": 16,
+      "category": "Ancient India",
+      "question": "Who was the author of the ancient Indian epic, the Ramayana?",
+      "options": [
+        "Valmiki",
+        "Ved Vyasa",
+        "Kalidasa",
+        "Tulsidas"
+      ],
+      "correct": 0,
+      "explanation": "Valmiki is believed to be the author of the ancient Indian epic, the Ramayana."
+    },
+    {
+      "id": 17,
+      "category": "Medieval India",
+      "question": "The Qutub Minar is located in which city?",
+      "options": [
+        "Delhi",
+        "Agra",
+        "Jaipur",
+        "Hyderabad"
+      ],
+      "correct": 0,
+      "explanation": "The Qutub Minar is located in Delhi, and was built by Qutb-ud-din Aibak in 1192 CE."
+    },
+    {
+      "id": 18,
+      "category": "Modern India",
+      "question": "The Indian independence movement was led by which leader?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
@@ -119,280 +236,163 @@
         "Bhagat Singh"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement against British rule in 1920."
-    },
-    {
-      "id": 10,
-      "category": "Indian History & Culture",
-      "question": "Which UNESCO World Heritage site is located in Odisha?",
-      "options": [
-        "Khajuraho Temples",
-        "Konark Sun Temple",
-        "Hampi Ruins",
-        "Sanchi Stupa"
-      ],
-      "correct": 1,
-      "explanation": "The Konark Sun Temple is a UNESCO World Heritage site located in Odisha."
-    },
-    {
-      "id": 11,
-      "category": "Geography",
-      "question": "Which mountain range forms the northern boundary of India?",
-      "options": [
-        "Himalayas",
-        "Aravalli",
-        "Western Ghats",
-        "Eastern Ghats"
-      ],
-      "correct": 0,
-      "explanation": "The Himalayas form the northern boundary of India, providing natural borders with Tibet and China."
-    },
-    {
-      "id": 12,
-      "category": "Geography",
-      "question": "Which soil type is most suitable for tea cultivation in India?",
-      "options": [
-        "Alluvial",
-        "Laterite",
-        "Black soil",
-        "Alpine"
-      ],
-      "correct": 1,
-      "explanation": "Laterite soil, rich in iron and aluminum, is suitable for tea cultivation, especially in Northeastern India."
-    },
-    {
-      "id": 13,
-      "category": "Geography",
-      "question": "Which mineral is most abundantly found in Odisha?",
-      "options": [
-        "Coal",
-        "Bauxite",
-        "Iron ore",
-        "Mica"
-      ],
-      "correct": 2,
-      "explanation": "Odisha is rich in iron ore deposits, making it a major iron ore producing state."
-    },
-    {
-      "id": 14,
-      "category": "Geography",
-      "question": "Which climate zone does Odisha mainly belong to?",
-      "options": [
-        "Tropical humid",
-        "Arid desert",
-        "Mountain cold",
-        "Temperate"
-      ],
-      "correct": 0,
-      "explanation": "Odisha mainly has a tropical humid climate with high temperatures and rainfall."
-    },
-    {
-      "id": 15,
-      "category": "Indian Polity & Constitution",
-      "question": "Which Fundamental Right protects the right to equality?",
-      "options": [
-        "Right to Freedom",
-        "Right to Equality",
-        "Right against Exploitation",
-        "Right to Education"
-      ],
-      "correct": 1,
-      "explanation": "The Right to Equality is a Fundamental Right under Article 14-18 of the Indian Constitution."
-    },
-    {
-      "id": 16,
-      "category": "Indian Polity & Constitution",
-      "question": "Who is the head of the State in India?",
-      "options": [
-        "Prime Minister",
-        "President",
-        "Chief Justice",
-        "Speaker of Lok Sabha"
-      ],
-      "correct": 1,
-      "explanation": "The President of India is the constitutional head of the State."
-    },
-    {
-      "id": 17,
-      "category": "Indian Polity & Constitution",
-      "question": "The Parliament of India is composed of which parts?",
-      "options": [
-        "Lok Sabha and Rajya Sabha",
-        "Lok Sabha and Supreme Court",
-        "Rajya Sabha and President",
-        "Lok Sabha and State Assemblies"
-      ],
-      "correct": 0,
-      "explanation": "The Parliament consists of the Lok Sabha (House of the People) and the Rajya Sabha (Council of States)."
-    },
-    {
-      "id": 18,
-      "category": "Indian Polity & Constitution",
-      "question": "Which is the lowest tier of governance in India?",
-      "options": [
-        "Municipality",
-        "District Panchayat",
-        "Village Panchayat",
-        "State Government"
-      ],
-      "correct": 2,
-      "explanation": "Village Panchayat is the lowest tier of local governance in India."
+      "explanation": "Mahatma Gandhi played a key role in the Indian independence movement, using non-violent resistance to achieve independence from British rule."
     },
     {
       "id": 19,
-      "category": "General Science",
-      "question": "What is the basic unit of life in biology?",
+      "category": "Indian Culture",
+      "question": "The festival of Diwali is associated with which Hindu deity?",
       "options": [
-        "Atom",
-        "Cell",
-        "Tissue",
-        "Organ"
+        "Lord Rama",
+        "Lord Krishna",
+        "Lord Ganesha",
+        "Goddess Lakshmi"
       ],
-      "correct": 1,
-      "explanation": "The cell is the fundamental unit of life in all living organisms."
+      "correct": 3,
+      "explanation": "The festival of Diwali is associated with Goddess Lakshmi, the goddess of wealth and prosperity."
     },
     {
       "id": 20,
-      "category": "General Science",
-      "question": "Which gas is most commonly used in lighting and welding?",
+      "category": "Heritage Sites",
+      "question": "The Sun Temple is located in which state?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Argon",
-        "Carbon Dioxide"
+        "Odisha",
+        "West Bengal",
+        "Andhra Pradesh",
+        "Tamil Nadu"
       ],
-      "correct": 2,
-      "explanation": "Argon is an inert gas used in welding for its non-reactive properties."
+      "correct": 0,
+      "explanation": "The Sun Temple is located in Konark, Odisha, and was built in the 13th century CE."
     },
     {
       "id": 21,
-      "category": "General Science",
-      "question": "Which vitamin is primarily obtained from sunlight?",
+      "category": "Geography",
+      "question": "What is the largest state in India by area?",
       "options": [
-        "Vitamin A",
-        "Vitamin B",
-        "Vitamin C",
-        "Vitamin D"
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Maharashtra"
       ],
-      "correct": 3,
-      "explanation": "Vitamin D is synthesized in the skin upon exposure to sunlight."
+      "correct": 0,
+      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342,239 square kilometers."
     },
     {
       "id": 22,
-      "category": "General Science",
-      "question": "Which disease is caused by deficiency of iodine?",
+      "category": "Odisha Geography",
+      "question": "Which mountain range runs along the western border of Odisha?",
       "options": [
-        "Scurvy",
-        "Goiter",
-        "Beriberi",
-        "Rickets"
+        "Eastern Ghats",
+        "Western Ghats",
+        "Satpura Range",
+        "Mahanadi Range"
       ],
-      "correct": 1,
-      "explanation": "Iodine deficiency causes goiter, swelling of the thyroid gland."
+      "correct": 0,
+      "explanation": "The Eastern Ghats mountain range runs along the western border of Odisha."
     },
     {
       "id": 23,
-      "category": "Mental Ability & Reasoning",
-      "question": "What is the next number in the series: 2, 4, 8, 16, ?",
+      "category": "Indian Climate",
+      "question": "What type of climate does most of India experience?",
       "options": [
-        "18",
-        "24",
-        "32",
-        "64"
+        "Tropical Wet",
+        "Tropical Dry",
+        "Temperate",
+        "Desert"
       ],
-      "correct": 2,
-      "explanation": "The series doubles each time; next is 16×2=32."
+      "correct": 0,
+      "explanation": "Most of India experiences a tropical wet climate, characterized by high temperatures and high levels of humidity."
     },
     {
       "id": 24,
-      "category": "Mental Ability & Reasoning",
-      "question": "If 'TEAM' is coded as 'GZNV', what is the code for 'PLAY'?",
+      "category": "Odisha Agriculture",
+      "question": "What is the main crop grown in Odisha?",
       "options": [
-        "KONZ",
-        "KPNZ",
-        "KORZ",
-        "KQNZ"
+        "Rice",
+        "Wheat",
+        "Pulses",
+        "Sugarcane"
       ],
-      "correct": 1,
-      "explanation": "Each letter is shifted backward by 1; P→K, L→O, A→N, Y→Z."
+      "correct": 0,
+      "explanation": "Rice is the main crop grown in Odisha, with the state being one of the largest producers of rice in India."
     },
     {
       "id": 25,
-      "category": "Mental Ability & Reasoning",
-      "question": "Blood relation: Pointing to a man, a woman says, 'He is the son of my father's only daughter.' How is the woman related to the man?",
+      "category": "Indian Soil",
+      "question": "What type of soil is found in the Indo-Gangetic Plain?",
       "options": [
-        "Mother",
-        "Sister",
-        "Daughter",
-        "Aunt"
+        "Alluvial",
+        "Black",
+        "Red",
+        "Laterite"
       ],
       "correct": 0,
-      "explanation": "The woman is the mother of the man described."
+      "explanation": "Alluvial soil is found in the Indo-Gangetic Plain, which is one of the most fertile regions in India."
     },
     {
       "id": 26,
-      "category": "Mental Ability & Reasoning",
-      "question": "In a certain code, 'ORANGE' is written as 'ZEBMVI'. How is 'APPLE' written in that code?",
+      "category": "Odisha Minerals",
+      "question": "Which mineral is Odisha rich in?",
       "options": [
-        "ZKOGV",
-        "ZKPVX",
-        "ZKOWV",
-        "ZKOVX"
+        "Iron Ore",
+        "Coal",
+        "Bauxite",
+        "Chromium"
       ],
-      "correct": 1,
-      "explanation": "The coding shifts each letter forward by 2 positions."
+      "correct": 0,
+      "explanation": "Odisha is rich in iron ore, with the state having some of the largest iron ore deposits in India."
     },
     {
       "id": 27,
-      "category": "Current Affairs",
-      "question": "Who is the current Chief Minister of Odisha?",
+      "category": "Indian Geography",
+      "question": "What is the longest river in India?",
       "options": [
-        "Naveen Patnaik",
-        "Mohan Charan Majhi",
-        "Nirmala Sitharaman",
-        "Raghubar Das"
+        "Ganga",
+        "Brahmaputra",
+        "Yamuna",
+        "Godavari"
       ],
-      "correct": 1,
-      "explanation": "Mohan Charan Majhi became the Chief Minister of Odisha on 12 June 2024."
+      "correct": 0,
+      "explanation": "The Ganga is the longest river in India, stretching approximately 2,525 kilometers from its source to the Bay of Bengal."
     },
     {
       "id": 28,
-      "category": "Current Affairs",
-      "question": "Who is the current President of India?",
+      "category": "Odisha Physical Features",
+      "question": "What is the name of the coastal plain in Odisha?",
       "options": [
-        "Ram Nath Kovind",
-        "Droupadi Murmu",
-        "Pranab Mukherjee",
-        "A.P.J. Abdul Kalam"
+        "Odisha Coastal Plain",
+        "East Coastal Plain",
+        "Utkal Plain",
+        "Mahandi Delta"
       ],
-      "correct": 1,
-      "explanation": "Droupadi Murmu has been serving as the President since 25 July 2022."
+      "correct": 2,
+      "explanation": "The Utkal Plain is the coastal plain in Odisha, which is a narrow strip of land along the Bay of Bengal."
     },
     {
       "id": 29,
-      "category": "Current Affairs",
-      "question": "Which government scheme was launched recently to promote rural employment?",
+      "category": "Indian Climate",
+      "question": "What is the name of the seasonal wind that brings rainfall to India?",
       "options": [
-        "PM Awas Yojana",
-        "PM Garib Kalyan Yojana",
-        "MGNREGA",
-        "Startup India"
+        "Monsoon",
+        "Trade Winds",
+        "Westerlies",
+        "Jet Stream"
       ],
-      "correct": 2,
-      "explanation": "MGNREGA is a key scheme aimed at providing rural employment through public works."
+      "correct": 0,
+      "explanation": "The monsoon is the seasonal wind that brings rainfall to India, with the southwest monsoon being the main source of rainfall in the country."
     },
     {
       "id": 30,
-      "category": "Current Affairs",
-      "question": "Which award was recently conferred to Odisha’s sports personality for excellence?",
+      "category": "Odisha Geography",
+      "question": "Which river forms the boundary between Odisha and Chhattisgarh?",
       "options": [
-        "Dronacharya Award",
-        "Padma Shri",
-        "Arjuna Award",
-        "Rajiv Gandhi Khel Ratna"
+        "Mahanadi",
+        "Brahmani",
+        "Subarnarekha",
+        "Ib"
       ],
-      "correct": 2,
-      "explanation": "The Arjuna Award recognizes outstanding achievement in sports in India."
+      "correct": 0,
+      "explanation": "The Mahanadi river forms the boundary between Odisha and Chhattisgarh."
     }
   ]
 }
