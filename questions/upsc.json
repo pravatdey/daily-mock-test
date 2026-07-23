@@ -1,52 +1,52 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Ancient Indian History",
-      "question": "Who was the founder of the Mauryan dynasty?",
+      "category": "Ancient History",
+      "question": "The ancient Indian university of Nalanda was established during the reign of which Gupta emperor?",
       "options": [
-        "Chandragupta Maurya",
-        "Ashoka",
-        "Bindusara",
-        "Samprati"
+        "Chandragupta I",
+        "Samudragupta",
+        "Kumaragupta I",
+        "Skandagupta"
       ],
-      "correct": 0,
-      "explanation": "Chandragupta Maurya was the founder of the Mauryan dynasty with the help of Chanakya."
+      "correct": 2,
+      "explanation": "Nalanda university was established during the reign of Kumaragupta I."
     },
     {
       "id": 2,
-      "category": "Medieval Indian History",
-      "question": "The capital of the Vijayanagara Empire was",
+      "category": "Medieval History",
+      "question": "The Sufi saint who founded the Chishti order in India was",
       "options": [
-        "Vijayanagar",
-        "Hampi",
-        "Mysore",
-        "Bangalore"
+        "Khawaja Moinuddin Chishti",
+        "Sheikh Salim Chishti",
+        "Sheikh Nizamuddin Aulia",
+        "Baba Farid"
       ],
       "correct": 0,
-      "explanation": "Vijayanagara was the capital of the Vijayanagara Empire."
+      "explanation": "Khawaja Moinuddin Chishti is credited with founding the Chishti order in India."
     },
     {
       "id": 3,
-      "category": "Modern Indian History",
-      "question": "The Indian National Congress was founded in",
+      "category": "Modern History",
+      "question": "The Indian National Congress was founded in the year",
       "options": [
+        "1884",
         "1885",
         "1886",
-        "1887",
-        "1888"
+        "1887"
       ],
-      "correct": 0,
-      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume."
+      "correct": 1,
+      "explanation": "The Indian National Congress was founded in 1885 by Allan Octavian Hume."
     },
     {
       "id": 4,
       "category": "Freedom Struggle",
-      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in",
+      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in the year",
       "options": [
         "1920",
         "1921",
@@ -58,47 +58,47 @@
     },
     {
       "id": 5,
-      "category": "Ancient Indian History",
-      "question": "The ancient Indian university of Takshashila was located in",
+      "category": "Ancient History",
+      "question": "The ancient Indian text that describes the social and economic conditions of the Mauryan period is",
       "options": [
-        "Present-day Pakistan",
-        "Present-day India",
-        "Present-day Bangladesh",
-        "Present-day Nepal"
+        "Arthashastra",
+        "Indica",
+        "Mahabharata",
+        "Ramayana"
       ],
       "correct": 0,
-      "explanation": "The ancient Indian university of Takshashila was located in present-day Pakistan."
+      "explanation": "The Arthashastra is an ancient Indian text that describes the social and economic conditions of the Mauryan period."
     },
     {
       "id": 6,
-      "category": "Medieval Indian History",
-      "question": "The Delhi Sultanate was founded by",
+      "category": "Medieval History",
+      "question": "The Mughal emperor who built the Taj Mahal was",
       "options": [
-        "Qutb-ud-din Aibak",
-        "Iltutmish",
-        "Razia Sultan",
-        "Alauddin Khalji"
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Shah Jahan"
       ],
-      "correct": 0,
-      "explanation": "The Delhi Sultanate was founded by Qutb-ud-din Aibak."
+      "correct": 3,
+      "explanation": "The Taj Mahal was built by Shah Jahan in memory of his wife Mumtaz Mahal."
     },
     {
       "id": 7,
-      "category": "Modern Indian History",
-      "question": "The Permanent Settlement of 1793 was introduced by",
+      "category": "Modern History",
+      "question": "The British East India Company was granted a royal charter by Queen Elizabeth I in the year",
       "options": [
-        "Lord Cornwallis",
-        "Lord Curzon",
-        "Lord Dalhousie",
-        "Lord Bentinck"
+        "1599",
+        "1600",
+        "1601",
+        "1602"
       ],
-      "correct": 0,
-      "explanation": "The Permanent Settlement of 1793 was introduced by Lord Cornwallis."
+      "correct": 1,
+      "explanation": "The British East India Company was granted a royal charter by Queen Elizabeth I in 1600."
     },
     {
       "id": 8,
       "category": "Freedom Struggle",
-      "question": "The Quit India Movement was launched by Mahatma Gandhi in",
+      "question": "The Quit India Movement was launched by Mahatma Gandhi in the year",
       "options": [
         "1940",
         "1941",
@@ -110,104 +110,104 @@
     },
     {
       "id": 9,
-      "category": "Medieval Indian History",
-      "question": "The Mughal emperor who built the Taj Mahal was",
+      "category": "Ancient History",
+      "question": "The ancient Indian kingdom of Magadha was ruled by the",
       "options": [
-        "Babur",
-        "Humayun",
-        "Akbar",
-        "Shah Jahan"
+        "Haryanka dynasty",
+        "Mauryan dynasty",
+        "Gupta dynasty",
+        "Pala dynasty"
       ],
-      "correct": 3,
-      "explanation": "The Mughal emperor who built the Taj Mahal was Shah Jahan."
+      "correct": 0,
+      "explanation": "The ancient Indian kingdom of Magadha was ruled by the Haryanka dynasty."
     },
     {
       "id": 10,
-      "category": "Ancient Indian History",
-      "question": "The Indus Valley Civilization was discovered in",
+      "category": "Medieval History",
+      "question": "The Vijayanagara empire was founded by",
       "options": [
-        "1920s",
-        "1930s",
-        "1940s",
-        "1950s"
+        "Harihara and Bukka Raya",
+        "Krishna Deva Raya",
+        "Achyuta Deva Raya",
+        "Aliya Rama Raya"
       ],
       "correct": 0,
-      "explanation": "The Indus Valley Civilization was discovered in the 1920s by Daya Ram Sahni."
+      "explanation": "The Vijayanagara empire was founded by Harihara and Bukka Raya."
     },
     {
       "id": 11,
       "category": "Indian Geography",
-      "question": "What is the largest river island in the Indian subcontinent?",
+      "question": "Which of the following rivers flows through a rift valley?",
       "options": [
-        "Majuli",
-        "Sangal",
-        "Zarman",
-        "Di'u"
+        "Brahmaputra",
+        "Ganga",
+        "Narmada",
+        "Tapi"
       ],
-      "correct": 0,
-      "explanation": "Majuli is the largest river island in the Indian subcontinent, located in the Brahmaputra River."
+      "correct": 2,
+      "explanation": "Narmada river flows through a rift valley."
     },
     {
       "id": 12,
       "category": "Indian Geography",
-      "question": "Which mountain range runs along the border between India and Myanmar?",
+      "question": "The easternmost point of India is",
       "options": [
-        "Purvanchal",
-        "Himalayas",
-        "Aravallis",
-        "Satpura"
+        "Kanyakumari",
+        "Kibithu",
+        "Dong",
+        "Indira Point"
       ],
-      "correct": 0,
-      "explanation": "The Purvanchal mountain range runs along the border between India and Myanmar."
+      "correct": 3,
+      "explanation": "Indira Point is the easternmost point of India."
     },
     {
       "id": 13,
       "category": "Indian Geography",
-      "question": "What is the name of the strait that separates the islands of Little Andaman and Great Nicobar?",
+      "question": "The largest coal reserve in India is found in",
       "options": [
-        "Duncan Passage",
-        "Ten Degree Channel",
-        "Coco Channel",
-        "Sommers Passage"
+        "Jharkhand",
+        "Chhattisgarh",
+        "Odisha",
+        "Madhya Pradesh"
       ],
-      "correct": 1,
-      "explanation": "The Ten Degree Channel is the strait that separates the islands of Little Andaman and Great Nicobar."
+      "correct": 0,
+      "explanation": "Jharkhand has the largest coal reserve in India."
     },
     {
       "id": 14,
       "category": "Indian Geography",
-      "question": "Which of the following rivers flows through the Satpura range?",
+      "question": "The mountain range that separates the Indian subcontinent from the rest of Asia is",
       "options": [
-        "Narmada",
-        "Tapi",
-        "Godavari",
-        "Mahanadi"
+        "Himalayas",
+        "The Karakoram range",
+        "The Aravalli range",
+        "The Vindhya range"
       ],
       "correct": 0,
-      "explanation": "The Narmada river flows through the Satpura range."
+      "explanation": "The Himalayas separate the Indian subcontinent from the rest of Asia."
     },
     {
       "id": 15,
       "category": "Indian Geography",
-      "question": "What is the name of the plateau that covers most of Maharashtra, Gujarat, and parts of Madhya Pradesh?",
+      "question": "The longest river in South India is",
       "options": [
-        "Deccan Plateau",
-        "Chota Nagpur Plateau",
-        "Malwa Plateau",
-        "Bundelkhand Plateau"
+        "Godavari",
+        "Krishna",
+        "Kaveri",
+        "Tungabhadra"
       ],
       "correct": 0,
-      "explanation": "The Deccan Plateau covers most of Maharashtra, Gujarat, and parts of Madhya Pradesh."
+      "explanation": "The Godavari is the longest river in South India."
     },
     {
       "id": 16,
       "category": "Indian Geography",
-      "question": "Which state has the longest coastline in India?",
+      "question": "The state with the longest coastline in India is",
       "options": [
         "Gujarat",
         "Maharashtra",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Kerala",
+        "Tamil Nadu"
       ],
       "correct": 0,
       "explanation": "Gujarat has the longest coastline in India."
@@ -215,184 +215,184 @@
     {
       "id": 17,
       "category": "Indian Geography",
-      "question": "What is the name of the highest peak in the Eastern Ghats?",
+      "question": "The climate of India is influenced by",
       "options": [
-        "Mahendragiri",
-        "Arma Konda",
-        "Guruskina",
-        "Galikonda"
+        "The Himalayas",
+        "The Indian Ocean",
+        "The Thar Desert",
+        "All of the above"
       ],
-      "correct": 1,
-      "explanation": "Arma Konda is the highest peak in the Eastern Ghats."
+      "correct": 3,
+      "explanation": "The climate of India is influenced by the Himalayas, the Indian Ocean, and the Thar Desert."
     },
     {
       "id": 18,
       "category": "Indian Geography",
-      "question": "Which of the following rivers is known for its backward flow during monsoons?",
+      "question": "The Western Ghats are also known as",
       "options": [
-        "Brahmaputra",
-        "Ganga",
-        "Indus",
-        "Narmada"
+        "Sahyadri",
+        "Satur",
+        "Nilgiri",
+        "Anamalai"
       ],
       "correct": 0,
-      "explanation": "The Brahmaputra river is known for its backward flow during monsoons."
+      "explanation": "The Western Ghats are also known as Sahyadri."
     },
     {
       "id": 19,
       "category": "Indian Geography",
-      "question": "What is the name of the largest delta in India?",
+      "question": "The highest peak in the Eastern Ghats is",
       "options": [
-        "Sundarbans",
-        "Ganga-Brahmaputra Delta",
-        "Godavari Delta",
-        "Kaveri Delta"
+        "Mahendragiri",
+        "Arma Konda",
+        "Galantha",
+        "Shevaroy"
       ],
       "correct": 1,
-      "explanation": "The Ganga-Brahmaputra Delta is the largest delta in India."
+      "explanation": "The highest peak in the Eastern Ghats is Arma Konda."
     },
     {
       "id": 20,
       "category": "Indian Geography",
-      "question": "Which of the following states has the highest number of major ports?",
+      "question": "The major iron ore deposits in India are found in",
       "options": [
-        "Gujarat",
-        "Maharashtra",
-        "Tamil Nadu",
-        "Kerala"
+        "Jharkhand and Odisha",
+        "Chhattisgarh and Madhya Pradesh",
+        "Karnataka and Goa",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "Gujarat has the highest number of major ports."
+      "correct": 3,
+      "explanation": "The major iron ore deposits in India are found in Jharkhand, Odisha, Chhattisgarh, Madhya Pradesh, Karnataka, and Goa."
     },
     {
       "id": 21,
       "category": "Indian Polity & Governance",
-      "question": "Which part of the Indian Constitution deals with the Fundamental Rights of citizens?",
+      "question": "Which of the following is a feature of the Indian Constitution?",
       "options": [
-        "Part III",
-        "Part IV",
-        "Part XII",
-        "Part XIV"
+        "Federal system with a weak center",
+        "Unitary system with a strong center",
+        "Parliamentary system with an elected head of state",
+        "Presidential system with a directly elected head of state"
       ],
-      "correct": 0,
-      "explanation": "Part III of the Indian Constitution deals with the Fundamental Rights of citizens."
+      "correct": 2,
+      "explanation": "The Indian Constitution establishes a parliamentary system where the head of state (President) is indirectly elected."
     },
     {
       "id": 22,
       "category": "Indian Polity & Governance",
-      "question": "What is the minimum age for a person to become a member of the Lok Sabha?",
+      "question": "What is the primary role of the Panchayati Raj institutions in India?",
       "options": [
-        "21 years",
-        "25 years",
-        "30 years",
-        "35 years"
+        "To provide judicial services at the local level",
+        "To deliver healthcare services at the grassroot level",
+        "To facilitate local self-governance and development",
+        "To oversee law and order in rural areas"
       ],
-      "correct": 1,
-      "explanation": "According to Article 84 of the Indian Constitution, a person must be at least 25 years old to become a member of the Lok Sabha."
+      "correct": 2,
+      "explanation": "Panchayati Raj institutions aim to promote local self-governance, enabling local populations to take decisions on matters affecting their daily lives."
     },
     {
       "id": 23,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution provides for the independence of the judiciary?",
+      "question": "Which article of the Indian Constitution deals with the Right to Freedom of Speech and Expression?",
       "options": [
         "Article 14",
+        "Article 19",
         "Article 21",
-        "Article 50",
-        "Article 124"
+        "Article 25"
       ],
-      "correct": 2,
-      "explanation": "Article 50 of the Indian Constitution provides for the separation of judiciary from the executive, ensuring the independence of the judiciary."
+      "correct": 1,
+      "explanation": "Article 19 of the Indian Constitution guarantees the Right to Freedom of Speech and Expression, subject to reasonable restrictions."
     },
     {
       "id": 24,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the local self-government system at the village level in India?",
+      "question": "Which of the following is NOT a type of writ issued by the Supreme Court or High Courts in India?",
       "options": [
-        "Panchayati Raj",
-        "Nagar Palika",
-        "Municipal Corporation",
-        "Zilla Parishad"
+        "Habeas Corpus",
+        "Mandamus",
+        "Prohibition",
+        "Injunction"
       ],
-      "correct": 0,
-      "explanation": "Panchayati Raj is the local self-government system at the village level in India, established under the 73rd Amendment Act of 1992."
+      "correct": 3,
+      "explanation": "Injunction is not a type of writ under Article 32 or Article 226 of the Indian Constitution; the other options are all types of writs."
     },
     {
       "id": 25,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is NOT a fundamental right guaranteed by the Indian Constitution?",
+      "question": "What is the term of the President of India?",
       "options": [
-        "Right to Equality",
-        "Right to Freedom",
-        "Right to Property",
-        "Right to Education"
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
       ],
-      "correct": 2,
-      "explanation": "The Right to Property was removed as a fundamental right by the 44th Amendment Act of 1978 and is now a constitutional right under Article 300A."
+      "correct": 1,
+      "explanation": "The President of India serves a term of five years from the date of entry into office."
     },
     {
       "id": 26,
       "category": "Indian Polity & Governance",
-      "question": "Who is the head of the Indian Judiciary?",
+      "question": "Which article of the Indian Constitution discusses the procedure for amendment?",
       "options": [
-        "President of India",
-        "Vice President of India",
-        "Chief Justice of India",
-        "Law Minister of India"
+        "Article 368",
+        "Article 370",
+        "Article 371",
+        "Article 372"
       ],
-      "correct": 2,
-      "explanation": "The Chief Justice of India is the head of the Indian Judiciary, responsible for overseeing the administration of justice in the country."
+      "correct": 0,
+      "explanation": "Article 368 of the Indian Constitution outlines the procedure for amendment of the Constitution."
     },
     {
       "id": 27,
       "category": "Indian Polity & Governance",
-      "question": "What is the term of office for a member of the Rajya Sabha?",
+      "question": "What is the main objective of the 73rd and 74th Amendments to the Indian Constitution?",
       "options": [
-        "5 years",
-        "6 years",
-        "7 years",
-        "10 years"
+        "To strengthen the role of the Union in the federal structure",
+        "To decentralize power to local governments",
+        "To enhance the judicial review of legislation",
+        "To increase the number of seats in Parliament"
       ],
       "correct": 1,
-      "explanation": "The term of office for a member of the Rajya Sabha is 6 years, with one-third of the members retiring every 2 years."
+      "explanation": "The 73rd and 74th Amendments aimed at giving constitutional status to the three-tier Panchayati Raj system and the municipalities, thereby decentralizing power to local governments."
     },
     {
       "id": 28,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution provides for the right to freedom of speech and expression?",
+      "question": "Which of the following is a Fundamental Right under the Indian Constitution?",
       "options": [
-        "Article 19",
-        "Article 21",
-        "Article 25",
-        "Article 30"
+        "Right to Education as a Fundamental Duty",
+        "Right to Property as a Constitutional Right",
+        "Right to Freedom of the Press",
+        "Right to Constitutional Remedies"
       ],
-      "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution provides for the right to freedom of speech and expression, subject to reasonable restrictions."
+      "correct": 3,
+      "explanation": "The Right to Constitutional Remedies is a Fundamental Right under Article 32 of the Indian Constitution, which allows individuals to approach the Supreme Court for enforcement of their Fundamental Rights."
     },
     {
       "id": 29,
       "category": "Indian Polity & Governance",
-      "question": "Who has the power to appoint the Judges of the Supreme Court of India?",
+      "question": "Which article of the Indian Constitution provides for the independence of the Supreme Court?",
       "options": [
-        "President of India",
-        "Prime Minister of India",
-        "Law Minister of India",
-        "Chief Justice of India"
+        "Article 124",
+        "Article 125",
+        "Article 126",
+        "Article 127"
       ],
       "correct": 0,
-      "explanation": "The President of India has the power to appoint the Judges of the Supreme Court of India, in consultation with the Chief Justice of India and other senior judges."
+      "explanation": "Article 124 of the Indian Constitution deals with the establishment and independence of the Supreme Court."
     },
     {
       "id": 30,
       "category": "Indian Polity & Governance",
-      "question": "What is the purpose of the 73rd and 74th Amendment Acts to the Indian Constitution?",
+      "question": "What is the process called when the Parliament passes a law that takes away or abridges any of the Fundamental Rights?",
       "options": [
-        "To establish a federal system of government",
-        "To provide for the independence of the judiciary",
-        "To guarantee the fundamental rights of citizens",
-        "To provide for decentralization of power and local self-government"
+        "Judicial Review",
+        "Legislative Veto",
+        "Parliamentary Supremacy",
+        "Due Process"
       ],
-      "correct": 3,
-      "explanation": "The 73rd and 74th Amendment Acts to the Indian Constitution aimed to provide for decentralization of power and local self-government, by establishing Panchayati Raj institutions at the village level and municipalities in urban areas."
+      "correct": 0,
+      "explanation": "Judicial Review is the process by which the judiciary reviews and potentially strikes down laws passed by the legislature if they violate the Fundamental Rights."
     }
   ]
 }
