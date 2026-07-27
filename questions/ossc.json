@@ -1,7 +1,7 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-07-25",
+  "date": "2026-07-27",
   "questionCount": 30,
   "questions": [
     {
@@ -15,38 +15,51 @@
         "Baitarani"
       ],
       "correct": 0,
-      "explanation": "Mahanadi flows through the city of Cuttack."
+      "explanation": "The Mahanadi river flows through the city of Cuttack."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
-      "question": "What is the largest district in Odisha by area?",
+      "question": "What is the name of the famous lake in Odisha where the Chilika Lake Festival is held?",
       "options": [
-        "Mayurbhanj",
-        "Kendujhar",
-        "Balasore",
-        "Sundargarh"
+        "Chilika Lake",
+        "Ansupa Lake",
+        "Hirakud Reservoir",
+        "Indravati Reservoir"
       ],
       "correct": 0,
-      "explanation": "Mayurbhanj is the largest district in Odisha by area."
+      "explanation": "Chilika Lake is the famous lake in Odisha where the Chilika Lake Festival is held."
     },
     {
       "id": 3,
       "category": "Odisha General Knowledge",
-      "question": "Which dam is located on the river Mahanadi?",
+      "question": "Which of the following districts is known as the 'Granary of Odisha'?",
       "options": [
-        "Hirakud Dam",
-        "Mandira Dam",
-        "Rengali Dam",
-        "Kala Dam"
+        "Balasore",
+        "Cuttack",
+        "Sambalpur",
+        "Bargarh"
       ],
-      "correct": 0,
-      "explanation": "Hirakud Dam is located on the river Mahanadi."
+      "correct": 3,
+      "explanation": "Bargarh district is known as the 'Granary of Odisha'."
     },
     {
       "id": 4,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is a famous festival of Odisha?",
+      "question": "Who is the founder of the BJD party in Odisha?",
+      "options": [
+        "Biju Patnaik",
+        "Naveen Patnaik",
+        "J.B. Patnaik",
+        "P.V. Narasimha Rao"
+      ],
+      "correct": 1,
+      "explanation": "Naveen Patnaik is the founder of the BJD party in Odisha."
+    },
+    {
+      "id": 5,
+      "category": "Odisha General Knowledge",
+      "question": "Which of the following is a major festival celebrated in Odisha?",
       "options": [
         "Rath Yatra",
         "Dussehra",
@@ -54,116 +67,103 @@
         "Holi"
       ],
       "correct": 0,
-      "explanation": "Rath Yatra is a famous festival of Odisha."
-    },
-    {
-      "id": 5,
-      "category": "Odisha General Knowledge",
-      "question": "What is the name of the largest tribal community in Odisha?",
-      "options": [
-        "Kondh",
-        "Santal",
-        "Bondo",
-        "Gadaba"
-      ],
-      "correct": 0,
-      "explanation": "Kondh is the largest tribal community in Odisha."
+      "explanation": "Rath Yatra is a major festival celebrated in Odisha."
     },
     {
       "id": 6,
       "category": "Odisha General Knowledge",
-      "question": "Who was the founder of the Biju Janata Dal party?",
+      "question": "What is the name of the dam built across the Mahanadi river in Odisha?",
       "options": [
-        "Biju Patnaik",
-        "Naveen Patnaik",
-        "Jay Patnaik",
-        "Hemananda Biswal"
+        "Hirakud Dam",
+        "Mahanadi Dam",
+        "Brahmani Dam",
+        "Rengali Dam"
       ],
-      "correct": 1,
-      "explanation": "Naveen Patnaik is the founder of the Biju Janata Dal party."
+      "correct": 0,
+      "explanation": "The Hirakud Dam is built across the Mahanadi river in Odisha."
     },
     {
       "id": 7,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following lakes is located in the city of Bhubaneswar?",
+      "question": "Which of the following tribal communities is found in the Mayurbhanj district of Odisha?",
       "options": [
-        "Chilika Lake",
-        "Ansupa Lake",
-        "Kanjia Lake",
-        "Nandankanan Lake"
+        "Santhals",
+        "Gonds",
+        "Kondhs",
+        "Ho"
       ],
-      "correct": 2,
-      "explanation": "Kanjia Lake is located in the city of Bhubaneswar."
+      "correct": 0,
+      "explanation": "The Santhals tribal community is found in the Mayurbhanj district of Odisha."
     },
     {
       "id": 8,
       "category": "Odisha General Knowledge",
-      "question": "Who was the famous Odia poet and writer?",
+      "question": "Who was the famous Odia poet and novelist who wrote the novel 'Chha Mana Atha Guntha'?",
       "options": [
-        "Sarala Das",
-        "Upendra Bhanja",
-        "Gangadhar Meher",
-        "Radhanath Ray"
+        "Fakir Mohan Senapati",
+        "Gopabandhu Das",
+        "Radhanath Ray",
+        "Madhusudan Das"
       ],
       "correct": 0,
-      "explanation": "Sarala Das was a famous Odia poet and writer."
+      "explanation": "Fakir Mohan Senapati was the famous Odia poet and novelist who wrote the novel 'Chha Mana Atha Guntha'."
     },
     {
       "id": 9,
       "category": "Odisha General Knowledge",
-      "question": "Which of the following is a famous place in the district of Puri?",
+      "question": "Which of the following places in Odisha is known for its golden sand beaches?",
       "options": [
-        "Konark Sun Temple",
-        "Jagannath Temple",
-        "Lingaraj Temple",
-        "Dhauli"
+        "Puri",
+        "Gopalpur",
+        "Chandipur",
+        "Balasore"
       ],
-      "correct": 1,
-      "explanation": "Jagannath Temple is a famous place in the district of Puri."
+      "correct": 0,
+      "explanation": "Puri is known for its golden sand beaches."
     },
     {
       "id": 10,
       "category": "Odisha General Knowledge",
-      "question": "Who was the king of Kalinga during the Kalinga War?",
+      "question": "Who was the king of Odisha who built the famous Sun Temple at Konark?",
       "options": [
-        "Kharavela",
-        "Ashoka",
-        "Rajendra Chola",
-        "Anantavarman Chodaganga"
+        "Langula Narasimha Deva",
+        "Anantavarman Chodaganga",
+        "Narasimhadeva I",
+        "Kapilendra Deva"
       ],
-      "correct": 0,
-      "explanation": "Kharavela was the king of Kalinga during the Kalinga War."
+      "correct": 2,
+      "explanation": "Narasimhadeva I was the king of Odisha who built the famous Sun Temple at Konark."
     },
     {
       "id": 11,
       "category": "Ancient India",
-      "question": "Who was the founder of the Mauryan Empire?",
+      "question": "Which ancient Indian dynasty built the city of Pataliputra?",
       "options": [
-        "Chandragupta Maurya",
-        "Ashoka the Great",
-        "Samudragupta",
-        "Bimbisara"
+        "Mauryan",
+        "Gupta",
+        "Pushyabhuti",
+        "Palas"
       ],
       "correct": 0,
-      "explanation": "Chandragupta Maurya founded the Mauryan Empire with the help of Chanakya."
+      "explanation": "The Mauryan dynasty built the city of Pataliputra, which was their capital city."
     },
     {
       "id": 12,
       "category": "Medieval India",
-      "question": "Which Delhi Sultan is credited with the introduction of the token currency?",
+      "question": "Who was the founder of the Mughal Empire in India?",
       "options": [
-        "Iltutmish",
-        "Balban",
-        "Alauddin Khalji",
-        "Muhammad bin Tughlaq"
+        "Babur",
+        "Akbar",
+        "Humayun",
+        "Ghengis Khan"
       ],
-      "correct": 3,
-      "explanation": "Muhammad bin Tughlaq introduced the token currency to reduce the burden of maintaining a large treasury."
+      "correct": 0,
+      "explanation": "Babur was the founder of the Mughal Empire in India, who defeated Ibrahim Lodi in the Battle of Panipat in 1526."
     },
     {
       "id": 13,
       "category": "Modern India",
-      "question": "Who was the leader of the Indian National Congress during the Non-Cooperation Movement?",
+      "question": "Who led the Non-Cooperation Movement in India?",
       "options": [
         "Mahatma Gandhi",
         "Jawaharlal Nehru",
@@ -171,127 +171,114 @@
         "Lala Lajpat Rai"
       ],
       "correct": 0,
-      "explanation": "Mahatma Gandhi led the Non-Cooperation Movement, which began in 1920."
+      "explanation": "The Non-Cooperation Movement was led by Mahatma Gandhi in 1920-22, which was a significant event in the Indian independence movement."
     },
     {
       "id": 14,
       "category": "Indian Culture",
-      "question": "Which of the following is a major festival in southern India, dedicated to the goddess Durga?",
+      "question": "Which of the following is a famous festival celebrated in the state of Kerala?",
       "options": [
-        "Navaratri",
-        "Diwali",
-        "Dussehra",
+        "Onam",
+        "Vishu",
+        "Deepavali",
         "Pongal"
       ],
       "correct": 0,
-      "explanation": "Navaratri is a major festival in southern India, dedicated to the goddess Durga."
+      "explanation": "Onam is a famous festival celebrated in the state of Kerala, which is a harvest festival and also a celebration of the homecoming of King Mahabali."
     },
     {
       "id": 15,
       "category": "Heritage Sites",
-      "question": "Which ancient Indian monument is a UNESCO World Heritage Site, located in Mahabalipuram?",
+      "question": "Which of the following is a UNESCO World Heritage Site located in the state of Maharashtra?",
       "options": [
+        "Ajanta Caves",
+        "Ellora Caves",
         "Taj Mahal",
-        "Red Fort",
-        "Group of Monuments at Mahabalipuram",
-        "Konark Sun Temple"
+        "Red Fort"
       ],
-      "correct": 2,
-      "explanation": "The Group of Monuments at Mahabalipuram is a UNESCO World Heritage Site, featuring ancient rock-cut temples and sculptures."
+      "correct": 0,
+      "explanation": "The Ajanta Caves are a UNESCO World Heritage Site located in the state of Maharashtra, which are known for their ancient Buddhist rock-cut temples and sculptures."
     },
     {
       "id": 16,
       "category": "Ancient India",
-      "question": "Who was the author of the ancient Indian epic, the Ramayana?",
+      "question": "Which ancient Indian text is also known as the 'Song of God'?",
       "options": [
-        "Valmiki",
-        "Vyasa",
-        "Kalidasa",
-        "Tulsidas"
+        "Bhagavad Gita",
+        "Mahabharata",
+        "Ramayana",
+        "Upanishads"
       ],
       "correct": 0,
-      "explanation": "Valmiki is credited with writing the ancient Indian epic, the Ramayana."
+      "explanation": "The Bhagavad Gita is also known as the 'Song of God', which is a part of the epic Mahabharata and contains the teachings of Lord Krishna to Prince Arjuna."
     },
     {
       "id": 17,
       "category": "Medieval India",
-      "question": "Which Mughal emperor built the Red Fort in Delhi?",
+      "question": "Who was the founder of the Vijayanagara Empire?",
       "options": [
-        "Babur",
-        "Humayun",
+        "Harihar and Bukka Raya",
+        "Krishna Deva Raya",
         "Akbar",
-        "Shah Jahan"
+        "Shivaji"
       ],
-      "correct": 3,
-      "explanation": "Shah Jahan built the Red Fort in Delhi, which served as the imperial palace of the Mughal Empire."
+      "correct": 0,
+      "explanation": "Harihar and Bukka Raya were the founders of the Vijayanagara Empire, which was a powerful empire in southern India during the medieval period."
     },
     {
       "id": 18,
       "category": "Modern India",
-      "question": "The Indian Independence Act was passed in which year?",
+      "question": "Who was the first Governor-General of India?",
       "options": [
-        "1945",
-        "1946",
-        "1947",
-        "1948"
+        "Warren Hastings",
+        "Lord William Bentinck",
+        "Lord Cornwallis",
+        "Lord Curzon"
       ],
-      "correct": 2,
-      "explanation": "The Indian Independence Act was passed in 1947, granting India independence from British rule."
+      "correct": 0,
+      "explanation": "Warren Hastings was the first Governor-General of India, who served from 1773 to 1785 and played a significant role in the establishment of British rule in India."
     },
     {
       "id": 19,
       "category": "Indian Culture",
-      "question": "What is the name of the traditional Indian classical dance form that originated in the state of Kerala?",
+      "question": "Which of the following is a classical dance form of southern India?",
       "options": [
         "Bharatanatyam",
         "Kathakali",
         "Kuchipudi",
         "Odissi"
       ],
-      "correct": 1,
-      "explanation": "Kathakali is a traditional Indian classical dance form that originated in the state of Kerala."
+      "correct": 0,
+      "explanation": "Bharatanatyam is a classical dance form of southern India, which originated in the state of Tamil Nadu and is known for its intricate footwork and hand gestures."
     },
     {
       "id": 20,
       "category": "Heritage Sites",
-      "question": "Which ancient Indian city is a UNESCO World Heritage Site, known for its rock-cut caves and sculptures?",
+      "question": "Which of the following is a famous monument located in the city of Delhi?",
       "options": [
-        "Ajanta",
-        "Ellora",
-        "Khajuraho",
-        "Hampi"
+        "Qutub Minar",
+        "Red Fort",
+        "India Gate",
+        "Jantar Mantar"
       ],
       "correct": 0,
-      "explanation": "Ajanta is a UNESCO World Heritage Site, famous for its rock-cut caves and sculptures, which date back to the 2nd century BCE."
+      "explanation": "Qutub Minar is a famous monument located in the city of Delhi, which is a UNESCO World Heritage Site and was built by Qutb-ud-din Aibak in the 12th century."
     },
     {
       "id": 21,
       "category": "Geography",
-      "question": "What is the largest state in India by area?",
+      "question": "Which mountain range runs along the eastern edge of India?",
       "options": [
-        "Rajasthan",
-        "Madhya Pradesh",
-        "Uttar Pradesh",
-        "Maharashtra"
+        "The Himalayas",
+        "The Eastern Ghats",
+        "The Western Ghats",
+        "The Aravallis"
       ],
-      "correct": 0,
-      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342,239 square kilometers."
+      "correct": 1,
+      "explanation": "The Eastern Ghats mountain range runs along the eastern edge of India."
     },
     {
       "id": 22,
-      "category": "Geography",
-      "question": "Which mountain range runs along the eastern coast of India?",
-      "options": [
-        "Western Ghats",
-        "Eastern Ghats",
-        "Himalayas",
-        "Aravalli Range"
-      ],
-      "correct": 1,
-      "explanation": "The Eastern Ghats mountain range runs along the eastern coast of India, parallel to the Bay of Bengal."
-    },
-    {
-      "id": 23,
       "category": "Geography",
       "question": "What is the name of the largest river in Odisha?",
       "options": [
@@ -301,98 +288,111 @@
         "Brahmani"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi is the largest river in Odisha, flowing for approximately 860 kilometers before emptying into the Bay of Bengal."
+      "explanation": "The Mahanadi is the largest river in Odisha."
+    },
+    {
+      "id": 23,
+      "category": "Geography",
+      "question": "Which type of climate is predominant in India?",
+      "options": [
+        "Tropical",
+        "Temperate",
+        "Polar",
+        "Desert"
+      ],
+      "correct": 0,
+      "explanation": "India has a tropical climate."
     },
     {
       "id": 24,
       "category": "Geography",
-      "question": "Which type of soil is commonly found in the coastal regions of Odisha?",
+      "question": "What is the name of the coastal plain in Odisha?",
       "options": [
-        "Alluvial soil",
-        "Laterite soil",
-        "Black soil",
-        "Red soil"
+        "Odisha Coastal Plain",
+        "Coromandel Coast",
+        "Konkan Coast",
+        "Malabar Coast"
       ],
       "correct": 0,
-      "explanation": "Alluvial soil is commonly found in the coastal regions of Odisha, deposited by the rivers and sea."
+      "explanation": "The Odisha Coastal Plain is the coastal plain in Odisha."
     },
     {
       "id": 25,
       "category": "Geography",
-      "question": "What is the main crop grown in the winter season in Odisha?",
+      "question": "Which type of soil is commonly found in Odisha?",
+      "options": [
+        "Alluvial",
+        "Laterite",
+        "Black soil",
+        "Red soil"
+      ],
+      "correct": 1,
+      "explanation": "Laterite soil is commonly found in Odisha."
+    },
+    {
+      "id": 26,
+      "category": "Geography",
+      "question": "What is the main crop grown in Odisha?",
       "options": [
         "Rice",
         "Wheat",
         "Pulses",
         "Oilseeds"
       ],
-      "correct": 1,
-      "explanation": "Wheat is the main crop grown in the winter season in Odisha, sown from October to December and harvested from February to April."
-    },
-    {
-      "id": 26,
-      "category": "Geography",
-      "question": "Which mineral is abundantly found in the Keonjhar district of Odisha?",
-      "options": [
-        "Iron ore",
-        "Chromite",
-        "Manganese",
-        "Bauxite"
-      ],
       "correct": 0,
-      "explanation": "Iron ore is abundantly found in the Keonjhar district of Odisha, with many mines operating in the region."
+      "explanation": "Rice is the main crop grown in Odisha."
     },
     {
       "id": 27,
       "category": "Geography",
-      "question": "What is the name of the plateau region in western Odisha?",
+      "question": "Which mineral is abundantly found in Odisha?",
       "options": [
-        "Chhota Nagpur Plateau",
-        "Deccan Plateau",
-        "Odisha Plateau",
-        "Chhattisgarh Plateau"
+        "Iron ore",
+        "Coal",
+        "Bauxite",
+        "Chromite"
       ],
-      "correct": 2,
-      "explanation": "The Odisha Plateau region is located in western Odisha, covering districts such as Sundergarh, Keonjhar, and Mayurbhanj."
+      "correct": 0,
+      "explanation": "Iron ore is abundantly found in Odisha."
     },
     {
       "id": 28,
       "category": "Geography",
-      "question": "Which climate type is predominant in the state of Odisha?",
+      "question": "What is the name of the plateau in Odisha?",
       "options": [
-        "Tropical wet and dry climate",
-        "Tropical rainforest climate",
-        "Humid subtropical climate",
-        "Semi-arid climate"
+        "Deccan Plateau",
+        "Chota Nagpur Plateau",
+        "Odisha Plateau",
+        "Bastar Plateau"
       ],
-      "correct": 0,
-      "explanation": "The tropical wet and dry climate is predominant in the state of Odisha, characterized by high temperatures and heavy rainfall during the monsoon season."
+      "correct": 2,
+      "explanation": "The Odisha Plateau is the plateau in Odisha."
     },
     {
       "id": 29,
-      "category": "Geography",
-      "question": "What is the name of the largest lake in Odisha?",
-      "options": [
-        "Chilika Lake",
-        "Ansupa Lake",
-        "Hirakud Reservoir",
-        "Indravati Reservoir"
-      ],
-      "correct": 0,
-      "explanation": "Chilika Lake is the largest lake in Odisha, covering an area of approximately 1,100 square kilometers."
-    },
-    {
-      "id": 30,
       "category": "Geography",
       "question": "Which river forms the boundary between Odisha and Andhra Pradesh?",
       "options": [
         "Mahanadi",
         "Godavari",
         "Krishna",
-        "Sabari"
+        "Brahmani"
       ],
-      "correct": 3,
-      "explanation": "The Sabari River forms the boundary between Odisha and Andhra Pradesh, flowing through the districts of Malkangiri and Koraput."
+      "correct": 2,
+      "explanation": "The Krishna river forms the boundary between Odisha and Andhra Pradesh."
+    },
+    {
+      "id": 30,
+      "category": "Geography",
+      "question": "What is the name of the coastal district in Odisha known for its rich mineral deposits?",
+      "options": [
+        "Keonjhar",
+        "Mayurbhanj",
+        "Ganjam",
+        "Kendrapara"
+      ],
+      "correct": 0,
+      "explanation": "Keonjhar is the coastal district in Odisha known for its rich mineral deposits."
     }
   ]
 }

@@ -1,91 +1,39 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Ancient History",
-      "question": "The ancient Indian university of Taxila was a major center of learning for which of the following subjects?",
+      "category": "Ancient Indian History",
+      "question": "The ancient Indian university of Takshashila was located in which modern-day country?",
       "options": [
-        "Buddhist philosophy",
-        "Vedic rituals",
-        "Ayurvedic medicine",
-        "All of the above"
+        "India",
+        "Pakistan",
+        "Afghanistan",
+        "Nepal"
       ],
-      "correct": 3,
-      "explanation": "Taxila was a major center of learning for various subjects, including Buddhist philosophy, Vedic rituals, and Ayurvedic medicine."
+      "correct": 1,
+      "explanation": "Takshashila was an ancient Indian university located in modern-day Pakistan."
     },
     {
       "id": 2,
-      "category": "Medieval History",
-      "question": "The Mughal emperor who built the city of Fatehpur Sikri was",
+      "category": "Medieval Indian History",
+      "question": "The Mughal emperor who built the Taj Mahal was?",
       "options": [
-        "Babur",
-        "Humayun",
         "Akbar",
-        "Shah Jahan"
+        "Shah Jahan",
+        "Aurangzeb",
+        "Babur"
       ],
-      "correct": 2,
-      "explanation": "Fatehpur Sikri was built by Akbar as his new capital, but it was abandoned after a few years due to water scarcity."
+      "correct": 1,
+      "explanation": "Shah Jahan built the Taj Mahal in memory of his wife, Mumtaz Mahal."
     },
     {
       "id": 3,
       "category": "Freedom Struggle",
-      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in the year",
-      "options": [
-        "1919",
-        "1920",
-        "1921",
-        "1922"
-      ],
-      "correct": 1,
-      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920, with the aim of withdrawing cooperation from the British government."
-    },
-    {
-      "id": 4,
-      "category": "Modern History",
-      "question": "The British East India Company was granted a royal charter by Queen Elizabeth I in the year",
-      "options": [
-        "1600",
-        "1605",
-        "1610",
-        "1615"
-      ],
-      "correct": 0,
-      "explanation": "The British East India Company was granted a royal charter by Queen Elizabeth I in 1600, giving it a monopoly on trade with the East Indies."
-    },
-    {
-      "id": 5,
-      "category": "Ancient History",
-      "question": "The ancient Indian text that describes the concept of 'Dharma' is",
-      "options": [
-        "Rigveda",
-        "Manusmriti",
-        "Arthashastra",
-        "Mahabharata"
-      ],
-      "correct": 1,
-      "explanation": "The Manusmriti describes the concept of 'Dharma' as a set of moral and social duties that individuals must follow."
-    },
-    {
-      "id": 6,
-      "category": "Medieval History",
-      "question": "The Vijayanagara empire was founded by",
-      "options": [
-        "Harihara and Bukka",
-        "Krishnadeva Raya",
-        "Aurangzeb",
-        "Shivaji"
-      ],
-      "correct": 0,
-      "explanation": "The Vijayanagara empire was founded by Harihara and Bukka, two brothers who were local chieftains."
-    },
-    {
-      "id": 7,
-      "category": "Freedom Struggle",
-      "question": "The Indian National Congress was founded in the year",
+      "question": "The Indian National Congress was founded in the year?",
       "options": [
         "1884",
         "1885",
@@ -93,38 +41,90 @@
         "1887"
       ],
       "correct": 1,
-      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume, with the aim of promoting Indian rights and interests."
+      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume."
+    },
+    {
+      "id": 4,
+      "category": "Ancient Indian History",
+      "question": "The ancient Indian king who converted to Buddhism after the Kalinga War was?",
+      "options": [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Samudragupta",
+        "Bimbisara"
+      ],
+      "correct": 1,
+      "explanation": "Ashoka converted to Buddhism after the Kalinga War and became a great patron of the religion."
+    },
+    {
+      "id": 5,
+      "category": "Medieval Indian History",
+      "question": "The Vijayanagara Empire was founded by?",
+      "options": [
+        "Harihara and Bukka Raya",
+        "Krishnadeva Raya",
+        "Akbar",
+        "Shivaji"
+      ],
+      "correct": 0,
+      "explanation": "The Vijayanagara Empire was founded by Harihara and Bukka Raya in the 14th century."
+    },
+    {
+      "id": 6,
+      "category": "Freedom Struggle",
+      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in the year?",
+      "options": [
+        "1919",
+        "1920",
+        "1921",
+        "1922"
+      ],
+      "correct": 1,
+      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920."
+    },
+    {
+      "id": 7,
+      "category": "Modern Indian History",
+      "question": "The Partition of Bengal was announced in the year?",
+      "options": [
+        "1903",
+        "1905",
+        "1907",
+        "1911"
+      ],
+      "correct": 1,
+      "explanation": "The Partition of Bengal was announced in 1905 by Lord Curzon."
     },
     {
       "id": 8,
-      "category": "Modern History",
-      "question": "The Partition of Bengal was announced by Lord Curzon in the year",
+      "category": "Ancient Indian History",
+      "question": "The ancient Indian text that describes the social and economic conditions of the Mauryan Empire is?",
       "options": [
-        "1903",
-        "1904",
-        "1905",
-        "1906"
+        "Arthashastra",
+        "Mahabharata",
+        "Ramayana",
+        "Indica"
       ],
-      "correct": 2,
-      "explanation": "The Partition of Bengal was announced by Lord Curzon in 1905, with the aim of dividing the province into two separate entities."
+      "correct": 0,
+      "explanation": "The Arthashastra describes the social and economic conditions of the Mauryan Empire."
     },
     {
       "id": 9,
-      "category": "Ancient History",
-      "question": "The ancient Indian king who built the Stupa at Sanchi was",
+      "category": "Medieval Indian History",
+      "question": "The Delhi Sultan who built the Qutub Minar was?",
       "options": [
-        "Ashoka",
-        "Bindusara",
-        "Chandragupta Maurya",
-        "Kanishka"
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Razia Sultan",
+        "Alauddin Khalji"
       ],
       "correct": 0,
-      "explanation": "The Stupa at Sanchi was built by Ashoka, who was a major patron of Buddhism and built many stupas and monasteries throughout his empire."
+      "explanation": "Qutb-ud-din Aibak built the Qutub Minar, which was completed by his successor, Iltutmish."
     },
     {
       "id": 10,
       "category": "Freedom Struggle",
-      "question": "The Quit India Movement was launched by Mahatma Gandhi in the year",
+      "question": "The Quit India Movement was launched by Mahatma Gandhi in the year?",
       "options": [
         "1940",
         "1941",
@@ -132,38 +132,51 @@
         "1943"
       ],
       "correct": 2,
-      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942, with the aim of forcing the British to leave India immediately."
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942."
     },
     {
       "id": 11,
-      "category": "Indian Geography",
-      "question": "What is the largest state in India by area?",
+      "category": "Physical Geography",
+      "question": "What is the name of the largest desert in India?",
       "options": [
-        "Rajasthan",
-        "Madhya Pradesh",
-        "Uttar Pradesh",
-        "Maharashtra"
+        "Thar Desert",
+        "Cholistan Desert",
+        "Kutch Desert",
+        "Cold Desert"
       ],
       "correct": 0,
-      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342,239 square kilometers."
+      "explanation": "The Thar Desert, also known as the Cholistan Desert, is the largest desert in India, covering an area of approximately 260,000 square kilometers."
     },
     {
       "id": 12,
-      "category": "Indian Geography",
-      "question": "Which mountain range runs along the eastern edge of India?",
+      "category": "Economic Geography",
+      "question": "Which of the following states is the largest producer of iron ore in India?",
       "options": [
-        "The Himalayas",
-        "The Western Ghats",
-        "The Eastern Ghats",
-        "The Purvachal"
+        "Odisha",
+        "Jharkhand",
+        "Chhattisgarh",
+        "Madhya Pradesh"
       ],
-      "correct": 3,
-      "explanation": "The Purvachal mountain range runs along the eastern edge of India, stretching from Arunachal Pradesh to Mizoram."
+      "correct": 0,
+      "explanation": "Odisha is the largest producer of iron ore in India, accounting for over 50% of the country's total iron ore production."
     },
     {
       "id": 13,
-      "category": "Indian Geography",
-      "question": "Which river is the longest in South India?",
+      "category": "Climate",
+      "question": "What is the primary cause of the southwest monsoon in India?",
+      "options": [
+        "Temperature difference between land and sea",
+        "Pressure difference between land and sea",
+        "Wind patterns over the Indian Ocean",
+        "Latitude of the Indian subcontinent"
+      ],
+      "correct": 0,
+      "explanation": "The primary cause of the southwest monsoon in India is the temperature difference between the land and the sea, which creates a pressure gradient that drives the monsoon winds."
+    },
+    {
+      "id": 14,
+      "category": "Rivers",
+      "question": "Which river is known as the 'Ganga of the South'?",
       "options": [
         "Godavari",
         "Krishna",
@@ -171,194 +184,168 @@
         "Tungabhadra"
       ],
       "correct": 0,
-      "explanation": "The Godavari River is the longest in South India, stretching approximately 1,465 kilometers from its source to its mouth."
-    },
-    {
-      "id": 14,
-      "category": "Indian Geography",
-      "question": "What is the name of the strait that separates India from Sri Lanka?",
-      "options": [
-        "Palk Strait",
-        "Adam's Bridge",
-        "Laccadive Sea",
-        "Indian Ocean"
-      ],
-      "correct": 0,
-      "explanation": "The Palk Strait separates India from Sri Lanka, connecting the Bay of Bengal to the Gulf of Mannar."
+      "explanation": "The Godavari River is known as the 'Ganga of the South' due to its cultural and spiritual significance in southern India."
     },
     {
       "id": 15,
-      "category": "Indian Geography",
-      "question": "Which state has the largest coastline in India?",
-      "options": [
-        "Gujarat",
-        "Maharashtra",
-        "Tamil Nadu",
-        "Andhra Pradesh"
-      ],
-      "correct": 0,
-      "explanation": "Gujarat has the largest coastline in India, with a length of approximately 1,600 kilometers."
-    },
-    {
-      "id": 16,
-      "category": "Indian Geography",
-      "question": "What is the name of the largest island in the Andaman and Nicobar Islands?",
-      "options": [
-        "Andaman",
-        "Nicobar",
-        "Great Nicobar",
-        "Little Andaman"
-      ],
-      "correct": 0,
-      "explanation": "The Andaman Island is the largest island in the Andaman and Nicobar Islands, with an area of approximately 6,408 square kilometers."
-    },
-    {
-      "id": 17,
-      "category": "Indian Geography",
-      "question": "Which city is located on the shores of the Dal Lake?",
-      "options": [
-        "Srinagar",
-        "Leh",
-        "Jammu",
-        "Kashmir"
-      ],
-      "correct": 0,
-      "explanation": "Srinagar is located on the shores of the Dal Lake, which is a popular tourist destination in Jammu and Kashmir."
-    },
-    {
-      "id": 18,
-      "category": "Indian Geography",
-      "question": "What is the name of the highest peak in the Western Ghats?",
-      "options": [
-        "Anamudi",
-        "Doddabetta",
-        "Mullayanagiri",
-        "Kudremukh"
-      ],
-      "correct": 0,
-      "explanation": "Anamudi is the highest peak in the Western Ghats, with a height of approximately 2,695 meters above sea level."
-    },
-    {
-      "id": 19,
-      "category": "Indian Geography",
-      "question": "Which state is the largest producer of coal in India?",
+      "category": "Resources",
+      "question": "Which state has the largest reserves of coal in India?",
       "options": [
         "Jharkhand",
-        "Chhattisgarh",
         "Odisha",
+        "Chhattisgarh",
         "West Bengal"
       ],
       "correct": 0,
-      "explanation": "Jharkhand is the largest producer of coal in India, accounting for approximately 25% of the country's coal production."
+      "explanation": "Jharkhand has the largest reserves of coal in India, with over 83 billion tonnes of coal reserves."
+    },
+    {
+      "id": 16,
+      "category": "Physical Geography",
+      "question": "What is the name of the highest mountain peak in the Eastern Ghats?",
+      "options": [
+        "Mahendragiri",
+        "Aravalli",
+        "Vindhya",
+        "Satpura"
+      ],
+      "correct": 0,
+      "explanation": "Mahendragiri is the highest mountain peak in the Eastern Ghats, with an elevation of 1,501 meters above sea level."
+    },
+    {
+      "id": 17,
+      "category": "Economic Geography",
+      "question": "Which of the following cities is a major hub for the diamond cutting and polishing industry in India?",
+      "options": [
+        "Mumbai",
+        "Surat",
+        "Delhi",
+        "Kolkata"
+      ],
+      "correct": 1,
+      "explanation": "Surat is a major hub for the diamond cutting and polishing industry in India, with over 90% of the country's diamond cutting and polishing work being done in the city."
+    },
+    {
+      "id": 18,
+      "category": "Climate",
+      "question": "What is the name of the weather phenomenon that brings rainfall to the western coast of India during the summer months?",
+      "options": [
+        "Southwest monsoon",
+        "Northeast monsoon",
+        "Western disturbance",
+        "Cyclone"
+      ],
+      "correct": 0,
+      "explanation": "The southwest monsoon is the weather phenomenon that brings rainfall to the western coast of India during the summer months, from June to September."
+    },
+    {
+      "id": 19,
+      "category": "Rivers",
+      "question": "Which river flows through the Kaziranga National Park in Assam?",
+      "options": [
+        "Brahmaputra",
+        "Barak",
+        "Dhansiri",
+        "Kameng"
+      ],
+      "correct": 0,
+      "explanation": "The Brahmaputra River flows through the Kaziranga National Park in Assam, which is a UNESCO World Heritage Site and home to the endangered one-horned rhinoceros."
     },
     {
       "id": 20,
-      "category": "Indian Geography",
-      "question": "What is the name of the famous delta formed by the Ganges, Brahmaputra, and Meghna rivers?",
+      "category": "Resources",
+      "question": "Which state has the largest reserves of bauxite in India?",
       "options": [
-        "Ganges Delta",
-        "Brahmaputra Delta",
-        "Sundarbans Delta",
-        "Ganges-Brahmaputra-Meghna Delta"
+        "Odisha",
+        "Jharkhand",
+        "Chhattisgarh",
+        "Gujarat"
       ],
-      "correct": 3,
-      "explanation": "The Ganges-Brahmaputra-Meghna Delta is the largest delta in the world, formed by the confluence of the Ganges, Brahmaputra, and Meghna rivers."
+      "correct": 0,
+      "explanation": "Odisha has the largest reserves of bauxite in India, with over 2,044 million tonnes of bauxite reserves."
     },
     {
       "id": 21,
       "category": "Indian Polity & Governance",
-      "question": "Which part of the Indian Constitution deals with the Fundamental Rights of citizens?",
+      "question": "What is the primary function of the Rajya Sabha?",
       "options": [
-        "Part III",
-        "Part IV",
-        "Part V",
-        "Part VI"
+        "To represent the interests of the states",
+        "To represent the interests of the judiciary",
+        "To represent the interests of the parliament",
+        "To represent the interests of the government"
       ],
       "correct": 0,
-      "explanation": "Part III of the Indian Constitution, articles 14-35, deals with the Fundamental Rights of citizens."
+      "explanation": "The Rajya Sabha is designed to represent the interests of the states and provide a platform for discussion and deliberation on key issues affecting the country."
     },
     {
       "id": 22,
       "category": "Indian Polity & Governance",
-      "question": "What is the minimum number of members required for a Parliamentary session to be valid?",
+      "question": "Who is the head of the Panchayati Raj system in India?",
       "options": [
-        "1/5th of the total membership",
-        "1/10th of the total membership",
-        "1/4th of the total membership",
-        "10 members"
+        "Gram Pradhan",
+        "Sarpanch",
+        "District Collector",
+        "Chief Minister"
       ],
       "correct": 0,
-      "explanation": "According to the Constitution, at least 1/10th of the total membership of the House must be present for a session to be valid."
+      "explanation": "The Gram Pradhan is the head of the Panchayati Raj system in India, responsible for overseeing the administration and development of the village."
     },
     {
       "id": 23,
       "category": "Indian Polity & Governance",
-      "question": "What is the term of office for a member of the State Legislative Council?",
+      "question": "What is the purpose of the Public Interest Litigation (PIL) in India?",
       "options": [
-        "4 years",
-        "5 years",
-        "6 years",
-        "7 years"
+        "To promote public interest and accountability",
+        "To promote private interest and gain",
+        "To promote judicial activism",
+        "To promote government control"
       ],
-      "correct": 2,
-      "explanation": "Members of the State Legislative Council have a term of 6 years, with 1/3rd of the members retiring every 2 years."
+      "correct": 0,
+      "explanation": "The PIL is a legal mechanism that allows citizens to approach the courts to promote public interest and accountability, and to address issues of social and economic importance."
     },
     {
       "id": 24,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution gives special status to the state of Jammu and Kashmir?",
+      "question": "Which article of the Indian Constitution deals with the right to freedom of speech and expression?",
       "options": [
-        "Article 370",
-        "Article 371",
-        "Article 372",
-        "Article 373"
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 25"
       ],
-      "correct": 0,
-      "explanation": "Article 370 of the Indian Constitution gave special status to the state of Jammu and Kashmir."
+      "correct": 1,
+      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression, which is a fundamental right guaranteed to all citizens."
     },
     {
       "id": 25,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the committee that examines the report of the Comptroller and Auditor General of India?",
+      "question": "What is the term of office of the President of India?",
       "options": [
-        "Public Accounts Committee",
-        "Estimates Committee",
-        "Committee on Public Undertakings",
-        "Committee on Subordinate Legislation"
+        "5 years",
+        "6 years",
+        "7 years",
+        "10 years"
       ],
       "correct": 0,
-      "explanation": "The Public Accounts Committee examines the report of the Comptroller and Auditor General of India."
+      "explanation": "The term of office of the President of India is 5 years, as specified in Article 56 of the Indian Constitution."
     },
     {
       "id": 26,
       "category": "Indian Polity & Governance",
-      "question": "What is the purpose of the 73rd and 74th Constitutional Amendment Acts, 1992?",
+      "question": "Which of the following is not a fundamental right guaranteed by the Indian Constitution?",
       "options": [
-        "To establish local self-government",
-        "To give special status to certain states",
-        "To create a new All-India service",
-        "To amend the Constitution in relation to taxation"
+        "Right to property",
+        "Right to education",
+        "Right to freedom of speech and expression",
+        "Right to life and liberty"
       ],
       "correct": 0,
-      "explanation": "The 73rd and 74th Constitutional Amendment Acts, 1992, aimed to establish local self-government in rural and urban areas, respectively."
+      "explanation": "The right to property is not a fundamental right guaranteed by the Indian Constitution, as it was abolished by the 44th Amendment Act of 1978."
     },
     {
       "id": 27,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution provides for the independence of the judiciary?",
-      "options": [
-        "Article 14",
-        "Article 21",
-        "Article 50",
-        "Article 124"
-      ],
-      "correct": 2,
-      "explanation": "Article 50 of the Indian Constitution provides for the separation of judiciary from the executive, ensuring the independence of the judiciary."
-    },
-    {
-      "id": 28,
-      "category": "Indian Polity & Governance",
-      "question": "Who is the chairman of the National Human Rights Commission?",
+      "question": "Who is the chairman of the National Human Rights Commission (NHRC) of India?",
       "options": [
         "The President of India",
         "The Prime Minister of India",
@@ -366,33 +353,46 @@
         "A retired Chief Justice of India"
       ],
       "correct": 3,
-      "explanation": "The chairman of the National Human Rights Commission is a retired Chief Justice of India."
+      "explanation": "The chairman of the NHRC is a retired Chief Justice of India, who is responsible for promoting and protecting human rights in the country."
+    },
+    {
+      "id": 28,
+      "category": "Indian Polity & Governance",
+      "question": "What is the minimum age required to become a member of the Lok Sabha?",
+      "options": [
+        "21 years",
+        "25 years",
+        "30 years",
+        "35 years"
+      ],
+      "correct": 1,
+      "explanation": "The minimum age required to become a member of the Lok Sabha is 25 years, as specified in Article 84 of the Indian Constitution."
     },
     {
       "id": 29,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the constitutional body that advises the President on the appointment of judges to the Supreme Court and high courts?",
+      "question": "Which of the following is a feature of the Indian parliamentary system?",
       "options": [
-        "National Judicial Commission",
-        "Collegium System",
-        "Judicial Appointments Commission",
-        "High Court Appellate Tribunal"
+        "Separation of powers",
+        "Collective responsibility",
+        "Independence of the judiciary",
+        "Federalism"
       ],
       "correct": 1,
-      "explanation": "The Collegium System, comprising senior judges, advises the President on the appointment of judges to the Supreme Court and high courts."
+      "explanation": "The Indian parliamentary system is characterized by collective responsibility, where the government is responsible to the legislature and must maintain its confidence to remain in office."
     },
     {
       "id": 30,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution guarantees the right to freedom of speech and expression?",
+      "question": "Who has the power to appoint the Governors of the states in India?",
       "options": [
-        "Article 19",
-        "Article 21",
-        "Article 25",
-        "Article 30"
+        "The President of India",
+        "The Prime Minister of India",
+        "The Chief Justice of India",
+        "The Parliament of India"
       ],
       "correct": 0,
-      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression, with certain reasonable restrictions."
+      "explanation": "The President of India has the power to appoint the Governors of the states, as specified in Article 155 of the Indian Constitution."
     }
   ]
 }
