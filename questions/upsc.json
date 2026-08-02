@@ -1,52 +1,52 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Ancient Indian History",
-      "question": "Which of the following ancient Indian kingdoms was known for its sophisticated system of administration and architecture?",
+      "question": "The ancient Indian university of Taxila was situated in which modern-day country?",
       "options": [
-        "Mauryan Empire",
-        "Gupta Empire",
-        "Kushan Empire",
-        "Chola Empire"
+        "India",
+        "Pakistan",
+        "Afghanistan",
+        "Nepal"
       ],
-      "correct": 0,
-      "explanation": "The Mauryan Empire is known for its sophisticated system of administration, including a well-organized bureaucracy and a robust system of taxation, as well as its impressive architectural achievements, such as the construction of the Ashoka Pillars."
+      "correct": 1,
+      "explanation": "Taxila was an ancient Indian university situated in modern-day Pakistan."
     },
     {
       "id": 2,
       "category": "Medieval Indian History",
-      "question": "Who was the founder of the Bahmani Kingdom in the Deccan region of India?",
+      "question": "The founder of the Mughal Empire in India was",
       "options": [
-        "Hasan Gangu",
-        "Alauddin Bahman Shah",
-        "Firoz Shah Tughlaq",
-        "Muhammad bin Tughlaq"
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Shah Jahan"
       ],
-      "correct": 1,
-      "explanation": "Alauddin Bahman Shah was the founder of the Bahmani Kingdom in 1347 CE, which played a significant role in the medieval history of India, particularly in the Deccan region."
+      "correct": 0,
+      "explanation": "Babur founded the Mughal Empire in India after defeating Ibrahim Lodi in the Battle of Panipat in 1526."
     },
     {
       "id": 3,
       "category": "Modern Indian History",
-      "question": "The Indian National Congress was founded in which year?",
+      "question": "The Indian National Congress was founded in",
       "options": [
-        "1884",
         "1885",
-        "1886",
-        "1887"
+        "1887",
+        "1888",
+        "1889"
       ],
-      "correct": 1,
-      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume, a British civil servant, with the objective of promoting Indian rights and interests, and it later became a major force in the Indian independence movement."
+      "correct": 0,
+      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume."
     },
     {
       "id": 4,
       "category": "Freedom Struggle",
-      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
+      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in",
       "options": [
         "1919",
         "1920",
@@ -54,207 +54,129 @@
         "1922"
       ],
       "correct": 1,
-      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920 as a protest against the Rowlatt Act and the Jallianwala Bagh massacre, aiming to achieve swaraj through non-violent means."
+      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920."
     },
     {
       "id": 5,
       "category": "Ancient Indian History",
-      "question": "The ancient Indian university of Nalanda was located in which modern-day state?",
+      "question": "The ancient Indian king who built the Great Stupa of Sanchi was",
       "options": [
-        "Bihar",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Odisha"
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Samudragupta",
+        "Harshavardhana"
       ],
       "correct": 0,
-      "explanation": "The ancient Indian university of Nalanda was located in present-day Bihar, and it was a major center of learning and intellectual inquiry in ancient India, attracting students and scholars from across the world."
+      "explanation": "The Great Stupa of Sanchi was built during the reign of Ashoka."
     },
     {
       "id": 6,
       "category": "Medieval Indian History",
-      "question": "The Vijayanagara Empire was founded by which brothers?",
+      "question": "The Vijayanagara Empire was founded by",
       "options": [
         "Harihara and Bukka Raya",
-        "Kumaragupta and Skandagupta",
-        "Krishnadeva Raya and Aliya Rama Raya",
-        "Alauddin Khalji and Muhammad bin Tughlaq"
+        "Krishna Deva Raya",
+        "Aurangzeb",
+        "Shivaji"
       ],
       "correct": 0,
-      "explanation": "The Vijayanagara Empire was founded by the brothers Harihara and Bukka Raya in the 14th century CE, and it played a significant role in the medieval history of southern India."
+      "explanation": "The Vijayanagara Empire was founded by Harihara and Bukka Raya in 1336."
     },
     {
       "id": 7,
       "category": "Modern Indian History",
-      "question": "The Indian Rebellion of 1857 was led by which of the following leaders?",
+      "question": "The British East India Company established its first factory in India at",
       "options": [
-        "Mangal Pandey",
-        "Rani Lakshmibai",
-        "Tantia Tope",
-        "All of the above"
+        "Surat",
+        "Bombay",
+        "Calcutta",
+        "Madras"
       ],
-      "correct": 3,
-      "explanation": "The Indian Rebellion of 1857 was a widespread uprising against British rule in India, led by various leaders including Mangal Pandey, Rani Lakshmibai, and Tantia Tope, among others."
+      "correct": 0,
+      "explanation": "The British East India Company established its first factory in India at Surat in 1612."
     },
     {
       "id": 8,
       "category": "Freedom Struggle",
-      "question": "The Quit India Movement was launched by Mahatma Gandhi in which year?",
+      "question": "The Quit India Movement was launched by Mahatma Gandhi in",
       "options": [
-        "1940",
-        "1941",
         "1942",
-        "1943"
+        "1943",
+        "1944",
+        "1945"
       ],
-      "correct": 2,
-      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942, with the slogan 'Do or Die', demanding immediate independence for India from British rule."
+      "correct": 0,
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942."
     },
     {
       "id": 9,
-      "category": "Ancient Indian History",
-      "question": "The ancient Indian text of the Arthashastra was written by which of the following authors?",
+      "category": "Medieval Indian History",
+      "question": "The Delhi Sultanate was founded by",
       "options": [
-        "Kautilya",
-        "Manu",
-        "Panini",
-        "Vatsyayana"
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Razia Sultan",
+        "Balban"
       ],
       "correct": 0,
-      "explanation": "The ancient Indian text of the Arthashastra was written by Kautilya, also known as Chanakya, who was a prominent advisor to the Mauryan emperor Chandragupta Maurya and is considered one of the greatest thinkers in Indian history."
+      "explanation": "The Delhi Sultanate was founded by Qutb-ud-din Aibak in 1206."
     },
     {
       "id": 10,
-      "category": "Medieval Indian History",
-      "question": "The Sufi saint Khwaja Moinuddin Chishti was buried in which of the following cities?",
+      "category": "Ancient Indian History",
+      "question": "The ancient Indian text that describes the social and economic conditions of the Vedic period is",
       "options": [
-        "Delhi",
-        "Ajmer",
-        "Lahore",
-        "Agra"
+        "Rigveda",
+        "Mahabharata",
+        "Ramayana",
+        "Arthashastra"
       ],
-      "correct": 1,
-      "explanation": "The Sufi saint Khwaja Moinuddin Chishti was buried in Ajmer, where his dargah (tomb) is still a major pilgrimage site, attracting millions of devotees from across the world."
+      "correct": 0,
+      "explanation": "The Rigveda is the oldest of the Vedas and describes the social and economic conditions of the Vedic period."
     },
     {
       "id": 11,
       "category": "Indian Geography",
-      "question": "What is the largest state in India by area?",
+      "question": "What is the largest river basin in India?",
       "options": [
-        "Rajasthan",
-        "Madhya Pradesh",
-        "Uttar Pradesh",
-        "Maharashtra"
+        "Ganges River Basin",
+        "Indus River Basin",
+        "Brahmaputra River Basin",
+        "Godavari River Basin"
       ],
       "correct": 0,
-      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342,239 square kilometers."
+      "explanation": "The Ganges River Basin is the largest river basin in India, covering an area of approximately 861,000 square kilometers."
     },
     {
       "id": 12,
       "category": "Indian Geography",
       "question": "Which mountain range runs along the eastern edge of India?",
       "options": [
-        "The Himalayas",
-        "The Eastern Ghats",
-        "The Western Ghats",
-        "The Aravalli Range"
+        "Himalayan Mountain Range",
+        "Aravalli Mountain Range",
+        "Eastern Ghats",
+        "Western Ghats"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "The Eastern Ghats mountain range runs along the eastern edge of India, parallel to the Bay of Bengal."
     },
     {
       "id": 13,
       "category": "Indian Geography",
-      "question": "What is the longest river in India?",
+      "question": "What is the name of the strait that separates India from Sri Lanka?",
       "options": [
-        "The Ganges",
-        "The Brahmaputra",
-        "The Indus",
-        "The Godavari"
+        "Palk Strait",
+        "Mannar Strait",
+        "Laccadive Strait",
+        "Adam's Strait"
       ],
       "correct": 0,
-      "explanation": "The Ganges is the longest river in India, stretching approximately 2,525 kilometers from its source to its delta."
+      "explanation": "The Palk Strait is a strait that separates India from Sri Lanka, connecting the Bay of Bengal to the Gulf of Mannar."
     },
     {
       "id": 14,
       "category": "Indian Geography",
-      "question": "Which of the following is NOT a major mineral resource found in India?",
-      "options": [
-        "Coal",
-        "Iron Ore",
-        "Copper",
-        "Tin"
-      ],
-      "correct": 3,
-      "explanation": "Tin is not a major mineral resource found in India, whereas coal, iron ore, and copper are all significant mineral resources in the country."
-    },
-    {
-      "id": 15,
-      "category": "Indian Geography",
-      "question": "What type of climate does the western coastal region of India experience?",
-      "options": [
-        "Tropical Wet",
-        "Tropical Dry",
-        "Temperate",
-        "Alpine"
-      ],
-      "correct": 0,
-      "explanation": "The western coastal region of India experiences a tropical wet climate, characterized by high temperatures and high levels of rainfall throughout the year."
-    },
-    {
-      "id": 16,
-      "category": "Indian Geography",
-      "question": "Which of the following rivers flows through the states of Madhya Pradesh and Gujarat?",
-      "options": [
-        "The Narmada",
-        "The Tapi",
-        "The Godavari",
-        "The Mahanadi"
-      ],
-      "correct": 0,
-      "explanation": "The Narmada River flows through the states of Madhya Pradesh and Gujarat before emptying into the Arabian Sea."
-    },
-    {
-      "id": 17,
-      "category": "Indian Geography",
-      "question": "What is the name of the strait that separates the islands of Little Andaman and Great Nicobar?",
-      "options": [
-        "The Ten Degree Channel",
-        "The Duncan Passage",
-        "The Sombrero Channel",
-        "The Coco Channel"
-      ],
-      "correct": 0,
-      "explanation": "The Ten Degree Channel is the strait that separates the islands of Little Andaman and Great Nicobar in the Andaman and Nicobar Islands."
-    },
-    {
-      "id": 18,
-      "category": "Indian Geography",
-      "question": "Which of the following types of soil is commonly found in the Indo-Gangetic Plain?",
-      "options": [
-        "Alluvial Soil",
-        "Black Soil",
-        "Red Soil",
-        "Laterite Soil"
-      ],
-      "correct": 0,
-      "explanation": "Alluvial soil is commonly found in the Indo-Gangetic Plain, which is a fertile and densely populated region in northern India."
-    },
-    {
-      "id": 19,
-      "category": "Indian Geography",
-      "question": "What is the name of the highest peak in the Western Ghats mountain range?",
-      "options": [
-        "Anamudi",
-        "Doddabetta",
-        "Mullayanagiri",
-        "Kudremukh"
-      ],
-      "correct": 0,
-      "explanation": "Anamudi is the highest peak in the Western Ghats mountain range, with an elevation of approximately 2,695 meters above sea level."
-    },
-    {
-      "id": 20,
-      "category": "Indian Geography",
-      "question": "Which of the following states has the longest coastline in India?",
+      "question": "Which state in India has the longest coastline?",
       "options": [
         "Gujarat",
         "Maharashtra",
@@ -262,137 +184,215 @@
         "Andhra Pradesh"
       ],
       "correct": 0,
-      "explanation": "Gujarat has the longest coastline in India, with a coastline of approximately 1,600 kilometers along the Arabian Sea."
+      "explanation": "Gujarat has the longest coastline in India, with a coastline of approximately 1,600 kilometers."
+    },
+    {
+      "id": 15,
+      "category": "Indian Geography",
+      "question": "What is the name of the highest peak in the Western Ghats?",
+      "options": [
+        "Anamudi Peak",
+        "Doddabetta Peak",
+        "Mullayanagiri Peak",
+        "Kalsubai Peak"
+      ],
+      "correct": 0,
+      "explanation": "The Anamudi Peak is the highest peak in the Western Ghats, with an elevation of 2,695 meters."
+    },
+    {
+      "id": 16,
+      "category": "Indian Geography",
+      "question": "Which river is known as the 'Ganga of the South'?",
+      "options": [
+        "Godavari River",
+        "Krishna River",
+        "Kaveri River",
+        "Tungabhadra River"
+      ],
+      "correct": 0,
+      "explanation": "The Godavari River is known as the 'Ganga of the South' due to its cultural and spiritual significance in southern India."
+    },
+    {
+      "id": 17,
+      "category": "Indian Geography",
+      "question": "What is the name of the largest island in the Andaman and Nicobar Islands?",
+      "options": [
+        "Great Andaman Island",
+        "Little Andaman Island",
+        "Nicobar Island",
+        "Car Nicobar Island"
+      ],
+      "correct": 0,
+      "explanation": "The Great Andaman Island is the largest island in the Andaman and Nicobar Islands, with an area of approximately 3,200 square kilometers."
+    },
+    {
+      "id": 18,
+      "category": "Indian Geography",
+      "question": "Which city is located at the confluence of the Ganges and Yamuna rivers?",
+      "options": [
+        "Prayagraj",
+        "Varanasi",
+        "Kanpur",
+        "Lucknow"
+      ],
+      "correct": 0,
+      "explanation": "Prayagraj is located at the confluence of the Ganges and Yamuna rivers, and is a significant cultural and spiritual center in India."
+    },
+    {
+      "id": 19,
+      "category": "Indian Geography",
+      "question": "What is the name of the largest desert in India?",
+      "options": [
+        "Thar Desert",
+        "Cholistan Desert",
+        "Rajasthan Desert",
+        "Great Indian Desert"
+      ],
+      "correct": 0,
+      "explanation": "The Thar Desert is the largest desert in India, covering an area of approximately 260,000 square kilometers across the states of Rajasthan, Gujarat, and Punjab."
+    },
+    {
+      "id": 20,
+      "category": "Indian Geography",
+      "question": "Which state in India is known as the 'Land of Five Rivers'?",
+      "options": [
+        "Punjab",
+        "Haryana",
+        "Uttarakhand",
+        "Himachal Pradesh"
+      ],
+      "correct": 0,
+      "explanation": "Punjab is known as the 'Land of Five Rivers', referring to the five major rivers that flow through the state: the Sutlej, Beas, Ravi, Chenab, and Jhelum."
     },
     {
       "id": 21,
       "category": "Indian Polity & Governance",
-      "question": "What is the primary function of the Parliament of India?",
+      "question": "Which part of the Indian Constitution deals with the Fundamental Rights of citizens?",
       "options": [
-        "To elect the President of India",
-        "To make laws for the country",
-        "To appoint the Prime Minister of India",
-        "To advise the Supreme Court of India"
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part VI"
       ],
-      "correct": 1,
-      "explanation": "The primary function of the Parliament of India is to make laws for the country."
+      "correct": 0,
+      "explanation": "Part III of the Indian Constitution deals with the Fundamental Rights of citizens, which are guaranteed by the Constitution and are justiciable."
     },
     {
       "id": 22,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution guarantees the right to freedom of speech and expression?",
+      "question": "What is the minimum number of members required for a Lok Sabha session to be valid?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 25"
+        "1/10th of the total membership",
+        "1/5th of the total membership",
+        "1/4th of the total membership",
+        "1/3rd of the total membership"
       ],
-      "correct": 1,
-      "explanation": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression."
+      "correct": 0,
+      "explanation": "According to Article 100(3) of the Indian Constitution, at least 1/10th of the total membership of either House of Parliament is required for a session to be valid."
     },
     {
       "id": 23,
       "category": "Indian Polity & Governance",
-      "question": "What is the term of the Lok Sabha?",
+      "question": "Which article of the Indian Constitution provides for the independence of the judiciary?",
+      "options": [
+        "Article 124",
+        "Article 127",
+        "Article 217",
+        "Article 226"
+      ],
+      "correct": 0,
+      "explanation": "Article 124 of the Indian Constitution provides for the independence of the judiciary by ensuring that judges are free from external influences and can make decisions without fear or favor."
+    },
+    {
+      "id": 24,
+      "category": "Indian Polity & Governance",
+      "question": "What is the term of office for a member of the Rajya Sabha?",
       "options": [
         "4 years",
         "5 years",
         "6 years",
         "7 years"
       ],
-      "correct": 1,
-      "explanation": "The term of the Lok Sabha is 5 years."
-    },
-    {
-      "id": 24,
-      "category": "Indian Polity & Governance",
-      "question": "Who is the head of the Panchayati Raj system at the village level?",
-      "options": [
-        "Sarpanch",
-        "Gram Pradhan",
-        "Mukhiya",
-        "Panch"
-      ],
-      "correct": 0,
-      "explanation": "The head of the Panchayati Raj system at the village level is the Sarpanch."
+      "correct": 2,
+      "explanation": "The term of office for a member of the Rajya Sabha is 6 years, with 1/3rd of the members retiring every 2 years."
     },
     {
       "id": 25,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is NOT a Fundamental Right?",
+      "question": "Which of the following is a fundamental right guaranteed by the Indian Constitution?",
       "options": [
-        "Right to Equality",
-        "Right to Freedom",
         "Right to Property",
-        "Right to Information"
+        "Right to Education",
+        "Right to Freedom of Speech and Expression",
+        "Right to Employment"
       ],
       "correct": 2,
-      "explanation": "The Right to Property is not a Fundamental Right."
+      "explanation": "The Right to Freedom of Speech and Expression is a fundamental right guaranteed by Article 19(1)(a) of the Indian Constitution."
     },
     {
       "id": 26,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the advisory body that assists the President of India in the exercise of his functions?",
+      "question": "What is the name of the committee that examines the reports of the Comptroller and Auditor General of India?",
       "options": [
-        "Council of Ministers",
-        "Planning Commission",
-        "National Development Council",
-        "Union Public Service Commission"
+        "Public Accounts Committee",
+        "Estimates Committee",
+        "Committee on Public Undertakings",
+        "Committee on Subordinate Legislation"
       ],
       "correct": 0,
-      "explanation": "The Council of Ministers is the advisory body that assists the President of India in the exercise of his functions."
+      "explanation": "The Public Accounts Committee examines the reports of the Comptroller and Auditor General of India and ensures that the government is held accountable for its financial transactions."
     },
     {
       "id": 27,
       "category": "Indian Polity & Governance",
-      "question": "Who has the power to appoint the Judges of the Supreme Court of India?",
+      "question": "Which article of the Indian Constitution provides for the appointment of the Governor of a state?",
       "options": [
-        "The President of India",
-        "The Prime Minister of India",
-        "The Chief Justice of India",
-        "The Law Minister of India"
+        "Article 153",
+        "Article 155",
+        "Article 156",
+        "Article 157"
       ],
-      "correct": 0,
-      "explanation": "The President of India has the power to appoint the Judges of the Supreme Court of India."
+      "correct": 1,
+      "explanation": "Article 155 of the Indian Constitution provides for the appointment of the Governor of a state by the President of India."
     },
     {
       "id": 28,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the provisions for the protection of the Scheduled Castes and Scheduled Tribes?",
+      "question": "What is the purpose of the 73rd and 74th Amendments to the Indian Constitution?",
       "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
+        "To strengthen the judiciary",
+        "To promote the development of local self-government",
+        "To strengthen the role of the opposition in Parliament",
+        "To promote the rights of women"
       ],
-      "correct": 2,
-      "explanation": "Article 16 of the Indian Constitution deals with the provisions for the protection of the Scheduled Castes and Scheduled Tribes."
+      "correct": 1,
+      "explanation": "The 73rd and 74th Amendments to the Indian Constitution aimed to promote the development of local self-government by providing for the establishment of Panchayats and Municipalities."
     },
     {
       "id": 29,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the system of governance in India at the local level?",
+      "question": "Which of the following is a characteristic of the Indian federal system?",
       "options": [
-        "Panchayati Raj",
-        "Nagarpalika",
-        "Zilla Parishad",
-        "Gram Sabha"
+        "A strong center and weak states",
+        "A weak center and strong states",
+        "A strong center and strong states",
+        "A unitary system with no states"
       ],
       "correct": 0,
-      "explanation": "The system of governance in India at the local level is known as Panchayati Raj."
+      "explanation": "The Indian federal system has a strong center and weak states, with the center having more powers than the states in many areas."
     },
     {
       "id": 30,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a feature of the Indian Constitution?",
+      "question": "What is the name of the doctrine that provides for the protection of the fundamental rights of citizens?",
       "options": [
-        "Federalism",
-        "Unitary",
-        "Parliamentary",
-        "Presidential"
+        "Doctrine of Separation of Powers",
+        "Doctrine of Judicial Review",
+        "Doctrine of Due Process",
+        "Doctrine of Natural Justice"
       ],
-      "correct": 0,
-      "explanation": "Federalism is a feature of the Indian Constitution."
+      "correct": 1,
+      "explanation": "The Doctrine of Judicial Review provides for the protection of the fundamental rights of citizens by allowing the judiciary to review and strike down laws and government actions that violate these rights."
     }
   ]
 }
