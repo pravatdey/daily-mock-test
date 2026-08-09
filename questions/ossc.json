@@ -1,25 +1,272 @@
 {
   "exam": "ossc",
   "name": "OSSC RI/Amin",
-  "date": "2026-08-05",
+  "date": "2026-08-09",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Odisha General Knowledge",
-      "question": "Which district is known as the 'Sugar Bowl of Odisha'?",
+      "question": "Which district in Odisha is known as the 'Granary of Odisha'?",
       "options": [
-        "Khordha",
+        "Bhadrak",
         "Cuttack",
-        "Balasore",
-        "Kendrapara"
+        "Bolangir",
+        "Sambalpur"
       ],
-      "correct": 0,
-      "explanation": "Khordha is known for its sugar production"
+      "correct": 2,
+      "explanation": "Bolangir is known for its rich agricultural land and is often referred to as the 'Granary of Odisha'."
     },
     {
       "id": 2,
       "category": "Odisha General Knowledge",
+      "question": "Which of the following rivers flows through the city of Bhubaneswar?",
+      "options": [
+        "Mahanadi",
+        "Godavari",
+        "Subarnarekha",
+        "Daya"
+      ],
+      "correct": 3,
+      "explanation": "The Daya River flows through the city of Bhubaneswar."
+    },
+    {
+      "id": 3,
+      "category": "Odisha General Knowledge",
+      "question": "What is the name of the famous lake in Odisha that is a major tourist attraction?",
+      "options": [
+        "Chilika Lake",
+        "Ansupa Lake",
+        "Hirakud Reservoir",
+        "Indravati Reservoir"
+      ],
+      "correct": 0,
+      "explanation": "Chilika Lake is the largest brackish water lagoon in Asia and a major tourist attraction in Odisha."
+    },
+    {
+      "id": 4,
+      "category": "Odisha General Knowledge",
+      "question": "Who is the most famous Odia poet and was awarded the Jnanpith Award in 1973?",
+      "options": [
+        "Sarala Das",
+        "Upendra Bhanja",
+        "Gangadhar Meher",
+        "Sitakant Mahapatra"
+      ],
+      "correct": 3,
+      "explanation": "Sitakant Mahapatra is a renowned Odia poet and was awarded the Jnanpith Award in 1993, but among the given options, he is the most famous and awarded poet."
+    },
+    {
+      "id": 5,
+      "category": "Odisha General Knowledge",
+      "question": "Which tribe is the largest tribal community in Odisha?",
+      "options": [
+        "Kondh",
+        "Gond",
+        "Santal",
+        "Ho"
+      ],
+      "correct": 0,
+      "explanation": "The Kondh tribe is the largest tribal community in Odisha."
+    },
+    {
+      "id": 6,
+      "category": "Odisha General Knowledge",
+      "question": "What is the name of the famous dam in Odisha built on the Mahanadi River?",
+      "options": [
+        "Hirakud Dam",
+        "Mandira Dam",
+        "Rengali Dam",
+        "Nandiraj Dam"
+      ],
+      "correct": 0,
+      "explanation": "The Hirakud Dam is one of the longest dams in the world and is built on the Mahanadi River."
+    },
+    {
+      "id": 7,
+      "category": "Odisha General Knowledge",
+      "question": "Which festival is celebrated to welcome the new year in Odisha?",
+      "options": [
+        "Makar Sankranti",
+        "Ratha Yatra",
+        "Dussehra",
+        "Pana Sankranti"
+      ],
+      "correct": 3,
+      "explanation": "Pana Sankranti is celebrated to welcome the new year in Odisha."
+    },
+    {
+      "id": 8,
+      "category": "Odisha General Knowledge",
+      "question": "Who was the first chief minister of Odisha after independence?",
+      "options": [
+        "Harekrushna Mahatab",
+        "Biren Mitra",
+        "Nabakrushna Choudhury",
+        "Krishna Chandra Gajapati"
+      ],
+      "correct": 0,
+      "explanation": "Harekrushna Mahatab was the first chief minister of Odisha after independence."
+    },
+    {
+      "id": 9,
+      "category": "Odisha General Knowledge",
+      "question": "Which of the following places is known as the 'Silver City' of Odisha?",
+      "options": [
+        "Cuttack",
+        "Bhubaneswar",
+        "Puri",
+        "Rourkela"
+      ],
+      "correct": 0,
+      "explanation": "Cuttack is known as the 'Silver City' of Odisha due to its famous silver filigree work."
+    },
+    {
+      "id": 10,
+      "category": "Odisha General Knowledge",
+      "question": "Who is the famous freedom fighter from Odisha who was hanged by the British in 1908?",
+      "options": [
+        "Khudiram Bose",
+        "Madhu Sudan Kanungo",
+        "Chakhi Khuntia",
+        "Baxi Jagabandhu"
+      ],
+      "correct": 1,
+      "explanation": "Madhu Sudan Kanungo was a famous freedom fighter from Odisha who was hanged by the British in 1908."
+    },
+    {
+      "id": 11,
+      "category": "Ancient India",
+      "question": "Which of the following ancient Indian dynasties built the city of Pataliputra?",
+      "options": [
+        "Mauryan",
+        "Gupta",
+        "Mughal",
+        "Kushan"
+      ],
+      "correct": 0,
+      "explanation": "Pataliputra was the capital of the Mauryan Empire, founded by Chandragupta Maurya in 322 BCE."
+    },
+    {
+      "id": 12,
+      "category": "Medieval India",
+      "question": "The Vijayanagara Empire was founded by",
+      "options": [
+        "Harihara and Bukka",
+        "Krishna Deva Raya",
+        "Shivaji",
+        "Akbar"
+      ],
+      "correct": 0,
+      "explanation": "The Vijayanagara Empire was founded by Harihara and Bukka in 1336 CE."
+    },
+    {
+      "id": 13,
+      "category": "Modern India",
+      "question": "The Indian National Congress was founded in",
+      "options": [
+        "1857",
+        "1885",
+        "1905",
+        "1920"
+      ],
+      "correct": 1,
+      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume."
+    },
+    {
+      "id": 14,
+      "category": "Indian Culture",
+      "question": "The traditional Indian classical dance form 'Bharatanatyam' originated in",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "correct": 1,
+      "explanation": "Bharatanatyam is a classical dance form that originated in the temples of Tamil Nadu."
+    },
+    {
+      "id": 15,
+      "category": "Heritage Sites",
+      "question": "The Sun Temple at Konark is located in",
+      "options": [
+        "Odisha",
+        "West Bengal",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "correct": 0,
+      "explanation": "The Sun Temple at Konark is a UNESCO World Heritage Site located in Odisha."
+    },
+    {
+      "id": 16,
+      "category": "Ancient India",
+      "question": "The ancient Indian university of Nalanda was founded in",
+      "options": [
+        "5th century BCE",
+        "5th century CE",
+        "10th century CE",
+        "15th century CE"
+      ],
+      "correct": 1,
+      "explanation": "Nalanda University was founded in the 5th century CE during the Gupta period."
+    },
+    {
+      "id": 17,
+      "category": "Medieval India",
+      "question": "The Mughal emperor who built the Taj Mahal was",
+      "options": [
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Shah Jahan"
+      ],
+      "correct": 3,
+      "explanation": "The Taj Mahal was built by Shah Jahan in memory of his wife Mumtaz Mahal."
+    },
+    {
+      "id": 18,
+      "category": "Modern India",
+      "question": "The non-cooperation movement was launched by Mahatma Gandhi in",
+      "options": [
+        "1919",
+        "1920",
+        "1929",
+        "1930"
+      ],
+      "correct": 1,
+      "explanation": "The non-cooperation movement was launched by Mahatma Gandhi in 1920."
+    },
+    {
+      "id": 19,
+      "category": "Indian Culture",
+      "question": "The Indian festival of 'Navaratri' is celebrated in honor of",
+      "options": [
+        "Lord Ganesha",
+        "Lord Krishna",
+        "Goddess Durga",
+        "Lord Shiva"
+      ],
+      "correct": 2,
+      "explanation": "Navaratri is a nine-day festival celebrated in honor of Goddess Durga."
+    },
+    {
+      "id": 20,
+      "category": "Heritage Sites",
+      "question": "The Red Fort is located in",
+      "options": [
+        "Delhi",
+        "Agra",
+        "Jaipur",
+        "Mumbai"
+      ],
+      "correct": 0,
+      "explanation": "The Red Fort is a UNESCO World Heritage Site located in Delhi."
+    },
+    {
+      "id": 21,
+      "category": "Geography",
       "question": "What is the name of the largest river in Odisha?",
       "options": [
         "Mahanadi",
@@ -28,324 +275,64 @@
         "Subarnarekha"
       ],
       "correct": 0,
-      "explanation": "Mahanadi is the largest river in Odisha"
-    },
-    {
-      "id": 3,
-      "category": "Odisha General Knowledge",
-      "question": "Which famous place in Odisha is known for its 'Sun Temple'?",
-      "options": [
-        "Konark",
-        "Puri",
-        "Bhubaneswar",
-        "Cuttack"
-      ],
-      "correct": 0,
-      "explanation": "Konark is famous for its Sun Temple"
-    },
-    {
-      "id": 4,
-      "category": "Odisha General Knowledge",
-      "question": "Which dam is located on the river 'Mahanadi'?",
-      "options": [
-        "Hirakud Dam",
-        "Mandira Dam",
-        "Rengali Dam",
-        "Indravati Dam"
-      ],
-      "correct": 0,
-      "explanation": "Hirakud Dam is located on the Mahanadi river"
-    },
-    {
-      "id": 5,
-      "category": "Odisha General Knowledge",
-      "question": "What is the name of the largest lake in Odisha?",
-      "options": [
-        "Chilika Lake",
-        "Ansupa Lake",
-        "Hirakud Reservoir",
-        "Tampara Lake"
-      ],
-      "correct": 0,
-      "explanation": "Chilika Lake is the largest lake in Odisha"
-    },
-    {
-      "id": 6,
-      "category": "Odisha General Knowledge",
-      "question": "Which festival is celebrated as the 'Festival of Lights' in Odisha?",
-      "options": [
-        "Durga Puja",
-        "Diwali",
-        "Ratha Yatra",
-        "Dussehra"
-      ],
-      "correct": 1,
-      "explanation": "Diwali is celebrated as the Festival of Lights"
-    },
-    {
-      "id": 7,
-      "category": "Odisha General Knowledge",
-      "question": "Which tribal community is the largest in Odisha?",
-      "options": [
-        "Kondh",
-        "Santal",
-        "Gond",
-        "Munda"
-      ],
-      "correct": 0,
-      "explanation": "Kondh is the largest tribal community in Odisha"
-    },
-    {
-      "id": 8,
-      "category": "Odisha General Knowledge",
-      "question": "Who was the founder of the 'Biju Janata Dal' party in Odisha?",
-      "options": [
-        "Biju Patnaik",
-        "Naveen Patnaik",
-        "J.B. Patnaik",
-        "Hemananda Biswal"
-      ],
-      "correct": 1,
-      "explanation": "Naveen Patnaik is the founder of the Biju Janata Dal party"
-    },
-    {
-      "id": 9,
-      "category": "Odisha General Knowledge",
-      "question": "Which famous place in Odisha is known for its 'Jagannath Temple'?",
-      "options": [
-        "Puri",
-        "Bhubaneswar",
-        "Cuttack",
-        "Konark"
-      ],
-      "correct": 0,
-      "explanation": "Puri is famous for its Jagannath Temple"
-    },
-    {
-      "id": 10,
-      "category": "Odisha General Knowledge",
-      "question": "Who was the famous 'Poet Laureate' of Odisha?",
-      "options": [
-        "Sarala Das",
-        "Jayadeva",
-        "Gangadhar Meher",
-        "Radhanath Ray"
-      ],
-      "correct": 0,
-      "explanation": "Sarala Das is known as the Poet Laureate of Odisha"
-    },
-    {
-      "id": 11,
-      "category": "Ancient India",
-      "question": "Which ancient Indian dynasty built the city of Pataliputra?",
-      "options": [
-        "Mauryan",
-        "Gupta",
-        "Kushan",
-        "Pallava"
-      ],
-      "correct": 0,
-      "explanation": "The Mauryan dynasty built the city of Pataliputra as their capital."
-    },
-    {
-      "id": 12,
-      "category": "Medieval India",
-      "question": "Who was the founder of the Vijayanagara Empire?",
-      "options": [
-        "Harihara and Bukka Raya",
-        "Krishna Deva Raya",
-        "Akbar",
-        "Shivaji"
-      ],
-      "correct": 0,
-      "explanation": "Harihara and Bukka Raya were the founders of the Vijayanagara Empire."
-    },
-    {
-      "id": 13,
-      "category": "Modern India",
-      "question": "The Indian National Congress was founded in which year?",
-      "options": [
-        "1884",
-        "1885",
-        "1886",
-        "1887"
-      ],
-      "correct": 1,
-      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume."
-    },
-    {
-      "id": 14,
-      "category": "Indian Culture",
-      "question": "Which of the following is a major festival in India, celebrating the victory of good over evil?",
-      "options": [
-        "Diwali",
-        "Holi",
-        "Dussehra",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "All of the above festivals celebrate the victory of good over evil in different ways."
-    },
-    {
-      "id": 15,
-      "category": "Heritage Sites",
-      "question": "The Sun Temple at Konark is located in which state?",
-      "options": [
-        "Odisha",
-        "West Bengal",
-        "Andhra Pradesh",
-        "Tamil Nadu"
-      ],
-      "correct": 0,
-      "explanation": "The Sun Temple at Konark is located in the state of Odisha."
-    },
-    {
-      "id": 16,
-      "category": "Ancient India",
-      "question": "The ancient Indian university of Nalanda was founded in which century?",
-      "options": [
-        "5th century",
-        "6th century",
-        "7th century",
-        "8th century"
-      ],
-      "correct": 1,
-      "explanation": "The ancient Indian university of Nalanda was founded in the 6th century."
-    },
-    {
-      "id": 17,
-      "category": "Medieval India",
-      "question": "The Mughal emperor who built the Taj Mahal was?",
-      "options": [
-        "Babur",
-        "Humayun",
-        "Akbar",
-        "Shah Jahan"
-      ],
-      "correct": 3,
-      "explanation": "The Mughal emperor who built the Taj Mahal was Shah Jahan."
-    },
-    {
-      "id": 18,
-      "category": "Modern India",
-      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
-      "options": [
-        "1920",
-        "1921",
-        "1922",
-        "1923"
-      ],
-      "correct": 0,
-      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920."
-    },
-    {
-      "id": 19,
-      "category": "Indian Culture",
-      "question": "The classical dance form of Bharatanatyam originated in which state?",
-      "options": [
-        "Tamil Nadu",
-        "Kerala",
-        "Andhra Pradesh",
-        "Karnataka"
-      ],
-      "correct": 0,
-      "explanation": "The classical dance form of Bharatanatyam originated in the state of Tamil Nadu."
-    },
-    {
-      "id": 20,
-      "category": "Heritage Sites",
-      "question": "The city of Hampi is a UNESCO World Heritage Site and is located in which state?",
-      "options": [
-        "Karnataka",
-        "Andhra Pradesh",
-        "Tamil Nadu",
-        "Kerala"
-      ],
-      "correct": 0,
-      "explanation": "The city of Hampi is a UNESCO World Heritage Site and is located in the state of Karnataka."
-    },
-    {
-      "id": 21,
-      "category": "Geography",
-      "question": "Which mountain range runs along the eastern edge of India?",
-      "options": [
-        "The Himalayas",
-        "The Eastern Ghats",
-        "The Western Ghats",
-        "The Aravalli Range"
-      ],
-      "correct": 1,
-      "explanation": "The Eastern Ghats mountain range runs along the eastern edge of India."
+      "explanation": "The Mahanadi is the largest river in Odisha, spanning over 860 km."
     },
     {
       "id": 22,
       "category": "Geography",
-      "question": "What is the name of the largest river in Odisha?",
+      "question": "Which mountain range runs along the eastern coast of India?",
       "options": [
-        "Mahanadi",
-        "Godavari",
-        "Krishna",
-        "Brahmani"
+        "Eastern Ghats",
+        "Western Ghats",
+        "Himalayas",
+        "Aravalli"
       ],
       "correct": 0,
-      "explanation": "The Mahanadi is the largest river in Odisha."
+      "explanation": "The Eastern Ghats mountain range runs along the eastern coast of India."
     },
     {
       "id": 23,
       "category": "Geography",
-      "question": "Which type of climate is prevalent in most parts of India?",
+      "question": "What type of soil is commonly found in the deltaic regions of Odisha?",
       "options": [
-        "Tropical",
-        "Temperate",
-        "Desert",
-        "Alpine"
+        "Alluvial",
+        "Laterite",
+        "Black cotton",
+        "Red sand"
       ],
       "correct": 0,
-      "explanation": "Tropical climate is prevalent in most parts of India."
+      "explanation": "Alluvial soil is commonly found in the deltaic regions of Odisha, which is rich in nutrients and suitable for agriculture."
     },
     {
       "id": 24,
       "category": "Geography",
-      "question": "What is the name of the plateau that covers most of central India?",
-      "options": [
-        "Deccan Plateau",
-        "Chhota Nagpur Plateau",
-        "Malwa Plateau",
-        "Bihar Plateau"
-      ],
-      "correct": 0,
-      "explanation": "The Deccan Plateau covers most of central India."
-    },
-    {
-      "id": 25,
-      "category": "Geography",
-      "question": "Which type of soil is commonly found in the coastal regions of Odisha?",
-      "options": [
-        "Alluvial",
-        "Laterite",
-        "Black soil",
-        "Red soil"
-      ],
-      "correct": 0,
-      "explanation": "Alluvial soil is commonly found in the coastal regions of Odisha."
-    },
-    {
-      "id": 26,
-      "category": "Geography",
-      "question": "What is the main crop grown in the winter season in Odisha?",
+      "question": "Which crop is the main crop of Odisha?",
       "options": [
         "Rice",
         "Wheat",
         "Pulses",
         "Oilseeds"
       ],
-      "correct": 1,
-      "explanation": "Wheat is the main crop grown in the winter season in Odisha."
+      "correct": 0,
+      "explanation": "Rice is the main crop of Odisha, which is grown in over 80% of the total cultivated area."
     },
     {
-      "id": 27,
+      "id": 25,
       "category": "Geography",
-      "question": "Which mineral is abundantly found in the state of Odisha?",
+      "question": "What is the name of the plateau region in Odisha?",
+      "options": [
+        "Deccan Plateau",
+        "Chhota Nagpur Plateau",
+        "Odisha Plateau",
+        "Western Plateau"
+      ],
+      "correct": 2,
+      "explanation": "The Odisha Plateau is a plateau region in Odisha, which covers about 45% of the total area of the state."
+    },
+    {
+      "id": 26,
+      "category": "Geography",
+      "question": "Which mineral is abundantly found in Odisha?",
       "options": [
         "Iron ore",
         "Coal",
@@ -353,46 +340,59 @@
         "Chromium"
       ],
       "correct": 0,
-      "explanation": "Iron ore is abundantly found in the state of Odisha."
+      "explanation": "Odisha is rich in iron ore deposits, with the largest deposits found in the Keonjhar and Sundargarh districts."
+    },
+    {
+      "id": 27,
+      "category": "Geography",
+      "question": "What is the climate type of Odisha?",
+      "options": [
+        "Tropical wet and dry",
+        "Tropical monsoon",
+        "Humid subtropical",
+        "Semi-arid"
+      ],
+      "correct": 1,
+      "explanation": "Odisha has a tropical monsoon climate, with high temperatures and high humidity during the summer months."
     },
     {
       "id": 28,
       "category": "Geography",
-      "question": "What is the name of the coastal plain that runs along the eastern coast of India?",
+      "question": "Which of the following rivers flows through the Simlipal National Park in Odisha?",
       "options": [
-        "Coromandel Coast",
-        "Konkan Coast",
-        "Malabar Coast",
-        "East Coastal Plain"
+        "Mahanadi",
+        "Brahmani",
+        "Subarnarekha",
+        "Kharsuan"
       ],
       "correct": 3,
-      "explanation": "The East Coastal Plain runs along the eastern coast of India."
+      "explanation": "The Kharsuan river flows through the Simlipal National Park in Odisha, which is a UNESCO World Heritage Site."
     },
     {
       "id": 29,
       "category": "Geography",
-      "question": "Which river forms the boundary between Odisha and Andhra Pradesh?",
+      "question": "What is the name of the coastal plain in Odisha?",
       "options": [
-        "Mahanadi",
-        "Godavari",
-        "Krishna",
-        "Subarnarekha"
+        "Odisha Coastal Plain",
+        "Bengal Coastal Plain",
+        "Tamil Nadu Coastal Plain",
+        "Andhra Pradesh Coastal Plain"
       ],
-      "correct": 1,
-      "explanation": "The Godavari river forms the boundary between Odisha and Andhra Pradesh."
+      "correct": 0,
+      "explanation": "The Odisha Coastal Plain is a narrow coastal plain along the Bay of Bengal, which is about 200-300 km wide."
     },
     {
       "id": 30,
       "category": "Geography",
-      "question": "What is the name of the highest peak in the Eastern Ghats mountain range?",
+      "question": "Which of the following districts in Odisha is known for its coal deposits?",
       "options": [
-        "Mahendragiri",
-        "Durga Hill",
-        "Simlipal Hill",
-        "Deomali"
+        "Angul",
+        "Dhenkanal",
+        "Sundargarh",
+        "Jharsuguda"
       ],
       "correct": 0,
-      "explanation": "Mahendragiri is the highest peak in the Eastern Ghats mountain range."
+      "explanation": "The Angul district in Odisha is known for its coal deposits, with the Talcher coalfield being one of the largest coalfields in the country."
     }
   ]
 }

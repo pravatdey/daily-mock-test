@@ -1,34 +1,34 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-08-05",
+  "date": "2026-08-09",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
       "category": "Ancient Indian History",
-      "question": "Which of the following ancient Indian texts is also known as the 'Fifth Veda'?",
+      "question": "Which of the following ancient Indian dynasties is credited with the construction of the Stupa at Sanchi?",
       "options": [
-        "Mahabharata",
-        "Ramayana",
-        "Puranas",
-        "Bhagavad Gita"
+        "Mauryan",
+        "Gupta",
+        "Sunga",
+        "Satavahana"
       ],
       "correct": 0,
-      "explanation": "The Mahabharata is often referred to as the 'Fifth Veda' due to its encyclopedic nature and comprehensive coverage of various aspects of life."
+      "explanation": "The Mauryan dynasty, specifically under Emperor Ashoka, is credited with the construction of the Stupa at Sanchi."
     },
     {
       "id": 2,
       "category": "Medieval Indian History",
-      "question": "Who among the following Mughal emperors built the city of Fatehpur Sikri?",
+      "question": "Who among the following Mughal emperors is known for his policy of Sulh-i-Kul, or 'peace with all'?",
       "options": [
+        "Babur",
         "Akbar",
         "Jahangir",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Shah Jahan"
       ],
-      "correct": 0,
-      "explanation": "Akbar built the city of Fatehpur Sikri as his capital, which was later abandoned due to water scarcity."
+      "correct": 1,
+      "explanation": "Akbar is known for his policy of Sulh-i-Kul, which means peace with all and reflects his efforts to promote harmony and tolerance among different religious and cultural groups within his empire."
     },
     {
       "id": 3,
@@ -41,298 +41,350 @@
         "1887"
       ],
       "correct": 1,
-      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume, an Englishman, with the aim of promoting Indian rights and interests."
+      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume, a British civil servant, with the aim of promoting Indian rights and interests."
     },
     {
       "id": 4,
       "category": "Freedom Struggle",
-      "question": "Which of the following movements was led by Mahatma Gandhi in 1942?",
+      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in the year",
       "options": [
-        "Non-Cooperation Movement",
-        "Civil Disobedience Movement",
-        "Quit India Movement",
-        "Salt March"
+        "1919",
+        "1920",
+        "1921",
+        "1922"
       ],
-      "correct": 2,
-      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942, with the slogan 'Do or Die', demanding immediate independence for India."
+      "correct": 1,
+      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920 as a protest against the Jallianwala Bagh massacre and the oppressive policies of the British government."
     },
     {
       "id": 5,
       "category": "Ancient Indian History",
-      "question": "The ancient Indian university of Nalanda was located in which modern-day state?",
+      "question": "The ancient Indian text, the Arthashastra, is attributed to which of the following authors?",
       "options": [
-        "Bihar",
-        "Uttar Pradesh",
-        "West Bengal",
-        "Odisha"
+        "Kautilya",
+        "Manu",
+        "Panini",
+        "Charaka"
       ],
       "correct": 0,
-      "explanation": "The ancient Indian university of Nalanda was located in present-day Bihar, and was a major center of learning and intellectual inquiry."
+      "explanation": "The Arthashastra is an ancient Indian text on statecraft, economic policy, and military strategy, attributed to Kautilya, a prime minister in the court of Emperor Chandragupta Maurya."
     },
     {
       "id": 6,
       "category": "Medieval Indian History",
-      "question": "The Vijayanagara Empire was founded by",
+      "question": "The Vijayanagara Empire was founded in the year",
       "options": [
-        "Harihara and Bukka Raya",
-        "Krishnadeva Raya",
-        "Aliya Rama Raya",
-        "Achyuta Raya"
+        "1300",
+        "1336",
+        "1350",
+        "1360"
       ],
-      "correct": 0,
-      "explanation": "The Vijayanagara Empire was founded by Harihara and Bukka Raya, two brothers who were local chieftains in the Deccan region."
+      "correct": 1,
+      "explanation": "The Vijayanagara Empire was founded in 1336 by Harihara and Bukka, two brothers from the Sangama dynasty, who established their capital at Vijayanagara, on the banks of the Tungabhadra River."
     },
     {
       "id": 7,
       "category": "Modern Indian History",
-      "question": "The British East India Company's rule in India was ended by the",
+      "question": "The British East India Company's monopoly on Indian trade was abolished by the",
       "options": [
-        "Government of India Act, 1858",
-        "Indian Independence Act, 1947",
-        "Regulating Act, 1773",
-        "Pitt's India Act, 1784"
+        "Pitt's India Act of 1784",
+        "Charter Act of 1813",
+        "Charter Act of 1833",
+        "Government of India Act of 1858"
       ],
-      "correct": 0,
-      "explanation": "The Government of India Act, 1858, marked the end of the British East India Company's rule in India, and the beginning of direct British rule."
+      "correct": 1,
+      "explanation": "The Charter Act of 1813 abolished the British East India Company's monopoly on Indian trade, allowing other British companies to trade with India."
     },
     {
       "id": 8,
       "category": "Freedom Struggle",
-      "question": "Who among the following leaders was known as the 'Lion of Bengal'?",
+      "question": "The Quit India Movement was launched by Mahatma Gandhi in the year",
       "options": [
-        "Lala Lajpat Rai",
-        "Bipin Chandra Pal",
-        "Bal Gangadhar Tilak",
-        "Aurobindo Ghosh"
+        "1940",
+        "1941",
+        "1942",
+        "1943"
       ],
       "correct": 2,
-      "explanation": "Bipin Chandra Pal was known as the 'Lion of Bengal' due to his fiery oratory skills and his role in the Swadeshi movement."
+      "explanation": "The Quit India Movement, also known as the August Movement, was launched by Mahatma Gandhi on August 8, 1942, with the slogan 'Do or Die', demanding an end to British rule in India."
     },
     {
       "id": 9,
       "category": "Ancient Indian History",
-      "question": "The ancient Indian ruler who built the Kailash temple at Ellora was",
+      "question": "The ancient Indian university of Taxila was located in the",
       "options": [
-        "Krishna I",
-        "Dantidurga",
-        "Rashtrakuta",
-        "Harsha"
+        "Gupta Empire",
+        "Mauryan Empire",
+        "Kushan Empire",
+        "Indus Valley Civilization"
       ],
-      "correct": 0,
-      "explanation": "The Kailash temple at Ellora was built by Krishna I, a Rashtrakuta king, in the 8th century CE."
+      "correct": 1,
+      "explanation": "The ancient Indian university of Taxila was located in the Mauryan Empire, specifically in the northwestern region of the Indian subcontinent, which is now part of modern-day Pakistan."
     },
     {
       "id": 10,
       "category": "Medieval Indian History",
-      "question": "The Sufi saint who is credited with the founding of the Qawwali tradition is",
+      "question": "The Sufi saint who founded the Chishti order in India was",
       "options": [
-        "Khwaja Moinuddin Chishti",
+        "Moinuddin Chishti",
         "Nizamuddin Auliya",
-        "Amir Khusrau",
+        "Fariduddin Ganjshakar",
         "Baba Farid"
       ],
-      "correct": 2,
-      "explanation": "Amir Khusrau is credited with the founding of the Qawwali tradition, which is a form of Sufi devotional music."
+      "correct": 0,
+      "explanation": "Moinuddin Chishti, also known as Gharib Nawaz, was a Sufi saint who founded the Chishti order in India in the 12th century and is credited with spreading Sufism in the Indian subcontinent."
     },
     {
       "id": 11,
-      "category": "Indian Geography",
-      "question": "What is the largest plateau in India?",
+      "category": "Physical Geography",
+      "question": "What is the largest state in India by area?",
       "options": [
-        "Deccan Plateau",
-        "Chota Nagpur Plateau",
-        "Malwa Plateau",
-        "Bihar Plateau"
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Uttar Pradesh",
+        "Maharashtra"
       ],
       "correct": 0,
-      "explanation": "The Deccan Plateau is the largest plateau in India, covering a vast area of the country."
+      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342,239 square kilometers."
     },
     {
       "id": 12,
-      "category": "Indian Geography",
-      "question": "Which of the following rivers is not a tributary of the Ganges?",
+      "category": "Economic Geography",
+      "question": "Which of the following is the largest producer of tea in India?",
       "options": [
-        "Yamuna",
-        "Ghaghara",
-        "Kosi",
-        "Brahmaputra"
+        "Assam",
+        "West Bengal",
+        "Kerala",
+        "Tamil Nadu"
       ],
-      "correct": 3,
-      "explanation": "The Brahmaputra river is not a tributary of the Ganges, it meets the Ganges at the Ganges Delta."
+      "correct": 0,
+      "explanation": "Assam is the largest producer of tea in India, accounting for over 50% of the country's total tea production."
     },
     {
       "id": 13,
-      "category": "Indian Geography",
-      "question": "What is the highest mountain peak in the Eastern Ghats?",
+      "category": "Climate",
+      "question": "Which type of climate is characterized by high temperatures and high levels of rainfall throughout the year?",
       "options": [
-        "Mahendragiri",
-        "Arma Konda",
-        "Galikonda",
-        "Simanchal"
+        "Tropical Monsoon Climate",
+        "Tropical Savanna Climate",
+        "Temperate Climate",
+        "Alpine Climate"
       ],
-      "correct": 1,
-      "explanation": "Arma Konda is the highest mountain peak in the Eastern Ghats, located in the Andhra Pradesh state."
+      "correct": 0,
+      "explanation": "Tropical Monsoon Climate is characterized by high temperatures and high levels of rainfall throughout the year, with significant seasonal variations."
     },
     {
       "id": 14,
-      "category": "Indian Geography",
-      "question": "Which state has the longest coastline in India?",
-      "options": [
-        "Gujarat",
-        "Maharashtra",
-        "Tamil Nadu",
-        "Andhra Pradesh"
-      ],
-      "correct": 0,
-      "explanation": "Gujarat has the longest coastline in India, with a total length of approximately 1600 km."
-    },
-    {
-      "id": 15,
-      "category": "Indian Geography",
-      "question": "What is the name of the strait that separates India from Sri Lanka?",
-      "options": [
-        "Palk Strait",
-        "Adam's Bridge",
-        "Mannar Strait",
-        "Laccadive Strait"
-      ],
-      "correct": 0,
-      "explanation": "The Palk Strait is a strait that separates India from Sri Lanka, connecting the Bay of Bengal to the Gulf of Mannar."
-    },
-    {
-      "id": 16,
-      "category": "Indian Geography",
-      "question": "Which of the following is the driest desert in India?",
-      "options": [
-        "Thar Desert",
-        "Cold Desert",
-        "Rann of Kutch",
-        "Ladakh Desert"
-      ],
-      "correct": 0,
-      "explanation": "The Thar Desert is the driest desert in India, covering a vast area of the northwestern part of the country."
-    },
-    {
-      "id": 17,
-      "category": "Indian Geography",
-      "question": "What is the name of the largest port in India?",
-      "options": [
-        "Mumbai Port",
-        "Jawaharlal Nehru Port",
-        "Chennai Port",
-        "Kolkata Port"
-      ],
-      "correct": 1,
-      "explanation": "The Jawaharlal Nehru Port is the largest port in India, located in the state of Maharashtra."
-    },
-    {
-      "id": 18,
-      "category": "Indian Geography",
-      "question": "Which river is known as the 'Ganga of the South'?",
+      "category": "Rivers",
+      "question": "What is the longest river in South India?",
       "options": [
         "Godavari",
         "Krishna",
         "Kaveri",
-        "Tapi"
+        "Tungabhadra"
       ],
       "correct": 0,
-      "explanation": "The Godavari river is known as the 'Ganga of the South', flowing through the states of Maharashtra, Telangana, and Andhra Pradesh."
+      "explanation": "The Godavari River is the longest river in South India, stretching over 1,465 kilometers from its source to its delta."
+    },
+    {
+      "id": 15,
+      "category": "Resources",
+      "question": "Which state in India is the largest producer of iron ore?",
+      "options": [
+        "Odisha",
+        "Jharkhand",
+        "Chhattisgarh",
+        "Goa"
+      ],
+      "correct": 0,
+      "explanation": "Odisha is the largest producer of iron ore in India, with significant deposits found in the Keonjhar and Sundargarh districts."
+    },
+    {
+      "id": 16,
+      "category": "Physical Geography",
+      "question": "What is the highest peak in the Western Ghats mountain range?",
+      "options": [
+        "Anamudi",
+        "Doddabetta",
+        "Mullayanagiri",
+        "Kalsubai"
+      ],
+      "correct": 0,
+      "explanation": "Anamudi is the highest peak in the Western Ghats mountain range, with an elevation of 2,695 meters above sea level."
+    },
+    {
+      "id": 17,
+      "category": "Economic Geography",
+      "question": "Which of the following ports is the busiest in India?",
+      "options": [
+        "Mumbai Port",
+        "Jawaharlal Nehru Port",
+        "Chennai Port",
+        "Visakhapatnam Port"
+      ],
+      "correct": 1,
+      "explanation": "The Jawaharlal Nehru Port is the busiest in India, handling over 55% of the country's total container traffic."
+    },
+    {
+      "id": 18,
+      "category": "Climate",
+      "question": "What is the term for the phenomenon where the southwest monsoon winds bring significant rainfall to India?",
+      "options": [
+        "Burst of Monsoon",
+        "Monsoon Onset",
+        "Monsoon Break",
+        "Monsoon Surge"
+      ],
+      "correct": 0,
+      "explanation": "The Burst of Monsoon refers to the phenomenon where the southwest monsoon winds bring significant rainfall to India, typically in June or July."
     },
     {
       "id": 19,
-      "category": "Indian Geography",
-      "question": "What is the name of the mountain pass that connects India to China?",
+      "category": "Rivers",
+      "question": "Which river flows through the Grand Canyon of India, also known as the Gandikota Gorge?",
       "options": [
-        "Shipki La",
-        "Nathu La",
-        "Rohtang La",
-        "Banihal Pass"
+        "Ganga",
+        "Yamuna",
+        "Pennar",
+        "Godavari"
       ],
-      "correct": 1,
-      "explanation": "The Nathu La mountain pass connects India to China, located in the state of Sikkim."
+      "correct": 2,
+      "explanation": "The Pennar River flows through the Grand Canyon of India, also known as the Gandikota Gorge, in the state of Andhra Pradesh."
     },
     {
       "id": 20,
-      "category": "Indian Geography",
-      "question": "Which state is the largest producer of manganese in India?",
+      "category": "Resources",
+      "question": "Which state in India has the largest reserves of bauxite?",
       "options": [
         "Odisha",
-        "Madhya Pradesh",
-        "Maharashtra",
+        "Jharkhand",
+        "Chhattisgarh",
         "Gujarat"
       ],
       "correct": 0,
-      "explanation": "Odisha is the largest producer of manganese in India, with major deposits found in the Keonjhar and Sundargarh districts."
+      "explanation": "Odisha has the largest reserves of bauxite in India, with significant deposits found in the Kalahandi and Koraput districts."
     },
     {
       "id": 21,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a feature of the Indian Constitution?",
+      "question": "Which part of the Indian Constitution deals with the relationship between the Union and the States?",
       "options": [
-        "Federal system with a weak center",
-        "Unitary system with a strong center",
-        "Parliamentary system with a president as head",
-        "Presidential system with a prime minister as head"
+        "Part V",
+        "Part VI",
+        "Part VII",
+        "Part XI"
       ],
-      "correct": 2,
-      "explanation": "The Indian Constitution features a parliamentary system with the President as the head of state and the Prime Minister as the head of government."
+      "correct": 3,
+      "explanation": "Part XI of the Indian Constitution deals with the relationship between the Union and the States."
     },
     {
       "id": 22,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of speech and expression?",
+      "question": "Which of the following is NOT a fundamental right?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 25"
+        "Right to Education",
+        "Right to Property",
+        "Right to Freedom",
+        "Right to Life"
       ],
       "correct": 1,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression."
+      "explanation": "Right to Property was removed as a fundamental right by the 44th Amendment Act, 1978."
     },
     {
       "id": 23,
       "category": "Indian Polity & Governance",
-      "question": "What is the term of the Lok Sabha?",
+      "question": "What is the minimum number of members required for a valid meeting of the Lok Sabha?",
       "options": [
-        "4 years",
-        "5 years",
-        "6 years",
-        "7 years"
+        "25",
+        "50",
+        "100",
+        "One-tenth of the total number of members"
       ],
-      "correct": 1,
-      "explanation": "The term of the Lok Sabha is 5 years."
+      "correct": 3,
+      "explanation": "One-tenth of the total number of members is required for a valid meeting of the Lok Sabha."
     },
     {
       "id": 24,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a type of writ issued by the Supreme Court?",
+      "question": "Which article of the Indian Constitution deals with the appointment and removal of judges of the Supreme Court?",
       "options": [
-        "Mandamus",
-        "Prohibition",
-        "Certiorari",
-        "All of the above"
+        "Article 124",
+        "Article 125",
+        "Article 126",
+        "Article 127"
       ],
-      "correct": 3,
-      "explanation": "All of the above options are types of writs issued by the Supreme Court. Mandamus is a writ issued to compel a public authority to perform a duty, prohibition is a writ issued to prevent a lower court from exceeding its jurisdiction, and certiorari is a writ issued to quash a decision of a lower court."
+      "correct": 0,
+      "explanation": "Article 124 deals with the appointment and removal of judges of the Supreme Court."
     },
     {
       "id": 25,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the powers of the Supreme Court to review its own judgments?",
+      "question": "What is the name of the local self-government at the village level in India?",
       "options": [
-        "Article 137",
-        "Article 138",
-        "Article 139",
-        "Article 140"
+        "Gram Panchayat",
+        "Municipality",
+        "Corporation",
+        "Nagar Panchayat"
       ],
       "correct": 0,
-      "explanation": "Article 137 of the Indian Constitution deals with the powers of the Supreme Court to review its own judgments."
+      "explanation": "Gram Panchayat is the local self-government at the village level in India."
     },
     {
       "id": 26,
       "category": "Indian Polity & Governance",
-      "question": "What is the minimum age for a person to be eligible to contest a Lok Sabha election?",
+      "question": "Which of the following is NOT a type of writ issued by the Supreme Court?",
+      "options": [
+        "Mandamus",
+        "Prohibition",
+        "Certiorari",
+        "Habeas Data"
+      ],
+      "correct": 3,
+      "explanation": "Habeas Data is not a type of writ issued by the Supreme Court in India, while Habeas Corpus is."
+    },
+    {
+      "id": 27,
+      "category": "Indian Polity & Governance",
+      "question": "What is the term of office of the Chairman of the FINANCE COMMISSION?",
+      "options": [
+        "5 years",
+        "3 years",
+        "Term of President",
+        "No fixed term"
+      ],
+      "correct": 3,
+      "explanation": "The Chairman and members of the Finance Commission hold office for a term as specified by the President."
+    },
+    {
+      "id": 28,
+      "category": "Indian Polity & Governance",
+      "question": "Who is the head of the Panchayati Raj system at the district level?",
+      "options": [
+        "Governor",
+        "Chief Minister",
+        "District Magistrate",
+        "Zila Parishad Chairperson"
+      ],
+      "correct": 3,
+      "explanation": "Zila Parishad Chairperson is the head of the Panchayati Raj system at the district level."
+    },
+    {
+      "id": 29,
+      "category": "Indian Polity & Governance",
+      "question": "Which article of the Indian Constitution deals with the freedom of speech and expression?",
+      "options": [
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
+      ],
+      "correct": 0,
+      "explanation": "Article 19 of the Indian Constitution deals with the freedom of speech and expression."
+    },
+    {
+      "id": 30,
+      "category": "Indian Polity & Governance",
+      "question": "What is the minimum age for a person to be eligible to contest a parliamentary election?",
       "options": [
         "21 years",
         "25 years",
@@ -340,59 +392,7 @@
         "35 years"
       ],
       "correct": 1,
-      "explanation": "The minimum age for a person to be eligible to contest a Lok Sabha election is 25 years."
-    },
-    {
-      "id": 27,
-      "category": "Indian Polity & Governance",
-      "question": "Which of the following is a feature of the 73rd Amendment to the Indian Constitution?",
-      "options": [
-        "Reservation of seats for women in local bodies",
-        "Introduction of a uniform civil code",
-        "Creation of a national human rights commission",
-        "Establishment of a three-tier system of panchayats"
-      ],
-      "correct": 3,
-      "explanation": "The 73rd Amendment to the Indian Constitution established a three-tier system of panchayats."
-    },
-    {
-      "id": 28,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to life and personal liberty?",
-      "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 25"
-      ],
-      "correct": 2,
-      "explanation": "Article 21 of the Indian Constitution deals with the right to life and personal liberty."
-    },
-    {
-      "id": 29,
-      "category": "Indian Polity & Governance",
-      "question": "Which of the following is a type of motion that can be moved in the Lok Sabha?",
-      "options": [
-        "No-confidence motion",
-        "Censure motion",
-        "Adjournment motion",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "All of the above options are types of motions that can be moved in the Lok Sabha. A no-confidence motion is moved to express a lack of confidence in the government, a censure motion is moved to criticize a policy or action of the government, and an adjournment motion is moved to adjourn the house for a specific reason."
-    },
-    {
-      "id": 30,
-      "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the provisions for the appointment of the Comptroller and Auditor General of India?",
-      "options": [
-        "Article 148",
-        "Article 149",
-        "Article 150",
-        "Article 151"
-      ],
-      "correct": 0,
-      "explanation": "Article 148 of the Indian Constitution deals with the provisions for the appointment of the Comptroller and Auditor General of India."
+      "explanation": "A person must be at least 25 years old to be eligible to contest a parliamentary election."
     }
   ]
 }
