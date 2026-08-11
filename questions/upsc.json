@@ -1,138 +1,138 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Ancient History",
-      "question": "Who was the founder of the Mauryan Empire?",
-      "options": [
-        "Chandragupta Maurya",
-        "Ashoka",
-        "Bimbisara",
-        "Chanakya"
-      ],
-      "correct": 0,
-      "explanation": "Chandragupta Maurya was the founder of the Mauryan Empire with the help of Chanakya."
-    },
-    {
-      "id": 2,
-      "category": "Medieval History",
-      "question": "Which Sultan built the Qutub Minar?",
-      "options": [
-        "Qutb-ud-din Aibak",
-        "Iltutmish",
-        "Alauddin Khalji",
-        "Firoz Shah Tughlaq"
-      ],
-      "correct": 0,
-      "explanation": "Qutb-ud-din Aibak built the Qutub Minar."
-    },
-    {
-      "id": 3,
-      "category": "Modern History",
-      "question": "What was the name of the movement launched by Mahatma Gandhi in 1942?",
-      "options": [
-        "Quit India Movement",
-        "Non-Cooperation Movement",
-        "Civil Disobedience Movement",
-        "Khilafat Movement"
-      ],
-      "correct": 0,
-      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942."
-    },
-    {
-      "id": 4,
-      "category": "Freedom Struggle",
-      "question": "Who was the first woman to be elected as the President of the Indian National Congress?",
-      "options": [
-        "Sarojini Naidu",
-        "Annie Besant",
-        "Kamaladevi Chattopadhyay",
-        "Vijaya Lakshmi Pandit"
-      ],
-      "correct": 0,
-      "explanation": "Sarojini Naidu was the first woman to be elected as the President of the Indian National Congress."
-    },
-    {
-      "id": 5,
-      "category": "Ancient History",
-      "question": "Which ancient Indian dynasty built the city of Pataliputra?",
+      "category": "Ancient Indian History",
+      "question": "Which ancient Indian dynasty is credited with the construction of the Sanchi Stupa?",
       "options": [
         "Mauryan",
         "Gupta",
         "Kushan",
-        "Mughal"
+        "Sunga"
       ],
       "correct": 0,
-      "explanation": "The Mauryan dynasty built the city of Pataliputra."
+      "explanation": "The Mauryan dynasty, specifically Emperor Ashoka, is credited with the construction of the Sanchi Stupa."
+    },
+    {
+      "id": 2,
+      "category": "Medieval Indian History",
+      "question": "Who was the founder of the Bahmani Kingdom in the Deccan region?",
+      "options": [
+        "Alauddin Bahman Shah",
+        "Muhammad bin Tughlaq",
+        "Firuz Shah Tughlaq",
+        "Timur"
+      ],
+      "correct": 0,
+      "explanation": "Alauddin Bahman Shah founded the Bahmani Kingdom in 1347."
+    },
+    {
+      "id": 3,
+      "category": "Modern Indian History",
+      "question": "The Indian National Congress was founded in which year?",
+      "options": [
+        "1884",
+        "1885",
+        "1886",
+        "1887"
+      ],
+      "correct": 1,
+      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume."
+    },
+    {
+      "id": 4,
+      "category": "Freedom Struggle",
+      "question": "What was the main demand of the Non-Cooperation Movement launched by Mahatma Gandhi in 1920?",
+      "options": [
+        "Swaraj",
+        "Dominion Status",
+        "Purna Swaraj",
+        "Withdrawal of British troops"
+      ],
+      "correct": 0,
+      "explanation": "The main demand of the Non-Cooperation Movement was Swaraj, or self-rule."
+    },
+    {
+      "id": 5,
+      "category": "Ancient Indian History",
+      "question": "Which of the following ancient Indian texts is a treatise on statecraft and politics?",
+      "options": [
+        "Arthashastra",
+        "Manusmriti",
+        "Ramayana",
+        "Mahabharata"
+      ],
+      "correct": 0,
+      "explanation": "The Arthashastra, written by Kautilya, is a treatise on statecraft and politics."
     },
     {
       "id": 6,
-      "category": "Medieval History",
-      "question": "Who was the founder of the Vijayanagara Empire?",
+      "category": "Medieval Indian History",
+      "question": "The Vijayanagara Empire was founded by which of the following brothers?",
       "options": [
         "Harihara and Bukka Raya",
-        "Krishnadeva Raya",
-        "Aurangzeb",
-        "Shivaji"
+        "Kakatiya brothers",
+        "Pandya brothers",
+        "Chola brothers"
       ],
       "correct": 0,
-      "explanation": "Harihara and Bukka Raya were the founders of the Vijayanagara Empire."
+      "explanation": "The Vijayanagara Empire was founded by Harihara and Bukka Raya in 1336."
     },
     {
       "id": 7,
-      "category": "Modern History",
-      "question": "What was the name of the act passed by the British in 1919 that allowed for the internment of Indians without trial?",
+      "category": "Modern Indian History",
+      "question": "The British East India Company was granted a royal charter by which English monarch?",
       "options": [
-        "Rowlatt Act",
-        "Government of India Act",
-        "Indian Independence Act",
-        "Montagu-Chelmsford Reforms"
+        "Queen Elizabeth I",
+        "King James I",
+        "King Charles II",
+        "King George III"
       ],
-      "correct": 0,
-      "explanation": "The Rowlatt Act was passed by the British in 1919 that allowed for the internment of Indians without trial."
+      "correct": 1,
+      "explanation": "The British East India Company was granted a royal charter by King James I in 1600."
     },
     {
       "id": 8,
       "category": "Freedom Struggle",
-      "question": "Who led the Salt March in 1930?",
+      "question": "The Quit India Movement was launched by Mahatma Gandhi in which year?",
       "options": [
-        "Mahatma Gandhi",
-        "Subhas Chandra Bose",
-        "Jawaharlal Nehru",
-        "Sardar Vallabhbhai Patel"
+        "1940",
+        "1942",
+        "1945",
+        "1947"
       ],
-      "correct": 0,
-      "explanation": "Mahatma Gandhi led the Salt March in 1930."
+      "correct": 1,
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942."
     },
     {
       "id": 9,
-      "category": "Ancient History",
-      "question": "Which ancient Indian text is also known as the 'Song of God'?",
+      "category": "Ancient Indian History",
+      "question": "The ancient Indian university of Taxila was located in which modern-day country?",
       "options": [
-        "Bhagavad Gita",
-        "Upanishads",
-        "Vedas",
-        "Puranas"
+        "India",
+        "Pakistan",
+        "Afghanistan",
+        "Nepal"
       ],
-      "correct": 0,
-      "explanation": "The Bhagavad Gita is also known as the 'Song of God'."
+      "correct": 1,
+      "explanation": "The ancient Indian university of Taxila was located in modern-day Pakistan."
     },
     {
       "id": 10,
-      "category": "Medieval History",
-      "question": "Who was the Mughal emperor who built the Taj Mahal?",
+      "category": "Medieval Indian History",
+      "question": "The Mughal emperor Akbar introduced which of the following administrative reforms?",
       "options": [
-        "Babur",
-        "Humayun",
-        "Akbar",
-        "Shah Jahan"
+        "Mansabdari system",
+        "Jagirdari system",
+        "Pargana system",
+        "All of the above"
       ],
       "correct": 3,
-      "explanation": "Shah Jahan was the Mughal emperor who built the Taj Mahal."
+      "explanation": "Akbar introduced the Mansabdari system, Jagirdari system, and Pargana system as administrative reforms."
     },
     {
       "id": 11,
@@ -155,80 +155,93 @@
         "The Himalayas",
         "The Western Ghats",
         "The Eastern Ghats",
-        "The Purvanchal"
+        "The Purvachal"
       ],
       "correct": 3,
-      "explanation": "The Purvanchal mountain range runs along the eastern edge of India, stretching from Arunachal Pradesh to Nagaland."
+      "explanation": "The Purvachal mountain range runs along the eastern edge of India, stretching from Arunachal Pradesh to Myanmar."
     },
     {
       "id": 13,
       "category": "Indian Geography",
-      "question": "Which river is the longest in South India?",
+      "question": "What is the longest river in India?",
       "options": [
-        "Godavari",
-        "Krishna",
-        "Kaveri",
-        "Tungabhadra"
+        "The Ganges",
+        "The Brahmaputra",
+        "The Indus",
+        "The Godavari"
       ],
       "correct": 0,
-      "explanation": "The Godavari is the longest river in South India, stretching approximately 1,465 kilometers from its source to its mouth."
+      "explanation": "The Ganges is the longest river in India, stretching approximately 2,525 kilometers from its source to the Bay of Bengal."
     },
     {
       "id": 14,
       "category": "Indian Geography",
-      "question": "What is the name of the strait separating India and Sri Lanka?",
+      "question": "Which of the following climates is characterized by high temperatures and high humidity?",
       "options": [
-        "Palk Strait",
-        "Adam's Bridge",
-        "Laccadive Sea",
-        "Indian Ocean"
+        "Tropical wet climate",
+        "Tropical dry climate",
+        "Subtropical climate",
+        "Temperate climate"
       ],
       "correct": 0,
-      "explanation": "The Palk Strait is the strait separating India and Sri Lanka, connecting the Bay of Bengal to the Gulf of Mannar."
+      "explanation": "Tropical wet climate is characterized by high temperatures and high humidity, typically found in regions near the equator."
     },
     {
       "id": 15,
       "category": "Indian Geography",
-      "question": "Which state has the longest coastline in India?",
+      "question": "What is the largest delta in India?",
       "options": [
-        "Gujarat",
-        "Maharashtra",
-        "Tamil Nadu",
-        "Kerala"
+        "The Ganges Delta",
+        "The Brahmaputra Delta",
+        "The Mahanadi Delta",
+        "The Godavari Delta"
       ],
       "correct": 0,
-      "explanation": "Gujarat has the longest coastline in India, with a coastline of approximately 1,600 kilometers."
+      "explanation": "The Ganges Delta is the largest delta in India, covering an area of approximately 59,000 square kilometers."
     },
     {
       "id": 16,
       "category": "Indian Geography",
-      "question": "What is the name of the desert in western India?",
+      "question": "Which state is the largest producer of iron ore in India?",
       "options": [
-        "Thar Desert",
-        "Cholistan Desert",
-        "Kutch Desert",
-        "Great Indian Desert"
+        "Odisha",
+        "Jharkhand",
+        "Chhattisgarh",
+        "Madhya Pradesh"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert is the desert in western India, covering parts of Rajasthan, Gujarat, and Punjab."
+      "explanation": "Odisha is the largest producer of iron ore in India, accounting for over 50% of the country's total iron ore production."
     },
     {
       "id": 17,
       "category": "Indian Geography",
-      "question": "Which city is situated on the banks of the river Yamuna?",
+      "question": "What is the name of the strait that separates India from Sri Lanka?",
       "options": [
-        "Delhi",
-        "Agra",
-        "Mathura",
-        "Allahabad"
+        "The Palk Strait",
+        "The Adam's Bridge",
+        "The Laccadive Sea",
+        "The Arabian Sea"
       ],
       "correct": 0,
-      "explanation": "Delhi is situated on the banks of the river Yamuna, which flows through the city before joining the Ganges at Allahabad."
+      "explanation": "The Palk Strait separates India from Sri Lanka, connecting the Bay of Bengal to the Gulf of Mannar."
     },
     {
       "id": 18,
       "category": "Indian Geography",
-      "question": "What is the name of the highest peak in the Western Ghats?",
+      "question": "Which of the following types of soil is found in the river deltas of India?",
+      "options": [
+        "Alluvial soil",
+        "Black soil",
+        "Red soil",
+        "Laterite soil"
+      ],
+      "correct": 0,
+      "explanation": "Alluvial soil is found in the river deltas of India, formed by the deposition of sediments carried by rivers."
+    },
+    {
+      "id": 19,
+      "category": "Indian Geography",
+      "question": "What is the name of the highest peak in the Western Ghats mountain range?",
       "options": [
         "Anamudi",
         "Doddabetta",
@@ -236,10 +249,10 @@
         "Kudremukh"
       ],
       "correct": 0,
-      "explanation": "Anamudi is the highest peak in the Western Ghats, with an elevation of approximately 2,695 meters."
+      "explanation": "Anamudi is the highest peak in the Western Ghats mountain range, located in the state of Kerala."
     },
     {
-      "id": 19,
+      "id": 20,
       "category": "Indian Geography",
       "question": "Which state is the largest producer of coal in India?",
       "options": [
@@ -252,147 +265,134 @@
       "explanation": "Jharkhand is the largest producer of coal in India, accounting for over 25% of the country's total coal production."
     },
     {
-      "id": 20,
-      "category": "Indian Geography",
-      "question": "What is the name of the largest island in the Andaman and Nicobar Islands?",
-      "options": [
-        "Andaman Island",
-        "Nicobar Island",
-        "Great Nicobar Island",
-        "Little Andaman Island"
-      ],
-      "correct": 0,
-      "explanation": "Andaman Island is the largest island in the Andaman and Nicobar Islands, covering an area of approximately 3,212 square kilometers."
-    },
-    {
       "id": 21,
       "category": "Indian Polity & Governance",
-      "question": "What is the primary function of the Parliament in India?",
+      "question": "What is the term of office for the Chairman of the Finance Commission of India?",
       "options": [
-        "To elect the President of India",
-        "To amend the Constitution of India",
-        "To make laws for the country",
-        "To appoint the Prime Minister of India"
+        "5 years",
+        "6 years",
+        "3 years",
+        "No fixed term"
       ],
-      "correct": 2,
-      "explanation": "The primary function of the Parliament in India is to make laws for the country, as per Article 245 of the Constitution."
+      "correct": 0,
+      "explanation": "The Chairman of the Finance Commission of India holds office for a term of 5 years."
     },
     {
       "id": 22,
       "category": "Indian Polity & Governance",
       "question": "Which of the following is NOT a fundamental right under the Constitution of India?",
       "options": [
-        "Right to Equality",
-        "Right to Freedom",
         "Right to Property",
-        "Right to Information"
+        "Right to Freedom",
+        "Right to Equality",
+        "Right to Life and Liberty"
       ],
-      "correct": 3,
-      "explanation": "The Right to Property was removed as a fundamental right by the 44th Amendment Act, 1978, and is now a constitutional right under Article 300A."
+      "correct": 0,
+      "explanation": "The Right to Property was removed as a fundamental right by the 44th Amendment to the Constitution of India in 1978."
     },
     {
       "id": 23,
       "category": "Indian Polity & Governance",
-      "question": "Who is the head of the Panchayati Raj system in a village?",
+      "question": "Who is the head of the Panchayati Raj system at the village level?",
       "options": [
         "Sarpanch",
-        "Gram Sevak",
-        "Tehsildar",
-        "District Collector"
+        "Gram Pradhan",
+        "Mukhiya",
+        "All of the above"
       ],
-      "correct": 0,
-      "explanation": "The head of the Panchayati Raj system in a village is the Sarpanch, who is the elected representative of the village."
+      "correct": 3,
+      "explanation": "The head of the Panchayati Raj system at the village level is known by different names in different states, such as Sarpanch, Gram Pradhan, or Mukhiya."
     },
     {
       "id": 24,
       "category": "Indian Polity & Governance",
-      "question": "What is the term of office of a member of the Rajya Sabha?",
+      "question": "What is the minimum number of members required for a Parliamentary Committee?",
       "options": [
-        "5 years",
-        "6 years",
-        "7 years",
-        "10 years"
+        "10",
+        "15",
+        "20",
+        "5"
       ],
-      "correct": 1,
-      "explanation": "The term of office of a member of the Rajya Sabha is 6 years, with one-third of the members retiring every 2 years."
+      "correct": 3,
+      "explanation": "The minimum number of members required for a Parliamentary Committee is 5."
     },
     {
       "id": 25,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a feature of the Indian Constitution?",
+      "question": "Who has the power to grant pardon, reprieve, or respite in cases involving punishment or sentence by a court-martial?",
       "options": [
-        "Federal system of government",
-        "Unitary system of government",
-        "Parliamentary system of government",
-        "All of the above"
+        "President",
+        "Governor",
+        "Chief Justice of India",
+        "Union Minister of Defence"
       ],
-      "correct": 3,
-      "explanation": "The Indian Constitution features a federal system of government, with a parliamentary system and a unitary system of government in certain aspects."
+      "correct": 0,
+      "explanation": "The President has the power to grant pardon, reprieve, or respite in cases involving punishment or sentence by a court-martial."
     },
     {
       "id": 26,
       "category": "Indian Polity & Governance",
-      "question": "What is the purpose of the Fifth Schedule of the Constitution of India?",
+      "question": "Which article of the Constitution of India deals with the protection of Scheduled Castes and Scheduled Tribes from social injustices and all forms of exploitation?",
       "options": [
-        "To provide for the administration of tribal areas",
-        "To provide for the administration of union territories",
-        "To provide for the administration of states",
-        "To provide for the administration of local governments"
+        "Article 341",
+        "Article 342",
+        "Article 17",
+        "Article 46"
       ],
-      "correct": 0,
-      "explanation": "The Fifth Schedule of the Constitution provides for the administration of tribal areas, including the creation of Tribal Advisory Councils."
+      "correct": 3,
+      "explanation": "Article 46 of the Constitution of India deals with the protection of Scheduled Castes and Scheduled Tribes from social injustices and all forms of exploitation."
     },
     {
       "id": 27,
       "category": "Indian Polity & Governance",
-      "question": "Who is the final interpreter of the Constitution of India?",
+      "question": "How many members are elected to the Lok Sabha from the Union Territory of Delhi?",
       "options": [
-        "The President of India",
-        "The Prime Minister of India",
-        "The Parliament of India",
-        "The Supreme Court of India"
+        "5",
+        "7",
+        "10",
+        "3"
       ],
-      "correct": 3,
-      "explanation": "The Supreme Court of India is the final interpreter of the Constitution, as per Article 137 of the Constitution."
+      "correct": 1,
+      "explanation": "Seven members are elected to the Lok Sabha from the Union Territory of Delhi."
     },
     {
       "id": 28,
       "category": "Indian Polity & Governance",
-      "question": "What is the minimum age for a person to be eligible to vote in India?",
+      "question": "What is the minimum age for a person to be eligible to contest elections to the Lok Sabha?",
       "options": [
-        "18 years",
         "21 years",
         "25 years",
-        "30 years"
+        "30 years",
+        "35 years"
       ],
-      "correct": 0,
-      "explanation": "The minimum age for a person to be eligible to vote in India is 18 years, as per the Representation of the People Act, 1951."
+      "correct": 1,
+      "explanation": "The minimum age for a person to be eligible to contest elections to the Lok Sabha is 25 years."
     },
     {
       "id": 29,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is NOT a type of writ under the Constitution of India?",
+      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
       "options": [
-        "Habeas Corpus",
-        "Mandamus",
-        "Prohibition",
-        "Injunction"
+        "Vice President of India",
+        "President of India",
+        "Prime Minister of India",
+        "Speaker of the Lok Sabha"
       ],
-      "correct": 3,
-      "explanation": "Injunction is not a type of writ under the Constitution of India, although it is a type of remedy available under the law of torts."
+      "correct": 0,
+      "explanation": "The Vice President of India is the ex-officio Chairman of the Rajya Sabha."
     },
     {
       "id": 30,
       "category": "Indian Polity & Governance",
-      "question": "What is the purpose of the Finance Commission in India?",
+      "question": "Which of the following is a feature of the Indian Federal System?",
       "options": [
-        "To allocate funds to states",
-        "To provide loans to states",
-        "To regulate the expenditure of the central government",
-        "To advise the President on financial matters"
+        "Dual citizenship",
+        "Single citizenship",
+        "Dual judiciary",
+        "Unitary legislature"
       ],
-      "correct": 0,
-      "explanation": "The Finance Commission is established under Article 280 of the Constitution to allocate funds to states and to provide recommendations on the distribution of revenues between the center and the states."
+      "correct": 1,
+      "explanation": "Single citizenship is a feature of the Indian Federal System."
     }
   ]
 }
