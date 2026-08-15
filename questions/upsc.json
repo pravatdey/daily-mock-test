@@ -1,77 +1,38 @@
 {
   "exam": "upsc",
   "name": "UPSC Prelims",
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "questionCount": 30,
   "questions": [
     {
       "id": 1,
-      "category": "Ancient History",
-      "question": "The ancient Indian university of Takshashila was situated in which modern-day country?",
+      "category": "Ancient Indian History",
+      "question": "The ancient Indian university of Nalanda was established during the reign of which emperor?",
       "options": [
-        "India",
-        "Pakistan",
-        "Afghanistan",
-        "China"
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Harshavardhana",
+        "Skandagupta"
       ],
       "correct": 1,
-      "explanation": "Takshashila was an ancient Indian university located in the northwestern part of the Indian subcontinent, which is now in modern-day Pakistan."
+      "explanation": "Nalanda University was established during the reign of the Gupta emperor, Kumargupta, but it flourished under the patronage of Emperor Harsha and the Pala dynasty. However, the initial establishment is often linked to the Mauryan era, specifically under Ashoka."
     },
     {
       "id": 2,
-      "category": "Medieval History",
-      "question": "The founder of the Gupta dynasty was",
+      "category": "Medieval Indian History",
+      "question": "The Mughal emperor who built the Taj Mahal was",
       "options": [
-        "Chandragupta I",
-        "Chandragupta II",
-        "Samudragupta",
-        "Skandagupta"
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Shah Jahan"
       ],
-      "correct": 0,
-      "explanation": "Chandragupta I is considered the founder of the Gupta dynasty, which is often referred to as the 'Golden Age of India'."
+      "correct": 3,
+      "explanation": "The Taj Mahal was built by Shah Jahan as a mausoleum for his wife, Mumtaz Mahal."
     },
     {
       "id": 3,
-      "category": "Freedom Struggle",
-      "question": "The Quit India Movement was launched by Mahatma Gandhi in",
-      "options": [
-        "1942",
-        "1945",
-        "1947",
-        "1950"
-      ],
-      "correct": 0,
-      "explanation": "The Quit India Movement, also known as the August Movement, was launched by Mahatma Gandhi on 8 August 1942."
-    },
-    {
-      "id": 4,
-      "category": "Ancient History",
-      "question": "The ancient Indian text that describes the duties of a king is",
-      "options": [
-        "Arthashastra",
-        "Manusmriti",
-        "Ramayana",
-        "Mahabharata"
-      ],
-      "correct": 0,
-      "explanation": "The Arthashastra is an ancient Indian text that provides a detailed description of the duties of a king, including governance, administration, and diplomacy."
-    },
-    {
-      "id": 5,
-      "category": "Medieval History",
-      "question": "The Delhi Sultan who built the Qutub Minar was",
-      "options": [
-        "Qutb-ud-din Aibak",
-        "Iltutmish",
-        "Razia Sultan",
-        "Alauddin Khalji"
-      ],
-      "correct": 0,
-      "explanation": "Qutb-ud-din Aibak, the founder of the Delhi Sultanate, began the construction of the Qutub Minar, which was completed by his successor Iltutmish."
-    },
-    {
-      "id": 6,
-      "category": "Modern History",
+      "category": "Modern Indian History",
       "question": "The Indian National Congress was founded in",
       "options": [
         "1884",
@@ -80,64 +41,103 @@
         "1887"
       ],
       "correct": 1,
-      "explanation": "The Indian National Congress was founded on 28 December 1885 by A.O. Hume, a British civil servant."
+      "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume."
+    },
+    {
+      "id": 4,
+      "category": "Freedom Struggle",
+      "question": "The Quit India Movement was launched by Mahatma Gandhi in",
+      "options": [
+        "1942",
+        "1945",
+        "1946",
+        "1947"
+      ],
+      "correct": 0,
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in 1942."
+    },
+    {
+      "id": 5,
+      "category": "Ancient Indian History",
+      "question": "The ancient Indian text that describes the social and economic conditions of the time is",
+      "options": [
+        "Rigveda",
+        "Arthashastra",
+        "Manusmriti",
+        "Mahabharata"
+      ],
+      "correct": 1,
+      "explanation": "The Arthashastra is an ancient Indian text that describes the social and economic conditions of the time, as well as providing advice on governance and statecraft."
+    },
+    {
+      "id": 6,
+      "category": "Medieval Indian History",
+      "question": "The Delhi Sultan who built the Qutub Minar was",
+      "options": [
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Razia Sultan",
+        "Alauddin Khalji"
+      ],
+      "correct": 0,
+      "explanation": "The Qutub Minar was built by Qutb-ud-din Aibak, the first Delhi Sultan."
     },
     {
       "id": 7,
-      "category": "Freedom Struggle",
-      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in",
+      "category": "Modern Indian History",
+      "question": "The Permanent Settlement of Bengal was introduced by",
       "options": [
-        "1920",
-        "1921",
-        "1922",
-        "1923"
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "Lord Hastings",
+        "Lord Dalhousie"
       ],
       "correct": 0,
-      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi on 31 August 1920, with the goal of achieving swaraj through non-violent means."
+      "explanation": "The Permanent Settlement of Bengal was introduced by Lord Cornwallis in 1793."
     },
     {
       "id": 8,
-      "category": "Ancient History",
-      "question": "The ancient Indian city of Mohenjo-Daro was situated on the banks of which river?",
+      "category": "Freedom Struggle",
+      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in",
       "options": [
-        "Indus",
-        "Ganges",
-        "Yamuna",
-        "Saraswati"
+        "1919",
+        "1920",
+        "1921",
+        "1922"
       ],
-      "correct": 0,
-      "explanation": "Mohenjo-Daro, one of the largest cities of the Indus Valley Civilization, was situated on the banks of the Indus River."
+      "correct": 1,
+      "explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920."
     },
     {
       "id": 9,
-      "category": "Medieval History",
-      "question": "The Vijayanagara Empire was founded by",
+      "category": "Ancient Indian History",
+      "question": "The ancient Indian system of medicine is known as",
       "options": [
-        "Harihara and Bukka Raya",
-        "Krishnadeva Raya",
-        "Aurangzeb",
-        "Shivaji"
+        "Ayurveda",
+        "Unani",
+        "Siddha",
+        "Homeopathy"
       ],
       "correct": 0,
-      "explanation": "The Vijayanagara Empire was founded by Harihara and Bukka Raya, two brothers who were local chieftains in the Deccan region."
+      "explanation": "Ayurveda is the ancient Indian system of medicine that emphasizes natural and holistic healing methods."
     },
     {
       "id": 10,
-      "category": "Freedom Struggle",
-      "question": "The Indian Independence Act was passed by the British Parliament in",
+      "category": "Medieval Indian History",
+      "question": "The Mughal emperor who introduced the concept of Din-i-Ilahi was",
       "options": [
-        "1946",
-        "1947",
-        "1948",
-        "1949"
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "correct": 1,
-      "explanation": "The Indian Independence Act was passed by the British Parliament on 18 July 1947, paving the way for India's independence on 15 August 1947."
+      "correct": 0,
+      "explanation": "The concept of Din-i-Ilahi, or the Divine Faith, was introduced by Akbar as a syncretic religion that combined elements of Islam, Hinduism, and other faiths."
     },
     {
       "id": 11,
       "category": "Indian Geography",
-      "question": "What is the largest state in India in terms of area?",
+      "question": "What is the largest state in India by area?",
       "options": [
         "Rajasthan",
         "Madhya Pradesh",
@@ -145,77 +145,116 @@
         "Maharashtra"
       ],
       "correct": 0,
-      "explanation": "Rajasthan is the largest state in India, covering approximately 342,239 square kilometers."
+      "explanation": "Rajasthan is the largest state in India by area, covering approximately 342,239 square kilometers."
     },
     {
       "id": 12,
       "category": "Indian Geography",
-      "question": "Which mountain range runs along the eastern edge of India?",
-      "options": [
-        "The Himalayas",
-        "The Eastern Ghats",
-        "The Western Ghats",
-        "The Aravalli Range"
-      ],
-      "correct": 1,
-      "explanation": "The Eastern Ghats are a mountain range that runs along the eastern edge of India, parallel to the Bay of Bengal."
-    },
-    {
-      "id": 13,
-      "category": "Indian Geography",
-      "question": "Which river is the longest in South India?",
+      "question": "Which river is known as the 'Ganga of the South'?",
       "options": [
         "Godavari",
         "Krishna",
         "Kaveri",
-        "Tungabhadra"
+        "Mahanadi"
       ],
       "correct": 0,
-      "explanation": "The Godavari River is the longest river in South India, stretching approximately 1,465 kilometers."
+      "explanation": "The Godavari river is often referred to as the 'Ganga of the South' due to its cultural and spiritual significance in southern India."
+    },
+    {
+      "id": 13,
+      "category": "Indian Geography",
+      "question": "What type of climate does the Western Ghats experience?",
+      "options": [
+        "Tropical Monsoon",
+        "Tropical Savanna",
+        "Temperate",
+        "Alpine"
+      ],
+      "correct": 0,
+      "explanation": "The Western Ghats experience a tropical monsoon climate, characterized by high levels of rainfall and humidity throughout the year."
     },
     {
       "id": 14,
       "category": "Indian Geography",
-      "question": "What is the name of the strait that separates India from Sri Lanka?",
+      "question": "Which state has the largest number of major ports in India?",
       "options": [
-        "Palk Strait",
-        "Adam's Bridge",
-        "Laccadive Sea",
-        "Indian Ocean"
+        "Gujarat",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Kerala"
       ],
       "correct": 0,
-      "explanation": "The Palk Strait is a strait that separates the Indian subcontinent from Sri Lanka, connecting the Bay of Bengal to the Arabian Sea."
+      "explanation": "Gujarat has the largest number of major ports in India, including the Port of Kandla, the Port of Mundra, and the Port of Pipavav."
     },
     {
       "id": 15,
       "category": "Indian Geography",
-      "question": "Which state has the largest coastline in India?",
+      "question": "What is the name of the mountain range that runs along the India-Myanmar border?",
       "options": [
-        "Gujarat",
-        "Maharashtra",
-        "Kerala",
-        "Tamil Nadu"
+        "Purvanchal",
+        "Himalayas",
+        "Aravallis",
+        "Eastern Ghats"
       ],
       "correct": 0,
-      "explanation": "Gujarat has the longest coastline in India, with approximately 1,600 kilometers of coastline along the Arabian Sea."
+      "explanation": "The Purvanchal mountain range runs along the India-Myanmar border, stretching from the Himalayas in the north to the Patkai hills in the south."
     },
     {
       "id": 16,
       "category": "Indian Geography",
-      "question": "What is the name of the desert located in northwestern India?",
+      "question": "Which river flows through the famous Kaziranga National Park?",
       "options": [
-        "Thar Desert",
-        "Cholistan Desert",
-        "Kharan Desert",
-        "Indus Valley Desert"
+        "Brahmaputra",
+        "Ganges",
+        "Yamuna",
+        "Mekong"
       ],
       "correct": 0,
-      "explanation": "The Thar Desert, also known as the Cholistan Desert, is a desert located in northwestern India, covering parts of Rajasthan and Gujarat."
+      "explanation": "The Brahmaputra river flows through the famous Kaziranga National Park, a UNESCO World Heritage site and home to the endangered one-horned rhinoceros."
     },
     {
       "id": 17,
       "category": "Indian Geography",
-      "question": "Which city is located at the confluence of the Ganges and Yamuna rivers?",
+      "question": "What is the name of the largest island in the Lakshadweep archipelago?",
+      "options": [
+        "Amini",
+        "Androth",
+        "Kavaratti",
+        "Minicoy"
+      ],
+      "correct": 2,
+      "explanation": "Kavaratti is the largest island in the Lakshadweep archipelago, with an area of approximately 4.22 square kilometers."
+    },
+    {
+      "id": 18,
+      "category": "Indian Geography",
+      "question": "Which state has the largest coal reserves in India?",
+      "options": [
+        "Jharkhand",
+        "Chhattisgarh",
+        "Odisha",
+        "West Bengal"
+      ],
+      "correct": 0,
+      "explanation": "Jharkhand has the largest coal reserves in India, accounting for over 25% of the country's total coal production."
+    },
+    {
+      "id": 19,
+      "category": "Indian Geography",
+      "question": "What is the name of the strait that separates the islands of Little Andaman and Great Nicobar?",
+      "options": [
+        "Duncan Passage",
+        "Ten Degree Channel",
+        "Coco Channel",
+        "Sombrero Channel"
+      ],
+      "correct": 1,
+      "explanation": "The Ten Degree Channel is a strait that separates the islands of Little Andaman and Great Nicobar in the Andaman and Nicobar Islands."
+    },
+    {
+      "id": 20,
+      "category": "Indian Geography",
+      "question": "Which city is situated near the confluence of the Ganges and Yamuna rivers?",
       "options": [
         "Allahabad",
         "Varanasi",
@@ -223,176 +262,137 @@
         "Lucknow"
       ],
       "correct": 0,
-      "explanation": "Allahabad, now known as Prayagraj, is a city located at the confluence of the Ganges and Yamuna rivers in the state of Uttar Pradesh."
-    },
-    {
-      "id": 18,
-      "category": "Indian Geography",
-      "question": "What is the highest peak in the Western Ghats mountain range?",
-      "options": [
-        "Anamudi",
-        "Doddabetta",
-        "Mullayanagiri",
-        "Kudremukh"
-      ],
-      "correct": 0,
-      "explanation": "Anamudi is the highest peak in the Western Ghats mountain range, located in the state of Kerala, with an elevation of approximately 2,695 meters."
-    },
-    {
-      "id": 19,
-      "category": "Indian Geography",
-      "question": "Which river flows through the Grand Canyon of India, also known as the Gandikota gorge?",
-      "options": [
-        "Pennar River",
-        "Penna River",
-        "Godavari River",
-        "Krishna River"
-      ],
-      "correct": 0,
-      "explanation": "The Pennar River flows through the Grand Canyon of India, also known as the Gandikota gorge, located in the state of Andhra Pradesh."
-    },
-    {
-      "id": 20,
-      "category": "Indian Geography",
-      "question": "What is the name of the largest island in the Andaman and Nicobar Islands?",
-      "options": [
-        "Great Andaman",
-        "Little Andaman",
-        "Middle Andaman",
-        "North Andaman"
-      ],
-      "correct": 0,
-      "explanation": "The Great Andaman is the largest island in the Andaman and Nicobar Islands, located in the Bay of Bengal."
+      "explanation": "Allahabad, now known as Prayagraj, is situated near the confluence of the Ganges and Yamuna rivers, and is an important pilgrimage site in Hinduism."
     },
     {
       "id": 21,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a feature of the Indian Constitution?",
+      "question": "Which part of the Indian Constitution deals with the relationship between the Union and the States?",
       "options": [
-        "Federal system with a strong center",
-        "Unitary system with a weak center",
-        "Parliamentary system with a presidential head",
-        "Presidential system with a parliamentary head"
+        "Part XI",
+        "Part XII",
+        "Part XIII",
+        "Part XIV"
       ],
       "correct": 0,
-      "explanation": "The Indian Constitution features a federal system with a strong center, where power is divided between the central government and the states."
+      "explanation": "Part XI of the Indian Constitution deals with the relationship between the Union and the States."
     },
     {
       "id": 22,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to freedom of speech and expression?",
+      "question": "What is the minimum number of members required for a Parliament session to be constituted?",
       "options": [
-        "Article 14",
-        "Article 19",
-        "Article 21",
-        "Article 25"
+        "1/10th of the total membership",
+        "1/5th of the total membership",
+        "1/4th of the total membership",
+        "1/3rd of the total membership"
       ],
-      "correct": 1,
-      "explanation": "Article 19 of the Indian Constitution deals with the right to freedom of speech and expression."
+      "correct": 0,
+      "explanation": "As per Article 100(3) of the Constitution, the quorum for a Parliament session is 1/10th of the total membership."
     },
     {
       "id": 23,
       "category": "Indian Polity & Governance",
-      "question": "What is the term of the Lok Sabha?",
+      "question": "What is the term of office for the Chairman of the National Human Rights Commission?",
       "options": [
+        "3 years",
         "4 years",
         "5 years",
-        "6 years",
-        "7 years"
+        "Till the age of 70 years"
       ],
-      "correct": 1,
-      "explanation": "The term of the Lok Sabha is 5 years, unless dissolved earlier."
+      "correct": 3,
+      "explanation": "The Chairman of the National Human Rights Commission holds office till the age of 70 years."
     },
     {
       "id": 24,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a type of writ issued by the Supreme Court?",
+      "question": "Which of the following is a fundamental right guaranteed under Article 17 of the Indian Constitution?",
       "options": [
-        "Mandamus",
-        "Prohibition",
-        "Certiorari",
-        "All of the above"
+        "Right to Equality",
+        "Right to Freedom",
+        "Abolition of Untouchability",
+        "Right to Property"
       ],
-      "correct": 3,
-      "explanation": "The Supreme Court can issue various types of writs, including mandamus, prohibition, and certiorari."
+      "correct": 2,
+      "explanation": "Article 17 of the Indian Constitution guarantees the abolition of untouchability."
     },
     {
       "id": 25,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the powers of the Parliament to amend the Constitution?",
+      "question": "What is the name of the article in the Indian Constitution that gives the right to the minorities to establish and administer educational institutions?",
       "options": [
-        "Article 368",
-        "Article 369",
-        "Article 370",
-        "Article 371"
+        "Article 28",
+        "Article 29",
+        "Article 30",
+        "Article 31"
       ],
-      "correct": 0,
-      "explanation": "Article 368 of the Indian Constitution deals with the powers of the Parliament to amend the Constitution."
+      "correct": 2,
+      "explanation": "Article 30 of the Indian Constitution gives the right to the minorities to establish and administer educational institutions."
     },
     {
       "id": 26,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the local self-government at the village level?",
+      "question": "Who is the head of the Panchayati Raj system at the village level?",
       "options": [
-        "Gram Sabha",
-        "Panchayat",
-        "Municipality",
-        "Corporation"
+        "Gram Pradhan",
+        "Sarpanch",
+        "Mukhiya",
+        "Gram Panchayat"
       ],
       "correct": 1,
-      "explanation": "The local self-government at the village level is known as the Panchayat."
+      "explanation": "The Sarpanch is the head of the Gram Panchayat at the village level."
     },
     {
       "id": 27,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is a fundamental duty of citizens under the Indian Constitution?",
+      "question": "What is the term for the process of judicial review in the Indian Constitution?",
       "options": [
-        "To abide by the Constitution",
-        "To respect the national flag",
-        "To protect the environment",
-        "All of the above"
+        "Mandamus",
+        "Habeas Corpus",
+        "Prohibition",
+        "Certiorari"
       ],
-      "correct": 3,
-      "explanation": "The fundamental duties of citizens under the Indian Constitution include abiding by the Constitution, respecting the national flag, and protecting the environment, among others."
+      "correct": 2,
+      "explanation": "The term 'Habeas Corpus' refers to the process of judicial review in the Indian Constitution, which means 'to have the body'."
     },
     {
       "id": 28,
       "category": "Indian Polity & Governance",
-      "question": "Which article of the Indian Constitution deals with the right to equality before the law?",
+      "question": "Which article of the Indian Constitution provides for the independence of the judiciary?",
       "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
+        "Article 121",
+        "Article 122",
+        "Article 123",
+        "Article 124"
       ],
-      "correct": 0,
-      "explanation": "Article 14 of the Indian Constitution deals with the right to equality before the law."
+      "correct": 3,
+      "explanation": "Article 124 of the Indian Constitution provides for the independence of the judiciary."
     },
     {
       "id": 29,
       "category": "Indian Polity & Governance",
-      "question": "What is the name of the advisory body that advises the President on matters related to the administration of the Union Territory of Delhi?",
+      "question": "Who is the ex-officio chairman of the Rajya Sabha?",
       "options": [
-        "National Capital Territory of Delhi",
-        "Delhi Legislative Assembly",
-        "Delhi Council of Ministers",
-        "None of the above"
+        "The President",
+        "The Vice-President",
+        "The Prime Minister",
+        "The Speaker of the Lok Sabha"
       ],
-      "correct": 2,
-      "explanation": "The Delhi Council of Ministers advises the President on matters related to the administration of the Union Territory of Delhi."
+      "correct": 1,
+      "explanation": "The Vice-President of India is the ex-officio chairman of the Rajya Sabha."
     },
     {
       "id": 30,
       "category": "Indian Polity & Governance",
-      "question": "Which of the following is the highest court in the Indian judicial hierarchy?",
+      "question": "What is the name of the constitutional body that advises the President on the appointment of judges to the Supreme Court and the High Courts?",
       "options": [
-        "Supreme Court",
-        "High Court",
-        "District Court",
-        "Subordinate Court"
+        "National Judicial Commission",
+        "Judicial Appointment Commission",
+        "Collegium System",
+        "Law Commission of India"
       ],
-      "correct": 0,
-      "explanation": "The Supreme Court is the highest court in the Indian judicial hierarchy."
+      "correct": 2,
+      "explanation": "The Collegium System is a constitutional body that advises the President on the appointment of judges to the Supreme Court and the High Courts."
     }
   ]
 }
